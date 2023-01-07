@@ -1,0 +1,44 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Total Revenue,"4,441","3,455","3,033","3,192",FOX
+"Cost of Revenue, Total","3,667","2,164","1,715","1,656",FOX
+"Sell/Gen/AdminExpenses,Tot",468,485,552,448,FOX
+Depreciation/Amortization,93,92,99,99,FOX
+Restructuring Charge,0,0,0,--,FOX
+Litigation,32,22,10,61,FOX
+Other Unusual Expnse (In),11,17,28,16,FOX
+Unusual Expense (Income),43,39,38,77,FOX
+Total Operating Expense,"4,271","2,780","2,404","2,280",FOX
+Total Operating Income,170,675,629,912,FOX
+"Inter Expse,Net Non-Operat",(97),(91),(86),(87),FOX
+"Inter Income, Non-Operating",--,--,--,19,FOX
+"Invest Income, Non-Operat",(165),(191),(93),21,FOX
+"Inter/Invest Inc, Non-Oper",(165),(191),(93),40,FOX
+OtherNon-OperatInc (Expnse),(3),(3),(3),(20),FOX
+"Other, Net",(3),(3),(3),(20),FOX
+Income Before Tax,(95),390,447,845,FOX
+Income Tax - Total,(22),100,139,232,FOX
+Income After Tax,(73),290,308,613,FOX
+Minority Interest,(12),(7),(2),(8),FOX
+Net Inc Before Extra Items,(85),283,306,605,FOX
+Total Net Income,(85),283,306,605,FOX
+Income Available to Common Excl. Extra. Items,(85),283,306,605,FOX
+Income Available to Common Incl. Extra. Items,(85),283,306,605,FOX
+Basic/Primary Weighted Average Shares,569,566,557,550,FOX
+Basic/Primary EPS Excl. Extra. Items,(0.15),0.50,0.55,1.10,FOX
+Basic/Primary EPS Incl. Extra. Items,(0.15),0.50,0.55,1.10,FOX
+Diluted Weighted Average Shares,569,566,562,552,FOX
+Diluted EPS Excl. Extra. Items,(0.15),0.50,0.54,1.10,FOX
+Diluted EPS Incl. Extra. Items,(0.15),0.50,0.54,1.10,FOX
+Div/Share-ComStockPrimIssue,0.24,0.00,0.24,0.00,FOX
+Gross Divid - Common Stock,0,135,0,137,FOX
+Pro Forma Net Income,--,--,--,--,FOX
+"Interest Expense, Suppl",97,91,86,87,FOX
+"Depreciat/Amort, Suppl",93,92,99,99,FOX
+Total Special Items,43,39,38,77,FOX
+Normalzd Income Before Tax,(52),429,485,922,FOX
+Efct/SpecItemsIncTxs (STEC),15,10,12,21,FOX
+IncTxsExcl ImpctofSpec Itms,(7),110,151,253,FOX
+Normalized Income After Tax,(45),319,334,669,FOX
+Normalzd Inc Avail to Common,(57),312,332,661,FOX
+Basic Normalized EPS,(0.10),0.55,0.60,1.20,FOX
+Diluted Normalized EPS,(0.10),0.55,0.59,1.20,FOX

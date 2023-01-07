@@ -1,0 +1,34 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"4,215","4,846","5,185","5,991","6,989",ACN
+Depreciation/Depletion,927,893,"1,773","1,891","2,088",ACN
+Deferred Taxes,94,(96),171,61,(213),ACN
+Unusual Items,0,0,--,--,--,ACN
+Other Non-Cash Items,985,"1,006",954,"1,000","1,484",ACN
+Non-Cash Items,985,"1,006",954,"1,000","1,484",ACN
+"Cash Taxes Pd, Supplemental","1,373","1,587","1,360","1,567","1,779",ACN
+"Cash Interest Pd, Suppl",20,23,28,36,46,ACN
+Accounts Receivable,(711),(526),722,"(1,472)","(2,412)",ACN
+Other Assets,(510),(490),(503),(592),(717),ACN
+Accounts Payable,(168),177,(360),825,374,ACN
+Accrued Expenses,646,387,(8),"1,445","1,272",ACN
+Changes in Working Capital,(193),(21),132,32,(807),ACN
+Total Cash from Operations,"6,027","6,627","8,215","8,975","9,541",ACN
+Capital Expenditures,(619),(599),(599),(580),(718),ACN
+Acquisition of Business,(658),"(1,193)","(1,532)","(4,171)","(3,555)",ACN
+Sale of Business,20,28,230,414,--,ACN
+Sale of Fixed Assets,7,--,--,--,--,ACN
+Other Investing Cash Flow,--,9,6,28,13,ACN
+"OtherInvestCashFlowItms,Tot",(630),"(1,157)","(1,295)","(3,730)","(3,543)",ACN
+Total Cash from Investing,"(1,250)","(1,756)","(1,895)","(4,310)","(4,261)",ACN
+Financing Cash Flow Items,(148),(58),(47),(48),(73),ACN
+Total Cash Dividends Paid,"(1,671)","(1,862)","(2,035)","(2,234)","(2,455)",ACN
+Sale/Issuance of Common,753,848,955,"1,066","1,349",ACN
+Repurch/Retirement Common,"(2,639)","(2,691)","(2,916)","(3,703)","(4,116)",ACN
+"Iss (Retirmnt) of Stock,Net","(1,886)","(1,843)","(1,961)","(2,637)","(2,767)",ACN
+"Iss (Retirmnt) of Debt, Net",(4),(5),(7),(8),(16),ACN
+Total Cash From Financing,"(3,709)","(3,767)","(4,049)","(4,926)","(5,311)",ACN
+Foreign Exchange Effects,(134),(39),17,14,(248),ACN
+Net Change in Cash,935,"1,065","2,288",(247),(278),ACN
+NetCash-BeginBal/RsvdforFutUse,"4,127","5,061","6,127","8,415","8,168",ACN
+NetCash-EndBal/RsrvforFutUse,"5,061","6,127","8,415","8,168","7,890",ACN
+"Depreciation, Supplemental",927,893,"1,773","1,891","2,088",ACN

@@ -1,0 +1,31 @@
+items,Q3 2022,Q4 2022,Q1 2023,Q2 2023,ticker
+Net Income,"124,168","158,512","35,454","71,500",FIZZ
+Depreciation/Depletion,"13,711","18,544","5,461","10,436",FIZZ
+Deferred Taxes,(283),"5,326","1,072","1,147",FIZZ
+Unusual Items,11,(7),6,0,FIZZ
+Other Non-Cash Items,"10,641","13,953","3,334","6,934",FIZZ
+Non-Cash Items,"10,652","13,946","3,340","6,934",FIZZ
+"Cash Taxes Pd, Supplemental","42,401","51,958",79,"21,373",FIZZ
+"Cash Interest Pd, Suppl",189,371,192,224,FIZZ
+Accounts Receivable,"4,270","(7,150)","(6,681)","(6,853)",FIZZ
+Inventories,"(17,199)","(31,838)","12,965","14,909",FIZZ
+Prepaid Expenses,"(4,730)","(5,084)","11,656","3,187",FIZZ
+Accounts Payable,"(20,236)","6,545","(19,148)","(10,921)",FIZZ
+Accrued Expenses,"(17,801)","(25,668)","(3,502)","(8,101)",FIZZ
+Changes in Working Capital,"(55,696)","(63,195)","(4,710)","(7,779)",FIZZ
+Total Cash from Operations,"92,552","133,133","40,617","82,238",FIZZ
+Capital Expenditures,"(16,059)","(29,015)","(2,609)","(7,974)",FIZZ
+"OtherInvestCashFlowItms,Tot",1,11,3,27,FIZZ
+Total Cash from Investing,"(16,058)","(29,004)","(2,606)","(7,947)",FIZZ
+Total Cash Dividends Paid,"(280,003)","(280,003)",--,--,FIZZ
+"Common Stock, Net",--,0,--,--,FIZZ
+Options Exercised,292,335,0,285,FIZZ
+"Iss (Retirmnt) of Stock,Net",292,335,0,285,FIZZ
+Long Term Debt Issued,"50,000","50,000",--,--,FIZZ
+Long Term Debt Reduction,--,"(20,000)","(30,000)","(30,000)",FIZZ
+"Iss (Retirmnt) of Debt, Net","50,000","30,000","(30,000)","(30,000)",FIZZ
+Total Cash From Financing,"(229,711)","(249,668)","(30,000)","(29,715)",FIZZ
+Net Change in Cash,"(153,217)","(145,539)","8,011","44,576",FIZZ
+NetCash-BeginBal/RsvdforFutUse,"193,589","193,589","48,050","48,050",FIZZ
+NetCash-EndBal/RsrvforFutUse,"40,372","48,050","56,061","92,626",FIZZ
+"Depreciation, Supplemental","13,711","18,544","5,461","10,436",FIZZ

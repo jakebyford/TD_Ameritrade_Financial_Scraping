@@ -1,0 +1,32 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash Receipts,"176,594","186,519","248,393","264,327","284,219",CVS
+Cash Payments,"(146,469)","(148,821)","(149,655)","(158,636)","(165,783)",CVS
+"Cash Taxes Pd, Supplemental","(2,909)","(2,383)","(2,717)","(2,929)","(3,195)",CVS
+"Cash Interest Pd, Suppl","(1,072)","(2,803)","(2,954)","(2,904)","(2,469)",CVS
+Changes in Working Capital,"(18,137)","(23,647)","(80,219)","(83,993)","(94,507)",CVS
+Total Cash from Operations,"8,007","8,865","12,848","15,865","18,265",CVS
+Capital Expenditures,"(1,918)","(2,037)","(2,457)","(2,437)","(2,520)",CVS
+Acquisition of Business,"(1,181)","(42,226)",(444),(866),(146),CVS
+Sale of Business,0,832,0,840,0,CVS
+Sale of Fixed Assets,33,21,42,0,122,CVS
+Sale/Maturity of Investment,61,817,"7,049","6,467","7,246",CVS
+Purchase of Investments,(137),(692),"(7,534)","(9,639)","(9,963)",CVS
+Other Investing Cash Flow,265,0,5,101,0,CVS
+"OtherInvestCashFlowItms,Tot",(959),"(41,248)",(882),"(3,097)","(2,741)",CVS
+Total Cash from Investing,"(2,877)","(43,285)","(3,339)","(5,534)","(5,261)",CVS
+Financing Cash Flow Items,(72),350,59,337,(13),CVS
+Total Cash Dividends Paid,"(2,049)","(2,038)","(2,603)","(2,624)","(2,625)",CVS
+"Common Stock, Net","(4,361)",0,--,--,--,CVS
+Options Exercised,329,242,210,264,549,CVS
+"Iss (Retirmnt) of Stock,Net","(4,032)",242,210,264,549,CVS
+"Short Term Debt, Net",(598),(556),(720),0,0,CVS
+Long Term Debt Issued,0,"44,343","3,736","9,958",987,CVS
+Long Term Debt Reduction,0,"(5,522)","(8,336)","(15,631)","(10,254)",CVS
+"Long Term Debt, Net",0,"38,821","(4,600)","(5,673)","(9,267)",CVS
+"Iss (Retirmnt) of Debt, Net",(598),"38,265","(5,320)","(5,673)","(9,267)",CVS
+Total Cash From Financing,"(6,751)","36,819","(7,654)","(7,696)","(11,356)",CVS
+Foreign Exchange Effects,1,(4),--,--,--,CVS
+Net Change in Cash,"(1,620)","2,395","1,855","2,635","1,648",CVS
+NetCash-BeginBal/RsvdforFutUse,"3,520","1,900","6,553","8,408","11,043",CVS
+NetCash-EndBal/RsrvforFutUse,"1,900","4,295","8,408","11,043","12,691",CVS
+"Depreciation, Supplemental","2,479","2,718","4,371","4,441","4,512",CVS

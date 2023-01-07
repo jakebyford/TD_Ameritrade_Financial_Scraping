@@ -1,0 +1,49 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"6,845","7,604","6,797","6,018","8,453",HUN
+"Cost of Revenue, Total","5,194","5,840","5,415","4,918","6,678",HUN
+"Sell/Gen/AdminExpenses,Tot",759,789,786,775,851,HUN
+Research & Development,132,145,137,135,150,HUN
+Restructuring Charge,19,(7),(41),49,40,HUN
+Other Unusual Expnse (In),82,5,23,(247),(466),HUN
+Unusual Expense (Income),101,(2),(18),(198),(426),HUN
+"Other Operat Expse, Total",(16),8,31,(45),(33),HUN
+Total Operating Expense,"6,170","6,780","6,351","5,585","7,220",HUN
+Total Operating Income,675,824,446,433,"1,233",HUN
+"Inter Expse, Non-Operating",(174),(119),(115),(93),(78),HUN
+"Inter Capital, Non-Operat",9,4,4,7,11,HUN
+"Inter Expse,Net Non-Operat",(165),(115),(111),(86),(67),HUN
+"Inter/Invest Inc, Non-Oper",13,(7),36,(46),115,HUN
+OtherNon-OperatInc (Expnse),8,32,20,36,32,HUN
+"Other, Net",8,32,20,36,32,HUN
+Income Before Tax,531,734,391,337,"1,313",HUN
+Income Tax - Total,72,13,(37),46,209,HUN
+Income After Tax,459,721,428,291,"1,104",HUN
+Minority Interest,(95),(307),(36),(32),(59),HUN
+Net Inc Before Extra Items,364,414,392,259,"1,045",HUN
+Discontinued Operations,331,41,204,"1,017",0,HUN
+Extraordinary Item,52,(32),1,0,--,HUN
+Tax on Extraordinary Items,(111),(86),(35),(242),--,HUN
+Total Extraordinary Items,272,(77),170,775,0,HUN
+Total Net Income,636,337,562,"1,034","1,045",HUN
+Income Available to Common Excl. Extra. Items,364,414,392,259,"1,045",HUN
+Income Available to Common Incl. Extra. Items,636,337,562,"1,034","1,045",HUN
+Basic/Primary Weighted Average Shares,238,238,229,221,219,HUN
+Basic/Primary EPS Excl. Extra. Items,1.53,1.74,1.71,1.17,4.77,HUN
+Basic/Primary EPS Incl. Extra. Items,2.67,1.42,2.46,4.69,4.77,HUN
+Diluted Weighted Average Shares,244,242,231,222,221,HUN
+Diluted EPS Excl. Extra. Items,1.49,1.71,1.70,1.17,4.72,HUN
+Diluted EPS Incl. Extra. Items,2.61,1.39,2.44,4.66,4.72,HUN
+Div/Share-ComStockPrimIssue,0.50,0.65,0.65,0.65,0.73,HUN
+Gross Divid - Common Stock,120,156,150,145,160,HUN
+Pro Forma Net Income,--,--,--,--,--,HUN
+"Interest Expense, Suppl",165,115,111,86,67,HUN
+"Interest Capitalized, Suppl",(9),(4),(4),(7),(11),HUN
+"Depreciat/Amort, Suppl",226,240,245,242,256,HUN
+Total Special Items,104,8,26,(194),(421),HUN
+Normalzd Income Before Tax,635,742,417,143,892,HUN
+Efct/SpecItemsIncTxs (STEC),14,0,9,(26),(67),HUN
+IncTxsExcl ImpctofSpec Itms,86,13,(28),20,142,HUN
+Normalized Income After Tax,549,729,445,123,750,HUN
+Normalzd Inc Avail to Common,454,422,409,91,691,HUN
+Basic Normalized EPS,1.90,1.77,1.79,0.41,3.15,HUN
+Diluted Normalized EPS,1.86,1.75,1.77,0.41,3.12,HUN

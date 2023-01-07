@@ -1,0 +1,36 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"30,550","16,039","19,788","18,348","22,618",VZ
+Depreciation/Depletion,"16,954","17,403","16,682","16,720","16,206",VZ
+Deferred Taxes,"(14,463)",389,"1,232","1,553","4,264",VZ
+Unusual Items,"(1,774)","4,591",280,0,0,VZ
+Equity in Net Earnings/Loss,117,231,74,91,36,VZ
+Other Non-Cash Items,"1,607","(1,677)","1,304","2,220","(2,602)",VZ
+Non-Cash Items,(50),"3,145","1,658","2,311","(2,566)",VZ
+"Cash Taxes Pd, Supplemental","4,432","2,213","3,583","2,725","3,040",VZ
+"Cash Interest Pd, Suppl","4,369","4,408","4,714","4,420","3,435",VZ
+Accounts Receivable,"(5,674)","(2,667)","(1,471)",189,"(1,592)",VZ
+Inventories,168,(324),(76),(369),(905),VZ
+Prepaid Expenses,27,37,"(2,807)","1,202",150,VZ
+Payable/Accrued,(459),"1,777","(2,359)",(966),"1,457",VZ
+Changes in Working Capital,"(8,673)","(2,637)","(3,614)","2,836",(983),VZ
+Total Cash from Operations,"24,318","34,339","35,746","41,768","39,539",VZ
+Purchase of Fixed Assets,"(17,247)","(16,658)","(17,939)","(18,192)","(20,286)",VZ
+Purchase/Acq of Intangibles,(583),"(1,429)",(898),"(2,126)","(47,596)",VZ
+Capital Expenditures,"(17,830)","(18,087)","(18,837)","(20,318)","(67,882)",VZ
+Acquisition of Business,"(5,880)",(230),(29),(520),"(4,065)",VZ
+Sale of Business,"3,614",0,28,0,"4,122",VZ
+Other Investing Cash Flow,"1,640",383,"1,257","(2,674)",672,VZ
+"OtherInvestCashFlowItms,Tot",(626),153,"1,256","(3,194)",729,VZ
+Total Cash from Investing,"(18,456)","(17,934)","(17,581)","(23,512)","(67,153)",VZ
+Financing Cash Flow Items,(670),(893),"(2,917)","(2,712)","(3,832)",VZ
+Total Cash Dividends Paid,"(9,472)","(9,772)","(10,016)","(10,232)","(10,445)",VZ
+"Short Term Debt, Net",(170),(790),--,--,--,VZ
+Long Term Debt Issued,"31,997","10,777","18,655","31,457","41,417",VZ
+Long Term Debt Reduction,"(24,237)","(14,558)","(23,886)","(17,188)","(18,863)",VZ
+"Long Term Debt, Net","4,161","(3,922)","(5,231)","14,269","22,554",VZ
+"Iss (Retirmnt) of Debt, Net","3,991","(4,712)","(5,231)","14,269","22,554",VZ
+Total Cash From Financing,"(6,151)","(15,377)","(18,164)","1,325","8,277",VZ
+Net Change in Cash,(289),"1,028",1,"19,581","(19,337)",VZ
+NetCash-BeginBal/RsvdforFutUse,"3,177","2,888","3,916","3,917","23,498",VZ
+NetCash-EndBal/RsrvforFutUse,"2,888","3,916","3,917","23,498","4,161",VZ
+"Depreciation, Supplemental","16,954","17,403","16,682","16,720","16,206",VZ

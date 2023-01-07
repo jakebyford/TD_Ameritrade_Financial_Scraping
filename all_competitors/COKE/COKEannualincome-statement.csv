@@ -1,0 +1,42 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"4,288","4,625","4,827","5,007","5,563",COKE
+"Cost of Revenue, Total","2,783","3,070","3,156","3,237","3,609",COKE
+"Sell/Gen/AdminExpenses,Tot","1,403","1,502","1,475","1,451","1,509",COKE
+Depreciation/Amortization,--,--,5,5,6,COKE
+"Inter/Invest Inc, Operating",0,(4),4,--,--,COKE
+Impair-Assets Held for Use,--,--,--,2,--,COKE
+Other Unusual Expnse (In),(12),(10),7,0,--,COKE
+Unusual Expense (Income),(12),(10),7,2,--,COKE
+Total Operating Expense,"4,174","4,557","4,646","4,694","5,124",COKE
+Total Operating Income,113,68,181,313,439,COKE
+"Inter Expse,Net Non-Operat",(42),(51),(46),(37),(33),COKE
+OtherNon-OperatInc (Expnse),(9),(31),(101),(36),(151),COKE
+"Other, Net",(9),(31),(101),(36),(151),COKE
+Income Before Tax,63,(13),34,241,255,COKE
+Income Tax - Total,27,4,16,59,66,COKE
+Income After Tax,36,(17),19,182,190,COKE
+Minority Interest,(6),(5),(7),(10),0,COKE
+Net Inc Before Extra Items,30,(22),11,172,190,COKE
+Total Extraordinary Items,67,2,0,0,0,COKE
+Total Net Income,97,(20),11,172,190,COKE
+Income Available to Common Excl. Extra. Items,30,(22),11,172,190,COKE
+Income Available to Common Incl. Extra. Items,97,(20),11,172,190,COKE
+Basic/Primary Weighted Average Shares,7,9,9,9,9,COKE
+Basic/Primary EPS Excl. Extra. Items,4.19,(2.34),1.21,18.40,20.22,COKE
+Basic/Primary EPS Incl. Extra. Items,13.52,(2.13),1.21,18.40,20.22,COKE
+Diluted Weighted Average Shares,9,9,12,12,12,COKE
+Diluted EPS Excl. Extra. Items,3.20,(2.34),0.97,14.73,16.26,COKE
+Diluted EPS Incl. Extra. Items,10.30,(2.13),0.97,14.73,16.26,COKE
+Div/Share-ComStockPrimIssue,1.00,1.00,1.00,1.00,1.00,COKE
+Gross Divid - Common Stock,9,9,9,9,9,COKE
+Pro Forma Net Income,--,--,--,--,--,COKE
+"Interest Expense, Suppl",42,51,46,37,33,COKE
+"Depreciat/Amort, Suppl",150,165,157,156,157,COKE
+Total Special Items,22,15,7,25,(110),COKE
+Normalzd Income Before Tax,85,2,41,266,145,COKE
+Efct/SpecItemsIncTxs (STEC),9,5,3,(6),(6),COKE
+IncTxsExcl ImpctofSpec Itms,36,9,19,53,59,COKE
+Normalized Income After Tax,49,(7),22,213,86,COKE
+Normalzd Inc Avail to Common,42,(12),15,203,86,COKE
+Basic Normalized EPS,5.95,(1.28),1.61,21.66,9.20,COKE
+Diluted Normalized EPS,4.54,(1.28),1.29,17.33,7.39,COKE

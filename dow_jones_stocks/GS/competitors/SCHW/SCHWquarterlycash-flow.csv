@@ -1,0 +1,39 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"5,855","1,402","3,195","5,215",SCHW
+Depreciation/Depletion,549,150,309,476,SCHW
+Amortization,615,154,308,460,SCHW
+Deferred Taxes,53,(19),(37),(57),SCHW
+Non-Cash Items,"2,972",728,"1,261","1,783",SCHW
+"Cash Taxes Pd, Supplemental","2,053",50,837,"1,436",SCHW
+"Cash Interest Pd, Suppl",501,153,286,722,SCHW
+Accounts Receivable,"(26,168)","6,487","14,420","16,683",SCHW
+Other Assets,"(4,550)","(4,687)","(10,679)","(1,119)",SCHW
+Accounts Payable,"21,470",(364),"(10,791)","(15,659)",SCHW
+Accrued Expenses,"1,322",(798),"(2,876)","(3,618)",SCHW
+Changes in Working Capital,"(7,926)",638,"(9,926)","(3,713)",SCHW
+Total Cash from Operations,"2,118","3,053","(4,890)","4,164",SCHW
+Capital Expenditures,(916),(296),(537),(769),SCHW
+Sale of Business,0,--,--,--,SCHW
+Sale/Maturity of Investment,"108,218","29,918","50,665","76,971",SCHW
+Purchase of Investments,"(171,977)","(30,737)","(46,539)","(49,982)",SCHW
+Other Investing Cash Flow,"(10,988)","(2,527)","(4,841)","(5,712)",SCHW
+"OtherInvestCashFlowItms,Tot","(74,747)","(3,346)",(715),"21,277",SCHW
+Total Cash from Investing,"(75,663)","(3,642)","(1,252)","20,508",SCHW
+Financing Cash Flow Items,"85,652","22,000","(1,821)","(48,116)",SCHW
+Cash Divids Paid - Common,"(1,366)",(391),(769),"(1,185)",SCHW
+Cash Divs Paid - Preferred,(456),(118),(251),(374),SCHW
+Total Cash Dividends Paid,"(1,822)",(509),"(1,020)","(1,559)",SCHW
+"Common Stock, Net",0,--,--,"(1,455)",SCHW
+Sale/Issuance of Preferred,"2,806",740,740,740,SCHW
+Repurch/Retirement Preferd,(600),--,0,0,SCHW
+"Preferred Stock, Net","2,206",740,740,740,SCHW
+Options Exercised,221,30,33,42,SCHW
+"Iss (Retirmnt) of Stock,Net","2,427",770,773,(673),SCHW
+Long Term Debt Issued,"18,143","4,119","4,124","4,624",SCHW
+Long Term Debt Reduction,"(8,077)","(1,771)","(5,426)","(7,040)",SCHW
+"Iss (Retirmnt) of Debt, Net","10,066","2,348","(1,302)","(2,416)",SCHW
+Total Cash From Financing,"96,323","24,609","(3,370)","(52,764)",SCHW
+Net Change in Cash,"22,778","24,020","(9,512)","(28,092)",SCHW
+NetCash-BeginBal/RsvdforFutUse,"70,560","93,338","93,338","93,338",SCHW
+NetCash-EndBal/RsrvforFutUse,"93,338","117,358","83,826","65,246",SCHW
+"Depreciation, Supplemental",549,150,309,476,SCHW

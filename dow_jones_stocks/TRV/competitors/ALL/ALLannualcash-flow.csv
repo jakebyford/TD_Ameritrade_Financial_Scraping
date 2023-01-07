@@ -1,0 +1,39 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"3,189","2,252","4,847","5,576","1,566",ALL
+Depreciation/Depletion,483,511,647,686,"1,086",ALL
+Discontinued Operations,--,--,--,--,"4,031",ALL
+Unusual Items,(340),871,"(1,785)","(1,360)","(1,283)",ALL
+Other Non-Cash Items,690,654,754,587,(196),ALL
+Non-Cash Items,350,"1,525","(1,031)",(773),"2,552",ALL
+"Cash Taxes Pd, Supplemental",968,731,648,"(1,480)","1,050",ALL
+"Cash Interest Pd, Suppl",332,330,312,311,321,ALL
+Changes in Working Capital,292,887,666,2,(88),ALL
+Total Cash from Operations,"4,314","5,175","5,129","5,491","5,116",ALL
+Capital Expenditures,(299),(277),(433),(308),(345),ALL
+Acquisition of Business,"(1,356)",(558),(18),--,"(3,593)",ALL
+Sale of Business,--,--,--,1,"2,058",ALL
+Sale/Maturity of Investment,"38,680","45,822","39,009","44,719","41,413",ALL
+"Investment, Net","2,580",(603),(725),"(3,871)","4,017",ALL
+Purchase of Investments,"(40,169)","(45,439)","(40,491)","(44,405)","(43,679)",ALL
+Other Investing Cash Flow,(646),(664),(149),423,639,ALL
+"OtherInvestCashFlowItms,Tot",(911),"(1,442)","(2,374)","(3,133)",855,ALL
+Total Cash from Investing,"(1,210)","(1,719)","(2,807)","(3,441)",510,ALL
+Financing Cash Flow Items,(922),(866),(537),(462),(349),ALL
+Cash Divids Paid - Common,(525),(614),(653),(668),(885),ALL
+Cash Divs Paid - Preferred,(116),(134),(134),(108),(114),ALL
+Total Cash Dividends Paid,(641),(748),(787),(776),(999),ALL
+Sale/Issuance of Common,135,73,120,63,--,ALL
+Repurch/Retirement Common,"(1,495)","(2,303)","(1,735)","(1,737)","(3,120)",ALL
+"Common Stock, Net","(1,360)","(2,230)","(1,615)","(1,674)","(3,006)",ALL
+Sale/Issuance of Preferred,--,557,"1,414",0,--,ALL
+Repurch/Retirement Preferd,--,(385),"(1,132)",(288),(450),ALL
+"Preferred Stock, Net",--,172,282,(288),(450),ALL
+"Iss (Retirmnt) of Stock,Net","(1,360)","(2,058)","(1,333)","(1,962)","(3,456)",ALL
+Long Term Debt Issued,0,498,491,"1,189",0,ALL
+Long Term Debt Reduction,0,(400),(317),0,(436),ALL
+"Iss (Retirmnt) of Debt, Net",0,98,174,"1,189",(436),ALL
+Total Cash From Financing,"(2,923)","(3,574)","(2,483)","(2,011)","(5,240)",ALL
+Net Change in Cash,181,(118),(161),39,386,ALL
+NetCash-BeginBal/RsvdforFutUse,436,617,499,338,377,ALL
+NetCash-EndBal/RsrvforFutUse,617,499,338,377,763,ALL
+"Depreciation, Supplemental",483,511,647,686,"1,086",ALL

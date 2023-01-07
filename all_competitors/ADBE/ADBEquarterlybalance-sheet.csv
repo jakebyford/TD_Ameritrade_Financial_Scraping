@@ -1,0 +1,45 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Cash,644,740,595,--,ADBE
+Cash & Equivalents,"2,095","2,625","3,275","4,236",ADBE
+Short Term Investments,"1,962","1,934","1,894","1,860",ADBE
+Cash and Short Term Invs,"4,701","5,299","5,764","6,096",ADBE
+"Trade Accts Recvble, Gross","1,703","1,607","1,747",--,ADBE
+Prov. for Doubtful Accts,(18),(19),(24),--,ADBE
+"Total Receivables, Net","1,685","1,588","1,723","2,065",ADBE
+Prepaid Expenses,"1,090","1,021","1,002",835,ADBE
+Total Current Assets,"7,476","7,908","8,489","8,996",ADBE
+Prop./Plant/Equip. - Net,"2,138","2,220","2,272","2,315",ADBE
+"Goodwill, Net","12,795","12,801","12,756","12,787",ADBE
+Intangibles - Gross,"2,719","2,715","2,696",--,ADBE
+Accum. Intangible Amort.,(976),"(1,065)","(1,148)",--,ADBE
+Intangibles - Net,"1,743","1,650","1,548","1,449",ADBE
+Other Long Term Assets,874,865,880,841,ADBE
+Total Assets,"25,976","26,326","26,744","27,165",ADBE
+Accounts Payable,295,366,316,379,ADBE
+Accrued Expenses,"1,315","1,599","1,462","1,877",ADBE
+Notes Payable/ST Debt,0,0,0,--,ADBE
+Curr. Port. LT Dbt/Cap Ls.,499,499,500,500,ADBE
+Customer Advances,"4,894","4,753","4,829","5,297",ADBE
+Income Taxes Payable,194,168,180,75,ADBE
+Other Current Liabilities,--,--,151,--,ADBE
+"Other Curr. Lblts, Total","5,088","4,921","5,160","5,372",ADBE
+Total Current Liabilities,"7,197","7,385","7,438","8,128",ADBE
+Total Long Term Debt,"3,626","3,627","3,627","3,629",ADBE
+Total Debt,"4,125","4,126","4,127","4,129",ADBE
+Deferred Income Tax,4,4,3,28,ADBE
+"Other Liabilities, Total","1,374","1,325","1,303","1,329",ADBE
+Total Liabilities,"12,201","12,341","12,371","13,114",ADBE
+"Pref. Stock-Non Rdmbl, Net",0,0,0,--,ADBE
+Common Stock,0,0,0,--,ADBE
+Additional Paid-In Capital,"8,750","9,102","9,548","9,868",ADBE
+Ret. Earn.(Accum. Deficit),"24,961","26,022","27,158","28,319",ADBE
+Treasury Stock - Common,"(19,759)","(20,944)","(22,109)","(23,843)",ADBE
+Unrealized Gain (Loss),(16),(31),(37),--,ADBE
+Cum. Trans. Adjustment,(198),(236),(320),--,ADBE
+Other Equity,0,0,0,--,ADBE
+Other Comprehensive Income,37,72,133,(293),ADBE
+"Other Equity, Total",(161),(164),(187),(293),ADBE
+Total Equity,"13,775","13,985","14,373","14,051",ADBE
+Total Liabilities & Shareholders’ Equity,"25,976","26,326","26,744","27,165",ADBE
+Ttl Comm. Shares Outs.,472,471,467,465,ADBE
+Trsy. Shrs-Comm. Primary Iss.,129,130,134,134,ADBE

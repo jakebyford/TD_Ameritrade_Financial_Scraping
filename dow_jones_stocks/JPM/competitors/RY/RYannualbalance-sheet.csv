@@ -1,0 +1,77 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash & Due from Banks,"30,209","26,310","118,888","113,886","72,436",RY
+Interest-Earning Deposits,"36,471","44,033","48,829","91,079","122,695",RY
+Fed. Fund/Resale,"294,602","322,590","331,134","322,444","343,479",RY
+Trading Account Assets,--,"146,534","136,071","139,240","148,205",RY
+Other Short Trm Invest.,"94,039","101,560","115,374","98,166","157,037",RY
+Securities Held,"61,221",--,--,--,--,RY
+Securities for Sale,"161,645","102,470","139,743","145,484","170,018",RY
+Total Invest. Securities,"222,866","102,470","139,743","145,484","170,018",RY
+Other Earning Assets,991,"6,079","6,044","8,792","8,759",RY
+Customer Acceptances,"15,641","18,062","18,507","19,798","17,827",RY
+"Other Erng. Assets, Total","664,610","741,328","795,702","825,003","968,020",RY
+Total Gross Loans,"579,730","621,956","666,631","721,664","823,718",RY
+Loan Loss Allowances,"(2,912)","(3,100)","(5,639)","(4,089)","(3,753)",RY
+Net Loans,"576,818","618,856","660,992","717,575","819,965",RY
+Buildings,"1,399","1,395","1,416","1,419","1,261",RY
+Land/Improvements,"2,879","3,154","3,535","3,639","2,986",RY
+Machinery/Equipment,"2,123","2,325","2,222","2,380","1,169",RY
+Construction in Progress,264,432,203,170,120,RY
+Other Prop./Plant/Equip.,"1,373","1,557","7,276","7,493","6,883",RY
+Prop./Plant/Equip. - Gross,"8,038","8,863","14,652","15,101","12,419",RY
+Accumulated Depreciation,"(5,206)","(5,672)","(6,718)","(7,677)","(5,205)",RY
+Prop./Plant/Equip. - Net,"2,832","3,191","7,934","7,424","7,214",RY
+"Goodwill, Net","11,137","11,236","11,302","10,854","12,277",RY
+Intangibles - Gross,"12,230","13,205","14,320","14,788","11,621",RY
+Accum. Intangible Amort.,"(7,543)","(8,531)","(9,568)","(10,317)","(5,538)",RY
+Intangibles - Net,"4,687","4,674","4,752","4,471","6,083",RY
+Long Term Investments,686,652,652,654,711,RY
+Pension Bene. - Overfunded,626,147,143,"2,640","3,331",RY
+Def. Inc. Tax - LT Asset,"1,475","1,989","2,579","2,011","1,472",RY
+Interest Receivable,361,"3,282","4,733","3,814","6,475",RY
+Other Assets,"41,293","17,270","16,871","17,991","19,235",RY
+"Other Assets, Total","41,654","20,552","21,604","21,805","25,710",RY
+Total Assets,"1,334,734","1,428,935","1,624,548","1,706,323","1,917,219",RY
+Accounts Payable,"4,078","3,241","5,108","6,461","10,974",RY
+Payable/Accrued,"1,531","1,598","1,500","1,867","1,292",RY
+Accrued Expenses,"9,296","10,912","10,331","11,518","14,010",RY
+Non-Interest Bearing Dep.,"270,154","294,732","343,052","362,488","404,932",RY
+Interest Bearing Deposits,"534,371","565,482","624,311","696,353","759,870",RY
+Total Deposits,"837,046","886,005","1,011,885","1,100,831","1,208,814",RY
+"Other Bearing Lblts, Total","15,662","18,091","18,618","19,873","17,872",RY
+Total ST Borrowings,"239,061","259,254","287,699","276,176","307,106",RY
+Curr. Port. LT Dbt/Cap Ls.,--,0,0,188,110,RY
+Dividends Payable,"1,482","1,567","1,611","1,622","1,856",RY
+Income Taxes Payable,"2,071","2,202","2,209","3,403","2,136",RY
+"Other Curr. Lblts, Total","3,553","3,769","3,820","5,025","3,992",RY
+Long Term Debt,"9,131","12,216","25,684","33,271","12,267",RY
+Capital Lease Obligations,--,--,"5,357","5,077","5,110",RY
+Total Long Term Debt,"9,131","12,216","31,041","38,348","17,377",RY
+Total Debt,"248,192","271,470","318,740","314,712","324,593",RY
+Deferred Income Tax,84,82,52,74,439,RY
+Minority Interest,94,102,103,95,111,RY
+Reserves,507,581,618,601,627,RY
+Pension Benefits - Underfunded,--,"2,699","2,424","2,038","1,668",RY
+Other Liabilities,"134,830","146,862","164,685","144,561","224,763",RY
+"Other Liabilities, Total","135,337","150,142","167,727","147,200","227,058",RY
+Total Liabilities,"1,254,873","1,345,412","1,537,884","1,607,656","1,809,155",RY
+Conv. Pref. Stk-Non Rdmbl.,"6,306","5,706","5,948","6,723","7,323",RY
+Treasury Stock - Preferred,3,1,(3),(39),(5),RY
+"Pref. Stock-Non Rdmbl, Net","6,309","5,707","5,945","6,684","7,318",RY
+Common Stock,"17,635","17,645","17,628","17,728","17,318",RY
+Ret. Earn.(Accum. Deficit),"51,112","55,981","59,806","71,795","78,037",RY
+Treasury Stock - Common,(18),(58),(129),(73),(334),RY
+Unrealized Gain (Loss),(12),33,(139),(88),"(2,357)",RY
+Cum. Trans. Adjustment,"4,147","4,221","4,632","2,055","5,688",RY
+Other Comprehensive Income,688,(6),"(1,079)",566,"2,394",RY
+"Other Equity, Total","4,835","4,215","3,553","2,621","8,082",RY
+Total Equity,"79,861","83,523","86,664","98,667","108,064",RY
+Total Liabilities & Shareholders’ Equity,"1,334,734","1,428,935","1,624,548","1,706,323","1,917,219",RY
+Ttl Comm. Shares Outs.,"1,439","1,430","1,421","1,424","1,383",RY
+Trsy. Shrs-Comm. Primary Iss.,0,1,1,1,3,RY
+Shrs Out-Pref Primary Iss.,12,12,0,--,--,RY
+Shrs Out-Pref Stk Iss. 2,12,12,0,--,--,RY
+Shrs Out-Pref Stk Iss. 3,0,--,--,--,--,RY
+Shrs Out-Pref Stk Iss. 4,8,8,0,--,--,RY
+Shrs Out-Pref Stk Iss. 6,209,195,169,112,107,RY
+Trsry Shrs-Pref. Iss. 1,0,0,0,0,0,RY

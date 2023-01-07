@@ -1,0 +1,54 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash & Due from Banks,"4,164","5,107","4,825","3,716",COF
+Interest-Earning Deposits,"17,582","21,697","16,728","21,176",COF
+Total Invest. Securities,"95,261","89,076","83,022","75,303",COF
+Loans Held for Sale,"5,888","1,155",875,"1,729",COF
+"Other Erng. Assets, Total","118,731","111,928","100,625","98,208",COF
+Total Gross Loans,"277,340","280,466","296,384","303,943",COF
+Loan Loss Allowances,"(11,430)","(11,308)","(11,491)","(12,209)",COF
+Net Loans,"265,910","269,158","284,893","291,734",COF
+Prop./Plant/Equip. - Net,"4,210","4,238","4,238","4,265",COF
+"Goodwill, Net","14,782","14,784","14,778","14,771",COF
+Intangibles - Gross,864,883,892,"1,005",COF
+Accum. Intangible Amort.,(333),(355),(374),(391),COF
+Intangibles - Net,531,528,518,614,COF
+Interest Receivable,"1,460","1,479","1,611","1,853",COF
+Other Assets,"22,593","26,973","28,800","29,071",COF
+"Other Assets, Total","24,053","28,452","30,411","30,924",COF
+Total Assets,"432,381","434,195","440,288","444,232",COF
+Accounts Payable,281,261,333,433,COF
+Non-Interest Bearing Dep.,--,"37,781","37,004","34,391",COF
+Interest Bearing Deposits,--,"275,648","270,881","282,802",COF
+Total Deposits,"310,980","313,429","307,885","317,193",COF
+"Other Bearing Lblts, Total",--,--,"10,500","7,500",COF
+Total ST Borrowings,820,594,440,528,COF
+Long Term Debt,"42,213","40,716","47,955","46,541",COF
+Capital Lease Obligations,53,"4,048",43,38,COF
+Total Long Term Debt,"42,266","44,764","47,998","46,579",COF
+Total Debt,"43,086","45,358","48,438","47,107",COF
+"Other Liabilities, Total","17,005","18,802","19,722","21,138",COF
+Total Liabilities,"371,352","377,850","386,878","393,371",COF
+Redeemable Preferred Stock,"4,975","4,975","4,975","4,975",COF
+Pref. Stock - Non Rdmbl.,(130),(130),(130),(130),COF
+Conv. Pref. Stk-Non Rdmbl.,0,0,0,0,COF
+"Pref. Stock-Non Rdmbl, Net",(130),(130),(130),(130),COF
+Common Stock,7,7,7,7,COF
+Additional Paid-In Capital,"29,267","29,441","29,580","29,734",COF
+Ret. Earn.(Accum. Deficit),"51,006","53,099","54,836","56,240",COF
+Treasury Stock - Common,"(24,470)","(26,954)","(28,942)","(29,261)",COF
+Unrealized Gain (Loss),297,"(2,956)","(5,244)","(8,179)",COF
+Cum. Trans. Adjustment,(21),(26),(78),(126),COF
+Other Comprehensive Income,98,"(1,111)","(1,594)","(2,399)",COF
+"Other Equity, Total",77,"(1,137)","(1,672)","(2,525)",COF
+Total Equity,"61,029","56,345","53,410","50,861",COF
+Total Liabilities & Shareholders’ Equity,"432,381","434,195","440,288","444,232",COF
+Ttl Comm. Shares Outs.,414,399,384,382,COF
+Trsy. Shrs-Comm. Primary Iss.,271,289,304,307,COF
+Shrs Out-Pref Primary Iss.,0,1,1,1,COF
+Shrs Out-Pref Stk Iss. 2,0,--,--,--,COF
+Shrs Out-Pref Stk Iss. 4,0,--,--,--,COF
+Shrs Out-Pref Stk Iss. 6,1,--,--,--,COF
+Trsry Shrs-Pref. Iss. 1,0,0,0,0,COF
+Trsry Shrs-Pref. Iss. 2,0,--,--,--,COF
+Trsry Shrs-Pref. Iss. 4,0,--,--,--,COF
+Trsry Shrs-Pref. Iss. 6,0,--,--,--,COF

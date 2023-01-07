@@ -1,0 +1,36 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"1,402","1,404","1,595","1,629",COKE
+"Cost of Revenue, Total",910,897,"1,045","1,007",COKE
+"Sell/Gen/AdminExpenses,Tot",406,377,403,431,COKE
+Total Operating Expense,"1,315","1,273","1,448","1,439",COKE
+Total Operating Income,87,131,147,190,COKE
+"Inter Expse,Net Non-Operat",(8),(8),(7),(6),COKE
+OtherNon-OperatInc (Expnse),(56),3,(6),(25),COKE
+"Other, Net",(56),3,(6),(25),COKE
+Income Before Tax,22,127,134,159,COKE
+Income Tax - Total,3,33,34,40,COKE
+Income After Tax,19,93,100,119,COKE
+Minority Interest,0,--,--,--,COKE
+Net Inc Before Extra Items,19,93,100,119,COKE
+Total Net Income,19,93,100,119,COKE
+Income Available to Common Excl. Extra. Items,19,93,100,119,COKE
+Income Available to Common Incl. Extra. Items,19,93,100,119,COKE
+Basic/Primary Weighted Average Shares,16,9,9,9,COKE
+Basic/Primary EPS Excl. Extra. Items,1.19,9.96,10.62,12.67,COKE
+Basic/Primary EPS Incl. Extra. Items,1.19,9.96,10.62,12.67,COKE
+Diluted Weighted Average Shares,18,11,10,10,COKE
+Diluted EPS Excl. Extra. Items,1.04,8.17,9.55,11.37,COKE
+Diluted EPS Incl. Extra. Items,1.04,8.17,9.55,11.37,COKE
+Div/Share-ComStockPrimIssue,0.25,0.00,0.25,0.25,COKE
+Gross Divid - Common Stock,2,2,2,2,COKE
+Pro Forma Net Income,--,--,--,--,COKE
+"Interest Expense, Suppl",8,8,7,6,COKE
+"Depreciat/Amort, Suppl",39,37,37,37,COKE
+Total Special Items,(178),(4),3,17,COKE
+Normalzd Income Before Tax,(156),122,137,176,COKE
+Efct/SpecItemsIncTxs (STEC),(6),(1),1,4,COKE
+IncTxsExcl ImpctofSpec Itms,(3),32,35,45,COKE
+Normalized Income After Tax,(152),90,102,131,COKE
+Normalzd Inc Avail to Common,(152),90,102,131,COKE
+Basic Normalized EPS,(9.49),9.64,10.86,14.02,COKE
+Diluted Normalized EPS,(8.29),7.90,9.76,12.59,COKE

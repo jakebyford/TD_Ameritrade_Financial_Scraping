@@ -1,0 +1,48 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"5,475","5,667","4,688","3,797","3,655",ADS
+"Cost of Revenue, Total","2,470","2,537",479,396,323,ADS
+Selling/Gen/Admin Expense,159,131,205,143,160,ADS
+Labor & Related Expense,--,21,721,609,671,ADS
+"Sell/Gen/AdminExpenses,Tot",159,152,926,752,831,ADS
+Depreciation,74,81,96,106,92,ADS
+Amortiz of Intangibles,114,113,--,--,--,ADS
+Depreciation/Amortization,188,194,96,106,92,ADS
+"Inter Expense,Net Operatng",--,--,638,499,383,ADS
+"Inter/Invest Inc, Operating",--,11,--,--,--,ADS
+Other Operating Expense,--,--,699,477,438,ADS
+"Other, Net","1,140","1,016","1,188","1,266",544,ADS
+"Other Operat Expse, Total","1,140","1,016","1,887","1,743",982,ADS
+Total Operating Expense,"3,957","3,909","4,026","3,496","2,611",ADS
+Total Operating Income,"1,518","1,757",662,301,"1,044",ADS
+"Inter Expse,Net Non-Operat",(455),(542),--,--,--,ADS
+Income Before Tax,"1,063","1,215",662,301,"1,044",ADS
+Income Tax - Total,293,299,186,95,255,ADS
+Income After Tax,769,916,476,206,789,ADS
+Net Inc Before Extra Items,769,916,476,206,789,ADS
+Discontinued Operations,19,9,457,(17),38,ADS
+Extraordinary Item,--,30,30,2,8,ADS
+Tax on Extraordinary Items,1,9,(685),23,(34),ADS
+Total Extraordinary Items,20,47,(198),8,12,ADS
+Total Net Income,789,963,278,214,801,ADS
+Preferred Dividends,--,0,(3),--,--,ADS
+Misc Earnings Adjustment,--,0,(6),--,--,ADS
+Total Adjust to Net Income,--,0,(9),--,--,ADS
+Income Available to Common Excl. Extra. Items,769,916,467,206,789,ADS
+Income Available to Common Incl. Extra. Items,789,963,269,214,801,ADS
+Basic/Primary Weighted Average Shares,56,55,50,48,50,ADS
+Basic/Primary EPS Excl. Extra. Items,13.81,16.68,9.34,4.31,15.88,ADS
+Basic/Primary EPS Incl. Extra. Items,14.16,17.54,5.38,4.48,16.12,ADS
+Diluted Weighted Average Shares,56,55,51,48,50,ADS
+Diluted EPS Excl. Extra. Items,13.76,16.62,9.17,4.30,15.78,ADS
+Diluted EPS Incl. Extra. Items,14.11,17.48,5.28,4.47,16.02,ADS
+Div/Share-ComStockPrimIssue,2.08,2.28,2.52,1.26,0.84,ADS
+Gross Divid - Common Stock,116,125,127,60,42,ADS
+Pro Forma Net Income,--,--,--,--,--,ADS
+"Interest Expense, Suppl",455,542,638,499,383,ADS
+"Depreciat/Amort, Suppl",383,374,30,57,63,ADS
+Normalzd Income Before Tax,"1,063","1,215",662,301,"1,044",ADS
+IncTxsExcl ImpctofSpec Itms,293,299,186,95,255,ADS
+Normalized Income After Tax,769,916,476,206,789,ADS
+Normalzd Inc Avail to Common,769,916,467,206,789,ADS
+Basic Normalized EPS,13.81,16.68,9.34,4.31,15.88,ADS
+Diluted Normalized EPS,13.76,16.62,9.17,4.30,15.78,ADS

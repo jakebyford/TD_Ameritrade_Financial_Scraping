@@ -1,0 +1,60 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash & Equivalents,"20,945","20,886","17,936","21,984",GOOG
+Short Term Investments,"118,704","113,084","107,061","94,275",GOOG
+Cash and Short Term Invs,"139,649","133,970","124,997","116,259",GOOG
+"Trade Accts Recvble, Gross","40,693",--,"36,341","35,428",GOOG
+Prov. for Doubtful Accts,"(1,389)",--,(634),(731),GOOG
+"Trade Accts Recvble, Net","39,304","34,703","35,707","34,697",GOOG
+Other Receivables,966,919,"1,366","1,479",GOOG
+"Total Receivables, Net","40,270","35,622","37,073","36,176",GOOG
+Total Inventory,"1,170","1,369","1,980","3,156",GOOG
+"Other Curr. Assets, Total","7,054","6,892","8,321","10,518",GOOG
+Total Current Assets,"188,143","177,853","172,371","166,109",GOOG
+Buildings,"9,146","9,912","9,992","10,062",GOOG
+Land/Improvements,"58,881","62,869","65,015","64,679",GOOG
+Machinery/Equipment,"55,606","57,628","59,643","61,938",GOOG
+Construction in Progress,"23,171","25,555","25,341","26,899",GOOG
+Other Prop./Plant/Equip.,"13,167","13,205","13,665","13,974",GOOG
+Prop./Plant/Equip. - Gross,"159,971","169,169","173,656","177,552",GOOG
+Accumulated Depreciation,"(49,414)","(51,959)","(54,035)","(55,512)",GOOG
+Prop./Plant/Equip. - Net,"110,558","117,210","119,621","122,040",GOOG
+"Goodwill, Net","22,956","23,010","23,949","28,834",GOOG
+Intangibles - Gross,"5,964","5,668","2,129","3,017",GOOG
+Accum. Intangible Amort.,"(4,547)","(4,355)",(752),(825),GOOG
+Intangibles - Net,"1,417","1,313","1,377","2,192",GOOG
+Long Term Investments,"29,549","30,544","30,665","30,419",GOOG
+Other Long Term Assets,"5,361","5,778","5,712","5,670",GOOG
+Total Assets,"359,268","357,096","355,185","358,255",GOOG
+Accounts Payable,"6,037","3,436","4,409","6,303",GOOG
+Accrued Expenses,"35,213","33,003","34,555","38,726",GOOG
+Notes Payable/ST Debt,0,0,0,0,GOOG
+Curr. Port. LT Dbt/Cap Ls.,113,181,82,414,GOOG
+Customer Advances,"12,284","11,314","11,161","11,247",GOOG
+Income Taxes Payable,808,"4,344","1,956","1,025",GOOG
+Other Current Liabilities,"9,799","9,670","9,191","8,264",GOOG
+"Other Curr. Lblts, Total","22,891","25,328","22,308","20,536",GOOG
+Total Current Liabilities,"64,254","61,948","61,354","65,979",GOOG
+Long Term Debt,"12,841","12,847","12,850","12,854",GOOG
+Capital Lease Obligations,"1,976","1,944","1,884","1,799",GOOG
+Total Long Term Debt,"14,817","14,791","14,734","14,653",GOOG
+Total Debt,"14,930","14,972","14,816","15,067",GOOG
+Deferred Income Tax,"5,257","2,843",924,476,GOOG
+"Other Liabilities, Total","23,305","23,510","22,754","23,521",GOOG
+Total Liabilities,"107,633","103,092","99,766","104,629",GOOG
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,GOOG
+Common Stock,1,1,13,0,GOOG
+Additional Paid-In Capital,"61,773","62,831","64,389","66,258",GOOG
+Ret. Earn.(Accum. Deficit),"191,484","195,221","196,845","196,220",GOOG
+Unrealized Gain (Loss),236,"(2,094)","(2,787)","(4,225)",GOOG
+Cum. Trans. Adjustment,"(2,306)","(2,267)","(3,932)","(6,107)",GOOG
+Other Comprehensive Income,447,312,891,"1,480",GOOG
+"Other Equity, Total","(1,859)","(1,955)","(3,041)","(4,627)",GOOG
+Total Equity,"251,635","254,004","255,419","253,626",GOOG
+Total Liabilities & Shareholders’ Equity,"359,268","357,096","355,185","358,255",GOOG
+Shr Outs.-Com. Primary Iss.,"6,015","6,015","6,002","5,978",GOOG
+Shr Outs.-Com. Stk. Iss. 2,893,888,885,884,GOOG
+Shr Outs.-Com. Stk. Iss. 3,"6,334","6,272","6,191","6,109",GOOG
+Ttl Comm. Shares Outs.,"13,242","13,175","13,078","12,971",GOOG
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,GOOG
+Trsy. Shrs-Comm. Iss. 2,0,0,0,0,GOOG
+Trsy. Shrs-Comm. Iss. 3,0,0,0,0,GOOG

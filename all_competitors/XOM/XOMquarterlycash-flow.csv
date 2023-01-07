@@ -1,0 +1,38 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"23,598","5,750","24,324","44,522",XOM
+Depreciation/Depletion,"20,607","8,883","13,334","18,976",XOM
+Deferred Taxes,303,--,--,--,XOM
+Unusual Items,"(1,207)",--,--,--,XOM
+Equity in Net Earnings/Loss,(668),--,--,--,XOM
+Other Non-Cash Items,804,--,--,--,XOM
+Non-Cash Items,"(1,071)",--,--,--,XOM
+"Cash Taxes Pd, Supplemental","5,341","1,798","5,545","10,172",XOM
+"Cash Interest Pd, Suppl","1,474",506,740,"1,265",XOM
+Accounts Receivable,"(12,098)",--,--,--,XOM
+Inventories,(489),--,--,--,XOM
+Other Assets,(71),--,--,--,XOM
+Accounts Payable,"16,820",--,--,--,XOM
+Changes in Working Capital,"4,692",155,"(2,907)","(4,322)",XOM
+Total Cash from Operations,"48,129","14,788","34,751","59,176",XOM
+Capital Expenditures,"(12,076)","(3,911)","(7,748)","(12,624)",XOM
+Sale of Business,"3,176",293,"1,232","3,914",XOM
+Purchase of Investments,"(2,817)",(417),(643),(915),XOM
+Other Investing Cash Flow,"1,482",90,150,238,XOM
+"OtherInvestCashFlowItms,Tot","1,841",(34),739,"3,237",XOM
+Total Cash from Investing,"(10,235)","(3,945)","(7,009)","(9,387)",XOM
+Financing Cash Flow Items,(690),(154),(878),"(1,323)",XOM
+Total Cash Dividends Paid,"(14,924)","(3,760)","(7,487)","(11,172)",XOM
+"Iss (Retirmnt) of Stock,Net",(155),"(2,067)","(5,986)","(10,480)",XOM
+Short Term Debt Issued,"12,687",0,0,0,XOM
+Short Term Debt Reduction,"(29,396)","(2,098)","(2,336)","(3,895)",XOM
+"Short Term Debt, Net","(19,692)",(732),"(1,033)","(2,257)",XOM
+Long Term Debt Issued,46,--,--,55,XOM
+Long Term Debt Reduction,(8),--,--,0,XOM
+"Long Term Debt, Net",38,--,--,55,XOM
+"Iss (Retirmnt) of Debt, Net","(19,654)",(732),"(1,033)","(2,202)",XOM
+Total Cash From Financing,"(35,423)","(6,713)","(15,384)","(25,177)",XOM
+Foreign Exchange Effects,(33),142,(299),(950),XOM
+Net Change in Cash,"2,438","4,272","12,059","23,662",XOM
+NetCash-BeginBal/RsvdforFutUse,"4,364","6,802","6,802","6,802",XOM
+NetCash-EndBal/RsrvforFutUse,"6,802","11,074","18,861","30,464",XOM
+"Depreciation, Supplemental","20,607","8,883","13,334","18,976",XOM

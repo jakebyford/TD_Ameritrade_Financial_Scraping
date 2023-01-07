@@ -1,0 +1,60 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash,"10,790","10,660","12,570","11,950","10,140",GS
+Cash & Equivalents,"99,261","119,887","120,976","143,892","250,896",GS
+Cash and Short Term Invs,"110,051","130,547","133,546","155,842","261,036",GS
+"Trade Accts Recvble, Net","84,788","79,315","74,605","121,331","160,673",GS
+Other Receivables,"3,098","3,585","2,398","2,638","3,514",GS
+"Total Receivables, Net","87,886","82,900","77,003","123,969","164,187",GS
+Total Current Assets,--,--,--,--,--,GS
+Prop./Plant/Equip. - Gross,"23,374","27,397","31,836","33,267","28,904",GS
+Accumulated Depreciation,"(8,280)","(9,080)","(9,950)","(10,120)","(10,810)",GS
+Prop./Plant/Equip. - Net,"15,094","18,317","24,246","25,427","20,386",GS
+"Goodwill, Net","3,665","3,758","4,196","4,332","4,285",GS
+Intangibles - Gross,"1,675","1,753","2,217","2,188","1,960",GS
+Accum. Intangible Amort.,"(1,302)","(1,429)","(1,576)","(1,558)","(1,542)",GS
+Intangibles - Net,373,324,641,630,418,GS
+LT Invt. - Affiliate Comp.,275,357,285,366,593,GS
+LT Investments - Other,"578,606","564,072","641,352","732,607","849,230",GS
+Long Term Investments,"578,881","564,429","641,637","732,973","849,823",GS
+Note Rcvble - Long Term,"69,661","82,119","110,972","119,075","162,422",GS
+Pension Bene. - Overfunded,--,462,257,343,411,GS
+Disct. Ops. - LT Asset,634,365,470,437,"1,020",GS
+Other Assets,"50,531","48,575",--,--,--,GS
+"Other Assets, Total","50,531","48,575",--,--,--,GS
+Total Assets,"916,776","931,796","992,968","1,163,028","1,463,988",GS
+Accounts Payable,"178,169","180,235","174,817","190,658","251,931",GS
+Accrued Expenses,"6,710","6,834","9,274","10,179","13,126",GS
+Notes Payable/ST Debt,"254,947","261,814","340,411","435,110","605,452",GS
+Curr. Port. LT Dbt/Cap Ls.,"44,986","37,031","37,831","39,132","27,288",GS
+"Other Curr. Lblts, Total","4,051","2,864","2,947","3,155","2,360",GS
+Total Current Liabilities,--,--,--,--,--,GS
+Total Long Term Debt,"227,579","236,027","219,158","226,018","263,466",GS
+Total Debt,"527,512","534,872","597,400","700,260","896,206",GS
+Minority Interest,553,"1,568","1,713","1,640",840,GS
+Pension Benefits - Underfunded,606,344,415,478,426,GS
+Other Liabilities,"116,932","114,894","116,137","160,726","189,173",GS
+"Other Liabilities, Total","117,538","115,238","116,552","161,204","189,599",GS
+Total Liabilities,"834,533","841,611","902,703","1,067,096","1,354,062",GS
+"Pref. Stock-Non Rdmbl, Net","11,853","11,203","11,203","11,203","10,703",GS
+Common Stock,9,9,9,9,9,GS
+Additional Paid-In Capital,"53,357","54,005","54,883","55,679","56,396",GS
+Ret. Earn.(Accum. Deficit),"91,519","100,100","106,465","112,947","131,811",GS
+Treasury Stock - Common,"(75,392)","(78,670)","(84,006)","(85,940)","(91,136)",GS
+ESOP Debt Guarantee,"2,777","2,845","3,195","3,468","4,211",GS
+Unrealized Gain (Loss),(9),(112),46,463,(492),GS
+Cum. Trans. Adjustment,(625),(621),(616),(696),(738),GS
+Min. Pension Lblty Adj.,(200),(81),(342),(368),(327),GS
+Other Comprehensive Income,"(1,046)","1,507",(572),(833),(511),GS
+"Other Equity, Total","(1,871)",805,"(1,530)","(1,897)","(1,576)",GS
+Total Equity,"82,243","90,185","90,265","95,932","109,926",GS
+Total Liabilities & Shareholders’ Equity,"916,776","931,796","992,968","1,163,028","1,463,988",GS
+Ttl Comm. Shares Outs.,375,368,347,344,334,GS
+Trsy. Shrs-Comm. Primary Iss.,510,524,549,558,573,GS
+Shrs Out-Pref Primary Iss.,0,0,0,0,0,GS
+Shrs Out-Pref Stk Iss. 2,0,0,0,0,0,GS
+Shrs Out-Pref Stk Iss. 3,0,0,0,0,0,GS
+Shrs Out-Pref Stk Iss. 4,0,0,0,0,0,GS
+Trsry Shrs-Pref. Iss. 1,0,0,0,0,0,GS
+Trsry Shrs-Pref. Iss. 2,0,0,0,0,0,GS
+Trsry Shrs-Pref. Iss. 3,0,0,0,0,0,GS
+Trsry Shrs-Pref. Iss. 4,0,0,0,0,0,GS

@@ -1,0 +1,33 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Total Revenue,"8,651","8,751","9,426","9,465",DG
+"Cost of Revenue, Total","5,951","6,013","6,377","6,580",DG
+"Sell/Gen/AdminExpenses,Tot","1,904","1,992","2,135","2,150",DG
+Total Operating Expense,"7,855","8,005","8,512","8,729",DG
+Total Operating Income,797,746,913,736,DG
+"Inter Expse,Net Non-Operat",(39),(40),(43),(54),DG
+OtherNon-OperatInc (Expnse),--,--,--,0,DG
+"Other, Net",--,--,--,0,DG
+Income Before Tax,758,706,870,681,DG
+Income Tax - Total,161,154,192,155,DG
+Income After Tax,597,553,678,526,DG
+Net Inc Before Extra Items,597,553,678,526,DG
+Total Net Income,597,553,678,526,DG
+Income Available to Common Excl. Extra. Items,597,553,678,526,DG
+Income Available to Common Incl. Extra. Items,597,553,678,526,DG
+Basic/Primary Weighted Average Shares,231,228,226,225,DG
+Basic/Primary EPS Excl. Extra. Items,2.59,2.42,3.00,2.34,DG
+Basic/Primary EPS Incl. Extra. Items,2.59,2.42,3.00,2.34,DG
+Diluted Weighted Average Shares,233,230,227,226,DG
+Diluted EPS Excl. Extra. Items,2.57,2.41,2.98,2.33,DG
+Diluted EPS Incl. Extra. Items,2.57,2.41,2.98,2.33,DG
+Div/Share-ComStockPrimIssue,0.42,0.55,0.00,0.55,DG
+Gross Divid - Common Stock,97,125,124,123,DG
+Pro Forma Net Income,--,--,--,--,DG
+"Interest Expense, Suppl",39,40,43,54,DG
+"Depreciat/Amort, Suppl",166,173,177,183,DG
+Normalzd Income Before Tax,758,706,870,681,DG
+IncTxsExcl ImpctofSpec Itms,161,154,192,155,DG
+Normalized Income After Tax,597,553,678,526,DG
+Normalzd Inc Avail to Common,597,553,678,526,DG
+Basic Normalized EPS,2.59,2.42,3.00,2.34,DG
+Diluted Normalized EPS,2.57,2.41,2.98,2.33,DG

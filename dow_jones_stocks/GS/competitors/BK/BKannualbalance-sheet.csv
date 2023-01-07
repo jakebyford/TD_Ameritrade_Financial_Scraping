@@ -1,0 +1,56 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Due from Banks,"96,892","73,852","99,872","148,027","108,528",BK
+Interest-Earning Deposits,"11,979","14,148","14,811","17,300","16,630",BK
+Fed. Fund/Resale,"28,135","46,795","30,182","30,907","29,607",BK
+Trading Account Assets,"6,753","7,498","13,816","15,759","16,577",BK
+Other Short Trm Invest.,323,289,21,19,206,BK
+Securities Held,"40,827","33,982","34,483","47,946","56,866",BK
+Securities for Sale,"79,543","85,809","88,550","108,495","101,839",BK
+Total Invest. Securities,"120,370","119,791","123,033","156,441","158,705",BK
+Customer Acceptances,319,--,--,--,--,BK
+"Other Erng. Assets, Total","167,879","188,521","181,863","220,426","221,725",BK
+Total Gross Loans,"61,540","56,564","54,953","56,469","67,787",BK
+Loan Loss Allowances,(159),(146),(122),(358),(196),BK
+Net Loans,"61,381","56,418","54,831","56,111","67,591",BK
+Prop./Plant/Equip. - Net,"1,634","1,832","3,625","3,602","3,431",BK
+"Goodwill, Net","17,564","17,350","17,386","17,496","17,512",BK
+Intangibles - Gross,"7,692","6,769","6,471","6,674","6,425",BK
+Accum. Intangible Amort.,"(2,782)","(1,897)","(1,774)","(1,778)","(1,338)",BK
+Intangibles - Net,"4,910","4,872","4,697","4,896","5,087",BK
+Long Term Investments,"1,083","1,064","1,102","1,259",939,BK
+Pension Bene. - Overfunded,"1,416","1,357","1,464","1,556","1,946",BK
+Interest Receivable,610,671,624,510,457,BK
+Other Assets,"18,389","16,936","16,044","15,750","17,222",BK
+"Other Assets, Total","18,999","17,607","16,668","16,260","17,679",BK
+Total Assets,"371,758","362,873","381,508","469,633","444,438",BK
+Accounts Payable,"20,184","19,731","18,758","25,085","25,150",BK
+Accrued Expenses,--,--,"1,772","1,669","1,461",BK
+Non-Interest Bearing Dep.,"82,716","70,783","57,630","83,854","93,695",BK
+Interest Bearing Deposits,"161,606","167,995","201,836","257,691","225,999",BK
+Total Deposits,"244,322","238,778","259,466","341,545","319,694",BK
+Fed Funds Purch.,"15,163","14,243","11,401","11,305","11,566",BK
+Other ST Borrowings,"6,103","5,166","3,959",0,--,BK
+Total ST Borrowings,"21,266","19,409","15,360","11,305","11,566",BK
+"Other Curr. Lblts, Total","6,225","5,669","5,642","5,696","5,767",BK
+Long Term Debt,"27,979","29,163","28,098","26,323","26,656",BK
+Capital Lease Obligations,--,--,2,11,24,BK
+Total Long Term Debt,"27,979","29,163","28,100","26,334","26,680",BK
+Total Debt,"49,245","48,572","43,460","37,639","38,246",BK
+Minority Interest,495,230,245,319,357,BK
+"Other Liabilities, Total","10,036","9,255","10,682","11,879","10,729",BK
+Total Liabilities,"330,507","322,235","340,025","423,832","401,404",BK
+"Pref. Stock-Non Rdmbl, Net","3,542","3,542","3,542","4,541","4,838",BK
+Common Stock,14,14,14,14,14,BK
+Additional Paid-In Capital,"26,665","27,118","27,515","27,823","28,128",BK
+Ret. Earn.(Accum. Deficit),"25,635","28,652","31,894","34,241","36,667",BK
+Treasury Stock - Common,"(12,248)","(15,517)","(18,844)","(19,833)","(24,400)",BK
+Unrealized Gain (Loss),186,(196),336,"1,508",357,BK
+Cum. Trans. Adjustment,"(1,613)","(1,915)","(1,652)","(1,146)","(1,524)",BK
+Min. Pension Lblty Adj.,(937),"(1,057)","(1,324)","(1,354)","(1,047)",BK
+Other Comprehensive Income,7,(3),2,7,1,BK
+"Other Equity, Total","(2,543)","(2,975)","(2,974)","(2,493)","(2,570)",BK
+Total Equity,"41,251","40,638","41,483","45,801","43,034",BK
+Total Liabilities & Shareholders’ Equity,"371,758","362,873","381,508","469,633","444,438",BK
+Ttl Comm. Shares Outs.,"1,013",960,901,887,804,BK
+Trsy. Shrs-Comm. Primary Iss.,341,404,474,496,585,BK
+Trsry Shrs-Pref. Iss. 2,0,0,0,0,0,BK

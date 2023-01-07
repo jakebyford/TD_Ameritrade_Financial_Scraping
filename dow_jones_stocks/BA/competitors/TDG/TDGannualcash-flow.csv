@@ -1,0 +1,37 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,957,891,700,681,867,TDG
+Depreciation/Depletion,56,90,114,115,116,TDG
+Amortization,73,136,169,138,137,TDG
+Deferred Taxes,(152),0,24,34,(22),TDG
+Discontinued Operations,4,(50),(47),0,(1),TDG
+Unusual Items,6,3,28,(32),(6),TDG
+Other Non-Cash Items,81,160,90,101,117,TDG
+Non-Cash Items,91,113,71,69,110,TDG
+"Cash Taxes Pd, Supplemental",129,215,223,83,220,TDG
+"Cash Interest Pd, Suppl",635,878,923,"1,008","1,057",TDG
+Accounts Receivable,(44),(82),352,(78),(190),TDG
+Inventories,(11),(36),(62),79,(134),TDG
+Other Assets,(5),(27),(16),(33),(56),TDG
+Accounts Payable,18,(2),(62),3,58,TDG
+Accrued Expenses,1,(65),67,(32),4,TDG
+Changes in Working Capital,(5),(214),135,(124),(260),TDG
+Total Cash from Operations,"1,022","1,015","1,213",913,948,TDG
+Capital Expenditures,(73),(102),(105),(105),(119),TDG
+Acquisition of Business,(668),"(3,976)",0,(963),(437),TDG
+Other Investing Cash Flow,57,189,904,283,3,TDG
+"OtherInvestCashFlowItms,Tot",(610),"(3,787)",904,(680),(434),TDG
+Total Cash from Investing,(684),"(3,889)",799,(785),(553),TDG
+Financing Cash Flow Items,(11),48,(11),0,(2),TDG
+Total Cash Dividends Paid,(56),"(1,712)","(1,928)",(73),"(1,091)",TDG
+"Common Stock, Net",0,0,(19),0,(912),TDG
+Options Exercised,58,82,116,128,132,TDG
+"Iss (Retirmnt) of Stock,Net",58,82,97,128,(780),TDG
+Long Term Debt Issued,"13,269","4,480","4,314","2,132",--,TDG
+Long Term Debt Reduction,"(12,174)",(626),"(1,242)","(2,257)",(275),TDG
+"Iss (Retirmnt) of Debt, Net","1,095","3,853","3,072",(125),(275),TDG
+Total Cash From Financing,"1,086","2,271","1,230",(70),"(2,148)",TDG
+Foreign Exchange Effects,(2),(3),8,12,(33),TDG
+Net Change in Cash,"1,422",(606),"3,250",70,"(1,786)",TDG
+NetCash-BeginBal/RsvdforFutUse,651,"2,073","1,467","4,717","4,787",TDG
+NetCash-EndBal/RsrvforFutUse,"2,073","1,467","4,717","4,787","3,001",TDG
+"Depreciation, Supplemental",56,90,114,115,116,TDG

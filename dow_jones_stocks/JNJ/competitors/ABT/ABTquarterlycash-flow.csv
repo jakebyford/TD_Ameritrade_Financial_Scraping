@@ -1,0 +1,38 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"7,071","2,447","4,465","5,900",ABT
+Depreciation/Depletion,"1,491",311,626,943,ABT
+Amortization,"2,047",512,"1,019","1,517",ABT
+Unusual Items,55,--,--,--,ABT
+Other Non-Cash Items,640,305,447,570,ABT
+Non-Cash Items,695,305,447,570,ABT
+Accounts Receivable,(383),(751),(939),(409),ABT
+Inventories,(456),(554),"(1,030)","(1,224)",ABT
+Prepaid Expenses,(312),--,--,--,ABT
+Payable/Accrued,"1,288",--,--,--,ABT
+Changes in Working Capital,(771),"(1,510)","(2,082)","(1,675)",ABT
+Total Cash from Operations,"10,533","2,065","4,475","7,255",ABT
+Capital Expenditures,"(1,885)",(321),(700),"(1,167)",ABT
+Acquisition of Business,(187),0,--,--,ABT
+Sale of Business,134,--,48,48,ABT
+Sale/Maturity of Investment,77,--,--,--,ABT
+"Investment, Net",--,(41),18,(3),ABT
+Purchase of Investments,(173),--,--,--,ABT
+Other Investing Cash Flow,26,2,10,14,ABT
+"OtherInvestCashFlowItms,Tot",(123),(39),76,59,ABT
+Total Cash from Investing,"(2,008)",(360),(624),"(1,108)",ABT
+Financing Cash Flow Items,0,--,--,--,ABT
+Total Cash Dividends Paid,"(3,202)",(832),"(1,660)","(2,486)",ABT
+"Common Stock, Net","(2,299)","(2,307)","(2,312)","(3,110)",ABT
+Options Exercised,255,59,69,126,ABT
+"Iss (Retirmnt) of Stock,Net","(2,044)","(2,248)","(2,243)","(2,984)",ABT
+"Short Term Debt, Net",(204),8,13,37,ABT
+Long Term Debt Issued,4,--,6,7,ABT
+Long Term Debt Reduction,(48),(751),(752),(753),ABT
+"Long Term Debt, Net",(44),(751),(746),(746),ABT
+"Iss (Retirmnt) of Debt, Net",(248),(743),(733),(709),ABT
+Total Cash From Financing,"(5,494)","(3,823)","(4,636)","(6,179)",ABT
+Foreign Exchange Effects,(70),(6),(77),(173),ABT
+Net Change in Cash,"2,961","(2,124)",(862),(205),ABT
+NetCash-BeginBal/RsvdforFutUse,"6,838","9,799","9,799","9,799",ABT
+NetCash-EndBal/RsrvforFutUse,"9,799","7,675","8,937","9,594",ABT
+"Depreciation, Supplemental","1,491",311,626,943,ABT

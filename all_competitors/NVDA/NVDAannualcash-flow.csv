@@ -1,0 +1,41 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"3,047","4,141","2,796","4,332","9,752",NVDA
+Depreciation/Depletion,199,262,381,"1,098","1,174",NVDA
+Deferred Taxes,(359),(315),18,(282),(406),NVDA
+Unusual Items,18,0,0,--,(100),NVDA
+Other Non-Cash Items,412,512,849,"1,377","2,051",NVDA
+Non-Cash Items,430,512,849,"1,377","1,951",NVDA
+"Cash Taxes Pd, Supplemental",22,61,176,249,396,NVDA
+"Cash Interest Pd, Suppl",55,55,54,138,246,NVDA
+Accounts Receivable,(440),(149),(233),(550),"(2,215)",NVDA
+Inventories,0,(776),597,(524),(774),NVDA
+Prepaid Expenses,21,(55),77,(394),"(1,715)",NVDA
+Accounts Payable,90,(135),194,363,568,NVDA
+Accrued Expenses,33,256,54,239,581,NVDA
+Changes in Working Capital,185,(857),717,(703),"(3,363)",NVDA
+Total Cash from Operations,"3,502","3,743","4,761","5,822","9,108",NVDA
+Capital Expenditures,(593),(600),(489),"(1,128)",(976),NVDA
+Acquisition of Business,--,--,--,"(8,524)",(263),NVDA
+Sale of Fixed Assets,2,0,0,--,--,NVDA
+Sale/Maturity of Investment,"1,941","7,660","8,109","9,319","16,220",NVDA
+"Investment, Net",(36),(9),(14),(34),(24),NVDA
+Purchase of Investments,(36),"(11,148)","(1,461)","(19,308)","(24,787)",NVDA
+Other Investing Cash Flow,0,--,--,--,--,NVDA
+"OtherInvestCashFlowItms,Tot","1,871","(3,497)","6,634","(18,547)","(8,854)",NVDA
+Total Cash from Investing,"1,278","(4,097)","6,145","(19,675)","(9,830)",NVDA
+Financing Cash Flow Items,(612),"(1,037)",(551),(963),"(1,994)",NVDA
+Total Cash Dividends Paid,(341),(371),(390),(395),(399),NVDA
+Sale/Issuance of Common,--,137,149,194,281,NVDA
+Repurch/Retirement Common,(909),"(1,579)",0,0,--,NVDA
+"Iss (Retirmnt) of Stock,Net",(770),"(1,442)",149,194,281,NVDA
+Short Term Debt Reduction,(9),--,--,--,--,NVDA
+"Short Term Debt, Net",(9),--,--,--,--,NVDA
+Long Term Debt Issued,0,0,--,"4,968","4,977",NVDA
+Long Term Debt Reduction,(812),(16),0,0,"(1,000)",NVDA
+"Long Term Debt, Net",(812),(16),0,"4,968","3,977",NVDA
+"Iss (Retirmnt) of Debt, Net",(821),(16),0,"4,968","3,977",NVDA
+Total Cash From Financing,"(2,544)","(2,866)",(792),"3,804","1,865",NVDA
+Net Change in Cash,"2,236","(3,220)","10,114","(10,049)","1,143",NVDA
+NetCash-BeginBal/RsvdforFutUse,"1,766","4,002",782,"10,896",847,NVDA
+NetCash-EndBal/RsrvforFutUse,"4,002",782,"10,896",847,"1,990",NVDA
+"Depreciation, Supplemental",199,262,381,"1,098","1,174",NVDA

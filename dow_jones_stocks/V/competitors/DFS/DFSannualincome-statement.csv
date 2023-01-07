@@ -1,0 +1,48 @@
+items,2017,2018,2019,2020,2021,ticker
+Interest & Fees on Loans,"9,467","10,561","11,561","10,802","10,451",DFS
+Inter & Divs/ Invest Securs,27,40,179,252,182,DFS
+Other Interest Income,154,292,253,41,18,DFS
+"Interest Income, Bank","9,648","10,893","11,993","11,095","10,651",DFS
+Interest on Deposit,846,"1,238","1,587","1,231",661,DFS
+Inter on Other Borrowings,802,901,943,634,473,DFS
+Total Interest Expense,"1,648","2,139","2,530","1,865","1,134",DFS
+Net Interest Income,"8,000","8,754","9,463","9,230","9,517",DFS
+Loan Loss Provision,"2,579","3,035","3,231",--,218,DFS
+NetInterIn after Loan Loss Provision,"5,421","5,719","6,232","9,230","9,299",DFS
+Fees & Commish from Operat,363,402,449,414,464,DFS
+Invest Securities Gains,3,--,--,80,424,DFS
+Other Revenue,"1,531","1,553","1,547","1,364","1,682",DFS
+"Non-Interest Income, Bank","1,897","1,955","1,996","1,858","2,570",DFS
+Labor & Related Expenses,"(1,512)","(1,627)","(1,738)","(1,894)","(1,986)",DFS
+Other Unusual Expense,--,--,--,"(5,193)",(95),DFS
+Other Expense,"(2,269)","(2,450)","(2,655)","(2,566)","(2,724)",DFS
+"Non-Interest Expense, Bank","(3,781)","(4,077)","(4,393)","(9,653)","(4,805)",DFS
+Income Before Tax,"3,537","3,597","3,835","1,435","7,064",DFS
+Income Tax - Total,"1,249",855,878,294,"1,615",DFS
+Income After Tax,"2,288","2,742","2,957","1,141","5,449",DFS
+Net Inc Before Extra Items,"2,288","2,742","2,957","1,141","5,449",DFS
+Total Extraordinary Items,(189),--,--,--,--,DFS
+Total Net Income,"2,099","2,742","2,957","1,141","5,449",DFS
+Preferred Dividends,(37),(31),(31),(31),(69),DFS
+Misc Earnings Adjustment,(31),(22),(18),(6),(29),DFS
+Total Adjust to Net Income,(68),(53),(49),(37),(98),DFS
+Income Available to Common Excl. Extra. Items,"2,220","2,689","2,908","1,104","5,351",DFS
+Income Available to Common Incl. Extra. Items,"2,031","2,689","2,908","1,104","5,351",DFS
+Basic/Primary Weighted Average Shares,374,344,320,307,300,DFS
+Basic/Primary EPS Excl. Extra. Items,5.94,7.82,9.09,3.60,17.84,DFS
+Basic/Primary EPS Incl. Extra. Items,5.43,7.82,9.09,3.60,17.84,DFS
+Diluted Weighted Average Shares,374,345,320,307,300,DFS
+Diluted EPS Excl. Extra. Items,5.94,7.79,9.09,3.60,17.84,DFS
+Diluted EPS Incl. Extra. Items,5.43,7.79,9.09,3.60,17.84,DFS
+Div/Share-ComStockPrimIssue,1.30,1.50,1.68,1.76,1.88,DFS
+Gross Divid - Common Stock,490,521,542,543,569,DFS
+Pro Forma Net Income,--,--,--,--,--,DFS
+"Depreciat/Amort, Suppl",391,435,436,485,531,DFS
+Total Special Items,--,--,--,"5,193",95,DFS
+Normalzd Income Before Tax,"3,537","3,597","3,835","6,628","7,159",DFS
+Efct/SpecItemsIncTxs (STEC),--,--,--,"1,064",22,DFS
+IncTxsExcl ImpctofSpec Itms,"1,249",855,878,"1,358","1,637",DFS
+Normalized Income After Tax,"2,288","2,742","2,957","5,270","5,522",DFS
+Normalzd Inc Avail to Common,"2,220","2,689","2,908","5,233","5,424",DFS
+Basic Normalized EPS,5.94,7.82,9.09,17.05,18.08,DFS
+Diluted Normalized EPS,5.94,7.79,9.09,17.05,18.08,DFS

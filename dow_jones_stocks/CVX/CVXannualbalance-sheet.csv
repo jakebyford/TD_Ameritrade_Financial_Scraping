@@ -1,0 +1,63 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"4,813","9,342","5,686","5,596","5,640",CVX
+Short Term Investments,9,"1,003",63,31,35,CVX
+Cash and Short Term Invs,"4,822","10,345","5,749","5,627","5,675",CVX
+"Trade Accts Recvble, Gross","15,821","15,640","14,060","11,755","18,722",CVX
+Prov. for Doubtful Accts,(490),(869),(746),(284),(303),CVX
+"Total Receivables, Net","15,331","14,771","13,314","11,471","18,419",CVX
+Invent. - Finished Goods,"3,142","3,383","3,722","3,576","4,248",CVX
+Invent. - Raw Materials,"2,443","2,321","2,126","2,100","2,057",CVX
+Total Inventory,"5,585","5,704","5,848","5,676","6,305",CVX
+Prepaid Expenses,"2,800","2,922","3,407","2,939","3,006",CVX
+Restricted Cash - Current,--,--,--,365,333,CVX
+Other Current Assets,22,279,11,--,--,CVX
+"Other Curr. Assets, Total",22,279,11,365,333,CVX
+Total Current Assets,"28,560","34,021","28,329","26,078","33,738",CVX
+Prop./Plant/Equip. - Gross,"344,485","340,244","326,722","345,232","336,045",CVX
+Accumulated Depreciation,"(166,773)","(171,037)","(176,228)","(188,614)","(189,084)",CVX
+Prop./Plant/Equip. - Net,"177,712","169,207","154,568","160,567","150,629",CVX
+"Goodwill, Net","4,531","4,518","4,463","4,402","4,385",CVX
+LT Invt. - Affiliate Comp.,"32,105","35,261","38,402","38,756","40,357",CVX
+LT Investments - Other,392,285,286,296,339,CVX
+Long Term Investments,"32,497","35,546","38,688","39,052","40,696",CVX
+Note Rcvble - Long Term,"2,849","1,938","1,511",589,603,CVX
+Deferred Charges,"1,798","1,938","2,280","1,939","2,235",CVX
+Pension Bene. - Overfunded,469,429,--,--,--,CVX
+Def. Inc. Tax - LT Asset,"4,750","4,399","4,178","5,286","5,659",CVX
+Disct. Ops. - LT Asset,640,"1,863","3,411","1,101",768,CVX
+Restricted Cash - LT,--,--,--,776,822,CVX
+Other Long Term Assets,0,4,0,--,--,CVX
+Total Assets,"253,806","253,863","237,428","239,790","239,535",CVX
+Accounts Payable,"14,443","13,941","14,029","10,950","16,454",CVX
+Accrued Expenses,"5,267","4,927","6,589","7,812","6,972",CVX
+Notes Payable/ST Debt,0,28,228,15,62,CVX
+Curr. Port. LT Dbt/Cap Ls.,"5,192","5,698","3,054","1,533",194,CVX
+Income Taxes Payable,"2,713","2,565","2,556","1,873","3,109",CVX
+Other Current Liabilities,122,12,74,--,--,CVX
+"Other Curr. Lblts, Total","2,835","2,577","2,630","1,873","3,109",CVX
+Total Current Liabilities,"27,737","27,171","26,530","22,183","26,791",CVX
+Long Term Debt,"33,477","28,733","23,409","42,320","30,664",CVX
+Capital Lease Obligations,94,--,282,447,449,CVX
+Total Long Term Debt,"33,571","28,733","23,691","42,767","31,113",CVX
+Total Debt,"38,763","34,459","26,973","44,315","31,369",CVX
+Deferred Income Tax,"14,652","15,921","13,688","12,569","14,665",CVX
+Minority Interest,"1,195","1,088",995,"1,038",873,CVX
+Pension Benefits - Underfunded,"7,421","6,654","7,866","9,217","6,248",CVX
+Other LT Liabilities,"21,106","19,742","20,445","20,328","20,778",CVX
+"Other Liabilities, Total","28,527","26,396","28,311","29,545","27,026",CVX
+Total Liabilities,"105,682","99,309","93,215","108,102","100,468",CVX
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,0,CVX
+Common Stock,"1,832","1,832","1,832","1,832","1,832",CVX
+Additional Paid-In Capital,"16,848","17,112","17,265","16,829","17,282",CVX
+Ret. Earn.(Accum. Deficit),"174,106","180,987","174,945","160,377","165,546",CVX
+Treasury Stock - Common,"(40,833)","(41,593)","(44,599)","(41,498)","(41,464)",CVX
+ESOP Debt Guarantee,(240),(240),(240),(240),(240),CVX
+Unrealized Gain (Loss),(5),(10),(8),(10),(11),CVX
+Cum. Trans. Adjustment,(105),(124),(142),(107),(162),CVX
+Min. Pension Lblty Adj.,"(3,477)","(3,408)","(4,840)","(5,495)","(3,716)",CVX
+Other Comprehensive Income,(2),(2),0,0,0,CVX
+"Other Equity, Total","(3,584)","(3,534)","(4,982)","(5,602)","(3,878)",CVX
+Total Equity,"148,124","154,554","144,213","131,688","139,067",CVX
+Total Liabilities & Shareholders’ Equity,"253,806","253,863","237,428","239,790","239,535",CVX
+Ttl Comm. Shares Outs.,"1,905","1,903","1,882","1,925","1,930",CVX
+Trsy. Shrs-Comm. Primary Iss.,538,540,561,517,513,CVX

@@ -1,0 +1,43 @@
+items,2017,2018,2019,2020,2021,ticker
+Gross Premiums Written,"27,648","29,252","31,063","31,763","34,244",TRV
+Other Insurance Revenue,606,635,728,708,757,TRV
+Reinsurance - Income,"(1,965)","(2,193)","(2,791)","(2,719)","(3,389)",TRV
+Total Premiums Earned,"26,289","27,694","29,000","29,752","31,612",TRV
+Net Investment Income,"2,397","2,474","2,468","2,227","3,033",TRV
+Realized Gains (Losses),230,115,117,57,173,TRV
+Total Revenue,"28,916","30,283","31,585","32,036","34,818",TRV
+"Losses,Benies& Adjmts,Total","17,467","18,291","19,133","19,123","20,298",TRV
+Amort. Of Policy Acquisition Costs,"4,166","4,381","4,601","4,773","5,043",TRV
+"Sell/Gen/AdminExpenses,Tot","4,170","4,297","4,365","4,509","4,677",TRV
+Unusual Expense (Income),14,1,4,55,2,TRV
+Total Operating Expense,"25,817","26,970","28,103","28,460","30,020",TRV
+Total Operating Income,"3,099","3,313","3,482","3,576","4,798",TRV
+"Inter Expse,Net Non-Operat",(369),(352),(344),(339),(340),TRV
+Income Before Tax,"2,730","2,961","3,138","3,237","4,458",TRV
+Income Tax - Total,545,438,516,540,796,TRV
+Income After Tax,"2,185","2,523","2,622","2,697","3,662",TRV
+Net Inc Before Extra Items,"2,185","2,523","2,622","2,697","3,662",TRV
+Total Extraordinary Items,(129),0,0,--,--,TRV
+Total Net Income,"2,056","2,523","2,622","2,697","3,662",TRV
+Total Adjust to Net Income,(15),(19),(19),(19),(27),TRV
+Income Available to Common Excl. Extra. Items,"2,170","2,504","2,603","2,678","3,635",TRV
+Income Available to Common Incl. Extra. Items,"2,041","2,504","2,603","2,678","3,635",TRV
+Basic/Primary Weighted Average Shares,276,267,260,254,249,TRV
+Basic/Primary EPS Excl. Extra. Items,7.86,9.36,10.01,10.56,14.63,TRV
+Basic/Primary EPS Incl. Extra. Items,7.39,9.36,10.01,10.56,14.63,TRV
+Diluted Weighted Average Shares,279,270,262,255,251,TRV
+Diluted EPS Excl. Extra. Items,7.79,9.28,9.92,10.52,14.49,TRV
+Diluted EPS Incl. Extra. Items,7.33,9.28,9.92,10.52,14.49,TRV
+Div/Share-ComStockPrimIssue,2.78,2.98,3.18,3.34,3.46,TRV
+Gross Divid - Common Stock,785,814,844,864,876,TRV
+Pro Forma Net Income,--,--,--,--,--,TRV
+"Interest Expense, Suppl",369,352,344,339,340,TRV
+"Depreciat/Amort, Suppl",800,786,748,775,856,TRV
+Total Special Items,14,1,4,55,2,TRV
+Normalzd Income Before Tax,"2,744","2,962","3,142","3,292","4,460",TRV
+Efct/SpecItemsIncTxs (STEC),3,0,1,9,0,TRV
+IncTxsExcl ImpctofSpec Itms,548,438,517,549,796,TRV
+Normalized Income After Tax,"2,196","2,524","2,625","2,743","3,664",TRV
+Normalzd Inc Avail to Common,"2,181","2,505","2,606","2,724","3,637",TRV
+Basic Normalized EPS,7.90,9.37,10.02,10.74,14.63,TRV
+Diluted Normalized EPS,7.83,9.28,9.94,10.70,14.50,TRV

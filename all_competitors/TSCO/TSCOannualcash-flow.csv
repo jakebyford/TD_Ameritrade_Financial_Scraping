@@ -1,0 +1,37 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,423,532,562,749,997,TSCO
+Depreciation/Depletion,166,177,196,217,270,TSCO
+Deferred Taxes,27,12,7,(32),29,TSCO
+Unusual Items,0,(1),0,73,4,TSCO
+Other Non-Cash Items,29,29,31,37,48,TSCO
+Non-Cash Items,30,28,31,110,52,TSCO
+"Cash Taxes Pd, Supplemental",219,147,144,235,292,TSCO
+"Cash Interest Pd, Suppl",10,18,19,25,24,TSCO
+Inventories,(84),(136),(13),(180),(408),TSCO
+Prepaid Expenses,2,(26),14,(33),(30),TSCO
+Accounts Payable,57,43,23,333,180,TSCO
+Accrued Expenses,(4),59,(4),152,128,TSCO
+Changes in Working Capital,(13),(56),16,350,(209),TSCO
+Total Cash from Operations,631,694,812,"1,395","1,139",TSCO
+Capital Expenditures,(250),(279),(217),(294),(628),TSCO
+Sale of Business,1,0,0,--,--,TSCO
+Sale of Fixed Assets,11,2,2,2,1,TSCO
+"OtherInvestCashFlowItms,Tot",12,2,2,2,1,TSCO
+Total Cash from Investing,(238),(276),(215),(292),(627),TSCO
+Financing Cash Flow Items,(1),0,0,(17),0,TSCO
+Total Cash Dividends Paid,(134),(147),(163),(175),(239),TSCO
+Sale/Issuance of Common,16,80,116,99,82,TSCO
+Repurch/Retirement Common,(370),(351),(537),(351),(814),TSCO
+"Iss (Retirmnt) of Stock,Net",(354),(272),(421),(251),(732),TSCO
+Short Term Debt Issued,"1,180","1,194",--,--,--,TSCO
+Short Term Debt Reduction,"(1,028)","(1,212)",--,--,--,TSCO
+"Short Term Debt, Net",153,(19),--,--,--,TSCO
+Long Term Debt Issued,--,--,"1,002","2,009",0,TSCO
+Long Term Debt Reduction,(2),(3),"(1,017)","(1,411)",(5),TSCO
+"Long Term Debt, Net",(2),(3),(15),598,(5),TSCO
+"Iss (Retirmnt) of Debt, Net",150,(22),(15),598,(5),TSCO
+Total Cash From Financing,(338),(441),(599),155,(975),TSCO
+Net Change in Cash,55,(23),(2),"1,258",(464),TSCO
+NetCash-BeginBal/RsvdforFutUse,54,109,86,84,"1,342",TSCO
+NetCash-EndBal/RsrvforFutUse,109,86,84,"1,342",878,TSCO
+"Depreciation, Supplemental",166,177,196,217,270,TSCO

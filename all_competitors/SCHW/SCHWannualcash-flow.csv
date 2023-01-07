@@ -1,0 +1,41 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"2,354","3,507","3,704","3,299","5,855",SCHW
+Depreciation/Depletion,269,306,349,414,549,SCHW
+Amortization,--,--,--,190,615,SCHW
+Deferred Taxes,58,49,2,(138),53,SCHW
+Non-Cash Items,546,684,828,"2,139","2,972",SCHW
+"Cash Taxes Pd, Supplemental","1,212",927,"1,199",803,"2,053",SCHW
+"Cash Interest Pd, Suppl",327,798,"1,075",434,501,SCHW
+Accounts Receivable,"(3,354)","(1,004)",(125),"(14,609)","(26,168)",SCHW
+Other Assets,"4,666","6,818","(1,686)","(10,204)","(4,550)",SCHW
+Accounts Payable,"(5,799)","2,056","6,494","22,909","21,470",SCHW
+Accrued Expenses,421,40,(241),"2,852","1,322",SCHW
+Changes in Working Capital,"(4,066)","7,910","4,442",948,"(7,926)",SCHW
+Total Cash from Operations,(839),"12,456","9,325","6,852","2,118",SCHW
+Capital Expenditures,(400),(570),(708),(631),(916),SCHW
+Sale of Business,--,--,--,"14,748",0,SCHW
+Sale/Maturity of Investment,"29,445","34,070","65,741","68,080","108,218",SCHW
+Purchase of Investments,"(48,388)","(73,830)","(51,283)","(202,388)","(171,977)",SCHW
+Other Investing Cash Flow,"(1,130)",(225),"(1,786)","(5,660)","(10,988)",SCHW
+"OtherInvestCashFlowItms,Tot","(20,073)","(39,985)","12,672","(125,220)","(74,747)",SCHW
+Total Cash from Investing,"(20,473)","(40,555)","11,964","(125,851)","(75,663)",SCHW
+Financing Cash Flow Items,"6,141","61,713","(11,370)","137,873","85,652",SCHW
+Cash Divids Paid - Common,--,(623),(899),"(1,040)","(1,366)",SCHW
+Cash Divs Paid - Preferred,--,(164),(161),(240),(456),SCHW
+Total Cash Dividends Paid,(592),(787),"(1,060)","(1,280)","(1,822)",SCHW
+"Common Stock, Net",0,"(1,000)","(2,220)",0,0,SCHW
+Sale/Issuance of Preferred,492,0,0,"4,940","2,806",SCHW
+Repurch/Retirement Preferd,(485),0,0,--,(600),SCHW
+"Preferred Stock, Net",7,0,0,"4,940","2,206",SCHW
+Options Exercised,171,125,118,79,221,SCHW
+"Iss (Retirmnt) of Stock,Net",178,(875),"(2,102)","5,019","2,427",SCHW
+"Short Term Debt, Net","15,000","(15,000)",0,0,--,SCHW
+Long Term Debt Issued,"2,129","3,024",593,"3,070","18,143",SCHW
+Long Term Debt Reduction,(257),(909),0,(700),"(8,077)",SCHW
+"Long Term Debt, Net","1,872","2,115",593,"2,370","10,066",SCHW
+"Iss (Retirmnt) of Debt, Net","16,872","(12,885)",593,"2,370","10,066",SCHW
+Total Cash From Financing,"22,599","47,166","(13,939)","143,982","96,323",SCHW
+Net Change in Cash,"1,287","19,067","7,350","24,983","22,778",SCHW
+NetCash-BeginBal/RsvdforFutUse,"17,873","19,160","38,227","45,577","70,560",SCHW
+NetCash-EndBal/RsrvforFutUse,"19,160","38,227","45,577","70,560","93,338",SCHW
+"Depreciation, Supplemental",269,306,349,414,549,SCHW

@@ -1,0 +1,52 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash & Equivalents,"21,620","20,514","37,239","30,098","21,383",ORCL
+Short Term Investments,"45,641","17,313","5,818","16,456",519,ORCL
+Cash and Short Term Invs,"67,261","37,827","43,057","46,554","21,902",ORCL
+"Trade Accts Recvble, Gross","5,506","5,505","5,960","5,782","6,315",ORCL
+Prov. for Doubtful Accts,(370),(371),(409),(373),(362),ORCL
+"Trade Accts Recvble, Net","5,136","5,134","5,551","5,409","5,953",ORCL
+Other Receivables,802,776,778,798,791,ORCL
+"Total Receivables, Net","5,938","5,910","6,329","6,207","6,744",ORCL
+Total Inventory,398,320,211,142,314,ORCL
+Prepaid Expenses,"2,562","2,329","2,543","2,664","2,673",ORCL
+Total Current Assets,"76,159","46,386","52,140","55,567","31,633",ORCL
+Buildings,--,"4,253","4,394","4,734","4,729",ORCL
+Land/Improvements,--,896,885,871,"1,166",ORCL
+Machinery/Equipment,--,"7,214","7,757","9,508","12,844",ORCL
+Construction in Progress,--,158,280,233,512,ORCL
+Other Prop./Plant/Equip.,--,554,"3,309",454,"3,923",ORCL
+Prop./Plant/Equip. - Gross,--,"13,075","16,625","15,800","23,174",ORCL
+Accumulated Depreciation,--,"(6,823)","(7,581)","(8,751)","(9,958)",ORCL
+Prop./Plant/Equip. - Net,"5,897","6,252","9,044","7,049","13,216",ORCL
+"Goodwill, Net","43,755","43,779","43,769","43,935","43,811",ORCL
+Intangibles - Gross,"12,930","12,688","11,401","11,003","10,447",ORCL
+Accum. Intangible Amort.,"(6,260)","(7,409)","(7,663)","(8,573)","(9,007)",ORCL
+Intangibles - Net,"6,670","5,279","3,738","2,430","1,440",ORCL
+Other Long Term Assets,"3,975","4,317","3,495","8,490","6,415",ORCL
+Total Assets,"137,851","108,709","115,438","131,107","109,297",ORCL
+Accounts Payable,529,580,637,745,"1,317",ORCL
+Accrued Expenses,"1,806","1,628","2,028","2,017","2,671",ORCL
+Notes Payable/ST Debt,0,0,0,0,0,ORCL
+Curr. Port. LT Dbt/Cap Ls.,"4,491","4,494","2,371","8,250","3,749",ORCL
+Customer Advances,"8,341","8,374","8,002","8,775","8,357",ORCL
+Other Current Liabilities,"3,957","3,554","4,162","4,377","3,417",ORCL
+"Other Curr. Lblts, Total","12,298","11,928","12,164","13,152","11,774",ORCL
+Total Current Liabilities,"19,124","18,630","17,200","24,164","19,511",ORCL
+Total Long Term Debt,"56,128","51,656","69,209","75,995","72,110",ORCL
+Total Debt,"60,619","56,150","71,580","84,245","75,859",ORCL
+Deferred Income Tax,--,264,41,"7,864","6,031",ORCL
+Minority Interest,501,578,643,714,452,ORCL
+"Other Liabilities, Total","15,726","15,796","16,271","17,132","17,413",ORCL
+Total Liabilities,"91,479","86,924","103,364","125,869","115,517",ORCL
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,0,ORCL
+Common Stock,"28,950","26,909","26,486","26,533","26,808",ORCL
+Ret. Earn.(Accum. Deficit),"19,111","(3,496)","(12,696)","(20,120)","(31,336)",ORCL
+Unrealized Gain (Loss),--,(90),1,0,--,ORCL
+Cum. Trans. Adjustment,--,"(1,176)","(1,254)",(775),"(1,482)",ORCL
+Min. Pension Lblty Adj.,--,(392),(471),(400),(210),ORCL
+Other Comprehensive Income,"(1,689)",30,8,0,--,ORCL
+"Other Equity, Total","(1,689)","(1,538)","(1,717)","(1,175)","(1,692)",ORCL
+Total Equity,"46,372","21,785","12,074","5,238","(6,220)",ORCL
+Total Liabilities & Shareholders’ Equity,"137,851","108,709","115,438","131,107","109,297",ORCL
+Ttl Comm. Shares Outs.,"3,997","3,359","3,067","2,814","2,665",ORCL
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,ORCL

@@ -1,0 +1,40 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"2,748","6,921","6,759","3,135","8,060",AXP
+Depreciation/Depletion,"1,321","1,293","1,188","1,543","1,695",AXP
+Deferred Taxes,782,455,426,(256),294,AXP
+Non-Cash Items,"3,042","3,635","3,856","4,979","(1,861)",AXP
+"Cash Taxes Pd, Supplemental","1,400","2,000","1,700","2,200","1,600",AXP
+"Cash Interest Pd, Suppl","2,000","2,700","3,400","2,000","1,100",AXP
+Accounts Receivable,475,248,--,--,--,AXP
+Other Assets,(77),743,(368),"(1,785)","1,068",AXP
+Accounts Payable,"5,506","(4,121)","1,771","(2,025)","5,389",AXP
+Changes in Working Capital,"5,647","(3,374)","1,403","(3,810)","6,457",AXP
+Total Cash from Operations,"13,540","8,930","13,632","5,591","14,645",AXP
+Capital Expenditures,"(1,062)","(1,310)","(1,645)","(1,478)","(1,550)",AXP
+Acquisition of Business,(211),(520),(352),(597),--,AXP
+Sale of Business,--,--,--,--,1,AXP
+Sale/Maturity of Investment,"2,496","3,503","7,351","7,228","20,094",AXP
+Purchase of Investments,"(2,612)","(5,434)","(11,166)","(20,562)","(1,517)",AXP
+Other Investing Cash Flow,"(16,853)","(15,854)","(10,895)","27,041","(27,557)",AXP
+"OtherInvestCashFlowItms,Tot","(17,180)","(18,305)","(15,062)","13,110","(8,979)",AXP
+Total Cash from Investing,"(18,242)","(19,615)","(16,707)","11,632","(10,529)",AXP
+Financing Cash Flow Items,"11,385","5,542","3,330","13,542","(2,468)",AXP
+Cash Divids Paid - Common,"(1,170)","(1,244)","(1,341)","(1,395)",--,AXP
+Cash Divs Paid - Preferred,(81),(80),(81),(79),--,AXP
+Total Cash Dividends Paid,"(1,251)","(1,324)","(1,422)","(1,474)","(1,448)",AXP
+Sale/Issuance of Common,129,87,86,44,64,AXP
+Repurch/Retirement Common,"(4,400)","(1,685)","(4,685)","(1,029)","(7,652)",AXP
+"Common Stock, Net","(4,271)","(1,598)","(4,599)",(985),"(7,588)",AXP
+"Preferred Stock, Net",--,--,--,--,(16),AXP
+"Iss (Retirmnt) of Stock,Net","(4,271)","(1,598)","(4,599)",(985),"(7,604)",AXP
+"Short Term Debt, Net","(2,300)",(148),"3,316","(4,627)",461,AXP
+Long Term Debt Issued,"32,764","21,524","12,706",69,"7,788",AXP
+Long Term Debt Reduction,"(24,082)","(18,895)","(13,850)","(15,593)","(11,662)",AXP
+"Long Term Debt, Net","8,682","2,629","(1,144)","(15,524)","(3,874)",AXP
+"Iss (Retirmnt) of Debt, Net","6,382","2,481","2,172","(20,151)","(3,413)",AXP
+Total Cash From Financing,"12,245","5,101",(519),"(9,068)","(14,933)",AXP
+Foreign Exchange Effects,226,129,232,364,(120),AXP
+Net Change in Cash,"7,769","(5,455)","(3,362)","8,519","(10,937)",AXP
+NetCash-BeginBal/RsvdforFutUse,"25,494","33,263","27,808","24,446","32,965",AXP
+NetCash-EndBal/RsrvforFutUse,"33,263","27,808","24,446","32,965","22,028",AXP
+"Depreciation, Supplemental","1,321","1,293","1,188","1,543","1,695",AXP

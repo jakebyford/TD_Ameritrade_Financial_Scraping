@@ -1,0 +1,45 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,0,0,793,901,898,AM
+Selling/Gen/Admin Expense,6,9,45,39,50,AM
+Labor & Related Expense,35,35,74,13,14,AM
+"Sell/Gen/AdminExpenses,Tot",41,44,118,52,64,AM
+Depreciation/Amortization,--,--,96,109,109,AM
+Impair-Assets Held for Use,--,--,762,674,5,AM
+Other Unusual Expnse (In),--,--,--,--,22,AM
+Unusual Expense (Income),--,--,762,677,30,AM
+Loss(Gain)/Sale Asts (Oper),--,--,--,3,4,AM
+Other Operating Expense,--,--,215,181,162,AM
+"Other Operat Expse, Total",--,--,215,181,162,AM
+Total Operating Expense,41,44,"1,191","1,018",365,AM
+Total Operating Income,(41),(44),(398),(118),534,AM
+"Inter Expse,Net Non-Operat",--,--,--,(147),(175),AM
+"Inter/Invest Inc, Non-Oper",70,143,51,86,90,AM
+"Inter Inc(Exp),Net Non-Oper",--,0,(110),--,--,AM
+Income Before Tax,29,99,(458),(178),449,AM
+Income Tax - Total,26,32,(102),(56),117,AM
+Income After Tax,2,67,(355),(123),332,AM
+Minority Interest,--,(5),0,0,--,AM
+Net Inc Before Extra Items,2,61,(355),(123),332,AM
+Total Net Income,2,61,(355),(123),332,AM
+Total Adjust to Net Income,--,--,0,(1),(1),AM
+Income Available to Common Excl. Extra. Items,2,61,(356),(123),331,AM
+Income Available to Common Incl. Extra. Items,2,61,(356),(123),331,AM
+Basic/Primary Weighted Average Shares,186,186,443,478,477,AM
+Basic/Primary EPS Excl. Extra. Items,0.01,0.33,(0.80),(0.26),0.69,AM
+Basic/Primary EPS Incl. Extra. Items,0.01,0.33,(0.80),(0.26),0.69,AM
+Diluted Weighted Average Shares,186,186,443,478,480,AM
+Diluted EPS Excl. Extra. Items,0.01,0.33,(0.80),(0.26),0.69,AM
+Diluted EPS Incl. Extra. Items,0.01,0.33,(0.80),(0.26),0.69,AM
+Div/Share-ComStockPrimIssue,0.16,0.54,1.23,1.23,0.90,AM
+Gross Divid - Common Stock,--,--,462,590,472,AM
+Pro Forma Net Income,--,--,--,--,--,AM
+"Interest Expense, Suppl",--,--,--,147,175,AM
+"Depreciat/Amort, Suppl",--,--,96,109,109,AM
+Total Special Items,--,--,762,677,30,AM
+Normalzd Income Before Tax,29,99,304,498,479,AM
+Efct/SpecItemsIncTxs (STEC),--,--,267,237,8,AM
+IncTxsExcl ImpctofSpec Itms,26,32,164,181,125,AM
+Normalized Income After Tax,2,67,140,317,354,AM
+Normalzd Inc Avail to Common,2,61,140,317,354,AM
+Basic Normalized EPS,0.01,0.33,0.32,0.66,0.74,AM
+Diluted Normalized EPS,0.01,0.33,0.32,0.66,0.74,AM

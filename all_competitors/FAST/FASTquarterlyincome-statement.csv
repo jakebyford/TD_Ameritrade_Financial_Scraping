@@ -1,0 +1,32 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"1,532","1,704","1,779","1,802",FAST
+"Cost of Revenue, Total",819,911,951,976,FAST
+"Sell/Gen/AdminExpenses,Tot",412,435,444,447,FAST
+Total Operating Expense,"1,231","1,346","1,395","1,423",FAST
+Total Operating Income,301,358,383,379,FAST
+"Inter Expse,Net Non-Operat",(2),(2),(3),(4),FAST
+"Inter/Invest Inc, Non-Oper",0,0,0,0,FAST
+Income Before Tax,299,356,381,375,FAST
+Income Tax - Total,67,86,94,91,FAST
+Income After Tax,231,270,287,285,FAST
+Net Inc Before Extra Items,231,270,287,285,FAST
+Total Net Income,231,270,287,285,FAST
+Income Available to Common Excl. Extra. Items,231,270,287,285,FAST
+Income Available to Common Incl. Extra. Items,231,270,287,285,FAST
+Basic/Primary Weighted Average Shares,575,576,575,573,FAST
+Basic/Primary EPS Excl. Extra. Items,0.40,0.47,0.50,0.50,FAST
+Basic/Primary EPS Incl. Extra. Items,0.40,0.47,0.50,0.50,FAST
+Diluted Weighted Average Shares,578,578,577,575,FAST
+Diluted EPS Excl. Extra. Items,0.40,0.47,0.50,0.50,FAST
+Diluted EPS Incl. Extra. Items,0.40,0.47,0.50,0.50,FAST
+Div/Share-ComStockPrimIssue,0.28,0.31,0.31,0.31,FAST
+Gross Divid - Common Stock,161,178,179,178,FAST
+Pro Forma Net Income,--,--,--,--,FAST
+"Interest Expense, Suppl",2,2,3,4,FAST
+"Depreciat/Amort, Suppl",41,41,41,41,FAST
+Normalzd Income Before Tax,299,356,381,375,FAST
+IncTxsExcl ImpctofSpec Itms,67,86,94,91,FAST
+Normalized Income After Tax,231,270,287,285,FAST
+Normalzd Inc Avail to Common,231,270,287,285,FAST
+Basic Normalized EPS,0.40,0.47,0.50,0.50,FAST
+Diluted Normalized EPS,0.40,0.47,0.50,0.50,FAST

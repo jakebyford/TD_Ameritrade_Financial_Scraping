@@ -1,0 +1,74 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Due from Banks,"23,367","23,551","21,757","28,236","24,616",WFC
+Interest-Earning Deposits,"192,580","149,736","119,493","236,376","209,614",WFC
+Fed. Fund/Resale,"78,999","80,207","102,140","65,672","66,223",WFC
+Trading Account Assets,"92,329","125,137","147,974","135,103","161,151",WFC
+Other Short Trm Invest.,"5,893",--,--,--,--,WFC
+Securities Held,"145,723","144,722","153,896","189,482","239,224",WFC
+Securities for Sale,"277,860","269,978","263,496","236,630","210,042",WFC
+Total Invest. Securities,"423,583","414,700","417,392","426,112","449,266",WFC
+Loans Held for Sale,"20,178","17,167","24,319","36,384","23,617",WFC
+Customer Acceptances,177,258,253,268,155,WFC
+"Other Erng. Assets, Total","813,739","787,205","811,571","899,915","910,026",WFC
+Total Gross Loans,"960,670","954,410","962,265","887,637","895,394",WFC
+Loan Loss Allowances,"(11,004)","(9,775)","(9,551)","(18,516)","(12,490)",WFC
+Unearned Income,"(3,900)","(1,300)",--,--,--,WFC
+Net Loans,"945,766","943,335","952,714","869,121","882,904",WFC
+Buildings,"11,156","11,361","12,096","12,101","12,039",WFC
+Land/Improvements,"1,799","1,757","1,857","1,808","1,759",WFC
+Other Prop./Plant/Equip.,"7,192","6,971","11,946","11,787","11,257",WFC
+Prop./Plant/Equip. - Gross,"20,147","20,089","25,899","25,696","25,055",WFC
+Accumulated Depreciation,"(11,300)","(11,169)","(11,866)","(12,495)","(12,679)",WFC
+Prop./Plant/Equip. - Net,"8,847","8,920","14,033","13,201","12,376",WFC
+"Goodwill, Net","26,587","26,418","26,390","26,392","25,180",WFC
+Intangibles - Gross,"20,704","20,989","5,369","5,491","5,636",WFC
+Accum. Intangible Amort.,"(17,670)","(19,001)","(3,516)","(3,851)","(4,156)",WFC
+Intangibles - Net,"16,659","16,637","13,370","7,765","8,400",WFC
+Long Term Investments,"16,352",--,--,--,--,WFC
+Interest Receivable,"5,688","6,084","5,586","4,621","3,615",WFC
+Other Real Estate Owned,642,451,303,159,112,WFC
+Other Assets,"94,110","83,282","81,831","103,501","80,839",WFC
+"Other Assets, Total","100,440","89,817","87,720","108,281","84,566",WFC
+Total Assets,"1,951,757","1,895,883","1,927,555","1,952,911","1,948,068",WFC
+Accrued Expenses,"62,454","60,326","67,885","69,670","68,170",WFC
+Non-Interest Bearing Dep.,"373,722","349,534","344,496","467,068","527,748",WFC
+Interest Bearing Deposits,"962,269","936,636","978,130","937,313","954,731",WFC
+Total Deposits,"1,335,991","1,286,170","1,322,626","1,404,381","1,482,479",WFC
+Fed Funds Purch.,"88,684","92,430","92,403","46,362","21,191",WFC
+Other ST Borrowings,"14,572","13,357","12,109","12,637","13,218",WFC
+Total ST Borrowings,"103,256","105,787","104,512","58,999","34,409",WFC
+Long Term Debt,"224,981","229,008","228,159","212,922","160,663",WFC
+Capital Lease Obligations,39,36,32,28,26,WFC
+Total Long Term Debt,"225,020","229,044","228,191","212,950","160,689",WFC
+Total Debt,"328,276","334,831","332,703","271,949","195,098",WFC
+Deferred Income Tax,"8,161","8,991","7,278","4,690","2,787",WFC
+Minority Interest,"1,143",900,838,"1,032","2,504",WFC
+"Other Liabilities, Total","8,796","8,499","9,079","16,509","9,424",WFC
+Total Liabilities,"1,744,821","1,699,717","1,740,409","1,768,231","1,760,462",WFC
+"Pref. Stock-Non Rdmbl, Net","25,358","23,214","21,549","21,136","20,057",WFC
+Common Stock,"9,136","9,136","9,136","9,136","9,136",WFC
+Additional Paid-In Capital,"60,893","60,685","61,049","60,197","60,196",WFC
+Ret. Earn.(Accum. Deficit),"145,263","158,163","166,697","162,683","180,322",WFC
+Treasury Stock - Common,"(29,892)","(47,194)","(68,831)","(67,791)","(79,757)",WFC
+ESOP Debt Guarantee,"(1,678)","(1,502)","(1,143)",(875),(646),WFC
+Unrealized Gain (Loss),171,"(3,122)","1,552","3,039",665,WFC
+Cum. Trans. Adjustment,(89),(233),(162),(112),(142),WFC
+Min. Pension Lblty Adj.,"(1,808)","(2,296)","(2,223)","(2,404)","(2,055)",WFC
+Other Comprehensive Income,(418),(685),(478),(329),(170),WFC
+"Other Equity, Total","(2,315)","(3,214)","(2,863)","(2,845)","(2,367)",WFC
+Total Equity,"206,936","196,166","187,146","184,680","187,606",WFC
+Total Liabilities & Shareholders’ Equity,"1,951,757","1,895,883","1,927,555","1,952,911","1,948,068",WFC
+Ttl Comm. Shares Outs.,"4,892","4,581","4,134","4,144","3,886",WFC
+Trsy. Shrs-Comm. Primary Iss.,590,901,"1,347","1,338","1,596",WFC
+Shrs Out-Pref Primary Iss.,4,4,4,4,4,WFC
+Shrs Out-Pref Stk Iss. 2,0,0,0,0,0,WFC
+Shrs Out-Pref Stk Iss. 3,2,1,1,1,1,WFC
+Shrs Out-Pref Stk Iss. 4,0,0,0,0,0,WFC
+Shrs Out-Pref Stk Iss. 5,2,0,--,--,--,WFC
+Shrs Out-Pref Stk Iss. 6,3,3,2,--,--,WFC
+Trsry Shrs-Pref. Iss. 1,0,0,0,0,0,WFC
+Trsry Shrs-Pref. Iss. 2,0,0,0,0,0,WFC
+Trsry Shrs-Pref. Iss. 3,0,0,0,0,0,WFC
+Trsry Shrs-Pref. Iss. 4,0,0,0,0,0,WFC
+Trsry Shrs-Pref. Iss. 5,0,0,--,--,--,WFC
+Trsry Shrs-Pref. Iss. 6,0,0,0,--,--,WFC

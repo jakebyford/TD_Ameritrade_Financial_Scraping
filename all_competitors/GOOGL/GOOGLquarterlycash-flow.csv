@@ -1,0 +1,32 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"76,033","16,436","32,438","46,348",GOOGL
+Depreciation/Depletion,"11,555","3,591","7,289","11,222",GOOGL
+Amortization,886,191,392,505,GOOGL
+Deferred Taxes,"1,808","(2,090)","(4,237)","(6,157)",GOOGL
+Unusual Items,"(12,270)","1,437","2,478","3,856",GOOGL
+Other Non-Cash Items,"15,163","4,644","9,488","14,631",GOOGL
+Non-Cash Items,"2,893","6,081","11,966","18,487",GOOGL
+Accounts Receivable,"(9,095)","4,364","2,395","2,298",GOOGL
+Other Assets,"(1,846)",(776),"(1,621)","(4,268)",GOOGL
+Accounts Payable,283,"(2,373)","(1,172)",735,GOOGL
+Accrued Expenses,"8,986","(4,044)","(2,661)",(531),GOOGL
+Changes in Working Capital,"(1,523)",897,"(3,320)","(2,524)",GOOGL
+Total Cash from Operations,"91,652","25,106","44,528","67,881",GOOGL
+Capital Expenditures,"(24,640)","(9,786)","(16,614)","(23,890)",GOOGL
+Acquisition of Business,"(2,618)",(173),"(1,236)","(6,885)",GOOGL
+Sale/Maturity of Investment,"129,228","29,791","55,499","84,218",GOOGL
+Purchase of Investments,"(138,034)","(29,238)","(51,463)","(68,881)",GOOGL
+Other Investing Cash Flow,541,355,576,"1,367",GOOGL
+"OtherInvestCashFlowItms,Tot","(10,883)",735,"3,376","9,819",GOOGL
+Total Cash from Investing,"(35,523)","(9,051)","(13,238)","(14,071)",GOOGL
+Financing Cash Flow Items,"(9,852)","(2,916)","(5,180)","(7,211)",GOOGL
+"Iss (Retirmnt) of Stock,Net","(50,274)","(13,300)","(28,497)","(43,889)",GOOGL
+Long Term Debt Issued,"20,199","16,422","29,228","44,322",GOOGL
+Long Term Debt Reduction,"(21,435)","(16,420)","(29,582)","(45,350)",GOOGL
+"Iss (Retirmnt) of Debt, Net","(1,236)",2,(354),"(1,028)",GOOGL
+Total Cash From Financing,"(61,362)","(16,214)","(34,031)","(52,128)",GOOGL
+Foreign Exchange Effects,(287),100,(268),(643),GOOGL
+Net Change in Cash,"(5,520)",(59),"(3,009)","1,039",GOOGL
+NetCash-BeginBal/RsvdforFutUse,"26,465","20,945","20,945","20,945",GOOGL
+NetCash-EndBal/RsrvforFutUse,"20,945","20,886","17,936","21,984",GOOGL
+"Depreciation, Supplemental","11,555","3,591","7,289","11,222",GOOGL

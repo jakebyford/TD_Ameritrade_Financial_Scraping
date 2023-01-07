@@ -1,0 +1,45 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"10,540","13,282","17,098","21,252","26,492",CRM
+"Cost of Revenue, Total","2,773","3,451","4,235","5,438","7,026",CRM
+Selling/Gen/Admin Expense,"5,032","6,336","8,211","10,056","12,197",CRM
+Labor & Related Expense,607,815,"1,071","1,246","1,475",CRM
+"Sell/Gen/AdminExpenses,Tot","5,639","7,151","9,282","11,302","13,672",CRM
+Research & Development,"1,553","1,886","2,766","3,598","4,465",CRM
+Depreciation/Amortization,121,232,352,459,727,CRM
+Impair-Assets Held for Sale,--,--,--,--,51,CRM
+Other Unusual Expnse (In),--,27,166,0,54,CRM
+Unusual Expense (Income),--,27,166,0,105,CRM
+Total Operating Expense,"10,086","12,747","16,801","20,797","25,995",CRM
+Total Operating Income,454,535,297,455,497,CRM
+"Inter Expse,Net Non-Operat",(87),(154),(130),(126),(216),CRM
+"Inter Income, Non-Operating",37,61,117,--,--,CRM
+"Invest Income, Non-Operat",33,572,428,"2,232","1,262",CRM
+"Inter/Invest Inc, Non-Oper",70,633,545,"2,232","1,262",CRM
+OtherNon-OperatInc (Expnse),(17),(31),(6),--,(11),CRM
+"Other, Net",(17),(31),(6),--,(11),CRM
+Income Before Tax,420,983,706,"2,561","1,532",CRM
+Income Tax - Total,(66),(170),574,"(1,534)",88,CRM
+Income After Tax,486,"1,153",132,"4,095","1,444",CRM
+Net Inc Before Extra Items,486,"1,153",132,"4,095","1,444",CRM
+Total Extraordinary Items,(126),(43),(6),(23),0,CRM
+Total Net Income,360,"1,110",126,"4,072","1,444",CRM
+Income Available to Common Excl. Extra. Items,486,"1,153",132,"4,095","1,444",CRM
+Income Available to Common Incl. Extra. Items,360,"1,110",126,"4,072","1,444",CRM
+Basic/Primary Weighted Average Shares,715,751,829,908,955,CRM
+Basic/Primary EPS Excl. Extra. Items,0.68,1.54,0.16,4.51,1.51,CRM
+Basic/Primary EPS Incl. Extra. Items,0.50,1.48,0.15,4.48,1.51,CRM
+Diluted Weighted Average Shares,735,775,850,930,974,CRM
+Diluted EPS Excl. Extra. Items,0.66,1.49,0.16,4.40,1.48,CRM
+Diluted EPS Incl. Extra. Items,0.49,1.43,0.15,4.38,1.48,CRM
+Gross Divid - Common Stock,0,0,0,0,0,CRM
+Pro Forma Net Income,--,--,--,--,--,CRM
+"Interest Expense, Suppl",87,154,130,126,216,CRM
+"Depreciat/Amort, Suppl",466,515,"1,343","1,722","1,674",CRM
+Total Special Items,--,27,166,125,105,CRM
+Normalzd Income Before Tax,420,"1,010",872,"2,686","1,637",CRM
+Efct/SpecItemsIncTxs (STEC),--,9,58,44,6,CRM
+IncTxsExcl ImpctofSpec Itms,(66),(161),632,"(1,490)",94,CRM
+Normalized Income After Tax,486,"1,171",240,"4,176","1,543",CRM
+Normalzd Inc Avail to Common,486,"1,171",240,"4,176","1,543",CRM
+Basic Normalized EPS,0.68,1.56,0.29,4.60,1.62,CRM
+Diluted Normalized EPS,0.66,1.51,0.28,4.49,1.58,CRM

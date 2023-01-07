@@ -1,0 +1,37 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"4,989","4,302","4,526","5,286","6,205",BLK
+Depreciation/Depletion,240,220,405,358,415,BLK
+Deferred Taxes,"(1,221)",(226),17,(157),(865),BLK
+Unusual Items,8,65,53,246,(131),BLK
+Equity in Net Earnings/Loss,(87),(64),(46),(116),(231),BLK
+Other Non-Cash Items,122,"(1,064)","(1,463)","(2,043)","(1,107)",BLK
+Non-Cash Items,43,"(1,063)","(1,456)","(1,913)","(1,469)",BLK
+"Cash Taxes Pd, Supplemental","1,124","1,159","1,168","1,308","2,720",BLK
+"Cash Interest Pd, Suppl",205,177,193,183,189,BLK
+Accounts Receivable,(521),4,(433),(313),(322),BLK
+Other Assets,(395),(255),120,100,151,BLK
+Accrued Expenses,276,(230),58,487,412,BLK
+Payable/Accrued,308,43,(111),(115),342,BLK
+Changes in Working Capital,(101),(158),(608),169,658,BLK
+Total Cash from Operations,"3,950","3,075","2,884","3,743","4,944",BLK
+Capital Expenditures,(155),(204),(254),(194),(341),BLK
+Acquisition of Business,(102),(699),"(1,510)",--,"(1,106)",BLK
+Sale/Maturity of Investment,166,449,417,187,429,BLK
+Purchase of Investments,(489),(327),(693),(359),(910),BLK
+Other Investing Cash Flow,(28),(27),26,112,(9),BLK
+"OtherInvestCashFlowItms,Tot",(453),(604),"(1,760)",(60),"(1,596)",BLK
+Total Cash from Investing,(608),(808),"(2,014)",(254),"(1,937)",BLK
+Financing Cash Flow Items,456,"1,250","1,321","2,017","1,472",BLK
+Total Cash Dividends Paid,"(1,662)","(1,968)","(2,096)","(2,260)","(2,547)",BLK
+"Common Stock, Net","(1,421)","(2,087)","(1,911)","(1,809)","(1,485)",BLK
+Options Exercised,0,0,--,--,--,BLK
+"Iss (Retirmnt) of Stock,Net","(1,421)","(2,087)","(1,911)","(1,809)","(1,485)",BLK
+Long Term Debt Issued,697,0,992,"2,245",991,BLK
+Long Term Debt Reduction,(700),0,"(1,000)",--,(750),BLK
+"Iss (Retirmnt) of Debt, Net",(3),40,103,"2,296",273,BLK
+Total Cash From Financing,"(2,630)","(2,765)","(2,583)",244,"(2,287)",BLK
+Foreign Exchange Effects,192,(93),54,102,(61),BLK
+Net Change in Cash,904,(591),"(1,659)","3,835",659,BLK
+NetCash-BeginBal/RsvdforFutUse,"6,192","7,096","6,505","4,846","8,681",BLK
+NetCash-EndBal/RsrvforFutUse,"7,096","6,505","4,846","8,681","9,340",BLK
+"Depreciation, Supplemental",240,220,405,358,415,BLK

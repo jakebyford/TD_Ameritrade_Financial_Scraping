@@ -1,0 +1,36 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"1,372",146,201,209,AIZ
+Depreciation/Depletion,172,47,95,140,AIZ
+Deferred Taxes,132,26,14,66,AIZ
+Discontinued Operations,(608),0,0,0,AIZ
+Unusual Items,22,--,--,1,AIZ
+Other Non-Cash Items,67,12,29,47,AIZ
+Non-Cash Items,(519),12,29,48,AIZ
+"Cash Taxes Pd, Supplemental",221,--,--,--,AIZ
+Other Assets,(424),(311),(445),(384),AIZ
+Accounts Payable,"1,411",(97),487,"2,379",AIZ
+Changes in Working Capital,(375),(732),(668),(143),AIZ
+Total Cash from Operations,782,(501),(328),320,AIZ
+Capital Expenditures,(187),(41),(87),(134),AIZ
+Acquisition of Business,(17),--,--,--,AIZ
+Sale of Business,"1,316",0,5,5,AIZ
+Sale/Maturity of Investment,"2,363",910,"2,051","2,740",AIZ
+"Investment, Net",(65),104,71,(22),AIZ
+Purchase of Investments,"(3,065)",(960),"(1,930)","(2,709)",AIZ
+Other Investing Cash Flow,(187),(27),(2),(15),AIZ
+"OtherInvestCashFlowItms,Tot",345,28,194,(1),AIZ
+Total Cash from Investing,158,(13),107,(135),AIZ
+Financing Cash Flow Items,(16),(10),(6),(21),AIZ
+Cash Divids Paid - Common,(158),(37),(76),(113),AIZ
+Cash Divs Paid - Preferred,(5),0,0,0,AIZ
+Total Cash Dividends Paid,(162),(37),(76),(113),AIZ
+"Iss (Retirmnt) of Stock,Net",(839),(230),(467),(558),AIZ
+Long Term Debt Issued,347,--,0,0,AIZ
+Long Term Debt Reduction,(420),0,(76),(76),AIZ
+"Iss (Retirmnt) of Debt, Net",(73),0,(76),(76),AIZ
+Total Cash From Financing,"(1,090)",(278),(625),(767),AIZ
+Foreign Exchange Effects,(23),(4),(27),(43),AIZ
+Net Change in Cash,(174),(796),(873),(625),AIZ
+NetCash-BeginBal/RsvdforFutUse,"2,229","2,055","2,055","2,055",AIZ
+NetCash-EndBal/RsrvforFutUse,"2,055","1,259","1,182","1,430",AIZ
+"Depreciation, Supplemental",172,47,95,140,AIZ

@@ -1,0 +1,39 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"2,034",594,"1,123","1,651",ZTS
+Depreciation/Depletion,448,114,231,346,ZTS
+Deferred Taxes,(80),(45),(76),(110),ZTS
+Unusual Items,49,1,2,7,ZTS
+Other Non-Cash Items,105,30,76,100,ZTS
+Non-Cash Items,154,31,78,107,ZTS
+"Cash Taxes Pd, Supplemental",548,26,316,471,ZTS
+"Cash Interest Pd, Suppl",253,89,121,209,ZTS
+Accounts Receivable,(155),(102),(182),(120),ZTS
+Inventories,(366),(146),(312),(438),ZTS
+Other Assets,(7),(1),(34),(20),ZTS
+Accounts Payable,(17),(31),(6),(59),ZTS
+Changes in Working Capital,(343),(385),(711),(823),ZTS
+Total Cash from Operations,"2,213",309,645,"1,171",ZTS
+Capital Expenditures,(477),(115),(261),(415),ZTS
+Acquisition of Business,(14),(4),(93),(96),ZTS
+Sale of Fixed Assets,2,--,--,--,ZTS
+"Investment, Net",44,6,40,74,ZTS
+Purchase of Investments,(12),(5),(7),(8),ZTS
+Other Investing Cash Flow,(1),--,--,--,ZTS
+"OtherInvestCashFlowItms,Tot",19,(3),(60),(30),ZTS
+Total Cash from Investing,(458),(118),(321),(445),ZTS
+Financing Cash Flow Items,(6),--,0,0,ZTS
+Total Cash Dividends Paid,(474),(154),(307),(460),ZTS
+"Common Stock, Net",(743),(361),(812),"(1,189)",ZTS
+Options Exercised,(35),(30),(38),(38),ZTS
+"Iss (Retirmnt) of Stock,Net",(778),(391),(850),"(1,227)",ZTS
+"Short Term Debt, Net",(4),--,2,3,ZTS
+Long Term Debt Issued,0,--,--,--,ZTS
+Long Term Debt Reduction,(600),--,--,0,ZTS
+"Long Term Debt, Net",(600),--,--,0,ZTS
+"Iss (Retirmnt) of Debt, Net",(604),--,2,3,ZTS
+Total Cash From Financing,"(1,862)",(545),"(1,155)","(1,684)",ZTS
+Foreign Exchange Effects,(12),4,(2),(20),ZTS
+Net Change in Cash,(119),(350),(833),(978),ZTS
+NetCash-BeginBal/RsvdforFutUse,"3,604","3,485","3,485","3,485",ZTS
+NetCash-EndBal/RsrvforFutUse,"3,485","3,135","2,652","2,507",ZTS
+"Depreciation, Supplemental",448,114,231,346,ZTS

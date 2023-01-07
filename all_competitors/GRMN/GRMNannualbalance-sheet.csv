@@ -1,0 +1,54 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,891,"1,202","1,028","1,458","1,498",GRMN
+Short Term Investments,162,183,376,388,348,GRMN
+Cash and Short Term Invs,"1,053","1,385","1,404","1,846","1,846",GRMN
+"Trade Accts Recvble, Gross",595,575,714,861,851,GRMN
+Prov. for Doubtful Accts,(4),(5),(7),(11),(7),GRMN
+"Total Receivables, Net",591,570,707,849,854,GRMN
+Invent. - Finished Goods,262,260,360,332,504,GRMN
+Invent. - Work In Progress,76,97,133,148,214,GRMN
+Invent. - Raw Materials,180,206,260,282,509,GRMN
+Total Inventory,518,562,753,762,"1,228",GRMN
+Prepaid Expenses,154,121,169,192,318,GRMN
+"Other Curr. Assets, Total",31,28,25,20,16,GRMN
+Total Current Assets,"2,346","2,665","3,058","3,669","4,262",GRMN
+Buildings,483,539,577,663,764,GRMN
+Land/Improvements,115,132,133,125,207,GRMN
+Machinery/Equipment,319,338,390,800,918,GRMN
+Other Prop./Plant/Equip.,246,265,370,95,89,GRMN
+Prop./Plant/Equip. - Gross,"1,162","1,273","1,470","1,682","1,978",GRMN
+Accumulated Depreciation,(566),(610),(677),(732),(821),GRMN
+Prop./Plant/Equip. - Net,596,664,793,950,"1,157",GRMN
+"Goodwill, Net",287,301,467,584,575,GRMN
+Intangibles - Gross,317,331,432,524,525,GRMN
+Accum. Intangible Amort.,(194),(214),(240),(280),(309),GRMN
+Intangibles - Net,123,116,193,244,216,GRMN
+Long Term Investments,"1,260","1,330","1,205","1,131","1,269",GRMN
+Deferred Charges,33,29,23,17,12,GRMN
+Def. Inc. Tax - LT Asset,196,177,269,245,260,GRMN
+Restricted Cash - LT,0,0,0,0,1,GRMN
+Other Long Term Assets,107,100,159,190,103,GRMN
+Total Assets,"4,948","5,383","6,167","7,031","7,854",GRMN
+Accounts Payable,170,205,241,259,370,GRMN
+Accrued Expenses,390,368,426,516,604,GRMN
+Notes Payable/ST Debt,0,0,0,0,0,GRMN
+Dividends Payable,96,200,217,234,258,GRMN
+Customer Advances,103,96,95,87,88,GRMN
+Income Taxes Payable,34,52,57,69,128,GRMN
+"Other Curr. Lblts, Total",233,348,369,389,474,GRMN
+Total Current Liabilities,792,921,"1,036","1,164","1,448",GRMN
+Total Long Term Debt,0,0,0,0,0,GRMN
+Total Debt,0,0,0,0,0,GRMN
+Deferred Income Tax,77,93,115,117,118,GRMN
+"Other Liabilities, Total",227,206,223,234,175,GRMN
+Total Liabilities,"1,096","1,220","1,373","1,515","1,740",GRMN
+Common Stock,18,18,18,18,18,GRMN
+Additional Paid-In Capital,"1,828","1,824","1,836","1,880","1,961",GRMN
+Ret. Earn.(Accum. Deficit),"2,418","2,711","3,229","3,754","4,321",GRMN
+Treasury Stock - Common,(469),(398),(345),(320),(303),GRMN
+Unrealized Gain (Loss),(23),(39),1,20,(6),GRMN
+"Other Equity, Total",79,47,55,163,123,GRMN
+Total Equity,"3,852","4,163","4,793","5,516","6,114",GRMN
+Total Liabilities & Shareholders’ Equity,"4,948","5,383","6,167","7,031","7,854",GRMN
+Ttl Comm. Shares Outs.,188,189,191,192,193,GRMN
+Trsy. Shrs-Comm. Primary Iss.,10,9,7,7,5,GRMN

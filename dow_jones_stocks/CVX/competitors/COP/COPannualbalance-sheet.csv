@@ -1,0 +1,55 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"6,325","5,915","5,088","2,991","5,028",COP
+Short Term Investments,"1,873",248,"3,028","3,609",446,COP
+Cash and Short Term Invs,"8,198","6,163","8,116","6,600","5,474",COP
+"Trade Accts Recvble, Gross","4,183","3,945","3,280","2,638","6,545",COP
+Prov. for Doubtful Accts,(4),(25),(13),(4),(2),COP
+"Total Receivables, Net","4,320","4,067","3,401","2,754","6,670",COP
+Invent. - Finished Goods,512,432,472,461,647,COP
+Invent. - Raw Materials,548,575,554,541,561,COP
+Total Inventory,"1,060","1,007","1,026","1,002","1,208",COP
+Prepaid Expenses,759,158,"1,930",454,"1,487",COP
+Restricted Cash - Current,--,--,--,--,94,COP
+Other Current Assets,"2,175","1,879","2,440","1,256","1,117",COP
+"Other Curr. Assets, Total","2,175","1,879","2,440","1,256","1,211",COP
+Total Current Assets,"16,512","13,274","16,913","12,066","16,050",COP
+Prop./Plant/Equip. - Gross,"110,431","110,597","98,642","102,889","130,295",COP
+Accumulated Depreciation,"(64,748)","(64,899)","(55,477)","(62,213)","(64,735)",COP
+Prop./Plant/Equip. - Net,"45,683","45,698","43,165","40,676","65,560",COP
+LT Invt. - Affiliate Comp.,"9,129","9,005","8,234","7,596","6,701",COP
+LT Investments - Other,95,86,210,284,314,COP
+Long Term Investments,"9,224","9,091","8,444","7,880","7,015",COP
+Note Rcvble - Long Term,836,573,462,251,98,COP
+Other Long Term Assets,"1,107","1,344","1,530","1,745","1,720",COP
+Total Assets,"73,362","69,980","70,514","62,618","90,661",COP
+Accounts Payable,"4,030","3,895","3,200","2,698","5,025",COP
+Accrued Expenses,"1,472","1,692","2,405","1,729","2,934",COP
+Notes Payable/ST Debt,0,0,0,0,0,COP
+Curr. Port. LT Dbt/Cap Ls.,"2,575",112,105,619,"1,200",COP
+Income Taxes Payable,"1,038","1,320","1,030",320,"2,862",COP
+Other Current Liabilities,282,376,303,--,--,COP
+"Other Curr. Lblts, Total","1,320","1,696","1,333",320,"2,862",COP
+Total Current Liabilities,"9,397","7,395","7,043","5,366","12,021",COP
+Long Term Debt,"16,421","14,158","14,157","14,027","17,753",COP
+Capital Lease Obligations,707,698,633,723,981,COP
+Total Long Term Debt,"17,128","14,856","14,790","14,750","18,734",COP
+Total Debt,"19,703","14,968","14,895","15,369","19,934",COP
+Deferred Income Tax,"5,282","5,021","4,634","3,747","6,179",COP
+Minority Interest,194,125,69,0,--,COP
+Reserves,"7,631","7,688","5,352","5,430","5,754",COP
+Pension Benefits - Underfunded,"1,854","1,764","1,781","1,697","1,153",COP
+Other LT Liabilities,"1,269","1,192","1,864","1,779","1,414",COP
+"Other Liabilities, Total","10,754","10,644","8,997","8,906","8,321",COP
+Total Liabilities,"42,755","38,041","35,533","32,769","45,255",COP
+Common Stock,18,18,18,18,21,COP
+Additional Paid-In Capital,"46,622","46,879","46,983","47,133","60,581",COP
+Ret. Earn.(Accum. Deficit),"29,391","34,010","39,742","35,213","40,674",COP
+Treasury Stock - Common,"(39,906)","(42,905)","(46,405)","(47,297)","(50,920)",COP
+Unrealized Gain (Loss),(58),0,0,2,--,COP
+Cum. Trans. Adjustment,"(5,060)","(5,702)","(5,007)","(4,795)","(4,919)",COP
+Min. Pension Lblty Adj.,(400),(361),(350),(425),(31),COP
+"Other Equity, Total","(5,460)","(6,063)","(5,357)","(5,220)","(4,950)",COP
+Total Equity,"30,607","31,939","34,981","29,849","45,406",COP
+Total Liabilities & Shareholders’ Equity,"73,362","69,980","70,514","62,618","90,661",COP
+Ttl Comm. Shares Outs.,"1,177","1,138","1,085","1,068","1,302",COP
+Trsy. Shrs-Comm. Primary Iss.,608,653,711,731,789,COP

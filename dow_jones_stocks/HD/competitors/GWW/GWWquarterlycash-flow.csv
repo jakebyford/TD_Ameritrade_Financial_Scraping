@@ -1,0 +1,38 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"1,114",385,774,"1,216",GWW
+Depreciation/Depletion,185,52,107,159,GWW
+Deferred Taxes,27,7,15,20,GWW
+Unusual Items,(6),0,2,1,GWW
+Other Non-Cash Items,60,13,35,51,GWW
+Non-Cash Items,54,13,37,52,GWW
+Accounts Receivable,(324),(263),(398),(487),GWW
+Inventories,(152),(65),(149),(253),GWW
+Prepaid Expenses,(15),(39),(50),(39),GWW
+Accounts Payable,54,228,263,261,GWW
+Accrued Expenses,43,(53),(8),51,GWW
+Changes in Working Capital,(443),(114),(340),(474),GWW
+Total Cash from Operations,937,343,593,973,GWW
+Capital Expenditures,(255),(57),(163),(208),GWW
+Sale of Business,29,--,--,--,GWW
+Sale of Fixed Assets,--,0,2,7,GWW
+Other Investing Cash Flow,0,--,(11),(11),GWW
+"OtherInvestCashFlowItms,Tot",29,0,(9),(4),GWW
+Total Cash from Investing,(226),(57),(172),(212),GWW
+Financing Cash Flow Items,(27),(2),(21),(22),GWW
+Total Cash Dividends Paid,(357),(84),(183),(285),GWW
+"Common Stock, Net",(695),(79),(199),(383),GWW
+Options Exercised,48,6,15,21,GWW
+"Iss (Retirmnt) of Stock,Net",(647),(73),(184),(362),GWW
+Short Term Debt Issued,0,--,--,1,GWW
+Short Term Debt Reduction,0,--,--,--,GWW
+"Short Term Debt, Net",0,--,--,1,GWW
+Long Term Debt Issued,0,--,--,--,GWW
+Long Term Debt Reduction,(8),--,0,0,GWW
+"Long Term Debt, Net",(8),--,0,0,GWW
+"Iss (Retirmnt) of Debt, Net",(8),--,0,1,GWW
+Total Cash From Financing,"(1,039)",(159),(388),(668),GWW
+Foreign Exchange Effects,(16),(4),(12),(19),GWW
+Net Change in Cash,(344),123,21,74,GWW
+NetCash-BeginBal/RsvdforFutUse,585,241,241,241,GWW
+NetCash-EndBal/RsrvforFutUse,241,364,262,315,GWW
+"Depreciation, Supplemental",185,52,107,159,GWW

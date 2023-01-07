@@ -1,0 +1,27 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"1,045",287,"1,997","1,216","2,946",CINF
+Depreciation/Depletion,55,63,72,81,93,CINF
+Deferred Taxes,(444),(47),343,136,477,CINF
+Non-Cash Items,74,75,74,74,78,CINF
+"Cash Taxes Pd, Supplemental",60,98,34,84,257,CINF
+"Cash Interest Pd, Suppl",52,53,53,53,52,CINF
+Changes in Working Capital,322,803,"(1,278)",(16),"(1,613)",CINF
+Total Cash from Operations,"1,052","1,181","1,208","1,491","1,981",CINF
+Capital Expenditures,(16),(20),(24),(20),(15),CINF
+Sale/Maturity of Investment,"1,718","1,566","1,546","1,606","1,597",CINF
+"Investment, Net",(15),(38),(72),(50),64,CINF
+Purchase of Investments,"(2,236)","(1,951)","(2,124)","(2,081)","(2,701)",CINF
+Other Investing Cash Flow,(9),(8),(5),(15),(2),CINF
+"OtherInvestCashFlowItms,Tot",(542),(431),(655),(540),"(1,042)",CINF
+Total Cash from Investing,(558),(451),(679),(560),"(1,057)",CINF
+Financing Cash Flow Items,(139),(159),(142),(184),(159),CINF
+Total Cash Dividends Paid,(400),(336),(355),(375),(395),CINF
+"Common Stock, Net",(92),(125),(67),(261),(144),CINF
+Options Exercised,13,9,11,7,13,CINF
+"Iss (Retirmnt) of Stock,Net",(79),(116),(56),(254),(131),CINF
+"Iss (Retirmnt) of Debt, Net",4,8,7,15,0,CINF
+Total Cash From Financing,(614),(603),(546),(798),(685),CINF
+Net Change in Cash,(120),127,(17),133,239,CINF
+NetCash-BeginBal/RsvdforFutUse,777,657,784,767,900,CINF
+NetCash-EndBal/RsrvforFutUse,657,784,767,900,"1,139",CINF
+"Depreciation, Supplemental",55,63,72,81,93,CINF

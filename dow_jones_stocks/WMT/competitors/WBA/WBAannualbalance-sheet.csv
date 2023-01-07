@@ -1,0 +1,59 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash & Equivalents,785,"1,023",516,"1,193","1,358",WBA
+Short Term Investments,--,--,--,--,"1,114",WBA
+Cash and Short Term Invs,785,"1,023",516,"1,193","2,472",WBA
+"Total Receivables, Net","6,573","7,226","7,132","5,663","5,017",WBA
+Total Inventory,"9,565","9,333","9,451","8,159","8,353",WBA
+Restricted Cash - Current,190,184,230,77,86,WBA
+Discont. Ops.-Curr. Assets,--,--,--,0,--,WBA
+Other Current Assets,733,934,744,722,974,WBA
+"Other Curr. Assets, Total",923,"1,118",974,799,"1,060",WBA
+Total Current Assets,"17,846","18,700","18,073","15,814","16,902",WBA
+Buildings,"7,874","8,023","8,023","7,569","6,996",WBA
+Land/Improvements,"3,593","3,507","3,253","2,798","2,333",WBA
+Machinery/Equipment,"2,464","2,770","3,215","3,624","3,087",WBA
+Construction in Progress,--,--,--,--,"1,785",WBA
+Other Prop./Plant/Equip.,"10,493","10,489","33,030","33,223","31,630",WBA
+Prop./Plant/Equip. - Gross,"24,424","24,789","47,521","47,214","45,831",WBA
+Accumulated Depreciation,"(10,513)","(11,310)","(12,456)","(13,073)","(12,843)",WBA
+Prop./Plant/Equip. - Net,"13,911","13,478","35,066","34,140","32,988",WBA
+"Goodwill, Net","16,914","16,560","15,268","12,421","22,280",WBA
+Intangibles - Gross,"13,423","12,897","12,613","11,763","12,683",WBA
+Accum. Intangible Amort.,"(1,640)","(2,021)","(1,860)","(1,826)","(1,953)",WBA
+Intangibles - Net,"11,783","10,876","10,753","9,936","10,730",WBA
+Long Term Investments,"6,610","6,851","7,338","6,987","5,495",WBA
+Other Long Term Assets,"1,060","1,133",676,"1,987","1,729",WBA
+Total Assets,"68,124","67,598","87,174","81,285","90,124",WBA
+Accounts Payable,"13,566","14,341","14,458","11,136","11,255",WBA
+Accrued Expenses,"5,857","5,468","8,931","9,482","10,148",WBA
+Notes Payable/ST Debt,430,"2,400","1,517",0,0,WBA
+Curr. Port. LT Dbt/Cap Ls.,"1,536","3,338","2,055","1,342","1,096",WBA
+Income Taxes Payable,273,216,110,94,84,WBA
+Discontinued Operations,--,--,--,0,--,WBA
+Other Current Liabilities,5,6,(1),--,--,WBA
+"Other Curr. Lblts, Total",278,222,109,94,84,WBA
+Total Current Liabilities,"21,667","25,769","27,070","22,054","22,583",WBA
+Long Term Debt,"12,431","11,098","12,203","7,675","10,615",WBA
+Capital Lease Obligations,--,--,"1,020",974,899,WBA
+Total Long Term Debt,"12,431","11,098","13,223","8,649","11,514",WBA
+Total Debt,"14,397","16,836","16,795","9,991","12,610",WBA
+Deferred Income Tax,"1,815","1,785","1,498","1,850","1,442",WBA
+Minority Interest,682,641,498,721,"5,133",WBA
+Other LT Liabilities,"5,522","4,794","24,247","24,592","24,177",WBA
+Discont. Ops. - Lblts,--,--,--,0,--,WBA
+"Other Liabilities, Total","5,522","4,794","24,247","24,592","24,177",WBA
+Total Liabilities,"42,117","44,087","66,536","57,866","64,849",WBA
+Common Stock,12,12,12,12,12,WBA
+Additional Paid-In Capital,"10,493","10,639","10,761","10,988","10,950",WBA
+Ret. Earn.(Accum. Deficit),"33,551","35,815","34,210","35,121","37,801",WBA
+Treasury Stock - Common,"(15,047)","(19,057)","(20,575)","(20,593)","(20,683)",WBA
+Unrealized Gain (Loss),3,3,(10),(29),1,WBA
+Cum. Trans. Adjustment,"(3,076)","(3,884)","(2,948)","(1,772)","(2,605)",WBA
+Other Equity,--,(1),1,--,--,WBA
+Min. Pension Lblty Adj.,101,(48),(748),(359),(157),WBA
+Other Comprehensive Income,(30),32,(65),51,(44),WBA
+"Other Equity, Total","(3,005)","(3,901)","(3,760)","(2,080)","(2,806)",WBA
+Total Equity,"26,007","23,511","20,638","23,419","25,275",WBA
+Total Liabilities & Shareholders’ Equity,"68,124","67,598","87,174","81,285","90,124",WBA
+Ttl Comm. Shares Outs.,952,895,866,865,865,WBA
+Trsy. Shrs-Comm. Primary Iss.,220,277,307,307,308,WBA

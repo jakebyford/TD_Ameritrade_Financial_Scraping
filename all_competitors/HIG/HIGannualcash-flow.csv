@@ -1,0 +1,38 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"(3,131)","1,807","2,085","1,737","2,365",HIG
+Depreciation/Depletion,399,467,451,562,680,HIG
+Amortization,"1,417","1,442","1,622","1,706","1,680",HIG
+Deferred Taxes,170,(103),886,459,85,HIG
+Extraordinary Item,877,0,--,--,--,HIG
+Unusual Items,"4,004",(196),90,48,21,HIG
+Non-Cash Items,"4,881",(196),90,48,21,HIG
+"Cash Taxes Pd, Supplemental",6,9,396,71,(496),HIG
+"Cash Interest Pd, Suppl",322,292,261,232,214,HIG
+Changes in Working Capital,"(1,533)",(37),"(1,645)",(699),(680),HIG
+Total Cash from Operations,"2,203","3,380","3,489","3,813","4,151",HIG
+Capital Expenditures,(250),(122),(105),(114),(133),HIG
+Acquisition of Business,"(1,423)",0,"(1,901)",0,0,HIG
+Sale of Business,222,"1,115",0,0,11,HIG
+Sale/Maturity of Investment,"32,878","25,156","18,773","19,701","22,994",HIG
+"Investment, Net","(32,019)","(27,127)","(18,121)","(20,845)","(22,972)",HIG
+Purchase of Investments,(509),(481),(303),(491),"(1,317)",HIG
+Other Investing Cash Flow,(341),(503),(491),(317),"(1,049)",HIG
+"OtherInvestCashFlowItms,Tot","(1,192)","(1,840)","(2,043)","(1,952)","(2,333)",HIG
+Total Cash from Investing,"(1,442)","(1,962)","(2,148)","(2,066)","(2,466)",HIG
+Financing Cash Flow Items,(991),(447),(1),(42),14,HIG
+Cash Divids Paid - Common,(341),(379),(433),(457),(485),HIG
+Cash Divs Paid - Preferred,--,--,(21),(21),(21),HIG
+Total Cash Dividends Paid,(341),(379),(454),(478),(506),HIG
+"Common Stock, Net","(1,028)",0,(200),(150),"(1,702)",HIG
+"Preferred Stock, Net",--,334,0,0,--,HIG
+Options Exercised,(10),(16),(6),(21),25,HIG
+"Iss (Retirmnt) of Stock,Net","(1,038)",318,(206),(171),"(1,677)",HIG
+Long Term Debt Issued,500,490,"1,376",0,588,HIG
+Long Term Debt Reduction,(429),(828),"(1,583)",(500),0,HIG
+"Iss (Retirmnt) of Debt, Net","1,391",(959),(530),"(1,087)",588,HIG
+Total Cash From Financing,(979),"(1,467)","(1,191)","(1,778)","(1,581)",HIG
+Foreign Exchange Effects,70,(10),(9),8,(6),HIG
+Net Change in Cash,(148),(59),141,(23),98,HIG
+NetCash-BeginBal/RsvdforFutUse,328,180,121,262,239,HIG
+NetCash-EndBal/RsrvforFutUse,180,121,262,239,337,HIG
+"Depreciation, Supplemental",399,467,451,562,680,HIG

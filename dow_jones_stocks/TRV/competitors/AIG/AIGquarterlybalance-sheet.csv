@@ -1,0 +1,42 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash,"2,198","2,537","2,378","2,294",AIG
+Long Term Investments,"359,292","337,870","315,062","306,087",AIG
+Insurance Receivables,"12,409","14,827","15,000","13,476",AIG
+Def. Inc. Tax - LT Asset,"11,714","13,435","14,353","15,250",AIG
+Restricted Cash - LT,32,40,69,69,AIG
+Def. Policy Acq. Costs,"10,514","12,915","14,838","15,822",AIG
+Accrued Investment Income,"2,239","2,272","2,232","2,286",AIG
+Reinsurance - Asset,"74,284","75,602","74,477","73,547",AIG
+Separate Accounts - Assets,"109,111","100,850","86,735","81,302",AIG
+Other Assets,"14,319","13,165","13,794","12,799",AIG
+"Other Assets, Total","199,953","191,889","177,238","169,934",AIG
+Total Assets,"596,112","573,513","538,938","522,932",AIG
+Insurance Reserves,"138,976","136,833","134,415","132,785",AIG
+Unearned Prem. Or Rev.,"19,313","21,764","21,120","20,371",AIG
+Sep. Accounts - Liability,"109,111","100,850","86,735","81,302",AIG
+Other Policyholders’ Funds,"160,162","160,244","160,392","161,540",AIG
+Reinsurance - Liability,"40,771","36,481","32,970","30,424",AIG
+Policy Liabilities,"468,333","456,172","435,632","426,422",AIG
+Notes Payable/ST Debt,0,0,0,0,AIG
+Curr. Port. LT Dbt/Cap Ls.,68,67,51,61,AIG
+Total Long Term Debt,"30,095","29,871","28,387","55,448",AIG
+Total Debt,"30,163","29,938","28,438","55,509",AIG
+Minority Interest,"2,956","2,159","1,480","1,978",AIG
+"Other Liabilities, Total","28,704","29,300","28,044",--,AIG
+Total Liabilities,"530,156","517,569","493,594","483,909",AIG
+Redeemable Preferred Stock,500,500,500,500,AIG
+"Pref. Stock-Non Rdmbl, Net",(15),(15),(15),(15),AIG
+Common Stock,"4,766","4,766","4,766","4,766",AIG
+Additional Paid-In Capital,"81,851","81,620","81,679","80,301",AIG
+Ret. Earn.(Accum. Deficit),"23,785","27,764","30,550","33,009",AIG
+Treasury Stock - Common,"(51,618)","(52,791)","(54,480)","(55,745)",AIG
+Unrealized Gain (Loss),"10,037","(2,534)","(14,033)","(19,595)",AIG
+Cum. Trans. Adjustment,"(2,453)","(2,478)","(2,747)","(3,336)",AIG
+Min. Pension Lblty Adj.,(903),(894),(878),(864),AIG
+Other Comprehensive Income,6,6,2,2,AIG
+"Other Equity, Total","(3,350)","(3,366)","(3,623)","(4,198)",AIG
+Total Equity,"65,956","55,944","45,344","39,023",AIG
+Total Liabilities & Shareholders’ Equity,"596,112","573,513","538,938","522,932",AIG
+Ttl Comm. Shares Outs.,819,800,771,747,AIG
+Trsy. Shrs-Comm. Primary Iss.,"1,088","1,106","1,135","1,159",AIG
+Trsry Shrs-Pref. Iss. 3,0,0,0,0,AIG

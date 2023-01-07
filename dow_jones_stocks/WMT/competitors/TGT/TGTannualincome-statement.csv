@@ -1,0 +1,43 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"72,714","75,356","78,112","93,561","106,005",TGT
+"Cost of Revenue, Total","51,125","53,299","54,864","65,951","74,963",TGT
+"Sell/Gen/AdminExpenses,Tot","15,049","15,631","16,210","18,553","19,684",TGT
+Depreciation/Amortization,"2,225","2,224","2,357","2,230","2,344",TGT
+Impair-Assets Held for Use,91,92,23,62,68,TGT
+Other Unusual Expnse (In),123,--,10,738,(335),TGT
+Unusual Expense (Income),214,92,33,800,(267),TGT
+Total Operating Expense,"68,613","71,246","73,464","87,534","96,724",TGT
+Total Operating Income,"4,101","4,110","4,648","6,027","9,281",TGT
+"Inter Expse,Net Non-Operat",--,(42),(51),(62),(68),TGT
+"Inter/Invest Inc, Non-Oper",9,(3),--,--,--,TGT
+"Inter Inc(Exp),Net Non-Oper",(539),(416),(416),(403),(353),TGT
+"Other, Net",59,27,9,(16),47,TGT
+Income Before Tax,"3,630","3,676","4,190","5,546","8,907",TGT
+Income Tax - Total,"1,065",782,921,"1,178","1,961",TGT
+Income After Tax,"2,565","2,894","3,269","4,368","6,946",TGT
+Net Inc Before Extra Items,"2,565","2,894","3,269","4,368","6,946",TGT
+Discontinued Operations,6,7,12,0,0,TGT
+Extraordinary Item,343,36,--,--,--,TGT
+Total Extraordinary Items,349,43,12,0,0,TGT
+Total Net Income,"2,914","2,937","3,281","4,368","6,946",TGT
+Income Available to Common Excl. Extra. Items,"2,565","2,894","3,269","4,368","6,946",TGT
+Income Available to Common Incl. Extra. Items,"2,914","2,937","3,281","4,368","6,946",TGT
+Basic/Primary Weighted Average Shares,547,529,511,501,488,TGT
+Basic/Primary EPS Excl. Extra. Items,4.69,5.47,6.40,8.73,14.23,TGT
+Basic/Primary EPS Incl. Extra. Items,5.33,5.56,6.42,8.73,14.23,TGT
+Diluted Weighted Average Shares,550,533,516,505,493,TGT
+Diluted EPS Excl. Extra. Items,4.66,5.43,6.34,8.64,14.10,TGT
+Diluted EPS Incl. Extra. Items,5.30,5.51,6.36,8.64,14.10,TGT
+Div/Share-ComStockPrimIssue,2.44,2.52,2.60,2.68,3.16,TGT
+Gross Divid - Common Stock,"1,356","1,347","1,345","1,397","1,655",TGT
+Pro Forma Net Income,--,--,--,--,--,TGT
+"Interest Expense, Suppl",--,42,51,62,68,TGT
+"Depreciat/Amort, Suppl","2,462","2,460","2,591","2,500","2,624",TGT
+Total Special Items,214,92,33,819,(267),TGT
+Normalzd Income Before Tax,"3,844","3,768","4,223","6,365","8,640",TGT
+Efct/SpecItemsIncTxs (STEC),63,20,7,174,(59),TGT
+IncTxsExcl ImpctofSpec Itms,"1,128",802,928,"1,352","1,902",TGT
+Normalized Income After Tax,"2,716","2,966","3,295","5,013","6,738",TGT
+Normalzd Inc Avail to Common,"2,716","2,966","3,295","5,013","6,738",TGT
+Basic Normalized EPS,4.97,5.61,6.45,10.01,13.80,TGT
+Diluted Normalized EPS,4.94,5.56,6.39,9.92,13.68,TGT

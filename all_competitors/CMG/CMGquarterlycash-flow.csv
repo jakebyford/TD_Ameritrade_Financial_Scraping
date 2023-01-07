@@ -1,0 +1,30 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,653,158,418,675,CMG
+Depreciation/Depletion,255,72,141,213,CMG
+Deferred Taxes,(12),(14),(16),(9),CMG
+Unusual Items,17,4,9,15,CMG
+Other Non-Cash Items,172,22,39,63,CMG
+Non-Cash Items,189,26,48,78,CMG
+"Cash Taxes Pd, Supplemental",(18),(2),139,227,CMG
+Accounts Receivable,(2),10,12,23,CMG
+Inventories,(6),3,3,(1),CMG
+Prepaid Expenses,(27),6,1,(3),CMG
+Other Assets,228,54,109,170,CMG
+Accounts Payable,21,16,(3),11,CMG
+Accrued Expenses,(241),(70),(123),(203),CMG
+Changes in Working Capital,197,41,(23),(36),CMG
+Total Cash from Operations,"1,282",283,570,922,CMG
+Capital Expenditures,(442),(96),(196),(336),CMG
+Sale of Fixed Assets,4,--,0,0,CMG
+Sale/Maturity of Investment,346,82,143,203,CMG
+Purchase of Investments,(429),(119),(195),(514),CMG
+"OtherInvestCashFlowItms,Tot",(80),(37),(53),(311),CMG
+Total Cash from Investing,(522),(133),(249),(646),CMG
+Financing Cash Flow Items,(82),(86),(92),(93),CMG
+"Iss (Retirmnt) of Stock,Net",(466),(263),(522),(630),CMG
+Total Cash From Financing,(549),(349),(614),(723),CMG
+Foreign Exchange Effects,(1),0,0,(1),CMG
+Net Change in Cash,210,(199),(294),(449),CMG
+NetCash-BeginBal/RsvdforFutUse,636,846,846,846,CMG
+NetCash-EndBal/RsrvforFutUse,846,647,552,398,CMG
+"Depreciation, Supplemental",255,72,141,213,CMG

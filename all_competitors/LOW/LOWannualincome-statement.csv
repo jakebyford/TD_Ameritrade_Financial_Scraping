@@ -1,0 +1,49 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"68,619","71,309","72,148","89,597","96,250",LOW
+"Cost of Revenue, Total","46,185","48,401","49,205","60,025","64,194",LOW
+Selling/Gen/Admin Expense,"14,345","16,211","15,199","16,338","17,032",LOW
+Labor & Related Expense,99,74,98,155,230,LOW
+Advertising Expense,--,--,--,798,877,LOW
+"Sell/Gen/AdminExpenses,Tot","14,444","16,285","15,297","17,291","18,139",LOW
+Depreciation/Amortization,"1,404","1,477","1,262","1,399","1,662",LOW
+Restructuring Charge,--,58,17,35,--,LOW
+Impair-Assets Held for Use,--,549,53,--,--,LOW
+Other Unusual Expnse (In),464,521,0,"2,260",162,LOW
+Unusual Expense (Income),464,"1,128",70,"2,295",162,LOW
+Total Operating Expense,"62,497","67,291","65,834","81,010","84,157",LOW
+Total Operating Income,"6,122","4,018","6,314","8,587","12,093",LOW
+"Inter Expse, Non-Operating",(638),(640),(698),(852),(862),LOW
+"Inter Capital, Non-Operat",5,3,1,0,3,LOW
+"Inter Expse,Net Non-Operat",(633),(637),(697),(852),(859),LOW
+"Inter/Invest Inc, Non-Oper",16,28,27,24,12,LOW
+OtherNon-OperatInc (Expnse),(16),(15),(21),(20),(38),LOW
+"Other, Net",(16),(15),(21),(20),(38),LOW
+Income Before Tax,"5,489","3,394","5,623","7,739","11,208",LOW
+Income Tax - Total,"2,022","1,078","1,342","1,904","2,766",LOW
+Income After Tax,"3,467","2,316","4,281","5,835","8,442",LOW
+Net Inc Before Extra Items,"3,467","2,316","4,281","5,835","8,442",LOW
+Total Extraordinary Items,(20),(2),--,--,--,LOW
+Total Net Income,"3,447","2,314","4,281","5,835","8,442",LOW
+Total Adjust to Net Income,(11),(7),(13),(24),(33),LOW
+Income Available to Common Excl. Extra. Items,"3,456","2,309","4,268","5,811","8,409",LOW
+Income Available to Common Incl. Extra. Items,"3,436","2,307","4,268","5,811","8,409",LOW
+Basic/Primary Weighted Average Shares,839,811,777,748,696,LOW
+Basic/Primary EPS Excl. Extra. Items,4.12,2.85,5.49,7.77,12.08,LOW
+Basic/Primary EPS Incl. Extra. Items,4.10,2.84,5.49,7.77,12.08,LOW
+Diluted Weighted Average Shares,840,812,778,750,699,LOW
+Diluted EPS Excl. Extra. Items,4.11,2.84,5.49,7.75,12.03,LOW
+Diluted EPS Incl. Extra. Items,4.09,2.84,5.49,7.75,12.03,LOW
+Div/Share-ComStockPrimIssue,1.52,1.78,2.06,2.25,2.80,LOW
+Gross Divid - Common Stock,"1,324","1,500","1,653","1,724","2,081",LOW
+Pro Forma Net Income,--,--,--,--,--,LOW
+"Interest Expense, Suppl",638,640,698,852,862,LOW
+"Interest Capitalized, Suppl",(5),(3),(1),0,(3),LOW
+"Depreciat/Amort, Suppl","1,540","1,607","1,410","1,594","1,850",LOW
+Total Special Items,464,"1,128",70,"2,295",162,LOW
+Normalzd Income Before Tax,"5,953","4,522","5,693","10,034","11,370",LOW
+Efct/SpecItemsIncTxs (STEC),171,358,17,565,40,LOW
+IncTxsExcl ImpctofSpec Itms,"2,193","1,436","1,359","2,469","2,806",LOW
+Normalized Income After Tax,"3,760","3,086","4,334","7,565","8,564",LOW
+Normalzd Inc Avail to Common,"3,749","3,079","4,321","7,541","8,531",LOW
+Basic Normalized EPS,4.47,3.80,5.56,10.08,12.26,LOW
+Diluted Normalized EPS,4.46,3.79,5.55,10.06,12.20,LOW

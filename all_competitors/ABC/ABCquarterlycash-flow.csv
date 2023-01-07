@@ -1,0 +1,40 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Net Income,449,"1,005","1,368","1,667",ABC
+Depreciation/Depletion,97,194,292,391,ABC
+Amortization,83,166,243,319,ABC
+Deferred Taxes,31,52,57,196,ABC
+Unusual Items,5,5,16,25,ABC
+Other Non-Cash Items,6,7,96,246,ABC
+Non-Cash Items,11,12,112,270,ABC
+Accounts Receivable,755,(441),"(1,457)","(1,610)",ABC
+Inventories,(990),(215),(713),(665),ABC
+Prepaid Expenses,19,68,60,103,ABC
+Accounts Payable,824,598,"2,075","3,321",ABC
+Accrued Expenses,(365),(161),(498),(957),ABC
+Changes in Working Capital,193,(299),(534),(140),ABC
+Total Cash from Operations,864,"1,129","1,538","2,702",ABC
+Capital Expenditures,(80),(209),(323),(496),ABC
+Acquisition of Business,(63),(124),(124),(134),ABC
+Sale of Business,--,--,258,273,ABC
+Sale of Fixed Assets,--,--,--,6,ABC
+Sale/Maturity of Investment,--,0,0,--,ABC
+Purchase of Investments,--,--,--,(18),ABC
+Other Investing Cash Flow,(1),(4),(5),1,ABC
+"OtherInvestCashFlowItms,Tot",(63),(128),129,128,ABC
+Total Cash from Investing,(143),(337),(194),(368),ABC
+Financing Cash Flow Items,(38),(39),(43),(48),ABC
+Total Cash Dividends Paid,(101),(198),(295),(392),ABC
+Sale/Issuance of Common,--,--,--,0,ABC
+Repurch/Retirement Common,0,(11),(248),(484),ABC
+"Common Stock, Net",0,(11),(248),(484),ABC
+Options Exercised,39,73,84,94,ABC
+"Iss (Retirmnt) of Stock,Net",39,62,(164),(390),ABC
+Long Term Debt Issued,995,"3,924","4,479","4,988",ABC
+Long Term Debt Reduction,"(1,002)","(4,133)","(5,055)","(5,911)",ABC
+"Iss (Retirmnt) of Debt, Net",(6),(209),(576),(923),ABC
+Total Cash From Financing,(106),(385),"(1,079)","(1,753)",ABC
+Foreign Exchange Effects,(3),(5),(33),(58),ABC
+Net Change in Cash,612,403,232,523,ABC
+NetCash-BeginBal/RsvdforFutUse,"3,070","3,070","3,070","3,070",ABC
+NetCash-EndBal/RsrvforFutUse,"3,682","3,473","3,302","3,594",ABC
+"Depreciation, Supplemental",97,194,292,391,ABC

@@ -1,0 +1,55 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash,369,467,849,750,--,ADBE
+Cash & Equivalents,"1,274","2,183","3,629","3,094","4,236",ADBE
+Short Term Investments,"1,586","1,527","1,514","1,954","1,860",ADBE
+Cash and Short Term Invs,"3,229","4,177","5,992","5,798","6,096",ADBE
+"Trade Accts Recvble, Gross","1,331","1,544","1,408","1,894",--,ADBE
+Prov. for Doubtful Accts,(15),(10),(10),(16),--,ADBE
+"Total Receivables, Net","1,316","1,599","1,479","1,878","2,065",ADBE
+Prepaid Expenses,268,531,497,788,835,ADBE
+"Other Curr. Assets, Total",44,188,178,205,--,ADBE
+Total Current Assets,"4,857","6,495","8,146","8,669","8,996",ADBE
+Buildings,953,"1,036","1,185","1,172",--,ADBE
+Land/Improvements,145,145,145,145,--,ADBE
+Machinery/Equipment,"1,239","1,424","1,287","1,255",--,ADBE
+Construction in Progress,23,112,199,402,--,ADBE
+Other Prop./Plant/Equip.,121,144,646,593,--,ADBE
+Prop./Plant/Equip. - Gross,"2,481","2,862","3,462","3,567",--,ADBE
+Accumulated Depreciation,"(1,406)","(1,569)","(1,458)","(1,451)",--,ADBE
+Prop./Plant/Equip. - Net,"1,075","1,293","2,004","2,116","2,315",ADBE
+"Goodwill, Net","10,581","10,691","10,742","12,668","12,787",ADBE
+Intangibles - Gross,"2,722","2,589","2,182","2,702",--,ADBE
+Accum. Intangible Amort.,(653),(869),(823),(882),--,ADBE
+Intangibles - Net,"2,069","1,721","1,359","1,820","1,449",ADBE
+Deferred Charges,--,315,352,406,--,ADBE
+Def. Inc. Tax - LT Asset,--,--,"1,370","1,085",777,ADBE
+Other Long Term Assets,187,248,311,477,841,ADBE
+Total Assets,"18,769","20,762","24,284","27,241","27,165",ADBE
+Accounts Payable,186,209,306,312,379,ADBE
+Accrued Expenses,"1,105","1,283","1,415","1,714","1,877",ADBE
+Notes Payable/ST Debt,0,0,0,0,--,ADBE
+Curr. Port. LT Dbt/Cap Ls.,--,"3,149",0,--,500,ADBE
+Customer Advances,"2,916","3,378","3,629","4,733","5,297",ADBE
+Income Taxes Payable,93,139,158,173,75,ADBE
+Other Current Liabilities,1,33,4,--,--,ADBE
+"Other Curr. Lblts, Total","3,010","3,549","3,791","4,906","5,372",ADBE
+Total Current Liabilities,"4,301","8,191","5,512","6,932","8,128",ADBE
+Total Long Term Debt,"4,115",989,"4,117","4,123","3,629",ADBE
+Total Debt,"4,115","4,138","4,117","4,123","4,129",ADBE
+Deferred Income Tax,47,140,10,5,28,ADBE
+"Other Liabilities, Total",944,912,"1,381","1,384","1,329",ADBE
+Total Liabilities,"9,407","10,232","11,020","12,444","13,114",ADBE
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,--,ADBE
+Common Stock,0,0,0,0,--,ADBE
+Additional Paid-In Capital,"5,685","6,505","7,357","8,428","9,868",ADBE
+Ret. Earn.(Accum. Deficit),"11,816","14,829","19,611","23,905","28,319",ADBE
+Treasury Stock - Common,"(7,991)","(10,615)","(13,546)","(17,399)","(23,843)",ADBE
+Unrealized Gain (Loss),(25),4,6,(2),--,ADBE
+Cum. Trans. Adjustment,(145),(170),(104),(164),--,ADBE
+Other Equity,--,--,0,0,--,ADBE
+Other Comprehensive Income,22,(22),(60),29,(293),ADBE
+"Other Equity, Total",(123),(192),(164),(135),(293),ADBE
+Total Equity,"9,362","10,530","13,264","14,797","14,051",ADBE
+Total Liabilities & Shareholders’ Equity,"18,769","20,762","24,284","27,241","27,165",ADBE
+Ttl Comm. Shares Outs.,488,482,479,475,465,ADBE
+Trsy. Shrs-Comm. Primary Iss.,113,118,122,126,134,ADBE

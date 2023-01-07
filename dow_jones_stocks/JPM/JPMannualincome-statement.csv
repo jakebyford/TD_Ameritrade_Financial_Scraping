@@ -1,0 +1,59 @@
+items,2017,2018,2019,2020,2021,ticker
+Interest & Fees on Loans,"41,008","49,032","51,855","43,758","41,537",JPM
+Inter & Divs/ Invest Securs,"7,476","8,161","10,865","8,725","7,138",JPM
+Fed. Fund/Resale,"2,327","3,819","6,146","2,436",958,JPM
+Interest on Deposits,"4,238","5,907","3,887",749,512,JPM
+Other Interest Income,"1,312","2,035","2,146","1,023",894,JPM
+Trading Account Interest,"7,610","7,146","9,141","7,832","6,825",JPM
+"Interest Income, Bank","63,971","76,100","84,040","64,523","57,864",JPM
+Interest on Deposit,"2,857","5,973","8,957","2,357",531,JPM
+Inter on Other Borrowings,"9,406","12,002","13,208","6,545","4,748",JPM
+Fed Funds Sold/Secs Sold under Repurch Agrmnt,"1,611","3,066","4,630","1,058",274,JPM
+Total Interest Expense,"13,874","21,041","26,795","9,960","5,553",JPM
+Net Interest Income,"50,097","55,059","57,245","54,563","52,311",JPM
+Loan Loss Provision,"5,290","4,871","5,585","5,380","(9,256)",JPM
+NetInterIn after Loan Loss Provision,"44,807","50,188","51,660","49,183","61,567",JPM
+Commish & Fees/Secur Act,"17,903","18,047","18,944","21,268","23,199",JPM
+Credit Card Fees,"4,433","4,743","5,076","4,435","5,102",JPM
+Fees for Other Cust Serv,"13,345","13,927","14,127","15,997","20,248",JPM
+Real Estate Operation Gain,"3,611","4,540","5,455","5,539","4,914",JPM
+Dealer Trading Acct Profit,"11,347","12,059","14,018","18,021","16,304",JPM
+Invest Securities Gains,(59),(395),258,802,(345),JPM
+Other Unusual Income,(7),--,--,--,--,JPM
+Other Revenue,35,803,597,(674),(84),JPM
+"Non-Interest Income, Bank","50,608","53,724","58,475","65,388","69,338",JPM
+Labor & Related Expenses,"(31,208)","(33,117)","(34,155)","(34,988)","(38,567)",JPM
+Depreciation Expense,--,--,"(4,157)","(4,257)","(3,380)",JPM
+Litigation Expense,35,(72),(239),"(1,100)",(426),JPM
+Other Unusual Expense,--,--,--,"(12,100)",--,JPM
+Other Expense,"(28,342)","(29,959)","(26,718)","(26,311)","(28,970)",JPM
+"Non-Interest Expense, Bank","(59,515)","(63,148)","(65,269)","(78,756)","(71,343)",JPM
+Income Before Tax,"35,900","40,764","44,866","35,815","59,562",JPM
+Income Tax - Total,"9,559","8,290","8,435","6,684","11,228",JPM
+Income After Tax,"26,341","32,474","36,431","29,131","48,334",JPM
+Net Inc Before Extra Items,"26,341","32,474","36,431","29,131","48,334",JPM
+Total Extraordinary Items,"(1,900)",--,--,--,--,JPM
+Total Net Income,"24,441","32,474","36,431","29,131","48,334",JPM
+Preferred Dividends,"(1,663)","(1,551)","(1,587)","(1,583)","(1,600)",JPM
+Misc Earnings Adjustment,(211),(214),(202),(138),(231),JPM
+Total Adjust to Net Income,"(1,874)","(1,765)","(1,789)","(1,721)","(1,831)",JPM
+Income Available to Common Excl. Extra. Items,"24,467","30,709","34,642","27,410","46,503",JPM
+Income Available to Common Incl. Extra. Items,"22,567","30,709","34,642","27,410","46,503",JPM
+Basic/Primary Weighted Average Shares,"3,552","3,396","3,222","3,082","3,022",JPM
+Basic/Primary EPS Excl. Extra. Items,6.89,9.04,10.75,8.89,15.39,JPM
+Basic/Primary EPS Incl. Extra. Items,6.35,9.04,10.75,8.89,15.39,JPM
+Diluted Weighted Average Shares,"3,577","3,414","3,230","3,087","3,027",JPM
+Diluted EPS Excl. Extra. Items,6.84,9.00,10.72,8.88,15.36,JPM
+Diluted EPS Incl. Extra. Items,6.31,9.00,10.72,8.88,15.36,JPM
+Div/Share-ComStockPrimIssue,2.04,2.48,3.30,3.60,3.70,JPM
+Gross Divid - Common Stock,"7,542","9,214","10,897","11,119","11,456",JPM
+Pro Forma Net Income,--,--,--,--,--,JPM
+"Depreciat/Amort, Suppl","6,179","7,791","8,368","8,614","7,932",JPM
+Total Special Items,(28),72,239,"13,200",426,JPM
+Normalzd Income Before Tax,"35,872","40,836","45,105","49,015","59,988",JPM
+Efct/SpecItemsIncTxs (STEC),(7),15,45,"2,463",80,JPM
+IncTxsExcl ImpctofSpec Itms,"9,552","8,305","8,480","9,147","11,308",JPM
+Normalized Income After Tax,"26,320","32,531","36,625","39,868","48,680",JPM
+Normalzd Inc Avail to Common,"24,446","30,766","34,836","38,147","46,849",JPM
+Basic Normalized EPS,6.88,9.06,10.81,12.38,15.51,JPM
+Diluted Normalized EPS,6.83,9.01,10.78,12.36,15.48,JPM

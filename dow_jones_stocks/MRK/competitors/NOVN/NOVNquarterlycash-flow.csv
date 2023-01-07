@@ -1,0 +1,32 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"(29,692)","(13,380)","(22,258)","(28,288)",NOVN
+Depreciation/Depletion,344,97,344,812,NOVN
+Amortization,--,121,669,"1,112",NOVN
+Unusual Items,(842),--,(454),"(4,608)",NOVN
+Other Non-Cash Items,"1,095",381,834,"1,978",NOVN
+Non-Cash Items,253,381,380,"(2,630)",NOVN
+"Cash Interest Pd, Suppl",--,45,339,339,NOVN
+Accounts Receivable,47,"8,543","6,339","9,674",NOVN
+Inventories,--,232,151,122,NOVN
+Prepaid Expenses,688,565,"1,287","2,600",NOVN
+Accounts Payable,544,"1,604","3,921",990,NOVN
+Accrued Expenses,"1,289",393,855,"(1,110)",NOVN
+Changes in Working Capital,"4,318","13,547","10,521","9,220",NOVN
+Total Cash from Operations,"(24,777)",766,"(10,344)","(19,774)",NOVN
+Capital Expenditures,"(9,050)",(928),"(2,800)","(3,209)",NOVN
+Acquisition of Business,--,"(11,993)","(11,993)","(15,093)",NOVN
+Sale of Fixed Assets,0,--,--,--,NOVN
+Other Investing Cash Flow,"1,523",--,--,508,NOVN
+"OtherInvestCashFlowItms,Tot","1,523","(11,993)","(11,993)","(14,585)",NOVN
+Total Cash from Investing,"(7,527)","(12,921)","(14,793)","(17,794)",NOVN
+Financing Cash Flow Items,(364),--,(200),"(10,200)",NOVN
+"Common Stock, Net","43,934",562,"15,554","15,586",NOVN
+Options Exercised,62,0,0,0,NOVN
+Warrants Converted,461,0,0,0,NOVN
+"Iss (Retirmnt) of Stock,Net","44,457",562,"15,554","15,586",NOVN
+"Iss (Retirmnt) of Debt, Net",0,--,--,--,NOVN
+Total Cash From Financing,"44,093",562,"15,354","5,386",NOVN
+Net Change in Cash,"11,789","(11,593)","(9,783)","(32,182)",NOVN
+NetCash-BeginBal/RsvdforFutUse,"35,879","47,668","47,668","47,668",NOVN
+NetCash-EndBal/RsrvforFutUse,"47,668","36,075","37,885","15,486",NOVN
+"Depreciation, Supplemental",344,97,344,812,NOVN

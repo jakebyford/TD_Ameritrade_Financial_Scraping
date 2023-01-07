@@ -1,0 +1,47 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"10,153","11,389","12,303","12,909","13,974",FOX
+"Cost of Revenue, Total","6,505","7,327","7,807","8,037","9,117",FOX
+"Sell/Gen/AdminExpenses,Tot","1,209","1,419","1,741","1,807","1,920",FOX
+Depreciation,157,197,222,237,297,FOX
+Amortiz of Intangibles,14,15,36,63,66,FOX
+Depreciation/Amortization,171,212,258,300,363,FOX
+Restructuring Charge,16,26,451,35,0,FOX
+Litigation,(39),58,90,64,81,FOX
+Other Unusual Expnse (In),54,187,125,(421),69,FOX
+Unusual Expense (Income),31,271,666,(322),150,FOX
+Total Operating Expense,"7,916","9,229","10,472","9,822","11,550",FOX
+Total Operating Income,"2,237","2,160","1,831","3,087","2,424",FOX
+"Inter Expse,Net Non-Operat",--,(203),(369),(395),(377),FOX
+"Inter Income, Non-Operating",--,41,35,4,6,FOX
+"Invest Income, Non-Operat",--,268,14,258,(386),FOX
+"Inter/Invest Inc, Non-Oper",--,309,49,262,(380),FOX
+OtherNon-OperatInc (Expnse),(67),(42),(47),(36),27,FOX
+"Other, Net",(67),(42),(47),(36),27,FOX
+Income Before Tax,"2,170","2,224","1,464","2,918","1,694",FOX
+Income Tax - Total,549,581,402,717,461,FOX
+Income After Tax,"1,621","1,643","1,062","2,201","1,233",FOX
+Minority Interest,(41),(48),(63),(51),(28),FOX
+Net Inc Before Extra Items,"1,580","1,595",999,"2,150","1,205",FOX
+Total Extraordinary Items,607,--,--,--,--,FOX
+Total Net Income,"2,187","1,595",999,"2,150","1,205",FOX
+Income Available to Common Excl. Extra. Items,"1,580","1,595",999,"2,150","1,205",FOX
+Income Available to Common Incl. Extra. Items,"2,187","1,595",999,"2,150","1,205",FOX
+Basic/Primary Weighted Average Shares,621,621,613,591,566,FOX
+Basic/Primary EPS Excl. Extra. Items,2.55,2.57,1.63,3.64,2.13,FOX
+Basic/Primary EPS Incl. Extra. Items,3.52,2.57,1.63,3.64,2.13,FOX
+Diluted Weighted Average Shares,621,621,616,595,570,FOX
+Diluted EPS Excl. Extra. Items,2.55,2.57,1.62,3.61,2.11,FOX
+Diluted EPS Incl. Extra. Items,3.52,2.57,1.62,3.61,2.11,FOX
+Div/Share-ComStockPrimIssue,--,0.23,0.46,0.46,0.48,FOX
+Gross Divid - Common Stock,0,143,282,272,273,FOX
+Pro Forma Net Income,--,--,--,--,--,FOX
+"Interest Expense, Suppl",--,203,369,395,377,FOX
+"Depreciat/Amort, Suppl",157,197,222,237,297,FOX
+Total Special Items,31,271,666,(322),150,FOX
+Normalzd Income Before Tax,"2,201","2,495","2,130","2,596","1,844",FOX
+Efct/SpecItemsIncTxs (STEC),8,71,183,(79),41,FOX
+IncTxsExcl ImpctofSpec Itms,557,652,585,638,502,FOX
+Normalized Income After Tax,"1,644","1,843","1,545","1,958","1,342",FOX
+Normalzd Inc Avail to Common,"1,603","1,795","1,482","1,907","1,314",FOX
+Basic Normalized EPS,2.58,2.89,2.42,3.23,2.32,FOX
+Diluted Normalized EPS,2.58,2.89,2.41,3.21,2.31,FOX

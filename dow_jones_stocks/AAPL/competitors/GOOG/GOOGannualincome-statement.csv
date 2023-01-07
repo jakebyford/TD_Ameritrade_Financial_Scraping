@@ -1,0 +1,44 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"110,855","136,819","161,857","182,527","257,637",GOOG
+"Cost of Revenue, Total","45,583","59,549","71,896","84,732","110,939",GOOG
+"Sell/Gen/AdminExpenses,Tot","19,733","23,256","28,015","28,998","36,422",GOOG
+Research & Development,"16,625","21,419","26,018","27,573","31,562",GOOG
+Unusual Expense (Income),"2,736","5,071","1,697",0,0,GOOG
+Total Operating Expense,"84,677","109,295","127,626","141,303","178,923",GOOG
+Total Operating Income,"26,178","27,524","34,231","41,224","78,714",GOOG
+"Inter Expse, Non-Operating",(157),(206),(267),(353),(509),GOOG
+"Inter Capital, Non-Operat",48,92,167,218,163,GOOG
+"Inter Expse,Net Non-Operat",(109),(114),(100),(135),(346),GOOG
+"Inter Income, Non-Operating","1,312","1,878","2,427","1,865","1,499",GOOG
+"Invest Income, Non-Operat",(438),"6,619","3,146","6,374","12,364",GOOG
+"Inter/Invest Inc, Non-Oper",874,"8,497","5,573","8,239","13,863",GOOG
+OtherNon-OperatInc (Expnse),250,(994),(79),"(1,246)","(1,497)",GOOG
+"Other, Net",250,(994),(79),"(1,246)","(1,497)",GOOG
+Income Before Tax,"27,193","34,913","39,625","48,082","90,734",GOOG
+Income Tax - Total,"4,707","4,177","5,282","7,813","14,701",GOOG
+Income After Tax,"22,486","30,736","34,343","40,269","76,033",GOOG
+Net Inc Before Extra Items,"22,486","30,736","34,343","40,269","76,033",GOOG
+Total Extraordinary Items,"(9,824)",--,--,--,--,GOOG
+Total Net Income,"12,662","30,736","34,343","40,269","76,033",GOOG
+Income Available to Common Excl. Extra. Items,"22,486","30,736","34,343","40,269","76,033",GOOG
+Income Available to Common Incl. Extra. Items,"12,662","30,736","34,343","40,269","76,033",GOOG
+Basic/Primary Weighted Average Shares,"13,858","13,903","13,852","13,616","13,353",GOOG
+Basic/Primary EPS Excl. Extra. Items,1.62,2.21,2.48,2.96,5.69,GOOG
+Basic/Primary EPS Incl. Extra. Items,0.91,2.21,2.48,2.96,5.69,GOOG
+Dilution Adjustment,0,0,0,0,0,GOOG
+Diluted Weighted Average Shares,"14,072","14,066","13,971","13,741","13,553",GOOG
+Diluted EPS Excl. Extra. Items,1.60,2.19,2.46,2.93,5.61,GOOG
+Diluted EPS Incl. Extra. Items,0.90,2.19,2.46,2.93,5.61,GOOG
+Gross Divid - Common Stock,0,0,0,0,0,GOOG
+Pro Forma Net Income,--,--,--,--,--,GOOG
+"Interest Expense, Suppl",109,114,100,135,346,GOOG
+"Interest Capitalized, Suppl",(48),(92),(167),(218),(163),GOOG
+"Depreciat/Amort, Suppl","6,103","8,164","10,856","12,905","11,555",GOOG
+Total Special Items,"2,736","5,071","1,697",0,0,GOOG
+Normalzd Income Before Tax,"29,929","39,984","41,322","48,082","90,734",GOOG
+Efct/SpecItemsIncTxs (STEC),474,607,226,0,0,GOOG
+IncTxsExcl ImpctofSpec Itms,"5,181","4,784","5,508","7,813","14,701",GOOG
+Normalized Income After Tax,"24,748","35,200","35,814","40,269","76,033",GOOG
+Normalzd Inc Avail to Common,"24,748","35,200","35,814","40,269","76,033",GOOG
+Basic Normalized EPS,1.79,2.53,2.59,2.96,5.69,GOOG
+Diluted Normalized EPS,1.76,2.50,2.56,2.93,5.61,GOOG

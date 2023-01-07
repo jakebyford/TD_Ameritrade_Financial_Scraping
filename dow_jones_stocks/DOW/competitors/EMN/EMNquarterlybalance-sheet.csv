@@ -1,0 +1,52 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash and Short Term Invs,459,487,456,461,EMN
+"Trade Accts Recvble, Net","1,173","1,187","1,210","1,137",EMN
+Other Receivables,407,461,425,457,EMN
+"Total Receivables, Net","1,580","1,648","1,635","1,594",EMN
+Invent. - Finished Goods,"1,007","1,048","1,241","1,311",EMN
+Invent. - Work In Progress,273,311,283,330,EMN
+Invent. - Raw Materials,589,677,692,770,EMN
+LIFO Reserve,(365),(365),(390),(436),EMN
+Total Inventory,"1,504","1,671","1,826","1,975",EMN
+Discont. Ops.-Curr. Assets,"1,007","1,030",0,0,EMN
+Other Current Assets,96,93,86,75,EMN
+"Other Curr. Assets, Total","1,103","1,123",86,75,EMN
+Total Current Assets,"4,646","4,929","4,003","4,105",EMN
+Prop./Plant/Equip. - Gross,"12,680","12,753","12,743","12,645",EMN
+Accumulated Depreciation,"(7,684)","(7,756)","(7,784)","(7,663)",EMN
+Prop./Plant/Equip. - Net,"5,212","5,202","5,168","5,187",EMN
+"Goodwill, Net","3,641","3,665","3,663","3,644",EMN
+Intangibles - Net,"1,362","1,303","1,248","1,206",EMN
+Other Long Term Assets,658,707,793,843,EMN
+Total Assets,"15,519","15,806","14,875","14,985",EMN
+Accounts Payable,"1,228","1,381","1,395","1,407",EMN
+Accrued Expenses,431,231,263,258,EMN
+Notes Payable/ST Debt,0,236,0,355,EMN
+Curr. Port. LT Dbt/Cap Ls.,747,748,979,731,EMN
+Dividends Payable,101,101,96,94,EMN
+Income Taxes Payable,138,117,182,140,EMN
+Discontinued Operations,91,99,0,0,EMN
+Other Current Liabilities,235,223,233,222,EMN
+"Other Curr. Lblts, Total",565,540,511,456,EMN
+Total Current Liabilities,"2,971","3,136","3,148","3,207",EMN
+Total Long Term Debt,"4,412","4,379","4,012","3,979",EMN
+Total Debt,"5,159","5,363","4,991","5,065",EMN
+Deferred Income Tax,810,795,738,756,EMN
+Minority Interest,84,84,84,83,EMN
+Pension Benefits - Underfunded,811,799,768,746,EMN
+Other LT Liabilities,727,720,802,830,EMN
+"Other Liabilities, Total","1,538","1,519","1,570","1,576",EMN
+Total Liabilities,"9,815","9,913","9,552","9,601",EMN
+Common Stock,2,2,2,2,EMN
+Additional Paid-In Capital,"2,187","2,262","2,179","2,301",EMN
+Ret. Earn.(Accum. Deficit),"8,557","8,694","8,857","9,065",EMN
+Treasury Stock - Common,"(4,860)","(4,920)","(5,572)","(5,832)",EMN
+Unrealized Gain (Loss),(1),(1),(1),(1),EMN
+Cum. Trans. Adjustment,(237),(230),(214),(233),EMN
+Min. Pension Lblty Adj.,59,53,44,38,EMN
+Other Comprehensive Income,(3),33,28,44,EMN
+"Other Equity, Total",(181),(144),(142),(151),EMN
+Total Equity,"5,704","5,893","5,323","5,384",EMN
+Total Liabilities & Shareholders’ Equity,"15,519","15,806","14,875","14,985",EMN
+Ttl Comm. Shares Outs.,129,129,123,120,EMN
+Trsy. Shrs-Comm. Primary Iss.,93,93,100,102,EMN

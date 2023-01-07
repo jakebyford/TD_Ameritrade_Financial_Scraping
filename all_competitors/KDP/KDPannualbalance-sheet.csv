@@ -1,0 +1,71 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash and Short Term Invs,61,83,75,240,567,KDP
+"Trade Accts Recvble, Gross",670,"1,158","1,124","1,069","1,155",KDP
+Prov. for Doubtful Accts,(2),(8),(9),(21),(7),KDP
+"Trade Accts Recvble, Net",668,"1,150","1,115","1,048","1,148",KDP
+Other Receivables,42,73,69,96,126,KDP
+"Total Receivables, Net",710,"1,223","1,184","1,144","1,274",KDP
+Invent. - Finished Goods,149,415,447,520,577,KDP
+Invent. - Work In Progress,7,7,8,6,6,KDP
+Invent. - Raw Materials,81,204,215,260,330,KDP
+Inventories - Other,24,--,(16),(24),(19),KDP
+LIFO Reserve,(32),--,--,--,--,KDP
+Total Inventory,229,626,654,762,894,KDP
+Prepaid Expenses,7,109,77,91,84,KDP
+Restricted Cash - Current,18,46,26,15,1,KDP
+Discont. Ops.-Curr. Assets,0,8,165,2,0,KDP
+Other Current Assets,92,64,92,134,237,KDP
+"Other Curr. Assets, Total",110,118,283,151,238,KDP
+Total Current Assets,"1,117","2,159","2,273","2,388","3,057",KDP
+Buildings,576,723,473,520,793,KDP
+Land/Improvements,81,138,55,54,50,KDP
+Machinery/Equipment,"2,198","1,919","1,955","2,265","2,862",KDP
+Construction in Progress,48,206,274,393,138,KDP
+Other Prop./Plant/Equip.,--,--,497,645,673,KDP
+Prop./Plant/Equip. - Gross,"2,903","2,986","3,254","3,877","4,516",KDP
+Accumulated Depreciation,"(1,705)",(676),(729),"(1,020)","(1,349)",KDP
+Prop./Plant/Equip. - Net,"1,198","2,310","2,525","2,857","3,167",KDP
+"Goodwill, Net","3,561","20,011","20,172","20,184","20,182",KDP
+Intangibles - Gross,"3,920","24,260","24,535","24,516","24,539",KDP
+Accum. Intangible Amort.,(139),(293),(418),(548),(683),KDP
+Intangibles - Net,"3,781","23,967","24,117","23,968","23,856",KDP
+LT Invt. - Affiliate Comp.,24,186,151,88,30,KDP
+LT Investments - Other,49,45,41,42,59,KDP
+Long Term Investments,73,231,192,130,89,KDP
+Def. Inc. Tax - LT Asset,62,26,29,45,42,KDP
+Restricted Cash - LT,79,10,10,0,--,KDP
+Other Long Term Assets,151,204,200,207,205,KDP
+Total Assets,"10,022","48,918","49,518","49,779","50,598",KDP
+Accounts Payable,365,"2,300","3,176","3,740","4,316",KDP
+Accrued Expenses,449,975,969,"1,077","1,153",KDP
+Notes Payable/ST Debt,0,"1,605","1,567",153,291,KDP
+Curr. Port. LT Dbt/Cap Ls.,79,405,388,"2,389",234,KDP
+Dividends Payable,103,209,212,212,265,KDP
+Customer Advances,64,--,--,--,--,KDP
+Income Taxes Payable,11,60,75,39,144,KDP
+Other Current Liabilities,167,148,87,84,82,KDP
+"Other Curr. Lblts, Total",345,417,374,335,491,KDP
+Total Current Liabilities,"1,238","5,702","6,474","7,694","6,485",KDP
+Long Term Debt,"4,230","14,201","12,827","11,143","11,578",KDP
+Capital Lease Obligations,170,305,269,298,621,KDP
+Total Long Term Debt,"4,400","14,506","13,096","11,441","12,199",KDP
+Total Debt,"4,479","16,516","15,051","13,983","12,724",KDP
+Deferred Income Tax,614,"5,923","6,030","5,993","5,986",KDP
+Minority Interest,--,0,--,1,0,KDP
+Reserves,60,57,66,72,75,KDP
+Pension Benefits - Underfunded,19,30,29,38,40,KDP
+Other LT Liabilities,"1,240",167,566,711,841,KDP
+"Other Liabilities, Total","1,319",254,661,821,956,KDP
+Total Liabilities,"7,571","26,385","26,261","25,950","25,626",KDP
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,--,KDP
+Common Stock,2,14,14,14,14,KDP
+Additional Paid-In Capital,0,"21,471","21,557","21,677","21,785",KDP
+Ret. Earn.(Accum. Deficit),"2,651","1,178","1,582","2,061","3,199",KDP
+Cum. Trans. Adjustment,(148),(126),104,95,81,KDP
+Min. Pension Lblty Adj.,(32),(4),0,(4),(4),KDP
+Other Comprehensive Income,(22),--,--,(14),(103),KDP
+"Other Equity, Total",(202),(130),104,77,(26),KDP
+Total Equity,"2,451","22,533","23,257","23,829","24,972",KDP
+Total Liabilities & Shareholders’ Equity,"10,022","48,918","49,518","49,779","50,598",KDP
+Ttl Comm. Shares Outs.,180,"1,406","1,407","1,407","1,418",KDP
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,KDP

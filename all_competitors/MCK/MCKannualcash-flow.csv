@@ -1,0 +1,44 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,297,255,"1,120","(4,340)","1,287",MCK
+Depreciation/Depletion,303,317,321,321,279,MCK
+Amortization,648,632,601,566,481,MCK
+Deferred Taxes,(868),189,(342),(908),34,MCK
+Discontinued Operations,--,--,--,--,(540),MCK
+Unusual Items,"2,011","1,993",172,233,"1,552",MCK
+Equity in Net Earnings/Loss,248,194,"1,084",0,0,MCK
+Other Non-Cash Items,(32),(158),729,484,719,MCK
+Non-Cash Items,"2,227","2,029","1,985",717,"1,731",MCK
+"Cash Taxes Pd, Supplemental",144,262,368,379,359,MCK
+"Cash Interest Pd, Suppl",298,383,235,220,186,MCK
+Accounts Receivable,"1,175",(967),"(2,494)","1,145","(1,843)",MCK
+Inventories,(458),(368),(376),"(2,276)","(1,169)",MCK
+Accounts Payable,271,"1,976","3,952","1,267","2,802",MCK
+Accrued Expenses,--,--,(377),(362),(356),MCK
+Changes in Working Capital,"1,738",614,689,"8,186",82,MCK
+Total Cash from Operations,"4,345","4,036","4,374","4,542","3,894",MCK
+Purchase of Fixed Assets,(405),(426),(362),(451),(388),MCK
+Software Development Costs,(175),(131),(144),(190),(147),MCK
+Capital Expenditures,(580),(557),(506),(641),(535),MCK
+Acquisition of Business,"(2,893)",(905),(133),(35),(6),MCK
+Sale of Business,500,101,37,400,578,MCK
+Other Investing Cash Flow,(20),(20),23,(139),(126),MCK
+"OtherInvestCashFlowItms,Tot","(2,413)",(824),(73),226,446,MCK
+Total Cash from Investing,"(2,993)","(1,381)",(579),(415),(89),MCK
+Financing Cash Flow Items,(297),(355),(301),(199),"(1,414)",MCK
+Total Cash Dividends Paid,(262),(292),(294),(276),(277),MCK
+Sale/Issuance of Common,132,75,113,92,220,MCK
+Repurch/Retirement Common,"(1,709)","(1,639)","(1,954)",(770),"(3,516)",MCK
+"Iss (Retirmnt) of Stock,Net","(1,577)","(1,564)","(1,841)",(678),"(3,296)",MCK
+Short Term Debt Issued,"20,542","37,265","21,437","6,323","11,192",MCK
+Short Term Debt Reduction,"(20,725)","(37,268)","(21,437)","(6,323)","(11,192)",MCK
+"Short Term Debt, Net",(183),(3),0,0,0,MCK
+Long Term Debt Issued,"1,522","1,099",0,500,498,MCK
+Long Term Debt Reduction,"(2,287)","(1,112)",(298),"(1,040)","(1,832)",MCK
+"Long Term Debt, Net",(765),(13),(298),(540),"(1,334)",MCK
+"Iss (Retirmnt) of Debt, Net",(948),(16),(298),(540),"(1,334)",MCK
+Total Cash From Financing,"(3,084)","(2,227)","(2,734)","(1,693)","(6,321)",MCK
+Foreign Exchange Effects,150,(119),(19),(61),55,MCK
+Net Change in Cash,"(1,582)",309,"1,042","2,373","(2,461)",MCK
+NetCash-BeginBal/RsvdforFutUse,"4,254","2,672","2,981","4,023","6,396",MCK
+NetCash-EndBal/RsrvforFutUse,"2,672","2,981","4,023","6,396","3,935",MCK
+"Depreciation, Supplemental",303,317,321,321,279,MCK

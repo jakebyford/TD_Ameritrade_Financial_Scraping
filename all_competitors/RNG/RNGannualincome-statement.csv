@@ -1,0 +1,41 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,504,674,903,"1,184","1,595",RNG
+"Cost of Revenue, Total",121,157,231,324,448,RNG
+Selling/Gen/Admin Expense,241,325,452,571,805,RNG
+Labor & Related Expense,29,48,69,136,246,RNG
+Advertising Expense,42,58,60,77,88,RNG
+"Sell/Gen/AdminExpenses,Tot",313,432,581,784,"1,138",RNG
+Research & Development,75,101,136,189,310,RNG
+Unusual Expense (Income),--,--,--,13,(1),RNG
+Total Operating Expense,509,690,949,"1,310","1,895",RNG
+Total Operating Income,(5),(16),(46),(127),(301),RNG
+"Inter Expse,Net Non-Operat",0,(16),(21),(49),(64),RNG
+"Inter/Invest Inc, Non-Oper",--,--,7,77,16,RNG
+OtherNon-OperatInc (Expnse),1,6,3,17,(24),RNG
+"Other, Net",1,6,3,17,(24),RNG
+Income Before Tax,(4),(26),(57),(82),(374),RNG
+Income Tax - Total,(33),0,(3),1,3,RNG
+Income After Tax,29,(26),(54),(83),(376),RNG
+Net Inc Before Extra Items,29,(26),(54),(83),(376),RNG
+Total Extraordinary Items,(33),--,--,--,--,RNG
+Total Net Income,(4),(26),(54),(83),(376),RNG
+Income Available to Common Excl. Extra. Items,29,(26),(54),(83),(376),RNG
+Income Available to Common Incl. Extra. Items,(4),(26),(54),(83),(376),RNG
+Basic/Primary Weighted Average Shares,76,80,83,89,92,RNG
+Basic/Primary EPS Excl. Extra. Items,0.38,(0.33),(0.64),(0.94),(4.10),RNG
+Basic/Primary EPS Incl. Extra. Items,(0.06),(0.33),(0.64),(0.94),(4.10),RNG
+Diluted Weighted Average Shares,76,80,83,89,92,RNG
+Diluted EPS Excl. Extra. Items,0.38,(0.33),(0.64),(0.94),(4.10),RNG
+Diluted EPS Incl. Extra. Items,(0.06),(0.33),(0.64),(0.94),(4.10),RNG
+Gross Divid - Common Stock,0,0,0,0,0,RNG
+Pro Forma Net Income,--,--,--,--,--,RNG
+"Interest Expense, Suppl",0,16,21,49,64,RNG
+"Depreciat/Amort, Suppl",15,19,27,40,59,RNG
+Total Special Items,--,--,--,13,(1),RNG
+Normalzd Income Before Tax,(4),(26),(57),(69),(375),RNG
+Efct/SpecItemsIncTxs (STEC),--,--,--,5,0,RNG
+IncTxsExcl ImpctofSpec Itms,(33),0,(3),6,2,RNG
+Normalized Income After Tax,29,(26),(54),(74),(377),RNG
+Normalzd Inc Avail to Common,29,(26),(54),(74),(377),RNG
+Basic Normalized EPS,0.38,(0.33),(0.64),(0.84),(4.11),RNG
+Diluted Normalized EPS,0.38,(0.33),(0.64),(0.84),(4.11),RNG

@@ -1,0 +1,67 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash & Equivalents,"13,979","12,369","10,750","7,734",BMY
+Short Term Investments,"2,987","2,599","2,516","1,293",BMY
+Cash and Short Term Invs,"16,966","14,968","13,266","9,027",BMY
+"Trade Accts Recvble, Gross","8,723","7,746","8,186","8,644",BMY
+Prov. for Doubtful Accts,(744),(590),(600),(623),BMY
+"Trade Accts Recvble, Net","7,979","7,156","8,005","8,467",BMY
+Other Receivables,"1,390","1,355","4,535","4,773",BMY
+"Total Receivables, Net","9,369","8,511","12,540","13,240",BMY
+Invent. - Finished Goods,543,449,469,357,BMY
+Invent. - Work In Progress,"1,202","1,209","1,251","1,271",BMY
+Invent. - Raw Materials,350,446,422,446,BMY
+Total Inventory,"2,095","2,104","2,142","2,074",BMY
+Prepaid Expenses,"2,786",--,--,--,BMY
+Restricted Cash - Current,--,--,153,164,BMY
+Other Current Assets,"2,046","4,538","2,085","2,291",BMY
+"Other Curr. Assets, Total","2,046","4,538","2,238","2,455",BMY
+Total Current Assets,"33,262","30,121","30,186","26,796",BMY
+Buildings,"5,897","5,941","5,740","5,749",BMY
+Land/Improvements,169,168,162,162,BMY
+Machinery/Equipment,"3,252","3,306","3,243","3,290",BMY
+Construction in Progress,764,800,850,973,BMY
+Other Prop./Plant/Equip.,919,894,840,883,BMY
+Prop./Plant/Equip. - Gross,"11,001","11,109","10,835","11,057",BMY
+Accumulated Depreciation,"(4,033)","(4,168)","(4,025)","(4,139)",BMY
+Prop./Plant/Equip. - Net,"6,968","6,941","6,810","6,918",BMY
+"Goodwill, Net","20,502","20,500","20,446","21,112",BMY
+Intangibles - Gross,"66,010","66,038","66,075","69,020",BMY
+Accum. Intangible Amort.,"(23,483)","(25,935)","(28,385)","(30,841)",BMY
+Intangibles - Net,"42,527","40,103","37,690","38,179",BMY
+Long Term Investments,"2,713","2,185","1,973","1,959",BMY
+Pension Bene. - Overfunded,317,321,315,301,BMY
+Def. Inc. Tax - LT Asset,"1,439","1,418","1,337","1,329",BMY
+Restricted Cash - LT,197,55,57,59,BMY
+Other Long Term Assets,"1,389","1,390","1,543","1,543",BMY
+Total Assets,"109,314","103,034","100,357","98,196",BMY
+Accounts Payable,"2,949","2,944","2,882","2,595",BMY
+Accrued Expenses,"10,104","8,319","8,928","10,006",BMY
+Notes Payable/ST Debt,184,225,307,229,BMY
+Curr. Port. LT Dbt/Cap Ls.,"4,764","7,297","4,646","1,903",BMY
+Dividends Payable,"1,186","1,151","1,154","1,148",BMY
+Income Taxes Payable,754,930,"1,141","1,287",BMY
+Other Current Liabilities,"1,927","1,955","1,857","1,762",BMY
+"Other Curr. Lblts, Total","3,867","4,036","4,152","4,197",BMY
+Total Current Liabilities,"21,868","22,821","20,915","18,930",BMY
+Total Long Term Debt,"39,605","37,450","37,107","36,966",BMY
+Total Debt,"44,553","44,972","42,060","39,098",BMY
+Deferred Income Tax,"4,501","3,809","3,034","2,881",BMY
+Minority Interest,60,65,61,63,BMY
+Pension Benefits - Underfunded,654,625,589,553,BMY
+Other LT Liabilities,"6,680","6,684","6,051","6,132",BMY
+"Other Liabilities, Total","7,334","7,309","6,640","6,685",BMY
+Total Liabilities,"73,368","71,454","67,757","65,525",BMY
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,BMY
+Common Stock,292,292,292,292,BMY
+Additional Paid-In Capital,"44,361","43,756","44,375","44,956",BMY
+Ret. Earn.(Accum. Deficit),"23,820","23,948","24,217","24,675",BMY
+Treasury Stock - Common,"(31,259)","(35,187)","(35,292)","(36,411)",BMY
+Unrealized Gain (Loss),2,1,0,0,BMY
+Cum. Trans. Adjustment,(680),(692),(780),(933),BMY
+Min. Pension Lblty Adj.,(768),(747),(722),(704),BMY
+Other Comprehensive Income,178,209,510,796,BMY
+"Other Equity, Total","(1,270)","(1,230)",(992),(841),BMY
+Total Equity,"35,946","31,580","32,600","32,671",BMY
+Total Liabilities & Shareholders’ Equity,"109,314","103,034","100,357","98,196",BMY
+Ttl Comm. Shares Outs.,"2,153","2,129","2,135","2,124",BMY
+Trsy. Shrs-Comm. Primary Iss.,747,794,788,799,BMY

@@ -1,0 +1,37 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Net Income,"8,442","2,333","5,325","5,479",LOW
+Depreciation/Depletion,"1,882",503,"1,007","1,509",LOW
+Deferred Taxes,135,59,0,(252),LOW
+Unusual Items,34,4,32,"2,113",LOW
+Other Non-Cash Items,747,185,383,568,LOW
+Non-Cash Items,781,189,415,"2,681",LOW
+"Cash Taxes Pd, Supplemental","2,735",57,"1,415","1,540",LOW
+"Cash Interest Pd, Suppl",837,375,436,909,LOW
+Inventories,"(1,413)","(2,646)","(1,728)","(2,308)",LOW
+Other Assets,(23),(212),(120),20,LOW
+Accounts Payable,466,"2,479","1,279",921,LOW
+Changes in Working Capital,"(1,127)",(107),(735),"(1,279)",LOW
+Total Cash from Operations,"10,113","2,977","6,012","8,138",LOW
+Capital Expenditures,"(1,853)",(343),(687),"(1,090)",LOW
+Sale of Fixed Assets,113,10,19,37,LOW
+Sale/Maturity of Investment,"3,293",132,290,597,LOW
+Purchase of Investments,"(3,065)",(109),(330),(659),LOW
+Other Investing Cash Flow,(134),0,(1),0,LOW
+"OtherInvestCashFlowItms,Tot",207,33,(22),(25),LOW
+Total Cash from Investing,"(1,646)",(310),(709),"(1,115)",LOW
+Financing Cash Flow Items,(6),(4),(2),0,LOW
+Total Cash Dividends Paid,"(1,984)",(537),"(1,061)","(1,727)",LOW
+Sale/Issuance of Common,132,1,72,86,LOW
+Repurch/Retirement Common,"(13,012)","(4,037)","(8,128)","(12,127)",LOW
+"Iss (Retirmnt) of Stock,Net","(12,880)","(4,036)","(8,056)","(12,041)",LOW
+"Short Term Debt, Net",0,--,--,--,LOW
+Long Term Debt Issued,"4,972","4,964","4,964","9,667",LOW
+Long Term Debt Reduction,"(2,118)",(773),(799),(831),LOW
+"Long Term Debt, Net","2,854","4,191","4,165","8,836",LOW
+"Iss (Retirmnt) of Debt, Net","2,854","4,191","4,165","8,836",LOW
+Total Cash From Financing,"(12,016)",(386),"(4,954)","(4,932)",LOW
+Foreign Exchange Effects,(8),0,0,(32),LOW
+Net Change in Cash,"(3,557)","2,281",349,"2,059",LOW
+NetCash-BeginBal/RsvdforFutUse,"4,690","1,133","1,133","1,133",LOW
+NetCash-EndBal/RsrvforFutUse,"1,133","3,414","1,482","3,192",LOW
+"Depreciation, Supplemental","1,882",503,"1,007","1,509",LOW

@@ -1,0 +1,34 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,(122),(82),(267),(499),(267),PANW
+Depreciation/Depletion,96,154,206,260,283,PANW
+Unusual Items,41,10,(3),0,0,PANW
+Other Non-Cash Items,676,747,"1,028","1,393","1,448",PANW
+Non-Cash Items,717,756,"1,025","1,393","1,448",PANW
+"Cash Taxes Pd, Supplemental",11,22,17,25,35,PANW
+"Cash Interest Pd, Suppl",--,--,--,20,20,PANW
+Accounts Receivable,(34),(109),(436),(172),(902),PANW
+Prepaid Expenses,(299),(333),(409),(299),(141),PANW
+Other Assets,--,--,--,(441),(459),PANW
+Accounts Payable,4,32,(13),(12),69,PANW
+Accrued Expenses,94,46,36,77,(17),PANW
+Changes in Working Capital,347,228,72,349,521,PANW
+Total Cash from Operations,"1,038","1,056","1,036","1,503","1,985",PANW
+Capital Expenditures,(112),(131),(214),(116),(193),PANW
+Acquisition of Business,(374),(774),(584),(777),(37),PANW
+Sale/Maturity of Investment,692,"2,064","2,267","1,372","1,568",PANW
+Purchase of Investments,(726),"(2,985)","(1,181)","(1,959)","(2,272)",PANW
+"OtherInvestCashFlowItms,Tot",(408),"(1,695)",502,"(1,365)",(741),PANW
+Total Cash from Investing,(520),"(1,826)",288,"(1,481)",(933),PANW
+Financing Cash Flow Items,(44),(38),(24),(29),(50),PANW
+"Common Stock, Net",(259),(330),"(1,198)","(1,178)",(892),PANW
+Options Exercised,53,72,84,104,137,PANW
+Warrants Converted,145,0,203,0,0,PANW
+"Iss (Retirmnt) of Stock,Net",(61),(258),(911),"(1,074)",(756),PANW
+"Long Term Debt, Net",(332),(477),(371),(1),(1),PANW
+Total Debt Issued,"1,682",0,"1,979",0,0,PANW
+"Iss (Retirmnt) of Debt, Net","1,350",(477),"1,608",(1),(1),PANW
+Total Cash From Financing,"1,246",(774),673,"(1,104)",(807),PANW
+Net Change in Cash,"1,764","(1,544)","1,997","(1,082)",245,PANW
+NetCash-BeginBal/RsvdforFutUse,746,"2,509",965,"2,962","1,880",PANW
+NetCash-EndBal/RsrvforFutUse,"2,509",965,"2,962","1,880","2,125",PANW
+"Depreciation, Supplemental",96,154,206,260,283,PANW

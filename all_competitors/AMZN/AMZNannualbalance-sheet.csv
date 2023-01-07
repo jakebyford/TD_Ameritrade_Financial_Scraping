@@ -1,0 +1,50 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"20,522","31,750","36,092","42,122","36,220",AMZN
+Short Term Investments,"10,464","9,500","18,929","42,274","59,829",AMZN
+Cash and Short Term Invs,"30,986","41,250","55,021","84,396","96,049",AMZN
+"Trade Accts Recvble, Gross",--,"17,172","21,258","25,409","33,749",AMZN
+Prov. for Doubtful Accts,--,(495),(718),"(1,100)","(1,100)",AMZN
+"Total Receivables, Net","13,164","16,677","20,540","24,309","32,649",AMZN
+Total Inventory,"16,047","17,174","20,497","23,795","32,640",AMZN
+"Other Curr. Assets, Total",--,--,276,233,242,AMZN
+Total Current Assets,"60,197","75,101","96,334","132,733","161,580",AMZN
+Land/Improvements,"23,718","31,741","39,223","57,324","81,104",AMZN
+Machinery/Equipment,"38,387","54,591","71,310","97,224","128,683",AMZN
+Construction in Progress,"4,078","6,861","6,036","15,228","24,895",AMZN
+Other Prop./Plant/Equip.,"2,390","2,577","28,252","41,325","60,200",AMZN
+Prop./Plant/Equip. - Gross,"68,573","95,770","144,821","211,101","294,882",AMZN
+Accumulated Depreciation,"(19,707)","(33,973)","(46,975)","(60,434)","(78,519)",AMZN
+Prop./Plant/Equip. - Net,"48,866","61,797","97,846","150,667","216,363",AMZN
+"Goodwill, Net","13,350","14,548","14,754","15,017","15,371",AMZN
+Intangibles - Gross,"4,422","5,350","5,298","6,476","6,933",AMZN
+Accum. Intangible Amort.,"(1,051)","(1,240)","(1,249)","(1,495)","(1,826)",AMZN
+Intangibles - Net,"3,371","4,110","4,049","4,981","5,107",AMZN
+Long Term Investments,415,518,679,"3,200","20,300",AMZN
+Other Long Term Assets,"5,111","6,574","11,544","14,575","1,813",AMZN
+Total Assets,"131,310","162,648","225,248","321,195","420,549",AMZN
+Accounts Payable,"34,616","38,192","47,183","72,539","78,664",AMZN
+Accrued Expenses,"11,949","14,161","31,132","42,983","50,088",AMZN
+Notes Payable/ST Debt,0,0,0,0,0,AMZN
+Curr. Port. LT Dbt/Cap Ls.,"6,221","9,502","1,307","1,155","1,687",AMZN
+"Other Curr. Lblts, Total","5,097","6,536","8,190","9,708","11,827",AMZN
+Total Current Liabilities,"57,883","68,391","87,812","126,385","142,266",AMZN
+Long Term Debt,"24,743","23,495","23,414","31,816","48,744",AMZN
+Capital Lease Obligations,"13,183","16,292","17,095","18,060","21,870",AMZN
+Total Long Term Debt,"37,926","39,787","40,509","49,876","70,614",AMZN
+Total Debt,"44,147","49,289","41,816","51,031","72,301",AMZN
+Deferred Income Tax,990,"1,490",--,--,--,AMZN
+"Other Liabilities, Total","6,802","9,431","34,867","51,530","69,424",AMZN
+Total Liabilities,"103,601","119,099","163,188","227,791","282,304",AMZN
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,0,AMZN
+Common Stock,5,5,5,5,5,AMZN
+Additional Paid-In Capital,"21,389","26,791","33,658","42,865","55,538",AMZN
+Ret. Earn.(Accum. Deficit),"8,636","19,625","31,220","52,551","85,915",AMZN
+Treasury Stock - Common,"(1,837)","(1,837)","(1,837)","(1,837)","(1,837)",AMZN
+Unrealized Gain (Loss),(16),--,--,--,--,AMZN
+Cum. Trans. Adjustment,(468),--,--,--,--,AMZN
+Other Comprehensive Income,--,"(1,035)",(986),(180),"(1,376)",AMZN
+"Other Equity, Total",(468),"(1,035)",(986),(180),"(1,376)",AMZN
+Total Equity,"27,709","43,549","62,060","93,404","138,245",AMZN
+Total Liabilities & Shareholders’ Equity,"131,310","162,648","225,248","321,195","420,549",AMZN
+Ttl Comm. Shares Outs.,"9,680","9,820","9,960","10,060","10,180",AMZN
+Trsy. Shrs-Comm. Primary Iss.,460,460,460,480,460,AMZN

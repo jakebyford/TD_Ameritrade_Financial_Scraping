@@ -1,0 +1,36 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"4,169",509,168,"1,498",PYPL
+Depreciation/Depletion,"1,265",328,661,991,PYPL
+Deferred Taxes,(482),(16),(457),(538),PYPL
+Unusual Items,(46),(14),658,163,PYPL
+Other Non-Cash Items,"2,536",872,"1,880","2,718",PYPL
+Non-Cash Items,"2,490",858,"2,538","2,881",PYPL
+"Cash Taxes Pd, Supplemental",474,47,444,666,PYPL
+"Cash Interest Pd, Suppl",231,12,112,114,PYPL
+Accounts Receivable,(222),(50),(67),(89),PYPL
+Other Assets,"(1,178)",--,--,--,PYPL
+Accounts Payable,(31),(29),(27),(55),PYPL
+Changes in Working Capital,"(1,102)",(437),(202),(176),PYPL
+Total Cash from Operations,"6,340","1,242","2,708","4,656",PYPL
+Capital Expenditures,(908),(191),(366),(548),PYPL
+Acquisition of Business,"(2,763)",--,--,--,PYPL
+Sale of Business,--,--,0,0,PYPL
+Sale of Fixed Assets,5,3,5,5,PYPL
+Sale/Maturity of Investment,"39,698","8,751","11,087","16,770",PYPL
+Purchase of Investments,"(40,116)","(8,604)","(13,151)","(16,455)",PYPL
+Other Investing Cash Flow,"(1,401)",(710),"(2,242)","(3,058)",PYPL
+"OtherInvestCashFlowItms,Tot","(4,577)",(560),"(4,301)","(2,738)",PYPL
+Total Cash from Investing,"(5,485)",(751),"(4,667)","(3,286)",PYPL
+Financing Cash Flow Items,"2,536",620,"1,312",(979),PYPL
+Sale/Issuance of Common,162,3,86,86,PYPL
+Repurch/Retirement Common,"(3,373)","(1,500)","(2,250)","(3,189)",PYPL
+"Iss (Retirmnt) of Stock,Net","(3,211)","(1,497)","(2,164)","(3,103)",PYPL
+Long Term Debt Issued,272,286,"3,288","3,346",PYPL
+Long Term Debt Reduction,(361),(104),"(1,686)","(1,686)",PYPL
+"Iss (Retirmnt) of Debt, Net",(89),182,"1,602","1,660",PYPL
+Total Cash From Financing,(764),(695),750,"(2,422)",PYPL
+Foreign Exchange Effects,(102),18,(136),(253),PYPL
+Net Change in Cash,(11),(186),"(1,345)","(1,305)",PYPL
+NetCash-BeginBal/RsvdforFutUse,"18,040","18,029","18,029","18,029",PYPL
+NetCash-EndBal/RsrvforFutUse,"18,029","17,843","16,684","16,724",PYPL
+"Depreciation, Supplemental","1,265",328,661,991,PYPL

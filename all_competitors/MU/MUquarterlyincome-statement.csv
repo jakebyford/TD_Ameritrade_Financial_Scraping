@@ -1,0 +1,48 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Total Revenue,"7,786","8,642","6,643","4,085",MU
+"Cost of Revenue, Total","4,110","4,607","4,021","3,192",MU
+Selling/Gen/Admin Expense,233,231,245,214,MU
+Labor & Related Expense,30,33,35,37,MU
+"Sell/Gen/AdminExpenses,Tot",263,264,280,251,MU
+Research & Development,792,773,839,849,MU
+Restructuring Charge,5,0,5,13,MU
+Impair-Assets Held for Sale,--,--,0,--,MU
+Other Unusual Expnse (In),--,0,0,0,MU
+Unusual Expense (Income),5,0,5,13,MU
+"Other Operat Expse, Total",70,(6),(23),(11),MU
+Total Operating Expense,"5,240","5,638","5,122","4,294",MU
+Total Operating Income,"2,546","3,004","1,521",(209),MU
+"Inter Expse,Net Non-Operat",(55),(44),(45),(51),MU
+"Inter Income, Non-Operating",12,20,54,88,MU
+"Invest Income, Non-Operat",--,12,1,(9),MU
+"Inter/Invest Inc, Non-Oper",12,32,55,79,MU
+OtherNon-OperatInc (Expnse),6,(4),22,5,MU
+"Other, Net",6,(4),22,5,MU
+Income Before Tax,"2,509","2,988","1,553",(176),MU
+Income Tax - Total,255,358,56,8,MU
+Income After Tax,"2,254","2,630","1,497",(184),MU
+Minority Interest,--,--,0,--,MU
+Equity In Affiliates,9,(4),(5),(11),MU
+Net Inc Before Extra Items,"2,263","2,626","1,492",(195),MU
+Total Net Income,"2,263","2,626","1,492",(195),MU
+Income Available to Common Excl. Extra. Items,"2,263","2,626","1,492",(195),MU
+Income Available to Common Incl. Extra. Items,"2,263","2,626","1,492",(195),MU
+Basic/Primary Weighted Average Shares,"1,119","1,112","1,097","1,090",MU
+Basic/Primary EPS Excl. Extra. Items,2.02,2.36,1.36,(0.18),MU
+Basic/Primary EPS Incl. Extra. Items,2.02,2.36,1.36,(0.18),MU
+Diluted Weighted Average Shares,"1,130","1,121","1,107","1,090",MU
+Diluted EPS Excl. Extra. Items,2.00,2.34,1.35,(0.18),MU
+Diluted EPS Incl. Extra. Items,2.00,2.34,1.35,(0.18),MU
+Div/Share-ComStockPrimIssue,0.10,0.10,0.12,0.12,MU
+Gross Divid - Common Stock,112,112,16,126,MU
+Pro Forma Net Income,--,--,--,--,MU
+"Interest Expense, Suppl",55,44,45,51,MU
+"Depreciat/Amort, Suppl","1,742","1,821","1,882","1,921",MU
+Total Special Items,5,0,5,13,MU
+Normalzd Income Before Tax,"2,514","2,988","1,558",(163),MU
+Efct/SpecItemsIncTxs (STEC),1,0,0,5,MU
+IncTxsExcl ImpctofSpec Itms,256,358,56,13,MU
+Normalized Income After Tax,"2,258","2,630","1,502",(176),MU
+Normalzd Inc Avail to Common,"2,267","2,626","1,497",(187),MU
+Basic Normalized EPS,2.03,2.36,1.36,(0.17),MU
+Diluted Normalized EPS,2.01,2.34,1.35,(0.17),MU

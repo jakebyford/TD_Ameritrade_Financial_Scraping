@@ -1,0 +1,41 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,759,"6,148","6,094","3,003","6,493",CAT
+Depreciation/Depletion,"2,877","2,766","2,577","2,432","2,352",CAT
+Deferred Taxes,"1,213",220,28,(74),(383),CAT
+Unusual Items,0,0,--,--,--,CAT
+Other Non-Cash Items,"1,051","1,501","1,143","1,383",(617),CAT
+Non-Cash Items,"1,051","1,501","1,143","1,383",(617),CAT
+"Cash Taxes Pd, Supplemental","1,404","1,429","1,847","1,311","1,759",CAT
+"Cash Interest Pd, Suppl","1,131","1,088","1,057","1,089",920,CAT
+Accounts Receivable,"(1,151)","(1,619)",171,"1,442","(1,259)",CAT
+Inventories,"(1,295)","(1,579)",274,(34),"(2,586)",CAT
+Other Assets,(192),41,(93),(201),(97),CAT
+Accounts Payable,"1,478",709,"(1,025)",98,"2,041",CAT
+Accrued Expenses,"1,362",(61),(585),(910),"1,303",CAT
+Changes in Working Capital,(194),"(4,077)","(2,930)",(417),(647),CAT
+Total Cash from Operations,"5,706","6,558","6,912","6,327","7,198",CAT
+Capital Expenditures,"(2,336)","(2,916)","(2,669)","(2,115)","(2,472)",CAT
+Sale of Business,100,16,41,25,36,CAT
+Sale of Fixed Assets,"1,164",936,"1,153",772,"1,265",CAT
+Sale/Maturity of Investment,932,442,529,345,785,CAT
+"Investment, Net",(59),(392),(47),(111),(490),CAT
+Purchase of Investments,"(1,048)",(506),(552),(638),"(1,766)",CAT
+Other Investing Cash Flow,281,(792),(383),237,(442),CAT
+"OtherInvestCashFlowItms,Tot","1,370",(296),741,630,(612),CAT
+Total Cash from Investing,(966),"(3,212)","(1,928)","(1,485)","(3,084)",CAT
+Financing Cash Flow Items,(9),(54),(3),(1),(4),CAT
+Total Cash Dividends Paid,"(1,831)","(1,951)","(2,132)","(2,243)","(2,332)",CAT
+"Iss (Retirmnt) of Stock,Net",566,"(3,485)","(3,809)",(901),"(2,533)",CAT
+"Short Term Debt, Net","(3,058)",762,(138),"(2,804)","3,488",CAT
+Long Term Debt Issued,--,--,"9,841",--,--,CAT
+Long Term Debt Reduction,--,--,"(8,297)",--,--,CAT
+"Long Term Debt, Net",--,--,"1,544",--,--,CAT
+Total Debt Issued,"9,063","8,907",--,"10,431","6,989",CAT
+Total Debt Reduction,"(8,388)","(7,829)",--,"(8,237)","(9,796)",CAT
+"Iss (Retirmnt) of Debt, Net","(2,383)","1,840","1,406",(610),681,CAT
+Total Cash From Financing,"(3,657)","(3,650)","(4,538)","(3,755)","(4,188)",CAT
+Foreign Exchange Effects,38,(126),(44),(13),(29),CAT
+Net Change in Cash,"1,121",(430),402,"1,074",(103),CAT
+NetCash-BeginBal/RsvdforFutUse,"7,199","8,320","7,890","8,292","9,366",CAT
+NetCash-EndBal/RsrvforFutUse,"8,320","7,890","8,292","9,366","9,263",CAT
+"Depreciation, Supplemental","2,877","2,766","2,577","2,432","2,352",CAT

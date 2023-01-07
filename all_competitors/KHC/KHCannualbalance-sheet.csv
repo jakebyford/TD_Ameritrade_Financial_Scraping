@@ -1,0 +1,60 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash and Short Term Invs,"1,629","1,130","2,279","3,417","3,445",KHC
+"Trade Accts Recvble, Gross",944,"2,153","2,006","2,111","2,005",KHC
+Prov. for Doubtful Accts,(23),(24),(33),(48),(48),KHC
+"Trade Accts Recvble, Net",921,"2,129","1,973","2,063","1,957",KHC
+Other Receivables,891,152,173,--,--,KHC
+"Total Receivables, Net","1,812","2,281","2,146","2,063","1,957",KHC
+Invent. - Finished Goods,"1,816","1,814","1,846","1,804","1,682",KHC
+Invent. - Work In Progress,384,343,364,268,268,KHC
+Invent. - Raw Materials,560,510,511,482,779,KHC
+Total Inventory,"2,760","2,667","2,721","2,554","2,729",KHC
+Prepaid Expenses,345,400,384,351,136,KHC
+Discont. Ops.-Curr. Assets,0,"1,376",122,"1,863",11,KHC
+Other Current Assets,655,"1,221",445,574,716,KHC
+"Other Curr. Assets, Total",655,"2,597",567,"2,437",727,KHC
+Total Current Assets,"7,201","9,075","8,097","10,822","8,994",KHC
+Buildings,"2,232","2,375","2,447","2,514","2,508",KHC
+Land/Improvements,250,218,210,219,207,KHC
+Construction in Progress,"1,345","1,165","1,033",792,"1,002",KHC
+Other Prop./Plant/Equip.,"5,323","5,904","7,094","7,476","7,526",KHC
+Prop./Plant/Equip. - Gross,"9,150","9,662","10,784","11,001","11,243",KHC
+Accumulated Depreciation,"(2,089)","(2,584)","(3,187)","(3,563)","(3,868)",KHC
+Prop./Plant/Equip. - Net,"7,061","7,078","7,597","7,438","7,375",KHC
+"Goodwill, Net","44,825","36,503","35,546","33,089","31,296",KHC
+Intangibles - Gross,"6,613","6,589","6,570","5,823","5,725",KHC
+Accum. Intangible Amort.,(836),"(1,087)","(1,318)","(1,423)","(1,602)",KHC
+Intangibles - Net,"59,432","49,468","48,652","46,667","43,542",KHC
+Other Long Term Assets,"1,573","1,337","1,558","1,814","2,187",KHC
+Total Assets,"120,092","103,461","101,450","99,830","93,394",KHC
+Accounts Payable,"4,362","4,153","4,003","4,304","4,753",KHC
+Accrued Expenses,"1,108","1,130","1,178","1,439","1,205",KHC
+Notes Payable/ST Debt,462,21,6,6,14,KHC
+Curr. Port. LT Dbt/Cap Ls.,"2,733",377,"1,022",230,740,KHC
+Income Taxes Payable,--,--,--,--,541,KHC
+Discontinued Operations,0,55,9,17,0,KHC
+Other Current Liabilities,"1,489","1,767","1,657","2,065","1,811",KHC
+"Other Curr. Lblts, Total","1,489","1,822","1,666","2,082","2,352",KHC
+Total Current Liabilities,"10,154","7,503","7,875","8,061","9,064",KHC
+Long Term Debt,"28,252","30,720","28,058","27,954","20,963",KHC
+Capital Lease Obligations,56,50,158,116,98,KHC
+Total Long Term Debt,"28,308","30,770","28,216","28,070","21,061",KHC
+Total Debt,"31,503","31,168","29,244","28,306","21,815",KHC
+Deferred Income Tax,"14,039","12,202","11,878","11,462","10,536",KHC
+Minority Interest,213,121,126,140,154,KHC
+Pension Benefits - Underfunded,--,--,--,--,205,KHC
+Other LT Liabilities,"1,515","1,208","1,732","1,994","3,076",KHC
+"Other Liabilities, Total","1,515","1,208","1,732","1,994","3,281",KHC
+Total Liabilities,"54,229","51,804","49,827","49,727","44,096",KHC
+Common Stock,12,12,12,12,12,KHC
+Additional Paid-In Capital,"58,634","58,723","56,828","55,096","53,379",KHC
+Ret. Earn.(Accum. Deficit),"8,495","(4,853)","(3,060)","(2,694)","(1,682)",KHC
+Treasury Stock - Common,(224),(282),(271),(344),(587),KHC
+Unrealized Gain (Loss),(16),41,41,93,97,KHC
+Cum. Trans. Adjustment,"(1,587)","(2,476)","(2,230)","(2,218)","(2,285)",KHC
+Min. Pension Lblty Adj.,549,492,303,158,364,KHC
+"Other Equity, Total","(1,038)","(1,984)","(1,927)","(2,060)","(1,921)",KHC
+Total Equity,"65,863","51,657","51,623","50,103","49,298",KHC
+Total Liabilities & Shareholders’ Equity,"120,092","103,461","101,450","99,830","93,394",KHC
+Ttl Comm. Shares Outs.,"1,219","1,220","1,221","1,223","1,224",KHC
+Trsy. Shrs-Comm. Primary Iss.,2,4,3,5,11,KHC

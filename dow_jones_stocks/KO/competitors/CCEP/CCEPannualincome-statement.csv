@@ -1,0 +1,46 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"11,062","11,518","12,017","10,606","13,763",CCEP
+"Cost of Revenue, Total","6,747","7,013","7,399","6,780","8,619",CCEP
+"Sell/Gen/AdminExpenses,Tot","2,990","3,115","3,006","2,875","3,484",CCEP
+Depreciation/Amortization,38,43,44,62,84,CCEP
+"Inter/Invest Inc, Operating",2,0,(5),(15),2,CCEP
+Restructuring Charge,--,24,0,62,17,CCEP
+Impair-Assets Held for Use,--,--,--,17,--,CCEP
+Impair-Assets Held for Sale,25,23,25,12,41,CCEP
+Unusual Expense (Income),25,47,25,91,58,CCEP
+Total Operating Expense,"9,802","10,218","10,469","9,793","12,247",CCEP
+Total Operating Income,"1,260","1,300","1,548",813,"1,516",CCEP
+"Inter Expse,Net Non-Operat",(141),(134),(137),(136),(163),CCEP
+"Inter Income, Non-Operating",--,--,--,33,43,CCEP
+"Invest Income, Non-Operat",(62),86,33,(19),(78),CCEP
+"Inter/Invest Inc, Non-Oper",(62),86,33,14,(35),CCEP
+OtherNon-OperatInc (Expnse),102,(47),10,4,64,CCEP
+"Other, Net",102,(47),10,4,64,CCEP
+Income Before Tax,"1,159","1,205","1,454",695,"1,382",CCEP
+Income Tax - Total,151,323,364,197,394,CCEP
+Income After Tax,"1,008",882,"1,090",498,988,CCEP
+Minority Interest,--,--,--,--,(6),CCEP
+Net Inc Before Extra Items,"1,008",882,"1,090",498,982,CCEP
+Total Extraordinary Items,(320),27,--,--,--,CCEP
+Total Net Income,688,909,"1,090",498,982,CCEP
+Income Available to Common Excl. Extra. Items,"1,008",882,"1,090",498,982,CCEP
+Income Available to Common Incl. Extra. Items,688,909,"1,090",498,982,CCEP
+Basic/Primary Weighted Average Shares,484,484,466,455,456,CCEP
+Basic/Primary EPS Excl. Extra. Items,2.08,1.82,2.34,1.09,2.15,CCEP
+Basic/Primary EPS Incl. Extra. Items,1.42,1.88,2.34,1.09,2.15,CCEP
+Diluted Weighted Average Shares,489,488,469,456,457,CCEP
+Diluted EPS Excl. Extra. Items,2.06,1.81,2.32,1.09,2.15,CCEP
+Diluted EPS Incl. Extra. Items,1.41,1.86,2.32,1.09,2.15,CCEP
+Div/Share-ComStockPrimIssue,0.79,1.09,1.23,0.82,1.43,CCEP
+Gross Divid - Common Stock,491,515,574,387,639,CCEP
+Pro Forma Net Income,--,--,--,--,--,CCEP
+"Interest Expense, Suppl",141,134,137,136,163,CCEP
+"Depreciat/Amort, Suppl",443,461,587,665,832,CCEP
+Total Special Items,264,297,155,411,194,CCEP
+Normalzd Income Before Tax,"1,423","1,502","1,609","1,106","1,576",CCEP
+Efct/SpecItemsIncTxs (STEC),34,69,35,106,43,CCEP
+IncTxsExcl ImpctofSpec Itms,185,392,399,303,437,CCEP
+Normalized Income After Tax,"1,238","1,110","1,210",803,"1,139",CCEP
+Normalzd Inc Avail to Common,"1,238","1,110","1,210",803,"1,133",CCEP
+Basic Normalized EPS,2.56,2.29,2.60,1.76,2.48,CCEP
+Diluted Normalized EPS,2.53,2.27,2.58,1.76,2.48,CCEP

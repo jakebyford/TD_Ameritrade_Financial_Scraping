@@ -1,0 +1,69 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash and Short Term Invs,"4,880","3,753","4,233","3,996","4,163",HPE
+"Trade Accts Recvble, Gross","3,302","2,988","3,432","4,002","4,126",HPE
+Prov. for Doubtful Accts,(39),(31),(46),(23),(25),HPE
+"Trade Accts Recvble, Net","3,263","2,957","3,386","3,979","4,101",HPE
+Notes Recvble - Short Term,"3,396","3,572","3,794","3,932","3,522",HPE
+Other Receivables,"1,952","1,382",--,--,--,HPE
+"Total Receivables, Net","8,611","7,911","7,180","7,911","7,623",HPE
+Invent. - Finished Goods,"1,274","1,198","1,197","1,684","2,187",HPE
+Invent. - Raw Materials,"1,173","1,189","1,477","2,827","2,974",HPE
+Total Inventory,"2,447","2,387","2,674","4,511","5,161",HPE
+Prepaid Expenses,781,508,--,--,--,HPE
+Restricted Cash - Current,204,323,388,336,600,HPE
+Discont. Ops.-Curr. Assets,6,46,77,--,--,HPE
+Other Current Assets,343,215,"2,004","2,124","2,959",HPE
+"Other Curr. Assets, Total",553,584,"2,469","2,460","3,559",HPE
+Total Current Assets,"17,272","15,143","16,556","18,878","20,506",HPE
+Buildings,"2,103","2,196","1,886","1,751","1,503",HPE
+Land/Improvements,294,241,89,76,74,HPE
+Machinery/Equipment,"9,419","9,464","9,624","9,735","9,729",HPE
+Other Prop./Plant/Equip.,--,--,930,884,854,HPE
+Prop./Plant/Equip. - Gross,"11,816","11,901","12,529","12,446","12,160",HPE
+Accumulated Depreciation,"(5,678)","(5,847)","(5,974)","(5,949)","(5,522)",HPE
+Prop./Plant/Equip. - Net,"6,138","6,054","6,555","6,497","6,638",HPE
+"Goodwill, Net","17,537","18,306","18,017","18,306","17,403",HPE
+Intangibles - Gross,"1,498","1,987","1,943","1,807","1,782",HPE
+Accum. Intangible Amort.,(709),(859),(840),(785),"(1,049)",HPE
+Intangibles - Net,789,"1,128","1,103","1,022",733,HPE
+LT Invt. - Affiliate Comp.,"2,398","2,254","2,170","2,210","2,160",HPE
+LT Investments - Other,162,190,--,--,--,HPE
+Long Term Investments,"2,560","2,444","2,170","2,210","2,160",HPE
+Note Rcvble - Long Term,"4,756","5,151","5,110","5,038","4,512",HPE
+Deferred Charges,"2,340",228,--,--,--,HPE
+Pension Bene. - Overfunded,829,864,"1,046","1,898","1,287",HPE
+Def. Inc. Tax - LT Asset,"2,403","1,515","1,778","2,023","2,127",HPE
+Other Long Term Assets,869,970,"1,680","1,827","1,757",HPE
+Total Assets,"55,493","51,803","54,015","57,699","57,123",HPE
+Accounts Payable,"6,092","5,595","5,383","7,004","8,717",HPE
+Accrued Expenses,"5,461","5,612","5,639","5,845","5,886",HPE
+Notes Payable/ST Debt,809,984,987,939,736,HPE
+Curr. Port. LT Dbt/Cap Ls.,"1,196","3,441","2,768","2,613","3,876",HPE
+Customer Advances,"3,177","3,234","3,813","4,117","3,783",HPE
+Income Taxes Payable,378,186,148,169,176,HPE
+Other Current Liabilities,85,107,--,--,--,HPE
+"Other Curr. Lblts, Total","3,640","3,527","3,961","4,286","3,959",HPE
+Total Current Liabilities,"17,198","19,159","18,738","20,687","23,174",HPE
+Long Term Debt,"10,136","9,395","12,133","9,848","7,810",HPE
+Capital Lease Obligations,--,--,53,48,43,HPE
+Total Long Term Debt,"10,136","9,395","12,186","9,896","7,853",HPE
+Total Debt,"12,141","13,820","15,941","13,448","12,465",HPE
+Deferred Income Tax,"1,485",538,447,365,271,HPE
+Minority Interest,35,51,47,46,45,HPE
+Pension Benefits - Underfunded,"1,434","1,772","1,856","1,496",944,HPE
+Other LT Liabilities,"3,966","3,790","4,692","5,238","4,972",HPE
+"Other Liabilities, Total","5,400","5,562","6,548","6,734","5,916",HPE
+Total Liabilities,"34,254","34,705","37,966","37,728","37,259",HPE
+"Pref. Stock-Non Rdmbl, Net",0,0,0,--,--,HPE
+Common Stock,14,13,13,13,13,HPE
+Additional Paid-In Capital,"30,342","28,444","28,350","28,470","28,299",HPE
+Ret. Earn.(Accum. Deficit),"(5,899)","(7,632)","(8,375)","(5,597)","(5,350)",HPE
+Unrealized Gain (Loss),17,23,18,15,(1),HPE
+Cum. Trans. Adjustment,(419),(437),(477),(466),(610),HPE
+Min. Pension Lblty Adj.,"(2,922)","(3,366)","(3,473)","(2,545)","(2,596)",HPE
+Other Comprehensive Income,106,53,(7),81,109,HPE
+"Other Equity, Total","(3,235)","(3,750)","(3,957)","(2,930)","(3,097)",HPE
+Total Equity,"21,239","17,098","16,049","19,971","19,864",HPE
+Total Liabilities & Shareholders’ Equity,"55,493","51,803","54,015","57,699","57,123",HPE
+Ttl Comm. Shares Outs.,"1,423","1,294","1,287","1,295","1,281",HPE
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,HPE

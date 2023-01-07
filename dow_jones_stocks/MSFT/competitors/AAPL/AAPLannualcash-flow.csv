@@ -1,0 +1,34 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"59,531","55,256","57,411","94,680","99,803",AAPL
+Depreciation/Depletion,"10,903","12,547","11,056","11,284","11,104",AAPL
+Deferred Taxes,"(32,590)",(340),(215),"(4,774)",895,AAPL
+Non-Cash Items,"4,896","5,416","6,732","7,759","9,149",AAPL
+"Cash Taxes Pd, Supplemental","10,417","15,263","9,501","25,385","19,573",AAPL
+"Cash Interest Pd, Suppl","3,022","3,423","3,002","2,687","2,865",AAPL
+Accounts Receivable,"(13,332)","3,176","8,470","(14,028)","(9,343)",AAPL
+Inventories,828,(289),(127),"(2,642)","1,484",AAPL
+Other Assets,(423),873,"(9,588)","(8,042)","(6,499)",AAPL
+Accounts Payable,"9,175","(1,923)","(4,062)","12,326","9,448",AAPL
+Changes in Working Capital,"34,694","(3,488)","5,690","(4,911)","1,200",AAPL
+Total Cash from Operations,"77,434","69,391","80,674","104,038","122,151",AAPL
+Capital Expenditures,"(13,313)","(10,495)","(7,309)","(11,085)","(10,708)",AAPL
+Acquisition of Business,(721),(624),"(1,524)",(33),(306),AAPL
+Sale/Maturity of Investment,"104,072","98,724","120,483","106,870","67,363",AAPL
+Purchase of Investments,"(73,227)","(40,631)","(115,148)","(109,689)","(76,923)",AAPL
+Other Investing Cash Flow,(745),"(1,078)",(791),(608),"(1,780)",AAPL
+"OtherInvestCashFlowItms,Tot","29,379","56,391","3,020","(3,460)","(11,646)",AAPL
+Total Cash from Investing,"16,066","45,896","(4,289)","(14,545)","(22,354)",AAPL
+Financing Cash Flow Items,"(2,527)","(2,922)","(3,760)","(6,685)","(6,383)",AAPL
+Total Cash Dividends Paid,"(13,712)","(14,119)","(14,081)","(14,467)","(14,841)",AAPL
+Sale/Issuance of Common,669,781,880,"1,105",--,AAPL
+Repurch/Retirement Common,"(72,738)","(66,897)","(72,358)","(85,971)","(89,402)",AAPL
+"Iss (Retirmnt) of Stock,Net","(72,069)","(66,116)","(71,478)","(84,866)","(89,402)",AAPL
+"Short Term Debt, Net",(37),"(5,977)",(963),"1,022","3,955",AAPL
+"Long Term Debt, Net","6,969","6,963","16,091","20,393","(4,078)",AAPL
+Total Debt Reduction,"(6,500)","(8,805)","(12,629)","(8,750)",--,AAPL
+"Iss (Retirmnt) of Debt, Net",432,"(7,819)","2,499","12,665",(123),AAPL
+Total Cash From Financing,"(87,876)","(90,976)","(86,820)","(93,353)","(110,749)",AAPL
+Net Change in Cash,"5,624","24,311","(10,435)","(3,860)","(10,952)",AAPL
+NetCash-BeginBal/RsvdforFutUse,"20,289","25,913","50,224","39,789","35,929",AAPL
+NetCash-EndBal/RsrvforFutUse,"25,913","50,224","39,789","35,929","24,977",AAPL
+"Depreciation, Supplemental","10,903","12,547","11,056","11,284","11,104",AAPL

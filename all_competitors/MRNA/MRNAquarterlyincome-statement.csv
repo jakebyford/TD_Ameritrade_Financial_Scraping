@@ -1,0 +1,39 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"7,211","6,066","4,749","3,364",MRNA
+"Cost of Revenue, Total",952,"1,017","1,381","1,100",MRNA
+Selling/Gen/Admin Expense,187,252,193,246,MRNA
+Labor & Related Expense,14,16,18,32,MRNA
+"Sell/Gen/AdminExpenses,Tot",201,268,211,278,MRNA
+Research & Development,648,554,710,820,MRNA
+Total Operating Expense,"1,801","1,839","2,302","2,198",MRNA
+Total Operating Income,"5,410","4,227","2,447","1,166",MRNA
+"Inter Expse,Net Non-Operat",(6),(6),(5),(8),MRNA
+"Inter Income, Non-Operating",7,15,40,58,MRNA
+"Invest Income, Non-Operat",(1),(6),(8),(4),MRNA
+"Inter/Invest Inc, Non-Oper",6,9,32,54,MRNA
+OtherNon-OperatInc (Expnse),0,(1),0,5,MRNA
+"Other, Net",0,(1),0,5,MRNA
+Income Before Tax,"5,410","4,229","2,474","1,217",MRNA
+Income Tax - Total,542,572,277,174,MRNA
+Income After Tax,"4,868","3,657","2,197","1,043",MRNA
+Net Inc Before Extra Items,"4,868","3,657","2,197","1,043",MRNA
+Total Net Income,"4,868","3,657","2,197","1,043",MRNA
+Income Available to Common Excl. Extra. Items,"4,868","3,657","2,197","1,043",MRNA
+Income Available to Common Incl. Extra. Items,"4,868","3,657","2,197","1,043",MRNA
+Basic/Primary Weighted Average Shares,406,402,396,390,MRNA
+Basic/Primary EPS Excl. Extra. Items,11.99,9.10,5.55,2.67,MRNA
+Basic/Primary EPS Incl. Extra. Items,11.99,9.10,5.55,2.67,MRNA
+Diluted Weighted Average Shares,431,426,419,412,MRNA
+Diluted EPS Excl. Extra. Items,11.29,8.58,5.24,2.53,MRNA
+Diluted EPS Incl. Extra. Items,11.29,8.58,5.24,2.53,MRNA
+Div/Share-ComStockPrimIssue,--,0.00,0.00,0.00,MRNA
+Gross Divid - Common Stock,0,0,0,0,MRNA
+Pro Forma Net Income,--,--,--,--,MRNA
+"Interest Expense, Suppl",6,6,5,8,MRNA
+"Depreciat/Amort, Suppl",78,79,76,113,MRNA
+Normalzd Income Before Tax,"5,410","4,229","2,474","1,217",MRNA
+IncTxsExcl ImpctofSpec Itms,542,572,277,174,MRNA
+Normalized Income After Tax,"4,868","3,657","2,197","1,043",MRNA
+Normalzd Inc Avail to Common,"4,868","3,657","2,197","1,043",MRNA
+Basic Normalized EPS,11.99,9.10,5.55,2.67,MRNA
+Diluted Normalized EPS,11.29,8.58,5.24,2.53,MRNA

@@ -1,0 +1,39 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,272,274,330,410,443,TTC
+Depreciation/Depletion,61,69,76,75,75,TTC
+Amortization,--,18,20,24,34,TTC
+Deferred Taxes,25,(6),2,(23),(12),TTC
+Unusual Items,9,10,12,5,(10),TTC
+Equity in Net Earnings/Loss,(11),(12),(8),(6),(9),TTC
+Other Non-Cash Items,13,59,20,22,22,TTC
+Non-Cash Items,11,58,24,21,3,TTC
+"Cash Taxes Pd, Supplemental",76,55,70,102,120,TTC
+"Cash Interest Pd, Suppl",20,30,34,32,30,TTC
+Accounts Receivable,(10),(11),15,(52),(19),TTC
+Inventories,(30),(105),21,(98),(286),TTC
+Prepaid Expenses,(12),10,12,3,(30),TTC
+Payable/Accrued,47,30,40,195,89,TTC
+Changes in Working Capital,(4),(76),88,48,(246),TTC
+Total Cash from Operations,365,337,539,555,297,TTC
+Capital Expenditures,(90),(93),(78),(131),(151),TTC
+Acquisition of Business,(31),(697),(138),(25),(402),TTC
+Sale of Business,0,13,0,27,5,TTC
+Sale of Fixed Assets,0,5,0,1,0,TTC
+Sale/Maturity of Investment,--,--,0,0,--,TTC
+Purchase of Investments,(7),0,--,--,--,TTC
+"OtherInvestCashFlowItms,Tot",(38),(680),(138),3,(398),TTC
+Total Cash from Investing,(128),(773),(216),(128),(548),TTC
+Financing Cash Flow Items,(4),(3),(2),(2),(2),TTC
+Total Cash Dividends Paid,(85),(96),(108),(112),(126),TTC
+"Common Stock, Net",(160),(20),0,(302),(140),TTC
+Options Exercised,17,29,22,13,10,TTC
+"Iss (Retirmnt) of Stock,Net",(143),9,22,(289),(130),TTC
+"Short Term Debt, Net",0,--,--,--,--,TTC
+"Long Term Debt, Net",(20),389,90,(100),300,TTC
+"Iss (Retirmnt) of Debt, Net",(20),389,90,(100),300,TTC
+Total Cash From Financing,(252),299,2,(504),42,TTC
+Foreign Exchange Effects,(6),(1),2,2,(9),TTC
+Net Change in Cash,(21),(137),328,(74),(217),TTC
+NetCash-BeginBal/RsvdforFutUse,310,289,152,480,406,TTC
+NetCash-EndBal/RsrvforFutUse,289,152,480,406,188,TTC
+"Depreciation, Supplemental",61,69,76,75,75,TTC

@@ -1,0 +1,40 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,(525),"(10,217)","(6,968)","(7,180)","7,769",PDD
+Depreciation/Depletion,2,497,638,652,"1,495",PDD
+Deferred Taxes,--,--,--,--,0,PDD
+Unusual Items,10,0,(5),(334),(53),PDD
+Equity in Net Earnings/Loss,--,--,(29),(84),(247),PDD
+Other Non-Cash Items,11,"6,763","2,579","4,093","6,257",PDD
+Non-Cash Items,21,"6,763","2,545","3,675","5,957",PDD
+Accounts Receivable,(428),(736),"(1,690)","(1,315)",46,PDD
+Prepaid Expenses,(88),(789),12,"(4,049)","1,745",PDD
+Other Assets,--,--,(660),(13),(23),PDD
+Accounts Payable,"8,776","7,572","13,065","25,751","7,430",PDD
+Accrued Expenses,318,"1,864","3,193","5,711","3,138",PDD
+Changes in Working Capital,"10,188","10,725","18,606","31,050","13,562",PDD
+Total Cash from Operations,"9,686","7,768","14,821","28,197","28,783",PDD
+Capital Expenditures,(9),(27),(27),(43),"(3,287)",PDD
+Sale of Fixed Assets,0,0,0,0,0,PDD
+Sale/Maturity of Investment,"1,633",55,"24,798","55,083","97,547",PDD
+Purchase of Investments,"(1,393)","(7,701)","(52,666)","(93,160)","(130,268)",PDD
+Other Investing Cash Flow,(160),125,(425),(238),445,PDD
+"OtherInvestCashFlowItms,Tot",81,"(7,521)","(28,292)","(38,315)","(32,275)",PDD
+Total Cash from Investing,72,"(7,549)","(28,320)","(38,358)","(35,562)",PDD
+Financing Cash Flow Items,(15),(4),"8,085",0,0,PDD
+Total Cash Dividends Paid,--,0,--,--,--,PDD
+Sale/Issuance of Common,0,"11,880",0,"37,869",0,PDD
+Repurch/Retirement Common,(33),(356),(201),--,--,PDD
+"Common Stock, Net",(33),"11,524",(201),"37,869",0,PDD
+"Preferred Stock, Net","1,447","5,825",0,--,--,PDD
+"Iss (Retirmnt) of Stock,Net","1,414","17,348",(201),"37,869",0,PDD
+Short Term Debt Issued,--,--,897,"1,829",0,PDD
+Short Term Debt Reduction,--,--,--,(923),"(1,875)",PDD
+"Short Term Debt, Net",--,--,897,906,"(1,875)",PDD
+"Long Term Debt, Net",--,--,"7,073","13,024",0,PDD
+"Iss (Retirmnt) of Debt, Net",--,--,"7,970","13,930","(1,875)",PDD
+Total Cash From Financing,"1,399","17,344","15,855","51,799","(1,875)",PDD
+Foreign Exchange Effects,(48),547,450,(140),(145),PDD
+Net Change in Cash,"11,109","18,111","2,806","41,498","(8,800)",PDD
+NetCash-BeginBal/RsvdforFutUse,"1,320","12,429","30,540","33,346","74,844",PDD
+NetCash-EndBal/RsrvforFutUse,"12,429","30,540","33,346","74,844","66,044",PDD
+"Depreciation, Supplemental",2,497,638,652,"1,495",PDD

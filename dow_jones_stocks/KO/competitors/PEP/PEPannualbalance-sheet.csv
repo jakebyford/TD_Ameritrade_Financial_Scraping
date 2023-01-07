@@ -1,0 +1,72 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"10,610","8,721","5,509","8,185","5,596",PEP
+Short Term Investments,"8,900",272,229,"1,366",392,PEP
+Cash and Short Term Invs,"19,510","8,993","5,738","9,551","5,988",PEP
+"Trade Accts Recvble, Gross","7,153","7,243","7,927","6,892","7,172",PEP
+Prov. for Doubtful Accts,(129),(101),(105),(201),(147),PEP
+"Trade Accts Recvble, Net","7,024","7,142","7,822","6,691","7,025",PEP
+Other Receivables,--,--,--,"1,713","1,655",PEP
+"Total Receivables, Net","7,024","7,142","7,822","8,404","8,680",PEP
+Invent. - Finished Goods,"1,436","1,638","1,743","2,247","2,298",PEP
+Invent. - Work In Progress,167,178,200,205,151,PEP
+Invent. - Raw Materials,"1,344","1,312","1,395","1,720","1,898",PEP
+Total Inventory,"2,947","3,128","3,338","4,172","4,347",PEP
+Prepaid Expenses,"1,546",633,747,826,927,PEP
+Restricted Cash - Current,--,"1,997",0,--,--,PEP
+Discont. Ops.-Curr. Assets,--,--,--,--,"1,788",PEP
+Other Current Assets,--,--,--,48,53,PEP
+"Other Curr. Assets, Total",--,"1,997",0,48,"1,841",PEP
+Total Current Assets,"31,027","21,893","17,645","23,001","21,783",PEP
+Buildings,"8,796","8,941","9,314","10,214","10,279",PEP
+Land/Improvements,"1,148","1,078","1,130","1,171","1,123",PEP
+Machinery/Equipment,"27,018","27,715","29,390","31,276","31,486",PEP
+Construction in Progress,"2,144","2,430","3,169","3,679","3,940",PEP
+Other Prop./Plant/Equip.,--,--,"1,548","1,670","2,020",PEP
+Prop./Plant/Equip. - Gross,"39,106","40,164","44,551","48,010","48,848",PEP
+Accumulated Depreciation,"(21,866)","(22,575)","(23,698)","(24,971)","(24,421)",PEP
+Prop./Plant/Equip. - Net,"17,240","17,589","20,853","23,039","24,427",PEP
+"Goodwill, Net","14,744","14,808","15,501","18,757","18,381",PEP
+Intangibles - Gross,"15,377","17,390","17,698","21,052","20,328",PEP
+Accum. Intangible Amort.,"(1,539)","(1,565)","(1,655)","(1,737)","(1,663)",PEP
+Intangibles - Net,"13,838","15,825","16,043","19,315","18,665",PEP
+Long Term Investments,"2,042","2,409","2,683","2,792","2,627",PEP
+Note Rcvble - Long Term,59,86,85,109,111,PEP
+Deferred Charges,134,112,147,130,119,PEP
+Pension Bene. - Overfunded,374,269,846,910,"1,260",PEP
+Def. Inc. Tax - LT Asset,--,"4,364","4,359","4,372","4,310",PEP
+Restricted Cash - LT,--,--,61,69,111,PEP
+Other Long Term Assets,346,293,324,424,583,PEP
+Total Assets,"79,804","77,648","78,547","92,918","92,377",PEP
+Accounts Payable,"6,727","7,213","8,013","8,853","9,834",PEP
+Accrued Expenses,"4,175","4,296","5,042","5,454","5,857",PEP
+Notes Payable/ST Debt,"1,465",73,72,422,436,PEP
+Curr. Port. LT Dbt/Cap Ls.,"4,020","3,953","2,848","3,358","3,872",PEP
+Dividends Payable,"1,161","1,329","1,351","1,430","1,508",PEP
+Other Payables,--,"1,997",58,--,--,PEP
+Discontinued Operations,--,--,--,--,753,PEP
+Other Current Liabilities,"2,954","3,277","3,077","3,855","3,960",PEP
+"Other Curr. Lblts, Total","4,115","6,603","4,486","5,285","6,221",PEP
+Total Current Liabilities,"20,502","22,138","20,461","23,372","26,220",PEP
+Total Long Term Debt,"33,796","28,295","29,148","40,370","36,026",PEP
+Total Debt,"39,281","32,321","32,068","44,150","40,334",PEP
+Deferred Income Tax,"3,242","3,499","4,091","4,284","4,826",PEP
+Minority Interest,92,84,82,98,108,PEP
+"Other Liabilities, Total","11,283","9,114","9,979","11,340","9,154",PEP
+Total Liabilities,"68,915","63,130","63,761","79,464","76,334",PEP
+Conv. Pref. Stk-Non Rdmbl.,41,0,--,--,--,PEP
+Treasury Stock - Preferred,(197),0,--,--,--,PEP
+"Pref. Stock-Non Rdmbl, Net",(156),0,--,--,--,PEP
+Common Stock,24,23,23,23,23,PEP
+Additional Paid-In Capital,"3,996","3,953","3,886","3,910","4,001",PEP
+Ret. Earn.(Accum. Deficit),"52,839","59,947","61,946","63,443","65,165",PEP
+Treasury Stock - Common,"(32,757)","(34,286)","(36,769)","(38,446)","(38,248)",PEP
+Unrealized Gain (Loss),(4),2,0,--,--,PEP
+Cum. Trans. Adjustment,"(10,277)","(11,918)","(11,290)","(11,940)","(12,309)",PEP
+Min. Pension Lblty Adj.,"(2,804)","(3,271)","(2,988)","(3,520)","(2,750)",PEP
+Other Comprehensive Income,28,68,(22),(16),161,PEP
+"Other Equity, Total","(13,053)","(15,121)","(14,300)","(15,476)","(14,898)",PEP
+Total Equity,"10,889","14,518","14,786","13,454","16,043",PEP
+Total Liabilities & Shareholders’ Equity,"79,804","77,648","78,547","92,918","92,377",PEP
+Ttl Comm. Shares Outs.,"1,420","1,409","1,391","1,380","1,383",PEP
+Trsy. Shrs-Comm. Primary Iss.,446,458,476,487,484,PEP
+Trsry Shrs-Pref. Iss. 1,0,--,--,--,--,PEP

@@ -1,0 +1,32 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"7,545","1,104","2,292","4,274",MCD
+Depreciation/Depletion,"1,868",480,942,"1,408",MCD
+Deferred Taxes,(428),(51),(187),(383),MCD
+Unusual Items,(98),--,--,--,MCD
+Other Non-Cash Items,(200),126,399,392,MCD
+Non-Cash Items,(298),126,399,392,MCD
+Changes in Working Capital,454,473,(695),(505),MCD
+Total Cash from Operations,"9,142","2,133","2,751","5,185",MCD
+Capital Expenditures,"(2,040)",(401),(839),"(1,370)",MCD
+Acquisition of Business,(374),(87),(197),(350),MCD
+Sale of Business,196,17,368,401,MCD
+Sale of Fixed Assets,106,5,11,22,MCD
+Other Investing Cash Flow,(54),(88),(217),(311),MCD
+"OtherInvestCashFlowItms,Tot",(126),(153),(35),(237),MCD
+Total Cash from Investing,"(2,166)",(555),(874),"(1,607)",MCD
+Financing Cash Flow Items,(47),(13),(32),49,MCD
+Total Cash Dividends Paid,"(3,919)","(1,025)","(2,042)","(3,057)",MCD
+"Common Stock, Net",(846),"(1,507)","(2,538)","(3,407)",MCD
+Options Exercised,286,59,106,168,MCD
+"Iss (Retirmnt) of Stock,Net",(560),"(1,448)","(2,432)","(3,239)",MCD
+"Short Term Debt, Net",15,6,316,11,MCD
+Long Term Debt Issued,"1,154",0,"1,875","3,375",MCD
+Long Term Debt Reduction,"(2,240)","(1,351)","(2,201)","(2,202)",MCD
+"Long Term Debt, Net","(1,086)","(1,351)",(327),"1,173",MCD
+"Iss (Retirmnt) of Debt, Net","(1,071)","(1,345)",(11),"1,183",MCD
+Total Cash From Financing,"(5,596)","(3,830)","(4,517)","(5,063)",MCD
+Foreign Exchange Effects,(120),(122),(198),(396),MCD
+Net Change in Cash,"1,260","(2,374)","(2,837)","(1,881)",MCD
+NetCash-BeginBal/RsvdforFutUse,"3,449","4,709","4,709","4,709",MCD
+NetCash-EndBal/RsrvforFutUse,"4,709","2,336","1,873","2,828",MCD
+"Depreciation, Supplemental","1,868",480,942,"1,408",MCD

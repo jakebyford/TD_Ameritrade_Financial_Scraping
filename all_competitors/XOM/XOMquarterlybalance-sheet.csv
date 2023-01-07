@@ -1,0 +1,39 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash and Short Term Invs,"6,802","11,074","18,861","30,407",XOM
+"Trade Accts Recvble, Net","26,883","42,142","48,063","42,411",XOM
+Other Receivables,"5,500",--,--,--,XOM
+"Total Receivables, Net","32,383","42,142","48,063","42,411",XOM
+Invent. - Finished Goods,"14,519","18,074","19,580","20,078",XOM
+Invent. - Raw Materials,"4,261","4,103","4,005","4,018",XOM
+Total Inventory,"18,780","22,177","23,585","24,096",XOM
+Restricted Cash - Current,--,--,--,57,XOM
+Other Current Assets,"1,189","1,862","2,654","2,318",XOM
+"Other Curr. Assets, Total","1,189","1,862","2,654","2,375",XOM
+Total Current Assets,"59,154","77,255","93,163","99,289",XOM
+Prop./Plant/Equip. - Net,"216,552","212,773","209,159","203,102",XOM
+Long Term Investments,"45,195","46,329","46,820","50,235",XOM
+Other Long Term Assets,"18,022","18,414","18,632","17,526",XOM
+Total Assets,"338,923","354,771","367,774","370,152",XOM
+Payable/Accrued,"50,766","63,501","67,958","62,550",XOM
+Notes Payable/ST Debt,0,0,0,0,XOM
+Curr. Port. LT Dbt/Cap Ls.,"4,276","4,886","7,367","6,182",XOM
+"Other Curr. Lblts, Total","1,601","3,672","4,785","5,325",XOM
+Total Current Liabilities,"56,643","72,059","80,110","74,057",XOM
+Total Long Term Debt,"43,428","42,651","39,516","39,246",XOM
+Total Debt,"47,704","47,537","46,883","45,428",XOM
+Deferred Income Tax,"20,165","19,533","20,807","21,274",XOM
+Minority Interest,"7,106","7,311","7,192","6,943",XOM
+Pension Benefits - Underfunded,"18,430","18,255","17,408","16,799",XOM
+Other LT Liabilities,"24,574","25,747","25,425","25,733",XOM
+"Other Liabilities, Total","43,004","44,002","42,833","42,532",XOM
+Total Liabilities,"170,346","185,556","190,458","184,052",XOM
+Common Stock,"15,746","15,879","16,018","16,106",XOM
+Ret. Earn.(Accum. Deficit),"392,059","393,779","407,902","423,877",XOM
+Treasury Stock - Common,"(225,464)","(227,529)","(231,587)","(236,080)",XOM
+Cum. Trans. Adjustment,"(11,499)","(10,838)","(13,181)","(16,179)",XOM
+Min. Pension Lblty Adj.,"(2,265)","(2,076)","(1,836)","(1,624)",XOM
+"Other Equity, Total","(13,764)","(12,914)","(15,017)","(17,803)",XOM
+Total Equity,"168,577","169,215","177,316","186,100",XOM
+Total Liabilities & Shareholders’ Equity,"338,923","354,771","367,774","370,152",XOM
+Ttl Comm. Shares Outs.,"4,239","4,213","4,168","4,118",XOM
+Trsy. Shrs-Comm. Primary Iss.,"3,780","3,806","3,851","3,901",XOM

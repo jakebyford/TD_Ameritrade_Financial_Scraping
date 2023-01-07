@@ -1,0 +1,46 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash,--,848,722,682,TXN
+Cash & Equivalents,"4,631","2,657","3,080","2,487",TXN
+Short Term Investments,"5,108","6,320","4,585","5,921",TXN
+Cash and Short Term Invs,"9,739","9,825","8,387","9,090",TXN
+"Trade Accts Recvble, Gross","1,709","1,804","2,202","2,050",TXN
+Prov. for Doubtful Accts,(8),(9),(12),(10),TXN
+"Total Receivables, Net","1,701","1,795","2,190","2,040",TXN
+Invent. - Finished Goods,598,644,636,724,TXN
+Invent. - Work In Progress,"1,067","1,151","1,258","1,347",TXN
+Invent. - Raw Materials,245,265,305,333,TXN
+Total Inventory,"1,910","2,060","2,199","2,404",TXN
+Prepaid Expenses,335,330,267,238,TXN
+Total Current Assets,"13,685","14,010","13,043","13,772",TXN
+Prop./Plant/Equip. - Gross,"7,858","8,236","8,825","9,491",TXN
+Accumulated Depreciation,"(2,717)","(2,797)","(2,894)","(3,006)",TXN
+Prop./Plant/Equip. - Net,"5,606","5,439","5,931","6,485",TXN
+"Goodwill, Net","4,362","4,362","4,362","4,362",TXN
+Intangibles - Net,85,91,82,75,TXN
+Long Term Investments,42,33,23,21,TXN
+Pension Bene. - Overfunded,392,383,296,273,TXN
+Def. Inc. Tax - LT Asset,263,273,293,291,TXN
+Other Long Term Assets,241,685,693,778,TXN
+Total Assets,"24,676","25,276","24,723","26,057",TXN
+Accounts Payable,653,641,712,780,TXN
+Accrued Expenses,"1,295",982,"1,234","1,396",TXN
+Notes Payable/ST Debt,0,0,0,0,TXN
+Curr. Port. LT Dbt/Cap Ls.,500,500,499,499,TXN
+"Other Curr. Lblts, Total",121,405,115,123,TXN
+Total Current Liabilities,"2,569","2,528","2,560","2,798",TXN
+Total Long Term Debt,"7,241","7,242","6,745","7,438",TXN
+Total Debt,"7,741","7,742","7,244","7,937",TXN
+Deferred Income Tax,87,94,90,92,TXN
+Pension Benefits - Underfunded,79,81,71,69,TXN
+Other LT Liabilities,"1,367","1,314","1,165","1,153",TXN
+"Other Liabilities, Total","1,446","1,395","1,236","1,222",TXN
+Total Liabilities,"11,343","11,259","10,631","11,550",TXN
+Common Stock,"1,741","1,741","1,741","1,741",TXN
+Additional Paid-In Capital,"2,630","2,667","2,783","2,877",TXN
+Ret. Earn.(Accum. Deficit),"45,919","47,053","48,280","49,519",TXN
+Treasury Stock - Common,"(36,800)","(37,291)","(38,532)","(39,476)",TXN
+"Other Equity, Total",(157),(153),(180),(154),TXN
+Total Equity,"13,333","14,017","14,092","14,507",TXN
+Total Liabilities & Shareholders’ Equity,"24,676","25,276","24,723","26,057",TXN
+Ttl Comm. Shares Outs.,924,922,915,910,TXN
+Trsy. Shrs-Comm. Primary Iss.,817,819,826,831,TXN

@@ -1,0 +1,35 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"1,795","2,057","2,459","4,202","4,169",PYPL
+Depreciation/Depletion,805,776,912,"1,189","1,265",PYPL
+Deferred Taxes,"(1,299)",(171),(269),165,(482),PYPL
+Unusual Items,--,(87),(208),"(1,914)",(46),PYPL
+Other Non-Cash Items,"1,811","2,286","2,252","3,164","2,536",PYPL
+Non-Cash Items,"1,811","2,199","2,044","1,250","2,490",PYPL
+"Cash Taxes Pd, Supplemental",117,328,665,565,474,PYPL
+"Cash Interest Pd, Suppl",6,69,78,190,231,PYPL
+Accounts Receivable,12,(59),(120),(100),(222),PYPL
+Other Assets,"(2,125)",361,"(1,075)","(1,120)","(1,178)",PYPL
+Accounts Payable,62,26,4,(4),(31),PYPL
+Changes in Working Capital,(581),619,"(1,075)",(952),"(1,102)",PYPL
+Total Cash from Operations,"2,531","5,480","4,071","5,854","6,340",PYPL
+Capital Expenditures,(667),(823),(704),(866),(908),PYPL
+Acquisition of Business,(323),"(2,124)",(70),"(3,609)","(2,763)",PYPL
+Sale of Fixed Assets,0,3,17,120,5,PYPL
+Sale/Maturity of Investment,"18,448","21,898","24,878","30,908","39,698",PYPL
+Purchase of Investments,"(19,418)","(22,381)","(27,881)","(41,513)","(40,116)",PYPL
+Other Investing Cash Flow,"(2,525)","4,248","(1,982)","(1,258)","(1,401)",PYPL
+"OtherInvestCashFlowItms,Tot","(3,818)","1,644","(5,038)","(15,352)","(4,577)",PYPL
+Total Cash from Investing,"(4,485)",821,"(5,742)","(16,218)","(5,485)",PYPL
+Financing Cash Flow Items,"4,126","1,176","2,505","10,024","2,536",PYPL
+Sale/Issuance of Common,144,144,138,137,162,PYPL
+Repurch/Retirement Common,"(1,006)","(3,520)","(1,411)","(1,635)","(3,373)",PYPL
+"Iss (Retirmnt) of Stock,Net",(862),"(3,376)","(1,273)","(1,498)","(3,211)",PYPL
+Long Term Debt Issued,"1,800","2,075","5,471","6,966",272,PYPL
+Long Term Debt Reduction,(980),"(1,115)","(2,516)","(3,000)",(361),PYPL
+"Iss (Retirmnt) of Debt, Net",820,960,"2,955","3,966",(89),PYPL
+Total Cash From Financing,"4,084","(1,240)","4,187","12,492",(764),PYPL
+Foreign Exchange Effects,36,(113),(6),169,(102),PYPL
+Net Change in Cash,"2,166","4,948","2,510","2,297",(11),PYPL
+NetCash-BeginBal/RsvdforFutUse,"6,119","8,285","13,233","15,743","18,040",PYPL
+NetCash-EndBal/RsrvforFutUse,"8,285","13,233","15,743","18,040","18,029",PYPL
+"Depreciation, Supplemental",805,776,912,"1,189","1,265",PYPL

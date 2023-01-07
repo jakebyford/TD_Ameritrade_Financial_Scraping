@@ -1,0 +1,38 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"1,253",270,616,"1,146",QSR
+Depreciation/Depletion,201,49,97,143,QSR
+Deferred Taxes,(5),(16),0,(29),QSR
+Unusual Items,98,18,27,17,QSR
+Equity in Net Earnings/Loss,4,13,22,30,QSR
+Other Non-Cash Items,37,22,23,40,QSR
+Non-Cash Items,139,53,72,87,QSR
+"Cash Taxes Pd, Supplemental",256,42,120,177,QSR
+"Cash Interest Pd, Suppl",404,75,209,318,QSR
+Accounts Receivable,8,(46),4,(93),QSR
+Inventories,12,(22),(27),(67),QSR
+Accounts Payable,149,18,99,113,QSR
+Accrued Expenses,67,(91),(199),(74),QSR
+Changes in Working Capital,138,(122),(116),(280),QSR
+Total Cash from Operations,"1,726",234,669,"1,067",QSR
+Capital Expenditures,(106),(10),(28),(52),QSR
+Acquisition of Business,"(1,004)",--,(12),(12),QSR
+Sale of Fixed Assets,16,4,10,11,QSR
+"Investment, Net",5,3,9,22,QSR
+Other Investing Cash Flow,(14),4,(25),(35),QSR
+"OtherInvestCashFlowItms,Tot",(997),11,(18),(14),QSR
+Total Cash from Investing,"(1,103)",1,(46),(66),QSR
+Financing Cash Flow Items,(74),(7),(8),5,QSR
+Total Cash Dividends Paid,(974),(241),(485),(728),QSR
+"Common Stock, Net",(551),(161),(326),(326),QSR
+"Preferred Stock, Net",0,--,--,--,QSR
+Options Exercised,60,3,4,7,QSR
+"Iss (Retirmnt) of Stock,Net",(491),(158),(322),(319),QSR
+Long Term Debt Issued,"1,335",1,2,2,QSR
+Long Term Debt Reduction,(889),(21),(47),(71),QSR
+"Iss (Retirmnt) of Debt, Net",446,(20),(45),(69),QSR
+Total Cash From Financing,"(1,093)",(426),(860),"(1,111)",QSR
+Foreign Exchange Effects,(3),(1),(12),(31),QSR
+Net Change in Cash,(473),(192),(249),(141),QSR
+NetCash-BeginBal/RsvdforFutUse,"1,560","1,087","1,087","1,087",QSR
+NetCash-EndBal/RsrvforFutUse,"1,087",895,838,946,QSR
+"Depreciation, Supplemental",201,49,97,143,QSR

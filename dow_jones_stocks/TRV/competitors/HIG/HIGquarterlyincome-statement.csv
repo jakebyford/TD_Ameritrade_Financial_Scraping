@@ -1,0 +1,44 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Premiums Earned,"4,631","4,651","4,810","4,910",HIG
+Other Insurance Revenue,400,378,360,349,HIG
+Total Premiums Earned,"5,031","5,029","5,170","5,259",HIG
+Net Investment Income,573,509,541,487,HIG
+Realized Gains (Losses),212,(145),(338),(166),HIG
+Total Revenue,"5,816","5,393","5,373","5,580",HIG
+"Losses,Benies& Adjmts,Total","3,173","3,118","3,076","3,408",HIG
+Amort. Of Policy Acquisition Costs,428,440,453,467,HIG
+Depreciation/Amortization,18,18,17,18,HIG
+Restructuring Charge,2,5,2,3,HIG
+Other Unusual Expnse (In),0,--,9,0,HIG
+Unusual Expense (Income),2,5,11,3,HIG
+"Other Operat Expse, Total","1,233","1,207","1,213","1,203",HIG
+Total Operating Expense,"4,854","4,788","4,770","5,099",HIG
+Total Operating Income,962,605,603,481,HIG
+"Inter Expse,Net Non-Operat",(62),(62),(51),(50),HIG
+Income Before Tax,900,543,552,431,HIG
+Income Tax - Total,171,98,110,92,HIG
+Income After Tax,729,445,442,339,HIG
+Net Inc Before Extra Items,729,445,442,339,HIG
+Total Net Income,729,445,442,339,HIG
+Total Adjust to Net Income,(5),(5),(5),(6),HIG
+Income Available to Common Excl. Extra. Items,724,440,437,333,HIG
+Income Available to Common Incl. Extra. Items,724,440,437,333,HIG
+Basic/Primary Weighted Average Shares,339,332,327,322,HIG
+Basic/Primary EPS Excl. Extra. Items,2.14,1.32,1.33,1.03,HIG
+Basic/Primary EPS Incl. Extra. Items,2.14,1.32,1.33,1.03,HIG
+Diluted Weighted Average Shares,345,337,332,326,HIG
+Diluted EPS Excl. Extra. Items,2.10,1.30,1.32,1.02,HIG
+Diluted EPS Incl. Extra. Items,2.10,1.30,1.32,1.02,HIG
+Div/Share-ComStockPrimIssue,0.39,0.39,0.39,0.39,HIG
+Gross Divid - Common Stock,129,127,126,123,HIG
+Pro Forma Net Income,--,--,--,--,HIG
+"Interest Expense, Suppl",62,62,51,50,HIG
+"Depreciat/Amort, Suppl",147,150,147,135,HIG
+Total Special Items,7,10,17,8,HIG
+Normalzd Income Before Tax,907,553,569,439,HIG
+Efct/SpecItemsIncTxs (STEC),1,2,3,2,HIG
+IncTxsExcl ImpctofSpec Itms,172,100,113,94,HIG
+Normalized Income After Tax,735,453,456,345,HIG
+Normalzd Inc Avail to Common,730,448,451,339,HIG
+Basic Normalized EPS,2.15,1.35,1.38,1.05,HIG
+Diluted Normalized EPS,2.12,1.33,1.36,1.04,HIG

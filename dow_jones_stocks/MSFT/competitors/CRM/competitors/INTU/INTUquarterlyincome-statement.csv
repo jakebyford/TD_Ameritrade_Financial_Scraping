@@ -1,0 +1,40 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Total Revenue,"2,673","5,632","2,414","2,597",INTU
+"Cost of Revenue, Total",565,824,600,676,INTU
+Selling/Gen/Admin Expense,"1,175","1,524",978,899,INTU
+Labor & Related Expense,166,168,163,200,INTU
+"Sell/Gen/AdminExpenses,Tot","1,341","1,692","1,141","1,099",INTU
+Research & Development,590,600,627,625,INTU
+Depreciation/Amortization,121,121,121,121,INTU
+Total Operating Expense,"2,617","3,237","2,489","2,521",INTU
+Total Operating Income,56,"2,395",(75),76,INTU
+"Inter Expse,Net Non-Operat",(21),(21),(32),(49),INTU
+"Inter Income, Non-Operating",0,2,8,14,INTU
+"Invest Income, Non-Operat",--,8,0,--,INTU
+"Inter/Invest Inc, Non-Oper",0,10,8,14,INTU
+OtherNon-OperatInc (Expnse),(5),(11),0,(9),INTU
+"Other, Net",(5),(11),0,(9),INTU
+Income Before Tax,30,"2,373",(99),32,INTU
+Income Tax - Total,(70),579,(43),(8),INTU
+Income After Tax,100,"1,794",(56),40,INTU
+Net Inc Before Extra Items,100,"1,794",(56),40,INTU
+Total Net Income,100,"1,794",(56),40,INTU
+Income Available to Common Excl. Extra. Items,100,"1,794",(56),40,INTU
+Income Available to Common Incl. Extra. Items,100,"1,794",(56),40,INTU
+Basic/Primary Weighted Average Shares,283,282,283,281,INTU
+Basic/Primary EPS Excl. Extra. Items,0.35,6.36,(0.20),0.14,INTU
+Basic/Primary EPS Incl. Extra. Items,0.35,6.36,(0.20),0.14,INTU
+Diluted Weighted Average Shares,287,286,283,284,INTU
+Diluted EPS Excl. Extra. Items,0.35,6.27,(0.20),0.14,INTU
+Diluted EPS Incl. Extra. Items,0.35,6.27,(0.20),0.14,INTU
+Div/Share-ComStockPrimIssue,0.68,0.68,0.68,0.68,INTU
+Gross Divid - Common Stock,198,197,195,225,INTU
+Pro Forma Net Income,--,--,--,--,INTU
+"Interest Expense, Suppl",21,21,32,49,INTU
+"Depreciat/Amort, Suppl",51,46,45,47,INTU
+Normalzd Income Before Tax,30,"2,373",(99),32,INTU
+IncTxsExcl ImpctofSpec Itms,(70),579,(43),(8),INTU
+Normalized Income After Tax,100,"1,794",(56),40,INTU
+Normalzd Inc Avail to Common,100,"1,794",(56),40,INTU
+Basic Normalized EPS,0.35,6.36,(0.20),0.14,INTU
+Diluted Normalized EPS,0.35,6.27,(0.20),0.14,INTU

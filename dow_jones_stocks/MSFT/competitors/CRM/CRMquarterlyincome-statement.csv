@@ -1,0 +1,44 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Total Revenue,"7,326","7,411","7,720","7,837",CRM
+"Cost of Revenue, Total","2,014","2,045","2,127","2,088",CRM
+Selling/Gen/Admin Expense,"3,576","3,406","3,415","3,359",CRM
+Labor & Related Expense,385,385,424,426,CRM
+"Sell/Gen/AdminExpenses,Tot","3,961","3,791","3,839","3,785",CRM
+Research & Development,"1,291","1,318","1,329","1,280",CRM
+Depreciation/Amortization,236,237,232,224,CRM
+Impair-Assets Held for Sale,6,11,42,68,CRM
+Other Unusual Expnse (In),0,--,--,--,CRM
+Unusual Expense (Income),6,11,42,68,CRM
+Total Operating Expense,"7,508","7,402","7,569","7,445",CRM
+Total Operating Income,(182),9,151,392,CRM
+"Inter Expse,Net Non-Operat",(71),(74),(76),(75),CRM
+"Inter/Invest Inc, Non-Oper",40,18,87,91,CRM
+OtherNon-OperatInc (Expnse),16,18,19,67,CRM
+"Other, Net",16,18,19,67,CRM
+Income Before Tax,(197),(29),181,475,CRM
+Income Tax - Total,(169),(57),113,265,CRM
+Income After Tax,(28),28,68,210,CRM
+Net Inc Before Extra Items,(28),28,68,210,CRM
+Total Extraordinary Items,0,--,--,--,CRM
+Total Net Income,(28),28,68,210,CRM
+Income Available to Common Excl. Extra. Items,(28),28,68,210,CRM
+Income Available to Common Incl. Extra. Items,(28),28,68,210,CRM
+Basic/Primary Weighted Average Shares,985,991,997,997,CRM
+Basic/Primary EPS Excl. Extra. Items,(0.03),0.03,0.07,0.21,CRM
+Basic/Primary EPS Incl. Extra. Items,(0.03),0.03,0.07,0.21,CRM
+Diluted Weighted Average Shares,985,"1,001","1,001","1,000",CRM
+Diluted EPS Excl. Extra. Items,(0.03),0.03,0.07,0.21,CRM
+Diluted EPS Incl. Extra. Items,(0.03),0.03,0.07,0.21,CRM
+Div/Share-ComStockPrimIssue,--,0.00,0.00,0.00,CRM
+Gross Divid - Common Stock,0,--,--,--,CRM
+Pro Forma Net Income,--,--,--,--,CRM
+"Interest Expense, Suppl",71,74,76,75,CRM
+"Depreciat/Amort, Suppl",422,394,415,467,CRM
+Total Special Items,6,11,42,68,CRM
+Normalzd Income Before Tax,(191),(18),223,543,CRM
+Efct/SpecItemsIncTxs (STEC),2,4,15,38,CRM
+IncTxsExcl ImpctofSpec Itms,(167),(53),128,303,CRM
+Normalized Income After Tax,(24),35,95,240,CRM
+Normalzd Inc Avail to Common,(24),35,95,240,CRM
+Basic Normalized EPS,(0.02),0.04,0.10,0.24,CRM
+Diluted Normalized EPS,(0.02),0.04,0.10,0.24,CRM

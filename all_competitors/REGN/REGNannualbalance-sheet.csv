@@ -1,0 +1,52 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,813,"1,468","1,618","2,194","2,886",REGN
+Short Term Investments,597,"1,342","1,597","1,393","2,809",REGN
+Cash and Short Term Invs,"1,410","2,810","3,214","3,587","5,695",REGN
+"Total Receivables, Net","1,974","2,243","2,672","4,115","6,037",REGN
+Invent. - Finished Goods,22,24,71,122,74,REGN
+Invent. - Work In Progress,302,571,728,905,707,REGN
+Invent. - Raw Materials,190,227,216,459,722,REGN
+Inventories - Other,212,329,401,431,449,REGN
+Total Inventory,726,"1,151","1,416","1,917","1,951",REGN
+Prepaid Expenses,225,243,387,161,332,REGN
+Total Current Assets,"4,335","6,448","7,689","9,779","14,015",REGN
+Buildings,"1,544","1,604","1,781","1,992","2,202",REGN
+Land/Improvements,193,199,231,241,248,REGN
+Machinery/Equipment,599,774,"1,034","1,265","1,517",REGN
+Construction in Progress,409,470,645,725,768,REGN
+Other Prop./Plant/Equip.,180,258,122,131,145,REGN
+Prop./Plant/Equip. - Gross,"2,925","3,305","3,813","4,353","4,880",REGN
+Accumulated Depreciation,(566),(729),(922),"(1,131)","(1,398)",REGN
+Prop./Plant/Equip. - Net,"2,359","2,576","2,890","3,222","3,482",REGN
+Long Term Investments,"1,486","1,801","3,312","3,195","6,878",REGN
+Def. Inc. Tax - LT Asset,506,829,824,859,877,REGN
+Restricted Cash - LT,--,13,13,14,13,REGN
+Other Long Term Assets,78,69,77,95,170,REGN
+Total Assets,"8,764","11,735","14,805","17,163","25,435",REGN
+Accounts Payable,178,218,418,476,564,REGN
+Accrued Expenses,637,751,"1,037","1,502","1,881",REGN
+Notes Payable/ST Debt,0,0,0,0,0,REGN
+Curr. Port. LT Dbt/Cap Ls.,0,--,--,--,720,REGN
+Customer Advances,320,453,592,578,442,REGN
+Income Taxes Payable,0,21,49,20,326,REGN
+Other Current Liabilities,0,--,--,122,--,REGN
+"Other Curr. Lblts, Total",321,473,641,720,768,REGN
+Total Current Liabilities,"1,135","1,443","2,097","2,697","3,933",REGN
+Long Term Debt,--,--,--,"1,979","1,980",REGN
+Capital Lease Obligations,703,709,714,717,0,REGN
+Total Long Term Debt,703,709,714,"2,696","1,980",REGN
+Total Debt,703,709,714,"2,696","2,700",REGN
+"Other Liabilities, Total",781,826,905,745,754,REGN
+Total Liabilities,"2,620","2,977","3,716","6,138","6,666",REGN
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,0,REGN
+Common Stock,0,0,0,0,0,REGN
+Additional Paid-In Capital,"3,513","3,912","4,429","6,716","8,088",REGN
+Ret. Earn.(Accum. Deficit),"2,947","5,254","7,380","10,893","18,968",REGN
+Treasury Stock - Common,(316),(396),(740),"(6,613)","(8,261)",REGN
+"Other Equity, Total",1,(12),21,29,(26),REGN
+Total Equity,"6,144","8,757","11,090","11,025","18,769",REGN
+Total Liabilities & Shareholders’ Equity,"8,764","11,735","14,805","17,163","25,435",REGN
+Shr Outs.-Com. Primary Iss.,106,107,108,105,107,REGN
+Shr Outs.-Com. Stk. Iss. 2,2,2,2,2,2,REGN
+Ttl Comm. Shares Outs.,108,109,110,107,109,REGN
+Trsy. Shrs-Comm. Primary Iss.,4,4,5,16,19,REGN

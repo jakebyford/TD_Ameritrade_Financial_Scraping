@@ -1,0 +1,39 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Premiums Earned,"158,453","178,087","189,699","201,478","226,233",UNH
+Other Insurance Revenue,"41,683","46,784","50,570","54,161","59,040",UNH
+Total Premiums Earned,"200,136","224,871","240,269","255,639","285,273",UNH
+Net Investment Income,"1,023","1,376","1,886","1,502","2,324",UNH
+Total Revenue,"201,159","226,247","242,155","257,141","287,597",UNH
+"Losses,Benies& Adjmts,Total","130,036","145,403","156,440","159,396","186,911",UNH
+"Sell/Gen/AdminExpenses,Tot","29,557","34,074","35,193","41,704","42,579",UNH
+Depreciation/Amortization,"2,245","2,428","2,720","2,891","3,103",UNH
+"Other Operat Expse, Total","24,112","26,998","28,117","30,745","31,034",UNH
+Total Operating Expense,"185,950","208,903","222,470","234,736","263,627",UNH
+Total Operating Income,"15,209","17,344","19,685","22,405","23,970",UNH
+"Inter Expse,Net Non-Operat","(1,186)","(1,400)","(1,704)","(1,663)","(1,660)",UNH
+Income Before Tax,"14,023","15,944","17,981","20,742","22,310",UNH
+Income Tax - Total,"4,400","3,562","3,742","4,973","4,578",UNH
+Income After Tax,"9,623","12,382","14,239","15,769","17,732",UNH
+Minority Interest,(265),(396),(400),(366),(447),UNH
+Net Inc Before Extra Items,"9,358","11,986","13,839","15,403","17,285",UNH
+Total Extraordinary Items,"1,200",0,0,--,--,UNH
+Total Net Income,"10,558","11,986","13,839","15,403","17,285",UNH
+Income Available to Common Excl. Extra. Items,"9,358","11,986","13,839","15,403","17,285",UNH
+Income Available to Common Incl. Extra. Items,"10,558","11,986","13,839","15,403","17,285",UNH
+Basic/Primary Weighted Average Shares,964,963,951,949,943,UNH
+Basic/Primary EPS Excl. Extra. Items,9.71,12.45,14.55,16.23,18.33,UNH
+Basic/Primary EPS Incl. Extra. Items,10.95,12.45,14.55,16.23,18.33,UNH
+Diluted Weighted Average Shares,985,983,966,961,956,UNH
+Diluted EPS Excl. Extra. Items,9.50,12.19,14.33,16.03,18.08,UNH
+Diluted EPS Incl. Extra. Items,10.72,12.19,14.33,16.03,18.08,UNH
+Div/Share-ComStockPrimIssue,2.88,3.45,4.14,4.83,5.60,UNH
+Gross Divid - Common Stock,"2,773","3,320","3,932","4,584","5,280",UNH
+Pro Forma Net Income,--,--,--,--,--,UNH
+"Interest Expense, Suppl","1,186","1,400","1,704","1,663","1,660",UNH
+"Depreciat/Amort, Suppl","1,349","1,530",995,997,996,UNH
+Normalzd Income Before Tax,"14,023","15,944","17,981","20,742","22,310",UNH
+IncTxsExcl ImpctofSpec Itms,"4,400","3,562","3,742","4,973","4,578",UNH
+Normalized Income After Tax,"9,623","12,382","14,239","15,769","17,732",UNH
+Normalzd Inc Avail to Common,"9,358","11,986","13,839","15,403","17,285",UNH
+Basic Normalized EPS,9.71,12.45,14.55,16.23,18.33,UNH
+Diluted Normalized EPS,9.50,12.19,14.33,16.03,18.08,UNH

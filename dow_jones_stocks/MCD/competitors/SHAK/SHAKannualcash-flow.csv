@@ -1,0 +1,37 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"8,884","21,948","24,128","(45,534)","(10,111)",SHAK
+Depreciation/Depletion,"21,704","29,000","40,392","48,801","58,991",SHAK
+Deferred Taxes,"146,334",788,"(6,064)","(1,356)","(10,379)",SHAK
+Unusual Items,613,933,"1,136","10,131","1,914",SHAK
+Equity in Net Earnings/Loss,0,0,--,--,--,SHAK
+Other Non-Cash Items,"(121,281)","6,809","47,717","53,917","62,052",SHAK
+Non-Cash Items,"(120,668)","7,742","48,853","64,048","63,966",SHAK
+"Cash Taxes Pd, Supplemental","2,261","3,272","3,044","1,612","2,808",SHAK
+"Cash Interest Pd, Suppl","1,106","2,261",255,643,252,SHAK
+Accounts Receivable,"6,421","5,530","10,726","1,006","(4,193)",SHAK
+Inventories,(452),(491),(472),(667),(962),SHAK
+Prepaid Expenses,"2,244",(270),134,"(5,197)","4,913",SHAK
+Other Assets,(446),"(2,726)","(8,245)","(2,940)","(2,722)",SHAK
+Accounts Payable,"1,235","3,156","4,248","4,626","(6,450)",SHAK
+Accrued Expenses,"4,532","12,403","(26,653)","(32,564)","(32,042)",SHAK
+Changes in Working Capital,"14,624","25,917","(17,452)","(28,609)","(44,065)",SHAK
+Total Cash from Operations,"70,878","85,395","89,857","37,350","58,402",SHAK
+Capital Expenditures,"(61,533)","(87,525)","(106,507)","(69,038)","(101,495)",SHAK
+Sale/Maturity of Investment,"7,451","2,144","27,000","20,000","4,004",SHAK
+Purchase of Investments,"(7,861)","(1,223)","(1,179)","(20,359)","(47,399)",SHAK
+"OtherInvestCashFlowItms,Tot",(410),921,"25,821",(359),"(43,395)",SHAK
+Total Cash from Investing,"(61,943)","(86,604)","(80,686)","(69,397)","(144,890)",SHAK
+Financing Cash Flow Items,"(7,537)","(1,700)","(4,097)","(9,003)","(5,766)",SHAK
+"Common Stock, Net",0,--,--,"144,997",0,SHAK
+Options Exercised,"7,585","5,472","9,201","8,033","6,731",SHAK
+"Iss (Retirmnt) of Stock,Net","7,585","5,472","9,201","153,030","6,731",SHAK
+"Short Term Debt, Net",0,--,--,--,--,SHAK
+Long Term Debt Issued,"1,183","1,382",0,"50,000","243,750",SHAK
+Long Term Debt Reduction,(266),(702),"(1,926)","(52,206)","(2,694)",SHAK
+"Long Term Debt, Net",917,680,"(1,926)","(2,206)","241,056",SHAK
+"Iss (Retirmnt) of Debt, Net",917,680,"(1,926)","(2,206)","241,056",SHAK
+Total Cash From Financing,965,"4,452","3,178","141,821","242,021",SHAK
+Net Change in Cash,"9,900","3,243","12,349","109,774","155,533",SHAK
+NetCash-BeginBal/RsvdforFutUse,"11,607","21,507","24,750","37,099","146,873",SHAK
+NetCash-EndBal/RsrvforFutUse,"21,507","24,750","37,099","146,873","302,406",SHAK
+"Depreciation, Supplemental","21,704","29,000","40,392","48,801","58,991",SHAK

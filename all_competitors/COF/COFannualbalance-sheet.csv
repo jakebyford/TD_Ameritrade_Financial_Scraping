@@ -1,0 +1,70 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Due from Banks,"4,458","4,768","4,129","4,708","4,164",COF
+Interest-Earning Deposits,"9,582","8,418","9,278","35,801","17,582",COF
+Securities Held,"28,984","36,771",0,--,--,COF
+Securities for Sale,"37,655","46,150","79,213","100,445","95,261",COF
+Total Invest. Securities,"66,639","82,921","79,213","100,445","95,261",COF
+Loans Held for Sale,971,"1,192",400,"2,710","5,888",COF
+"Other Erng. Assets, Total","77,192","92,531","88,891","138,956","118,731",COF
+Total Gross Loans,"254,473","245,899","265,809","251,624","277,340",COF
+Loan Loss Allowances,"(7,502)","(7,220)","(7,208)","(15,564)","(11,430)",COF
+Net Loans,"246,971","238,679","258,601","236,060","265,910",COF
+Buildings,"3,302","3,994","3,903","3,742","3,854",COF
+Land/Improvements,406,386,382,366,336,COF
+Machinery/Equipment,"1,753","1,847","1,996","2,144","2,006",COF
+Construction in Progress,902,482,689,768,732,COF
+Other Prop./Plant/Equip.,"1,901","2,018","3,651","3,289","1,816",COF
+Prop./Plant/Equip. - Gross,"8,264","8,727","10,621","10,309","8,744",COF
+Accumulated Depreciation,"(4,231)","(4,536)","(4,810)","(4,706)","(4,534)",COF
+Prop./Plant/Equip. - Net,"4,033","4,191","5,811","5,603","4,210",COF
+"Goodwill, Net","14,533","14,544","14,653","14,653","14,782",COF
+Intangibles - Gross,"3,554","3,522","2,178",938,864,COF
+Accum. Intangible Amort.,"(3,133)","(3,268)","(2,004)",(481),(333),COF
+Intangibles - Net,421,254,174,457,531,COF
+Interest Receivable,"1,536","1,614","1,758","1,471","1,460",COF
+Other Assets,"16,549","15,957","16,348","19,694","22,593",COF
+"Other Assets, Total","18,085","17,571","18,106","21,165","24,053",COF
+Total Assets,"365,693","372,538","390,365","421,602","432,381",COF
+Accounts Payable,413,458,439,352,281,COF
+Accrued Expenses,--,--,"1,756","1,688","1,485",COF
+Non-Interest Bearing Dep.,"26,404","23,483","23,488","31,142","38,043",COF
+Interest Bearing Deposits,"216,927","226,014","239,209","274,300","272,937",COF
+Other Deposits,371,267,0,--,--,COF
+Total Deposits,"243,702","249,764","262,697","305,442","310,980",COF
+"Other Bearing Lblts, Total","8,940","9,301","7,000",0,--,COF
+Total ST Borrowings,576,352,314,668,820,COF
+Curr. Port. LT Dbt/Cap Ls.,"7,356","12,159","9,831","6,209","7,999",COF
+Long Term Debt,"43,409","37,093","38,552","33,587","34,214",COF
+Capital Lease Obligations,--,--,--,75,53,COF
+Total Long Term Debt,"43,409","37,093","38,552","33,662","34,267",COF
+Total Debt,"51,341","49,604","48,697","40,539","43,086",COF
+"Other Liabilities, Total","12,567","11,743","11,765","13,377","15,520",COF
+Total Liabilities,"316,963","320,870","332,354","361,398","371,352",COF
+Redeemable Preferred Stock,"4,475","4,475","4,975","4,975","4,975",COF
+Pref. Stock - Non Rdmbl.,(115),(115),(122),(128),(130),COF
+Conv. Pref. Stk-Non Rdmbl.,0,0,0,0,0,COF
+"Pref. Stock-Non Rdmbl, Net",(115),(115),(122),(128),(130),COF
+Common Stock,7,7,7,7,7,COF
+Additional Paid-In Capital,"27,296","27,680","28,127","28,633","29,267",COF
+Ret. Earn.(Accum. Deficit),"30,700","35,875","40,340","40,088","51,006",COF
+Treasury Stock - Common,"(12,707)","(14,991)","(16,472)","(16,865)","(24,470)",COF
+Unrealized Gain (Loss),(507),(629),935,"2,186",297,COF
+Cum. Trans. Adjustment,(138),(177),(107),(31),(21),COF
+Other Comprehensive Income,(281),(457),328,"1,339",98,COF
+"Other Equity, Total",(419),(634),221,"1,308",77,COF
+Total Equity,"48,730","51,668","58,011","60,204","61,029",COF
+Total Liabilities & Shareholders’ Equity,"365,693","372,538","390,365","421,602","432,381",COF
+Ttl Comm. Shares Outs.,486,468,457,459,414,COF
+Trsy. Shrs-Comm. Primary Iss.,176,200,216,221,271,COF
+Shrs Out-Pref Primary Iss.,1,1,1,1,0,COF
+Shrs Out-Pref Stk Iss. 2,1,1,1,0,0,COF
+Shrs Out-Pref Stk Iss. 3,1,1,0,--,--,COF
+Shrs Out-Pref Stk Iss. 4,1,1,1,0,0,COF
+Shrs Out-Pref Stk Iss. 5,1,1,0,--,--,COF
+Shrs Out-Pref Stk Iss. 6,1,1,1,1,1,COF
+Trsry Shrs-Pref. Iss. 1,0,0,0,0,0,COF
+Trsry Shrs-Pref. Iss. 2,0,0,0,0,0,COF
+Trsry Shrs-Pref. Iss. 3,0,0,0,--,--,COF
+Trsry Shrs-Pref. Iss. 4,0,0,0,0,0,COF
+Trsry Shrs-Pref. Iss. 5,0,0,0,--,--,COF
+Trsry Shrs-Pref. Iss. 6,0,0,0,0,0,COF

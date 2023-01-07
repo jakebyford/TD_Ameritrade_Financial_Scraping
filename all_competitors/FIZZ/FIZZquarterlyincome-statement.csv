@@ -1,0 +1,36 @@
+items,Q3 2022,Q4 2022,Q1 2023,Q2 2023,ticker
+Total Revenue,"258,923","284,220","318,117","299,633",FIZZ
+"Cost of Revenue, Total","165,124","186,470","218,716","199,637",FIZZ
+Selling/Gen/Admin Expense,"40,203","40,879","42,623","42,773",FIZZ
+Advertising Expense,"12,900","11,600","10,300","10,300",FIZZ
+"Sell/Gen/AdminExpenses,Tot","53,103","52,479","52,923","53,073",FIZZ
+Total Operating Expense,"218,227","238,949","271,639","252,710",FIZZ
+Total Operating Income,"40,696","45,271","46,478","46,923",FIZZ
+"Inter Expse,Net Non-Operat",(62),(138),--,--,FIZZ
+"Inter/Invest Inc, Non-Oper",39,--,24,151,FIZZ
+OtherNon-OperatInc (Expnse),(58),(19),(108),(65),FIZZ
+"Other, Net",(58),(19),(108),(65),FIZZ
+Income Before Tax,"40,615","45,114","46,394","47,009",FIZZ
+Income Tax - Total,"9,547","10,770","10,940","10,963",FIZZ
+Income After Tax,"31,068","34,344","35,454","36,046",FIZZ
+Net Inc Before Extra Items,"31,068","34,344","35,454","36,046",FIZZ
+Total Net Income,"31,068","34,344","35,454","36,046",FIZZ
+Income Available to Common Excl. Extra. Items,"31,068","34,344","35,454","36,046",FIZZ
+Income Available to Common Incl. Extra. Items,"31,068","34,344","35,454","36,046",FIZZ
+Basic/Primary Weighted Average Shares,"93,329","93,335","93,338","93,344",FIZZ
+Basic/Primary EPS Excl. Extra. Items,0.33,0.37,0.38,0.39,FIZZ
+Basic/Primary EPS Incl. Extra. Items,0.33,0.37,0.38,0.39,FIZZ
+Diluted Weighted Average Shares,"93,611","93,572","93,599","93,602",FIZZ
+Diluted EPS Excl. Extra. Items,0.33,0.37,0.38,0.39,FIZZ
+Diluted EPS Incl. Extra. Items,0.33,0.37,0.38,0.39,FIZZ
+Div/Share-ComStockPrimIssue,0.00,0.00,0.00,0.00,FIZZ
+Gross Divid - Common Stock,"280,003",0,0,0,FIZZ
+Pro Forma Net Income,--,--,--,--,FIZZ
+"Interest Expense, Suppl",62,138,--,--,FIZZ
+"Depreciat/Amort, Suppl","4,477","4,833","5,461","4,975",FIZZ
+Normalzd Income Before Tax,"40,615","45,114","46,394","47,009",FIZZ
+IncTxsExcl ImpctofSpec Itms,"9,547","10,770","10,940","10,963",FIZZ
+Normalized Income After Tax,"31,068","34,344","35,454","36,046",FIZZ
+Normalzd Inc Avail to Common,"31,068","34,344","35,454","36,046",FIZZ
+Basic Normalized EPS,0.33,0.37,0.38,0.39,FIZZ
+Diluted Normalized EPS,0.33,0.37,0.38,0.39,FIZZ

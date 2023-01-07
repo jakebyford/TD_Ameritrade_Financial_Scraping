@@ -1,0 +1,43 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"1,973","2,189","2,356","1,502","1,325",HXL
+"Cost of Revenue, Total","1,422","1,608","1,715","1,263","1,075",HXL
+"Sell/Gen/AdminExpenses,Tot",152,146,159,121,135,HXL
+Research & Development,49,56,57,47,45,HXL
+Restructuring Charge,--,--,--,32,19,HXL
+Other Unusual Expnse (In),--,--,--,26,--,HXL
+Unusual Expense (Income),--,--,--,58,19,HXL
+"Other Operat Expse, Total",--,8,0,--,(1),HXL
+Total Operating Expense,"1,623","1,818","1,931","1,488","1,273",HXL
+Total Operating Income,351,371,425,14,52,HXL
+"Inter Expse,Net Non-Operat",(27),(38),(46),(42),(38),HXL
+OtherNon-OperatInc (Expnse),0,0,--,--,9,HXL
+"Other, Net",0,0,--,--,9,HXL
+Income Before Tax,323,334,380,(28),22,HXL
+Income Tax - Total,65,70,76,(61),5,HXL
+Income After Tax,259,264,303,33,18,HXL
+Equity In Affiliates,3,6,4,(2),0,HXL
+Net Inc Before Extra Items,262,269,307,32,18,HXL
+Total Extraordinary Items,22,7,0,--,(1),HXL
+Total Net Income,284,277,307,32,16,HXL
+Income Available to Common Excl. Extra. Items,262,269,307,32,18,HXL
+Income Available to Common Incl. Extra. Items,284,277,307,32,16,HXL
+Basic/Primary Weighted Average Shares,91,88,85,84,84,HXL
+Basic/Primary EPS Excl. Extra. Items,2.89,3.06,3.62,0.38,0.21,HXL
+Basic/Primary EPS Incl. Extra. Items,3.13,3.15,3.61,0.38,0.19,HXL
+Diluted Weighted Average Shares,92,89,86,84,85,HXL
+Diluted EPS Excl. Extra. Items,2.85,3.02,3.58,0.38,0.21,HXL
+Diluted EPS Incl. Extra. Items,3.09,3.11,3.57,0.38,0.19,HXL
+Div/Share-ComStockPrimIssue,0.47,0.55,0.64,--,--,HXL
+Gross Divid - Common Stock,43,48,54,14,0,HXL
+Pro Forma Net Income,--,--,--,--,--,HXL
+"Interest Expense, Suppl",27,38,46,42,38,HXL
+"Interest Capitalized, Suppl",--,--,--,(13),(13),HXL
+"Depreciat/Amort, Suppl",105,123,135,134,131,HXL
+Total Special Items,--,--,--,58,19,HXL
+Normalzd Income Before Tax,323,334,380,30,41,HXL
+Efct/SpecItemsIncTxs (STEC),--,--,--,20,4,HXL
+IncTxsExcl ImpctofSpec Itms,65,70,76,(41),8,HXL
+Normalized Income After Tax,259,264,303,71,32,HXL
+Normalzd Inc Avail to Common,262,269,307,69,32,HXL
+Basic Normalized EPS,2.89,3.06,3.62,0.83,0.39,HXL
+Diluted Normalized EPS,2.85,3.02,3.58,0.83,0.38,HXL

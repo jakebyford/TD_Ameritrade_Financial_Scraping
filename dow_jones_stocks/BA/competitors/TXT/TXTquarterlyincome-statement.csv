@@ -1,0 +1,40 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"3,322","3,001","3,154","3,078",TXT
+"Cost of Revenue, Total","2,751","2,492","2,641","2,584",TXT
+"Sell/Gen/AdminExpenses,Tot",326,305,278,258,TXT
+Restructuring Charge,1,--,--,--,TXT
+Impair-Assets Held for Use,1,--,--,--,TXT
+Other Unusual Expnse (In),3,0,0,0,TXT
+Unusual Expense (Income),5,0,0,0,TXT
+Total Operating Expense,"3,082","2,797","2,919","2,842",TXT
+Total Operating Income,240,204,235,236,TXT
+"Inter Expse,Net Non-Operat",(33),(33),(32),(31),TXT
+OtherNon-OperatInc (Expnse),40,61,60,59,TXT
+"Other, Net",40,61,60,59,TXT
+Income Before Tax,247,232,263,264,TXT
+Income Tax - Total,40,39,45,39,TXT
+Income After Tax,207,193,218,225,TXT
+Net Inc Before Extra Items,207,193,218,225,TXT
+Total Extraordinary Items,0,--,(1),0,TXT
+Total Net Income,207,193,217,225,TXT
+Income Available to Common Excl. Extra. Items,207,193,218,225,TXT
+Income Available to Common Incl. Extra. Items,207,193,217,225,TXT
+Basic/Primary Weighted Average Shares,220,217,215,211,TXT
+Basic/Primary EPS Excl. Extra. Items,0.94,0.89,1.02,1.06,TXT
+Basic/Primary EPS Incl. Extra. Items,0.94,0.89,1.01,1.06,TXT
+Diluted Weighted Average Shares,223,220,217,213,TXT
+Diluted EPS Excl. Extra. Items,0.93,0.88,1.01,1.06,TXT
+Diluted EPS Incl. Extra. Items,0.93,0.88,1.00,1.06,TXT
+Div/Share-ComStockPrimIssue,0.02,0.02,0.02,0.02,TXT
+Gross Divid - Common Stock,4,5,4,5,TXT
+Pro Forma Net Income,--,--,--,--,TXT
+"Interest Expense, Suppl",33,33,32,31,TXT
+"Depreciat/Amort, Suppl",105,93,98,97,TXT
+Total Special Items,5,0,0,0,TXT
+Normalzd Income Before Tax,252,232,263,264,TXT
+Efct/SpecItemsIncTxs (STEC),1,0,0,0,TXT
+IncTxsExcl ImpctofSpec Itms,41,39,45,39,TXT
+Normalized Income After Tax,211,193,218,225,TXT
+Normalzd Inc Avail to Common,211,193,218,225,TXT
+Basic Normalized EPS,0.96,0.89,1.02,1.06,TXT
+Diluted Normalized EPS,0.95,0.88,1.01,1.06,TXT

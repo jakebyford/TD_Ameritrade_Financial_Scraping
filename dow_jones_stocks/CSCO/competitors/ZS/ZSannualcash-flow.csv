@@ -1,0 +1,42 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,(34),(29),(115),(262),(390),ZS
+Depreciation/Depletion,8,10,18,30,40,ZS
+Amortization,--,1,3,7,9,ZS
+Deferred Taxes,--,(1),(1),(2),(1),ZS
+Unusual Items,--,--,1,0,0,ZS
+Other Non-Cash Items,25,63,165,384,566,ZS
+Non-Cash Items,25,63,166,384,566,ZS
+"Cash Taxes Pd, Supplemental",1,2,3,4,6,ZS
+"Cash Interest Pd, Suppl",--,--,--,1,1,ZS
+Accounts Receivable,(23),(32),(54),(112),(143),ZS
+Prepaid Expenses,(5),(8),(14),(3),(10),ZS
+Other Assets,(34),(33),(65),(138),(159),ZS
+Accounts Payable,(1),0,1,7,14,ZS
+Accrued Expenses,14,(2),23,28,4,ZS
+Changes in Working Capital,18,14,9,46,97,ZS
+Total Cash from Operations,17,58,79,202,322,ZS
+Purchase of Fixed Assets,(13),(26),(43),(48),(69),ZS
+Purchase/Acq of Intangibles,--,(1),0,0,--,ZS
+Software Development Costs,(2),(3),(9),(10),(21),ZS
+Capital Expenditures,(15),(30),(52),(58),(91),ZS
+Acquisition of Business,--,(11),(40),(41),(25),ZS
+Sale/Maturity of Investment,--,215,311,808,"1,335",ZS
+Purchase of Investments,(163),(335),"(1,258)",(819),(845),ZS
+Other Investing Cash Flow,0,--,--,--,--,ZS
+"OtherInvestCashFlowItms,Tot",(163),(132),(986),(51),465,ZS
+Total Cash from Investing,(178),(162),"(1,038)",(110),374,ZS
+Financing Cash Flow Items,1,0,0,(2),0,ZS
+Sale/Issuance of Common,206,0,0,--,--,ZS
+Repurch/Retirement Common,(4),0,0,0,--,ZS
+"Common Stock, Net",202,0,0,0,--,ZS
+"Preferred Stock, Net",0,--,--,--,--,ZS
+Options Exercised,5,46,37,44,42,ZS
+"Iss (Retirmnt) of Stock,Net",207,46,37,44,42,ZS
+Long Term Debt Issued,--,--,"1,131",0,0,ZS
+Long Term Debt Reduction,--,--,(145),0,0,ZS
+"Iss (Retirmnt) of Debt, Net",--,--,985,0,0,ZS
+Total Cash From Financing,208,46,"1,022",42,41,ZS
+Net Change in Cash,48,(58),63,134,737,ZS
+NetCash-BeginBal/RsvdforFutUse,88,136,78,142,276,ZS
+NetCash-EndBal/RsrvforFutUse,136,78,142,276,"1,013",ZS
+"Depreciation, Supplemental",8,10,18,30,40,ZS

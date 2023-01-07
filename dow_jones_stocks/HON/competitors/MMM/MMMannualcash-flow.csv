@@ -1,0 +1,39 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"4,869","5,363","4,582","5,388","5,929",MMM
+Depreciation/Depletion,"1,544","1,488","1,593","1,911","1,915",MMM
+Deferred Taxes,107,(57),(273),(165),(166),MMM
+Unusual Items,(586),(545),51,(389),0,MMM
+Other Non-Cash Items,(310),342,425,512,300,MMM
+Non-Cash Items,(896),(203),476,123,300,MMM
+"Cash Taxes Pd, Supplemental","1,604","1,560","1,198","1,351","1,695",MMM
+"Cash Interest Pd, Suppl",214,328,370,524,472,MMM
+Accounts Receivable,(245),(305),345,165,(122),MMM
+Inventories,(387),(509),370,(91),(903),MMM
+Accounts Payable,24,408,(117),252,518,MMM
+Changes in Working Capital,616,(152),692,856,(524),MMM
+Total Cash from Operations,"6,240","6,439","7,070","8,113","7,454",MMM
+Capital Expenditures,"(1,373)","(1,577)","(1,699)","(1,501)","(1,603)",MMM
+Acquisition of Business,"(2,023)",--,"(4,984)",(25),0,MMM
+Sale of Business,"1,065",859,236,576,0,MMM
+Sale of Fixed Assets,49,262,123,128,51,MMM
+Sale/Maturity of Investment,"1,354","2,497","1,443","1,811","2,406",MMM
+Purchase of Investments,"(2,152)","(1,828)","(1,635)","(1,579)","(2,202)",MMM
+Other Investing Cash Flow,(6),9,72,10,31,MMM
+"OtherInvestCashFlowItms,Tot","(1,713)","1,799","(4,745)",921,286,MMM
+Total Cash from Investing,"(3,086)",222,"(6,444)",(580),"(1,317)",MMM
+Financing Cash Flow Items,(121),(56),(197),(98),(20),MMM
+Total Cash Dividends Paid,"(2,803)","(3,193)","(3,316)","(3,388)","(3,420)",MMM
+Sale/Issuance of Common,734,485,547,429,639,MMM
+Repurch/Retirement Common,"(2,068)","(4,870)","(1,407)",(368),"(2,199)",MMM
+"Iss (Retirmnt) of Stock,Net","(1,334)","(4,385)",(860),61,"(1,560)",MMM
+"Short Term Debt, Net",578,(284),(316),(143),(2),MMM
+Long Term Debt Issued,"1,987","2,251","6,281","1,750",1,MMM
+Long Term Debt Reduction,(962),"(1,034)","(2,716)","(3,482)","(1,144)",MMM
+"Long Term Debt, Net","1,025","1,217","3,565","(1,732)","(1,143)",MMM
+"Iss (Retirmnt) of Debt, Net","1,603",933,"3,249","(1,875)","(1,145)",MMM
+Total Cash From Financing,"(2,655)","(6,701)","(1,124)","(5,300)","(6,145)",MMM
+Foreign Exchange Effects,156,(160),(2),48,(62),MMM
+Net Change in Cash,655,(200),(500),"2,281",(70),MMM
+NetCash-BeginBal/RsvdforFutUse,"2,398","3,053","2,853","2,353","4,634",MMM
+NetCash-EndBal/RsrvforFutUse,"3,053","2,853","2,353","4,634","4,564",MMM
+"Depreciation, Supplemental","1,544","1,488","1,593","1,911","1,915",MMM

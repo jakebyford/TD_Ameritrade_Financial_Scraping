@@ -1,0 +1,38 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"(4,204)","(26,203)","(53,607)","(82,996)","(376,250)",RNG
+Depreciation/Depletion,"16,214","23,273","37,870","75,612","125,292",RNG
+Deferred Taxes,(47),(303),(737),(499),--,RNG
+Unusual Items,--,--,"3,369","(67,704)","16,347",RNG
+Other Non-Cash Items,"55,872","108,416","164,955","270,024","513,028",RNG
+Non-Cash Items,"55,872","108,416","168,324","202,320","529,375",RNG
+"Cash Taxes Pd, Supplemental",216,433,996,870,"1,388",RNG
+"Cash Interest Pd, Suppl",116,40,189,220,309,RNG
+Accounts Receivable,"(17,903)","(47,877)","(37,163)","(51,980)","(64,940)",RNG
+Prepaid Expenses,"(6,199)",(342),"(1,575)","(20,878)","9,111",RNG
+Other Assets,"(30,936)","(44,953)","(101,539)","(274,642)","(178,358)",RNG
+Accounts Payable,176,"2,783","21,753","21,916","17,852",RNG
+Accrued Expenses,"9,918","33,695","13,265","47,089","55,842",RNG
+Changes in Working Capital,"(26,670)","(33,053)","(87,004)","(229,628)","(126,266)",RNG
+Total Cash from Operations,"41,165","72,130","64,846","(35,191)","152,151",RNG
+Purchase of Fixed Assets,"(19,497)","(27,123)","(27,767)","(43,618)","(28,959)",RNG
+Purchase/Acq of Intangibles,"(7,420)","(29,891)","(105,586)","(25,955)","(312,298)",RNG
+Software Development Costs,--,--,--,"(38,113)","(43,692)",RNG
+Capital Expenditures,"(26,917)","(57,014)","(133,353)","(107,686)","(384,949)",RNG
+Acquisition of Business,--,"(26,434)","(27,870)",--,--,RNG
+Sale of Business,0,--,--,--,0,RNG
+Purchase of Investments,--,--,"(135,557)",--,"(11,880)",RNG
+Other Investing Cash Flow,530,0,0,--,--,RNG
+"OtherInvestCashFlowItms,Tot",530,"(26,434)","(163,427)",--,"(11,880)",RNG
+Total Cash from Investing,"(26,387)","(83,448)","(296,780)","(107,686)","(396,829)",RNG
+Financing Cash Flow Items,"(3,691)","(57,082)","(19,842)","(143,060)","(25,429)",RNG
+"Common Stock, Net",0,"(15,000)",0,0,--,RNG
+"Preferred Stock, Net",--,--,--,--,"199,449",RNG
+Options Exercised,"25,495","20,621","29,827","41,230","36,721",RNG
+"Iss (Retirmnt) of Stock,Net","25,495","5,621","29,827","41,230","236,170",RNG
+"Iss (Retirmnt) of Debt, Net","(15,021)","448,716",(943),"539,420","(337,792)",RNG
+Total Cash From Financing,"6,783","397,255","9,042","437,590","(127,051)",RNG
+Foreign Exchange Effects,(724),(800),169,"1,534",(962),RNG
+Net Change in Cash,"20,837","385,137","(222,723)","296,247","(372,691)",RNG
+NetCash-BeginBal/RsvdforFutUse,"160,355","181,192","566,329","343,606","639,853",RNG
+NetCash-EndBal/RsrvforFutUse,"181,192","566,329","343,606","639,853","267,162",RNG
+"Depreciation, Supplemental","16,214","23,273","37,870","75,612","125,292",RNG

@@ -1,0 +1,50 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"30,852","29,135","26,982","27,784","28,496",HPE
+"Cost of Revenue, Total","21,621","19,642","18,513","18,408","18,990",HPE
+Selling/Gen/Admin Expense,"4,747","4,746","4,468","4,721","4,739",HPE
+Labor & Related Expense,174,161,160,208,202,HPE
+"Sell/Gen/AdminExpenses,Tot","4,921","4,907","4,628","4,929","4,941",HPE
+Research & Development,"1,667","1,842","1,874","1,979","2,045",HPE
+Depreciation/Amortization,294,267,379,354,293,HPE
+Restructuring Charge,19,0,0,620,214,HPE
+Litigation,--,--,--,"(2,351)",0,HPE
+Impair-Assets Held for Use,88,0,865,4,916,HPE
+Other Unusual Expnse (In),"1,859","1,194","1,052",356,389,HPE
+Unusual Expense (Income),"1,966","1,194","1,917","(1,374)","1,511",HPE
+Loss(Gain)/Sale Asts (Oper),--,--,--,(3),(8),HPE
+Total Operating Expense,"30,469","27,852","27,311","24,296","27,780",HPE
+Total Operating Income,383,"1,283",(329),"3,488",716,HPE
+"Inter Expse,Net Non-Operat",--,--,(332),(289),(211),HPE
+"Inter/Invest Inc, Non-Oper",755,(106),67,180,215,HPE
+"Inter Inc(Exp),Net Non-Oper",(991),(51),117,78,23,HPE
+"Other, Net",121,427,35,130,133,HPE
+Income Before Tax,268,"1,553",(442),"3,587",876,HPE
+Income Tax - Total,"(2,499)",16,(120),160,8,HPE
+Income After Tax,"2,767","1,537",(322),"3,427",868,HPE
+Net Inc Before Extra Items,"2,767","1,537",(322),"3,427",868,HPE
+Discontinued Operations,(109),0,--,--,--,HPE
+Extraordinary Item,(755),(488),0,--,--,HPE
+Tax on Extraordinary Items,5,--,--,--,--,HPE
+Total Extraordinary Items,(859),(488),0,--,--,HPE
+Total Net Income,"1,908","1,049",(322),"3,427",868,HPE
+Income Available to Common Excl. Extra. Items,"2,767","1,537",(322),"3,427",868,HPE
+Income Available to Common Incl. Extra. Items,"1,908","1,049",(322),"3,427",868,HPE
+Basic/Primary Weighted Average Shares,"1,529","1,353","1,294","1,309","1,303",HPE
+Basic/Primary EPS Excl. Extra. Items,1.81,1.14,(0.25),2.62,0.67,HPE
+Basic/Primary EPS Incl. Extra. Items,1.25,0.78,(0.25),2.62,0.67,HPE
+Diluted Weighted Average Shares,"1,553","1,366","1,294","1,330","1,322",HPE
+Diluted EPS Excl. Extra. Items,1.78,1.13,(0.25),2.58,0.66,HPE
+Diluted EPS Incl. Extra. Items,1.23,0.77,(0.25),2.58,0.66,HPE
+Div/Share-ComStockPrimIssue,0.49,0.45,0.48,0.48,0.48,HPE
+Gross Divid - Common Stock,733,601,464,625,621,HPE
+Pro Forma Net Income,--,--,--,--,--,HPE
+"Interest Expense, Suppl",353,311,332,289,211,HPE
+"Depreciat/Amort, Suppl","2,300","2,300","2,246","2,243","2,200",HPE
+Total Special Items,"1,966","1,862","1,917","(1,374)","1,511",HPE
+Normalzd Income Before Tax,"2,234","3,415","1,475","2,213","2,387",HPE
+Efct/SpecItemsIncTxs (STEC),688,19,671,(61),14,HPE
+IncTxsExcl ImpctofSpec Itms,"(1,811)",35,551,99,22,HPE
+Normalized Income After Tax,"4,045","3,380",924,"2,114","2,365",HPE
+Normalzd Inc Avail to Common,"4,045","3,380",924,"2,114","2,365",HPE
+Basic Normalized EPS,2.65,2.50,0.71,1.62,1.82,HPE
+Diluted Normalized EPS,2.60,2.47,0.71,1.59,1.79,HPE

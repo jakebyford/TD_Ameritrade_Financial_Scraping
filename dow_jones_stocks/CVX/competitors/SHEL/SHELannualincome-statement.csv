@@ -1,0 +1,54 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"305,179","388,379","344,877","180,543","261,504",SHEL
+"Cost of Revenue, Total","250,099","321,369","279,421","141,094","198,734",SHEL
+"Sell/Gen/AdminExpenses,Tot","10,509","11,360","10,493","9,881","11,328",SHEL
+Research & Development,"2,867","2,326","3,316","2,654","2,238",SHEL
+Depreciation,"20,697","20,417","25,109","24,981","22,856",SHEL
+Amortiz of Intangibles,"1,336","1,287",--,--,--,SHEL
+Depreciation/Amortization,"22,033","21,704","25,109","24,981","22,856",SHEL
+Impair-Assets Held for Use,"4,190",431,"3,592","27,463","4,065",SHEL
+Other Unusual Expnse (In),"(3,142)","(3,265)","(2,519)",(286),"(5,995)",SHEL
+Unusual Expense (Income),"1,048","(2,834)","1,073","27,177","(1,930)",SHEL
+Other Operating Expense,"1,102",902,718,497,450,SHEL
+"Other, Net","1,275",--,--,--,--,SHEL
+"Other Operat Expse, Total","2,377",902,718,497,450,SHEL
+Total Operating Expense,"288,933","354,827","320,130","206,284","233,676",SHEL
+Total Operating Income,"16,246","33,552","24,747","(25,741)","27,828",SHEL
+"Inter Expse, Non-Operating","(3,448)","(3,550)","(4,592)","(4,359)","(4,073)",SHEL
+"Inter Capital, Non-Operat",622,876,752,799,917,SHEL
+"Inter Expse,Net Non-Operat","(2,826)","(2,674)","(3,840)","(3,560)","(3,156)",SHEL
+"Inter Income, Non-Operating",677,772,899,679,511,SHEL
+"Invest Income, Non-Operat","4,033","3,867","3,500","1,382","4,305",SHEL
+"Inter/Invest Inc, Non-Oper","4,710","4,639","4,399","2,061","4,816",SHEL
+OtherNon-OperatInc (Expnse),--,104,179,273,341,SHEL
+"Other, Net",--,104,179,273,341,SHEL
+Income Before Tax,"18,130","35,621","25,485","(26,967)","29,829",SHEL
+Income Tax - Total,"2,695","11,715","9,053","(5,433)","9,199",SHEL
+Income After Tax,"15,435","23,906","16,432","(21,534)","20,630",SHEL
+Minority Interest,(458),(554),(590),(146),(529),SHEL
+Net Inc Before Extra Items,"14,977","23,352","15,842","(21,680)","20,101",SHEL
+Total Extraordinary Items,"(2,000)",--,--,--,--,SHEL
+Total Net Income,"12,977","23,352","15,842","(21,680)","20,101",SHEL
+Income Available to Common Excl. Extra. Items,"14,977","23,352","15,842","(21,680)","20,101",SHEL
+Income Available to Common Incl. Extra. Items,"12,977","23,352","15,842","(21,680)","20,101",SHEL
+Basic/Primary Weighted Average Shares,"8,223","8,283","8,058","7,796","7,762",SHEL
+Basic/Primary EPS Excl. Extra. Items,1.82,2.82,1.97,(2.78),2.59,SHEL
+Basic/Primary EPS Incl. Extra. Items,1.58,2.82,1.97,(2.78),2.59,SHEL
+Dilution Adjustment,--,0,--,--,--,SHEL
+Diluted Weighted Average Shares,"8,299","8,349","8,113","7,796","7,807",SHEL
+Diluted EPS Excl. Extra. Items,1.80,2.80,1.95,(2.78),2.57,SHEL
+Diluted EPS Incl. Extra. Items,1.56,2.80,1.95,(2.78),2.57,SHEL
+Div/Share-ComStockPrimIssue,1.88,1.88,1.88,0.65,0.89,SHEL
+Gross Divid - Common Stock,"15,628","15,675","15,198","7,424","6,253",SHEL
+Pro Forma Net Income,--,--,--,--,--,SHEL
+"Interest Expense, Suppl","2,826","2,674","8,432","7,919","3,156",SHEL
+"Interest Capitalized, Suppl",(622),(876),(752),(799),(917),SHEL
+"Depreciat/Amort, Suppl","20,697","20,417","23,887","24,242","25,993",SHEL
+Total Special Items,"1,411","(2,534)","7,700","29,842",(743),SHEL
+Normalzd Income Before Tax,"19,541","33,087","33,185","2,875","29,086",SHEL
+Efct/SpecItemsIncTxs (STEC),210,660,(674),"(7,100)",(91),SHEL
+IncTxsExcl ImpctofSpec Itms,"2,905","12,375","8,379","(12,533)","9,108",SHEL
+Normalized Income After Tax,"16,636","20,712","24,806","15,408","19,978",SHEL
+Normalzd Inc Avail to Common,"16,178","20,158","24,216","15,262","19,449",SHEL
+Basic Normalized EPS,1.97,2.43,3.01,1.96,2.51,SHEL
+Diluted Normalized EPS,1.95,2.41,2.99,1.96,2.49,SHEL

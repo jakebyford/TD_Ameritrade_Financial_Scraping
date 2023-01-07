@@ -1,0 +1,43 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"58,472","58,756","56,639","63,487","62,983",HPQ
+"Cost of Revenue, Total","47,803","47,586","46,202","50,070","50,648",HPQ
+"Sell/Gen/AdminExpenses,Tot","5,099","5,368","4,906","5,741","5,264",HPQ
+Research & Development,"1,404","1,499","1,478","1,907","1,593",HPQ
+Depreciation/Amortization,80,116,113,154,228,HPQ
+Restructuring Charge,132,275,462,245,233,HPQ
+Litigation,--,--,--,"(2,304)",0,HPQ
+Other Unusual Expnse (In),249,35,56,84,341,HPQ
+Unusual Expense (Income),381,310,518,"(1,975)",574,HPQ
+Total Operating Expense,"54,767","54,879","53,217","55,897","58,307",HPQ
+Total Operating Income,"3,705","3,877","3,422","7,590","4,676",HPQ
+"Inter Expse,Net Non-Operat",(312),(242),(239),(254),(359),HPQ
+"Inter/Invest Inc, Non-Oper",26,(105),--,--,--,HPQ
+OtherNon-OperatInc (Expnse),(406),"(1,007)",48,175,124,HPQ
+"Other, Net",(406),"(1,007)",48,175,124,HPQ
+Income Before Tax,"3,013","2,523","3,231","7,511","4,441",HPQ
+Income Tax - Total,150,(551),387,"1,008","1,238",HPQ
+Income After Tax,"2,863","3,074","2,844","6,503","3,203",HPQ
+Net Inc Before Extra Items,"2,863","3,074","2,844","6,503","3,203",HPQ
+Total Extraordinary Items,"2,464",78,0,--,--,HPQ
+Total Net Income,"5,327","3,152","2,844","6,503","3,203",HPQ
+Income Available to Common Excl. Extra. Items,"2,863","3,074","2,844","6,503","3,203",HPQ
+Income Available to Common Incl. Extra. Items,"5,327","3,152","2,844","6,503","3,203",HPQ
+Basic/Primary Weighted Average Shares,"1,615","1,515","1,413","1,208","1,038",HPQ
+Basic/Primary EPS Excl. Extra. Items,1.77,2.03,2.01,5.38,3.09,HPQ
+Basic/Primary EPS Incl. Extra. Items,3.30,2.08,2.01,5.38,3.09,HPQ
+Diluted Weighted Average Shares,"1,634","1,524","1,420","1,220","1,050",HPQ
+Diluted EPS Excl. Extra. Items,1.75,2.02,2.00,5.33,3.05,HPQ
+Diluted EPS Incl. Extra. Items,3.26,2.07,2.00,5.33,3.05,HPQ
+Div/Share-ComStockPrimIssue,0.56,0.64,0.70,0.78,1.00,HPQ
+Gross Divid - Common Stock,899,968,997,938,"1,040",HPQ
+Pro Forma Net Income,--,--,--,--,--,HPQ
+"Interest Expense, Suppl",312,242,239,254,359,HPQ
+"Depreciat/Amort, Suppl",448,623,673,627,542,HPQ
+Total Special Items,381,310,518,"(1,975)",574,HPQ
+Normalzd Income Before Tax,"3,394","2,833","3,749","5,536","5,015",HPQ
+Efct/SpecItemsIncTxs (STEC),19,109,62,(265),160,HPQ
+IncTxsExcl ImpctofSpec Itms,169,(443),449,743,"1,398",HPQ
+Normalized Income After Tax,"3,225","3,276","3,300","4,793","3,617",HPQ
+Normalzd Inc Avail to Common,"3,225","3,276","3,300","4,793","3,617",HPQ
+Basic Normalized EPS,2.00,2.16,2.34,3.97,3.48,HPQ
+Diluted Normalized EPS,1.97,2.15,2.32,3.93,3.44,HPQ

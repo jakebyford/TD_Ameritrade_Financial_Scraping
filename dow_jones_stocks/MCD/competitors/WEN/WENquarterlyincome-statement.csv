@@ -1,0 +1,50 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,473,489,538,533,WEN
+"Cost of Revenue, Total",170,197,207,209,WEN
+Selling/Gen/Admin Expense,96,58,63,62,WEN
+Labor & Related Expense,--,33,31,32,WEN
+Advertising Expense,101,98,111,108,WEN
+"Sell/Gen/AdminExpenses,Tot",197,189,205,202,WEN
+Depreciation,32,33,33,34,WEN
+Amortiz of Intangibles,--,--,--,1,WEN
+Depreciation/Amortization,32,33,33,35,WEN
+"Inter/Invest Inc, Operating",(6),--,(3),(3),WEN
+Restructuring Charge,1,0,0,0,WEN
+Impair-Assets Held for Use,0,1,2,0,WEN
+Other Unusual Expnse (In),(1),(3),0,0,WEN
+Unusual Expense (Income),1,(3),0,(1),WEN
+Loss(Gain)/Sale Asts (Oper),0,(1),(2),(2),WEN
+"Other, Net",2,(2),(1),(9),WEN
+"Other Operat Expse, Total",2,(2),(1),(9),WEN
+Total Operating Expense,396,414,442,434,WEN
+Total Operating Income,77,75,96,98,WEN
+"Inter Expse,Net Non-Operat",(26),(26),(32),(32),WEN
+"Inter/Invest Inc, Non-Oper",0,2,--,0,WEN
+OtherNon-OperatInc (Expnse),0,0,1,3,WEN
+"Other, Net",0,0,1,3,WEN
+Income Before Tax,51,51,65,69,WEN
+Income Tax - Total,(1),13,17,19,WEN
+Income After Tax,52,37,48,51,WEN
+Net Inc Before Extra Items,52,37,48,51,WEN
+Total Net Income,52,37,48,51,WEN
+Income Available to Common Excl. Extra. Items,52,37,48,51,WEN
+Income Available to Common Incl. Extra. Items,52,37,48,51,WEN
+Basic/Primary Weighted Average Shares,218,216,214,213,WEN
+Basic/Primary EPS Excl. Extra. Items,0.24,0.17,0.23,0.24,WEN
+Basic/Primary EPS Incl. Extra. Items,0.24,0.17,0.23,0.24,WEN
+Diluted Weighted Average Shares,220,218,215,215,WEN
+Diluted EPS Excl. Extra. Items,0.24,0.17,0.22,0.24,WEN
+Diluted EPS Incl. Extra. Items,0.24,0.17,0.22,0.24,WEN
+Div/Share-ComStockPrimIssue,0.12,0.13,0.13,0.13,WEN
+Gross Divid - Common Stock,26,27,27,27,WEN
+Pro Forma Net Income,--,--,--,--,WEN
+"Interest Expense, Suppl",26,26,32,32,WEN
+"Depreciat/Amort, Suppl",32,33,33,34,WEN
+Total Special Items,1,(3),0,(1),WEN
+Normalzd Income Before Tax,52,48,66,68,WEN
+Efct/SpecItemsIncTxs (STEC),0,(1),0,0,WEN
+IncTxsExcl ImpctofSpec Itms,(1),13,17,18,WEN
+Normalized Income After Tax,53,35,48,50,WEN
+Normalzd Inc Avail to Common,53,35,48,50,WEN
+Basic Normalized EPS,0.24,0.16,0.23,0.23,WEN
+Diluted Normalized EPS,0.24,0.16,0.22,0.23,WEN

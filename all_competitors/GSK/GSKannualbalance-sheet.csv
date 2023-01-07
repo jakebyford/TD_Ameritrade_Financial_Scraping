@@ -1,0 +1,69 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash,826,569,795,"1,762","1,427",GSK
+Short Term Investments,"3,085","3,389","3,991","4,608","2,908",GSK
+Cash and Short Term Invs,"3,911","3,958","4,786","6,370","4,335",GSK
+"Trade Accts Recvble, Gross","4,812","5,304","5,617","5,700","6,396",GSK
+Prov. for Doubtful Accts,(140),(128),(130),(151),(150),GSK
+"Trade Accts Recvble, Net","4,693","5,185","5,494","5,562","6,258",GSK
+Notes Recvble - Short Term,19,14,13,11,18,GSK
+Other Receivables,"1,238","1,123","1,641","1,691","1,755",GSK
+"Total Receivables, Net","5,950","6,322","7,148","7,264","8,031",GSK
+Invent. - Finished Goods,"1,983","2,068","2,247","2,431","2,122",GSK
+Invent. - Work In Progress,"2,381","2,286","2,505","2,395","1,889",GSK
+Invent. - Raw Materials,"1,193","1,122","1,195","1,170","1,772",GSK
+Total Inventory,"5,557","5,476","5,947","5,996","5,783",GSK
+Prepaid Expenses,308,330,316,359,315,GSK
+Discont. Ops.-Curr. Assets,113,653,873,106,22,GSK
+Other Current Assets,68,188,421,152,188,GSK
+"Other Curr. Assets, Total",181,841,"1,294",258,210,GSK
+Total Current Assets,"15,907","16,927","19,491","20,247","18,674",GSK
+Land/Improvements,"7,467","7,811","7,632","7,488","7,212",GSK
+Machinery/Equipment,"11,751","12,537","12,061","12,105","11,816",GSK
+Construction in Progress,"2,501","2,140","1,906","1,890","1,750",GSK
+Other Prop./Plant/Equip.,--,--,966,830,740,GSK
+Prop./Plant/Equip. - Gross,"21,719","22,488","22,565","22,313","21,518",GSK
+Accumulated Depreciation,"(10,859)","(11,430)","(11,251)","(11,307)","(10,846)",GSK
+Prop./Plant/Equip. - Net,"10,860","11,058","11,314","11,006","10,672",GSK
+"Goodwill, Net","5,734","5,789","10,562","10,597","10,552",GSK
+Intangibles - Gross,"26,931","27,587","42,007","41,838","42,489",GSK
+Accum. Intangible Amort.,"(9,369)","(10,385)","(11,052)","(12,014)","(12,410)",GSK
+Intangibles - Net,"17,562","17,202","30,955","29,824","30,079",GSK
+LT Invt. - Affiliate Comp.,183,236,314,364,88,GSK
+LT Investments - Other,918,"1,322","1,837","3,060","2,126",GSK
+Long Term Investments,"1,101","1,558","2,151","3,424","2,214",GSK
+Note Rcvble - Long Term,875,816,893,858,935,GSK
+Pension Bene. - Overfunded,538,760,127,183,741,GSK
+Def. Inc. Tax - LT Asset,"3,796","3,887","4,096","4,287","5,218",GSK
+Other Long Term Assets,8,69,103,5,18,GSK
+Total Assets,"56,381","58,066","79,692","80,431","79,103",GSK
+Accounts Payable,"3,528","3,645","4,144","4,357","4,535",GSK
+Accrued Expenses,"6,929","8,535","9,111","9,753","11,186",GSK
+Notes Payable/ST Debt,765,"4,420","5,020","1,145",802,GSK
+Curr. Port. LT Dbt/Cap Ls.,"2,060","1,373","1,898","2,580","2,799",GSK
+Customer Advances,240,216,158,361,307,GSK
+Income Taxes Payable,995,965,629,545,489,GSK
+Other Payables,"10,273","1,641","1,526","1,369","1,526",GSK
+Other Current Liabilities,"1,779","1,696","1,564","2,038","2,026",GSK
+"Other Curr. Lblts, Total","13,287","4,518","3,877","4,313","4,348",GSK
+Total Current Liabilities,"26,569","22,491","24,050","22,148","23,670",GSK
+Long Term Debt,"14,221","20,227","22,580","22,538","19,760",GSK
+Capital Lease Obligations,43,44,"1,010",887,812,GSK
+Total Long Term Debt,"14,264","20,271","23,590","23,425","20,572",GSK
+Total Debt,"17,089","26,064","30,508","27,150","24,173",GSK
+Deferred Income Tax,"1,396","1,156","3,810","3,600","3,556",GSK
+Minority Interest,"3,557",(688),"6,952","6,221","6,287",GSK
+Reserves,636,691,670,707,630,GSK
+Pension Benefits - Underfunded,"3,539","3,125","3,457","3,650","3,113",GSK
+Other LT Liabilities,"6,488","6,660","5,758","6,093","6,220",GSK
+"Other Liabilities, Total","10,663","10,476","9,885","10,450","9,963",GSK
+Total Liabilities,"56,449","53,706","68,287","65,844","64,048",GSK
+Common Stock,"1,343","1,345","1,346","1,346","1,347",GSK
+Additional Paid-In Capital,"3,019","3,091","3,174","3,281","3,301",GSK
+Ret. Earn.(Accum. Deficit),"(4,348)",(8),"6,659","8,884","10,073",GSK
+ESOP Debt Guarantee,(400),(161),(135),(195),(28),GSK
+Unrealized Gain (Loss),329,140,409,"1,302",383,GSK
+"Other Equity, Total",(11),(47),(48),(31),(21),GSK
+Total Equity,(68),"4,360","11,405","14,587","15,055",GSK
+Total Liabilities & Shareholders’ Equity,"56,381","58,066","79,692","80,431","79,103",GSK
+Ttl Comm. Shares Outs.,"3,966","3,938","3,963","4,024","4,025",GSK
+Trsy. Shrs-Comm. Primary Iss.,332,365,344,284,284,GSK

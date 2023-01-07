@@ -1,0 +1,66 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash & Due from Banks,"4,735","4,863","6,445","5,931","8,556",TD
+Interest-Earning Deposits,"30,720","25,583","164,149","159,962","137,294",TD
+Fed. Fund/Resale,"234,550","296,432","396,841","436,223","502,941",TD
+Other Short Trm Invest.,"64,629","59,437","67,529","68,381","119,858",TD
+Total Invest. Securities,"258,497","257,104","251,603","226,656","213,401",TD
+Other Earning Assets,"10,576","10,830","13,067","11,184","12,777",TD
+Customer Acceptances,"17,267","13,494","14,941","18,448","19,733",TD
+"Other Erng. Assets, Total","616,239","662,880","908,130","920,854","1,006,004",TD
+Total Gross Loans,"649,942","689,055","725,812","729,012","837,475",TD
+Loan Loss Allowances,"(3,549)","(4,447)","(8,289)","(6,390)","(6,432)",TD
+Net Loans,"646,393","684,608","717,523","722,622","831,043",TD
+Buildings,"3,378","3,488","3,485","2,354","2,564",TD
+Land/Improvements,971,987,968,876,949,TD
+Machinery/Equipment,829,813,803,818,817,TD
+Other Prop./Plant/Equip.,"3,308","3,490","8,535","8,669","8,905",TD
+Prop./Plant/Equip. - Gross,"8,486","8,778","13,791","12,717","13,235",TD
+Accumulated Depreciation,"(3,162)","(3,265)","(3,655)","(3,536)","(3,835)",TD
+Prop./Plant/Equip. - Net,"5,324","5,513","10,136","9,181","9,400",TD
+"Goodwill, Net","16,536","16,976","17,148","16,232","17,656",TD
+Intangibles - Gross,"6,980","7,383","7,352","7,183","7,828",TD
+Accum. Intangible Amort.,"(4,521)","(4,880)","(5,227)","(5,060)","(5,525)",TD
+Intangibles - Net,"2,459","2,503","2,125","2,123","2,303",TD
+Long Term Investments,"8,445","9,316","12,174","11,112","8,088",TD
+Pension Bene. - Overfunded,113,13,9,637,"1,406",TD
+Def. Inc. Tax - LT Asset,"2,812","1,799","2,444","2,265","2,193",TD
+Interest Receivable,"2,343","2,479","2,336","2,196","3,765",TD
+Other Assets,"29,504","24,340","37,395","35,519","27,114",TD
+"Other Assets, Total","31,847","26,819","39,731","37,715","30,879",TD
+Total Assets,"1,334,903","1,415,290","1,715,865","1,728,672","1,917,528",TD
+Accounts Payable,"29,668","25,139","36,285","29,707","27,065",TD
+Payable/Accrued,"4,958","5,229","6,571","7,499","5,040",TD
+Accrued Expenses,"3,344","3,245","2,900","4,151","4,100",TD
+Interest Bearing Deposits,"851,439","886,977","1,135,333","1,125,125","1,229,970",TD
+Other Deposits,"114,704","26,885","19,177","22,891","23,805",TD
+Total Deposits,"966,143","913,862","1,154,510","1,148,016","1,253,775",TD
+"Other Bearing Lblts, Total","17,269","13,494","14,941","18,448","19,733",TD
+Total ST Borrowings,"132,867","155,512","188,315","146,112","130,933",TD
+Curr. Port. LT Dbt/Cap Ls.,16,"105,131",30,"113,988","162,786",TD
+"Other Curr. Lblts, Total",84,169,275,82,151,TD
+Long Term Debt,"8,740","10,725","47,037","51,599","53,886",TD
+Capital Lease Obligations,--,--,"6,065","5,473","5,313",TD
+Total Long Term Debt,"8,740","10,725","53,102","57,072","59,199",TD
+Total Debt,"141,623","271,368","241,447","317,172","352,918",TD
+Deferred Income Tax,175,193,284,244,236,TD
+Minority Interest,993,0,--,--,--,TD
+Reserves,"1,502","1,095","1,569","1,304","1,320",TD
+Pension Benefits - Underfunded,"1,747","2,781","3,302","1,592","1,286",TD
+Other Liabilities,"88,350","91,014","158,282","100,639","140,521",TD
+"Other Liabilities, Total","91,599","94,890","163,153","103,535","143,127",TD
+Total Liabilities,"1,255,856","1,327,589","1,620,366","1,628,854","1,806,145",TD
+Redeemable Preferred Stock,"5,000","5,800","5,650","5,700","11,253",TD
+"Pref. Stock-Non Rdmbl, Net",(7),(6),(4),(10),(7),TD
+Common Stock,"21,221","21,713","22,487","23,066","24,363",TD
+Additional Paid-In Capital,193,157,121,173,179,TD
+Ret. Earn.(Accum. Deficit),"46,145","49,497","53,845","63,944","73,698",TD
+Treasury Stock - Common,(144),(41),(37),(152),(91),TD
+Unrealized Gain (Loss),300,297,254,(63),"(4,343)",TD
+Cum. Trans. Adjustment,"8,826","8,793","9,357","5,230","12,048",TD
+Other Comprehensive Income,"(2,487)","1,491","3,826","1,930","(5,717)",TD
+"Other Equity, Total","6,339","10,284","13,183","7,160","6,331",TD
+Total Equity,"79,047","87,701","95,499","99,818","111,383",TD
+Total Liabilities & Shareholders’ Equity,"1,334,903","1,415,290","1,715,865","1,728,672","1,917,528",TD
+Ttl Comm. Shares Outs.,"1,830","1,813","1,816","1,824","1,822",TD
+Trsy. Shrs-Comm. Primary Iss.,2,1,1,2,1,TD
+Trsry Shrs-Pref. Iss. 2,0,0,0,0,0,TD

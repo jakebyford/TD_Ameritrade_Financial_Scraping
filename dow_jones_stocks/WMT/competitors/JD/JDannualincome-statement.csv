@@ -1,0 +1,48 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"362,332","462,020","576,888","745,802","951,592",JD
+"Cost of Revenue, Total","311,517","396,066","492,467","636,694","822,526",JD
+Selling/Gen/Admin Expense,"41,222","52,273","61,310","78,414","100,726",JD
+Labor & Related Expense,"2,082","2,425","2,272","2,658","7,251",JD
+"Sell/Gen/AdminExpenses,Tot","43,304","54,698","63,582","81,071","107,977",JD
+Research & Development,"6,568","12,046","14,520","16,050","16,228",JD
+Depreciation/Amortization,"1,778","1,806","1,209","1,293","1,487",JD
+Impair-Assets Held for Use,0,22,0,0,--,JD
+Impair-Assets Held for Sale,--,593,"1,954",208,574,JD
+Other Unusual Expnse (In),--,"(1,320)","(5,084)","(1,927)",(907),JD
+Unusual Expense (Income),0,(705),"(3,130)","(1,720)",(333),JD
+Total Operating Expense,"363,167","463,912","568,648","733,388","947,885",JD
+Total Operating Income,(835),"(1,892)","8,240","12,414","3,707",JD
+"Inter Expse,Net Non-Operat",(964),(855),(725),"(1,125)","(1,213)",JD
+"Inter Income, Non-Operating","2,530","2,118","1,786","2,753",--,JD
+"Invest Income, Non-Operat","(1,713)","(2,819)","1,882","33,684","(12,128)",JD
+"Inter/Invest Inc, Non-Oper",817,(701),"3,667","36,437","(12,128)",JD
+OtherNon-OperatInc (Expnse),"1,103","1,074","2,510","3,093","7,054",JD
+"Other, Net","1,103","1,074","2,510","3,093","7,054",JD
+Income Before Tax,121,"(2,374)","13,693","50,819","(2,580)",JD
+Income Tax - Total,140,427,"1,802","1,482","1,887",JD
+Income After Tax,(19),"(2,801)","11,890","49,337","(4,467)",JD
+Minority Interest,135,309,294,68,907,JD
+Net Inc Before Extra Items,117,"(2,492)","12,184","49,405","(3,560)",JD
+Total Extraordinary Items,(269),0,0,--,--,JD
+Total Net Income,(152),"(2,492)","12,184","49,405","(3,560)",JD
+Income Available to Common Excl. Extra. Items,117,"(2,492)","12,184","49,405","(3,560)",JD
+Income Available to Common Incl. Extra. Items,(152),"(2,492)","12,184","49,405","(3,560)",JD
+Basic/Primary Weighted Average Shares,"2,845","2,878","2,913","3,022","3,107",JD
+Basic/Primary EPS Excl. Extra. Items,0.04,(0.87),4.18,16.35,(1.15),JD
+Basic/Primary EPS Incl. Extra. Items,(0.05),(0.87),4.18,16.35,(1.15),JD
+Diluted Weighted Average Shares,"2,845","2,878","2,967","3,109","3,107",JD
+Diluted EPS Excl. Extra. Items,0.04,(0.87),4.11,15.89,(1.15),JD
+Diluted EPS Incl. Extra. Items,(0.05),(0.87),4.11,15.89,(1.15),JD
+Div/Share-ComStockPrimIssue,0.00,0.00,--,0.00,--,JD
+Gross Divid - Common Stock,0,0,0,0,0,JD
+Pro Forma Net Income,--,--,--,--,--,JD
+"Interest Expense, Suppl",964,855,725,"1,125","1,213",JD
+"Depreciat/Amort, Suppl","2,310","3,533","4,673","5,037","5,000",JD
+Total Special Items,0,(705),"(3,130)","(1,720)",(333),JD
+Normalzd Income Before Tax,121,"(3,078)","10,562","49,099","(2,913)",JD
+Efct/SpecItemsIncTxs (STEC),0,(247),(412),(50),(117),JD
+IncTxsExcl ImpctofSpec Itms,140,180,"1,390","1,431","1,770",JD
+Normalized Income After Tax,(19),"(3,259)","9,172","47,667","(4,683)",JD
+Normalzd Inc Avail to Common,117,"(2,950)","9,466","47,735","(3,776)",JD
+Basic Normalized EPS,0.04,(1.02),3.25,15.80,(1.22),JD
+Diluted Normalized EPS,0.04,(1.02),3.19,15.35,(1.22),JD

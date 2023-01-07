@@ -1,0 +1,42 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,235,371,427,146,816,SKX
+Depreciation/Depletion,83,99,112,143,140,SKX
+Amortization,14,11,--,--,--,SKX
+Deferred Taxes,(4),(10),(8),(20),(387),SKX
+Unusual Items,(2),1,0,(14),0,SKX
+Other Non-Cash Items,40,76,96,102,125,SKX
+Non-Cash Items,37,77,96,88,125,SKX
+"Cash Taxes Pd, Supplemental",57,93,89,56,125,SKX
+"Cash Interest Pd, Suppl",6,6,7,16,15,SKX
+Accounts Receivable,(102),(136),(118),13,(154),SKX
+Inventories,(159),(7),(172),79,(458),SKX
+Prepaid Expenses,(9),(28),--,--,--,SKX
+Other Assets,(9),(2),(69),(153),(110),SKX
+Accounts Payable,(13),174,154,(38),135,SKX
+Accrued Expenses,86,20,--,--,--,SKX
+Changes in Working Capital,(206),21,(201),(26),(481),SKX
+Total Cash from Operations,159,569,427,331,212,SKX
+Purchase of Fixed Assets,(136),(143),(236),(310),(310),SKX
+Purchase/Acq of Intangibles,0,0,--,--,--,SKX
+Capital Expenditures,(136),(143),(236),(310),(310),SKX
+Acquisition of Business,0,0,(101),--,0,SKX
+Sale of Fixed Assets,--,--,6,--,0,SKX
+Sale/Maturity of Investment,0,270,177,164,180,SKX
+Purchase of Investments,(2),(446),(190),(167),(215),SKX
+"OtherInvestCashFlowItms,Tot",(2),(176),(108),(3),(35),SKX
+Total Cash from Investing,(138),(319),(344),(312),(345),SKX
+Financing Cash Flow Items,(26),(41),(136),(87),(48),SKX
+Sale/Issuance of Common,5,5,6,6,7,SKX
+Repurch/Retirement Common,--,(100),(30),--,0,SKX
+"Iss (Retirmnt) of Stock,Net",5,(95),(24),6,7,SKX
+"Short Term Debt, Net",2,(1),(1),(2),(2),SKX
+Long Term Debt Issued,6,19,33,703,96,SKX
+Long Term Debt Reduction,(2),(2),(4),(86),(487),SKX
+"Long Term Debt, Net",4,17,29,617,(391),SKX
+"Iss (Retirmnt) of Debt, Net",6,16,28,614,(393),SKX
+Total Cash From Financing,(15),(120),(132),533,(434),SKX
+Foreign Exchange Effects,11,6,2,(6),(8),SKX
+Net Change in Cash,18,136,(47),546,(575),SKX
+NetCash-BeginBal/RsvdforFutUse,719,736,872,825,"1,371",SKX
+NetCash-EndBal/RsrvforFutUse,736,872,825,"1,371",796,SKX
+"Depreciation, Supplemental",83,99,112,143,140,SKX

@@ -1,0 +1,53 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"20,848","22,597","23,888","27,450","33,203",AVGO
+"Cost of Revenue, Total","10,095","10,037","10,337","10,589","11,103",AVGO
+Selling/Gen/Admin Expense,770,"1,219","1,427",985,"1,044",AVGO
+Labor & Related Expense,286,490,398,362,338,AVGO
+"Sell/Gen/AdminExpenses,Tot","1,056","1,709","1,825","1,347","1,382",AVGO
+Research & Development,"3,768","4,696","4,968","4,854","4,919",AVGO
+Depreciation/Amortization,541,"1,898","2,401","1,976","1,512",AVGO
+Restructuring Charge,226,746,214,149,62,AVGO
+Litigation,14,0,0,--,--,AVGO
+Impair-Assets Held for Use,13,67,19,16,--,AVGO
+Impair-Assets Held for Sale,106,0,0,--,--,AVGO
+Other Unusual Expnse (In),0,0,(62),0,0,AVGO
+Unusual Expense (Income),359,813,171,165,62,AVGO
+Total Operating Expense,"15,819","19,153","19,702","18,931","18,978",AVGO
+Total Operating Income,"5,029","3,444","4,186","8,519","14,225",AVGO
+"Inter Expse,Net Non-Operat",(628),"(1,444)","(1,777)","(1,885)","(1,737)",AVGO
+"Inter Income, Non-Operating",114,98,53,16,100,AVGO
+"Invest Income, Non-Operat",27,145,31,99,(169),AVGO
+"Inter/Invest Inc, Non-Oper",141,243,84,115,(69),AVGO
+OtherNon-OperatInc (Expnse),3,(17),(50),16,15,AVGO
+"Other, Net",3,(17),(50),16,15,AVGO
+Income Before Tax,"4,545","2,226","2,443","6,765","12,434",AVGO
+Income Tax - Total,(806),(510),(518),29,939,AVGO
+Income After Tax,"5,351","2,736","2,961","6,736","11,495",AVGO
+Minority Interest,(351),0,0,--,--,AVGO
+Net Inc Before Extra Items,"5,000","2,736","2,961","6,736","11,495",AVGO
+Discontinued Operations,(19),(12),(1),0,0,AVGO
+Extraordinary Item,"7,278",--,--,--,--,AVGO
+Total Extraordinary Items,"7,259",(12),(1),0,0,AVGO
+Total Net Income,"12,259","2,724","2,960","6,736","11,495",AVGO
+Total Adjust to Net Income,--,(29),(297),(299),(272),AVGO
+Income Available to Common Excl. Extra. Items,"5,000","2,707","2,664","6,437","11,223",AVGO
+Income Available to Common Incl. Extra. Items,"12,259","2,695","2,663","6,437","11,223",AVGO
+Basic/Primary Weighted Average Shares,418,398,402,410,409,AVGO
+Basic/Primary EPS Excl. Extra. Items,11.96,6.80,6.63,15.70,27.44,AVGO
+Basic/Primary EPS Incl. Extra. Items,29.33,6.77,6.62,15.70,27.44,AVGO
+Diluted Weighted Average Shares,431,419,421,429,423,AVGO
+Diluted EPS Excl. Extra. Items,11.60,6.46,6.33,15.00,26.53,AVGO
+Diluted EPS Incl. Extra. Items,28.44,6.43,6.33,15.00,26.53,AVGO
+Div/Share-ComStockPrimIssue,7.00,10.60,13.00,14.40,16.40,AVGO
+Gross Divid - Common Stock,"2,998","3,355","2,653","5,689","6,683",AVGO
+Pro Forma Net Income,--,--,--,--,--,AVGO
+"Interest Expense, Suppl",628,"1,444","1,777","1,885","1,737",AVGO
+"Depreciat/Amort, Suppl",515,569,570,539,529,AVGO
+Total Special Items,359,813,171,165,62,AVGO
+Normalzd Income Before Tax,"4,904","3,039","2,614","6,930","12,496",AVGO
+Efct/SpecItemsIncTxs (STEC),126,285,60,1,5,AVGO
+IncTxsExcl ImpctofSpec Itms,(680),(225),(458),30,944,AVGO
+Normalized Income After Tax,"5,584","3,264","3,072","6,900","11,552",AVGO
+Normalzd Inc Avail to Common,"5,233","3,235","2,775","6,601","11,280",AVGO
+Basic Normalized EPS,12.52,8.13,6.90,16.10,27.58,AVGO
+Diluted Normalized EPS,12.14,7.72,6.59,15.39,26.67,AVGO

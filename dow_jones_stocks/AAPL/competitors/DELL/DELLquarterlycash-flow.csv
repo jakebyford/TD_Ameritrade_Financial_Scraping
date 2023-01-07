@@ -1,0 +1,36 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Net Income,"5,707","1,069","1,575","1,816",DELL
+Depreciation/Depletion,"4,551",726,"1,470","2,302",DELL
+Deferred Taxes,(365),(246),(382),(745),DELL
+Non-Cash Items,"(1,508)",141,917,"1,351",DELL
+Accounts Receivable,"(2,434)","1,144",(848),517,DELL
+Inventories,"(2,514)",(419),(113),(485),DELL
+Other Assets,"(1,948)",(885),"(1,710)",430,DELL
+Accounts Payable,"6,221","(2,278)","(1,784)","(5,107)",DELL
+Changes in Working Capital,"1,922","(1,959)","(3,125)","(3,873)",DELL
+Total Cash from Operations,"10,307",(269),455,851,DELL
+Purchase of Fixed Assets,"(2,796)",(690),"(1,497)","(2,244)",DELL
+Software Development Costs,--,0,--,--,DELL
+Capital Expenditures,"(2,796)",(690),"(1,497)","(2,244)",DELL
+Acquisition of Business,(16),--,0,0,DELL
+Sale of Business,--,4,--,0,DELL
+Sale of Fixed Assets,"3,957",--,--,--,DELL
+Sale/Maturity of Investment,513,18,68,99,DELL
+Purchase of Investments,(414),(52),(80),(101),DELL
+Other Investing Cash Flow,62,--,11,18,DELL
+"OtherInvestCashFlowItms,Tot","4,102",(30),(1),16,DELL
+Total Cash from Investing,"1,306",(720),"(1,498)","(2,228)",DELL
+Financing Cash Flow Items,"(8,807)",(7),(14),(17),DELL
+Total Cash Dividends Paid,--,(248),(490),(728),DELL
+Sale/Issuance of Common,334,4,5,5,DELL
+Repurch/Retirement Common,"(1,838)","(1,786)","(2,476)","(3,098)",DELL
+"Iss (Retirmnt) of Stock,Net","(1,504)","(1,782)","(2,471)","(3,093)",DELL
+Long Term Debt Issued,"20,425","3,034","6,465","8,779",DELL
+Long Term Debt Reduction,"(26,723)","(2,703)","(6,242)","(8,079)",DELL
+"Iss (Retirmnt) of Debt, Net","(6,298)",331,223,700,DELL
+Total Cash From Financing,"(16,609)","(1,706)","(2,752)","(3,138)",DELL
+Foreign Exchange Effects,(106),(111),(194),(343),DELL
+Net Change in Cash,"(5,102)","(2,806)","(3,989)","(4,858)",DELL
+NetCash-BeginBal/RsvdforFutUse,"15,184","10,082","10,082","10,082",DELL
+NetCash-EndBal/RsrvforFutUse,"10,082","7,276","6,093","5,224",DELL
+"Depreciation, Supplemental","4,551",726,"1,470","2,302",DELL

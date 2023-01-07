@@ -1,0 +1,39 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,518,526,571,585,PRMW
+"Cost of Revenue, Total",231,227,239,236,PRMW
+"Sell/Gen/AdminExpenses,Tot",264,279,292,297,PRMW
+Litigation,0,--,--,--,PRMW
+Impair-Assets Held for Use,0,--,29,0,PRMW
+Other Unusual Expnse (In),0,4,5,3,PRMW
+Unusual Expense (Income),4,6,34,6,PRMW
+Loss(Gain)/Sale Asts (Oper),4,2,0,3,PRMW
+Total Operating Expense,498,511,565,540,PRMW
+Total Operating Income,20,15,7,45,PRMW
+"Inter Inc(Exp),Net Non-Oper",(15),(17),(17),(17),PRMW
+"Other, Net",2,1,1,0,PRMW
+Income Before Tax,2,(4),(21),6,PRMW
+Income Tax - Total,5,2,1,5,PRMW
+Income After Tax,(3),(7),(23),1,PRMW
+Net Inc Before Extra Items,(3),(7),(23),1,PRMW
+Total Extraordinary Items,0,--,--,--,PRMW
+Total Net Income,(3),(7),(23),1,PRMW
+Income Available to Common Excl. Extra. Items,(3),(7),(23),1,PRMW
+Income Available to Common Incl. Extra. Items,(3),(7),(23),1,PRMW
+Basic/Primary Weighted Average Shares,160,161,161,161,PRMW
+Basic/Primary EPS Excl. Extra. Items,(0.02),(0.04),(0.14),0.01,PRMW
+Basic/Primary EPS Incl. Extra. Items,(0.02),(0.04),(0.14),0.01,PRMW
+Diluted Weighted Average Shares,160,161,161,162,PRMW
+Diluted EPS Excl. Extra. Items,(0.02),(0.04),(0.14),0.01,PRMW
+Diluted EPS Incl. Extra. Items,(0.02),(0.04),(0.14),0.01,PRMW
+Div/Share-ComStockPrimIssue,0.06,0.07,0.07,0.07,PRMW
+Gross Divid - Common Stock,10,12,11,12,PRMW
+Pro Forma Net Income,--,--,--,--,PRMW
+"Depreciat/Amort, Suppl",61,61,60,60,PRMW
+Total Special Items,4,6,34,6,PRMW
+Normalzd Income Before Tax,6,1,13,12,PRMW
+Efct/SpecItemsIncTxs (STEC),1,2,12,2,PRMW
+IncTxsExcl ImpctofSpec Itms,6,4,13,7,PRMW
+Normalized Income After Tax,0,(3),0,5,PRMW
+Normalzd Inc Avail to Common,0,(3),0,5,PRMW
+Basic Normalized EPS,0.00,(0.02),0.00,0.03,PRMW
+Diluted Normalized EPS,0.00,(0.02),0.00,0.03,PRMW

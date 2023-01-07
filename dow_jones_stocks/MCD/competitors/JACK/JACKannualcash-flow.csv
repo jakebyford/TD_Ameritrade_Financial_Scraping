@@ -1,0 +1,38 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,121,94,90,166,116,JACK
+Depreciation/Depletion,59,55,53,47,56,JACK
+Deferred Taxes,25,4,5,8,8,JACK
+Discontinued Operations,(12),(3),0,0,0,JACK
+Unusual Items,(44),20,(17),(21),(6),JACK
+Other Non-Cash Items,13,15,55,(12),20,JACK
+Non-Cash Items,(43),31,37,(33),14,JACK
+"Cash Taxes Pd, Supplemental",56,15,29,48,34,JACK
+"Cash Interest Pd, Suppl",44,46,69,60,70,JACK
+Accounts Receivable,24,4,(29),5,(18),JACK
+Inventories,2,0,0,0,0,JACK
+Prepaid Expenses,(9),9,(3),(3),(3),JACK
+Accounts Payable,5,5,0,(3),16,JACK
+Accrued Expenses,(38),(8),4,29,(9),JACK
+Changes in Working Capital,(54),(17),(42),14,(31),JACK
+Total Cash from Operations,109,168,144,201,163,JACK
+Capital Expenditures,(38),(48),(20),(41),(46),JACK
+Acquisition of Business,--,--,--,--,(581),JACK
+Sale of Business,26,1,3,2,6,JACK
+Sale of Fixed Assets,20,14,43,16,42,JACK
+Other Investing Cash Flow,324,18,3,3,0,JACK
+"OtherInvestCashFlowItms,Tot",370,34,49,20,(532),JACK
+Total Cash from Investing,332,(14),29,(21),(579),JACK
+Financing Cash Flow Items,(11),(61),(6),(4),(22),JACK
+Total Cash Dividends Paid,(45),(41),(28),(37),(37),JACK
+Sale/Issuance of Common,8,1,5,7,0,JACK
+Repurch/Retirement Common,(326),(138),(156),(200),(25),JACK
+"Iss (Retirmnt) of Stock,Net",(318),(136),(151),(193),(25),JACK
+Long Term Debt Issued,757,"1,530",114,0,"1,168",JACK
+Long Term Debt Reduction,(828),"(1,297)",(17),(109),(606),JACK
+"Iss (Retirmnt) of Debt, Net",(71),232,97,(109),562,JACK
+Total Cash From Financing,(446),(6),(87),(344),478,JACK
+Foreign Exchange Effects,0,0,0,--,--,JACK
+Net Change in Cash,(5),149,85,(163),62,JACK
+NetCash-BeginBal/RsvdforFutUse,8,3,152,237,74,JACK
+NetCash-EndBal/RsrvforFutUse,3,152,237,74,136,JACK
+"Depreciation, Supplemental",59,55,53,47,56,JACK

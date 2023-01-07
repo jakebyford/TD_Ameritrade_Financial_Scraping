@@ -1,0 +1,48 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"59,837","34,701","45,349","56,587","64,388",RTX
+"Cost of Revenue, Total","44,201","27,465","34,598","47,659","51,863",RTX
+"Sell/Gen/AdminExpenses,Tot","6,429","2,864","3,711","5,169","5,115",RTX
+Research & Development,"2,427","1,878","2,452","2,582","2,732",RTX
+"Inter/Invest Inc, Operating",(77),--,--,--,--,RTX
+Restructuring Charge,--,--,--,777,143,RTX
+Impair-Assets Held for Use,--,0,0,"3,183",--,RTX
+Other Unusual Expnse (In),--,--,--,--,649,RTX
+Unusual Expense (Income),--,0,0,"3,960",792,RTX
+"Other Operat Expse, Total","(1,281)",(383),(326),(885),(423),RTX
+Total Operating Expense,"51,699","31,824","40,435","58,485","60,079",RTX
+Total Operating Income,"8,138","2,877","4,914","(1,898)","4,309",RTX
+"Inter Expse,Net Non-Operat","(1,017)","(1,182)","(1,711)","(1,408)","(1,358)",RTX
+"Inter/Invest Inc, Non-Oper",108,150,120,42,36,RTX
+OtherNon-OperatInc (Expnse),534,659,829,911,"1,944",RTX
+"Other, Net",534,659,829,911,"1,944",RTX
+Income Before Tax,"7,763","2,504","4,152","(2,353)","4,931",RTX
+Income Tax - Total,"2,153",354,421,575,786,RTX
+Income After Tax,"5,610","2,150","3,731","(2,928)","4,145",RTX
+Minority Interest,(368),(190),(221),(181),(248),RTX
+Net Inc Before Extra Items,"5,242","1,960","3,510","(3,109)","3,897",RTX
+Discontinued Operations,0,"5,581","3,901",(259),(10),RTX
+Extraordinary Item,(690),(744),0,0,--,RTX
+Tax on Extraordinary Items,0,"(1,528)","(1,874)",(151),(23),RTX
+Total Extraordinary Items,(690),"3,309","2,027",(410),(33),RTX
+Total Net Income,"4,552","5,269","5,537","(3,519)","3,864",RTX
+Income Available to Common Excl. Extra. Items,"5,242","1,960","3,510","(3,109)","3,897",RTX
+Income Available to Common Incl. Extra. Items,"4,552","5,269","5,537","(3,519)","3,864",RTX
+Basic/Primary Weighted Average Shares,790,800,855,"1,358","1,502",RTX
+Basic/Primary EPS Excl. Extra. Items,6.64,2.45,4.11,(2.29),2.60,RTX
+Basic/Primary EPS Incl. Extra. Items,5.76,6.58,6.48,(2.59),2.57,RTX
+Diluted Weighted Average Shares,799,810,864,"1,358","1,509",RTX
+Diluted EPS Excl. Extra. Items,6.56,2.42,4.06,(2.29),2.58,RTX
+Diluted EPS Incl. Extra. Items,5.70,6.50,6.41,(2.59),2.56,RTX
+Div/Share-ComStockPrimIssue,2.72,2.84,2.94,2.16,2.01,RTX
+Gross Divid - Common Stock,"2,074","2,170","2,442","2,732","2,957",RTX
+Pro Forma Net Income,--,--,--,--,--,RTX
+"Interest Expense, Suppl","1,017","1,182","1,711","1,408","1,358",RTX
+"Depreciat/Amort, Suppl","1,306","1,160","1,464","2,031","2,118",RTX
+Total Special Items,253,158,245,"4,017",792,RTX
+Normalzd Income Before Tax,"8,016","2,662","4,397","1,664","5,723",RTX
+Efct/SpecItemsIncTxs (STEC),70,22,25,"1,406",126,RTX
+IncTxsExcl ImpctofSpec Itms,"2,223",376,446,"1,981",912,RTX
+Normalized Income After Tax,"5,793","2,286","3,951",(317),"4,811",RTX
+Normalzd Inc Avail to Common,"5,425","2,096","3,730",(498),"4,563",RTX
+Basic Normalized EPS,6.87,2.62,4.36,(0.37),3.04,RTX
+Diluted Normalized EPS,6.79,2.59,4.32,(0.37),3.02,RTX

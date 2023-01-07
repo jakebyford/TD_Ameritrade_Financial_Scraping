@@ -1,0 +1,33 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Net Income,"39,270","55,998","72,738","17,556",MSFT
+Depreciation/Depletion,"6,708","10,481","14,460","2,790",MSFT
+Deferred Taxes,"(5,787)","(5,985)","(5,702)","(1,191)",MSFT
+Unusual Items,(671),(566),(409),(22),MSFT
+Other Non-Cash Items,"3,599","5,505","7,502","2,192",MSFT
+Non-Cash Items,"2,928","4,939","7,093","2,170",MSFT
+Accounts Receivable,"4,943","5,800","(6,834)","11,729",MSFT
+Inventories,(383),(662),"(1,123)",(543),MSFT
+Other Assets,264,(369),"(3,514)",(998),MSFT
+Accounts Payable,(236),284,"2,943","(1,567)",MSFT
+Changes in Working Capital,"(4,099)","(1,027)",446,"1,873",MSFT
+Total Cash from Operations,"39,020","64,406","89,035","23,198",MSFT
+Capital Expenditures,"(11,675)","(17,015)","(23,886)","(6,283)",MSFT
+Acquisition of Business,"(2,056)","(20,775)","(22,038)",(349),MSFT
+Sale/Maturity of Investment,"22,640","40,432","44,894","9,373",MSFT
+Purchase of Investments,"(12,814)","(21,537)","(26,456)","(5,013)",MSFT
+Other Investing Cash Flow,(506),"(1,687)","(2,825)",(860),MSFT
+"OtherInvestCashFlowItms,Tot","7,264","(3,567)","(6,425)","3,151",MSFT
+Total Cash from Investing,"(4,411)","(20,582)","(30,311)","(3,132)",MSFT
+Financing Cash Flow Items,(364),(522),(863),(264),MSFT
+Total Cash Dividends Paid,"(8,858)","(13,503)","(18,135)","(4,621)",MSFT
+Sale/Issuance of Common,903,"1,380","1,841",575,MSFT
+Repurch/Retirement Common,"(15,117)","(23,939)","(32,696)","(5,573)",MSFT
+"Iss (Retirmnt) of Stock,Net","(14,214)","(22,559)","(30,855)","(4,998)",MSFT
+Long Term Debt Reduction,"(4,826)","(9,023)","(9,023)","(1,000)",MSFT
+"Iss (Retirmnt) of Debt, Net","(4,826)","(9,023)","(9,023)","(1,000)",MSFT
+Total Cash From Financing,"(28,262)","(45,607)","(58,876)","(10,883)",MSFT
+Foreign Exchange Effects,33,57,(141),(230),MSFT
+Net Change in Cash,"6,380","(1,726)",(293),"8,953",MSFT
+NetCash-BeginBal/RsvdforFutUse,"14,224","14,224","14,224","13,931",MSFT
+NetCash-EndBal/RsrvforFutUse,"20,604","12,498","13,931","22,884",MSFT
+"Depreciation, Supplemental","6,708","10,481","14,460","2,790",MSFT

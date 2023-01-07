@@ -1,0 +1,56 @@
+items,2018,2019,2020,2021,2022,ticker
+Interest & Fees on Loans,"21,249","24,863","23,420","21,654","26,565",RY
+Inter & Divs/ Invest Securs,"5,670","6,827","6,488","4,877","7,062",RY
+Fed. Fund/Resale,"5,536","8,960","4,668","1,309","5,447",RY
+Interest on Deposits,566,683,307,305,"1,697",RY
+"Interest Income, Bank","33,021","41,333","34,883","28,145","40,771",RY
+Interest on Deposit,"9,842","12,988","8,783","5,448","10,751",RY
+Inter on Other Borrowings,"5,227","8,596","5,265","2,695","7,303",RY
+Total Interest Expense,"15,069","21,584","14,048","8,143","18,054",RY
+Net Interest Income,"17,952","19,749","20,835","20,002","22,717",RY
+Loan Loss Provision,"1,307","1,864","1,720",597,484,RY
+NetInterIn after Loan Loss Provision,"16,645","17,885","19,115","19,405","22,233",RY
+Fees & Commish from Operat,"2,053","1,815","2,319","2,692","2,058",RY
+Commish & Fees/Secur Act,"10,300","10,681","11,252","12,921","13,380",RY
+Insur Commish Fees& Premium,"4,279","5,710","5,361","5,600","3,510",RY
+Credit Card Fees,"2,448","2,341","2,290","2,608","2,715",RY
+Fees for Other Cust Serv,"1,800","1,907","1,842","1,858","1,976",RY
+Dealer Trading Acct Profit,"1,150",995,"1,239","1,183",926,RY
+Invest Securities Gains,147,125,90,145,43,RY
+Foreign Currency Gains,"1,098",986,"1,012","1,066","1,038",RY
+Other Revenue,"1,349","1,693",941,"1,618",622,RY
+"Non-Interest Income, Bank","24,624","26,253","26,346","29,691","26,268",RY
+Labor & Related Expenses,"(13,776)","(14,600)","(15,252)","(16,539)","(16,528)",RY
+Amortization of Intangibles,"(1,077)","(1,197)","(1,273)","(1,287)","(1,369)",RY
+Other Unusual Expense,--,--,"(2,631)","1,350",--,RY
+Other Expense,"(10,656)","(12,427)","(11,916)","(11,989)","(10,495)",RY
+"Non-Interest Expense, Bank","(25,509)","(28,224)","(31,072)","(28,465)","(28,392)",RY
+Income Before Tax,"15,760","15,914","14,389","20,631","20,109",RY
+Income Tax - Total,"3,507","3,043","2,952","4,581","4,302",RY
+Income After Tax,"12,253","12,871","11,437","16,050","15,807",RY
+Minority Interest,(31),(11),(5),(12),(13),RY
+Net Inc Before Extra Items,"12,222","12,860","11,432","16,038","15,794",RY
+Total Extraordinary Items,178,--,--,--,--,RY
+Total Net Income,"12,400","12,860","11,432","16,038","15,794",RY
+Total Adjust to Net Income,(285),(269),(268),(257),(247),RY
+Income Available to Common Excl. Extra. Items,"11,937","12,591","11,164","15,781","15,547",RY
+Income Available to Common Incl. Extra. Items,"12,115","12,591","11,164","15,781","15,547",RY
+Basic/Primary Weighted Average Shares,"1,444","1,435","1,424","1,424","1,404",RY
+Basic/Primary EPS Excl. Extra. Items,8.27,8.78,7.84,11.08,11.08,RY
+Basic/Primary EPS Incl. Extra. Items,8.39,8.78,7.84,11.08,11.08,RY
+Dilution Adjustment,15,15,13,0,--,RY
+Diluted Weighted Average Shares,"1,450","1,441","1,429","1,427","1,406",RY
+Diluted EPS Excl. Extra. Items,8.24,8.75,7.82,11.06,11.06,RY
+Diluted EPS Incl. Extra. Items,8.36,8.75,7.82,11.06,11.06,RY
+Div/Share-ComStockPrimIssue,3.77,4.07,4.29,4.32,4.96,RY
+Gross Divid - Common Stock,"5,442","5,840","6,111","6,158","6,946",RY
+Pro Forma Net Income,--,--,--,--,--,RY
+"Depreciat/Amort, Suppl",569,627,"1,333","1,276","1,265",RY
+Total Special Items,--,--,"2,631","(1,350)",--,RY
+Normalzd Income Before Tax,"15,760","15,914","17,020","19,281","20,109",RY
+Efct/SpecItemsIncTxs (STEC),--,--,540,(300),--,RY
+IncTxsExcl ImpctofSpec Itms,"3,507","3,043","3,492","4,281","4,302",RY
+Normalized Income After Tax,"12,253","12,871","13,528","15,000","15,807",RY
+Normalzd Inc Avail to Common,"11,937","12,591","13,255","14,731","15,547",RY
+Basic Normalized EPS,8.27,8.78,9.31,10.34,11.08,RY
+Diluted Normalized EPS,8.24,8.75,9.29,10.32,11.06,RY

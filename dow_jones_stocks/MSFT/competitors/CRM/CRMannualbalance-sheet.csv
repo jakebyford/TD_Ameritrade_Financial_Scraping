@@ -1,0 +1,49 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash & Equivalents,"2,543","2,669","4,145","6,195","5,464",CRM
+Short Term Investments,"1,978","1,673","3,802","5,771","5,073",CRM
+Cash and Short Term Invs,"4,521","4,342","7,947","11,966","10,537",CRM
+"Trade Accts Recvble, Gross","3,942","4,946","6,197",--,--,CRM
+Prov. for Doubtful Accts,(21),(22),(23),--,--,CRM
+"Total Receivables, Net","4,592","5,712","7,100","8,932","11,193",CRM
+Prepaid Expenses,453,587,888,991,"1,120",CRM
+"Other Curr. Assets, Total",18,42,28,--,--,CRM
+Total Current Assets,"9,584","10,683","15,963","21,889","22,850",CRM
+Buildings,"1,451","1,727","2,158","1,992","2,143",CRM
+Land/Improvements,184,184,184,293,293,CRM
+Machinery/Equipment,"1,629","1,735","1,608","1,901","2,543",CRM
+Other Prop./Plant/Equip.,139,188,"3,266","3,432","3,117",CRM
+Prop./Plant/Equip. - Gross,"3,403","3,834","7,216","7,618","8,096",CRM
+Accumulated Depreciation,"(1,456)","(1,783)","(1,801)","(1,955)","(2,401)",CRM
+Prop./Plant/Equip. - Net,"1,947","2,051","5,415","5,663","5,695",CRM
+"Goodwill, Net","7,314","12,851","25,134","26,318","47,937",CRM
+Intangibles - Gross,"2,057","3,571","6,922","6,860","12,973",CRM
+Accum. Intangible Amort.,"(1,084)","(1,496)","(2,198)","(2,746)","(3,995)",CRM
+Intangibles - Net,973,"2,075","4,724","4,114","8,978",CRM
+Long Term Investments,677,"1,302","1,963","3,909","4,784",CRM
+Note Rcvble - Long Term,"1,264","1,353","1,441","1,757","2,421",CRM
+Other Long Term Assets,225,422,486,"2,651","2,544",CRM
+Total Assets,"21,984","30,737","55,126","66,301","95,209",CRM
+Accounts Payable,76,165,--,--,--,CRM
+Payable/Accrued,--,--,"3,356","4,320","5,360",CRM
+Accrued Expenses,"1,971","2,310",750,766,686,CRM
+Notes Payable/ST Debt,0,0,0,0,0,CRM
+Curr. Port. LT Dbt/Cap Ls.,"1,025",216,53,35,114,CRM
+Customer Advances,"6,995","8,564","10,662","12,607","15,628",CRM
+Other Current Liabilities,--,--,24,--,--,CRM
+"Other Curr. Lblts, Total","6,995","8,564","10,686","12,607","15,628",CRM
+Total Current Liabilities,"10,067","11,255","14,845","17,728","21,788",CRM
+Long Term Debt,695,"3,173","2,673","2,673","10,592",CRM
+Capital Lease Obligations,--,257,332,93,271,CRM
+Total Long Term Debt,695,"3,430","3,005","2,766","10,863",CRM
+Total Debt,"1,720","3,646","3,058","2,801","10,977",CRM
+"Other Liabilities, Total",846,447,"3,391","4,314","4,427",CRM
+Total Liabilities,"11,608","15,132","21,241","24,808","37,078",CRM
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,0,CRM
+Common Stock,1,1,1,1,1,CRM
+Additional Paid-In Capital,"9,752","13,927","32,116","35,601","50,919",CRM
+Ret. Earn.(Accum. Deficit),635,"1,735","1,861","5,933","7,377",CRM
+"Other Equity, Total",(12),(58),(93),(42),(166),CRM
+Total Equity,"10,376","15,605","33,885","41,493","58,131",CRM
+Total Liabilities & Shareholders’ Equity,"21,984","30,737","55,126","66,301","95,209",CRM
+Ttl Comm. Shares Outs.,730,770,893,919,989,CRM
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,CRM

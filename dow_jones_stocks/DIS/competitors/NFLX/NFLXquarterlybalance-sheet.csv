@@ -1,0 +1,38 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash,"4,104","4,569","4,656","5,364",NFLX
+Cash & Equivalents,"1,924","1,440","1,164",750,NFLX
+Cash and Short Term Invs,"6,028","6,009","5,819","6,114",NFLX
+"Total Receivables, Net",804,825,765,875,NFLX
+Prepaid Expenses,324,419,368,392,NFLX
+"Other Curr. Assets, Total",914,845,888,"1,436",NFLX
+Total Current Assets,"8,070","8,098","7,841","8,817",NFLX
+Buildings,911,"1,032","1,035","1,087",NFLX
+Land/Improvements,82,82,85,85,NFLX
+Machinery/Equipment,524,592,560,565,NFLX
+Construction in Progress,282,220,196,190,NFLX
+Other Prop./Plant/Equip.,"2,586","2,631","2,492","2,366",NFLX
+Prop./Plant/Equip. - Gross,"4,386","4,558","4,368","4,294",NFLX
+Accumulated Depreciation,(616),(690),(665),(710),NFLX
+Prop./Plant/Equip. - Net,"3,770","3,868","3,703","3,584",NFLX
+Intangibles - Net,"30,920","31,192","32,533","32,777",NFLX
+Other Long Term Assets,"1,677","2,173","2,274","2,384",NFLX
+Total Assets,"44,585","45,331","46,351","47,562",NFLX
+Accounts Payable,"5,130","4,683","4,679","4,786",NFLX
+Accrued Expenses,"1,449","1,817","1,596","1,804",NFLX
+Notes Payable/ST Debt,0,0,0,0,NFLX
+Curr. Port. LT Dbt/Cap Ls.,700,0,0,0,NFLX
+"Other Curr. Lblts, Total","1,209","1,239","1,225","1,176",NFLX
+Total Current Liabilities,"8,489","7,740","7,500","7,766",NFLX
+Total Long Term Debt,"14,693","14,535","14,233","13,888",NFLX
+Total Debt,"15,393","14,535","14,233","13,888",NFLX
+"Other Liabilities, Total","5,553","5,513","5,542","5,380",NFLX
+Total Liabilities,"28,735","27,787","27,275","27,034",NFLX
+"Pref. Stock-Non Rdmbl, Net",0,--,--,--,NFLX
+Common Stock,"4,025","4,156","4,317","4,474",NFLX
+Ret. Earn.(Accum. Deficit),"12,689","14,287","15,728","17,126",NFLX
+Treasury Stock - Common,(824),(824),(824),(824),NFLX
+"Other Equity, Total",(40),(74),(144),(248),NFLX
+Total Equity,"15,849","17,544","19,076","20,528",NFLX
+Total Liabilities & Shareholders’ Equity,"44,585","45,331","46,351","47,562",NFLX
+Ttl Comm. Shares Outs.,444,444,445,445,NFLX
+Trsy. Shrs-Comm. Primary Iss.,2,2,2,2,NFLX

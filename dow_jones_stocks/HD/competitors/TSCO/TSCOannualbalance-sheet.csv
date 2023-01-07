@@ -1,0 +1,44 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash and Short Term Invs,109,86,84,"1,342",878,TSCO
+"Total Receivables, Net",5,4,0,--,17,TSCO
+Total Inventory,"1,453","1,590","1,603","1,783","2,191",TSCO
+Prepaid Expenses,88,114,100,134,164,TSCO
+"Other Curr. Assets, Total",--,--,1,--,--,TSCO
+Total Current Assets,"1,655","1,794","1,788","3,259","3,250",TSCO
+Buildings,"1,038","1,111","1,243","1,320","1,517",TSCO
+Land/Improvements,99,101,100,100,100,TSCO
+Machinery/Equipment,267,350,440,564,694,TSCO
+Construction in Progress,84,131,39,74,211,TSCO
+Other Prop./Plant/Equip.,606,646,"2,918","3,197","3,686",TSCO
+Prop./Plant/Equip. - Gross,"2,094","2,338","4,740","5,254","6,209",TSCO
+Accumulated Depreciation,"(1,049)","(1,203)","(1,388)","(1,581)","(1,806)",TSCO
+Prop./Plant/Equip. - Net,"1,045","1,134","3,353","3,673","4,404",TSCO
+"Goodwill, Net",124,124,93,32,32,TSCO
+Intangibles - Net,--,--,31,23,23,TSCO
+Other Long Term Assets,26,25,24,30,55,TSCO
+Total Assets,"2,869","3,085","5,289","7,049","7,767",TSCO
+Accounts Payable,577,620,643,976,"1,156",TSCO
+Accrued Expenses,233,286,564,743,905,TSCO
+Notes Payable/ST Debt,0,0,0,0,0,TSCO
+Curr. Port. LT Dbt/Cap Ls.,29,30,34,5,4,TSCO
+Income Taxes Payable,11,2,6,20,0,TSCO
+Other Current Liabilities,--,--,0,--,--,TSCO
+"Other Curr. Lblts, Total",11,2,6,20,0,TSCO
+Total Current Liabilities,849,938,"1,248","1,744","2,065",TSCO
+Long Term Debt,401,381,366,984,986,TSCO
+Capital Lease Obligations,33,29,30,33,33,TSCO
+Total Long Term Debt,434,410,397,"1,017","1,019",TSCO
+Total Debt,462,440,431,"1,022","1,023",TSCO
+Deferred Income Tax,--,--,0,0,--,TSCO
+"Other Liabilities, Total",167,175,"2,078","2,364","2,681",TSCO
+Total Liabilities,"1,450","1,523","3,722","5,125","5,765",TSCO
+"Pref. Stock-Non Rdmbl, Net",0,--,--,0,--,TSCO
+Common Stock,1,1,1,1,1,TSCO
+Additional Paid-In Capital,716,823,967,"1,096","1,211",TSCO
+Ret. Earn.(Accum. Deficit),"2,829","3,214","3,613","4,187","4,945",TSCO
+Treasury Stock - Common,"(2,131)","(2,481)","(3,014)","(3,357)","(4,156)",TSCO
+"Other Equity, Total",3,4,0,(3),1,TSCO
+Total Equity,"1,419","1,562","1,567","1,924","2,003",TSCO
+Total Liabilities & Shareholders’ Equity,"2,869","3,085","5,289","7,049","7,767",TSCO
+Ttl Comm. Shares Outs.,125,122,118,116,113,TSCO
+Trsy. Shrs-Comm. Primary Iss.,45,50,55,59,63,TSCO

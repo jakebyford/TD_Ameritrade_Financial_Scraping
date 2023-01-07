@@ -1,0 +1,39 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"13,854","14,318","14,981","18,482",GS
+"Cost of Revenue, Total","2,405","2,629","4,434","7,824",GS
+Selling/Gen/Admin Expense,"1,388","1,274","1,428","1,378",GS
+Labor & Related Expense,"3,246","4,083","3,695","3,606",GS
+"Sell/Gen/AdminExpenses,Tot","4,634","5,357","5,123","4,984",GS
+Depreciation/Amortization,488,492,570,666,GS
+Other Operating Expense,958,623,643,737,GS
+"Other, Net",344,561,667,515,GS
+"Other Operat Expse, Total","1,302","1,184","1,310","1,252",GS
+Total Operating Expense,"8,829","9,662","11,437","14,726",GS
+Total Operating Income,"5,025","4,656","3,544","3,756",GS
+Income Before Tax,"5,025","4,656","3,544","3,756",GS
+Income Tax - Total,"1,090",717,617,687,GS
+Income After Tax,"3,935","3,939","2,927","3,069",GS
+Net Inc Before Extra Items,"3,935","3,939","2,927","3,069",GS
+Total Net Income,"3,935","3,939","2,927","3,069",GS
+Total Adjust to Net Income,(126),(108),(141),(107),GS
+Income Available to Common Excl. Extra. Items,"3,809","3,831","2,786","2,962",GS
+Income Available to Common Incl. Extra. Items,"3,809","3,831","2,786","2,962",GS
+Basic/Primary Weighted Average Shares,347,351,355,353,GS
+Basic/Primary EPS Excl. Extra. Items,10.99,10.91,7.85,8.40,GS
+Basic/Primary EPS Incl. Extra. Items,10.99,10.91,7.85,8.40,GS
+Diluted Weighted Average Shares,353,356,361,359,GS
+Diluted EPS Excl. Extra. Items,10.81,10.76,7.73,8.25,GS
+Diluted EPS Incl. Extra. Items,10.81,10.76,7.73,8.25,GS
+Div/Share-ComStockPrimIssue,2.00,2.00,2.00,2.50,GS
+Gross Divid - Common Stock,698,711,719,893,GS
+Pro Forma Net Income,--,--,--,--,GS
+"Interest Expense, Suppl","1,215","1,385","3,117","6,507",GS
+"Depreciat/Amort, Suppl",457,473,519,612,GS
+Total Special Items,191,125,91,191,GS
+Normalzd Income Before Tax,"5,216","4,781","3,635","3,947",GS
+Efct/SpecItemsIncTxs (STEC),41,19,16,35,GS
+IncTxsExcl ImpctofSpec Itms,"1,131",736,633,722,GS
+Normalized Income After Tax,"4,085","4,045","3,002","3,225",GS
+Normalzd Inc Avail to Common,"3,959","3,937","2,861","3,118",GS
+Basic Normalized EPS,11.42,11.21,8.06,8.84,GS
+Diluted Normalized EPS,11.23,11.06,7.94,8.68,GS

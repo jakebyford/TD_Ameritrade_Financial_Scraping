@@ -1,0 +1,52 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash & Equivalents,36,64,283,"2,240","1,063",ZM
+Short Term Investments,103,113,572,"2,004","4,356",ZM
+Cash and Short Term Invs,139,176,855,"4,245","5,419",ZM
+"Trade Accts Recvble, Gross",23,58,116,307,385,ZM
+Prov. for Doubtful Accts,(1),(2),(8),(37),(25),ZM
+"Total Receivables, Net",25,64,120,295,420,ZM
+Prepaid Expenses,5,8,22,61,113,ZM
+Restricted Cash - Current,1,2,49,50,10,ZM
+Other Current Assets,14,26,49,142,222,ZM
+"Other Curr. Assets, Total",15,29,98,193,232,ZM
+Total Current Assets,183,277,"1,096","4,793","6,184",ZM
+Buildings,2,8,18,24,25,ZM
+Machinery/Equipment,16,39,62,174,284,ZM
+Other Prop./Plant/Equip.,1,2,73,102,101,ZM
+Prop./Plant/Equip. - Gross,18,49,153,300,410,ZM
+Accumulated Depreciation,(5),(11),(27),(52),(92),ZM
+Prop./Plant/Equip. - Net,13,37,126,248,318,ZM
+"Goodwill, Net",--,--,--,24,28,ZM
+LT Invt. - Affiliate Comp.,--,--,3,14,--,ZM
+LT Investments - Other,--,--,--,--,368,ZM
+Long Term Investments,--,--,3,14,368,ZM
+Note Rcvble - Long Term,--,--,9,28,56,ZM
+Deferred Charges,17,31,46,170,181,ZM
+Def. Inc. Tax - LT Asset,--,--,--,--,382,ZM
+Other Long Term Assets,2,9,10,22,35,ZM
+Total Assets,215,355,"1,290","5,298","7,551",ZM
+Accounts Payable,3,5,2,9,8,ZM
+Accrued Expenses,13,26,111,373,401,ZM
+Notes Payable/ST Debt,0,0,0,0,0,ZM
+Customer Advances,50,115,210,858,"1,141",ZM
+Income Taxes Payable,0,1,--,--,--,ZM
+Other Current Liabilities,2,5,12,20,29,ZM
+"Other Curr. Lblts, Total",53,122,221,878,"1,171",ZM
+Total Current Liabilities,69,152,334,"1,260","1,580",ZM
+Total Long Term Debt,0,15,0,0,0,ZM
+Total Debt,0,15,0,0,0,ZM
+"Other Liabilities, Total",14,35,122,177,192,ZM
+Total Liabilities,82,202,456,"1,437","1,771",ZM
+Redeemable Preferred Stock,--,--,0,--,--,ZM
+"Pref. Stock-Non Rdmbl, Net",160,160,--,--,--,ZM
+Common Stock,0,0,0,0,0,ZM
+Additional Paid-In Capital,7,18,833,"3,187","3,750",ZM
+Ret. Earn.(Accum. Deficit),(33),(25),0,672,"2,048",ZM
+"Other Equity, Total",(1),0,1,1,(18),ZM
+Total Equity,133,152,834,"3,861","5,780",ZM
+Total Liabilities & Shareholders’ Equity,215,355,"1,290","5,298","7,551",ZM
+Shr Outs.-Com. Primary Iss.,24,24,123,216,247,ZM
+Shr Outs.-Com. Stk. Iss. 2,232,232,155,78,52,ZM
+Ttl Comm. Shares Outs.,256,256,279,294,299,ZM
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,ZM
+Trsy. Shrs-Comm. Iss. 2,0,0,0,0,0,ZM

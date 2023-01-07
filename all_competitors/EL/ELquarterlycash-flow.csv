@@ -1,0 +1,40 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Net Income,"1,785","2,358","2,408",490,EL
+Depreciation/Depletion,364,546,727,178,EL
+Deferred Taxes,(43),(90),(149),(53),EL
+Unusual Items,4,224,263,11,EL
+Equity in Net Earnings/Loss,(1),(1),(1),0,EL
+Other Non-Cash Items,209,308,346,64,EL
+Non-Cash Items,212,531,608,75,EL
+"Cash Taxes Pd, Supplemental",317,626,760,113,EL
+"Cash Interest Pd, Suppl",80,110,163,33,EL
+Accounts Receivable,(407),(548),(10),(579),EL
+Inventories,(164),(398),(602),(229),EL
+Other Assets,(57),(61),(101),(3),EL
+Accounts Payable,(40),(199),210,(375),EL
+Accrued Expenses,196,(170),(51),(154),EL
+Changes in Working Capital,(472),"(1,376)",(554),"(1,340)",EL
+Total Cash from Operations,"1,846","1,969","3,040",(650),EL
+Capital Expenditures,(459),(658),"(1,040)",(152),EL
+Acquisition of Business,(3),(3),(3),--,EL
+"Investment, Net",58,108,108,138,EL
+Purchase of Investments,(10),(10),(10),0,EL
+Other Investing Cash Flow,0,0,0,--,EL
+"OtherInvestCashFlowItms,Tot",45,95,95,138,EL
+Total Cash from Investing,(414),(563),(945),(14),EL
+Financing Cash Flow Items,(1),(1),(16),--,EL
+Total Cash Dividends Paid,(409),(624),(840),(215),EL
+"Common Stock, Net","(1,428)","(1,998)","(2,309)",(110),EL
+Options Exercised,77,127,151,26,EL
+"Iss (Retirmnt) of Stock,Net","(1,351)","(1,871)","(2,158)",(84),EL
+"Short Term Debt, Net",(4),(4),(4),249,EL
+Long Term Debt Issued,--,0,0,--,EL
+Long Term Debt Reduction,(10),(16),(18),--,EL
+"Long Term Debt, Net",(10),(16),(18),(254),EL
+"Iss (Retirmnt) of Debt, Net",(14),(20),(22),(5),EL
+Total Cash From Financing,"(1,775)","(2,516)","(3,036)",(304),EL
+Foreign Exchange Effects,(12),(12),(60),(51),EL
+Net Change in Cash,(355),"(1,122)","(1,001)","(1,019)",EL
+NetCash-BeginBal/RsvdforFutUse,"4,958","4,958","4,958","3,957",EL
+NetCash-EndBal/RsrvforFutUse,"4,603","3,836","3,957","2,938",EL
+"Depreciation, Supplemental",364,546,727,178,EL

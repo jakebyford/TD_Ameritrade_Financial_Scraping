@@ -1,0 +1,39 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"14,793","13,991","16,681","15,956",BA
+"Cost of Revenue, Total","17,307","13,645","14,559","16,778",BA
+"Sell/Gen/AdminExpenses,Tot",988,863,668,"1,226",BA
+Research & Development,678,633,698,727,BA
+Unusual Expense (Income),6,(1),(1),0,BA
+Loss(Gain)/Sale Asts (Oper),6,(1),(1),0,BA
+Total Operating Expense,"18,964","15,160","15,907","18,755",BA
+Total Operating Income,"(4,171)","(1,169)",774,"(2,799)",BA
+"Inter Expse,Net Non-Operat",(661),(630),(650),(621),BA
+OtherNon-OperatInc (Expnse),132,181,253,288,BA
+"Other, Net",132,181,253,288,BA
+Income Before Tax,"(4,700)","(1,618)",377,"(3,132)",BA
+Income Tax - Total,(536),(376),217,176,BA
+Income After Tax,"(4,164)","(1,242)",160,"(3,308)",BA
+Minority Interest,21,23,33,33,BA
+Net Inc Before Extra Items,"(4,143)","(1,219)",193,"(3,275)",BA
+Total Net Income,"(4,143)","(1,219)",193,"(3,275)",BA
+Income Available to Common Excl. Extra. Items,"(4,143)","(1,219)",193,"(3,275)",BA
+Income Available to Common Incl. Extra. Items,"(4,143)","(1,219)",193,"(3,275)",BA
+Basic/Primary Weighted Average Shares,589,592,596,596,BA
+Basic/Primary EPS Excl. Extra. Items,(7.04),(2.06),0.32,(5.49),BA
+Basic/Primary EPS Incl. Extra. Items,(7.04),(2.06),0.32,(5.49),BA
+Diluted Weighted Average Shares,589,592,596,596,BA
+Diluted EPS Excl. Extra. Items,(7.04),(2.06),0.32,(5.49),BA
+Diluted EPS Incl. Extra. Items,(7.04),(2.06),0.32,(5.49),BA
+Div/Share-ComStockPrimIssue,--,0.00,0.00,0.00,BA
+Gross Divid - Common Stock,0,0,0,0,BA
+Pro Forma Net Income,--,--,--,--,BA
+"Interest Expense, Suppl",661,630,650,621,BA
+"Depreciat/Amort, Suppl",534,486,498,493,BA
+Total Special Items,457,571,384,805,BA
+Normalzd Income Before Tax,"(4,243)","(1,047)",761,"(2,327)",BA
+Efct/SpecItemsIncTxs (STEC),160,200,221,282,BA
+IncTxsExcl ImpctofSpec Itms,(376),(176),438,458,BA
+Normalized Income After Tax,"(3,867)",(871),323,"(2,785)",BA
+Normalzd Inc Avail to Common,"(3,846)",(848),356,"(2,752)",BA
+Basic Normalized EPS,(6.54),(1.43),0.60,(4.61),BA
+Diluted Normalized EPS,(6.54),(1.43),0.60,(4.61),BA

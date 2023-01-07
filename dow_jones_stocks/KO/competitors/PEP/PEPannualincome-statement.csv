@@ -1,0 +1,51 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"63,525","64,661","67,161","70,372","79,474",PEP
+"Cost of Revenue, Total","28,796","29,378","29,983","31,735","37,045",PEP
+Selling/Gen/Admin Expense,"21,102","21,546","22,808","24,059","26,501",PEP
+Labor & Related Expense,--,--,--,264,301,PEP
+Advertising Expense,"2,400","2,600","3,000","3,000","3,500",PEP
+"Sell/Gen/AdminExpenses,Tot","23,502","24,146","25,808","27,323","30,302",PEP
+Research & Development,737,680,711,719,752,PEP
+"Inter/Invest Inc, Operating",(15),--,(55),(9),(20),PEP
+Restructuring Charge,229,308,370,289,247,PEP
+Impair-Assets Held for Sale,--,75,55,255,(4),PEP
+Other Unusual Expnse (In),--,--,273,205,12,PEP
+Unusual Expense (Income),229,383,698,749,255,PEP
+Total Operating Expense,"53,249","54,587","57,145","60,517","68,334",PEP
+Total Operating Income,"10,276","10,074","10,016","9,855","11,140",PEP
+"Inter Expse,Net Non-Operat","(1,050)","(1,219)",(935),"(1,128)","(1,863)",PEP
+"Inter Income, Non-Operating",244,--,--,--,--,PEP
+"Invest Income, Non-Operat",(101),--,--,--,--,PEP
+"Inter/Invest Inc, Non-Oper",143,--,--,--,--,PEP
+OtherNon-OperatInc (Expnse),233,334,231,342,544,PEP
+"Other, Net",233,334,231,342,544,PEP
+Income Before Tax,"9,602","9,189","9,312","9,069","9,821",PEP
+Income Tax - Total,"2,194","(3,342)","1,967","1,894","1,952",PEP
+Income After Tax,"7,408","12,531","7,345","7,175","7,869",PEP
+Minority Interest,(51),(44),(39),(55),(61),PEP
+Net Inc Before Extra Items,"7,357","12,487","7,306","7,120","7,808",PEP
+Total Extraordinary Items,"(2,500)",28,8,--,(190),PEP
+Total Net Income,"4,857","12,515","7,314","7,120","7,618",PEP
+Total Adjust to Net Income,(4),(2),0,0,--,PEP
+Income Available to Common Excl. Extra. Items,"7,353","12,485","7,306","7,120","7,808",PEP
+Income Available to Common Incl. Extra. Items,"4,853","12,513","7,314","7,120","7,618",PEP
+Basic/Primary Weighted Average Shares,"1,425","1,415","1,399","1,385","1,382",PEP
+Basic/Primary EPS Excl. Extra. Items,5.16,8.82,5.22,5.14,5.65,PEP
+Basic/Primary EPS Incl. Extra. Items,3.41,8.84,5.23,5.14,5.51,PEP
+Dilution Adjustment,4,2,--,--,--,PEP
+Diluted Weighted Average Shares,"1,438","1,425","1,407","1,392","1,389",PEP
+Diluted EPS Excl. Extra. Items,5.12,8.76,5.19,5.11,5.62,PEP
+Diluted EPS Incl. Extra. Items,3.38,8.78,5.20,5.11,5.48,PEP
+Div/Share-ComStockPrimIssue,3.17,3.59,3.79,4.02,4.25,PEP
+Gross Divid - Common Stock,"4,536","5,098","5,323","5,589","5,896",PEP
+Pro Forma Net Income,--,--,--,--,--,PEP
+"Interest Expense, Suppl","1,050","1,219",935,"1,128","1,863",PEP
+"Depreciat/Amort, Suppl","2,301","2,330","2,351","2,458","2,619",PEP
+Total Special Items,229,383,698,"1,523",403,PEP
+Normalzd Income Before Tax,"9,831","9,572","10,010","10,592","10,224",PEP
+Efct/SpecItemsIncTxs (STEC),52,134,(120),(108),70,PEP
+IncTxsExcl ImpctofSpec Itms,"2,246","(3,208)","1,847","1,786","2,022",PEP
+Normalized Income After Tax,"7,585","12,780","8,163","8,806","8,202",PEP
+Normalzd Inc Avail to Common,"7,530","12,734","8,124","8,751","8,141",PEP
+Basic Normalized EPS,5.28,9.00,5.81,6.32,5.89,PEP
+Diluted Normalized EPS,5.24,8.94,5.77,6.29,5.86,PEP

@@ -1,0 +1,47 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,821,879,898,803,933,ROG
+"Cost of Revenue, Total",502,568,584,511,584,ROG
+"Sell/Gen/AdminExpenses,Tot",162,164,169,182,193,ROG
+Research & Development,30,33,32,29,30,ROG
+Depreciation/Amortization,--,--,2,0,--,ROG
+Restructuring Charge,4,4,1,12,3,ROG
+Impair-Assets Held for Use,--,--,2,1,0,ROG
+Other Unusual Expnse (In),--,--,52,0,1,ROG
+Unusual Expense (Income),4,4,56,13,3,ROG
+Loss(Gain)/Sale Asts (Oper),--,--,1,0,(1),ROG
+"Other, Net",(5),(3),(1),0,6,ROG
+"Other Operat Expse, Total",(5),(3),(1),0,6,ROG
+Total Operating Expense,692,766,841,735,816,ROG
+Total Operating Income,129,113,57,67,117,ROG
+"Inter Expse,Net Non-Operat",(6),(7),(8),(4),(2),ROG
+"Inter Income, Non-Operating",--,--,2,0,1,ROG
+"Invest Income, Non-Operat",7,3,3,2,7,ROG
+"Inter/Invest Inc, Non-Oper",7,3,5,2,8,ROG
+"Inter Inc(Exp),Net Non-Oper",--,--,(1),0,--,ROG
+"Other, Net",3,1,2,4,4,ROG
+Income Before Tax,133,111,55,69,126,ROG
+Income Tax - Total,39,23,8,19,18,ROG
+Income After Tax,94,88,47,50,108,ROG
+Net Inc Before Extra Items,94,88,47,50,108,ROG
+Total Extraordinary Items,(14),0,--,--,--,ROG
+Total Net Income,80,88,47,50,108,ROG
+Income Available to Common Excl. Extra. Items,94,88,47,50,108,ROG
+Income Available to Common Incl. Extra. Items,80,88,47,50,108,ROG
+Basic/Primary Weighted Average Shares,18,18,19,19,19,ROG
+Basic/Primary EPS Excl. Extra. Items,5.19,4.78,2.55,2.68,5.77,ROG
+Basic/Primary EPS Incl. Extra. Items,4.43,4.77,2.55,2.68,5.77,ROG
+Diluted Weighted Average Shares,19,19,19,19,19,ROG
+Diluted EPS Excl. Extra. Items,5.08,4.71,2.53,2.67,5.73,ROG
+Diluted EPS Incl. Extra. Items,4.34,4.70,2.53,2.67,5.73,ROG
+Gross Divid - Common Stock,0,0,0,0,0,ROG
+Pro Forma Net Income,--,--,--,--,--,ROG
+"Interest Expense, Suppl",6,7,8,4,2,ROG
+"Depreciat/Amort, Suppl",29,34,31,29,29,ROG
+Total Special Items,4,4,56,18,5,ROG
+Normalzd Income Before Tax,136,115,111,86,131,ROG
+Efct/SpecItemsIncTxs (STEC),1,1,8,5,1,ROG
+IncTxsExcl ImpctofSpec Itms,40,24,16,23,19,ROG
+Normalized Income After Tax,97,91,95,63,113,ROG
+Normalzd Inc Avail to Common,97,91,95,63,113,ROG
+Basic Normalized EPS,5.33,4.96,5.12,3.37,6.01,ROG
+Diluted Normalized EPS,5.21,4.88,5.09,3.37,5.97,ROG

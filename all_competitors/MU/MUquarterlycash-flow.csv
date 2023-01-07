@@ -1,0 +1,30 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Net Income,"4,569","7,195","8,687",(195),MU
+Depreciation/Depletion,"3,413","5,234","7,116","1,921",MU
+Unusual Items,83,126,127,0,MU
+Other Non-Cash Items,247,378,514,146,MU
+Non-Cash Items,330,504,641,146,MU
+Accounts Receivable,(44),(906),190,"1,842",MU
+Inventories,(900),"(1,146)","(2,179)","(1,697)",MU
+Payable/Accrued,107,382,744,"(1,056)",MU
+Changes in Working Capital,(746),"(1,529)","(1,263)",(929),MU
+Total Cash from Operations,"7,566","11,404","15,181",943,MU
+Capital Expenditures,"(5,876)","(8,454)","(12,067)","(2,449)",MU
+Sale of Fixed Assets,893,888,888,0,MU
+Sale/Maturity of Investment,803,"1,222","1,615",362,MU
+Purchase of Investments,(922),"(1,359)","(1,770)",(90),MU
+Other Investing Cash Flow,(74),(58),(251),(89),MU
+"OtherInvestCashFlowItms,Tot",700,693,482,183,MU
+Total Cash from Investing,"(5,176)","(7,761)","(11,585)","(2,266)",MU
+Financing Cash Flow Items,5,(33),70,(146),MU
+Total Cash Dividends Paid,(224),(335),(461),(126),MU
+"Iss (Retirmnt) of Stock,Net",(779),"(1,764)","(2,557)",(425),MU
+Long Term Debt Issued,"2,000","2,000","2,000","3,349",MU
+Long Term Debt Reduction,"(1,981)","(2,008)","(2,032)",(20),MU
+"Iss (Retirmnt) of Debt, Net",19,(8),(32),"3,329",MU
+Total Cash From Financing,(979),"(2,140)","(2,980)","2,632",MU
+Foreign Exchange Effects,(16),(71),(106),(6),MU
+Net Change in Cash,"1,395","1,432",510,"1,303",MU
+NetCash-BeginBal/RsvdforFutUse,"7,829","7,829","7,829","8,339",MU
+NetCash-EndBal/RsrvforFutUse,"9,224","9,261","8,339","9,642",MU
+"Depreciation, Supplemental","3,413","5,234","7,116","1,921",MU

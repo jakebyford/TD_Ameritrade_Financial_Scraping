@@ -1,0 +1,37 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"22,025","7,870","17,781","26,404",PFE
+Depreciation/Depletion,"5,191","1,187","2,362","3,545",PFE
+Deferred Taxes,"(4,293)","(2,321)","(3,461)","(3,399)",PFE
+Discontinued Operations,91,9,(31),(4),PFE
+Extraordinary Item,0,--,--,--,PFE
+Unusual Items,276,31,58,287,PFE
+Other Non-Cash Items,"(3,514)",497,"1,497","1,457",PFE
+Non-Cash Items,"(3,147)",537,"1,524","1,740",PFE
+"Cash Taxes Pd, Supplemental","7,427",354,"3,098","4,919",PFE
+"Cash Interest Pd, Suppl","1,467",453,771,"1,121",PFE
+Changes in Working Capital,"12,804",(732),"(3,494)","(7,605)",PFE
+Total Cash from Operations,"32,580","6,541","14,712","20,685",PFE
+Capital Expenditures,"(2,711)",(643),"(1,394)","(2,235)",PFE
+Acquisition of Business,0,"(6,225)","(6,225)","(6,225)",PFE
+Sale/Maturity of Investment,"28,096","13,473","20,377","35,533",PFE
+"Investment, Net","(8,088)","3,409","(3,153)","(10,877)",PFE
+Purchase of Investments,"(39,525)","(9,434)","(20,261)","(31,328)",PFE
+Other Investing Cash Flow,(318),(13),(90),"3,759",PFE
+"OtherInvestCashFlowItms,Tot","(19,835)","1,210","(9,352)","(9,138)",PFE
+Total Cash from Investing,"(22,546)",567,"(10,746)","(11,373)",PFE
+Financing Cash Flow Items,16,(500),(347),(342),PFE
+Total Cash Dividends Paid,"(8,729)","(2,249)","(4,493)","(6,738)",PFE
+"Iss (Retirmnt) of Stock,Net",0,"(2,000)","(2,000)","(2,000)",PFE
+Short Term Debt Issued,0,--,"4,012","3,887",PFE
+Short Term Debt Reduction,0,--,--,"(3,887)",PFE
+"Short Term Debt, Net",(96),(220),"4,391",870,PFE
+Long Term Debt Issued,997,--,--,0,PFE
+Long Term Debt Reduction,"(2,004)","(1,609)","(1,609)","(1,609)",PFE
+"Long Term Debt, Net","(1,007)","(1,609)","(1,609)","(1,609)",PFE
+"Iss (Retirmnt) of Debt, Net","(1,103)","(1,829)","2,782",(739),PFE
+Total Cash From Financing,"(9,816)","(6,578)","(4,058)","(9,819)",PFE
+Foreign Exchange Effects,(59),(1),(67),(139),PFE
+Net Change in Cash,159,529,(159),(646),PFE
+NetCash-BeginBal/RsvdforFutUse,"1,825","1,983","1,983","1,983",PFE
+NetCash-EndBal/RsrvforFutUse,"1,983","2,513","1,824","1,338",PFE
+"Depreciation, Supplemental","5,191","1,187","2,362","3,545",PFE

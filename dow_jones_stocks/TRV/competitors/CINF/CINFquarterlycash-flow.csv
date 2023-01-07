@@ -1,0 +1,27 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"2,946",(273),"(1,081)","(1,499)",CINF
+Depreciation/Depletion,93,29,55,81,CINF
+Deferred Taxes,477,(128),(391),(571),CINF
+Non-Cash Items,78,23,43,63,CINF
+"Cash Taxes Pd, Supplemental",257,121,142,144,CINF
+"Cash Interest Pd, Suppl",52,--,26,27,CINF
+Changes in Working Capital,"(1,613)",547,"2,129","3,347",CINF
+Total Cash from Operations,"1,981",198,755,"1,421",CINF
+Capital Expenditures,(15),(4),(8),(12),CINF
+Sale/Maturity of Investment,"1,597",407,880,"1,244",CINF
+"Investment, Net",64,(21),(47),(65),CINF
+Purchase of Investments,"(2,701)",(550),"(1,160)","(1,825)",CINF
+Other Investing Cash Flow,(2),6,11,12,CINF
+"OtherInvestCashFlowItms,Tot","(1,042)",(158),(316),(634),CINF
+Total Cash from Investing,"(1,057)",(162),(324),(646),CINF
+Financing Cash Flow Items,(159),(43),(64),(114),CINF
+Total Cash Dividends Paid,(395),(99),(208),(316),CINF
+"Common Stock, Net",(144),(45),(196),(399),CINF
+Options Exercised,13,4,6,8,CINF
+"Iss (Retirmnt) of Stock,Net",(131),(41),(190),(391),CINF
+"Iss (Retirmnt) of Debt, Net",0,(5),(10),(10),CINF
+Total Cash From Financing,(685),(188),(472),(831),CINF
+Net Change in Cash,239,(152),(41),(56),CINF
+NetCash-BeginBal/RsvdforFutUse,900,"1,139","1,139","1,139",CINF
+NetCash-EndBal/RsrvforFutUse,"1,139",987,"1,098","1,083",CINF
+"Depreciation, Supplemental",93,29,55,81,CINF

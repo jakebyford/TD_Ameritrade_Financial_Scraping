@@ -1,0 +1,35 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Net Income,"1,376",114,159,208,ZM
+Depreciation/Depletion,48,15,36,58,ZM
+Unusual Items,(44),36,71,78,ZM
+Equity in Net Earnings/Loss,25,4,5,4,ZM
+Other Non-Cash Items,386,297,641,"1,053",ZM
+Non-Cash Items,368,337,717,"1,135",ZM
+Accounts Receivable,(159),(84),(126),(238),ZM
+Prepaid Expenses,(156),(27),(137),(164),ZM
+Other Assets,(247),(66),(157),(218),ZM
+Accounts Payable,(2),11,16,25,ZM
+Accrued Expenses,84,72,53,99,ZM
+Changes in Working Capital,(186),60,(130),(322),ZM
+Total Cash from Operations,"1,605",526,783,"1,079",ZM
+Purchase of Fixed Assets,(133),(25),(53),(76),ZM
+Purchase/Acq of Intangibles,(13),(3),(3),(11),ZM
+Capital Expenditures,(146),(28),(56),(86),ZM
+Acquisition of Business,(4),--,(121),(121),ZM
+Sale/Maturity of Investment,"2,030",609,"1,307","2,138",ZM
+Purchase of Investments,"(4,740)",(623),"(1,638)","(1,992)",ZM
+Other Investing Cash Flow,0,--,--,--,ZM
+"OtherInvestCashFlowItms,Tot","(2,713)",(14),(452),26,ZM
+Total Cash from Investing,"(2,859)",(42),(508),(61),ZM
+Financing Cash Flow Items,(40),(4),(3),1,ZM
+Sale/Issuance of Common,59,--,35,35,ZM
+Repurch/Retirement Common,--,(132),(426),(991),ZM
+"Common Stock, Net",59,(132),(391),(956),ZM
+Options Exercised,14,3,5,7,ZM
+"Iss (Retirmnt) of Stock,Net",74,(129),(386),(949),ZM
+Total Cash From Financing,34,(133),(389),(949),ZM
+Foreign Exchange Effects,--,(9),(16),(37),ZM
+Net Change in Cash,"(1,220)",341,(130),33,ZM
+NetCash-BeginBal/RsvdforFutUse,"2,293","1,073","1,073","1,073",ZM
+NetCash-EndBal/RsrvforFutUse,"1,073","1,415",943,"1,106",ZM
+"Depreciation, Supplemental",48,15,36,58,ZM

@@ -1,0 +1,44 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash and Short Term Invs,128,113,99,91,HXL
+"Total Receivables, Net",191,245,264,236,HXL
+Invent. - Finished Goods,91,98,100,111,HXL
+Invent. - Work In Progress,41,36,38,40,HXL
+Invent. - Raw Materials,114,132,134,152,HXL
+Total Inventory,246,266,272,303,HXL
+Prepaid Expenses,40,48,44,43,HXL
+"Other Curr. Assets, Total",13,13,13,13,HXL
+Total Current Assets,616,684,692,685,HXL
+Prop./Plant/Equip. - Gross,"3,110","3,089","3,045","3,005",HXL
+Accumulated Depreciation,"(1,364)","(1,377)","(1,375)","(1,375)",HXL
+Prop./Plant/Equip. - Net,"1,746","1,712","1,670","1,629",HXL
+Intangibles - Net,268,264,259,253,HXL
+Long Term Investments,45,46,46,47,HXL
+Other Long Term Assets,145,148,152,161,HXL
+Total Assets,"2,819","2,854","2,819","2,776",HXL
+Accounts Payable,113,113,103,113,HXL
+Accrued Expenses,128,126,147,130,HXL
+Notes Payable/ST Debt,0,0,0,0,HXL
+Curr. Port. LT Dbt/Cap Ls.,1,1,1,0,HXL
+"Other Curr. Lblts, Total",6,8,21,40,HXL
+Total Current Liabilities,248,247,271,284,HXL
+Long Term Debt,822,856,810,796,HXL
+Capital Lease Obligations,0,1,2,1,HXL
+Total Long Term Debt,822,858,812,797,HXL
+Total Debt,823,858,813,797,HXL
+Deferred Income Tax,140,136,129,121,HXL
+Pension Benefits - Underfunded,53,52,49,47,HXL
+Other LT Liabilities,71,74,79,81,HXL
+"Other Liabilities, Total",124,126,127,129,HXL
+Total Liabilities,"1,334","1,366","1,339","1,331",HXL
+Common Stock,1,1,1,1,HXL
+Additional Paid-In Capital,879,890,894,899,HXL
+Ret. Earn.(Accum. Deficit),"2,013","2,022","2,058","2,076",HXL
+Treasury Stock - Common,"(1,280)","(1,282)","(1,282)","(1,282)",HXL
+Cum. Trans. Adjustment,(62),(77),(112),(150),HXL
+Min. Pension Lblty Adj.,(62),(59),(54),(49),HXL
+Other Comprehensive Income,(3),(8),(25),(49),HXL
+"Other Equity, Total",(127),(144),(191),(249),HXL
+Total Equity,"1,486","1,487","1,480","1,445",HXL
+Total Liabilities & Shareholders’ Equity,"2,819","2,854","2,819","2,776",HXL
+Ttl Comm. Shares Outs.,84,84,84,84,HXL
+Trsy. Shrs-Comm. Primary Iss.,26,26,26,26,HXL

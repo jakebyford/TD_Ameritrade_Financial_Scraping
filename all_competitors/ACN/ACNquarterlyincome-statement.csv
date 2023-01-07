@@ -1,0 +1,39 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Total Revenue,"15,047","16,159","15,424","15,748",ACN
+"Cost of Revenue, Total","10,523","10,844","10,478","10,562",ACN
+"Sell/Gen/AdminExpenses,Tot","2,462","2,712","2,678","2,593",ACN
+Unusual Expense (Income),--,96,0,--,ACN
+Total Operating Expense,"12,985","13,652","13,155","13,155",ACN
+Total Operating Income,"2,062","2,507","2,268","2,593",ACN
+"Inter Expse,Net Non-Operat",(11),(12),(13),(7),ACN
+"Inter/Invest Inc, Non-Oper",7,9,23,45,ACN
+OtherNon-OperatInc (Expnse),(7),(9),(33),(29),ACN
+"Other, Net",(7),(9),(33),(29),ACN
+Income Before Tax,"2,050","2,495","2,245","2,602",ACN
+Income Tax - Total,393,675,553,605,ACN
+Income After Tax,"1,658","1,819","1,692","1,996",ACN
+Minority Interest,(23),(33),(27),(31),ACN
+Net Inc Before Extra Items,"1,635","1,786","1,665","1,965",ACN
+Total Net Income,"1,635","1,786","1,665","1,965",ACN
+Income Available to Common Excl. Extra. Items,"1,635","1,786","1,665","1,965",ACN
+Income Available to Common Incl. Extra. Items,"1,635","1,786","1,665","1,965",ACN
+Basic/Primary Weighted Average Shares,634,633,632,630,ACN
+Basic/Primary EPS Excl. Extra. Items,2.58,2.82,2.63,3.12,ACN
+Basic/Primary EPS Incl. Extra. Items,2.58,2.82,2.63,3.12,ACN
+Dilution Adjustment,2,2,2,2,ACN
+Diluted Weighted Average Shares,644,641,640,639,ACN
+Diluted EPS Excl. Extra. Items,2.54,2.79,2.60,3.08,ACN
+Diluted EPS Incl. Extra. Items,2.54,2.79,2.60,3.08,ACN
+Div/Share-ComStockPrimIssue,0.97,0.97,0.97,1.12,ACN
+Gross Divid - Common Stock,616,450,777,705,ACN
+Pro Forma Net Income,--,--,--,--,ACN
+"Interest Expense, Suppl",11,12,13,7,ACN
+"Depreciat/Amort, Suppl",150,414,424,397,ACN
+Total Special Items,--,96,0,--,ACN
+Normalzd Income Before Tax,"2,050","2,591","2,245","2,602",ACN
+Efct/SpecItemsIncTxs (STEC),--,26,0,--,ACN
+IncTxsExcl ImpctofSpec Itms,393,701,553,605,ACN
+Normalized Income After Tax,"1,658","1,890","1,692","1,996",ACN
+Normalzd Inc Avail to Common,"1,635","1,856","1,665","1,965",ACN
+Basic Normalized EPS,2.58,2.93,2.63,3.12,ACN
+Diluted Normalized EPS,2.54,2.90,2.60,3.08,ACN

@@ -1,0 +1,33 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"2,228","1,643","1,062","2,201","1,233",FOXA
+Depreciation/Depletion,171,212,258,300,363,FOXA
+Deferred Taxes,(603),386,283,534,342,FOXA
+Unusual Items,16,26,133,35,0,FOXA
+Other Non-Cash Items,92,93,409,(410),629,FOXA
+Non-Cash Items,108,119,542,(375),629,FOXA
+"Cash Taxes Pd, Supplemental",--,--,88,225,209,FOXA
+"Cash Interest Pd, Suppl",--,--,355,390,383,FOXA
+Accounts Receivable,(166),(166),345,(269),(79),FOXA
+Inventories,(228),197,181,190,(301),FOXA
+Payable/Accrued,(193),133,(306),282,(54),FOXA
+Changes in Working Capital,(587),164,220,(21),(683),FOXA
+Total Cash from Operations,"1,317","2,524","2,365","2,639","1,884",FOXA
+Capital Expenditures,(215),(235),(359),(484),(307),FOXA
+Acquisition of Business,--,--,"(1,061)",(51),(243),FOXA
+Sale of Business,--,--,--,93,83,FOXA
+Sale/Maturity of Investment,--,--,349,0,0,FOXA
+Purchase of Investments,--,(338),(103),(86),(28),FOXA
+Other Investing Cash Flow,343,(64),74,0,(18),FOXA
+"OtherInvestCashFlowItms,Tot",343,(402),(741),(44),(206),FOXA
+Total Cash from Investing,128,(637),"(1,100)",(528),(513),FOXA
+Financing Cash Flow Items,"1,036","(7,715)",(110),461,0,FOXA
+Total Cash Dividends Paid,--,(188),(335),(330),(307),FOXA
+"Iss (Retirmnt) of Stock,Net",--,--,(600),"(1,001)","(1,000)",FOXA
+Long Term Debt Issued,--,"6,750","1,191",0,0,FOXA
+Long Term Debt Reduction,--,--,--,--,(750),FOXA
+"Iss (Retirmnt) of Debt, Net",--,"6,750","1,191",0,(750),FOXA
+Total Cash From Financing,"1,036","(1,153)",146,(870),"(2,057)",FOXA
+Net Change in Cash,"2,481",734,"1,411","1,241",(686),FOXA
+NetCash-BeginBal/RsvdforFutUse,19,"2,500","3,234","4,645","5,886",FOXA
+NetCash-EndBal/RsrvforFutUse,"2,500","3,234","4,645","5,886","5,200",FOXA
+"Depreciation, Supplemental",171,212,258,300,363,FOXA

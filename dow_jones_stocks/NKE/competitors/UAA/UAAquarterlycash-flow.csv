@@ -1,0 +1,36 @@
+items,Q4 2021,Q4 2022,Q1 2023,Q2 2023,ticker
+Net Income,360,(60),8,95,UAA
+Depreciation/Depletion,141,35,34,68,UAA
+Deferred Taxes,(3),(3),(1),(2),UAA
+Unusual Items,90,0,0,1,UAA
+Other Non-Cash Items,54,(2),20,42,UAA
+Non-Cash Items,144,(2),20,43,UAA
+"Cash Taxes Pd, Supplemental",43,--,--,--,UAA
+"Cash Interest Pd, Suppl",25,--,--,--,UAA
+Accounts Receivable,(31),(132),9,(90),UAA
+Inventories,93,(6),(134),(267),UAA
+Prepaid Expenses,10,(4),(8),(15),UAA
+Other Assets,80,28,20,(37),UAA
+Accounts Payable,26,(55),96,167,UAA
+Accrued Expenses,(115),(123),44,19,UAA
+Changes in Working Capital,23,(293),26,(206),UAA
+Total Cash from Operations,665,(321),87,(2),UAA
+Capital Expenditures,(70),(40),(36),(94),UAA
+Acquisition of Business,0,--,--,--,UAA
+Sale of Business,--,--,35,35,UAA
+Sale of Fixed Assets,1,0,0,0,UAA
+"OtherInvestCashFlowItms,Tot",1,0,35,35,UAA
+Total Cash from Investing,(68),(40),(1),(59),UAA
+Financing Cash Flow Items,(8),(11),0,(1),UAA
+"Common Stock, Net",--,(300),(25),(50),UAA
+Options Exercised,95,1,1,2,UAA
+"Iss (Retirmnt) of Stock,Net",95,(299),(24),(48),UAA
+Long Term Debt Issued,0,0,--,--,UAA
+Long Term Debt Reduction,(506),--,0,--,UAA
+"Iss (Retirmnt) of Debt, Net",(506),0,0,--,UAA
+Total Cash From Financing,(419),(311),(24),(49),UAA
+Foreign Exchange Effects,(23),11,(21),(44),UAA
+Net Change in Cash,154,(661),41,(154),UAA
+NetCash-BeginBal/RsvdforFutUse,"1,529","1,683","1,022","1,022",UAA
+NetCash-EndBal/RsrvforFutUse,"1,683","1,022","1,063",868,UAA
+"Depreciation, Supplemental",141,35,34,68,UAA

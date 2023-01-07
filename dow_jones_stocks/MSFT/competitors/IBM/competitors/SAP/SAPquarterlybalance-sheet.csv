@@ -1,0 +1,46 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash & Equivalents,"8,898","8,942","7,492","7,340",SAP
+Short Term Investments,"2,758","2,544",987,"1,482",SAP
+Cash and Short Term Invs,"11,656","11,486","8,479","8,822",SAP
+"Trade Accts Recvble, Net","5,887","9,456","5,287",--,SAP
+Other Receivables,868,537,"4,243","1,008",SAP
+"Total Receivables, Net","6,755","9,993","9,530","9,782",SAP
+"Other Curr. Assets, Total","1,633","1,888","2,112","2,235",SAP
+Total Current Assets,"20,044","23,367","20,121","20,839",SAP
+Prop./Plant/Equip. - Net,"4,977","4,991","4,996","5,032",SAP
+"Goodwill, Net","31,090","32,159","33,913","35,699",SAP
+Intangibles - Net,"3,966","4,032","4,295","4,328",SAP
+Long Term Investments,"6,275","6,597","6,920","6,921",SAP
+Note Rcvble - Long Term,410,399,420,401,SAP
+Other Long Term Assets,"2,628","2,764","3,009","3,214",SAP
+Total Assets,"71,169","76,374","75,575","78,234",SAP
+Accounts Payable,"1,580","1,693","1,939","1,926",SAP
+Notes Payable/ST Debt,931,0,930,0,SAP
+Curr. Port. LT Dbt/Cap Ls.,"3,236","7,143","3,944","8,579",SAP
+Customer Advances,"4,431","7,630","6,883","5,487",SAP
+Income Taxes Payable,304,632,317,285,SAP
+Other Current Liabilities,"5,654","3,929","6,881","3,956",SAP
+"Other Curr. Lblts, Total","10,389","12,191","14,081","9,728",SAP
+Total Current Liabilities,"16,136","21,027","20,894","20,233",SAP
+Long Term Debt,"9,244","10,070","7,208","9,565",SAP
+Capital Lease Obligations,"1,736",--,"1,750",--,SAP
+Total Long Term Debt,"10,980","10,070","8,958","9,565",SAP
+Total Debt,"15,147","17,213","13,832","18,144",SAP
+Deferred Income Tax,291,290,300,295,SAP
+Minority Interest,"2,670","2,768","2,943","3,096",SAP
+Reserves,355,365,382,406,SAP
+Other LT Liabilities,"1,884","2,004","2,254","1,689",SAP
+"Other Liabilities, Total","2,239","2,369","2,636","2,095",SAP
+Total Liabilities,"32,316","36,524","35,731","35,284",SAP
+Common Stock,"1,229","1,229","1,229","1,229",SAP
+Additional Paid-In Capital,"1,918","2,088","2,547","2,834",SAP
+Ret. Earn.(Accum. Deficit),"37,022","40,185","35,109","43,307",SAP
+Treasury Stock - Common,"(3,072)","(3,653)","(4,072)","(4,420)",SAP
+Cum. Trans. Adjustment,"1,830",--,"5,028",--,SAP
+Other Equity,(1),1,--,--,SAP
+Other Comprehensive Income,(73),--,3,--,SAP
+"Other Equity, Total","1,756",1,"5,031",--,SAP
+Total Equity,"38,853","39,850","39,844","42,950",SAP
+Total Liabilities & Shareholders’ Equity,"71,169","76,374","75,575","78,234",SAP
+Ttl Comm. Shares Outs.,"1,180","1,180","1,170","1,170",SAP
+Trsy. Shrs-Comm. Primary Iss.,49,49,59,59,SAP

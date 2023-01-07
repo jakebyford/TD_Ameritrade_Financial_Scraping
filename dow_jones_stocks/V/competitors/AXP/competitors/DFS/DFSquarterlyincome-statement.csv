@@ -1,0 +1,44 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Interest & Fees on Loans,"2,698","2,696","2,863","3,259",DFS
+Inter & Divs/ Invest Securs,40,36,33,35,DFS
+Other Interest Income,4,4,19,63,DFS
+"Interest Income, Bank","2,742","2,736","2,915","3,357",DFS
+Interest on Deposit,142,139,174,345,DFS
+Inter on Other Borrowings,117,118,131,169,DFS
+Total Interest Expense,259,257,305,514,DFS
+Net Interest Income,"2,483","2,479","2,610","2,843",DFS
+Loan Loss Provision,263,154,549,773,DFS
+NetInterIn after Loan Loss Provision,"2,220","2,325","2,061","2,070",DFS
+Fees & Commish from Operat,131,140,142,168,DFS
+Invest Securities Gains,(138),(162),(42),(4),DFS
+Other Revenue,460,445,514,472,DFS
+"Non-Interest Income, Bank",453,423,614,636,DFS
+Labor & Related Expenses,(499),(500),(515),(551),DFS
+Other Expense,(813),(630),(708),(837),DFS
+"Non-Interest Expense, Bank","(1,312)","(1,130)","(1,223)","(1,388)",DFS
+Income Before Tax,"1,361","1,618","1,452","1,318",DFS
+Income Tax - Total,294,376,341,312,DFS
+Income After Tax,"1,067","1,242","1,111","1,006",DFS
+Net Inc Before Extra Items,"1,067","1,242","1,111","1,006",DFS
+Total Net Income,"1,067","1,242","1,111","1,006",DFS
+Preferred Dividends,0,(31),--,(31),DFS
+Misc Earnings Adjustment,(5),(6),(6),(8),DFS
+Total Adjust to Net Income,(5),(37),(6),(39),DFS
+Income Available to Common Excl. Extra. Items,"1,062","1,205","1,105",967,DFS
+Income Available to Common Incl. Extra. Items,"1,062","1,205","1,105",967,DFS
+Basic/Primary Weighted Average Shares,291,285,279,273,DFS
+Basic/Primary EPS Excl. Extra. Items,3.65,4.23,3.96,3.54,DFS
+Basic/Primary EPS Incl. Extra. Items,3.65,4.23,3.96,3.54,DFS
+Diluted Weighted Average Shares,291,285,279,274,DFS
+Diluted EPS Excl. Extra. Items,3.65,4.23,3.96,3.53,DFS
+Diluted EPS Incl. Extra. Items,3.65,4.23,3.96,3.53,DFS
+Div/Share-ComStockPrimIssue,0.50,0.50,0.60,0.60,DFS
+Gross Divid - Common Stock,147,144,168,166,DFS
+Pro Forma Net Income,--,--,--,--,DFS
+"Depreciat/Amort, Suppl",144,139,140,145,DFS
+Normalzd Income Before Tax,"1,361","1,618","1,452","1,318",DFS
+IncTxsExcl ImpctofSpec Itms,294,376,341,312,DFS
+Normalized Income After Tax,"1,067","1,242","1,111","1,006",DFS
+Normalzd Inc Avail to Common,"1,062","1,205","1,105",967,DFS
+Basic Normalized EPS,3.65,4.23,3.96,3.54,DFS
+Diluted Normalized EPS,3.65,4.23,3.96,3.53,DFS

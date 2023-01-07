@@ -1,0 +1,44 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"5,450","5,758","5,097","7,754","13,537",BMO
+Depreciation/Depletion,400,435,801,791,780,BMO
+Amortization,503,554,620,634,700,BMO
+Deferred Taxes,836,468,137,212,475,BMO
+Unusual Items,--,--,--,779,29,BMO
+Other Non-Cash Items,(81),577,206,(255),484,BMO
+Non-Cash Items,(81),577,206,524,513,BMO
+"Cash Taxes Pd, Supplemental","1,261","1,209","1,537","2,167","2,374",BMO
+"Cash Interest Pd, Suppl","8,790","12,956","9,679","5,864","9,557",BMO
+Loan Loss Provision,662,872,"2,953",20,313,BMO
+Other Assets,"(3,324)","(19,695)","(6,926)",(214),"(2,124)",BMO
+Changes in Working Capital,"10,804","21,511","43,975","34,134","(11,048)",BMO
+Total Cash from Operations,"17,912","29,303","50,836","44,049","4,957",BMO
+Purchase of Fixed Assets,(330),(478),(399),(484),(777),BMO
+Purchase/Acq of Intangibles,(556),(650),(633),(499),(671),BMO
+Capital Expenditures,(886),"(1,128)","(1,032)",(983),"(1,448)",BMO
+Acquisition of Business,(365),0,(186),0,--,BMO
+Sale of Business,--,--,--,63,"1,226",BMO
+Sale/Maturity of Investment,"38,315","44,715","56,882","50,097","64,033",BMO
+Purchase of Investments,"(46,749)","(63,496)","(86,659)","(49,620)","(96,598)",BMO
+Other Investing Cash Flow,"(1,648)",329,(979),144,"3,316",BMO
+"OtherInvestCashFlowItms,Tot","(10,447)","(18,452)","(30,942)",684,"(28,023)",BMO
+Total Cash from Investing,"(11,333)","(19,580)","(31,974)",(299),"(29,471)",BMO
+Financing Cash Flow Items,"2,198","(1,235)","(8,113)",0,"6,927",BMO
+Cash Divids Paid - Common,--,"(2,541)","(2,228)","(2,736)","(2,364)",BMO
+Cash Divs Paid - Preferred,--,(211),(247),(244),(231),BMO
+Total Cash Dividends Paid,"(2,582)","(2,752)","(2,475)","(2,980)","(2,595)",BMO
+Sale/Issuance of Common,88,54,--,159,"3,113",BMO
+Repurch/Retirement Common,(991),(90),0,0,(17),BMO
+"Common Stock, Net",(903),(36),(76),159,"3,096",BMO
+Sale/Issuance of Preferred,400,"1,008","1,247",0,"2,245",BMO
+Repurch/Retirement Preferd,(300),0,0,"(1,046)","(1,500)",BMO
+"Preferred Stock, Net",100,"1,008","1,247","(1,046)",745,BMO
+"Iss (Retirmnt) of Stock,Net",(803),972,"1,171",(887),"3,841",BMO
+Long Term Debt Issued,"2,685","1,000","5,675","5,396","14,780",BMO
+Long Term Debt Reduction,--,"(1,000)",(331),"(4,401)","(6,123)",BMO
+"Iss (Retirmnt) of Debt, Net","3,924",403,(887),"(1,255)","7,807",BMO
+Total Cash From Financing,"2,737","(2,612)","(10,304)","(5,122)","15,980",BMO
+Foreign Exchange Effects,227,(450),47,"(2,775)","2,739",BMO
+Net Change in Cash,"9,543","6,661","8,605","35,853","(5,795)",BMO
+NetCash-BeginBal/RsvdforFutUse,"32,599","42,142","48,803","57,408","93,261",BMO
+NetCash-EndBal/RsrvforFutUse,"42,142","48,803","57,408","93,261","87,466",BMO
+"Depreciation, Supplemental",400,435,801,791,780,BMO

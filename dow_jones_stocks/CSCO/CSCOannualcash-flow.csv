@@ -1,0 +1,40 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,110,"11,621","11,214","10,591","11,812",CSCO
+Depreciation/Depletion,"2,192","1,897","1,808","1,862","1,957",CSCO
+Deferred Taxes,900,(350),(38),(384),(309),CSCO
+Unusual Items,(322),(24),(138),(354),(453),CSCO
+Other Non-Cash Items,"1,442","1,610","1,662","1,755","1,941",CSCO
+Non-Cash Items,"1,120","1,586","1,524","1,401","1,488",CSCO
+"Cash Taxes Pd, Supplemental","3,911","2,986","3,116","3,604","3,663",CSCO
+"Cash Interest Pd, Suppl",910,839,603,438,355,CSCO
+Accounts Receivable,(488),(333),(904),"1,470",232,CSCO
+Inventories,(244),131,84,(244),"(1,030)",CSCO
+Other Assets,66,(955),96,(797),"(1,615)",CSCO
+Accounts Payable,504,87,141,(53),(55),CSCO
+Accrued Expenses,100,277,(78),643,(427),CSCO
+Changes in Working Capital,"9,344","1,077",918,"1,984","(1,722)",CSCO
+Total Cash from Operations,"13,666","15,831","15,426","15,454","13,226",CSCO
+Capital Expenditures,(834),(909),(770),(692),(477),CSCO
+Acquisition of Business,"(2,979)","(2,175)",(327),"(7,038)",(373),CSCO
+Sale of Fixed Assets,59,22,179,28,91,CSCO
+Sale/Maturity of Investment,"33,643","20,475","13,830","11,976","8,583",CSCO
+Purchase of Investments,"(14,552)","(2,564)","(9,402)","(9,503)","(6,256)",CSCO
+Other Investing Cash Flow,(19),(12),(10),(56),(15),CSCO
+"OtherInvestCashFlowItms,Tot","16,152","15,746","4,270","(4,593)","2,030",CSCO
+Total Cash from Investing,"15,318","14,837","3,500","(5,285)","1,553",CSCO
+Financing Cash Flow Items,(169),113,81,(59),(122),CSCO
+Total Cash Dividends Paid,"(5,968)","(5,979)","(6,016)","(6,163)","(6,224)",CSCO
+Sale/Issuance of Common,623,640,655,643,660,CSCO
+Repurch/Retirement Common,"(18,250)","(21,579)","(3,386)","(3,513)","(8,381)",CSCO
+"Iss (Retirmnt) of Stock,Net","(17,627)","(20,939)","(2,731)","(2,870)","(7,721)",CSCO
+"Short Term Debt, Net","(2,502)","3,446","(3,470)",(5),606,CSCO
+"Long Term Debt, Net",--,--,"(6,720)","(3,000)","(3,550)",CSCO
+Total Debt Issued,"6,877","2,250",0,0,"1,049",CSCO
+Total Debt Reduction,"(12,375)","(6,780)",--,--,--,CSCO
+"Iss (Retirmnt) of Debt, Net","(8,000)","(1,084)","(10,190)","(3,005)","(1,895)",CSCO
+Total Cash From Financing,"(31,764)","(27,889)","(18,856)","(12,097)","(15,962)",CSCO
+Foreign Exchange Effects,--,--,(30),58,(180),CSCO
+Net Change in Cash,"(2,780)","2,779",40,"(1,870)","(1,363)",CSCO
+NetCash-BeginBal/RsvdforFutUse,"11,773","8,993","11,772","11,812","9,942",CSCO
+NetCash-EndBal/RsrvforFutUse,"8,993","11,772","11,812","9,942","8,579",CSCO
+"Depreciation, Supplemental","2,192","1,897","1,808","1,862","1,957",CSCO

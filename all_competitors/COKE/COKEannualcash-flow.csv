@@ -1,0 +1,39 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,103,(15),19,182,190,COKE
+Depreciation/Depletion,150,165,157,156,157,COKE
+Amortization,18,23,23,23,23,COKE
+Deferred Taxes,(58),9,4,9,(28),COKE
+Unusual Items,15,(1),15,13,9,COKE
+Equity in Net Earnings/Loss,(6),0,0,--,--,COKE
+Other Non-Cash Items,104,36,96,32,148,COKE
+Non-Cash Items,113,35,111,45,157,COKE
+"Cash Taxes Pd, Supplemental",31,37,6,56,29,COKE
+"Cash Interest Pd, Suppl",40,45,43,34,71,COKE
+Accounts Receivable,--,(19),(22),38,(56),COKE
+Inventories,--,(26),(16),0,(77),COKE
+Prepaid Expenses,--,30,0,(5),(4),COKE
+Other Assets,(18),4,15,22,16,COKE
+Accounts Payable,--,(72),30,30,123,COKE
+Accrued Expenses,--,62,(24),(5),47,COKE
+Changes in Working Capital,(19),(47),(24),79,23,COKE
+Total Cash from Operations,308,169,290,494,522,COKE
+Purchase of Fixed Assets,(177),(138),(171),(202),(156),COKE
+Purchase/Acq of Intangibles,(16),0,(5),0,(9),COKE
+Capital Expenditures,(192),(138),(176),(202),(165),COKE
+Acquisition of Business,(265),--,--,--,--,COKE
+Sale of Business,--,0,0,0,--,COKE
+Sale of Fixed Assets,9,9,4,3,5,COKE
+Purchase of Investments,(4),(2),(2),(2),(3),COKE
+Other Investing Cash Flow,(7),(13),0,0,--,COKE
+"OtherInvestCashFlowItms,Tot",(267),(6),2,2,3,COKE
+Total Cash from Investing,(459),(144),(174),(200),(162),COKE
+Financing Cash Flow Items,(17),(26),(28),(144),(41),COKE
+Total Cash Dividends Paid,(9),(9),(9),(9),(9),COKE
+Long Term Debt Issued,573,506,615,235,125,COKE
+Long Term Debt Reduction,(400),(499),(699),(331),(347),COKE
+"Iss (Retirmnt) of Debt, Net",173,7,(84),(96),(222),COKE
+Total Cash From Financing,146,(28),(121),(249),(272),COKE
+Net Change in Cash,(5),(3),(4),45,88,COKE
+NetCash-BeginBal/RsvdforFutUse,22,17,14,10,55,COKE
+NetCash-EndBal/RsrvforFutUse,17,14,10,55,142,COKE
+"Depreciation, Supplemental",150,165,157,156,157,COKE

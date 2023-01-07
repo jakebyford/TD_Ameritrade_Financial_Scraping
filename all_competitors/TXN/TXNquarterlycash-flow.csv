@@ -1,0 +1,35 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"7,769","2,201","4,492","6,787",TXN
+Depreciation/Depletion,755,200,427,676,TXN
+Amortization,199,14,27,40,TXN
+Deferred Taxes,15,(1),(15),(18),TXN
+Unusual Items,(57),(2),(3),(3),TXN
+Other Non-Cash Items,230,74,159,227,TXN
+Non-Cash Items,173,72,156,224,TXN
+Accounts Receivable,(287),(94),(489),(339),TXN
+Inventories,45,(150),(289),(494),TXN
+Prepaid Expenses,57,21,20,45,TXN
+Accrued Expenses,7,(388),(254),(114),TXN
+Payable/Accrued,33,11,30,72,TXN
+Changes in Working Capital,(155),(342),"(1,175)","(1,031)",TXN
+Total Cash from Operations,"8,756","2,144","3,912","6,678",TXN
+Capital Expenditures,"(2,462)",(443),"(1,040)","(1,830)",TXN
+Sale of Fixed Assets,75,2,3,3,TXN
+Sale/Maturity of Investment,"8,478","2,774","6,974","10,007",TXN
+Purchase of Investments,"(10,124)","(3,988)","(6,449)","(10,795)",TXN
+Other Investing Cash Flow,(62),(13),69,59,TXN
+"OtherInvestCashFlowItms,Tot","(1,633)","(1,225)",597,(726),TXN
+Total Cash from Investing,"(4,095)","(1,668)",(443),"(2,556)",TXN
+Financing Cash Flow Items,(46),(7),(17),(29),TXN
+Total Cash Dividends Paid,"(3,886)","(1,063)","(2,123)","(3,174)",TXN
+Sale/Issuance of Common,377,57,113,191,TXN
+Repurch/Retirement Common,(527),(589),"(1,771)","(2,767)",TXN
+"Iss (Retirmnt) of Stock,Net",(150),(532),"(1,658)","(2,576)",TXN
+Long Term Debt Issued,"1,495",--,--,695,TXN
+Long Term Debt Reduction,(550),0,(500),(500),TXN
+"Iss (Retirmnt) of Debt, Net",945,0,(500),195,TXN
+Total Cash From Financing,"(3,137)","(1,602)","(4,298)","(5,584)",TXN
+Net Change in Cash,"1,524","(1,126)",(829),"(1,462)",TXN
+NetCash-BeginBal/RsvdforFutUse,"3,107","4,631","4,631","4,631",TXN
+NetCash-EndBal/RsrvforFutUse,"4,631","3,505","3,802","3,169",TXN
+"Depreciation, Supplemental",755,200,427,676,TXN

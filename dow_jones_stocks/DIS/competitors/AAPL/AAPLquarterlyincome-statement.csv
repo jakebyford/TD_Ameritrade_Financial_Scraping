@@ -1,0 +1,35 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Total Revenue,"123,945","97,278","82,959","90,146",AAPL
+"Cost of Revenue, Total","69,702","54,719","47,074","52,051",AAPL
+"Sell/Gen/AdminExpenses,Tot","6,449","6,193","6,012","6,440",AAPL
+Research & Development,"6,306","6,387","6,797","6,761",AAPL
+Total Operating Expense,"82,457","67,299","59,883","65,252",AAPL
+Total Operating Income,"41,488","29,979","23,076","24,894",AAPL
+"Inter Expse,Net Non-Operat",(694),(691),(719),(827),AAPL
+"Inter/Invest Inc, Non-Oper",650,700,722,753,AAPL
+OtherNon-OperatInc (Expnse),(203),151,(13),(163),AAPL
+"Other, Net",(203),151,(13),(163),AAPL
+Income Before Tax,"41,241","30,139","23,066","24,657",AAPL
+Income Tax - Total,"6,611","5,129","3,624","3,936",AAPL
+Income After Tax,"34,630","25,010","19,442","20,721",AAPL
+Net Inc Before Extra Items,"34,630","25,010","19,442","20,721",AAPL
+Total Net Income,"34,630","25,010","19,442","20,721",AAPL
+Income Available to Common Excl. Extra. Items,"34,630","25,010","19,442","20,721",AAPL
+Income Available to Common Incl. Extra. Items,"34,630","25,010","19,442","20,721",AAPL
+Basic/Primary Weighted Average Shares,"16,392","16,279","16,163","16,030",AAPL
+Basic/Primary EPS Excl. Extra. Items,2.11,1.54,1.20,1.29,AAPL
+Basic/Primary EPS Incl. Extra. Items,2.11,1.54,1.20,1.29,AAPL
+Diluted Weighted Average Shares,"16,519","16,403","16,262","16,118",AAPL
+Diluted EPS Excl. Extra. Items,2.10,1.52,1.20,1.29,AAPL
+Diluted EPS Incl. Extra. Items,2.10,1.52,1.20,1.29,AAPL
+Div/Share-ComStockPrimIssue,0.22,0.22,0.23,0.23,AAPL
+Gross Divid - Common Stock,"3,665","3,633","3,760","3,735",AAPL
+Pro Forma Net Income,--,--,--,--,AAPL
+"Interest Expense, Suppl",694,691,719,827,AAPL
+"Depreciat/Amort, Suppl","2,697","2,737","2,805","2,865",AAPL
+Normalzd Income Before Tax,"41,241","30,139","23,066","24,657",AAPL
+IncTxsExcl ImpctofSpec Itms,"6,611","5,129","3,624","3,936",AAPL
+Normalized Income After Tax,"34,630","25,010","19,442","20,721",AAPL
+Normalzd Inc Avail to Common,"34,630","25,010","19,442","20,721",AAPL
+Basic Normalized EPS,2.11,1.54,1.20,1.29,AAPL
+Diluted Normalized EPS,2.10,1.52,1.20,1.29,AAPL

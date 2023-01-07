@@ -1,0 +1,37 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"(37,127)","(12,673)","(30,641)","(29,293)","(29,692)",NOVN
+Depreciation/Depletion,"1,423","1,664","2,033","1,170",344,NOVN
+Discontinued Operations,0,--,--,--,--,NOVN
+Unusual Items,45,"(16,412)",300,"2,343",(842),NOVN
+Other Non-Cash Items,"3,758","2,204","1,838","3,770","1,095",NOVN
+Non-Cash Items,"3,803","(14,208)","2,138","6,113",253,NOVN
+"Cash Interest Pd, Suppl","1,011","1,043",2,0,0,NOVN
+Accounts Receivable,--,--,(419),"(4,444)",47,NOVN
+Prepaid Expenses,75,(224),(438),"(1,548)",688,NOVN
+Accounts Payable,"(2,523)",777,352,(427),544,NOVN
+Accrued Expenses,"(4,399)","(2,013)",(818),148,"1,289",NOVN
+Changes in Working Capital,"2,044","(3,408)","6,594","(9,050)","4,318",NOVN
+Total Cash from Operations,"(29,857)","(28,625)","(19,876)","(31,060)","(24,777)",NOVN
+Purchase of Fixed Assets,"(2,168)","(1,107)",(422),(648),"(9,050)",NOVN
+Purchase/Acq of Intangibles,0,--,--,--,--,NOVN
+Capital Expenditures,"(2,168)","(1,107)",(422),(648),"(9,050)",NOVN
+Sale of Fixed Assets,26,49,0,522,0,NOVN
+Other Investing Cash Flow,0,--,--,--,"1,523",NOVN
+"OtherInvestCashFlowItms,Tot",26,49,0,522,"1,523",NOVN
+Total Cash from Investing,"(2,142)","(1,058)",(422),(126),"(7,527)",NOVN
+Financing Cash Flow Items,(159),(321),"25,000",(203),(364),NOVN
+Total Cash Dividends Paid,0,--,--,--,--,NOVN
+"Common Stock, Net",0,"35,625",747,"46,518","43,934",NOVN
+"Preferred Stock, Net",0,--,--,--,--,NOVN
+Repurch/Retirmnt Common/Preferred,0,--,--,--,--,NOVN
+Options Exercised,81,60,69,5,62,NOVN
+Warrants Converted,--,--,--,"5,538",461,NOVN
+"Iss (Retirmnt) of Stock,Net",81,"35,685",816,"52,061","44,457",NOVN
+Long Term Debt Issued,--,--,--,956,0,NOVN
+Long Term Debt Reduction,(10),(11),0,--,--,NOVN
+"Iss (Retirmnt) of Debt, Net",(10),(11),0,956,0,NOVN
+Total Cash From Financing,(88),"35,353","25,816","52,814","44,093",NOVN
+Net Change in Cash,"(32,087)","5,670","5,518","21,628","11,789",NOVN
+NetCash-BeginBal/RsvdforFutUse,"34,611","3,063","8,733","14,251","35,879",NOVN
+NetCash-EndBal/RsrvforFutUse,"2,524","8,733","14,251","35,879","47,668",NOVN
+"Depreciation, Supplemental","1,423","1,664","2,033","1,170",344,NOVN

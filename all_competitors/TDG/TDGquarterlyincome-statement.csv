@@ -1,0 +1,43 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Total Revenue,"1,194","1,327","1,398","1,510",TDG
+"Cost of Revenue, Total",533,590,579,620,TDG
+Selling/Gen/Admin Expense,133,143,148,148,TDG
+Labor & Related Expense,33,38,32,62,TDG
+"Sell/Gen/AdminExpenses,Tot",166,181,180,210,TDG
+Depreciation/Amortization,36,33,33,34,TDG
+Restructuring Charge,0,0,0,0,TDG
+Other Unusual Expnse (In),4,3,4,5,TDG
+Unusual Expense (Income),4,3,4,5,TDG
+Total Operating Expense,739,807,796,869,TDG
+Total Operating Income,455,520,602,641,TDG
+"Inter Inc(Exp),Net Non-Oper",(262),(264),(266),(277),TDG
+"Other, Net",2,6,(21),(3),TDG
+Income Before Tax,193,260,312,361,TDG
+Income Tax - Total,30,61,73,96,TDG
+Income After Tax,163,199,239,265,TDG
+Minority Interest,(1),0,(1),1,TDG
+Net Inc Before Extra Items,162,199,238,266,TDG
+Total Extraordinary Items,1,0,0,0,TDG
+Total Net Income,163,199,238,266,TDG
+Total Adjust to Net Income,(46),0,0,(40),TDG
+Income Available to Common Excl. Extra. Items,116,199,238,226,TDG
+Income Available to Common Incl. Extra. Items,117,199,238,226,TDG
+Basic/Primary Weighted Average Shares,55,55,54,58,TDG
+Basic/Primary EPS Excl. Extra. Items,2.10,3.61,4.38,3.88,TDG
+Basic/Primary EPS Incl. Extra. Items,2.12,3.61,4.38,3.88,TDG
+Diluted Weighted Average Shares,59,59,58,58,TDG
+Diluted EPS Excl. Extra. Items,1.96,3.38,4.10,3.88,TDG
+Diluted EPS Incl. Extra. Items,1.98,3.38,4.10,3.88,TDG
+Div/Share-ComStockPrimIssue,0.00,0.00,0.00,0.00,TDG
+Gross Divid - Common Stock,0,0,0,0,TDG
+Pro Forma Net Income,--,--,--,--,TDG
+"Interest Expense, Suppl",2,2,3,--,TDG
+"Depreciat/Amort, Suppl",29,29,27,31,TDG
+Total Special Items,5,3,19,(8),TDG
+Normalzd Income Before Tax,198,263,331,353,TDG
+Efct/SpecItemsIncTxs (STEC),1,1,4,(2),TDG
+IncTxsExcl ImpctofSpec Itms,31,62,77,94,TDG
+Normalized Income After Tax,167,201,253,259,TDG
+Normalzd Inc Avail to Common,120,201,252,220,TDG
+Basic Normalized EPS,2.17,3.65,4.64,3.78,TDG
+Diluted Normalized EPS,2.03,3.42,4.35,3.78,TDG

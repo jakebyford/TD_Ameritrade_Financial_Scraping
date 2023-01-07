@@ -1,0 +1,37 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,976,"1,014","1,000","1,072","1,138",FIZZ
+"Cost of Revenue, Total",585,630,630,651,720,FIZZ
+Selling/Gen/Admin Expense,137,149,150,150,162,FIZZ
+Advertising Expense,50,55,55,43,48,FIZZ
+"Sell/Gen/AdminExpenses,Tot",187,204,204,194,210,FIZZ
+"Inter Expense,Net Operatng",0,--,--,--,--,FIZZ
+Total Operating Expense,772,834,835,844,930,FIZZ
+Total Operating Income,204,180,166,228,208,FIZZ
+"Inter Expse,Net Non-Operat",--,--,--,--,0,FIZZ
+"Inter/Invest Inc, Non-Oper",2,--,4,1,--,FIZZ
+OtherNon-OperatInc (Expnse),0,4,0,0,0,FIZZ
+"Other, Net",0,4,0,0,0,FIZZ
+Income Before Tax,205,184,169,228,208,FIZZ
+Income Tax - Total,60,43,39,54,49,FIZZ
+Income After Tax,145,141,130,174,159,FIZZ
+Net Inc Before Extra Items,145,141,130,174,159,FIZZ
+Total Extraordinary Items,4,--,--,--,--,FIZZ
+Total Net Income,150,141,130,174,159,FIZZ
+Income Available to Common Excl. Extra. Items,145,141,130,174,159,FIZZ
+Income Available to Common Incl. Extra. Items,150,141,130,174,159,FIZZ
+Basic/Primary Weighted Average Shares,93,93,93,93,93,FIZZ
+Basic/Primary EPS Excl. Extra. Items,1.56,1.51,1.39,1.87,1.70,FIZZ
+Basic/Primary EPS Incl. Extra. Items,1.61,1.51,1.39,1.87,1.70,FIZZ
+Diluted Weighted Average Shares,94,94,94,94,94,FIZZ
+Diluted EPS Excl. Extra. Items,1.55,1.50,1.39,1.86,1.69,FIZZ
+Diluted EPS Incl. Extra. Items,1.60,1.50,1.39,1.86,1.69,FIZZ
+Gross Divid - Common Stock,70,135,0,280,280,FIZZ
+Pro Forma Net Income,--,--,--,--,--,FIZZ
+"Interest Expense, Suppl",0,--,--,--,0,FIZZ
+"Depreciat/Amort, Suppl",13,15,17,18,19,FIZZ
+Normalzd Income Before Tax,205,184,169,228,208,FIZZ
+IncTxsExcl ImpctofSpec Itms,60,43,39,54,49,FIZZ
+Normalized Income After Tax,145,141,130,174,159,FIZZ
+Normalzd Inc Avail to Common,145,141,130,174,159,FIZZ
+Basic Normalized EPS,1.56,1.51,1.39,1.87,1.70,FIZZ
+Diluted Normalized EPS,1.55,1.50,1.39,1.86,1.69,FIZZ

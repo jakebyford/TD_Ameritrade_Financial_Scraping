@@ -1,0 +1,69 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"25,688","34,262","36,971","86,085","70,767",JD
+Short Term Investments,"8,588","2,036","24,603","60,577","114,564",JD
+Cash and Short Term Invs,"34,276","36,298","61,574","146,662","185,331",JD
+"Trade Accts Recvble, Gross","16,413","11,288","6,509","7,678","12,934",JD
+Prov. for Doubtful Accts,(54),(178),(318),(566),"(1,034)",JD
+"Trade Accts Recvble, Net","27,156","14,246","10,425","13,779","17,400",JD
+Notes Recvble - Short Term,"5,133","2,716","1,551",683,--,JD
+"Total Receivables, Net","32,288","16,963","11,976","14,462","17,400",JD
+Invent. - Finished Goods,"41,841","44,679","58,795","60,454","77,422",JD
+Inventories - Other,(141),(649),(863),"(1,522)","(1,821)",JD
+Total Inventory,"41,700","44,030","57,932","58,933","75,601",JD
+Prepaid Expenses,"2,653","4,325","4,671","10,161","15,414",JD
+Restricted Cash - Current,"4,110","3,240","2,941","4,434","5,926",JD
+Discont. Ops.-Curr. Assets,0,--,--,149,--,JD
+"Other Curr. Assets, Total","4,110","3,240","2,941","4,583","5,926",JD
+Total Current Assets,"115,029","104,856","139,095","234,801","299,672",JD
+Buildings,"6,683","10,437","11,184","14,176","24,838",JD
+Machinery/Equipment,"8,541","15,272","15,949","17,668","14,770",JD
+Construction in Progress,"3,197","6,554","5,806","7,906","5,817",JD
+Other Prop./Plant/Equip.,"2,981","4,319","15,137","23,342","30,601",JD
+Prop./Plant/Equip. - Gross,"21,402","36,582","48,077","63,093","76,026",JD
+Accumulated Depreciation,"(5,631)","(8,945)","(12,973)","(17,106)","(17,278)",JD
+Prop./Plant/Equip. - Net,"15,771","27,637","35,104","45,987","58,748",JD
+"Goodwill, Net","6,651","6,644","6,644","10,904","12,433",JD
+Intangibles - Gross,"20,089","23,875","24,415","27,949","31,744",JD
+Accum. Intangible Amort.,"(6,345)","(8,387)","(9,413)","(10,361)","(11,579)",JD
+Intangibles - Net,"13,744","15,487","15,002","17,588","20,165",JD
+LT Invt. - Affiliate Comp.,"8,801","13,307","15,479","30,165","36,254",JD
+LT Investments - Other,"19,779","33,951","41,514","67,421","46,056",JD
+Long Term Investments,"28,579","47,258","56,993","97,586","82,310",JD
+Def. Inc. Tax - LT Asset,158,103,81,533,"1,111",JD
+Disct. Ops. - LT Asset,0,--,--,"1,330",--,JD
+Other Long Term Assets,"4,124","7,180","6,806","13,558","22,068",JD
+Total Assets,"184,055","209,165","259,724","422,288","496,507",JD
+Accounts Payable,"74,392","80,201","90,746","107,404","141,003",JD
+Accrued Expenses,"15,118","20,293","27,113","34,602","39,601",JD
+Notes Payable/ST Debt,200,147,0,0,"4,368",JD
+Curr. Port. LT Dbt/Cap Ls.,"12,685","4,398",0,"3,260",0,JD
+Customer Advances,"15,198","14,998","19,405","24,415","32,564",JD
+Income Taxes Payable,658,826,"2,016","3,029","2,568",JD
+Other Payables,--,--,736,946,"1,532",JD
+Discontinued Operations,0,--,--,360,0,JD
+"Other Curr. Lblts, Total","15,856","15,824","22,157","28,751","36,664",JD
+Total Current Liabilities,"118,251","120,862","140,017","174,017","221,636",JD
+Total Long Term Debt,"10,923","9,875","10,052","12,531","9,386",JD
+Total Debt,"23,807","14,420","10,052","15,791","13,754",JD
+Deferred Income Tax,882,828,"1,339","1,922","1,897",JD
+Minority Interest,348,"17,057","18,768","34,076","37,873",JD
+Other LT Liabilities,"1,611",772,"7,692","12,199","16,804",JD
+Discont. Ops. - Lblts,0,--,--,--,--,JD
+"Other Liabilities, Total","1,611",772,"7,692","12,199","16,804",JD
+Total Liabilities,"132,014","149,394","177,868","234,744","287,596",JD
+Common Stock,0,0,0,0,0,JD
+Additional Paid-In Capital,"76,255","82,833","90,676","153,357","182,578",JD
+Ret. Earn.(Accum. Deficit),"(21,599)","(22,638)","(10,454)","38,952","35,391",JD
+Treasury Stock - Common,"(4,458)","(3,784)","(2,530)","(1,218)","(2,968)",JD
+Unrealized Gain (Loss),--,--,55,0,0,JD
+Cum. Trans. Adjustment,--,--,"4,108","(3,548)","(6,090)",JD
+Other Equity,--,--,--,--,0,JD
+Other Comprehensive Income,"1,842","3,359",--,--,--,JD
+"Other Equity, Total","1,842","3,359","4,108","(3,548)","(6,090)",JD
+Total Equity,"52,041","59,771","81,856","187,543","208,911",JD
+Total Liabilities & Shareholders’ Equity,"184,055","209,165","259,724","422,288","496,507",JD
+Shr Outs.-Com. Primary Iss.,"2,407","2,448","2,481","2,668","2,690",JD
+Shr Outs.-Com. Stk. Iss. 2,446,446,444,436,420,JD
+Ttl Comm. Shares Outs.,"2,853","2,894","2,924","3,103","3,111",JD
+Trsy. Shrs-Comm. Primary Iss.,71,60,40,18,41,JD
+Trsy. Shrs-Comm. Iss. 2,15,12,10,8,8,JD

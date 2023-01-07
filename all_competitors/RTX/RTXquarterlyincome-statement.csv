@@ -1,0 +1,47 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"17,044","15,716","16,314","16,951",RTX
+"Cost of Revenue, Total","13,607","12,560","12,856","13,464",RTX
+"Sell/Gen/AdminExpenses,Tot","1,391","1,435","1,424","1,391",RTX
+Research & Development,810,635,698,662,RTX
+Restructuring Charge,25,34,--,--,RTX
+Other Unusual Expnse (In),649,--,--,--,RTX
+Unusual Expense (Income),674,34,--,--,RTX
+"Other Operat Expse, Total",(109),(28),(17),(46),RTX
+Total Operating Expense,"16,373","14,636","14,961","15,471",RTX
+Total Operating Income,671,"1,080","1,353","1,480",RTX
+"Inter Expse,Net Non-Operat",(288),(322),(320),(326),RTX
+"Inter Income, Non-Operating",12,31,13,10,RTX
+"Invest Income, Non-Operat",--,(27),(22),5,RTX
+"Inter/Invest Inc, Non-Oper",12,4,(9),15,RTX
+OtherNon-OperatInc (Expnse),472,480,474,468,RTX
+"Other, Net",472,480,474,468,RTX
+Income Before Tax,867,"1,242","1,498","1,637",RTX
+Income Tax - Total,96,116,160,242,RTX
+Income After Tax,771,"1,126","1,338","1,395",RTX
+Minority Interest,(86),(23),(34),(8),RTX
+Net Inc Before Extra Items,685,"1,103","1,304","1,387",RTX
+Discontinued Operations,21,(19),0,0,RTX
+Tax on Extraordinary Items,(20),--,--,--,RTX
+Total Extraordinary Items,1,(19),0,0,RTX
+Total Net Income,686,"1,084","1,304","1,387",RTX
+Income Available to Common Excl. Extra. Items,685,"1,103","1,304","1,387",RTX
+Income Available to Common Incl. Extra. Items,686,"1,084","1,304","1,387",RTX
+Basic/Primary Weighted Average Shares,"1,460","1,487","1,479","1,470",RTX
+Basic/Primary EPS Excl. Extra. Items,0.47,0.74,0.88,0.94,RTX
+Basic/Primary EPS Incl. Extra. Items,0.47,0.73,0.88,0.94,RTX
+Diluted Weighted Average Shares,"1,524","1,498","1,490","1,479",RTX
+Diluted EPS Excl. Extra. Items,0.45,0.74,0.88,0.94,RTX
+Diluted EPS Incl. Extra. Items,0.45,0.72,0.88,0.94,RTX
+Div/Share-ComStockPrimIssue,0.51,0.51,0.55,0.55,RTX
+Gross Divid - Common Stock,745,745,"1,597",--,RTX
+Pro Forma Net Income,--,--,--,--,RTX
+"Interest Expense, Suppl",288,322,320,326,RTX
+"Depreciat/Amort, Suppl",525,527,532,550,RTX
+Total Special Items,674,34,--,--,RTX
+Normalzd Income Before Tax,"1,541","1,276","1,498","1,637",RTX
+Efct/SpecItemsIncTxs (STEC),75,3,--,--,RTX
+IncTxsExcl ImpctofSpec Itms,171,119,160,242,RTX
+Normalized Income After Tax,"1,370","1,157","1,338","1,395",RTX
+Normalzd Inc Avail to Common,"1,284","1,134","1,304","1,387",RTX
+Basic Normalized EPS,0.88,0.76,0.88,0.94,RTX
+Diluted Normalized EPS,0.84,0.76,0.88,0.94,RTX

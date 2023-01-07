@@ -1,0 +1,40 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Net Income,381,392,771,"1,532",JCI
+Depreciation/Depletion,224,432,633,830,JCI
+Deferred Taxes,(32),(97),(241),(141),JCI
+Discontinued Operations,(4),(4),(4),(4),JCI
+Unusual Items,--,361,430,555,JCI
+Equity in Net Earnings/Loss,(18),20,(25),30,JCI
+Other Non-Cash Items,(84),(55),100,(77),JCI
+Non-Cash Items,(106),322,501,504,JCI
+Accounts Receivable,(75),(306),(637),(427),JCI
+Inventories,(376),(619),(761),(773),JCI
+Other Assets,(63),(206),(276),(362),JCI
+Accrued Expenses,19,(19),(2),(7),JCI
+Payable/Accrued,333,489,788,"1,270",JCI
+Changes in Working Capital,(79),(729),(857),(739),JCI
+Total Cash from Operations,388,320,807,"1,986",JCI
+Capital Expenditures,(135),(260),(430),(592),JCI
+Acquisition of Business,(108),(124),(236),(269),JCI
+Sale of Business,16,16,16,16,JCI
+Sale of Fixed Assets,7,35,38,127,JCI
+"Investment, Net",2,1,24,--,JCI
+Other Investing Cash Flow,--,--,0,25,JCI
+"OtherInvestCashFlowItms,Tot",(83),(72),(158),(101),JCI
+Total Cash from Investing,(218),(332),(588),(693),JCI
+Financing Cash Flow Items,(42),(163),(119),(142),JCI
+Total Cash Dividends Paid,(191),(430),(674),(916),JCI
+"Common Stock, Net",(526),"(1,035)","(1,427)","(1,441)",JCI
+Options Exercised,8,13,15,17,JCI
+"Iss (Retirmnt) of Stock,Net",(518),"(1,022)","(1,412)","(1,424)",JCI
+"Short Term Debt, Net",394,"2,061","2,237",923,JCI
+Long Term Debt Issued,--,--,--,"1,227",JCI
+Long Term Debt Reduction,--,(2),(3),(184),JCI
+"Long Term Debt, Net",--,(2),(3),"1,043",JCI
+"Iss (Retirmnt) of Debt, Net",394,"2,059","2,234","1,966",JCI
+Total Cash From Financing,(357),444,29,(516),JCI
+Foreign Exchange Effects,67,46,(49),(53),JCI
+Net Change in Cash,(120),478,199,724,JCI
+NetCash-BeginBal/RsvdforFutUse,"1,342","1,342","1,342","1,342",JCI
+NetCash-EndBal/RsrvforFutUse,"1,222","1,820","1,541","2,066",JCI
+"Depreciation, Supplemental",224,432,633,830,JCI

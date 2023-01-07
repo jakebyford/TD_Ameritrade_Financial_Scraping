@@ -1,0 +1,37 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"14,138","6,358","2,710","5,861","8,687",MU
+Depreciation/Depletion,"4,759","5,424","5,650","6,214","7,116",MU
+Deferred Taxes,(265),150,79,(50),--,MU
+Unusual Items,385,396,(40),455,127,MU
+Other Non-Cash Items,299,292,354,408,514,MU
+Non-Cash Items,684,688,314,863,641,MU
+"Cash Taxes Pd, Supplemental",226,524,167,361,493,MU
+"Cash Interest Pd, Suppl",312,53,165,171,154,MU
+Accounts Receivable,"(1,734)","2,431",(723),"(1,446)",190,MU
+Inventories,(472),"(1,528)",(489),866,"(2,179)",MU
+Payable/Accrued,549,(174),725,210,744,MU
+Changes in Working Capital,"(1,916)",569,(447),(420),"(1,263)",MU
+Total Cash from Operations,"17,400","13,189","8,306","12,468","15,181",MU
+Capital Expenditures,"(8,879)","(9,780)","(8,223)","(10,030)","(12,067)",MU
+Acquisition of Business,0,0,--,--,--,MU
+Sale of Fixed Assets,--,--,--,--,888,MU
+Sale/Maturity of Investment,924,"3,045","2,272","2,106","1,615",MU
+"Investment, Net",(185),--,--,--,--,MU
+Purchase of Investments,(760),"(4,218)","(1,857)","(3,163)","(1,770)",MU
+Other Investing Cash Flow,684,868,219,498,(251),MU
+"OtherInvestCashFlowItms,Tot",663,(305),634,(559),482,MU
+Total Cash from Investing,"(8,216)","(10,085)","(7,589)","(10,589)","(11,585)",MU
+Financing Cash Flow Items,(246),(98),(925),(155),70,MU
+Total Cash Dividends Paid,--,--,--,--,(461),MU
+Sale/Issuance of Common,"1,655",179,225,--,--,MU
+Repurch/Retirement Common,--,"(2,729)",(251),"(1,294)","(2,557)",MU
+"Iss (Retirmnt) of Stock,Net","1,655","(2,550)",(26),"(1,294)","(2,557)",MU
+Long Term Debt Issued,"1,009","3,550","5,000","1,188","2,000",MU
+Long Term Debt Reduction,"(10,194)","(3,340)","(4,366)","(1,520)","(2,032)",MU
+"Iss (Retirmnt) of Debt, Net","(9,185)",210,634,(332),(32),MU
+Total Cash From Financing,"(7,776)","(2,438)",(317),"(1,781)","(2,980)",MU
+Foreign Exchange Effects,(37),26,11,41,(106),MU
+Net Change in Cash,"1,371",692,411,139,510,MU
+NetCash-BeginBal/RsvdforFutUse,"5,216","6,587","7,279","7,690","7,829",MU
+NetCash-EndBal/RsrvforFutUse,"6,587","7,279","7,690","7,829","8,339",MU
+"Depreciation, Supplemental","4,759","5,424","5,650","6,214","7,116",MU

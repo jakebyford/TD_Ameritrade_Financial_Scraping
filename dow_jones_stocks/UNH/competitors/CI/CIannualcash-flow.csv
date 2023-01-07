@@ -1,0 +1,39 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"2,232","2,646","5,120","8,489","5,415",CI
+Depreciation/Depletion,566,695,"3,651","2,802","2,923",CI
+Deferred Taxes,242,(101),(313),(386),(220),CI
+Unusual Items,321,0,2,"(4,004)",141,CI
+Equity in Net Earnings/Loss,161,--,--,--,--,CI
+Non-Cash Items,482,0,2,"(4,004)",141,CI
+"Cash Taxes Pd, Supplemental","1,036","1,019","1,776","1,837","2,240",CI
+"Cash Interest Pd, Suppl",240,267,"1,645","1,439","1,253",CI
+Other Assets,(171),(949),(43),"2,387","1,404",CI
+Accounts Payable,506,560,575,841,967,CI
+Payable/Accrued,639,332,"1,343","1,346",(77),CI
+Changes in Working Capital,564,530,"1,025","3,449","(1,068)",CI
+Total Cash from Operations,"4,086","3,770","9,485","10,350","7,191",CI
+Capital Expenditures,(471),(528),"(1,050)","(1,094)","(1,154)",CI
+Acquisition of Business,(209),"(24,455)",(153),(139),"(1,894)",CI
+Sale of Business,--,--,--,"5,592",--,CI
+Sale/Maturity of Investment,"6,100","5,755","6,822","5,396","5,774",CI
+Purchase of Investments,"(7,123)","(7,138)","(6,342)","(6,802)","(6,434)",CI
+Other Investing Cash Flow,0,(12),(11),23,97,CI
+"OtherInvestCashFlowItms,Tot","(1,232)","(25,850)",316,"4,070","(2,457)",CI
+Total Cash from Investing,"(1,703)","(26,378)",(734),"2,976","(3,611)",CI
+Financing Cash Flow Items,(155),(423),(249),(131),24,CI
+Total Cash Dividends Paid,--,--,--,--,"(1,341)",CI
+Sale/Issuance of Common,131,68,224,376,326,CI
+Repurch/Retirement Common,"(2,725)",(342),"(1,987)","(4,042)","(7,742)",CI
+"Iss (Retirmnt) of Stock,Net","(2,594)",(274),"(1,763)","(3,666)","(7,416)",CI
+"Short Term Debt, Net",80,"1,487",(681),60,975,CI
+Long Term Debt Issued,--,--,--,"1,398",0,CI
+Long Term Debt Reduction,"(1,563)",(131),"(4,494)","(8,259)","(4,714)",CI
+"Long Term Debt, Net",18,"22,725","(4,494)","(3,396)",(454),CI
+Total Debt Reduction,--,--,--,"(1,400)",0,CI
+"Iss (Retirmnt) of Debt, Net",98,"24,212","(5,175)","(4,736)",521,CI
+Total Cash From Financing,"(2,651)","23,515","(7,187)","(8,533)","(8,212)",CI
+Foreign Exchange Effects,55,(24),(8),41,(65),CI
+Net Change in Cash,(213),883,"1,556","4,834","(4,697)",CI
+NetCash-BeginBal/RsvdforFutUse,"3,185","2,972","3,855","5,411","10,245",CI
+NetCash-EndBal/RsrvforFutUse,"2,972","3,855","5,411","10,245","5,548",CI
+"Depreciation, Supplemental",566,695,"3,651","2,802","2,923",CI

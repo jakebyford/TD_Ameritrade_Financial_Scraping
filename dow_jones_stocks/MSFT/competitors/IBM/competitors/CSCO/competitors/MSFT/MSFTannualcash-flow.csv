@@ -1,0 +1,38 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"16,571","39,240","44,281","61,271","72,738",MSFT
+Depreciation/Depletion,"10,261","11,682","12,796","11,686","14,460",MSFT
+Deferred Taxes,"(5,143)","(6,463)",11,(150),"(5,702)",MSFT
+Unusual Items,"(2,212)",(792),(219),"(1,249)",(409),MSFT
+Other Non-Cash Items,"3,940","4,652","5,289","6,118","7,502",MSFT
+Non-Cash Items,"1,728","3,860","5,070","4,869","7,093",MSFT
+"Cash Taxes Pd, Supplemental","5,500","8,400","12,500","13,400","16,000",MSFT
+"Cash Interest Pd, Suppl","2,400","2,400","2,400","2,000","1,900",MSFT
+Accounts Receivable,"(3,862)","(2,812)","(2,577)","(6,481)","(6,834)",MSFT
+Inventories,(465),597,168,(737),"(1,123)",MSFT
+Other Assets,"(1,237)","(3,552)","(3,367)","(4,391)","(3,514)",MSFT
+Accounts Payable,"1,148",232,"3,018","2,798","2,943",MSFT
+Changes in Working Capital,"20,467","3,866","(1,483)",(936),446,MSFT
+Total Cash from Operations,"43,884","52,185","60,675","76,740","89,035",MSFT
+Capital Expenditures,"(11,632)","(13,925)","(15,441)","(20,622)","(23,886)",MSFT
+Acquisition of Business,(888),"(2,388)","(2,521)","(8,909)","(22,038)",MSFT
+Sale/Maturity of Investment,"143,937","58,237","84,170","65,800","44,894",MSFT
+Purchase of Investments,"(137,380)","(57,697)","(77,190)","(62,924)","(26,456)",MSFT
+Other Investing Cash Flow,(98),0,"(1,241)",(922),"(2,825)",MSFT
+"OtherInvestCashFlowItms,Tot","5,571","(1,848)","3,218","(6,955)","(6,425)",MSFT
+Total Cash from Investing,"(6,061)","(15,773)","(12,223)","(27,577)","(30,311)",MSFT
+Financing Cash Flow Items,(971),(675),"(3,751)","(2,523)",(863),MSFT
+Total Cash Dividends Paid,"(12,699)","(13,811)","(15,137)","(16,521)","(18,135)",MSFT
+Sale/Issuance of Common,"1,002","1,142","1,343","1,693","1,841",MSFT
+Repurch/Retirement Common,"(10,721)","(19,543)","(22,968)","(27,385)","(32,696)",MSFT
+"Iss (Retirmnt) of Stock,Net","(9,719)","(18,401)","(21,625)","(25,692)","(30,855)",MSFT
+"Short Term Debt, Net","(7,324)",0,0,--,--,MSFT
+"Long Term Debt, Net",--,"(4,000)",--,"(3,750)","(9,023)",MSFT
+Total Debt Issued,"7,183",0,0,--,--,MSFT
+Total Debt Reduction,"(10,060)",--,"(5,518)",--,--,MSFT
+"Iss (Retirmnt) of Debt, Net","(10,201)","(4,000)","(5,518)","(3,750)","(9,023)",MSFT
+Total Cash From Financing,"(33,590)","(36,887)","(46,031)","(48,486)","(58,876)",MSFT
+Foreign Exchange Effects,50,(115),(201),(29),(141),MSFT
+Net Change in Cash,"4,283",(590),"2,220",648,(293),MSFT
+NetCash-BeginBal/RsvdforFutUse,"7,663","11,946","11,356","13,576","14,224",MSFT
+NetCash-EndBal/RsrvforFutUse,"11,946","11,356","13,576","14,224","13,931",MSFT
+"Depreciation, Supplemental","10,261","11,682","12,796","11,686","14,460",MSFT

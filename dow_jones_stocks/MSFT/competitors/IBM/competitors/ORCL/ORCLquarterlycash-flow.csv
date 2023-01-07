@@ -1,0 +1,31 @@
+items,Q3 2022,Q4 2022,Q1 2023,Q2 2023,ticker
+Net Income,"3,528","6,717","1,548","3,289",ORCL
+Depreciation/Depletion,"1,409","1,972",547,"1,138",ORCL
+Amortization,882,"1,150",919,"1,826",ORCL
+Deferred Taxes,(983),"(1,146)",(344),(852),ORCL
+Non-Cash Items,"1,982","2,833",906,"1,948",ORCL
+Accounts Receivable,652,(874),761,516,ORCL
+Prepaid Expenses,71,11,44,121,ORCL
+Accounts Payable,(683),(733),(166),(785),ORCL
+Changes in Working Capital,"(1,264)","(1,987)","2,818",(106),ORCL
+Total Cash from Operations,"5,554","9,539","6,394","7,243",ORCL
+Capital Expenditures,"(3,088)","(4,511)","(1,719)","(4,154)",ORCL
+Acquisition of Business,(132),(148),"(27,798)","(27,799)",ORCL
+Sale/Maturity of Investment,"25,735","26,151",138,462,ORCL
+Purchase of Investments,"(10,134)","(10,272)",(57),(603),ORCL
+"OtherInvestCashFlowItms,Tot","15,469","15,731","(27,717)","(27,940)",ORCL
+Total Cash from Investing,"12,381","11,220","(29,436)","(32,094)",ORCL
+Financing Cash Flow Items,(439),(560),(127),(56),ORCL
+Total Cash Dividends Paid,"(2,603)","(3,457)",(860),"(1,723)",ORCL
+Sale/Issuance of Common,357,482,515,661,ORCL
+Repurch/Retirement Common,"(16,665)","(17,341)","(1,381)","(1,895)",ORCL
+"Iss (Retirmnt) of Stock,Net","(16,308)","(16,859)",(866),"(1,234)",ORCL
+Long Term Debt Issued,--,0,"20,046","30,160",ORCL
+Long Term Debt Reduction,"(5,750)","(8,250)","(5,883)","(16,692)",ORCL
+"Iss (Retirmnt) of Debt, Net","(5,750)","(8,250)","14,163","13,468",ORCL
+Total Cash From Financing,"(25,100)","(29,126)","12,310","10,455",ORCL
+Foreign Exchange Effects,(251),(348),(203),(174),ORCL
+Net Change in Cash,"(7,416)","(8,715)","(10,935)","(14,570)",ORCL
+NetCash-BeginBal/RsvdforFutUse,"30,098","30,098","21,383","21,383",ORCL
+NetCash-EndBal/RsrvforFutUse,"22,682","21,383","10,448","6,813",ORCL
+"Depreciation, Supplemental","1,409","1,972",547,"1,138",ORCL

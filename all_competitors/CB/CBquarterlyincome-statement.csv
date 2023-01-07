@@ -1,0 +1,46 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Premiums Earned,"9,150","9,199","10,302","12,020",CB
+Reinsurance - Income,171,(453),(745),(485),CB
+Total Premiums Earned,"9,321","8,746","9,557","11,535",CB
+Net Investment Income,843,822,888,979,CB
+Realized Gains (Losses),319,101,(504),(384),CB
+Total Revenue,"10,483","9,669","9,941","12,130",CB
+"Losses, Benies & Adjusts","5,488","4,932","5,567","7,765",CB
+Underwriting & Commissions,"1,777","1,737","1,739","1,975",CB
+"Losses,Benies& Adjmts,Total","7,265","6,669","7,306","9,740",CB
+"Sell/Gen/AdminExpenses,Tot",815,782,823,889,CB
+Depreciation/Amortization,71,71,71,69,CB
+Impair-Assets Held for Sale,0,--,--,--,CB
+Other Unusual Expnse (In),0,--,3,23,CB
+Unusual Expense (Income),0,--,3,23,CB
+Total Operating Expense,"8,151","7,522","8,203","10,721",CB
+Total Operating Income,"2,332","2,147","1,738","1,409",CB
+"Inter Expse,Net Non-Operat",(126),(132),(134),(150),CB
+"Inter/Invest Inc, Non-Oper",360,361,(71),(98),CB
+Gain(Loss)on Sale of Assets,(3),(31),(18),(67),CB
+"Other, Net",(18),(16),(7),(17),CB
+Income Before Tax,"2,545","2,329","1,508","1,077",CB
+Income Tax - Total,404,355,293,265,CB
+Income After Tax,"2,141","1,974","1,215",812,CB
+Net Inc Before Extra Items,"2,141","1,974","1,215",812,CB
+Total Net Income,"2,141","1,974","1,215",812,CB
+Income Available to Common Excl. Extra. Items,"2,141","1,974","1,215",812,CB
+Income Available to Common Incl. Extra. Items,"2,141","1,974","1,215",812,CB
+Basic/Primary Weighted Average Shares,429,426,422,417,CB
+Basic/Primary EPS Excl. Extra. Items,4.99,4.64,2.88,1.95,CB
+Basic/Primary EPS Incl. Extra. Items,4.99,4.64,2.88,1.95,CB
+Diluted Weighted Average Shares,433,430,425,420,CB
+Diluted EPS Excl. Extra. Items,4.95,4.59,2.86,1.94,CB
+Diluted EPS Incl. Extra. Items,4.95,4.59,2.86,1.94,CB
+Div/Share-ComStockPrimIssue,0.80,0.80,0.80,0.83,CB
+Gross Divid - Common Stock,342,340,348,346,CB
+Pro Forma Net Income,--,--,--,--,CB
+"Interest Expense, Suppl",126,132,134,150,CB
+Total Special Items,3,31,21,90,CB
+Normalzd Income Before Tax,"2,548","2,360","1,529","1,167",CB
+Efct/SpecItemsIncTxs (STEC),0,5,4,22,CB
+IncTxsExcl ImpctofSpec Itms,404,360,297,287,CB
+Normalized Income After Tax,"2,144","2,000","1,232",880,CB
+Normalzd Inc Avail to Common,"2,144","2,000","1,232",880,CB
+Basic Normalized EPS,5.00,4.70,2.92,2.11,CB
+Diluted Normalized EPS,4.95,4.65,2.90,2.10,CB

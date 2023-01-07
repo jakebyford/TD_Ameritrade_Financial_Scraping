@@ -1,0 +1,43 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"14,314","14,768","14,109","12,574","14,455",ITW
+"Cost of Revenue, Total","8,306","8,604","8,187","7,375","8,489",ITW
+"Sell/Gen/AdminExpenses,Tot","2,412","2,391","2,361","2,163","2,356",ITW
+Depreciation/Amortization,206,189,159,154,133,ITW
+Litigation,(95),0,0,--,--,ITW
+Other Unusual Expnse (In),(1),2,(44),0,0,ITW
+Unusual Expense (Income),(96),2,(44),0,0,ITW
+Total Operating Expense,"10,828","11,186","10,663","9,692","10,978",ITW
+Total Operating Income,"3,486","3,582","3,446","2,882","3,477",ITW
+"Inter Expse,Net Non-Operat",(260),(257),(221),(206),(202),ITW
+"Inter Income, Non-Operating",45,35,29,17,12,ITW
+"Invest Income, Non-Operat",(9),8,5,3,20,ITW
+"Inter/Invest Inc, Non-Oper",36,43,34,20,32,ITW
+OtherNon-OperatInc (Expnse),8,26,29,8,19,ITW
+"Other, Net",8,26,29,8,19,ITW
+Income Before Tax,"3,270","3,394","3,288","2,704","3,326",ITW
+Income Tax - Total,925,831,767,595,632,ITW
+Income After Tax,"2,345","2,563","2,521","2,109","2,694",ITW
+Net Inc Before Extra Items,"2,345","2,563","2,521","2,109","2,694",ITW
+Total Extraordinary Items,(658),--,--,--,--,ITW
+Total Net Income,"1,687","2,563","2,521","2,109","2,694",ITW
+Income Available to Common Excl. Extra. Items,"2,345","2,563","2,521","2,109","2,694",ITW
+Income Available to Common Incl. Extra. Items,"1,687","2,563","2,521","2,109","2,694",ITW
+Basic/Primary Weighted Average Shares,344,335,324,317,315,ITW
+Basic/Primary EPS Excl. Extra. Items,6.81,7.65,7.78,6.66,8.55,ITW
+Basic/Primary EPS Incl. Extra. Items,4.90,7.65,7.78,6.66,8.55,ITW
+Diluted Weighted Average Shares,347,337,326,318,316,ITW
+Diluted EPS Excl. Extra. Items,6.76,7.60,7.74,6.63,8.51,ITW
+Diluted EPS Incl. Extra. Items,4.86,7.60,7.74,6.63,8.51,ITW
+Div/Share-ComStockPrimIssue,2.73,3.34,4.07,4.35,4.64,ITW
+Gross Divid - Common Stock,982,"1,186","1,335","1,398","1,483",ITW
+Pro Forma Net Income,--,--,--,--,--,ITW
+"Interest Expense, Suppl",260,257,221,206,202,ITW
+"Depreciat/Amort, Suppl",256,272,267,273,277,ITW
+Total Special Items,(96),2,(44),0,0,ITW
+Normalzd Income Before Tax,"3,174","3,396","3,244","2,704","3,326",ITW
+Efct/SpecItemsIncTxs (STEC),(27),0,(10),0,0,ITW
+IncTxsExcl ImpctofSpec Itms,898,831,757,595,632,ITW
+Normalized Income After Tax,"2,276","2,565","2,487","2,109","2,694",ITW
+Normalzd Inc Avail to Common,"2,276","2,565","2,487","2,109","2,694",ITW
+Basic Normalized EPS,6.61,7.66,7.68,6.66,8.55,ITW
+Diluted Normalized EPS,6.56,7.61,7.64,6.63,8.51,ITW

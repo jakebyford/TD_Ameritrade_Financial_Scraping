@@ -1,0 +1,38 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"4,644","5,460","5,364",89,"6,201",GILD
+Depreciation/Depletion,233,226,255,288,329,GILD
+Amortization,"1,053","1,203","1,149","1,192","1,721",GILD
+Deferred Taxes,(82),289,"(2,098)",(214),(116),GILD
+Unusual Items,0,820,(441),"1,662",610,GILD
+Other Non-Cash Items,942,"1,341","5,713","6,789","2,150",GILD
+Non-Cash Items,942,"2,161","5,272","8,451","2,760",GILD
+"Cash Taxes Pd, Supplemental","3,342","3,198","1,793","2,639","2,509",GILD
+"Cash Interest Pd, Suppl","1,038","1,070",982,951,979,GILD
+Accounts Receivable,754,480,(218),"(1,171)",313,GILD
+Inventories,(253),(310),(95),(195),11,GILD
+Prepaid Expenses,358,903,(307),(214),(42),GILD
+Accounts Payable,(430),(39),(61),80,(118),GILD
+Accrued Expenses,(818),(514),(389),640,689,GILD
+Changes in Working Capital,"5,108",(939),(798),"(1,638)",489,GILD
+Total Cash from Operations,"11,898","8,400","9,144","8,168","11,384",GILD
+Capital Expenditures,(590),(924),(825),(650),(579),GILD
+Acquisition of Business,"(10,426)",0,0,"(25,742)","(1,402)",GILD
+Sale/Maturity of Investment,"18,261","25,858","29,921","32,718","2,910",GILD
+Purchase of Investments,"(23,314)","(10,579)","(32,228)","(20,770)","(3,897)",GILD
+Other Investing Cash Flow,--,--,"(4,685)",(171),(163),GILD
+"OtherInvestCashFlowItms,Tot","(15,479)","15,279","(6,992)","(13,965)","(2,552)",GILD
+Total Cash from Investing,"(16,069)","14,355","(7,817)","(14,615)","(3,131)",GILD
+Financing Cash Flow Items,(330),(486),(122),(138),(145),GILD
+Total Cash Dividends Paid,"(2,731)","(2,971)","(3,222)","(3,449)","(3,605)",GILD
+Sale/Issuance of Common,234,289,209,256,169,GILD
+Repurch/Retirement Common,(954),"(2,900)","(1,749)","(1,583)",(546),GILD
+"Iss (Retirmnt) of Stock,Net",(720),"(2,611)","(1,540)","(1,327)",(377),GILD
+Long Term Debt Issued,"8,985",0,0,"8,184",0,GILD
+Long Term Debt Reduction,"(1,811)","(6,250)","(2,750)","(2,500)","(4,750)",GILD
+"Iss (Retirmnt) of Debt, Net","7,174","(6,250)","(2,750)","5,684","(4,750)",GILD
+Total Cash From Financing,"3,393","(12,318)","(7,634)",770,"(8,877)",GILD
+Foreign Exchange Effects,137,(85),(2),43,(35),GILD
+Net Change in Cash,(641),"10,352","(6,309)","(5,634)",(659),GILD
+NetCash-BeginBal/RsvdforFutUse,"8,229","7,588","17,940","11,631","5,997",GILD
+NetCash-EndBal/RsrvforFutUse,"7,588","17,940","11,631","5,997","5,338",GILD
+"Depreciation, Supplemental",233,226,255,288,329,GILD

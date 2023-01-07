@@ -1,0 +1,42 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,206,135,60,803,"18,471",MRNA
+"Cost of Revenue, Total",--,--,--,8,"2,617",MRNA
+Selling/Gen/Admin Expense,46,47,63,138,515,MRNA
+Labor & Related Expense,18,47,46,50,52,MRNA
+"Sell/Gen/AdminExpenses,Tot",65,94,110,188,567,MRNA
+Research & Development,410,454,496,"1,370","1,991",MRNA
+Total Operating Expense,475,548,606,"1,567","5,175",MRNA
+Total Operating Income,(269),(413),(546),(763),"13,296",MRNA
+"Inter Expse,Net Non-Operat",(1),(3),(7),(10),(18),MRNA
+"Inter Income, Non-Operating",15,27,39,25,18,MRNA
+"Invest Income, Non-Operat",(1),0,0,1,1,MRNA
+"Inter/Invest Inc, Non-Oper",14,27,39,26,19,MRNA
+OtherNon-OperatInc (Expnse),--,5,(1),3,(12),MRNA
+"Other, Net",--,5,(1),3,(12),MRNA
+Income Before Tax,(256),(384),(515),(745),"13,285",MRNA
+Income Tax - Total,0,0,(1),3,"1,083",MRNA
+Income After Tax,(256),(385),(514),(747),"12,202",MRNA
+Net Inc Before Extra Items,(256),(385),(514),(747),"12,202",MRNA
+Total Net Income,(256),(385),(514),(747),"12,202",MRNA
+Preferred Dividends,(14),(13),0,0,--,MRNA
+Misc Earnings Adjustment,0,(4),0,0,--,MRNA
+Total Adjust to Net Income,(14),(17),0,0,--,MRNA
+Income Available to Common Excl. Extra. Items,(270),(402),(514),(747),"12,202",MRNA
+Income Available to Common Incl. Extra. Items,(270),(402),(514),(747),"12,202",MRNA
+Basic/Primary Weighted Average Shares,324,329,331,381,403,MRNA
+Basic/Primary EPS Excl. Extra. Items,(0.83),(1.22),(1.55),(1.96),30.28,MRNA
+Basic/Primary EPS Incl. Extra. Items,(0.83),(1.22),(1.55),(1.96),30.28,MRNA
+Diluted Weighted Average Shares,324,329,331,381,431,MRNA
+Diluted EPS Excl. Extra. Items,(0.83),(1.22),(1.55),(1.96),28.31,MRNA
+Diluted EPS Incl. Extra. Items,(0.83),(1.22),(1.55),(1.96),28.31,MRNA
+Div/Share-ComStockPrimIssue,0.00,--,--,--,--,MRNA
+Gross Divid - Common Stock,0,0,0,0,0,MRNA
+Pro Forma Net Income,--,--,--,--,--,MRNA
+"Interest Expense, Suppl",1,3,13,10,18,MRNA
+"Depreciat/Amort, Suppl",21,25,31,31,232,MRNA
+Normalzd Income Before Tax,(256),(384),(515),(745),"13,285",MRNA
+IncTxsExcl ImpctofSpec Itms,0,0,(1),3,"1,083",MRNA
+Normalized Income After Tax,(256),(385),(514),(747),"12,202",MRNA
+Normalzd Inc Avail to Common,(270),(402),(514),(747),"12,202",MRNA
+Basic Normalized EPS,(0.83),(1.22),(1.55),(1.96),30.28,MRNA
+Diluted Normalized EPS,(0.83),(1.22),(1.55),(1.96),28.31,MRNA

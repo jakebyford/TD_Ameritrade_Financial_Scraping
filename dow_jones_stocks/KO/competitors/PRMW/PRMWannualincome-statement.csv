@@ -1,0 +1,49 @@
+items,2017,2018,2019,2021,2022,ticker
+Total Revenue,"2,270","1,791","1,795","1,954","2,073",PRMW
+"Cost of Revenue, Total","1,142",767,734,840,916,PRMW
+Selling/Gen/Admin Expense,"1,043",909,917,939,996,PRMW
+Labor & Related Expense,--,23,23,22,18,PRMW
+Advertising Expense,--,23,23,21,22,PRMW
+"Sell/Gen/AdminExpenses,Tot","1,043",955,962,983,"1,036",PRMW
+Restructuring Charge,--,--,--,11,--,PRMW
+Litigation,0,(15),0,(2),0,PRMW
+Impair-Assets Held for Use,--,0,0,115,0,PRMW
+Other Unusual Expnse (In),29,2,22,66,33,PRMW
+Unusual Expense (Income),39,(5),30,201,42,PRMW
+Loss(Gain)/Sale Asts (Oper),10,9,8,11,9,PRMW
+Total Operating Expense,"2,224","1,718","1,726","2,023","1,994",PRMW
+Total Operating Income,45,73,69,(69),80,PRMW
+"Inter Expse,Net Non-Operat",(86),(78),(78),(82),(69),PRMW
+"Inter/Invest Inc, Non-Oper",2,7,(1),(2),(9),PRMW
+Gain(Loss)on Sale of Assets,0,--,--,--,--,PRMW
+"Other, Net",5,4,3,0,4,PRMW
+Income Before Tax,(34),7,(6),(153),6,PRMW
+Income Tax - Total,3,(8),5,4,10,PRMW
+Income After Tax,(36),15,(11),(157),(3),PRMW
+Net Inc Before Extra Items,(36),15,(11),(157),(3),PRMW
+Discontinued Operations,2,419,16,53,0,PRMW
+Extraordinary Item,33,--,--,--,--,PRMW
+Tax on Extraordinary Items,--,(51),(2),(28),--,PRMW
+Total Extraordinary Items,35,368,14,25,0,PRMW
+Total Net Income,(1),383,3,(132),(3),PRMW
+Income Available to Common Excl. Extra. Items,(36),15,(11),(157),(3),PRMW
+Income Available to Common Incl. Extra. Items,(1),383,3,(132),(3),PRMW
+Basic/Primary Weighted Average Shares,139,139,135,155,161,PRMW
+Basic/Primary EPS Excl. Extra. Items,(0.26),0.11,(0.08),(1.01),(0.02),PRMW
+Basic/Primary EPS Incl. Extra. Items,(0.01),2.75,0.02,(0.85),(0.02),PRMW
+Diluted Weighted Average Shares,139,141,135,155,161,PRMW
+Diluted EPS Excl. Extra. Items,(0.26),0.11,(0.08),(1.01),(0.02),PRMW
+Diluted EPS Incl. Extra. Items,(0.01),2.71,0.02,(0.85),(0.02),PRMW
+Div/Share-ComStockPrimIssue,0.24,0.24,0.24,0.24,0.24,PRMW
+Gross Divid - Common Stock,34,34,34,39,39,PRMW
+Pro Forma Net Income,--,--,--,--,--,PRMW
+"Interest Expense, Suppl",86,78,78,82,69,PRMW
+"Depreciat/Amort, Suppl",120,109,112,139,156,PRMW
+Total Special Items,39,(5),30,201,42,PRMW
+Normalzd Income Before Tax,6,2,23,48,49,PRMW
+Efct/SpecItemsIncTxs (STEC),14,(2),10,70,15,PRMW
+IncTxsExcl ImpctofSpec Itms,16,(10),15,75,24,PRMW
+Normalized Income After Tax,(11),12,9,(26),24,PRMW
+Normalzd Inc Avail to Common,(11),12,9,(26),24,PRMW
+Basic Normalized EPS,(0.08),0.09,0.06,(0.17),0.15,PRMW
+Diluted Normalized EPS,(0.08),0.09,0.06,(0.17),0.15,PRMW

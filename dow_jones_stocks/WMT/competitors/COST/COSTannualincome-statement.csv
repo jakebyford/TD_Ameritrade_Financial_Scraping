@@ -1,0 +1,44 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"141,576","152,703","166,761","195,929","226,954",COST
+"Cost of Revenue, Total","123,152","132,886","144,831","170,684","199,382",COST
+"Sell/Gen/AdminExpenses,Tot","13,944","15,080","15,792","17,938","19,661",COST
+Depreciation/Amortization,--,--,31,--,--,COST
+Impair-Assets Held for Use,--,--,--,84,118,COST
+Other Unusual Expnse (In),--,--,672,515,--,COST
+Unusual Expense (Income),--,--,672,599,118,COST
+Total Operating Expense,"137,096","147,966","161,326","189,221","219,161",COST
+Total Operating Income,"4,480","4,737","5,435","6,708","7,793",COST
+"Inter Expse,Net Non-Operat",(159),(150),(160),(171),(158),COST
+"Inter Income, Non-Operating",75,126,89,41,61,COST
+"Invest Income, Non-Operat",23,27,7,56,106,COST
+"Inter/Invest Inc, Non-Oper",98,153,96,97,167,COST
+OtherNon-OperatInc (Expnse),23,25,(4),46,38,COST
+"Other, Net",23,25,(4),46,38,COST
+Income Before Tax,"4,442","4,765","5,367","6,680","7,840",COST
+Income Tax - Total,"1,244","1,184","1,308","1,601","1,925",COST
+Income After Tax,"3,198","3,581","4,059","5,079","5,915",COST
+Minority Interest,(45),(45),(57),(72),(71),COST
+Net Inc Before Extra Items,"3,153","3,536","4,002","5,007","5,844",COST
+Total Extraordinary Items,(19),123,0,--,--,COST
+Total Net Income,"3,134","3,659","4,002","5,007","5,844",COST
+Income Available to Common Excl. Extra. Items,"3,153","3,536","4,002","5,007","5,844",COST
+Income Available to Common Incl. Extra. Items,"3,134","3,659","4,002","5,007","5,844",COST
+Basic/Primary Weighted Average Shares,439,440,442,443,444,COST
+Basic/Primary EPS Excl. Extra. Items,7.19,8.04,9.05,11.30,13.17,COST
+Basic/Primary EPS Incl. Extra. Items,7.15,8.32,9.05,11.30,13.17,COST
+Diluted Weighted Average Shares,442,443,444,444,445,COST
+Diluted EPS Excl. Extra. Items,7.14,7.98,9.02,11.27,13.14,COST
+Diluted EPS Incl. Extra. Items,7.09,8.26,9.02,11.27,13.14,COST
+Div/Share-ComStockPrimIssue,2.07,2.36,2.65,2.89,3.27,COST
+Gross Divid - Common Stock,936,"1,057","1,193","5,748","1,498",COST
+Pro Forma Net Income,--,--,--,--,--,COST
+"Interest Expense, Suppl",159,150,160,171,158,COST
+"Depreciat/Amort, Suppl","1,437","1,492","1,645","1,781","1,900",COST
+Total Special Items,--,--,672,599,118,COST
+Normalzd Income Before Tax,"4,442","4,765","6,039","7,279","7,958",COST
+Efct/SpecItemsIncTxs (STEC),--,--,164,144,29,COST
+IncTxsExcl ImpctofSpec Itms,"1,244","1,184","1,472","1,745","1,954",COST
+Normalized Income After Tax,"3,198","3,581","4,567","5,534","6,004",COST
+Normalzd Inc Avail to Common,"3,153","3,536","4,510","5,462","5,933",COST
+Basic Normalized EPS,7.19,8.04,10.20,12.33,13.37,COST
+Diluted Normalized EPS,7.14,7.98,10.16,12.29,13.34,COST

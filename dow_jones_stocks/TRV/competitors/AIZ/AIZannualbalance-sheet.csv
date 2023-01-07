@@ -1,0 +1,52 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,997,"1,254","1,867","2,229","2,041",AIZ
+Buildings,248,262,238,249,--,AIZ
+Land/Improvements,14,13,11,11,--,AIZ
+Other Prop./Plant/Equip.,435,491,582,648,--,AIZ
+Prop./Plant/Equip. - Gross,696,766,832,908,--,AIZ
+Accumulated Depreciation,(349),(374),(329),(348),--,AIZ
+Prop./Plant/Equip. - Net,348,393,503,560,561,AIZ
+"Goodwill, Net",918,"2,322","2,343","2,589","2,572",AIZ
+Intangibles - Gross,595,954,887,"1,079",--,AIZ
+Accum. Intangible Amort.,(307),(331),(346),(383),--,AIZ
+Intangibles - Net,289,622,540,696,719,AIZ
+Long Term Investments,"12,300","15,089","16,587","15,679","8,672",AIZ
+Insurance Receivables,"1,116","1,563","1,618","1,471","1,943",AIZ
+Note Rcvble - Long Term,248,117,75,85,--,AIZ
+Def. Policy Acq. Costs,"3,485","5,103","6,668","7,574","8,811",AIZ
+Accrued Investment Income,105,126,131,130,62,AIZ
+Reinsurance - Asset,"9,790","9,166","9,593","9,840","6,181",AIZ
+Separate Accounts - Assets,"1,837","1,610","1,840","2,188",--,AIZ
+Other Assets,412,"3,725","2,525","1,608","1,282",AIZ
+"Other Assets, Total","12,144","14,627","14,089","13,766","7,526",AIZ
+Total Assets,"31,843","41,089","44,291","44,650","33,921",AIZ
+Accounts Payable,"2,046","2,187","2,682","2,795","3,044",AIZ
+Accrued Expenses,--,--,76,78,--,AIZ
+Policy Liabilities,"10,397","9,241","9,807","10,062",413,AIZ
+Unearned Prem. Or Rev.,"7,039","15,648","16,604","17,308","18,624",AIZ
+Sep. Accounts - Liability,"1,837","1,610","1,840","2,188",--,AIZ
+Reinsurance - Liability,325,603,678,721,810,AIZ
+Policy Liabilities,"19,598","27,102","28,929","30,279","19,847",AIZ
+Notes Payable/ST Debt,0,0,0,0,0,AIZ
+"Other Curr. Lblts, Total","4,147","3,152","3,228","3,368","2,298",AIZ
+Total Long Term Debt,"1,068","2,006","2,007","2,175","2,203",AIZ
+Total Debt,"1,068","2,006","2,007","2,175","2,203",AIZ
+Minority Interest,11,22,29,3,--,AIZ
+Discont. Ops. - Lblts,--,--,--,--,"1,065",AIZ
+Other Liabilities,702,"1,508","1,687",--,--,AIZ
+"Other Liabilities, Total",702,"1,508","1,687",--,"1,065",AIZ
+Total Liabilities,"27,572","35,977","38,638","38,699","28,457",AIZ
+"Pref. Stock-Non Rdmbl, Net",--,3,3,3,--,AIZ
+Common Stock,2,2,2,1,1,AIZ
+Additional Paid-In Capital,"3,198","4,496","4,538","1,957","1,695",AIZ
+Ret. Earn.(Accum. Deficit),"5,697","5,760","5,966","3,549","4,041",AIZ
+Treasury Stock - Common,"(4,860)","(4,992)","(5,267)",(267),(123),AIZ
+Unrealized Gain (Loss),599,335,889,"1,112",269,AIZ
+Cum. Trans. Adjustment,(282),(376),(359),(296),(327),AIZ
+Min. Pension Lblty Adj.,(84),(114),(119),(107),(92),AIZ
+"Other Equity, Total",(365),(490),(478),(403),(419),AIZ
+Total Equity,"4,271","5,112","5,653","5,951","5,464",AIZ
+Total Liabilities & Shareholders’ Equity,"31,843","41,089","44,291","44,650","33,921",AIZ
+Ttl Comm. Shares Outs.,52,62,60,58,56,AIZ
+Trsy. Shrs-Comm. Primary Iss.,98,99,102,5,2,AIZ
+Trsry Shrs-Pref. Iss. 1,--,0,0,0,--,AIZ

@@ -1,0 +1,47 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"21,355","11,188","16,302","9,652","22,025",PFE
+Depreciation/Depletion,"6,269","6,384","6,010","4,777","5,191",PFE
+Deferred Taxes,"(2,410)","(2,205)",614,"(1,468)","(4,293)",PFE
+Discontinued Operations,55,(1),--,"1,186",91,PFE
+Extraordinary Item,"(10,660)",(596),(323),0,0,PFE
+Unusual Items,634,"3,398","(5,280)","2,043",276,PFE
+Other Non-Cash Items,223,"(1,414)",(704),"(1,512)","(3,514)",PFE
+Non-Cash Items,"(9,748)","1,387","(6,307)","1,717","(3,147)",PFE
+"Cash Taxes Pd, Supplemental","2,489","3,655","3,664","3,153","7,427",PFE
+"Cash Interest Pd, Suppl","1,518","1,311","1,587","1,641","1,467",PFE
+Accounts Receivable,259,(644),(742),"(1,249)","(3,811)",PFE
+Inventories,(357),(717),"(1,050)",(736),"(1,125)",PFE
+Other Assets,7,(16),795,(146),"(1,057)",PFE
+Accounts Payable,46,431,(564),353,"1,242",PFE
+Changes in Working Capital,"1,336",(927),"(4,032)",(275),"12,804",PFE
+Total Cash from Operations,"16,802","15,827","12,587","14,403","32,580",PFE
+Purchase of Fixed Assets,"(1,956)","(2,042)","(2,176)","(2,252)","(2,711)",PFE
+Purchase/Acq of Intangibles,(261),(154),(418),(539),--,PFE
+Capital Expenditures,"(2,217)","(2,196)","(2,594)","(2,791)","(2,711)",PFE
+Acquisition of Business,"(1,000)",0,"(10,861)",0,0,PFE
+Sale/Maturity of Investment,"13,881","23,825","9,415","11,810","28,096",PFE
+"Investment, Net","2,058","(3,917)","6,925",920,"(8,088)",PFE
+Purchase of Investments,"(18,133)","(13,474)","(7,036)","(14,402)","(39,525)",PFE
+Other Investing Cash Flow,671,287,206,192,(318),PFE
+"OtherInvestCashFlowItms,Tot","(2,523)","6,721","(1,351)","(1,480)","(19,835)",PFE
+Total Cash from Investing,"(4,740)","4,525","(3,945)","(4,271)","(22,546)",PFE
+Financing Cash Flow Items,(612),(589),(735),"11,121",16,PFE
+Cash Divids Paid - Common,--,--,"(8,042)","(8,440)","(8,729)",PFE
+Cash Divs Paid - Preferred,--,--,(1),--,--,PFE
+Total Cash Dividends Paid,"(7,659)","(7,978)","(8,043)","(8,440)","(8,729)",PFE
+"Common Stock, Net","(5,000)","(12,198)","(8,865)",0,0,PFE
+Options Exercised,862,"1,259",394,425,--,PFE
+"Iss (Retirmnt) of Stock,Net","(4,138)","(10,939)","(8,471)",425,0,PFE
+Short Term Debt Issued,"8,464","3,711","16,455","12,352",0,PFE
+Short Term Debt Reduction,"(9,947)","(4,437)","(8,378)","(22,197)",0,PFE
+"Short Term Debt, Net",(61),"(2,343)","10,628","(13,974)",(96),PFE
+Long Term Debt Issued,"5,274","4,974","4,942","5,222",997,PFE
+Long Term Debt Reduction,"(6,154)","(3,566)","(6,806)","(4,003)","(2,004)",PFE
+"Long Term Debt, Net",(880),"1,408","(1,864)","1,219","(1,007)",PFE
+"Iss (Retirmnt) of Debt, Net",(941),(935),"8,764","(12,755)","(1,103)",PFE
+Total Cash From Financing,"(13,350)","(20,441)","(8,485)","(9,649)","(9,816)",PFE
+Foreign Exchange Effects,53,(116),(32),(8),(59),PFE
+Net Change in Cash,"(1,235)",(205),125,475,159,PFE
+NetCash-BeginBal/RsvdforFutUse,"2,666","1,431","1,225","1,350","1,825",PFE
+NetCash-EndBal/RsrvforFutUse,"1,431","1,225","1,350","1,825","1,983",PFE
+"Depreciation, Supplemental","6,269","6,384","6,010","4,777","5,191",PFE

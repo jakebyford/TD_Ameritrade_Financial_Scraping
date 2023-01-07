@@ -1,0 +1,34 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"149,774","140,853","129,972","174,146","158,512",FIZZ
+Depreciation/Depletion,"13,226","15,439","17,234","18,097","18,544",FIZZ
+Deferred Taxes,676,"3,351",11,(132),"5,326",FIZZ
+Unusual Items,149,12,206,114,(7),FIZZ
+Other Non-Cash Items,161,251,"13,476","13,522","13,953",FIZZ
+Non-Cash Items,310,263,"13,682","13,636","13,946",FIZZ
+"Cash Taxes Pd, Supplemental","56,737","36,833","29,364","63,357","51,958",FIZZ
+"Cash Interest Pd, Suppl",101,51,51,148,371,FIZZ
+Accounts Receivable,"(13,041)",(481),(80),"(1,521)","(7,150)",FIZZ
+Inventories,"(7,565)","(9,782)","7,220","(7,998)","(31,838)",FIZZ
+Prepaid Expenses,"(5,437)","(2,806)","(5,633)",35,"(5,084)",FIZZ
+Accounts Payable,"16,753","(8,651)","8,168","14,385","6,545",FIZZ
+Accrued Expenses,25,"1,256","7,118","(16,878)","(25,668)",FIZZ
+Changes in Working Capital,"(9,265)","(20,464)","16,793","(11,977)","(63,195)",FIZZ
+Total Cash from Operations,"154,721","139,442","177,692","193,770","133,133",FIZZ
+Capital Expenditures,"(31,974)","(38,333)","(23,890)","(25,314)","(29,015)",FIZZ
+"OtherInvestCashFlowItms,Tot",63,18,9,--,11,FIZZ
+Total Cash from Investing,"(31,911)","(38,315)","(23,881)","(25,314)","(29,004)",FIZZ
+Cash Divids Paid - Common,"(69,878)","(135,247)",0,"(279,876)","(280,003)",FIZZ
+Cash Divs Paid - Preferred,0,--,--,--,--,FIZZ
+Total Cash Dividends Paid,"(69,878)","(135,247)",0,"(279,876)","(280,003)",FIZZ
+"Common Stock, Net",--,--,"(6,233)",0,0,FIZZ
+"Preferred Stock, Net",0,--,--,--,--,FIZZ
+Options Exercised,560,456,740,491,335,FIZZ
+"Iss (Retirmnt) of Stock,Net",560,456,"(5,493)",491,335,FIZZ
+Long Term Debt Issued,--,--,--,--,"50,000",FIZZ
+Long Term Debt Reduction,0,--,--,--,"(20,000)",FIZZ
+"Iss (Retirmnt) of Debt, Net",0,--,--,--,"30,000",FIZZ
+Total Cash From Financing,"(69,318)","(134,791)","(5,493)","(279,385)",--,FIZZ
+Net Change in Cash,"53,492","(33,664)","148,318","(110,929)","(145,539)",FIZZ
+NetCash-BeginBal/RsvdforFutUse,"136,372","189,864","156,200","304,518","193,589",FIZZ
+NetCash-EndBal/RsrvforFutUse,"189,864","156,200","304,518","193,589","48,050",FIZZ
+"Depreciation, Supplemental","13,226","15,439","17,234","18,097","18,544",FIZZ

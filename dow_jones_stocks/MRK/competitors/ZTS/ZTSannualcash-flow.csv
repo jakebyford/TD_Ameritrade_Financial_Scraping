@@ -1,0 +1,39 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,862,"1,424","1,500","1,636","2,034",ZTS
+Depreciation/Depletion,242,308,412,441,448,ZTS
+Deferred Taxes,127,(112),(79),(62),(80),ZTS
+Unusual Items,33,(38),(13),24,49,ZTS
+Other Non-Cash Items,111,96,126,172,105,ZTS
+Non-Cash Items,144,58,113,196,154,ZTS
+"Cash Taxes Pd, Supplemental",455,336,418,418,548,ZTS
+"Cash Interest Pd, Suppl",167,190,247,257,253,ZTS
+Accounts Receivable,(50),(67),(69),74,(155),ZTS
+Inventories,19,61,(104),(346),(366),ZTS
+Other Assets,(16),(42),(51),(68),(7),ZTS
+Accounts Payable,(10),37,(10),147,(17),ZTS
+Changes in Working Capital,(29),112,(151),(85),(343),ZTS
+Total Cash from Operations,"1,346","1,790","1,795","2,126","2,213",ZTS
+Capital Expenditures,(224),(338),(460),(453),(477),ZTS
+Acquisition of Business,(82),"(1,998)",(195),(113),(14),ZTS
+Sale of Fixed Assets,37,56,21,21,2,ZTS
+"Investment, Net",--,28,138,(27),44,ZTS
+Purchase of Investments,--,--,--,--,(12),ZTS
+Other Investing Cash Flow,(1),(7),(8),0,(1),ZTS
+"OtherInvestCashFlowItms,Tot",(46),"(1,921)",(44),(119),19,ZTS
+Total Cash from Investing,(270),"(2,259)",(504),(572),(458),ZTS
+Financing Cash Flow Items,(50),(38),(9),(11),(6),ZTS
+Total Cash Dividends Paid,(206),(243),(314),(380),(474),ZTS
+"Common Stock, Net",(500),(698),(626),(250),(743),ZTS
+Options Exercised,24,19,7,20,(35),ZTS
+"Iss (Retirmnt) of Stock,Net",(476),(679),(619),(230),(778),ZTS
+"Short Term Debt, Net",0,8,(9),4,(4),ZTS
+Long Term Debt Issued,"1,231","1,485",0,"1,240",0,ZTS
+Long Term Debt Reduction,(750),0,0,(500),(600),ZTS
+"Long Term Debt, Net",481,"1,485",0,740,(600),ZTS
+"Iss (Retirmnt) of Debt, Net",481,"1,493",(9),744,(604),ZTS
+Total Cash From Financing,(251),533,(951),123,"(1,862)",ZTS
+Foreign Exchange Effects,12,(26),(8),(7),(12),ZTS
+Net Change in Cash,837,38,332,"1,670",(119),ZTS
+NetCash-BeginBal/RsvdforFutUse,727,"1,564","1,602","1,934","3,604",ZTS
+NetCash-EndBal/RsrvforFutUse,"1,564","1,602","1,934","3,604","3,485",ZTS
+"Depreciation, Supplemental",242,308,412,441,448,ZTS

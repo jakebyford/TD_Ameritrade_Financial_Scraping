@@ -1,0 +1,45 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"2,146",585,803,983,KDP
+Depreciation/Depletion,410,106,205,301,KDP
+Amortization,134,34,67,100,KDP
+Deferred Taxes,31,8,(52),(281),KDP
+Unusual Items,(23),16,383,889,KDP
+Equity in Net Earnings/Loss,(519),(47),(45),(44),KDP
+Other Non-Cash Items,344,41,272,379,KDP
+Non-Cash Items,(198),10,610,"1,224",KDP
+"Cash Taxes Pd, Supplemental",506,37,462,566,KDP
+"Cash Interest Pd, Suppl",477,27,208,236,KDP
+Accounts Receivable,(152),(73),(206),(372),KDP
+Inventories,(133),(147),(346),(552),KDP
+Other Assets,(243),(284),(340),(380),KDP
+Accounts Payable,762,151,680,"1,014",KDP
+Changes in Working Capital,351,(80),(294),(229),KDP
+Total Cash from Operations,"2,874",663,"1,339","2,098",KDP
+Purchase of Fixed Assets,(423),(109),(186),(260),KDP
+Purchase/Acq of Intangibles,(32),(10),(10),(19),KDP
+Capital Expenditures,(455),(119),(196),(279),KDP
+Acquisition of Business,0,--,--,--,KDP
+Sale of Fixed Assets,122,78,78,79,KDP
+Sale/Maturity of Investment,578,50,50,50,KDP
+Purchase of Investments,0,(3),(48),(48),KDP
+Other Investing Cash Flow,(35),(3),(15),(15),KDP
+"OtherInvestCashFlowItms,Tot",665,122,65,66,KDP
+Total Cash from Investing,210,3,(131),(213),KDP
+Financing Cash Flow Items,(161),(10),(51),(55),KDP
+Total Cash Dividends Paid,(955),(265),(531),(796),KDP
+Sale/Issuance of Common,140,0,0,0,KDP
+Repurch/Retirement Common,--,--,(88),(88),KDP
+"Iss (Retirmnt) of Stock,Net",140,0,(88),(88),KDP
+Short Term Debt Issued,156,38,579,614,KDP
+Short Term Debt Reduction,"(5,424)",(186),(724),(760),KDP
+"Short Term Debt, Net",138,(148),(145),(146),KDP
+Long Term Debt Issued,"2,150",0,"3,000","3,000",KDP
+Long Term Debt Reduction,"(4,074)",(221),"(3,406)","(3,430)",KDP
+"Long Term Debt, Net","(1,924)",(221),(406),(430),KDP
+"Iss (Retirmnt) of Debt, Net","(1,786)",(369),(551),(576),KDP
+Total Cash From Financing,"(2,762)",(644),"(1,221)","(1,515)",KDP
+Foreign Exchange Effects,(9),4,(1),(10),KDP
+Net Change in Cash,313,26,(14),360,KDP
+NetCash-BeginBal/RsvdforFutUse,255,568,568,568,KDP
+NetCash-EndBal/RsrvforFutUse,568,594,554,928,KDP
+"Depreciation, Supplemental",410,106,205,301,KDP

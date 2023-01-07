@@ -1,0 +1,35 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"1,648","1,820","1,868","1,878",SKX
+"Cost of Revenue, Total",847,995,970,994,SKX
+"Sell/Gen/AdminExpenses,Tot",715,648,743,754,SKX
+"Other Operat Expse, Total",(8),--,--,--,SKX
+Total Operating Expense,"1,555","1,644","1,714","1,748",SKX
+Total Operating Income,93,176,154,130,SKX
+"Inter Expse,Net Non-Operat",(4),(5),(5),(5),SKX
+OtherNon-OperatInc (Expnse),(4),(1),(15),(10),SKX
+"Other, Net",(4),(1),(15),(10),SKX
+Income Before Tax,85,170,135,115,SKX
+Income Tax - Total,(337),34,29,20,SKX
+Income After Tax,422,136,106,94,SKX
+Minority Interest,(20),(15),(16),(8),SKX
+Net Inc Before Extra Items,402,121,90,86,SKX
+Total Extraordinary Items,1,--,--,--,SKX
+Total Net Income,402,121,90,86,SKX
+Income Available to Common Excl. Extra. Items,402,121,90,86,SKX
+Income Available to Common Incl. Extra. Items,402,121,90,86,SKX
+Basic/Primary Weighted Average Shares,156,156,156,155,SKX
+Basic/Primary EPS Excl. Extra. Items,2.58,0.78,0.58,0.55,SKX
+Basic/Primary EPS Incl. Extra. Items,2.58,0.78,0.58,0.55,SKX
+Diluted Weighted Average Shares,157,157,157,156,SKX
+Diluted EPS Excl. Extra. Items,2.55,0.77,0.58,0.55,SKX
+Diluted EPS Incl. Extra. Items,2.56,0.77,0.58,0.55,SKX
+Div/Share-ComStockPrimIssue,--,0.00,0.00,0.00,SKX
+Pro Forma Net Income,--,--,--,--,SKX
+"Interest Expense, Suppl",4,5,5,5,SKX
+"Depreciat/Amort, Suppl",39,37,36,39,SKX
+Normalzd Income Before Tax,85,170,135,115,SKX
+IncTxsExcl ImpctofSpec Itms,(337),34,29,20,SKX
+Normalized Income After Tax,422,136,106,94,SKX
+Normalzd Inc Avail to Common,402,121,90,86,SKX
+Basic Normalized EPS,2.58,0.78,0.58,0.55,SKX
+Diluted Normalized EPS,2.55,0.77,0.58,0.55,SKX

@@ -1,0 +1,42 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"4,631",441,863,"1,105",PARA
+Depreciation/Depletion,390,96,190,282,PARA
+Deferred Taxes,90,(62),(56),(42),PARA
+Discontinued Operations,(44),60,13,(74),PARA
+Unusual Items,"(2,262)",58,105,73,PARA
+Equity in Net Earnings/Loss,96,37,66,124,PARA
+Other Non-Cash Items,"13,544",36,77,127,PARA
+Non-Cash Items,"11,334",191,261,250,PARA
+"Cash Taxes Pd, Supplemental",334,45,79,31,PARA
+"Cash Interest Pd, Suppl",970,292,474,755,PARA
+Changes in Working Capital,"(15,492)",(269),(667),"(1,269)",PARA
+Total Cash from Operations,953,397,591,326,PARA
+Capital Expenditures,(354),(52),(151),(228),PARA
+Acquisition of Business,(54),--,--,0,PARA
+Sale of Business,"3,028",--,--,38,PARA
+Sale/Maturity of Investment,--,31,36,--,PARA
+Purchase of Investments,(193),(59),(141),(189),PARA
+Other Investing Cash Flow,(32),0,(2),(4),PARA
+"OtherInvestCashFlowItms,Tot","2,749",(28),(107),(155),PARA
+Total Cash from Investing,"2,395",(80),(258),(383),PARA
+Financing Cash Flow Items,(338),(118),(124),(158),PARA
+Cash Divids Paid - Common,(617),(158),(315),(471),PARA
+Cash Divs Paid - Preferred,(30),(14),(29),(43),PARA
+Total Cash Dividends Paid,(647),(172),(344),(514),PARA
+Sale/Issuance of Common,"1,672",0,0,0,PARA
+Repurch/Retirement Common,0,--,--,--,PARA
+"Common Stock, Net","1,672",0,0,0,PARA
+"Preferred Stock, Net",983,0,0,0,PARA
+Options Exercised,408,0,0,0,PARA
+"Iss (Retirmnt) of Stock,Net","3,063",0,0,0,PARA
+"Short Term Debt, Net",0,--,--,--,PARA
+Long Term Debt Issued,0,"1,028","1,078","1,114",PARA
+Long Term Debt Reduction,"(2,230)","(2,009)","(3,108)","(3,123)",PARA
+"Long Term Debt, Net","(2,230)",(981),"(2,030)","(2,009)",PARA
+"Iss (Retirmnt) of Debt, Net","(2,230)",(981),"(2,030)","(2,009)",PARA
+Total Cash From Financing,(152),"(1,271)","(2,498)","(2,681)",PARA
+Foreign Exchange Effects,(48),(11),(65),(146),PARA
+Net Change in Cash,"3,148",(965),"(2,230)","(2,884)",PARA
+NetCash-BeginBal/RsvdforFutUse,"3,119","6,267","6,267","6,267",PARA
+NetCash-EndBal/RsrvforFutUse,"6,267","5,302","4,037","3,383",PARA
+"Depreciation, Supplemental",390,96,190,282,PARA

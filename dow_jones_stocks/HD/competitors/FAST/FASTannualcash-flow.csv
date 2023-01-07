@@ -1,0 +1,36 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,579,752,791,859,925,FAST
+Depreciation/Depletion,124,134,145,153,160,FAST
+Amortization,4,4,4,9,11,FAST
+Deferred Taxes,(30),34,15,3,(14),FAST
+Unusual Items,(1),(1),(1),(1),(1),FAST
+Other Non-Cash Items,13,13,11,13,8,FAST
+Non-Cash Items,12,13,10,12,7,FAST
+"Cash Taxes Pd, Supplemental",304,215,243,260,294,FAST
+"Cash Interest Pd, Suppl",9,13,14,8,10,FAST
+Accounts Receivable,(104),(120),(30),(30),(135),FAST
+Inventories,(76),(193),(84),36,(190),FAST
+Other Assets,(16),(29),(10),17,(48),FAST
+Accounts Payable,36,46,(1),14,26,FAST
+Accrued Expenses,38,47,11,21,26,FAST
+Changes in Working Capital,(103),(262),(122),66,(319),FAST
+Total Cash from Operations,585,674,843,"1,102",770,FAST
+Capital Expenditures,(120),(176),(246),(168),(157),FAST
+Acquisition of Business,(59),(4),0,(125),0,FAST
+Sale of Fixed Assets,7,10,7,11,8,FAST
+Other Investing Cash Flow,(8),(3),0,1,0,FAST
+"OtherInvestCashFlowItms,Tot",(59),2,7,(114),8,FAST
+Total Cash from Investing,(179),(174),(240),(282),(149),FAST
+Total Cash Dividends Paid,(369),(442),(499),(803),(644),FAST
+"Common Stock, Net",(83),(103),0,(52),0,FAST
+Options Exercised,10,13,59,41,32,FAST
+"Iss (Retirmnt) of Stock,Net",(73),(90),59,(11),32,FAST
+Long Term Debt Issued,"1,015",980,910,"1,000",525,FAST
+Long Term Debt Reduction,(980),(895),"(1,065)",(940),(540),FAST
+"Iss (Retirmnt) of Debt, Net",35,85,(155),60,(15),FAST
+Total Cash From Financing,(407),(447),(595),(754),(627),FAST
+Foreign Exchange Effects,6,(4),0,5,(4),FAST
+Net Change in Cash,4,50,8,71,(10),FAST
+NetCash-BeginBal/RsvdforFutUse,113,117,167,175,246,FAST
+NetCash-EndBal/RsrvforFutUse,117,167,175,246,236,FAST
+"Depreciation, Supplemental",124,134,145,153,160,FAST

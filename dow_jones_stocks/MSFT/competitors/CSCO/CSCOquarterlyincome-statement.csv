@@ -1,0 +1,45 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Total Revenue,"12,720","12,835","13,102","13,632",CSCO
+"Cost of Revenue, Total","4,671","4,714","5,077","5,286",CSCO
+Selling/Gen/Admin Expense,"2,600","2,531","2,630","2,956",CSCO
+Labor & Related Expense,191,189,202,--,CSCO
+"Sell/Gen/AdminExpenses,Tot","2,791","2,720","2,832","2,956",CSCO
+Research & Development,"1,670","1,708","1,682","1,781",CSCO
+Depreciation/Amortization,79,77,73,71,CSCO
+Restructuring Charge,3,--,(2),(2),CSCO
+Other Unusual Expnse (In),19,6,6,--,CSCO
+Unusual Expense (Income),22,6,4,(2),CSCO
+Total Operating Expense,"9,233","9,225","9,668","10,092",CSCO
+Total Operating Income,"3,487","3,610","3,434","3,540",CSCO
+"Inter Expse,Net Non-Operat",(88),(90),(93),(100),CSCO
+"Inter Income, Non-Operating",111,115,129,169,CSCO
+"Invest Income, Non-Operat",113,149,(21),--,CSCO
+"Inter/Invest Inc, Non-Oper",224,264,108,169,CSCO
+OtherNon-OperatInc (Expnse),(20),17,(33),(134),CSCO
+"Other, Net",(20),17,(33),(134),CSCO
+Income Before Tax,"3,603","3,801","3,416","3,475",CSCO
+Income Tax - Total,630,757,601,805,CSCO
+Income After Tax,"2,973","3,044","2,815","2,670",CSCO
+Net Inc Before Extra Items,"2,973","3,044","2,815","2,670",CSCO
+Total Net Income,"2,973","3,044","2,815","2,670",CSCO
+Income Available to Common Excl. Extra. Items,"2,973","3,044","2,815","2,670",CSCO
+Income Available to Common Incl. Extra. Items,"2,973","3,044","2,815","2,670",CSCO
+Basic/Primary Weighted Average Shares,"4,183","4,152","4,128","4,108",CSCO
+Basic/Primary EPS Excl. Extra. Items,0.71,0.73,0.68,0.65,CSCO
+Basic/Primary EPS Incl. Extra. Items,0.71,0.73,0.68,0.65,CSCO
+Diluted Weighted Average Shares,"4,205","4,170","4,156","4,116",CSCO
+Diluted EPS Excl. Extra. Items,0.71,0.73,0.68,0.65,CSCO
+Diluted EPS Incl. Extra. Items,0.71,0.73,0.68,0.65,CSCO
+Div/Share-ComStockPrimIssue,0.37,0.37,0.38,0.38,CSCO
+Gross Divid - Common Stock,"1,541","1,555","1,567",--,CSCO
+Pro Forma Net Income,--,--,--,--,CSCO
+"Interest Expense, Suppl",88,90,93,100,CSCO
+"Depreciat/Amort, Suppl",236,221,191,191,CSCO
+Total Special Items,22,21,4,78,CSCO
+Normalzd Income Before Tax,"3,625","3,822","3,420","3,553",CSCO
+Efct/SpecItemsIncTxs (STEC),4,4,1,18,CSCO
+IncTxsExcl ImpctofSpec Itms,634,761,602,823,CSCO
+Normalized Income After Tax,"2,991","3,061","2,818","2,730",CSCO
+Normalzd Inc Avail to Common,"2,991","3,061","2,818","2,730",CSCO
+Basic Normalized EPS,0.72,0.74,0.68,0.66,CSCO
+Diluted Normalized EPS,0.71,0.73,0.68,0.66,CSCO

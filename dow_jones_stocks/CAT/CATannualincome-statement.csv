@@ -1,0 +1,46 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"45,462","54,722","53,800","41,748","50,971",CAT
+"Cost of Revenue, Total","31,087","36,815","36,508","29,039","35,454",CAT
+"Sell/Gen/AdminExpenses,Tot","4,999","5,478","5,162","4,642","5,365",CAT
+Research & Development,"1,842","1,850","1,693","1,415","1,686",CAT
+"Inter Expense,Net Operatng",646,722,754,589,455,CAT
+Restructuring Charge,910,293,201,316,153,CAT
+Impair-Assets Held for Use,346,93,65,38,(63),CAT
+Other Unusual Expnse (In),(85),--,--,--,--,CAT
+Unusual Expense (Income),"1,171",386,266,354,90,CAT
+"Other Operat Expse, Total","1,172","1,178","1,127","1,156","1,043",CAT
+Total Operating Expense,"40,917","46,429","45,510","37,195","44,093",CAT
+Total Operating Income,"4,545","8,293","8,290","4,553","6,878",CAT
+"Inter Expse,Net Non-Operat",(531),(404),(421),(514),(488),CAT
+"Inter/Invest Inc, Non-Oper",122,(109),194,(171),"1,469",CAT
+OtherNon-OperatInc (Expnse),(54),42,(251),127,345,CAT
+"Other, Net",(54),42,(251),127,345,CAT
+Income Before Tax,"4,082","7,822","7,812","3,995","8,204",CAT
+Income Tax - Total,968,"1,802","1,924","1,086","1,778",CAT
+Income After Tax,"3,114","6,020","5,888","2,909","6,426",CAT
+Minority Interest,(5),(1),(1),(5),(4),CAT
+Equity In Affiliates,16,24,28,14,31,CAT
+Net Inc Before Extra Items,"3,125","6,043","5,915","2,918","6,453",CAT
+Total Extraordinary Items,"(2,371)",104,178,80,36,CAT
+Total Net Income,754,"6,147","6,093","2,998","6,489",CAT
+Income Available to Common Excl. Extra. Items,"3,125","6,043","5,915","2,918","6,453",CAT
+Income Available to Common Incl. Extra. Items,754,"6,147","6,093","2,998","6,489",CAT
+Basic/Primary Weighted Average Shares,592,591,562,544,544,CAT
+Basic/Primary EPS Excl. Extra. Items,5.28,10.22,10.53,5.36,11.86,CAT
+Basic/Primary EPS Incl. Extra. Items,1.27,10.39,10.85,5.51,11.93,CAT
+Diluted Weighted Average Shares,599,599,568,549,549,CAT
+Diluted EPS Excl. Extra. Items,5.21,10.08,10.42,5.32,11.76,CAT
+Diluted EPS Incl. Extra. Items,1.26,10.26,10.74,5.46,11.83,CAT
+Div/Share-ComStockPrimIssue,3.10,3.28,3.78,4.12,4.28,CAT
+Gross Divid - Common Stock,"1,845","1,985","2,210","2,247","2,330",CAT
+Pro Forma Net Income,--,--,--,--,--,CAT
+"Interest Expense, Suppl","1,177","1,126","1,175","1,103",943,CAT
+"Depreciat/Amort, Suppl","2,555","2,435","2,253","2,122","2,050",CAT
+Total Special Items,"1,171",386,266,354,90,CAT
+Normalzd Income Before Tax,"5,253","8,208","8,078","4,349","8,294",CAT
+Efct/SpecItemsIncTxs (STEC),278,89,66,96,20,CAT
+IncTxsExcl ImpctofSpec Itms,"1,246","1,891","1,990","1,182","1,798",CAT
+Normalized Income After Tax,"4,007","6,317","6,088","3,167","6,496",CAT
+Normalzd Inc Avail to Common,"4,018","6,340","6,115","3,176","6,523",CAT
+Basic Normalized EPS,6.79,10.72,10.89,5.84,11.99,CAT
+Diluted Normalized EPS,6.71,10.58,10.78,5.79,11.89,CAT

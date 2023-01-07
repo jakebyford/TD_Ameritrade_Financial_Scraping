@@ -1,0 +1,43 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,151,331,623,"2,651","4,100",ZM
+"Cost of Revenue, Total",31,61,115,822,"1,055",ZM
+Selling/Gen/Admin Expense,83,188,374,770,"1,283",ZM
+Labor & Related Expense,10,6,54,191,295,ZM
+Advertising Expense,17,36,--,35,41,ZM
+"Sell/Gen/AdminExpenses,Tot",110,230,427,996,"1,619",ZM
+Research & Development,16,33,67,164,363,ZM
+Unusual Expense (Income),--,--,--,10,--,ZM
+Total Operating Expense,156,324,610,"1,992","3,036",ZM
+Total Operating Income,(5),6,13,660,"1,064",ZM
+"Inter Income, Non-Operating",1,2,14,18,--,ZM
+"Invest Income, Non-Operat",--,--,--,--,25,ZM
+"Inter/Invest Inc, Non-Oper",1,2,14,18,25,ZM
+OtherNon-OperatInc (Expnse),0,0,--,--,13,ZM
+"Other, Net",0,0,--,--,13,ZM
+Income Before Tax,(4),8,26,678,"1,102",ZM
+Income Tax - Total,0,1,1,6,(274),ZM
+Income After Tax,(4),8,25,672,"1,376",ZM
+Net Inc Before Extra Items,(4),8,25,672,"1,376",ZM
+Total Extraordinary Items,0,--,0,--,--,ZM
+Total Net Income,(4),8,25,672,"1,376",ZM
+Total Adjust to Net Income,(4),(8),(4),(1),(1),ZM
+Income Available to Common Excl. Extra. Items,(8),0,22,672,"1,375",ZM
+Income Available to Common Incl. Extra. Items,(8),0,22,672,"1,375",ZM
+Basic/Primary Weighted Average Shares,256,256,279,284,296,ZM
+Basic/Primary EPS Excl. Extra. Items,(0.03),0.00,0.08,2.37,4.64,ZM
+Basic/Primary EPS Incl. Extra. Items,(0.03),0.00,0.08,2.37,4.64,ZM
+Diluted Weighted Average Shares,256,256,279,298,306,ZM
+Diluted EPS Excl. Extra. Items,(0.03),0.00,0.08,2.25,4.50,ZM
+Diluted EPS Incl. Extra. Items,(0.03),0.00,0.08,2.25,4.50,ZM
+Div/Share-ComStockPrimIssue,0.00,0.00,--,--,--,ZM
+Gross Divid - Common Stock,0,0,0,0,0,ZM
+Pro Forma Net Income,--,--,--,--,--,ZM
+"Depreciat/Amort, Suppl",3,7,16,29,48,ZM
+Total Special Items,--,--,--,10,--,ZM
+Normalzd Income Before Tax,(4),8,26,688,"1,102",ZM
+Efct/SpecItemsIncTxs (STEC),--,--,--,0,--,ZM
+IncTxsExcl ImpctofSpec Itms,0,1,1,6,(274),ZM
+Normalized Income After Tax,(4),8,25,682,"1,376",ZM
+Normalzd Inc Avail to Common,(8),0,22,681,"1,375",ZM
+Basic Normalized EPS,(0.03),0.00,0.08,2.40,4.64,ZM
+Diluted Normalized EPS,(0.03),0.00,0.08,2.29,4.50,ZM

@@ -1,0 +1,43 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"20,785","20,120","19,701","19,477",TMUS
+"Cost of Revenue, Total","9,328","8,315","7,748","7,624",TMUS
+"Sell/Gen/AdminExpenses,Tot","5,160","5,001","5,208","4,892",TMUS
+Depreciation/Amortization,"3,872","3,585","3,491","3,313",TMUS
+Litigation,--,--,400,--,TMUS
+Impair-Assets Held for Use,0,--,477,0,TMUS
+Other Unusual Expnse (In),"1,362","1,413","1,668","2,367",TMUS
+Unusual Expense (Income),"1,362","1,413","2,545","2,367",TMUS
+Total Operating Expense,"19,722","18,314","18,992","18,196",TMUS
+Total Operating Income,"1,063","1,806",709,"1,281",TMUS
+"Inter Expse,Net Non-Operat",(834),(864),(851),(827),TMUS
+"Inter/Invest Inc, Non-Oper",13,--,--,--,TMUS
+OtherNon-OperatInc (Expnse),(13),(11),(21),(3),TMUS
+"Other, Net",(13),(11),(21),(3),TMUS
+Income Before Tax,229,931,(163),451,TMUS
+Income Tax - Total,(193),218,(55),(57),TMUS
+Income After Tax,422,713,(108),508,TMUS
+Net Inc Before Extra Items,422,713,(108),508,TMUS
+Total Extraordinary Items,0,--,--,--,TMUS
+Total Net Income,422,713,(108),508,TMUS
+Income Available to Common Excl. Extra. Items,422,713,(108),508,TMUS
+Income Available to Common Incl. Extra. Items,422,713,(108),508,TMUS
+Basic/Primary Weighted Average Shares,"1,249","1,251","1,254","1,254",TMUS
+Basic/Primary EPS Excl. Extra. Items,0.34,0.57,(0.09),0.41,TMUS
+Basic/Primary EPS Incl. Extra. Items,0.34,0.57,(0.09),0.41,TMUS
+Diluted Weighted Average Shares,"1,256","1,255","1,254","1,259",TMUS
+Diluted EPS Excl. Extra. Items,0.34,0.57,(0.09),0.40,TMUS
+Diluted EPS Incl. Extra. Items,0.34,0.57,(0.09),0.40,TMUS
+Div/Share-ComStockPrimIssue,--,0.00,0.00,0.00,TMUS
+Gross Divid - Common Stock,0,0,0,0,TMUS
+Pro Forma Net Income,--,--,--,--,TMUS
+"Interest Expense, Suppl",834,864,851,827,TMUS
+"Interest Capitalized, Suppl",(23),(15),(13),(16),TMUS
+"Depreciat/Amort, Suppl","3,549","3,585","3,491","3,313",TMUS
+Total Special Items,"1,362","1,413","2,545","2,367",TMUS
+Normalzd Income Before Tax,"1,591","2,344","2,382","2,818",TMUS
+Efct/SpecItemsIncTxs (STEC),477,331,891,828,TMUS
+IncTxsExcl ImpctofSpec Itms,284,549,836,771,TMUS
+Normalized Income After Tax,"1,307","1,795","1,546","2,047",TMUS
+Normalzd Inc Avail to Common,"1,307","1,795","1,546","2,047",TMUS
+Basic Normalized EPS,1.05,1.44,1.23,1.63,TMUS
+Diluted Normalized EPS,1.04,1.43,1.23,1.63,TMUS

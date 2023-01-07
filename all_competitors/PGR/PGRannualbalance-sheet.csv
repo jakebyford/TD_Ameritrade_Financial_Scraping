@@ -1,0 +1,47 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash,265,70,226,77,187,PGR
+Prop./Plant/Equip. - Gross,"2,060","2,165","2,352","2,397","2,545",PGR
+Accumulated Depreciation,(941),"(1,033)","(1,138)","(1,291)","(1,407)",PGR
+Prop./Plant/Equip. - Net,"1,120","1,132","1,402","1,272","1,310",PGR
+"Goodwill, Net",453,453,453,453,453,PGR
+Intangibles - Gross,542,542,542,498,501,PGR
+Accum. Intangible Amort.,(176),(248),(314),(326),(384),PGR
+Intangibles - Net,367,295,228,171,117,PGR
+Long Term Investments,"27,275","33,567","39,254","47,530","51,514",PGR
+Insurance Receivables,"5,423","6,497","7,507","8,160","9,400",PGR
+Def. Inc. Tax - LT Asset,--,43,--,--,--,PGR
+Restricted Cash - LT,10,6,1,0,15,PGR
+Def. Policy Acq. Costs,781,952,"1,057","1,237","1,356",PGR
+Accrued Investment Income,120,191,181,176,182,PGR
+Reinsurance - Asset,"2,273","2,696","3,379","4,019","4,981",PGR
+Other Assets,616,675,"1,222","1,003","1,619",PGR
+"Other Assets, Total","3,009","3,562","4,782","5,199","6,781",PGR
+Total Assets,"38,701","46,575","54,911","64,098","71,132",PGR
+Accounts Payable,"2,826","5,047","4,416","4,777","5,830",PGR
+Accrued Expenses,--,--,202,179,181,PGR
+Policy Liabilities,"13,087","15,401","18,105","20,266","26,164",PGR
+Unearned Prem. Or Rev.,"8,904","10,687","12,389","13,438","15,616",PGR
+Policy Liabilities,"21,990","26,087","30,494","33,703","41,780",PGR
+Notes Payable/ST Debt,0,0,0,0,0,PGR
+Curr. Port. LT Dbt/Cap Ls.,25,0,0,500,0,PGR
+"Other Curr. Lblts, Total",655,--,"1,375","2,695",59,PGR
+Total Long Term Debt,"3,281","4,405","4,407","4,896","4,899",PGR
+Total Debt,"3,306","4,405","4,407","5,396","4,899",PGR
+Deferred Income Tax,135,0,118,310,153,PGR
+Minority Interest,504,215,226,0,--,PGR
+Total Liabilities,"29,416","35,753","41,237","47,060","52,901",PGR
+Pref. Stock - Non Rdmbl.,--,--,494,494,494,PGR
+Conv. Pref. Stk-Non Rdmbl.,--,494,--,--,--,PGR
+"Pref. Stock-Non Rdmbl, Net",--,494,494,494,494,PGR
+Common Stock,582,583,585,585,584,PGR
+Additional Paid-In Capital,"1,389","1,479","1,573","1,673","1,773",PGR
+Ret. Earn.(Accum. Deficit),"6,032","8,387","10,680","13,355","15,340",PGR
+Unrealized Gain (Loss),"1,295",(106),361,947,56,PGR
+Cum. Trans. Adjustment,0,--,--,--,(1),PGR
+Other Equity,(15),(17),(16),(16),(15),PGR
+Other Comprehensive Income,2,2,(3),0,--,PGR
+"Other Equity, Total",(13),(15),(19),(16),(16),PGR
+Total Equity,"9,285","10,822","13,673","17,039","18,232",PGR
+Total Liabilities & Shareholders’ Equity,"38,701","46,575","54,911","64,098","71,132",PGR
+Ttl Comm. Shares Outs.,582,583,585,585,584,PGR
+Trsy. Shrs-Comm. Primary Iss.,216,214,213,212,213,PGR

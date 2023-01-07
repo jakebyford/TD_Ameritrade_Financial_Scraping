@@ -1,0 +1,62 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash and Short Term Invs,191,226,204,564,459,EMN
+"Trade Accts Recvble, Gross","1,038","1,165",991,"1,047","1,108",EMN
+Prov. for Doubtful Accts,(12),(11),(11),(14),(17),EMN
+"Trade Accts Recvble, Net","1,026","1,216","1,045","1,095","1,173",EMN
+Other Receivables,360,267,330,420,407,EMN
+"Total Receivables, Net","1,386","1,483","1,375","1,515","1,580",EMN
+Invent. - Finished Goods,"1,114","1,143","1,114",891,"1,007",EMN
+Invent. - Work In Progress,213,262,220,203,273,EMN
+Invent. - Raw Materials,470,515,576,511,589,EMN
+LIFO Reserve,(288),(337),(248),(226),(365),EMN
+Total Inventory,"1,509","1,583","1,662","1,379","1,504",EMN
+Discont. Ops.-Curr. Assets,--,--,--,--,"1,007",EMN
+Other Current Assets,57,73,80,83,96,EMN
+"Other Curr. Assets, Total",57,73,80,83,"1,103",EMN
+Total Current Assets,"3,143","3,365","3,321","3,541","4,646",EMN
+Buildings,"1,325","1,385","1,430","1,824","1,458",EMN
+Land/Improvements,161,158,158,163,150,EMN
+Machinery/Equipment,"10,122","10,801","10,960","11,494","10,449",EMN
+Construction in Progress,762,387,356,50,623,EMN
+Other Prop./Plant/Equip.,--,--,197,176,216,EMN
+Prop./Plant/Equip. - Gross,"12,370","12,731","13,101","13,707","12,896",EMN
+Accumulated Depreciation,"(6,763)","(7,131)","(7,333)","(7,982)","(7,684)",EMN
+Prop./Plant/Equip. - Net,"5,607","5,600","5,768","5,725","5,212",EMN
+"Goodwill, Net","4,527","4,467","4,431","4,465","3,641",EMN
+Intangibles - Gross,"3,095","3,068","2,870","2,780","2,171",EMN
+Accum. Intangible Amort.,(722),(883),(859),(988),(809),EMN
+Intangibles - Net,"2,373","2,185","2,011","1,792","1,362",EMN
+Long Term Investments,95,100,106,111,96,EMN
+Other Long Term Assets,254,278,371,449,562,EMN
+Total Assets,"15,999","15,995","16,008","16,083","15,519",EMN
+Accounts Payable,842,914,890,799,"1,228",EMN
+Accrued Expenses,288,197,324,422,431,EMN
+Notes Payable/ST Debt,0,243,171,50,0,EMN
+Curr. Port. LT Dbt/Cap Ls.,393,--,0,299,747,EMN
+Dividends Payable,--,--,90,94,101,EMN
+Income Taxes Payable,111,94,89,178,138,EMN
+Discontinued Operations,--,--,--,--,91,EMN
+Other Current Liabilities,348,403,225,196,235,EMN
+"Other Curr. Lblts, Total",459,497,404,468,565,EMN
+Total Current Liabilities,"1,982","1,851","1,789","2,038","2,971",EMN
+Total Long Term Debt,"6,147","5,925","5,610","5,269","4,412",EMN
+Total Debt,"6,540","6,168","5,781","5,618","5,159",EMN
+Deferred Income Tax,893,884,915,848,810,EMN
+Minority Interest,77,75,74,85,84,EMN
+Pension Benefits - Underfunded,963,925,"1,016","1,143",811,EMN
+Other LT Liabilities,534,532,646,677,727,EMN
+"Other Liabilities, Total","1,497","1,457","1,662","1,820","1,538",EMN
+Total Liabilities,"10,596","10,192","10,050","10,060","9,815",EMN
+Common Stock,2,2,2,2,2,EMN
+Additional Paid-In Capital,"1,983","2,048","2,105","2,174","2,187",EMN
+Ret. Earn.(Accum. Deficit),"6,802","7,573","7,965","8,080","8,557",EMN
+Treasury Stock - Common,"(3,175)","(3,575)","(3,900)","(3,960)","(4,860)",EMN
+Unrealized Gain (Loss),(1),(1),(1),(1),(1),EMN
+Cum. Trans. Adjustment,(296),(309),(264),(293),(237),EMN
+Min. Pension Lblty Adj.,136,106,106,87,59,EMN
+Other Comprehensive Income,(48),(41),(55),(66),(3),EMN
+"Other Equity, Total",(208),(244),(213),(272),(181),EMN
+Total Equity,"5,403","5,803","5,958","6,023","5,704",EMN
+Total Liabilities & Shareholders’ Equity,"15,999","15,995","16,008","16,083","15,519",EMN
+Ttl Comm. Shares Outs.,143,140,136,136,129,EMN
+Trsy. Shrs-Comm. Primary Iss.,75,79,84,85,93,EMN

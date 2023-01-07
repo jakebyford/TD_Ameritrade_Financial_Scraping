@@ -1,0 +1,40 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"137,412","116,444","121,234","127,101",AMZN
+"Cost of Revenue, Total","82,835","66,499","66,424","70,268",AMZN
+Selling/Gen/Admin Expense,"34,182","29,726","31,149","32,328",AMZN
+Labor & Related Expense,"1,598","1,459","2,182","2,330",AMZN
+"Sell/Gen/AdminExpenses,Tot","35,780","31,185","33,331","34,658",AMZN
+Research & Development,"15,313","14,842","18,072","19,485",AMZN
+"Other Operat Expse, Total",24,249,90,165,AMZN
+Total Operating Expense,"133,952","112,775","117,917","124,576",AMZN
+Total Operating Income,"3,460","3,669","3,317","2,525",AMZN
+"Inter Expse,Net Non-Operat",(482),(472),(584),(617),AMZN
+"Inter Income, Non-Operating",118,108,159,277,AMZN
+"Invest Income, Non-Operat","11,547","(8,231)","(4,439)",936,AMZN
+"Inter/Invest Inc, Non-Oper","11,665","(8,123)","(4,280)","1,213",AMZN
+OtherNon-OperatInc (Expnse),291,(339),"(1,106)",(177),AMZN
+"Other, Net",291,(339),"(1,106)",(177),AMZN
+Income Before Tax,"14,934","(5,265)","(2,653)","2,944",AMZN
+Income Tax - Total,612,"(1,422)",(637),69,AMZN
+Income After Tax,"14,322","(3,843)","(2,016)","2,875",AMZN
+Equity In Affiliates,1,(1),(12),(3),AMZN
+Net Inc Before Extra Items,"14,323","(3,844)","(2,028)","2,872",AMZN
+Total Net Income,"14,323","(3,844)","(2,028)","2,872",AMZN
+Income Available to Common Excl. Extra. Items,"14,323","(3,844)","(2,028)","2,872",AMZN
+Income Available to Common Incl. Extra. Items,"14,323","(3,844)","(2,028)","2,872",AMZN
+Basic/Primary Weighted Average Shares,"10,180","10,180","10,175","10,191",AMZN
+Basic/Primary EPS Excl. Extra. Items,1.41,(0.38),(0.20),0.28,AMZN
+Basic/Primary EPS Incl. Extra. Items,1.41,(0.38),(0.20),0.28,AMZN
+Diluted Weighted Average Shares,"10,360","10,180","10,175","10,331",AMZN
+Diluted EPS Excl. Extra. Items,1.38,(0.38),(0.20),0.28,AMZN
+Diluted EPS Incl. Extra. Items,1.38,(0.38),(0.20),0.28,AMZN
+Div/Share-ComStockPrimIssue,--,0.00,0.00,0.00,AMZN
+Pro Forma Net Income,--,--,--,--,AMZN
+"Interest Expense, Suppl",482,472,584,617,AMZN
+"Depreciat/Amort, Suppl","9,802","8,978","9,594","10,204",AMZN
+Normalzd Income Before Tax,"14,934","(5,265)","(2,653)","2,944",AMZN
+IncTxsExcl ImpctofSpec Itms,612,"(1,422)",(637),69,AMZN
+Normalized Income After Tax,"14,322","(3,843)","(2,016)","2,875",AMZN
+Normalzd Inc Avail to Common,"14,323","(3,844)","(2,028)","2,872",AMZN
+Basic Normalized EPS,1.41,(0.38),(0.20),0.28,AMZN
+Diluted Normalized EPS,1.38,(0.38),(0.20),0.28,AMZN

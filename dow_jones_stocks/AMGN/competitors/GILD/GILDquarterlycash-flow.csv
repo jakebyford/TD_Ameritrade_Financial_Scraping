@@ -1,0 +1,36 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"6,201",12,"1,147","2,933",GILD
+Depreciation/Depletion,329,80,160,240,GILD
+Amortization,"1,721",445,890,"1,335",GILD
+Deferred Taxes,(116),(651),(944),"(1,214)",GILD
+Unusual Items,610,"2,796","3,099","3,296",GILD
+Other Non-Cash Items,"2,150",320,"1,053","1,795",GILD
+Non-Cash Items,"2,760","3,116","4,152","5,091",GILD
+Accounts Receivable,313,699,247,(125),GILD
+Inventories,11,53,61,(34),GILD
+Prepaid Expenses,(42),(20),(30),12,GILD
+Accounts Payable,(118),(91),(104),(38),GILD
+Accrued Expenses,689,"(1,657)","(1,295)","(1,131)",GILD
+Changes in Working Capital,489,"(1,162)","(1,763)","(1,880)",GILD
+Total Cash from Operations,"11,384","1,840","3,642","6,505",GILD
+Capital Expenditures,(579),(247),(390),(547),GILD
+Acquisition of Business,"(1,402)",(30),"(1,131)","(1,579)",GILD
+Sale/Maturity of Investment,"2,910",625,"1,278","1,602",GILD
+Purchase of Investments,"(3,897)",(641),"(1,134)","(1,564)",GILD
+Other Investing Cash Flow,(163),(777),(1),(3),GILD
+"OtherInvestCashFlowItms,Tot","(2,552)",(823),(988),"(1,544)",GILD
+Total Cash from Investing,"(3,131)","(1,070)","(1,378)","(2,091)",GILD
+Financing Cash Flow Items,(145),(91),(105),(150),GILD
+Total Cash Dividends Paid,"(3,605)",(945),"(1,865)","(2,794)",GILD
+Sale/Issuance of Common,169,94,97,133,GILD
+Repurch/Retirement Common,(546),(352),(424),(604),GILD
+"Iss (Retirmnt) of Stock,Net",(377),(258),(327),(471),GILD
+Long Term Debt Issued,0,--,--,--,GILD
+Long Term Debt Reduction,"(4,750)",(500),(500),"(1,500)",GILD
+"Iss (Retirmnt) of Debt, Net","(4,750)",(500),(500),"(1,500)",GILD
+Total Cash From Financing,"(8,877)","(1,794)","(2,797)","(4,915)",GILD
+Foreign Exchange Effects,(35),(18),(66),(138),GILD
+Net Change in Cash,(659),"(1,042)",(599),(639),GILD
+NetCash-BeginBal/RsvdforFutUse,"5,997","5,338","5,338","5,338",GILD
+NetCash-EndBal/RsrvforFutUse,"5,338","4,296","4,739","4,699",GILD
+"Depreciation, Supplemental",329,80,160,240,GILD

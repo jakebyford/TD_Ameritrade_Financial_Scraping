@@ -1,0 +1,37 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Net Income,164,363,602,867,TDG
+Depreciation/Depletion,29,58,85,116,TDG
+Amortization,36,69,103,137,TDG
+Deferred Taxes,0,(1),(1),(22),TDG
+Discontinued Operations,(1),(1),(1),(1),TDG
+Unusual Items,--,(3),(6),(6),TDG
+Other Non-Cash Items,32,75,97,117,TDG
+Non-Cash Items,31,71,90,110,TDG
+"Cash Taxes Pd, Supplemental",17,95,138,220,TDG
+"Cash Interest Pd, Suppl",273,574,791,"1,057",TDG
+Accounts Receivable,117,(8),(91),(190),TDG
+Inventories,(32),(62),(108),(134),TDG
+Other Assets,(2),(16),(23),(56),TDG
+Accounts Payable,(14),13,23,58,TDG
+Accrued Expenses,(44),(101),(26),4,TDG
+Changes in Working Capital,19,(194),(204),(260),TDG
+Total Cash from Operations,279,366,675,948,TDG
+Capital Expenditures,(25),(57),(86),(119),TDG
+Acquisition of Business,0,0,(422),(437),TDG
+Other Investing Cash Flow,0,3,3,3,TDG
+"OtherInvestCashFlowItms,Tot",0,3,(419),(434),TDG
+Total Cash from Investing,(25),(54),(505),(553),TDG
+Financing Cash Flow Items,--,(1),(1),(2),TDG
+Total Cash Dividends Paid,(46),(46),(46),"(1,091)",TDG
+"Common Stock, Net",--,(667),(912),(912),TDG
+Options Exercised,40,80,99,132,TDG
+"Iss (Retirmnt) of Stock,Net",40,(587),(813),(780),TDG
+Long Term Debt Issued,0,0,0,--,TDG
+Long Term Debt Reduction,(219),(238),(256),(275),TDG
+"Iss (Retirmnt) of Debt, Net",(219),(238),(256),(275),TDG
+Total Cash From Financing,(225),(872),"(1,116)","(2,148)",TDG
+Foreign Exchange Effects,(3),(11),(33),(33),TDG
+Net Change in Cash,26,(571),(979),"(1,786)",TDG
+NetCash-BeginBal/RsvdforFutUse,"4,787","4,787","4,787","4,787",TDG
+NetCash-EndBal/RsrvforFutUse,"4,813","4,216","3,808","3,001",TDG
+"Depreciation, Supplemental",29,58,85,116,TDG

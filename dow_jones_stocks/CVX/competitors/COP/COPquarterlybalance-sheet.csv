@@ -1,0 +1,52 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash & Equivalents,"5,028","6,414","6,909","8,010",COP
+Short Term Investments,446,730,"1,272","2,412",COP
+Cash and Short Term Invs,"5,474","7,144","8,181","10,422",COP
+"Trade Accts Recvble, Gross","6,545","7,809","8,083","7,340",COP
+Prov. for Doubtful Accts,(2),(2),(2),(2),COP
+"Total Receivables, Net","6,670","7,879","8,153","7,354",COP
+Invent. - Finished Goods,647,611,653,650,COP
+Invent. - Raw Materials,561,563,581,576,COP
+Total Inventory,"1,208","1,174","1,234","1,226",COP
+Prepaid Expenses,"1,487","1,389","1,292","1,299",COP
+Restricted Cash - Current,94,0,--,152,COP
+Other Current Assets,"1,117",0,0,0,COP
+"Other Curr. Assets, Total","1,211",0,0,152,COP
+Total Current Assets,"16,050","17,586","18,860","20,453",COP
+Prop./Plant/Equip. - Gross,"129,646","129,353","129,220","128,547",COP
+Accumulated Depreciation,"(64,735)","(64,711)","(65,212)","(64,874)",COP
+Prop./Plant/Equip. - Net,"64,911","64,642","64,008","63,673",COP
+LT Invt. - Affiliate Comp.,"6,701","6,800","6,400","6,400",COP
+LT Investments - Other,314,--,--,--,COP
+Long Term Investments,"7,015","6,800","6,400","6,400",COP
+Note Rcvble - Long Term,98,"1,509","1,803","1,804",COP
+Other Long Term Assets,"2,369","2,446","2,305","2,201",COP
+Total Assets,"90,661","93,308","93,693","94,837",COP
+Accounts Payable,"5,025","4,897","5,873","6,268",COP
+Accrued Expenses,"2,934","2,405","2,908","3,878",COP
+Notes Payable/ST Debt,0,0,0,0,COP
+Curr. Port. LT Dbt/Cap Ls.,"1,200","1,160",676,664,COP
+"Other Curr. Lblts, Total","2,862","3,162","2,759","3,187",COP
+Total Current Liabilities,"12,021","11,624","12,216","13,997",COP
+Long Term Debt,"17,753","16,278","15,011","15,015",COP
+Capital Lease Obligations,981,"1,308","1,284","1,282",COP
+Total Long Term Debt,"18,734","17,586","16,295","16,297",COP
+Total Debt,"19,934","18,746","16,971","16,961",COP
+Deferred Income Tax,"6,179","6,556","6,694","7,218",COP
+Reserves,"5,754","5,815","5,737","5,729",COP
+Pension Benefits - Underfunded,"1,153","1,085","1,080","1,087",COP
+Other LT Liabilities,"1,414","1,424","1,469","1,430",COP
+"Other Liabilities, Total","8,321","8,324","8,286","8,246",COP
+Total Liabilities,"45,255","44,090","43,491","45,758",COP
+Common Stock,21,21,21,21,COP
+Additional Paid-In Capital,"60,581","60,907","61,045","61,089",COP
+Ret. Earn.(Accum. Deficit),"40,674","45,442","49,093","51,278",COP
+Treasury Stock - Common,"(50,920)","(52,344)","(54,644)","(57,444)",COP
+Unrealized Gain (Loss),--,(3),(7),(13),COP
+Cum. Trans. Adjustment,"(4,919)","(4,778)","(5,226)","(5,760)",COP
+Min. Pension Lblty Adj.,(31),(27),(80),(92),COP
+"Other Equity, Total","(4,950)","(4,805)","(5,306)","(5,852)",COP
+Total Equity,"45,406","49,218","50,202","49,079",COP
+Total Liabilities & Shareholders’ Equity,"90,661","93,308","93,693","94,837",COP
+Ttl Comm. Shares Outs.,"1,302","1,293","1,273","1,246",COP
+Trsy. Shrs-Comm. Primary Iss.,789,805,827,854,COP

@@ -1,0 +1,59 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash and Short Term Invs,"19,223","38,565","4,018","2,423",TBC
+"Trade Accts Recvble, Gross","12,971","18,006","12,032","12,030",TBC
+Prov. for Doubtful Accts,(658),(788),(655),(646),TBC
+"Trade Accts Recvble, Net","14,913","19,654","13,847","13,873",TBC
+Other Receivables,"4,148","4,306","4,279","4,252",TBC
+"Total Receivables, Net","19,061","23,960","18,126","18,125",TBC
+Total Inventory,"3,325","3,153","3,241","3,935",TBC
+Prepaid Expenses,"3,585","5,115","2,711","1,250",TBC
+Discont. Ops.-Curr. Assets,"119,776",--,85,0,TBC
+Other Current Assets,"5,798","6,063","6,304","6,562",TBC
+"Other Curr. Assets, Total","125,574","6,063","6,389","6,562",TBC
+Total Current Assets,"170,768","76,856","34,485","32,295",TBC
+Prop./Plant/Equip. - Gross,"324,613","323,434","323,349","327,903",TBC
+Accumulated Depreciation,"(202,964)","(196,275)","(198,214)","(200,858)",TBC
+Prop./Plant/Equip. - Net,"143,473","151,100","146,943","148,827",TBC
+"Goodwill, Net","92,740","133,247","92,746","92,725",TBC
+Intangibles - Net,"119,221","158,826","128,928","129,218",TBC
+Long Term Investments,"6,168","5,943","4,523","3,964",TBC
+Other Long Term Assets,"19,252","51,223","18,808","19,434",TBC
+Total Assets,"551,622","577,195","426,433","426,463",TBC
+Payable/Accrued,"35,702","43,151","33,193","36,642",TBC
+Accrued Expenses,"3,393","3,694","3,466","3,468",TBC
+Notes Payable/ST Debt,0,0,0,0,TBC
+Curr. Port. LT Dbt/Cap Ls.,"25,865","28,380","6,829","6,429",TBC
+Dividends Payable,"3,749","2,086","2,013","2,013",TBC
+Customer Advances,"3,966","5,183","3,603","3,705",TBC
+Discontinued Operations,"33,555",--,85,0,TBC
+"Other Curr. Lblts, Total","41,270","7,269","5,701","5,718",TBC
+Total Current Liabilities,"106,230","82,494","49,189","52,257",TBC
+Long Term Debt,"149,569","178,716","128,205","122,378",TBC
+Capital Lease Obligations,"1,442","1,509","1,542","1,476",TBC
+Total Long Term Debt,"151,011","180,225","129,747","123,854",TBC
+Total Debt,"176,876","208,605","136,576","130,283",TBC
+Deferred Income Tax,"53,767","65,963","55,301","56,055",TBC
+Minority Interest,"17,523","17,520","17,561","17,572",TBC
+Pension Benefits - Underfunded,"12,560","11,294","9,775","6,152",TBC
+Other LT Liabilities,"44,199","50,663","47,114","48,167",TBC
+"Other Liabilities, Total","56,759","61,957","56,889","54,319",TBC
+Total Liabilities,"385,290","408,159","308,687","304,057",TBC
+Common Stock,"7,621","7,621","7,621","7,621",TBC
+Additional Paid-In Capital,"130,112","129,637","122,850","122,933",TBC
+Ret. Earn.(Accum. Deficit),"42,350","45,041","2,128","6,127",TBC
+Treasury Stock - Common,"(17,280)","(16,553)","(17,160)","(17,148)",TBC
+Unrealized Gain (Loss),45,(21),(58),(100),TBC
+Cum. Trans. Adjustment,"(1,964)","(1,945)","(1,886)","(1,986)",TBC
+Min. Pension Lblty Adj.,"6,870","6,405","5,969","7,205",TBC
+Other Comprehensive Income,"(1,422)","(1,149)","(1,718)","(2,246)",TBC
+"Other Equity, Total","3,484","3,311","2,365","2,973",TBC
+Total Equity,"166,332","169,036","117,746","122,406",TBC
+Total Liabilities & Shareholders’ Equity,"551,622","577,195","426,433","426,463",TBC
+Ttl Comm. Shares Outs.,"7,141","7,159","7,126","7,126",TBC
+Trsy. Shrs-Comm. Primary Iss.,480,462,495,495,TBC
+Shrs Out-Pref Primary Iss.,0,0,0,0,TBC
+Shrs Out-Pref Stk Iss. 2,0,0,0,0,TBC
+Shrs Out-Pref Stk Iss. 3,0,0,0,0,TBC
+Trsry Shrs-Pref. Iss. 1,0,0,0,0,TBC
+Trsry Shrs-Pref. Iss. 2,0,0,0,0,TBC
+Trsry Shrs-Pref. Iss. 3,0,0,0,0,TBC

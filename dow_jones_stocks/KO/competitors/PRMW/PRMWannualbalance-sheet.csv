@@ -1,0 +1,58 @@
+items,2017,2018,2019,2021,2022,ticker
+Cash and Short Term Invs,92,171,206,115,128,PRMW
+"Trade Accts Recvble, Gross",276,293,269,227,262,PRMW
+Prov. for Doubtful Accts,(8),(10),(9),(21),(21),PRMW
+"Trade Accts Recvble, Net",268,283,259,206,241,PRMW
+Other Receivables,17,25,20,17,21,PRMW
+"Total Receivables, Net",285,308,279,222,262,PRMW
+Invent. - Finished Goods,56,58,60,39,36,PRMW
+Invent. - Raw Materials,68,69,60,44,57,PRMW
+Inventories - Other,3,3,4,1,2,PRMW
+Total Inventory,128,130,123,84,95,PRMW
+Prepaid Expenses,21,27,35,21,25,PRMW
+"Other Curr. Assets, Total",409,0,--,0,--,PRMW
+Total Current Assets,934,636,642,443,510,PRMW
+Buildings,123,129,136,115,116,PRMW
+Land/Improvements,83,99,99,96,95,PRMW
+Machinery/Equipment,242,289,319,281,294,PRMW
+Other Prop./Plant/Equip.,373,406,716,854,967,PRMW
+Prop./Plant/Equip. - Gross,821,922,"1,270","1,346","1,471",PRMW
+Accumulated Depreciation,(237),(298),(419),(480),(576),PRMW
+Prop./Plant/Equip. - Net,584,625,851,866,896,PRMW
+"Goodwill, Net","1,105","1,144","1,176","1,284","1,321",PRMW
+Intangibles - Gross,924,980,"1,031","1,363","1,403",PRMW
+Accum. Intangible Amort.,(173),(241),(330),(375),(433),PRMW
+Intangibles - Net,751,739,701,988,970,PRMW
+Def. Inc. Tax - LT Asset,2,0,0,--,--,PRMW
+Disct. Ops. - LT Asset,678,0,--,0,--,PRMW
+Other Long Term Assets,39,32,21,24,27,PRMW
+Total Assets,"4,093","3,176","3,391","3,605","3,723",PRMW
+Accounts Payable,197,206,200,135,181,PRMW
+Accrued Expenses,216,235,289,273,268,PRMW
+Notes Payable/ST Debt,220,89,92,108,222,PRMW
+Curr. Port. LT Dbt/Cap Ls.,5,3,7,18,18,PRMW
+Discontinued Operations,295,0,--,0,--,PRMW
+Other Current Liabilities,--,28,18,16,21,PRMW
+"Other Curr. Lblts, Total",295,28,18,16,21,PRMW
+Total Current Liabilities,933,561,608,549,710,PRMW
+Long Term Debt,"2,058","1,247","1,236","1,287","1,245",PRMW
+Capital Lease Obligations,4,3,25,58,76,PRMW
+Total Long Term Debt,"2,062","1,250","1,260","1,345","1,321",PRMW
+Total Debt,"2,287","1,342","1,360","1,471","1,561",PRMW
+Deferred Income Tax,98,124,127,148,159,PRMW
+Minority Interest,6,0,--,--,--,PRMW
+Other LT Liabilities,68,70,230,216,214,PRMW
+Discont. Ops. - Lblts,46,0,--,--,--,PRMW
+"Other Liabilities, Total",114,70,230,216,214,PRMW
+Total Liabilities,"3,214","2,005","2,225","2,258","2,403",PRMW
+Common Stock,917,899,892,"1,268","1,287",PRMW
+Additional Paid-In Capital,69,74,77,85,86,PRMW
+Ret. Earn.(Accum. Deficit),(12),299,265,81,16,PRMW
+Cum. Trans. Adjustment,(76),(92),(79),(86),(67),PRMW
+Min. Pension Lblty Adj.,(17),0,(1),(1),(2),PRMW
+Other Comprehensive Income,(1),(10),11,0,0,PRMW
+"Other Equity, Total",(94),(102),(69),(87),(69),PRMW
+Total Equity,880,"1,170","1,166","1,347","1,320",PRMW
+Total Liabilities & Shareholders’ Equity,"4,093","3,176","3,391","3,605","3,723",PRMW
+Ttl Comm. Shares Outs.,139,136,135,160,161,PRMW
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,PRMW

@@ -1,0 +1,39 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"2,165","1,655","1,493","1,874","2,456",DISH
+Depreciation/Depletion,818,712,631,715,725,DISH
+Deferred Taxes,(486),455,228,899,602,DISH
+Unusual Items,46,(12),(4),378,20,DISH
+Other Non-Cash Items,30,36,14,94,18,DISH
+Non-Cash Items,76,24,10,472,38,DISH
+"Cash Taxes Pd, Supplemental",40,31,31,151,212,DISH
+"Cash Interest Pd, Suppl",996,921,900,778,782,DISH
+Accounts Receivable,127,15,49,(25),209,DISH
+Inventories,38,15,(80),58,(168),DISH
+Prepaid Expenses,(47),94,50,(85),81,DISH
+Other Assets,(66),(48),70,(271),(62),DISH
+Accounts Payable,(131),(161),47,73,101,DISH
+Accrued Expenses,351,(70),(183),(158),51,DISH
+Changes in Working Capital,207,(329),301,(648),211,DISH
+Total Cash from Operations,"2,780","2,518","2,662","3,312","4,031",DISH
+Purchase of Fixed Assets,(432),(394),(581),(413),"(1,186)",DISH
+Purchase/Acq of Intangibles,"(4,711)",0,(12),"(1,048)",(123),DISH
+Capital Expenditures,"(5,143)",(394),(593),"(1,461)","(1,308)",DISH
+Acquisition of Business,--,--,--,"(1,313)",--,DISH
+Sale/Maturity of Investment,206,730,"1,800","1,945","2,069",DISH
+Purchase of Investments,(657),"(1,404)","(1,030)","(1,903)","(4,687)",DISH
+Other Investing Cash Flow,(928),(908),(895),"(1,130)",(484),DISH
+"OtherInvestCashFlowItms,Tot","(1,379)","(1,581)",(125),"(2,401)","(3,102)",DISH
+Total Cash from Investing,"(6,522)","(1,975)",(718),"(3,862)","(4,410)",DISH
+Financing Cash Flow Items,(15),(3),(4),(327),(59),DISH
+"Common Stock, Net",--,--,998,--,--,DISH
+Options Exercised,29,20,36,27,58,DISH
+Warrants Converted,0,0,--,--,--,DISH
+"Iss (Retirmnt) of Stock,Net",29,20,"1,035",27,58,DISH
+Long Term Debt Issued,"1,000",0,0,"3,000","6,750",DISH
+Long Term Debt Reduction,"(1,117)","(1,151)","(1,359)","(1,201)","(2,090)",DISH
+"Iss (Retirmnt) of Debt, Net",(117),"(1,151)","(1,359)","1,799","4,660",DISH
+Total Cash From Financing,(103),"(1,135)",(328),"1,499","4,659",DISH
+Net Change in Cash,"(3,845)",(592),"1,616",950,"4,280",DISH
+NetCash-BeginBal/RsvdforFutUse,"5,325","1,480",888,"2,504","3,454",DISH
+NetCash-EndBal/RsrvforFutUse,"1,480",888,"2,504","3,454","7,734",DISH
+"Depreciation, Supplemental",818,712,631,715,725,DISH

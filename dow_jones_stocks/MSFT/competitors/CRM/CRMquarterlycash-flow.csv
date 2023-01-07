@@ -1,0 +1,33 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Net Income,"1,444",28,96,306,CRM
+Depreciation/Depletion,"3,298",906,"1,813","2,754",CRM
+Extraordinary Item,0,--,--,--,CRM
+Unusual Items,"(1,211)",(7),(52),(75),CRM
+Other Non-Cash Items,"4,127","1,170","2,429","3,695",CRM
+Non-Cash Items,"2,916","1,163","2,377","3,620",CRM
+"Cash Taxes Pd, Supplemental",196,181,277,390,CRM
+"Cash Interest Pd, Suppl",187,46,138,184,CRM
+Accounts Receivable,"(4,107)","5,406","4,111","4,207",CRM
+Prepaid Expenses,114,(409),(296),(359),CRM
+Accrued Expenses,(801),(202),(388),(561),CRM
+Payable/Accrued,507,"(1,222)",(896),"(1,205)",CRM
+Changes in Working Capital,"(1,658)","1,579",(276),"(2,357)",CRM
+Total Cash from Operations,"6,000","3,676","4,010","4,323",CRM
+Capital Expenditures,(717),(179),(382),(580),CRM
+Acquisition of Business,"(14,876)",(414),(439),(439),CRM
+Sale/Maturity of Investment,"8,449",931,"2,142","3,325",CRM
+Purchase of Investments,"(7,392)","(2,795)","(4,155)","(4,607)",CRM
+"OtherInvestCashFlowItms,Tot","(13,819)","(2,278)","(2,452)","(1,721)",CRM
+Total Cash from Investing,"(14,536)","(2,457)","(2,834)","(2,301)",CRM
+"Common Stock, Net",--,--,--,"(1,677)",CRM
+Options Exercised,"1,289",274,455,688,CRM
+"Iss (Retirmnt) of Stock,Net","1,289",274,455,(989),CRM
+"Short Term Debt, Net","(1,197)",--,0,0,CRM
+"Long Term Debt, Net","7,746",(73),(118),(352),CRM
+"Iss (Retirmnt) of Debt, Net","6,549",(73),(118),(352),CRM
+Total Cash From Financing,"7,838",201,337,"(1,341)",CRM
+Foreign Exchange Effects,(33),(25),(46),(69),CRM
+Net Change in Cash,(731),"1,395","1,467",612,CRM
+NetCash-BeginBal/RsvdforFutUse,"6,195","5,464","5,464","5,464",CRM
+NetCash-EndBal/RsrvforFutUse,"5,464","6,859","6,931","6,076",CRM
+"Depreciation, Supplemental","3,298",906,"1,813","2,754",CRM

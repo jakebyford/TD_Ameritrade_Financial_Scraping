@@ -1,0 +1,48 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"14,886","13,538","14,583","14,812",ABBV
+"Cost of Revenue, Total","4,280","4,021","4,144","4,228",ABBV
+Selling/Gen/Admin Expense,"3,090","2,877","5,275","3,145",ABBV
+Labor & Related Expense,77,180,61,71,ABBV
+"Sell/Gen/AdminExpenses,Tot","3,167","3,057","5,336","3,216",ABBV
+Research & Development,"1,812","1,488","1,608","1,610",ABBV
+Purchased R&D Written-Off,405,145,269,40,ABBV
+Restructuring Charge,148,110,103,116,ABBV
+Impair-Assets Held for Use,--,--,--,770,ABBV
+Unusual Expense (Income),553,255,372,926,ABBV
+"Other Operat Expse, Total",0,0,(172),229,ABBV
+Total Operating Expense,"9,812","8,821","11,288","10,209",ABBV
+Total Operating Income,"5,074","4,717","3,295","4,603",ABBV
+"Inter Expse,Net Non-Operat",(580),(548),(556),(560),ABBV
+"Inter Income, Non-Operating",9,9,24,63,ABBV
+"Invest Income, Non-Operat",(16),(25),(47),(36),ABBV
+"Inter/Invest Inc, Non-Oper",(7),(16),(23),27,ABBV
+OtherNon-OperatInc (Expnse),(216),776,"(1,533)",330,ABBV
+"Other, Net",(216),776,"(1,533)",330,ABBV
+Income Before Tax,"4,271","4,929","1,183","4,400",ABBV
+Income Tax - Total,226,436,255,448,ABBV
+Income After Tax,"4,045","4,493",928,"3,952",ABBV
+Minority Interest,(1),(3),(4),(3),ABBV
+Net Inc Before Extra Items,"4,044","4,490",924,"3,949",ABBV
+Total Net Income,"4,044","4,490",924,"3,949",ABBV
+Total Adjust to Net Income,(21),(15),(11),(18),ABBV
+Income Available to Common Excl. Extra. Items,"4,023","4,475",913,"3,931",ABBV
+Income Available to Common Incl. Extra. Items,"4,023","4,475",913,"3,931",ABBV
+Basic/Primary Weighted Average Shares,"1,773","1,770","1,770","1,771",ABBV
+Basic/Primary EPS Excl. Extra. Items,2.27,2.53,0.52,2.22,ABBV
+Basic/Primary EPS Incl. Extra. Items,2.27,2.53,0.52,2.22,ABBV
+Diluted Weighted Average Shares,"1,780","1,777","1,776","1,776",ABBV
+Diluted EPS Excl. Extra. Items,2.26,2.52,0.51,2.21,ABBV
+Diluted EPS Incl. Extra. Items,2.26,2.52,0.51,2.21,ABBV
+Div/Share-ComStockPrimIssue,1.30,1.41,1.41,1.41,ABBV
+Gross Divid - Common Stock,"2,517","2,514","2,511","2,512",ABBV
+Pro Forma Net Income,--,--,--,--,ABBV
+"Interest Expense, Suppl",580,548,556,560,ABBV
+"Depreciat/Amort, Suppl",173,198,203,181,ABBV
+Total Special Items,556,312,408,976,ABBV
+Normalzd Income Before Tax,"4,827","5,241","1,591","5,376",ABBV
+Efct/SpecItemsIncTxs (STEC),8,15,30,95,ABBV
+IncTxsExcl ImpctofSpec Itms,234,451,285,543,ABBV
+Normalized Income After Tax,"4,593","4,790","1,306","4,833",ABBV
+Normalzd Inc Avail to Common,"4,571","4,772","1,291","4,812",ABBV
+Basic Normalized EPS,2.58,2.70,0.73,2.72,ABBV
+Diluted Normalized EPS,2.57,2.69,0.73,2.71,ABBV

@@ -1,0 +1,49 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"40,122","42,294","39,121","41,518","48,704",MRK
+"Cost of Revenue, Total","12,640","13,065","11,060","11,583","13,241",MRK
+"Sell/Gen/AdminExpenses,Tot","10,028","10,067","9,421","8,908","9,615",MRK
+Research & Development,"7,495","7,854","8,555","10,102","10,281",MRK
+Purchased R&D Written-Off,483,152,172,90,275,MRK
+Restructuring Charge,927,658,915,880,868,MRK
+Impair-Assets Held for Use,134,--,705,"1,600",0,MRK
+Other Unusual Expnse (In),"2,394","2,199",993,"3,382","1,886",MRK
+Unusual Expense (Income),"3,938","3,009","2,785","5,952","3,029",MRK
+Total Operating Expense,"34,101","33,995","31,821","36,545","36,166",MRK
+Total Operating Income,"6,021","8,299","7,300","4,973","12,538",MRK
+"Inter Expse,Net Non-Operat",(754),(772),(893),(831),(806),MRK
+"Inter Income, Non-Operating",385,343,274,59,36,MRK
+"Invest Income, Non-Operat",253,439,(17),"1,193","1,643",MRK
+"Inter/Invest Inc, Non-Oper",638,782,257,"1,252","1,679",MRK
+OtherNon-OperatInc (Expnse),616,392,507,469,468,MRK
+"Other, Net",616,392,507,469,468,MRK
+Income Before Tax,"6,521","8,701","7,171","5,863","13,879",MRK
+Income Tax - Total,"1,478","2,219","1,565","1,340","1,521",MRK
+Income After Tax,"5,043","6,482","5,606","4,523","12,358",MRK
+Minority Interest,(24),27,84,(4),(13),MRK
+Net Inc Before Extra Items,"5,019","6,509","5,690","4,519","12,345",MRK
+Discontinued Operations,--,--,"4,275","2,917",754,MRK
+Extraordinary Item,"(2,625)",(289),--,--,--,MRK
+Tax on Extraordinary Items,--,--,(122),(369),(50),MRK
+Total Extraordinary Items,"(2,625)",(289),"4,153","2,548",704,MRK
+Total Net Income,"2,394","6,220","9,843","7,067","13,049",MRK
+Income Available to Common Excl. Extra. Items,"5,019","6,509","5,690","4,519","12,345",MRK
+Income Available to Common Incl. Extra. Items,"2,394","6,220","9,843","7,067","13,049",MRK
+Basic/Primary Weighted Average Shares,"2,730","2,664","2,565","2,530","2,530",MRK
+Basic/Primary EPS Excl. Extra. Items,1.84,2.44,2.22,1.79,4.88,MRK
+Basic/Primary EPS Incl. Extra. Items,0.88,2.33,3.84,2.79,5.16,MRK
+Diluted Weighted Average Shares,"2,748","2,679","2,580","2,541","2,538",MRK
+Diluted EPS Excl. Extra. Items,1.83,2.43,2.21,1.78,4.86,MRK
+Diluted EPS Incl. Extra. Items,0.87,2.32,3.82,2.78,5.14,MRK
+Div/Share-ComStockPrimIssue,2.36,1.99,2.26,2.48,2.64,MRK
+Gross Divid - Common Stock,"5,177","5,313","5,820","6,307","6,715",MRK
+Pro Forma Net Income,--,--,--,--,--,MRK
+"Interest Expense, Suppl",754,772,893,831,806,MRK
+"Depreciat/Amort, Suppl","1,537","1,619","1,952","1,669","1,578",MRK
+Total Special Items,"7,698","6,075","5,755","9,594","5,513",MRK
+Normalzd Income Before Tax,"14,219","14,776","12,926","15,457","19,392",MRK
+Efct/SpecItemsIncTxs (STEC),"1,635","1,511","1,218","2,172",574,MRK
+IncTxsExcl ImpctofSpec Itms,"3,113","3,730","2,783","3,512","2,095",MRK
+Normalized Income After Tax,"11,106","11,046","10,143","11,945","17,297",MRK
+Normalzd Inc Avail to Common,"11,082","11,073","10,227","11,941","17,284",MRK
+Basic Normalized EPS,4.06,4.16,3.99,4.72,6.83,MRK
+Diluted Normalized EPS,4.03,4.13,3.96,4.70,6.81,MRK

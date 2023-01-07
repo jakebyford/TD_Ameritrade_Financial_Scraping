@@ -1,0 +1,44 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"11,468","11,895","11,257","10,410",ABT
+"Cost of Revenue, Total","4,720","4,987","4,933","4,629",ABT
+"Sell/Gen/AdminExpenses,Tot","2,945","2,787","2,757","2,731",ABT
+Research & Development,753,697,684,782,ABT
+Depreciation/Amortization,514,512,507,498,ABT
+Restructuring Charge,158,--,--,--,ABT
+Other Unusual Expnse (In),0,--,--,--,ABT
+Unusual Expense (Income),158,--,--,--,ABT
+Total Operating Expense,"9,090","8,983","8,881","8,640",ABT
+Total Operating Income,"2,378","2,912","2,376","1,770",ABT
+"Inter Expse,Net Non-Operat",(131),(131),(132),(141),ABT
+"Inter Income, Non-Operating",11,14,26,55,ABT
+"Invest Income, Non-Operat",6,3,0,(19),ABT
+"Inter/Invest Inc, Non-Oper",17,17,26,36,ABT
+OtherNon-OperatInc (Expnse),63,78,82,93,ABT
+"Other, Net",63,78,82,93,ABT
+Income Before Tax,"2,327","2,876","2,352","1,758",ABT
+Income Tax - Total,338,429,334,323,ABT
+Income After Tax,"1,989","2,447","2,018","1,435",ABT
+Net Inc Before Extra Items,"1,989","2,447","2,018","1,435",ABT
+Total Extraordinary Items,0,--,--,--,ABT
+Total Net Income,"1,989","2,447","2,018","1,435",ABT
+Income Available to Common Excl. Extra. Items,"1,989","2,447","2,018","1,435",ABT
+Income Available to Common Incl. Extra. Items,"1,989","2,447","2,018","1,435",ABT
+Basic/Primary Weighted Average Shares,"1,769","1,762","1,754","1,753",ABT
+Basic/Primary EPS Excl. Extra. Items,1.12,1.39,1.15,0.82,ABT
+Basic/Primary EPS Incl. Extra. Items,1.12,1.39,1.15,0.82,ABT
+Diluted Weighted Average Shares,"1,782","1,775","1,765","1,764",ABT
+Diluted EPS Excl. Extra. Items,1.12,1.38,1.14,0.81,ABT
+Diluted EPS Incl. Extra. Items,1.12,1.38,1.14,0.81,ABT
+Div/Share-ComStockPrimIssue,0.45,0.47,0.47,0.47,ABT
+Gross Divid - Common Stock,832,826,827,822,ABT
+Pro Forma Net Income,--,--,--,--,ABT
+"Interest Expense, Suppl",131,131,132,141,ABT
+"Depreciat/Amort, Suppl",369,311,315,317,ABT
+Total Special Items,158,--,--,--,ABT
+Normalzd Income Before Tax,"2,485","2,876","2,352","1,758",ABT
+Efct/SpecItemsIncTxs (STEC),23,--,--,--,ABT
+IncTxsExcl ImpctofSpec Itms,361,429,334,323,ABT
+Normalized Income After Tax,"2,124","2,447","2,018","1,435",ABT
+Normalzd Inc Avail to Common,"2,124","2,447","2,018","1,435",ABT
+Basic Normalized EPS,1.20,1.39,1.15,0.82,ABT
+Diluted Normalized EPS,1.19,1.38,1.14,0.81,ABT

@@ -1,0 +1,32 @@
+items,Q4 2019,Q2 2020,Q4 2020,Q2 2022,ticker
+Net Income,"8,116","(10,338)","(7,708)","5,541",SAN
+Depreciation/Depletion,"3,001","1,419","2,810","1,442",SAN
+Non-Cash Items,"20,989","23,079","35,026","9,865",SAN
+"Cash Taxes Pd, Supplemental","2,593",223,"2,946","2,516",SAN
+Changes in Working Capital,"(28,717)","30,908","36,025","(9,462)",SAN
+Total Cash from Operations,"3,389","45,068","66,153","7,386",SAN
+Purchase of Fixed Assets,"(12,766)","(2,538)","(7,386)","(4,387)",SAN
+Purchase/Acq of Intangibles,"(1,377)",(609),"(1,134)",(676),SAN
+Capital Expenditures,"(14,143)","(3,147)","(8,520)","(5,063)",SAN
+Acquisition of Business,(83),"(1,051)","(2,931)",(844),SAN
+Sale of Business,218,526,"1,775",729,SAN
+Sale of Fixed Assets,"4,091",875,"2,014","2,961",SAN
+Sale/Maturity of Investment,686,29,182,138,SAN
+Purchase of Investments,(63),(466),(525),(109),SAN
+Other Investing Cash Flow,"2,065",389,785,536,SAN
+"OtherInvestCashFlowItms,Tot","6,914",302,"1,300","3,411",SAN
+Total Cash from Investing,"(7,229)","(2,845)","(7,220)","(1,652)",SAN
+Financing Cash Flow Items,"(2,335)","(1,589)","(2,187)","(3,861)",SAN
+Total Cash Dividends Paid,"(3,773)",0,0,(869),SAN
+Sale/Issuance of Common,947,421,721,360,SAN
+Repurch/Retirement Common,(928),(454),(758),"(1,173)",SAN
+"Iss (Retirmnt) of Stock,Net",19,(33),(37),(813),SAN
+Total Debt Issued,"1,090","1,853","4,095",113,SAN
+Total Debt Reduction,"(5,123)","(2,089)","(3,780)","(1,693)",SAN
+"Iss (Retirmnt) of Debt, Net","(4,033)",(236),315,"(1,580)",SAN
+Total Cash From Financing,"(10,122)","(1,858)","(1,909)","(7,123)",SAN
+Foreign Exchange Effects,"1,366","(3,166)","(4,252)","1,976",SAN
+Net Change in Cash,"(12,596)","37,199","52,772",587,SAN
+NetCash-BeginBal/RsvdforFutUse,"113,663","101,067","101,067","210,689",SAN
+NetCash-EndBal/RsrvforFutUse,"101,067","138,266","153,839","211,276",SAN
+"Depreciation, Supplemental","3,001","1,419","2,810","1,442",SAN

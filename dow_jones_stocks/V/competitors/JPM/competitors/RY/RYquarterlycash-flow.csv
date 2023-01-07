@@ -1,0 +1,42 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Net Income,"4,095","8,348","11,925","15,807",RY
+Depreciation/Depletion,313,627,941,"1,265",RY
+Amortization,339,679,"1,022","1,387",RY
+Deferred Taxes,227,645,408,569,RY
+Unusual Items,--,(89),(100),(100),RY
+Equity in Net Earnings/Loss,(28),(52),(85),(108),RY
+Non-Cash Items,(28),(141),(185),(208),RY
+"Cash Taxes Pd, Supplemental","3,679","5,336","6,466","7,326",RY
+"Cash Interest Pd, Suppl","1,771","3,528","7,233","13,677",RY
+Loan Loss Provision,105,(237),103,484,RY
+Other Assets,"(1,001)","(69,458)","(37,179)","(68,840)",RY
+Changes in Working Capital,"3,488",(987),"8,180","3,122",RY
+Total Cash from Operations,"8,434","9,171","22,291","21,942",RY
+Capital Expenditures,(590),"(1,143)","(1,729)","(2,500)",RY
+Acquisition of Business,--,--,(313),"(2,360)",RY
+Sale of Business,--,95,--,--,RY
+Sale/Maturity of Investment,"23,101","47,495","72,752","99,143",RY
+Purchase of Investments,"(28,664)","(56,223)","(86,876)","(122,964)",RY
+Other Investing Cash Flow,"16,218","10,809","(18,507)","(28,373)",RY
+"OtherInvestCashFlowItms,Tot","10,655","2,176","(32,944)","(54,554)",RY
+Total Cash from Investing,"10,065","1,033","(34,673)","(57,054)",RY
+Financing Cash Flow Items,(1),(2),(4),(5),RY
+Total Cash Dividends Paid,"(1,608)","(3,364)","(5,118)","(6,960)",RY
+Sale/Issuance of Common,"1,703","3,053","4,436","5,525",RY
+Repurch/Retirement Common,"(2,885)","(6,208)","(8,992)","(11,127)",RY
+"Common Stock, Net","(1,182)","(3,155)","(4,556)","(5,602)",RY
+Sale/Issuance of Preferred,749,749,749,749,RY
+Repurch/Retirement Preferd,--,(155),(155),(155),RY
+"Preferred Stock, Net",749,594,594,594,RY
+"Iss (Retirmnt) of Stock,Net",(433),"(2,561)","(3,962)","(5,008)",RY
+"Short Term Debt, Net",0,1,129,"9,609",RY
+Long Term Debt Issued,"1,000","1,000","1,000","1,000",RY
+Long Term Debt Reduction,(163),(317),(483),(821),RY
+"Long Term Debt, Net",837,683,517,179,RY
+"Iss (Retirmnt) of Debt, Net",837,684,646,"9,788",RY
+Total Cash From Financing,"(1,205)","(5,243)","(8,438)","(2,185)",RY
+Foreign Exchange Effects,23,"(2,878)","(3,916)","(4,152)",RY
+Net Change in Cash,"17,317","2,083","(24,736)","(41,449)",RY
+NetCash-BeginBal/RsvdforFutUse,"113,846","113,846","113,846","113,846",RY
+NetCash-EndBal/RsrvforFutUse,"131,163","115,929","89,110","72,397",RY
+"Depreciation, Supplemental",313,627,941,"1,265",RY

@@ -1,0 +1,49 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"5,193","5,267","4,475","5,683","1,301",UA
+"Cost of Revenue, Total","2,853","2,797","2,315","2,822",696,UA
+Selling/Gen/Admin Expense,"2,176","2,228","1,605","1,679",594,UA
+Advertising Expense,--,--,550,649,--,UA
+"Sell/Gen/AdminExpenses,Tot","2,176","2,228","2,155","2,328",594,UA
+Depreciation/Amortization,6,6,7,2,1,UA
+Restructuring Charge,183,0,460,39,57,UA
+Impair-Assets Held for Use,--,--,141,4,--,UA
+Other Unusual Expnse (In),--,--,(169),(217),--,UA
+Unusual Expense (Income),183,0,432,(174),57,UA
+Total Operating Expense,"5,218","5,030","4,909","4,978","1,347",UA
+Total Operating Income,(25),237,(434),706,(46),UA
+"Inter Expse, Non-Operating",(35),(24),(49),(46),(6),UA
+"Inter Capital, Non-Operat",2,2,1,1,--,UA
+"Inter Expse,Net Non-Operat",(34),(23),(47),(44),(6),UA
+"Inter/Invest Inc, Non-Oper",11,(4),--,--,--,UA
+OtherNon-OperatInc (Expnse),(20),0,(11),(270),0,UA
+"Other, Net",(20),0,(11),(270),0,UA
+Income Before Tax,(68),210,(493),391,(52),UA
+Income Tax - Total,(22),70,63,32,8,UA
+Income After Tax,(46),140,(556),359,(60),UA
+Equity In Affiliates,1,(48),(7),1,1,UA
+Net Inc Before Extra Items,(45),92,(563),360,(60),UA
+Total Extraordinary Items,(2),--,14,0,--,UA
+Total Net Income,(46),92,(549),360,(60),UA
+Total Adjust to Net Income,0,--,--,--,--,UA
+Income Available to Common Excl. Extra. Items,(45),92,(563),360,(60),UA
+Income Available to Common Incl. Extra. Items,(46),92,(549),360,(60),UA
+Basic/Primary Weighted Average Shares,446,451,454,466,471,UA
+Basic/Primary EPS Excl. Extra. Items,(0.10),0.20,(1.24),0.77,(0.13),UA
+Basic/Primary EPS Incl. Extra. Items,(0.10),0.20,(1.21),0.77,(0.13),UA
+Diluted Weighted Average Shares,446,454,454,469,471,UA
+Diluted EPS Excl. Extra. Items,(0.10),0.20,(1.24),0.77,(0.13),UA
+Diluted EPS Incl. Extra. Items,(0.10),0.20,(1.21),0.77,(0.13),UA
+Div/Share-ComStockPrimIssue,--,--,--,--,0.00,UA
+Gross Divid - Common Stock,0,0,0,0,0,UA
+Pro Forma Net Income,--,--,--,--,--,UA
+"Interest Expense, Suppl",34,23,47,44,6,UA
+"Interest Capitalized, Suppl",(2),(2),(1),(1),--,UA
+"Depreciat/Amort, Suppl",176,180,158,139,35,UA
+Total Special Items,183,39,432,(174),57,UA
+Normalzd Income Before Tax,115,249,(60),217,5,UA
+Efct/SpecItemsIncTxs (STEC),64,13,151,(14),20,UA
+IncTxsExcl ImpctofSpec Itms,42,83,215,18,28,UA
+Normalized Income After Tax,73,166,(275),199,(24),UA
+Normalzd Inc Avail to Common,74,118,(282),200,(23),UA
+Basic Normalized EPS,0.17,0.26,(0.62),0.43,(0.05),UA
+Diluted Normalized EPS,0.17,0.26,(0.62),0.43,(0.05),UA

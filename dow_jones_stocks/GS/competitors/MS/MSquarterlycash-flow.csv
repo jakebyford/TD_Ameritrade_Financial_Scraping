@@ -1,0 +1,36 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"15,120","3,715","6,251","8,913",MS
+Depreciation/Depletion,"4,216",942,"1,863","2,791",MS
+Deferred Taxes,4,--,--,--,MS
+Non-Cash Items,"1,942",539,"1,363","2,078",MS
+"Cash Taxes Pd, Supplemental","4,231",383,"1,988","2,805",MS
+"Cash Interest Pd, Suppl","1,303",623,"1,407","4,339",MS
+Accounts Receivable,774,"1,227","13,193","7,966",MS
+Other Assets,"(21,087)","(29,050)","(9,531)","2,110",MS
+Accounts Payable,"7,758","17,994","11,719","8,283",MS
+Changes in Working Capital,"12,689","(4,957)","5,675","(6,183)",MS
+Total Cash from Operations,"33,971",239,"15,152","7,599",MS
+Capital Expenditures,"(2,308)",(652),"(1,451)","(2,308)",MS
+Acquisition of Business,"(2,648)",0,0,0,MS
+Sale of Business,0,--,--,--,MS
+Sale/Maturity of Investment,"61,568","25,872","35,474","41,441",MS
+Purchase of Investments,"(69,571)","(17,459)","(23,533)","(27,867)",MS
+Other Investing Cash Flow,"(36,938)","(7,603)","(18,859)","(23,796)",MS
+"OtherInvestCashFlowItms,Tot","(47,589)",810,"(6,918)","(10,222)",MS
+Total Cash from Investing,"(49,897)",158,"(8,369)","(12,530)",MS
+Financing Cash Flow Items,"36,994","5,732","(7,958)","(17,018)",MS
+Cash Divids Paid - Common,"(3,703)","(1,190)","(2,390)","(3,657)",MS
+Cash Divs Paid - Preferred,(468),(124),(228),(366),MS
+Total Cash Dividends Paid,"(4,171)","(1,314)","(2,618)","(4,023)",MS
+"Common Stock, Net","(12,075)","(3,681)","(6,518)","(9,126)",MS
+"Preferred Stock, Net","1,275",--,--,994,MS
+"Iss (Retirmnt) of Stock,Net","(10,800)","(3,681)","(6,518)","(8,132)",MS
+Long Term Debt Issued,"90,273","20,284","39,773","54,283",MS
+Long Term Debt Reduction,"(70,124)","(11,094)","(19,514)","(27,019)",MS
+"Iss (Retirmnt) of Debt, Net","19,524","8,554","18,400","25,912",MS
+Total Cash From Financing,"41,547","9,291","1,306","(3,261)",MS
+Foreign Exchange Effects,"(3,550)","(1,327)","(4,528)","(7,837)",MS
+Net Change in Cash,"22,071","8,361","3,561","(16,029)",MS
+NetCash-BeginBal/RsvdforFutUse,"105,654","127,725","127,725","127,725",MS
+NetCash-EndBal/RsrvforFutUse,"127,725","136,086","131,286","111,696",MS
+"Depreciation, Supplemental","4,216",942,"1,863","2,791",MS

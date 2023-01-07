@@ -1,0 +1,71 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"1,342","1,139","1,121","1,784","1,944",PFE
+Short Term Investments,"18,650","17,694","8,525","10,437","29,125",PFE
+Cash and Short Term Invs,"19,992","18,833","9,646","12,221","31,069",PFE
+"Trade Accts Recvble, Gross","8,810","8,566","7,265","8,438","11,971",PFE
+Prov. for Doubtful Accts,(589),(541),(493),(508),(492),PFE
+"Total Receivables, Net","8,221","8,025","6,772","7,930","11,479",PFE
+Invent. - Finished Goods,"2,883","2,262","2,265","2,878","3,641",PFE
+Invent. - Work In Progress,"3,908","4,701","4,131","4,430","4,424",PFE
+Invent. - Raw Materials,788,546,672,738,994,PFE
+Inventories - Other,(1),(1),--,--,--,PFE
+Total Inventory,"7,578","7,508","7,068","8,046","9,059",PFE
+Deferred Income Tax,"3,050","3,374","2,736","3,264","4,266",PFE
+Discont. Ops.-Curr. Assets,12,"9,725","4,224",167,--,PFE
+Other Current Assets,"2,288","2,461","2,357","3,439","3,820",PFE
+"Other Curr. Assets, Total","5,350","15,560","9,317","6,870","8,086",PFE
+Total Current Assets,"41,141","49,926","32,803","35,067","59,693",PFE
+Buildings,"10,254","9,920","9,181","9,022","9,001",PFE
+Land/Improvements,540,500,495,444,423,PFE
+Machinery/Equipment,"11,902","11,871","10,648","11,153","12,252",PFE
+Construction in Progress,"2,680","2,992","2,794","3,552","3,822",PFE
+Other Prop./Plant/Equip.,"4,661","4,694","6,130","5,933","7,296",PFE
+Prop./Plant/Equip. - Gross,"30,037","29,977","29,248","30,104","32,794",PFE
+Accumulated Depreciation,"(16,172)","(16,591)","(14,990)","(14,812)","(15,074)",PFE
+Prop./Plant/Equip. - Net,"13,865","13,385","14,258","15,293","17,721",PFE
+"Goodwill, Net","55,952","53,411","48,202","49,577","49,208",PFE
+Intangibles - Gross,"105,773","95,954","82,877","81,334","80,984",PFE
+Accum. Intangible Amort.,"(57,033)","(60,743)","(48,941)","(52,862)","(55,838)",PFE
+Intangibles - Net,"48,741","35,211","33,936","28,471","25,146",PFE
+LT Invt. - Affiliate Comp.,--,--,"17,133","16,856","16,472",PFE
+LT Investments - Other,"7,015","2,767","3,014","3,406","5,054",PFE
+Long Term Investments,"7,015","2,767","20,147","20,262","21,526",PFE
+Def. Inc. Tax - LT Asset,"1,855","1,924","1,911","2,383","3,341",PFE
+Disct. Ops. - LT Asset,--,--,"13,427",0,--,PFE
+Other Long Term Assets,"3,228","2,798","2,910","3,176","4,841",PFE
+Total Assets,"171,797","159,422","167,594","154,229","181,476",PFE
+Accounts Payable,"4,656","4,674","3,887","4,309","5,578",PFE
+Accrued Expenses,"2,196","2,397","2,659","3,379","3,781",PFE
+Notes Payable/ST Debt,"6,407","4,055","14,733",701,605,PFE
+Curr. Port. LT Dbt/Cap Ls.,"3,546","4,776","1,462","2,002","1,636",PFE
+Dividends Payable,"2,029","2,047","2,104","2,162","2,249",PFE
+Customer Advances,--,--,--,957,"3,067",PFE
+Income Taxes Payable,477,"1,265",980,"1,049","1,266",PFE
+Discontinued Operations,--,"1,890","2,413",0,--,PFE
+Other Current Liabilities,"11,116","10,754","9,066","11,361","24,489",PFE
+"Other Curr. Lblts, Total","13,622","15,956","14,563","15,529","31,071",PFE
+Total Current Liabilities,"30,427","31,858","37,304","25,920","42,671",PFE
+Total Long Term Debt,"33,538","32,909","35,955","37,133","36,195",PFE
+Total Debt,"43,491","41,740","52,150","39,836","38,436",PFE
+Deferred Income Tax,"3,900","3,700","5,652","4,063",349,PFE
+Minority Interest,348,351,303,235,262,PFE
+Pension Benefits - Underfunded,"7,430","6,610","6,217","5,411","3,724",PFE
+Other LT Liabilities,"24,846","20,587","19,019","18,229","21,075",PFE
+"Other Liabilities, Total","32,276","27,197","25,236","23,640","24,799",PFE
+Total Liabilities,"100,489","96,015","104,450","90,991","104,276",PFE
+"Pref. Stock-Non Rdmbl, Net",21,19,17,0,--,PFE
+Common Stock,464,467,468,470,473,PFE
+Additional Paid-In Capital,"84,278","86,253","87,428","88,674","90,591",PFE
+Ret. Earn.(Accum. Deficit),"85,291","89,554","97,670","96,770","103,394",PFE
+Treasury Stock - Common,"(89,425)","(101,610)","(110,801)","(110,988)","(111,361)",PFE
+Unrealized Gain (Loss),401,(68),(35),116,(220),PFE
+Cum. Trans. Adjustment,"(5,180)","(6,075)","(5,952)","(5,321)","(6,172)",PFE
+Other Equity,--,(1),2,--,0,PFE
+Min. Pension Lblty Adj.,"(4,512)","(5,299)","(5,673)","(6,055)",377,PFE
+Other Comprehensive Income,(30),167,20,(428),118,PFE
+"Other Equity, Total","(9,722)","(11,208)","(11,603)","(11,804)","(5,677)",PFE
+Total Equity,"71,308","63,407","63,144","63,238","77,200",PFE
+Total Liabilities & Shareholders’ Equity,"171,797","159,422","167,594","154,229","181,476",PFE
+Ttl Comm. Shares Outs.,"5,979","5,717","5,534","5,567","5,620",PFE
+Trsy. Shrs-Comm. Primary Iss.,"3,296","3,615","3,835","3,840","3,851",PFE
+Trsry Shrs-Pref. Iss. 1,0,0,0,0,0,PFE

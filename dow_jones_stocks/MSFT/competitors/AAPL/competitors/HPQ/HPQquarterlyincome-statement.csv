@@ -1,0 +1,41 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Total Revenue,"17,028","16,490","14,664","14,801",HPQ
+"Cost of Revenue, Total","13,643","13,157","11,764","12,084",HPQ
+"Sell/Gen/AdminExpenses,Tot","1,468","1,464","1,143","1,189",HPQ
+Research & Development,418,425,368,382,HPQ
+Depreciation/Amortization,52,52,50,74,HPQ
+Restructuring Charge,68,82,13,70,HPQ
+Litigation,--,--,--,0,HPQ
+Other Unusual Expnse (In),20,32,54,235,HPQ
+Unusual Expense (Income),88,114,67,305,HPQ
+Total Operating Expense,"15,669","15,212","13,392","14,034",HPQ
+Total Operating Income,"1,359","1,278","1,272",767,HPQ
+"Inter Expse,Net Non-Operat",(61),(74),(96),(130),HPQ
+OtherNon-OperatInc (Expnse),29,35,26,36,HPQ
+"Other, Net",29,35,26,36,HPQ
+Income Before Tax,"1,327","1,239","1,202",673,HPQ
+Income Tax - Total,241,239,83,675,HPQ
+Income After Tax,"1,086","1,000","1,119",(2),HPQ
+Net Inc Before Extra Items,"1,086","1,000","1,119",(2),HPQ
+Total Net Income,"1,086","1,000","1,119",(2),HPQ
+Income Available to Common Excl. Extra. Items,"1,086","1,000","1,119",(2),HPQ
+Income Available to Common Incl. Extra. Items,"1,086","1,000","1,119",(2),HPQ
+Basic/Primary Weighted Average Shares,"1,081","1,050","1,024",996,HPQ
+Basic/Primary EPS Excl. Extra. Items,1.00,0.95,1.09,0.00,HPQ
+Basic/Primary EPS Incl. Extra. Items,1.00,0.95,1.09,0.00,HPQ
+Diluted Weighted Average Shares,"1,094","1,062","1,035",996,HPQ
+Diluted EPS Excl. Extra. Items,0.99,0.94,1.08,0.00,HPQ
+Diluted EPS Incl. Extra. Items,0.99,0.94,1.08,0.00,HPQ
+Div/Share-ComStockPrimIssue,0.25,0.25,0.25,0.25,HPQ
+Gross Divid - Common Stock,536,--,507,0,HPQ
+Pro Forma Net Income,--,--,--,--,HPQ
+"Interest Expense, Suppl",61,74,96,130,HPQ
+"Depreciat/Amort, Suppl",145,141,131,135,HPQ
+Total Special Items,88,114,67,305,HPQ
+Normalzd Income Before Tax,"1,415","1,353","1,269",978,HPQ
+Efct/SpecItemsIncTxs (STEC),16,22,5,107,HPQ
+IncTxsExcl ImpctofSpec Itms,257,261,88,782,HPQ
+Normalized Income After Tax,"1,158","1,092","1,181",196,HPQ
+Normalzd Inc Avail to Common,"1,158","1,092","1,181",196,HPQ
+Basic Normalized EPS,1.07,1.04,1.15,0.20,HPQ
+Diluted Normalized EPS,1.06,1.03,1.14,0.20,HPQ

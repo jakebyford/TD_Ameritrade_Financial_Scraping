@@ -1,0 +1,44 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"8,612","8,829","8,702","8,619",MMM
+"Cost of Revenue, Total","4,697","4,826","5,093","4,725",MMM
+Selling/Gen/Admin Expense,"1,776","1,787","2,992","1,931",MMM
+Labor & Related Expense,34,83,31,31,MMM
+"Sell/Gen/AdminExpenses,Tot","1,810","1,870","3,023","1,962",MMM
+Research & Development,472,474,476,459,MMM
+Restructuring Charge,17,18,--,41,MMM
+Other Unusual Expnse (In),0,--,--,"(2,724)",MMM
+Unusual Expense (Income),17,18,--,"(2,683)",MMM
+Total Operating Expense,"6,996","7,188","8,592","4,463",MMM
+Total Operating Income,"1,616","1,641",110,"4,156",MMM
+"Inter Expse,Net Non-Operat",(118),(113),(128),(106),MMM
+"Inter/Invest Inc, Non-Oper",8,8,11,17,MMM
+OtherNon-OperatInc (Expnse),58,67,67,65,MMM
+"Other, Net",58,67,67,65,MMM
+Income Before Tax,"1,564","1,603",60,"4,132",MMM
+Income Tax - Total,227,302,(23),271,MMM
+Income After Tax,"1,337","1,301",83,"3,861",MMM
+Minority Interest,(1),(4),(4),(4),MMM
+Equity In Affiliates,3,2,(1),2,MMM
+Net Inc Before Extra Items,"1,339","1,299",78,"3,859",MMM
+Total Net Income,"1,339","1,299",78,"3,859",MMM
+Income Available to Common Excl. Extra. Items,"1,339","1,299",78,"3,859",MMM
+Income Available to Common Incl. Extra. Items,"1,339","1,299",78,"3,859",MMM
+Basic/Primary Weighted Average Shares,575,572,571,569,MMM
+Basic/Primary EPS Excl. Extra. Items,2.33,2.27,0.14,6.78,MMM
+Basic/Primary EPS Incl. Extra. Items,2.33,2.27,0.14,6.78,MMM
+Diluted Weighted Average Shares,580,575,573,570,MMM
+Diluted EPS Excl. Extra. Items,2.31,2.26,0.14,6.77,MMM
+Diluted EPS Incl. Extra. Items,2.31,2.26,0.14,6.77,MMM
+Div/Share-ComStockPrimIssue,1.48,1.49,1.49,1.49,MMM
+Gross Divid - Common Stock,848,852,848,850,MMM
+Pro Forma Net Income,--,--,--,--,MMM
+"Interest Expense, Suppl",118,113,128,106,MMM
+"Depreciat/Amort, Suppl",376,328,333,326,MMM
+Total Special Items,17,268,"1,716","(2,301)",MMM
+Normalzd Income Before Tax,"1,581","1,871","1,776","1,831",MMM
+Efct/SpecItemsIncTxs (STEC),2,50,601,(151),MMM
+IncTxsExcl ImpctofSpec Itms,229,352,578,120,MMM
+Normalized Income After Tax,"1,352","1,519","1,198","1,711",MMM
+Normalzd Inc Avail to Common,"1,354","1,517","1,193","1,709",MMM
+Basic Normalized EPS,2.35,2.65,2.09,3.00,MMM
+Diluted Normalized EPS,2.33,2.64,2.08,3.00,MMM

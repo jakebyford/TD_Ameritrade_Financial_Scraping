@@ -1,0 +1,38 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"3,162",786,"1,233","1,299",AMD
+Depreciation/Depletion,407,609,"1,789","2,954",AMD
+Deferred Taxes,308,(342),(618),"(1,328)",AMD
+Unusual Items,41,15,15,15,AMD
+Equity in Net Earnings/Loss,(56),44,54,57,AMD
+Other Non-Cash Items,433,305,712,"1,007",AMD
+Non-Cash Items,418,364,781,"1,079",AMD
+"Cash Taxes Pd, Supplemental",--,--,544,584,AMD
+Accounts Receivable,(640),(672),"(1,016)","(1,301)",AMD
+Inventories,(556),(26),(274),(997),AMD
+Prepaid Expenses,(912),(261),(238),(826),AMD
+Accounts Payable,808,125,305,"1,124",AMD
+Accrued Expenses,526,412,71,994,AMD
+Changes in Working Capital,(774),(422),"(1,152)","(1,006)",AMD
+Total Cash from Operations,"3,521",995,"2,033","2,998",AMD
+Capital Expenditures,(301),(71),(203),(326),AMD
+Acquisition of Business,--,--,"(1,558)","(1,558)",AMD
+Sale/Maturity of Investment,"1,678",964,"2,249","2,864",AMD
+Purchase of Investments,"(2,056)",(100),(620),"(2,399)",AMD
+Other Investing Cash Flow,(7),"2,365","2,362","2,351",AMD
+"OtherInvestCashFlowItms,Tot",(385),"3,229","2,433","1,258",AMD
+Total Cash from Investing,(686),"3,158","2,230",932,AMD
+Financing Cash Flow Items,(237),(36),(68),(373),AMD
+Sale/Issuance of Common,104,2,78,79,AMD
+Repurch/Retirement Common,"(1,762)","(1,914)","(2,835)","(3,452)",AMD
+"Iss (Retirmnt) of Stock,Net","(1,658)","(1,912)","(2,757)","(3,373)",AMD
+Short Term Debt Issued,0,--,--,--,AMD
+"Short Term Debt, Net",0,--,--,--,AMD
+Long Term Debt Issued,--,--,991,991,AMD
+Long Term Debt Reduction,0,--,--,(312),AMD
+"Long Term Debt, Net",0,--,991,679,AMD
+"Iss (Retirmnt) of Debt, Net",0,--,991,679,AMD
+Total Cash From Financing,"(1,895)","(1,948)","(1,834)","(3,067)",AMD
+Net Change in Cash,940,"2,205","2,429",863,AMD
+NetCash-BeginBal/RsvdforFutUse,"1,595","2,535","2,535","2,535",AMD
+NetCash-EndBal/RsrvforFutUse,"2,535","4,740","4,964","3,398",AMD
+"Depreciation, Supplemental",407,609,"1,789","2,954",AMD

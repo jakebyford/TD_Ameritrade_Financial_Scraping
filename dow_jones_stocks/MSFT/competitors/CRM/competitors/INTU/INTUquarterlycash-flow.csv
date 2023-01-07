@@ -1,0 +1,39 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Net Income,328,"2,122","2,066",40,INTU
+Depreciation/Depletion,96,142,187,47,INTU
+Amortization,233,396,559,162,INTU
+Deferred Taxes,(12),106,120,(28),INTU
+Non-Cash Items,627,"1,003","1,393",456,INTU
+Accounts Receivable,(589),(206),(2),68,INTU
+Prepaid Expenses,(133),(88),(121),(35),INTU
+Accounts Payable,84,86,(95),(71),INTU
+Accrued Expenses,(564),(454),(440),(193),INTU
+Changes in Working Capital,"(1,042)",(219),(436),(349),INTU
+Total Cash from Operations,230,"3,550","3,889",328,INTU
+Purchase of Fixed Assets,(107),(168),(157),(77),INTU
+Software Development Costs,--,--,(72),--,INTU
+Capital Expenditures,(107),(168),(229),(77),INTU
+Acquisition of Business,"(5,682)","(5,682)","(5,682)",--,INTU
+Sale/Maturity of Investment,"1,583","1,625","1,758",134,INTU
+Purchase of Investments,(318),(583),(830),(256),INTU
+Other Investing Cash Flow,(158),(302),(438),(57),INTU
+"OtherInvestCashFlowItms,Tot","(4,575)","(4,942)","(5,192)",(179),INTU
+Total Cash from Investing,"(4,682)","(5,110)","(5,421)",(256),INTU
+Financing Cash Flow Items,(446),(392),(677),(311),INTU
+Total Cash Dividends Paid,(385),(580),(774),(222),INTU
+Sale/Issuance of Common,75,116,162,60,INTU
+Repurch/Retirement Common,(874),"(1,337)","(1,861)",(510),INTU
+"Iss (Retirmnt) of Stock,Net",(799),"(1,221)","(1,699)",(450),INTU
+Short Term Debt Issued,--,--,0,--,INTU
+Short Term Debt Reduction,0,0,0,--,INTU
+"Short Term Debt, Net",0,0,0,--,INTU
+Long Term Debt Issued,"4,702","4,822","4,882",70,INTU
+Long Term Debt Reduction,0,0,0,--,INTU
+"Long Term Debt, Net","4,702","4,822","4,882",70,INTU
+"Iss (Retirmnt) of Debt, Net","4,702","4,822","4,882",70,INTU
+Total Cash From Financing,"3,072","2,629","1,732",(913),INTU
+Foreign Exchange Effects,(6),(18),(22),(16),INTU
+Net Change in Cash,"(1,386)","1,051",178,(857),INTU
+NetCash-BeginBal/RsvdforFutUse,"2,819","2,819","2,819","2,997",INTU
+NetCash-EndBal/RsrvforFutUse,"1,433","3,870","2,997","2,140",INTU
+"Depreciation, Supplemental",96,142,187,47,INTU

@@ -1,0 +1,44 @@
+items,2017,2018,2019,2020,2021,ticker
+Interest & Fees on Loans,"16,219","17,644","18,705","15,950","15,228",SYF
+Inter & Divs/ Invest Securs,188,344,385,117,43,SYF
+"Interest Income, Bank","16,407","17,988","19,090","16,067","15,271",SYF
+Interest on Deposit,848,"1,186","1,566","1,094",566,SYF
+Inter on Other Borrowings,543,684,725,571,466,SYF
+Total Interest Expense,"1,391","1,870","2,291","1,665","1,032",SYF
+Net Interest Income,"15,016","16,118","16,799","14,402","14,239",SYF
+Loan Loss Provision,"5,296","5,545","4,180","4,210",726,SYF
+NetInterIn after Loan Loss Provision,"9,720","10,573","12,619","10,192","13,513",SYF
+"Non-Interest Income, Bank",288,265,371,405,481,SYF
+Labor & Related Expenses,"(1,314)","(1,427)","(1,455)","(1,380)","(1,501)",SYF
+Amortization of Intangibles,(196),(240),(301),(327),(339),SYF
+Other Unusual Expense,--,--,--,"(1,146)",(50),SYF
+Restructuring Charge,--,--,--,(41),--,SYF
+Other Expense,"(5,174)","(5,527)","(6,347)","(5,906)","(6,601)",SYF
+"Non-Interest Expense, Bank","(6,684)","(7,194)","(8,103)","(8,800)","(8,491)",SYF
+Income Before Tax,"3,324","3,644","4,887","1,797","5,503",SYF
+Income Tax - Total,"1,229",854,"1,140",412,"1,282",SYF
+Income After Tax,"2,095","2,790","3,747","1,385","4,221",SYF
+Net Inc Before Extra Items,"2,095","2,790","3,747","1,385","4,221",SYF
+Total Extraordinary Items,(160),--,--,--,--,SYF
+Total Net Income,"1,935","2,790","3,747","1,385","4,221",SYF
+Total Adjust to Net Income,--,--,--,(42),(42),SYF
+Income Available to Common Excl. Extra. Items,"2,095","2,790","3,747","1,343","4,179",SYF
+Income Available to Common Incl. Extra. Items,"1,935","2,790","3,747","1,343","4,179",SYF
+Basic/Primary Weighted Average Shares,796,742,670,589,565,SYF
+Basic/Primary EPS Excl. Extra. Items,2.63,3.76,5.59,2.28,7.40,SYF
+Basic/Primary EPS Incl. Extra. Items,2.43,3.76,5.59,2.28,7.40,SYF
+Diluted Weighted Average Shares,800,747,674,591,569,SYF
+Diluted EPS Excl. Extra. Items,2.62,3.74,5.56,2.27,7.34,SYF
+Diluted EPS Incl. Extra. Items,2.42,3.74,5.56,2.27,7.34,SYF
+Div/Share-ComStockPrimIssue,0.58,0.78,0.87,0.88,0.88,SYF
+Gross Divid - Common Stock,446,534,581,520,500,SYF
+Pro Forma Net Income,--,--,--,--,--,SYF
+"Depreciat/Amort, Suppl",58,62,66,56,51,SYF
+Total Special Items,--,--,--,"1,187",50,SYF
+Normalzd Income Before Tax,"3,324","3,644","4,887","2,984","5,553",SYF
+Efct/SpecItemsIncTxs (STEC),--,--,--,272,12,SYF
+IncTxsExcl ImpctofSpec Itms,"1,229",854,"1,140",684,"1,294",SYF
+Normalized Income After Tax,"2,095","2,790","3,747","2,300","4,259",SYF
+Normalzd Inc Avail to Common,"2,095","2,790","3,747","2,258","4,217",SYF
+Basic Normalized EPS,2.63,3.76,5.59,3.83,7.47,SYF
+Diluted Normalized EPS,2.62,3.74,5.56,3.82,7.41,SYF

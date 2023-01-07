@@ -1,0 +1,45 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"6,025","6,784","7,679","9,633","12,726",INTU
+"Cost of Revenue, Total",978,"1,167","1,378","1,683","2,406",INTU
+Selling/Gen/Admin Expense,"1,395","1,517","1,725","2,123","2,745",INTU
+Labor & Related Expense,206,207,224,403,641,INTU
+Advertising Expense,615,800,778,"1,100","1,600",INTU
+"Sell/Gen/AdminExpenses,Tot","2,216","2,524","2,727","3,626","4,986",INTU
+Research & Development,"1,186","1,233","1,392","1,678","2,347",INTU
+Depreciation/Amortization,6,6,6,146,416,INTU
+Unusual Expense (Income),79,--,--,--,--,INTU
+Total Operating Expense,"4,465","4,930","5,503","7,133","10,155",INTU
+Total Operating Income,"1,560","1,854","2,176","2,500","2,571",INTU
+"Inter Expse,Net Non-Operat",(20),(15),(14),(29),(81),INTU
+"Inter Income, Non-Operating",18,46,39,11,15,INTU
+"Invest Income, Non-Operat",--,--,--,--,47,INTU
+"Inter/Invest Inc, Non-Oper",18,46,39,11,62,INTU
+OtherNon-OperatInc (Expnse),8,(4),(3),74,(10),INTU
+"Other, Net",8,(4),(3),74,(10),INTU
+Income Before Tax,"1,566","1,881","2,198","2,556","2,542",INTU
+Income Tax - Total,266,324,372,494,476,INTU
+Income After Tax,"1,300","1,557","1,826","2,062","2,066",INTU
+Net Inc Before Extra Items,"1,300","1,557","1,826","2,062","2,066",INTU
+Total Extraordinary Items,29,--,--,--,--,INTU
+Total Net Income,"1,329","1,557","1,826","2,062","2,066",INTU
+Income Available to Common Excl. Extra. Items,"1,300","1,557","1,826","2,062","2,066",INTU
+Income Available to Common Incl. Extra. Items,"1,329","1,557","1,826","2,062","2,066",INTU
+Basic/Primary Weighted Average Shares,256,260,261,270,280,INTU
+Basic/Primary EPS Excl. Extra. Items,5.08,5.99,7.00,7.64,7.38,INTU
+Basic/Primary EPS Incl. Extra. Items,5.19,5.99,7.00,7.64,7.38,INTU
+Diluted Weighted Average Shares,261,264,264,273,284,INTU
+Diluted EPS Excl. Extra. Items,4.98,5.90,6.92,7.55,7.27,INTU
+Diluted EPS Incl. Extra. Items,5.09,5.90,6.92,7.55,7.27,INTU
+Div/Share-ComStockPrimIssue,1.51,1.80,2.06,2.30,2.63,INTU
+Gross Divid - Common Stock,407,500,562,651,781,INTU
+Pro Forma Net Income,--,--,--,--,--,INTU
+"Interest Expense, Suppl",20,15,14,29,81,INTU
+"Depreciat/Amort, Suppl",228,199,189,166,187,INTU
+Total Special Items,79,--,--,--,--,INTU
+Normalzd Income Before Tax,"1,645","1,881","2,198","2,556","2,542",INTU
+Efct/SpecItemsIncTxs (STEC),13,--,--,--,--,INTU
+IncTxsExcl ImpctofSpec Itms,279,324,372,494,476,INTU
+Normalized Income After Tax,"1,366","1,557","1,826","2,062","2,066",INTU
+Normalzd Inc Avail to Common,"1,366","1,557","1,826","2,062","2,066",INTU
+Basic Normalized EPS,5.33,5.99,7.00,7.64,7.38,INTU
+Diluted Normalized EPS,5.23,5.90,6.92,7.55,7.27,INTU

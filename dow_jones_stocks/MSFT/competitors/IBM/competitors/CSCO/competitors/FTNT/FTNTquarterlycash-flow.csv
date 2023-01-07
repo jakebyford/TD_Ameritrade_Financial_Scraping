@@ -1,0 +1,35 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,607,138,312,543,FTNT
+Depreciation/Depletion,84,26,51,77,FTNT
+Deferred Taxes,(94),(88),(136),(172),FTNT
+Equity in Net Earnings/Loss,8,9,17,23,FTNT
+Other Non-Cash Items,399,116,241,351,FTNT
+Non-Cash Items,406,124,257,374,FTNT
+"Cash Taxes Pd, Supplemental",127,19,129,198,FTNT
+Accounts Receivable,(73),15,(119),(163),FTNT
+Inventories,(19),(14),(31),(60),FTNT
+Prepaid Expenses,(18),(26),(18),(8),FTNT
+Other Assets,(314),(87),(157),(235),FTNT
+Accounts Payable,(13),36,53,79,FTNT
+Accrued Expenses,94,55,23,25,FTNT
+Changes in Working Capital,496,196,236,381,FTNT
+Total Cash from Operations,"1,500",396,720,"1,203",FTNT
+Capital Expenditures,(296),(123),(163),(250),FTNT
+Acquisition of Business,(75),0,0,--,FTNT
+Sale/Maturity of Investment,"1,556",462,800,"1,186",FTNT
+Purchase of Investments,"(2,468)",(385),(389),(389),FTNT
+Other Investing Cash Flow,(42),--,--,--,FTNT
+"OtherInvestCashFlowItms,Tot","(1,029)",77,411,797,FTNT
+Total Cash from Investing,"(1,325)",(45),249,547,FTNT
+Financing Cash Flow Items,(191),(66),(101),(133),FTNT
+Sale/Issuance of Common,26,11,16,22,FTNT
+Repurch/Retirement Common,(742),(691),"(1,491)","(1,991)",FTNT
+"Iss (Retirmnt) of Stock,Net",(716),(680),"(1,475)","(1,970)",FTNT
+Long Term Debt Issued,989,0,0,0,FTNT
+"Iss (Retirmnt) of Debt, Net",989,0,0,0,FTNT
+Total Cash From Financing,83,(746),"(1,576)","(2,103)",FTNT
+Foreign Exchange Effects,0,0,(1),(1),FTNT
+Net Change in Cash,257,(396),(609),(355),FTNT
+NetCash-BeginBal/RsvdforFutUse,"1,062","1,319","1,319","1,319",FTNT
+NetCash-EndBal/RsrvforFutUse,"1,319",924,710,964,FTNT
+"Depreciation, Supplemental",84,26,51,77,FTNT

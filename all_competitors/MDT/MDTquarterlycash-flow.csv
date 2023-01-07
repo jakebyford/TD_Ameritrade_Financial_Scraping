@@ -1,0 +1,39 @@
+items,Q3 2022,Q4 2022,Q1 2023,Q2 2023,ticker
+Net Income,"3,570","5,062",931,"1,367",MDT
+Depreciation/Depletion,"2,019","2,707",668,"1,339",MDT
+Deferred Taxes,(234),(604),(18),(92),MDT
+Unusual Items,515,515,53,53,MDT
+Other Non-Cash Items,428,555,198,388,MDT
+Non-Cash Items,943,"1,070",251,441,MDT
+"Cash Taxes Pd, Supplemental",842,996,260,821,MDT
+"Cash Interest Pd, Suppl",295,540,68,234,MDT
+Accounts Receivable,(212),(477),89,(346),MDT
+Inventories,(359),(560),(380),(784),MDT
+Payable/Accrued,6,213,(147),(14),MDT
+Changes in Working Capital,"(1,009)",(888),(749),"(1,051)",MDT
+Total Cash from Operations,"5,289","7,347","1,083","2,004",MDT
+Capital Expenditures,(979),"(1,368)",(426),(749),MDT
+Acquisition of Business,(91),(91),"(1,191)","(1,867)",MDT
+Sale/Maturity of Investment,"7,130","9,692","1,886","3,609",MDT
+Purchase of Investments,"(7,919)","(9,882)","(1,884)","(3,743)",MDT
+Other Investing Cash Flow,(71),(10),30,19,MDT
+"OtherInvestCashFlowItms,Tot",(951),(291),"(1,159)","(1,982)",MDT
+Total Cash from Investing,"(1,930)","(1,659)","(1,585)","(2,731)",MDT
+Financing Cash Flow Items,(52),163,273,443,MDT
+Total Cash Dividends Paid,"(2,540)","(3,383)",(903),"(1,807)",MDT
+Sale/Issuance of Common,344,429,43,153,MDT
+Repurch/Retirement Common,"(1,138)","(2,544)",(336),(477),MDT
+"Iss (Retirmnt) of Stock,Net",(794),"(2,115)",(293),(324),MDT
+Short Term Debt Issued,0,0,"2,284","2,284",MDT
+Short Term Debt Reduction,--,0,--,--,MDT
+"Short Term Debt, Net",0,0,"2,284","2,633",MDT
+Long Term Debt Issued,0,0,--,"3,430",MDT
+Long Term Debt Reduction,(1),(1),"(2,311)","(2,311)",MDT
+"Long Term Debt, Net",(1),(1),"(2,311)","1,119",MDT
+"Iss (Retirmnt) of Debt, Net",(1),(1),(27),"3,752",MDT
+Total Cash From Financing,"(3,387)","(5,336)",(950),"2,064",MDT
+Foreign Exchange Effects,(87),(231),(122),(223),MDT
+Net Change in Cash,(115),121,"(1,574)","1,114",MDT
+NetCash-BeginBal/RsvdforFutUse,"3,593","3,593","3,714","3,714",MDT
+NetCash-EndBal/RsrvforFutUse,"3,479","3,714","2,140","4,828",MDT
+"Depreciation, Supplemental","2,019","2,707",668,"1,339",MDT

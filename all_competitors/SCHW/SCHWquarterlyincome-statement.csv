@@ -1,0 +1,41 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"4,836","4,808","5,259","5,931",SCHW
+"Cost of Revenue, Total",128,136,166,431,SCHW
+Selling/Gen/Admin Expense,613,622,682,645,SCHW
+Labor & Related Expense,"1,343","1,490","1,373","1,419",SCHW
+Advertising Expense,122,102,105,89,SCHW
+"Sell/Gen/AdminExpenses,Tot","2,078","2,214","2,160","2,153",SCHW
+Depreciation,145,150,159,167,SCHW
+Amortiz of Intangibles,154,154,154,152,SCHW
+Depreciation/Amortization,299,304,313,319,SCHW
+Unusual Expense (Income),98,91,92,99,SCHW
+"Other Operat Expse, Total",210,224,254,252,SCHW
+Total Operating Expense,"2,813","2,969","2,985","3,254",SCHW
+Total Operating Income,"2,023","1,839","2,274","2,677",SCHW
+Income Before Tax,"2,023","1,839","2,274","2,677",SCHW
+Income Tax - Total,443,437,481,657,SCHW
+Income After Tax,"1,580","1,402","1,793","2,020",SCHW
+Net Inc Before Extra Items,"1,580","1,402","1,793","2,020",SCHW
+Total Net Income,"1,580","1,402","1,793","2,020",SCHW
+Total Adjust to Net Income,(131),(124),(141),(136),SCHW
+Income Available to Common Excl. Extra. Items,"1,449","1,278","1,652","1,884",SCHW
+Income Available to Common Incl. Extra. Items,"1,449","1,278","1,652","1,884",SCHW
+Basic/Primary Weighted Average Shares,"1,893","1,894","1,896","1,887",SCHW
+Basic/Primary EPS Excl. Extra. Items,0.77,0.67,0.87,1.00,SCHW
+Basic/Primary EPS Incl. Extra. Items,0.77,0.67,0.87,1.00,SCHW
+Diluted Weighted Average Shares,"1,903","1,905","1,904","1,895",SCHW
+Diluted EPS Excl. Extra. Items,0.76,0.67,0.87,0.99,SCHW
+Diluted EPS Incl. Extra. Items,0.76,0.67,0.87,0.99,SCHW
+Div/Share-ComStockPrimIssue,0.18,0.20,0.20,0.22,SCHW
+Gross Divid - Common Stock,343,381,381,417,SCHW
+Pro Forma Net Income,--,--,--,--,SCHW
+"Interest Expense, Suppl",128,136,166,431,SCHW
+"Depreciat/Amort, Suppl",145,150,159,167,SCHW
+Total Special Items,101,96,94,99,SCHW
+Normalzd Income Before Tax,"2,124","1,935","2,368","2,776",SCHW
+Efct/SpecItemsIncTxs (STEC),476,(61),(60),(62),SCHW
+IncTxsExcl ImpctofSpec Itms,919,376,421,595,SCHW
+Normalized Income After Tax,"1,205","1,559","1,947","2,181",SCHW
+Normalzd Inc Avail to Common,"1,074","1,435","1,806","2,045",SCHW
+Basic Normalized EPS,0.57,0.76,0.95,1.08,SCHW
+Diluted Normalized EPS,0.56,0.75,0.95,1.08,SCHW

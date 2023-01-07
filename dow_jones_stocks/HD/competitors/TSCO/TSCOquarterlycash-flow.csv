@@ -1,0 +1,31 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,997,187,584,818,TSCO
+Depreciation/Depletion,270,78,161,248,TSCO
+Deferred Taxes,29,40,39,42,TSCO
+Unusual Items,4,0,1,1,TSCO
+Other Non-Cash Items,48,12,25,39,TSCO
+Non-Cash Items,52,13,25,40,TSCO
+"Cash Taxes Pd, Supplemental",292,4,37,185,TSCO
+"Cash Interest Pd, Suppl",24,4,12,16,TSCO
+Inventories,(408),(377),(294),(487),TSCO
+Prepaid Expenses,(30),(22),(50),(48),TSCO
+Accounts Payable,180,186,125,64,TSCO
+Accrued Expenses,128,(89),(90),(69),TSCO
+Changes in Working Capital,(209),(258),(183),(522),TSCO
+Total Cash from Operations,"1,139",59,626,626,TSCO
+Capital Expenditures,(628),(112),(265),(451),TSCO
+"OtherInvestCashFlowItms,Tot",1,0,0,0,TSCO
+Total Cash from Investing,(627),(112),(265),(451),TSCO
+Financing Cash Flow Items,0,--,--,--,TSCO
+Total Cash Dividends Paid,(239),(103),(206),(308),TSCO
+Sale/Issuance of Common,82,8,13,15,TSCO
+Repurch/Retirement Common,(814),(323),(512),(636),TSCO
+"Iss (Retirmnt) of Stock,Net",(732),(315),(499),(621),TSCO
+Long Term Debt Issued,0,--,--,120,TSCO
+Long Term Debt Reduction,(5),(1),(3),(33),TSCO
+"Iss (Retirmnt) of Debt, Net",(5),(1),(3),87,TSCO
+Total Cash From Financing,(975),(419),(708),(842),TSCO
+Net Change in Cash,(464),(473),(347),(667),TSCO
+NetCash-BeginBal/RsvdforFutUse,"1,342",878,878,878,TSCO
+NetCash-EndBal/RsrvforFutUse,878,405,531,211,TSCO
+"Depreciation, Supplemental",270,78,161,248,TSCO

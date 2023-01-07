@@ -1,0 +1,49 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"1,076",589,"1,254","1,325","2,146",KDP
+Depreciation/Depletion,198,233,358,362,410,KDP
+Amortization,31,229,340,133,134,KDP
+Deferred Taxes,(201),(81),(23),(51),31,KDP
+Unusual Items,11,72,23,145,(23),KDP
+Equity in Net Earnings/Loss,--,--,51,20,(519),KDP
+Other Non-Cash Items,(32),114,105,356,344,KDP
+Non-Cash Items,(21),186,179,521,(198),KDP
+"Cash Taxes Pd, Supplemental",291,210,433,582,506,KDP
+"Cash Interest Pd, Suppl",143,180,521,515,477,KDP
+Accounts Receivable,(38),82,(7),(5),(152),KDP
+Inventories,0,185,(24),(107),(133),KDP
+Other Assets,(20),(49),(324),(435),(243),KDP
+Accounts Payable,24,206,583,624,762,KDP
+Changes in Working Capital,(45),457,366,166,351,KDP
+Total Cash from Operations,"1,038","1,613","2,474","2,456","2,874",KDP
+Purchase of Fixed Assets,(202),(180),(330),(461),(423),KDP
+Purchase/Acq of Intangibles,(6),--,(35),(56),(32),KDP
+Capital Expenditures,(208),(180),(365),(517),(455),KDP
+Acquisition of Business,"(1,556)","(19,114)",(8),0,0,KDP
+Sale of Business,4,169,0,0,--,KDP
+Sale of Fixed Assets,3,--,247,203,122,KDP
+Sale/Maturity of Investment,--,35,0,0,578,KDP
+Purchase of Investments,(3),(39),(16),(5),0,KDP
+Other Investing Cash Flow,(3),(2),(8),3,(35),KDP
+"OtherInvestCashFlowItms,Tot","(1,555)","(18,951)",215,201,665,KDP
+Total Cash from Investing,"(1,763)","(19,131)",(150),(316),210,KDP
+Financing Cash Flow Items,(22),(36),5,29,(161),KDP
+Total Cash Dividends Paid,(414),(232),(844),(846),(955),KDP
+Sale/Issuance of Common,--,"9,000",0,0,140,KDP
+Repurch/Retirement Common,(399),--,--,--,--,KDP
+"Common Stock, Net",(399),"9,000",0,0,140,KDP
+Options Exercised,20,3,--,--,--,KDP
+"Iss (Retirmnt) of Stock,Net",(379),"9,003",0,0,140,KDP
+Short Term Debt Issued,--,526,330,171,156,KDP
+Short Term Debt Reduction,--,--,(531),(341),"(5,424)",KDP
+"Short Term Debt, Net",66,"1,606",(34),"(1,416)",138,KDP
+Long Term Debt Issued,400,"12,600","2,000","3,350","2,150",KDP
+Long Term Debt Reduction,(574),"(5,364)","(3,491)","(3,107)","(4,074)",KDP
+"Long Term Debt, Net",(174),"7,236","(1,491)",243,"(1,924)",KDP
+Total Debt Issued,16,0,--,--,--,KDP
+"Iss (Retirmnt) of Debt, Net",(92),"8,842","(1,525)","(1,173)","(1,786)",KDP
+Total Cash From Financing,(907),"17,577","(2,364)","(1,990)","(2,762)",KDP
+Foreign Exchange Effects,3,(15),12,(6),(9),KDP
+Net Change in Cash,"(1,629)",44,(28),144,313,KDP
+NetCash-BeginBal/RsvdforFutUse,"1,787",95,139,111,255,KDP
+NetCash-EndBal/RsrvforFutUse,158,139,111,255,568,KDP
+"Depreciation, Supplemental",198,233,358,362,410,KDP

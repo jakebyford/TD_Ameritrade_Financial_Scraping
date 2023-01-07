@@ -1,0 +1,34 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"(10,111)","(11,282)","(12,585)","(14,896)",SHAK
+Depreciation/Depletion,"58,991","16,855","34,942","53,589",SHAK
+Deferred Taxes,"(10,379)","5,719","8,392","12,215",SHAK
+Unusual Items,"1,914",977,"1,666","2,097",SHAK
+Other Non-Cash Items,"62,052","17,467","35,883","55,359",SHAK
+Non-Cash Items,"63,966","18,444","37,549","57,456",SHAK
+"Cash Taxes Pd, Supplemental","2,808",936,"2,157","2,904",SHAK
+"Cash Interest Pd, Suppl",252,57,118,179,SHAK
+Accounts Receivable,"(4,193)","1,902","1,721","1,840",SHAK
+Inventories,(962),70,(105),(146),SHAK
+Prepaid Expenses,"4,913","(2,392)","(3,964)","(4,767)",SHAK
+Other Assets,"(2,722)","(2,111)","(4,090)","(5,966)",SHAK
+Accounts Payable,"(6,450)","(2,862)","(1,104)","(2,069)",SHAK
+Accrued Expenses,"(32,042)","(20,701)","(30,508)","(47,289)",SHAK
+Changes in Working Capital,"(44,065)","(21,767)","(33,136)","(54,031)",SHAK
+Total Cash from Operations,"58,402","7,969","35,162","54,333",SHAK
+Capital Expenditures,"(101,495)","(27,974)","(55,268)","(94,797)",SHAK
+Sale/Maturity of Investment,"4,004",--,0,0,SHAK
+Purchase of Investments,"(47,399)",(77),(186),(415),SHAK
+"OtherInvestCashFlowItms,Tot","(43,395)",(77),(186),(415),SHAK
+Total Cash from Investing,"(144,890)","(28,051)","(55,454)","(95,212)",SHAK
+Financing Cash Flow Items,"(5,766)","(2,410)","(2,444)","(2,603)",SHAK
+"Common Stock, Net",0,--,--,--,SHAK
+Options Exercised,"6,731",84,175,334,SHAK
+"Iss (Retirmnt) of Stock,Net","6,731",84,175,334,SHAK
+Long Term Debt Issued,"243,750",0,0,0,SHAK
+Long Term Debt Reduction,"(2,694)",(747),"(1,513)","(2,260)",SHAK
+"Iss (Retirmnt) of Debt, Net","241,056",(747),"(1,513)","(2,260)",SHAK
+Total Cash From Financing,"242,021","(3,073)","(3,782)","(4,529)",SHAK
+Net Change in Cash,"155,533","(23,155)","(24,074)","(45,408)",SHAK
+NetCash-BeginBal/RsvdforFutUse,"146,873","302,406","302,406","302,406",SHAK
+NetCash-EndBal/RsrvforFutUse,"302,406","279,251","278,332","256,998",SHAK
+"Depreciation, Supplemental","58,991","16,855","34,942","53,589",SHAK

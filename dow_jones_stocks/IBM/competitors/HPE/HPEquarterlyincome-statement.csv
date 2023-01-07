@@ -1,0 +1,43 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Total Revenue,"6,961","6,713","6,951","7,871",HPE
+"Cost of Revenue, Total","4,617","4,540","4,555","5,278",HPE
+Selling/Gen/Admin Expense,"1,132","1,187","1,205","1,215",HPE
+Labor & Related Expense,69,62,24,47,HPE
+"Sell/Gen/AdminExpenses,Tot","1,201","1,249","1,229","1,262",HPE
+Research & Development,504,517,509,515,HPE
+Depreciation/Amortization,73,74,73,73,HPE
+Restructuring Charge,37,30,35,112,HPE
+Litigation,--,--,--,0,HPE
+Impair-Assets Held for Use,11,0,0,905,HPE
+Other Unusual Expnse (In),95,96,114,85,HPE
+Unusual Expense (Income),135,126,149,"1,102",HPE
+Loss(Gain)/Sale Asts (Oper),(8),0,0,0,HPE
+Total Operating Expense,"6,530","6,506","6,515","8,230",HPE
+Total Operating Income,431,207,436,(359),HPE
+"Inter Inc(Exp),Net Non-Oper",(5),0,(74),(109),HPE
+"Other, Net",36,36,34,28,HPE
+Income Before Tax,493,276,464,(357),HPE
+Income Tax - Total,(20),26,55,(53),HPE
+Income After Tax,513,250,409,(304),HPE
+Net Inc Before Extra Items,513,250,409,(304),HPE
+Total Net Income,513,250,409,(304),HPE
+Income Available to Common Excl. Extra. Items,513,250,409,(304),HPE
+Income Available to Common Incl. Extra. Items,513,250,409,(304),HPE
+Basic/Primary Weighted Average Shares,"1,304","1,307","1,305","1,294",HPE
+Basic/Primary EPS Excl. Extra. Items,0.39,0.19,0.31,(0.23),HPE
+Basic/Primary EPS Incl. Extra. Items,0.39,0.19,0.31,(0.23),HPE
+Diluted Weighted Average Shares,"1,325","1,329","1,323","1,294",HPE
+Diluted EPS Excl. Extra. Items,0.39,0.19,0.31,(0.23),HPE
+Diluted EPS Incl. Extra. Items,0.39,0.19,0.31,(0.23),HPE
+Div/Share-ComStockPrimIssue,0.12,0.12,0.12,0.12,HPE
+Gross Divid - Common Stock,155,156,156,154,HPE
+Pro Forma Net Income,--,--,--,--,HPE
+"Depreciat/Amort, Suppl",548,547,547,545,HPE
+Total Special Items,135,126,149,"1,102",HPE
+Normalzd Income Before Tax,628,402,613,745,HPE
+Efct/SpecItemsIncTxs (STEC),47,12,18,386,HPE
+IncTxsExcl ImpctofSpec Itms,27,38,73,333,HPE
+Normalized Income After Tax,601,364,540,412,HPE
+Normalzd Inc Avail to Common,601,364,540,412,HPE
+Basic Normalized EPS,0.46,0.28,0.41,0.32,HPE
+Diluted Normalized EPS,0.45,0.27,0.41,0.32,HPE

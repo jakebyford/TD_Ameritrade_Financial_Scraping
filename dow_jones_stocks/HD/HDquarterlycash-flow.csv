@@ -1,0 +1,34 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Net Income,"16,433","4,231","9,404","13,743",HD
+Depreciation/Depletion,"2,862",727,"1,473","2,216",HD
+Deferred Taxes,(276),(44),(95),129,HD
+Non-Cash Items,399,115,196,286,HD
+"Cash Taxes Pd, Supplemental","5,504",213,"3,105","4,173",HD
+"Cash Interest Pd, Suppl","1,269",415,665,"1,160",HD
+Accounts Receivable,(435),(489),(295),(312),HD
+Inventories,"(5,403)","(3,226)","(4,009)","(3,748)",HD
+Other Assets,(330),(589),(668),(568),HD
+Payable/Accrued,"2,401","1,744","1,079","(1,568)",HD
+Changes in Working Capital,"(2,847)","(1,240)","(3,796)","(6,353)",HD
+Total Cash from Operations,"16,571","3,789","7,182","10,021",HD
+Capital Expenditures,"(2,566)",(704),"(1,447)","(2,216)",HD
+Acquisition of Business,(421),--,0,0,HD
+Other Investing Cash Flow,18,3,(14),(29),HD
+"OtherInvestCashFlowItms,Tot",(403),3,(14),(29),HD
+Total Cash from Investing,"(2,969)",(701),"(1,461)","(2,245)",HD
+Financing Cash Flow Items,(145),(182),(163),(185),HD
+Total Cash Dividends Paid,"(6,985)","(1,962)","(3,910)","(5,856)",HD
+Sale/Issuance of Common,337,5,142,146,HD
+Repurch/Retirement Common,"(14,809)","(2,308)","(3,962)","(5,136)",HD
+"Iss (Retirmnt) of Stock,Net","(14,472)","(2,303)","(3,820)","(4,990)",HD
+"Short Term Debt, Net","1,035","(1,035)",(496),"(1,035)",HD
+Long Term Debt Issued,"2,979","3,957","3,957","6,942",HD
+Long Term Debt Reduction,"(1,532)","(1,054)","(2,366)","(2,423)",HD
+"Long Term Debt, Net","1,447","2,903","1,591","4,519",HD
+"Iss (Retirmnt) of Debt, Net","2,482","1,868","1,095","3,484",HD
+Total Cash From Financing,"(19,120)","(2,579)","(6,798)","(7,547)",HD
+Foreign Exchange Effects,(34),(8),(7),(110),HD
+Net Change in Cash,"(5,552)",501,"(1,084)",119,HD
+NetCash-BeginBal/RsvdforFutUse,"7,895","2,343","2,343","2,343",HD
+NetCash-EndBal/RsrvforFutUse,"2,343","2,844","1,259","2,462",HD
+"Depreciation, Supplemental","2,862",727,"1,473","2,216",HD

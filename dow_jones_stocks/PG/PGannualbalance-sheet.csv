@@ -1,0 +1,57 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash & Equivalents,"2,569","4,239","16,181","10,288","7,214",PG
+Short Term Investments,"9,281","6,048",0,--,--,PG
+Cash and Short Term Invs,"11,850","10,287","16,181","10,288","7,214",PG
+"Total Receivables, Net","4,686","4,951","4,178","4,725","5,143",PG
+Invent. - Finished Goods,"2,815","3,116","3,410","3,619","3,900",PG
+Invent. - Work In Progress,588,612,674,719,856,PG
+Invent. - Raw Materials,"1,335","1,289","1,414","1,645","2,168",PG
+Total Inventory,"4,738","5,017","5,498","5,983","6,924",PG
+Prepaid Expenses,"2,046","2,218","2,130","2,095","2,372",PG
+Total Current Assets,"23,320","22,473","27,987","23,091","21,653",PG
+Buildings,"7,188","7,746","7,700","8,165","8,087",PG
+Land/Improvements,841,805,777,808,756,PG
+Machinery/Equipment,"30,595","32,263","33,260","35,367","35,098",PG
+Construction in Progress,"3,223","2,579","2,034","2,358","2,756",PG
+Other Prop./Plant/Equip.,--,--,850,808,760,PG
+Prop./Plant/Equip. - Gross,"41,847","43,393","44,621","47,506","47,457",PG
+Accumulated Depreciation,"(21,247)","(22,122)","(23,079)","(25,012)","(25,502)",PG
+Prop./Plant/Equip. - Net,"20,600","21,271","21,542","22,494","21,955",PG
+"Goodwill, Net","45,175","40,273","39,901","40,924","39,700",PG
+Intangibles - Gross,"29,058","29,591","29,522","29,742","29,952",PG
+Accum. Intangible Amort.,"(5,156)","(5,376)","(5,730)","(6,100)","(6,273)",PG
+Intangibles - Net,"23,902","24,215","23,792","23,642","23,679",PG
+Long Term Investments,--,--,--,--,113,PG
+Other Long Term Assets,"5,313","6,863","7,478","9,156","10,108",PG
+Total Assets,"118,310","115,095","120,700","119,307","117,208",PG
+Accounts Payable,"10,344","11,260","12,071","13,720","14,882",PG
+Accrued Expenses,"7,202","8,713","9,722","10,245","9,407",PG
+Notes Payable/ST Debt,"7,851","6,309","8,675","5,269","4,998",PG
+Curr. Port. LT Dbt/Cap Ls.,"2,572","3,388","2,508","3,620","3,647",PG
+Income Taxes Payable,268,341,--,--,--,PG
+Other Current Liabilities,--,--,--,278,147,PG
+"Other Curr. Lblts, Total",268,341,--,278,147,PG
+Total Current Liabilities,"28,237","30,011","32,976","33,132","33,081",PG
+Total Long Term Debt,"20,863","20,395","23,537","23,099","22,848",PG
+Total Debt,"31,286","30,092","34,720","31,988","31,493",PG
+Deferred Income Tax,"6,163","6,899","6,199","6,153","6,809",PG
+Minority Interest,590,385,357,276,265,PG
+Pension Benefits - Underfunded,"6,263","9,535",--,"6,374","3,811",PG
+Other LT Liabilities,"3,901",676,"11,110","3,895","3,805",PG
+"Other Liabilities, Total","10,164","10,211","11,110","10,269","7,616",PG
+Total Liabilities,"66,017","67,901","74,179","72,929","70,619",PG
+Redeemable Preferred Stock,967,928,897,870,843,PG
+Common Stock,"4,009","4,009","4,009","4,009","4,009",PG
+Additional Paid-In Capital,"63,846","63,827","64,194","64,848","65,795",PG
+Ret. Earn.(Accum. Deficit),"98,641","94,918","100,239","106,374","112,429",PG
+Treasury Stock - Common,"(99,217)","(100,406)","(105,573)","(114,973)","(123,382)",PG
+ESOP Debt Guarantee,"(1,204)","(1,146)","(1,080)","(1,006)",(916),PG
+Unrealized Gain (Loss),(173),11,(1),15,20,PG
+Cum. Trans. Adjustment,"(7,272)","(10,749)","(11,814)","(10,796)","(12,236)",PG
+Min. Pension Lblty Adj.,"(4,058)","(4,198)","(4,350)","(2,963)",27,PG
+Other Comprehensive Income,"(3,246)",--,--,--,--,PG
+"Other Equity, Total","(14,576)","(14,947)","(16,164)","(13,759)","(12,209)",PG
+Total Equity,"52,293","47,194","46,521","46,378","46,589",PG
+Total Liabilities & Shareholders’ Equity,"118,310","115,095","120,700","119,307","117,208",PG
+Ttl Comm. Shares Outs.,"2,498","2,505","2,480","2,430","2,394",PG
+Trsy. Shrs-Comm. Primary Iss.,"1,511","1,505","1,530","1,580","1,615",PG

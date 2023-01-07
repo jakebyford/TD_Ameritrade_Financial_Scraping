@@ -1,0 +1,32 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,360,"1,110",126,"4,072","1,444",CRM
+Depreciation/Depletion,753,962,"2,135","2,846","3,298",CRM
+Extraordinary Item,--,--,--,"(2,003)",0,CRM
+Unusual Items,(19),(542),(261),"(2,170)","(1,211)",CRM
+Other Non-Cash Items,"1,620","2,040","2,661","3,248","4,127",CRM
+Non-Cash Items,"1,601","1,498","2,400",(925),"2,916",CRM
+"Cash Taxes Pd, Supplemental",53,83,129,216,196,CRM
+"Cash Interest Pd, Suppl",40,94,106,96,187,CRM
+Accounts Receivable,"(1,875)","(1,904)","(2,130)","(3,201)","(4,107)",CRM
+Prepaid Expenses,18,(58),(119),(133),114,CRM
+Accounts Payable,(39),74,15,--,--,CRM
+Accrued Expenses,392,213,239,(830),(801),CRM
+Payable/Accrued,--,--,--,"1,100",507,CRM
+Changes in Working Capital,24,(172),(330),"(1,192)","(1,658)",CRM
+Total Cash from Operations,"2,738","3,398","4,331","4,801","6,000",CRM
+Capital Expenditures,(534),(595),(643),(710),(717),CRM
+Acquisition of Business,(25),"(5,115)",(369),"(1,281)","(14,876)",CRM
+Sale/Maturity of Investment,767,"1,832","2,657","3,922","8,449",CRM
+Purchase of Investments,"(2,219)","(1,430)","(4,625)","(5,902)","(7,392)",CRM
+"OtherInvestCashFlowItms,Tot","(1,477)","(4,713)","(2,337)","(3,261)","(13,819)",CRM
+Total Cash from Investing,"(2,011)","(5,308)","(2,980)","(3,971)","(14,536)",CRM
+"Iss (Retirmnt) of Stock,Net",650,704,840,"1,321","1,289",CRM
+"Short Term Debt, Net",--,--,--,--,"(1,197)",CRM
+"Long Term Debt, Net",(429),"1,306",(676),(127),"7,746",CRM
+"Iss (Retirmnt) of Debt, Net",(429),"1,306",(676),(127),"6,549",CRM
+Total Cash From Financing,221,"2,010",164,"1,194","7,838",CRM
+Foreign Exchange Effects,(12),26,(39),26,(33),CRM
+Net Change in Cash,936,126,"1,476","2,050",(731),CRM
+NetCash-BeginBal/RsvdforFutUse,"1,607","2,543","2,669","4,145","6,195",CRM
+NetCash-EndBal/RsrvforFutUse,"2,543","2,669","4,145","6,195","5,464",CRM
+"Depreciation, Supplemental",753,962,"2,135","2,846","3,298",CRM

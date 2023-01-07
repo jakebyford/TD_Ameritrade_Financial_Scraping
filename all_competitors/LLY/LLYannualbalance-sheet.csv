@@ -1,0 +1,72 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"6,536","7,321","2,338","3,657","3,819",LLY
+Short Term Investments,"1,498",88,101,24,90,LLY
+Cash and Short Term Invs,"8,034","7,409","2,439","3,681","3,909",LLY
+"Trade Accts Recvble, Gross","4,585","1,207","4,570","5,901","6,695",LLY
+Prov. for Doubtful Accts,(39),(24),(22),(26),(23),LLY
+"Trade Accts Recvble, Net","4,546","5,777","4,547","5,875","6,673",LLY
+Other Receivables,716,--,994,"1,054","1,454",LLY
+"Total Receivables, Net","5,262","5,777","5,542","6,929","8,127",LLY
+Invent. - Finished Goods,"1,211",--,647,759,762,LLY
+Invent. - Work In Progress,"2,698",--,"2,068","2,535","2,373",LLY
+Invent. - Raw Materials,489,--,425,651,717,LLY
+LIFO Reserve,60,--,51,35,34,LLY
+Total Inventory,"4,458","3,098","3,191","3,980","3,886",LLY
+Prepaid Expenses,"1,448","2,037","2,539","2,872","2,531",LLY
+"Other Curr. Assets, Total",--,"2,229",0,--,--,LLY
+Total Current Assets,"19,202","20,550","13,710","17,462","18,452",LLY
+Buildings,"7,426",--,"7,067","7,326","7,588",LLY
+Land/Improvements,193,--,170,227,259,LLY
+Machinery/Equipment,"8,689",--,"7,913","8,561","8,937",LLY
+Construction in Progress,"1,784",--,"1,884","2,139","2,178",LLY
+Other Prop./Plant/Equip.,--,"16,663",532,--,--,LLY
+Prop./Plant/Equip. - Gross,"18,091","16,663","17,567","18,253","18,962",LLY
+Accumulated Depreciation,"(9,265)","(8,667)","(9,162)","(9,571)","(9,977)",LLY
+Prop./Plant/Equip. - Net,"8,827","7,996","8,405","8,682","8,985",LLY
+"Goodwill, Net","4,370","1,367","3,679","3,767","3,892",LLY
+Intangibles - Gross,"7,950","2,167","7,914","9,178","9,982",LLY
+Accum. Intangible Amort.,"(3,921)","(1,099)","(1,296)","(1,728)","(2,290)",LLY
+Intangibles - Net,"4,029","1,068","6,618","7,450","7,692",LLY
+LT Invt. - Affiliate Comp.,585,289,289,472,772,LLY
+LT Investments - Other,"5,094","1,716","1,673","2,495","2,441",LLY
+Long Term Investments,"5,679","2,005","1,962","2,967","3,213",LLY
+Def. Inc. Tax - LT Asset,--,"2,614","2,573","2,830","2,489",LLY
+Disct. Ops. - LT Asset,--,"6,484",0,--,--,LLY
+Other Long Term Assets,"2,874","1,825","2,339","3,475","4,083",LLY
+Total Assets,"44,981","43,908","39,286","46,633","48,806",LLY
+Accounts Payable,"1,411","1,207","1,405","1,607","1,671",LLY
+Accrued Expenses,998,956,916,997,958,LLY
+Notes Payable/ST Debt,"2,697",499,"1,494",0,0,LLY
+Curr. Port. LT Dbt/Cap Ls.,"1,010",603,5,9,"1,538",LLY
+Dividends Payable,591,651,672,771,886,LLY
+Income Taxes Payable,533,393,161,495,127,LLY
+Other Payables,"4,465","4,850","4,934","5,853","6,846",LLY
+Discontinued Operations,--,693,0,--,--,LLY
+Other Current Liabilities,"2,832","2,037","2,189","2,750","3,028",LLY
+"Other Curr. Lblts, Total","8,421","8,623","7,955","9,869","10,886",LLY
+Total Current Liabilities,"14,536","11,888","11,775","12,482","15,053",LLY
+Long Term Debt,"9,932","9,196","13,818","16,587","15,346",LLY
+Capital Lease Obligations,9,--,--,--,--,LLY
+Total Long Term Debt,"9,941","9,196","13,818","16,587","15,346",LLY
+Total Debt,"13,647","10,299","15,317","16,595","16,885",LLY
+Deferred Income Tax,--,"1,313","2,188","2,100","1,734",LLY
+Minority Interest,76,"1,080",92,184,176,LLY
+Pension Benefits - Underfunded,"3,514","2,802","3,698","4,095","1,954",LLY
+Other LT Liabilities,"5,323","5,058","5,108","5,545","5,564",LLY
+Discont. Ops. - Lblts,--,"2,742",0,--,--,LLY
+"Other Liabilities, Total","8,837","10,602","8,806","9,640","7,518",LLY
+Total Liabilities,"33,389","34,080","36,679","40,992","39,827",LLY
+Common Stock,688,661,599,598,596,LLY
+Additional Paid-In Capital,"5,818","6,584","6,685","6,779","6,833",LLY
+Ret. Earn.(Accum. Deficit),"13,894","11,396","4,920","7,830","8,959",LLY
+Treasury Stock - Common,(76),(69),(61),(56),(53),LLY
+Unrealized Gain (Loss),114,--,5,15,4,LLY
+Cum. Trans. Adjustment,"(1,233)",--,"(1,678)","(1,428)","(1,550)",LLY
+Other Equity,"(3,013)","(3,013)","(3,013)","(3,013)","(3,013)",LLY
+Min. Pension Lblty Adj.,"(4,341)",--,"(4,639)","(4,751)","(2,584)",LLY
+Other Comprehensive Income,(258),"(5,729)",(212),(333),(213),LLY
+"Other Equity, Total","(8,845)","(8,742)","(9,542)","(9,524)","(7,360)",LLY
+Total Equity,"11,592","9,829","2,607","5,642","8,979",LLY
+Total Liabilities & Shareholders’ Equity,"44,981","43,908","39,286","46,633","48,806",LLY
+Ttl Comm. Shares Outs.,"1,100","1,058",958,957,954,LLY
+Trsy. Shrs-Comm. Primary Iss.,1,1,1,0,0,LLY

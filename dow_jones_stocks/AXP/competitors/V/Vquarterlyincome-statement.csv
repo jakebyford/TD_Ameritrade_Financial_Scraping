@@ -1,0 +1,40 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Total Revenue,"7,059","7,189","7,275","7,787",V
+"Cost of Revenue, Total","1,315","1,391","1,461","1,541",V
+"Sell/Gen/AdminExpenses,Tot",622,729,719,930,V
+Depreciation/Amortization,198,207,230,226,V
+Litigation,148,0,717,3,V
+Other Unusual Expnse (In),--,60,--,0,V
+Unusual Expense (Income),148,60,717,3,V
+Total Operating Expense,"2,283","2,387","3,127","2,700",V
+Total Operating Income,"4,776","4,802","4,148","5,087",V
+"Inter Expse,Net Non-Operat",(134),(134),(111),(159),V
+"Inter/Invest Inc, Non-Oper",255,(126),(208),(60),V
+Income Before Tax,"4,897","4,542","3,829","4,868",V
+Income Tax - Total,938,895,418,928,V
+Income After Tax,"3,959","3,647","3,411","3,940",V
+Net Inc Before Extra Items,"3,959","3,647","3,411","3,940",V
+Total Net Income,"3,959","3,647","3,411","3,940",V
+Total Adjust to Net Income,(88),(82),(76),(81),V
+Income Available to Common Excl. Extra. Items,"3,871","3,565","3,335","3,859",V
+Income Available to Common Incl. Extra. Items,"3,871","3,565","3,335","3,859",V
+Basic/Primary Weighted Average Shares,"2,107","2,092","2,080","2,077",V
+Basic/Primary EPS Excl. Extra. Items,1.84,1.70,1.60,1.86,V
+Basic/Primary EPS Incl. Extra. Items,1.84,1.70,1.60,1.86,V
+Dilution Adjustment,88,82,76,81,V
+Diluted Weighted Average Shares,"2,159","2,142","2,129","2,115",V
+Diluted EPS Excl. Extra. Items,1.83,1.70,1.60,1.86,V
+Diluted EPS Incl. Extra. Items,1.83,1.70,1.60,1.86,V
+Div/Share-ComStockPrimIssue,0.38,0.38,0.38,0.38,V
+Gross Divid - Common Stock,809,802,798,794,V
+Pro Forma Net Income,--,--,--,--,V
+"Interest Expense, Suppl",134,134,111,159,V
+"Depreciat/Amort, Suppl",185,187,186,213,V
+Total Special Items,158,140,731,28,V
+Normalzd Income Before Tax,"5,055","4,682","4,560","4,896",V
+Efct/SpecItemsIncTxs (STEC),(76),22,(107),24,V
+IncTxsExcl ImpctofSpec Itms,862,917,311,952,V
+Normalized Income After Tax,"4,193","3,765","4,249","3,944",V
+Normalzd Inc Avail to Common,"4,105","3,683","4,173","3,863",V
+Basic Normalized EPS,1.95,1.76,2.01,1.86,V
+Diluted Normalized EPS,1.94,1.76,2.00,1.86,V

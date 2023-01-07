@@ -1,0 +1,38 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Net Income,"3,211","4,607","6,046","1,468",NKE
+Depreciation/Depletion,358,538,717,169,NKE
+Amortization,3,6,123,--,NKE
+Deferred Taxes,(222),(234),(650),(43),NKE
+Unusual Items,48,3,(26),16,NKE
+Other Non-Cash Items,306,467,638,161,NKE
+Non-Cash Items,354,470,612,177,NKE
+"Cash Taxes Pd, Supplemental",--,--,"1,231",--,NKE
+"Cash Interest Pd, Suppl",--,--,290,--,NKE
+Accounts Receivable,543,466,(504),(415),NKE
+Inventories,268,(872),"(1,676)","(1,363)",NKE
+Prepaid Expenses,(444),(639),(845),(128),NKE
+Payable/Accrued,(203),(305),"1,365",492,NKE
+Changes in Working Capital,164,"(1,350)","(1,660)","(1,414)",NKE
+Total Cash from Operations,"3,868","4,037","5,188",357,NKE
+Capital Expenditures,(362),(516),(758),(264),NKE
+Sale/Maturity of Investment,"5,923","8,073","12,166","2,380",NKE
+Purchase of Investments,"(6,699)","(9,229)","(12,913)","(2,469)",NKE
+Other Investing Cash Flow,33,(39),(19),139,NKE
+"OtherInvestCashFlowItms,Tot",(743),"(1,195)",(766),50,NKE
+Total Cash from Investing,"(1,105)","(1,711)","(1,524)",(214),NKE
+Financing Cash Flow Items,(109),(140),(151),(22),NKE
+Total Cash Dividends Paid,(873),"(1,356)","(1,837)",(480),NKE
+"Common Stock, Net","(1,723)","(2,923)","(4,014)",(983),NKE
+Options Exercised,846,959,"1,151",82,NKE
+"Iss (Retirmnt) of Stock,Net",(877),"(1,964)","(2,863)",(901),NKE
+"Short Term Debt, Net",13,4,15,(1),NKE
+Long Term Debt Issued,--,--,0,--,NKE
+Long Term Debt Reduction,0,0,0,--,NKE
+"Long Term Debt, Net",0,0,0,--,NKE
+"Iss (Retirmnt) of Debt, Net",13,4,15,(1),NKE
+Total Cash From Financing,"(1,846)","(3,456)","(4,836)","(1,404)",NKE
+Foreign Exchange Effects,(55),(55),(143),(87),NKE
+Net Change in Cash,862,"(1,185)","(1,315)","(1,348)",NKE
+NetCash-BeginBal/RsvdforFutUse,"9,889","9,889","9,889","8,574",NKE
+NetCash-EndBal/RsrvforFutUse,"10,751","8,704","8,574","7,226",NKE
+"Depreciation, Supplemental",358,538,717,169,NKE

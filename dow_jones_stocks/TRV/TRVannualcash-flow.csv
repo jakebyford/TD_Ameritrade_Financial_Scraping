@@ -1,0 +1,29 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"2,056","2,523","2,622","2,697","3,662",TRV
+Depreciation/Depletion,813,803,763,789,870,TRV
+Amortization,"4,166","4,381","4,601","4,773","5,043",TRV
+Deferred Taxes,337,(13),(33),(29),62,TRV
+Non-Cash Items,(397),(365),(251),(130),(993),TRV
+"Cash Taxes Pd, Supplemental",514,408,428,578,707,TRV
+"Cash Interest Pd, Suppl",367,347,338,339,337,TRV
+Changes in Working Capital,"(2,827)","(2,949)","(2,497)","(1,581)","(1,370)",TRV
+Total Cash from Operations,"4,148","4,380","5,205","6,519","7,274",TRV
+Acquisition of Business,(439),(4),0,--,(38),TRV
+Sale/Maturity of Investment,"11,860","11,395","9,631","10,836","12,546",TRV
+"Investment, Net",(26),908,(957),(566),"1,702",TRV
+Purchase of Investments,"(13,309)","(14,254)","(11,409)","(14,785)","(19,108)",TRV
+Other Investing Cash Flow,(288),(374),(167),(377),(298),TRV
+Total Cash from Investing,"(2,202)","(2,329)","(2,902)","(4,892)","(5,196)",TRV
+Total Cash Dividends Paid,(785),(814),(844),(861),(869),TRV
+Sale/Issuance of Common,173,132,213,127,293,TRV
+Repurch/Retirement Common,"(1,440)","(1,321)","(1,548)",(672),"(2,200)",TRV
+"Iss (Retirmnt) of Stock,Net","(1,267)","(1,189)","(1,335)",(545),"(1,907)",TRV
+Total Debt Issued,789,591,492,490,739,TRV
+Total Debt Reduction,(657),(600),(500),(500),0,TRV
+"Iss (Retirmnt) of Debt, Net",132,(9),(8),(10),739,TRV
+Total Cash From Financing,"(1,920)","(2,012)","(2,187)","(1,416)","(2,037)",TRV
+Foreign Exchange Effects,11,(10),5,16,(1),TRV
+Net Change in Cash,37,29,121,227,40,TRV
+NetCash-BeginBal/RsvdforFutUse,307,344,373,494,721,TRV
+NetCash-EndBal/RsrvforFutUse,344,373,494,721,761,TRV
+"Depreciation, Supplemental",813,803,763,789,870,TRV

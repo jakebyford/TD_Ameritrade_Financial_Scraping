@@ -1,0 +1,40 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"19,848","21,421","14,774","(23,251)","23,598",XOM
+Depreciation/Depletion,"19,893","18,745","18,998","46,009","20,607",XOM
+Deferred Taxes,"(8,577)",(60),(944),"(8,856)",303,XOM
+Unusual Items,(334),"(1,993)","(1,710)",4,"(1,207)",XOM
+Equity in Net Earnings/Loss,131,"(1,684)",(936),979,(668),XOM
+Other Non-Cash Items,525,"1,002","(2,929)",(771),804,XOM
+Non-Cash Items,322,"(2,675)","(5,575)",212,"(1,071)",XOM
+"Cash Taxes Pd, Supplemental","7,510","9,294","7,018","2,428","5,341",XOM
+"Cash Interest Pd, Suppl","1,132",955,"1,291","1,451","1,474",XOM
+Accounts Receivable,"(3,954)",(545),"(2,640)","5,384","(12,098)",XOM
+Inventories,"(1,682)","(3,107)",72,(315),(489),XOM
+Other Assets,(117),(25),(234),420,(71),XOM
+Accounts Payable,"5,104","2,321","3,725","(7,142)","16,820",XOM
+Changes in Working Capital,"(1,420)","(1,417)","2,463",554,"4,692",XOM
+Total Cash from Operations,"30,066","36,014","29,716","14,668","48,129",XOM
+Capital Expenditures,"(15,402)","(19,574)","(24,361)","(17,282)","(12,076)",XOM
+Sale of Business,"3,103","4,123","3,692",999,"3,176",XOM
+Purchase of Investments,"(5,507)","(1,981)","(3,905)","(4,857)","(2,817)",XOM
+Other Investing Cash Flow,"2,076",986,"1,490","2,681","1,482",XOM
+"OtherInvestCashFlowItms,Tot",(328),"3,128","1,277","(1,177)","1,841",XOM
+Total Cash from Investing,"(15,730)","(16,446)","(23,084)","(18,459)","(10,235)",XOM
+Financing Cash Flow Items,(334),(97),(34),414,(690),XOM
+Total Cash Dividends Paid,"(13,001)","(13,798)","(14,652)","(14,865)","(14,924)",XOM
+Sale/Issuance of Common,--,0,--,--,--,XOM
+Repurch/Retirement Common,(747),(626),(594),(405),(155),XOM
+"Iss (Retirmnt) of Stock,Net",(747),(626),(594),(405),(155),XOM
+Short Term Debt Issued,"1,735",--,--,--,"12,687",XOM
+Short Term Debt Reduction,"(5,024)","(4,752)","(4,043)","(1,703)","(29,396)",XOM
+"Short Term Debt, Net","(1,108)","(4,971)","1,611","(3,037)","(19,692)",XOM
+Long Term Debt Issued,60,46,"7,052","23,186",46,XOM
+Long Term Debt Reduction,--,--,(1),(8),(8),XOM
+"Long Term Debt, Net",60,46,"7,051","23,178",38,XOM
+"Iss (Retirmnt) of Debt, Net","(1,048)","(4,925)","8,662","20,141","(19,654)",XOM
+Total Cash From Financing,"(15,130)","(19,446)","(6,618)","5,285","(35,423)",XOM
+Foreign Exchange Effects,314,(257),33,(219),(33),XOM
+Net Change in Cash,(480),(135),47,"1,275","2,438",XOM
+NetCash-BeginBal/RsvdforFutUse,"3,657","3,177","3,042","3,089","4,364",XOM
+NetCash-EndBal/RsrvforFutUse,"3,177","3,042","3,089","4,364","6,802",XOM
+"Depreciation, Supplemental","19,893","18,745","18,998","46,009","20,607",XOM

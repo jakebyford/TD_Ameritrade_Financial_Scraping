@@ -1,0 +1,53 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"2,972","3,855","4,619","10,182","5,081",CI
+Prop./Plant/Equip. - Gross,--,"7,958","9,567","9,780","10,284",CI
+Accumulated Depreciation,--,"(3,396)","(4,527)","(5,575)","(6,592)",CI
+Prop./Plant/Equip. - Net,"1,563","4,562","4,953","4,757","4,143",CI
+"Goodwill, Net","6,164","44,505","44,602","44,648","45,811",CI
+Intangibles - Gross,--,"41,076","39,967","38,307","38,722",CI
+Accum. Intangible Amort.,--,"(1,510)","(3,405)","(3,128)","(4,620)",CI
+Intangibles - Net,--,"39,566","36,562","35,179","34,102",CI
+Long Term Investments,"28,619","28,974","22,479","24,593","19,358",CI
+Insurance Receivables,"3,380",--,--,--,--,CI
+Note Rcvble - Long Term,--,"10,473","10,716","12,191","15,071",CI
+Def. Inc. Tax - LT Asset,39,0,--,--,--,CI
+Disct. Ops. - LT Asset,--,--,"9,512",0,"10,057",CI
+Def. Policy Acq. Costs,"2,237","2,821","2,958","3,385",677,CI
+Reinsurance - Asset,"6,046","5,507","5,100","5,200","4,970",CI
+Separate Accounts - Assets,"8,423","7,839","8,465","9,086","8,337",CI
+Other Assets,"2,316","5,124","5,808","6,230","7,282",CI
+"Other Assets, Total","16,785","18,470","19,373","20,516","20,589",CI
+Total Assets,"61,759","153,226","155,774","155,451","154,889",CI
+Accounts Payable,"7,290","4,366","5,090","5,478","6,655",CI
+Accrued Expenses,--,"7,071","7,812","9,006","7,758",CI
+Policy Liabilities,"15,208",--,--,--,--,CI
+Insurance Reserves,"8,196","26,775","20,973","22,152","17,881",CI
+Unearned Prem. Or Rev.,724,--,--,--,--,CI
+Sep. Accounts - Liability,"8,423","7,839","8,465","9,086","8,337",CI
+Policy Liabilities,"32,551","34,614","29,438","31,238","26,218",CI
+Notes Payable/ST Debt,100,0,944,"1,030","2,027",CI
+Curr. Port. LT Dbt/Cap Ls.,140,"2,955","4,570","2,344",518,CI
+"Other Curr. Lblts, Total","2,719","10,702","10,454","13,347","15,309",CI
+Long Term Debt,"5,199","39,523","31,832","29,509","31,097",CI
+Capital Lease Obligations,--,--,61,36,28,CI
+Total Long Term Debt,"5,199","39,523","31,893","29,545","31,125",CI
+Total Debt,"5,439","42,478","37,407","32,919","33,670",CI
+Deferred Income Tax,--,"9,453","9,387","8,939","8,346",CI
+Minority Interest,49,44,41,65,72,CI
+Discont. Ops. - Lblts,--,--,"6,812",0,"6,423",CI
+Other Liabilities,--,"3,470","3,995","4,138","3,326",CI
+"Other Liabilities, Total",--,"3,470","10,807","4,138","9,749",CI
+Total Liabilities,"48,048","112,198","110,436","105,130","107,777",CI
+Common Stock,74,4,4,4,4,CI
+Additional Paid-In Capital,"2,940","27,751","28,306","28,975","29,574",CI
+Ret. Earn.(Accum. Deficit),"15,800","15,088","20,162","28,575","32,593",CI
+Treasury Stock - Common,"(4,021)",(104),"(2,193)","(6,372)","(14,175)",CI
+Unrealized Gain (Loss),328,--,--,--,--,CI
+Cum. Trans. Adjustment,(65),--,--,--,--,CI
+Min. Pension Lblty Adj.,"(1,345)",--,--,--,--,CI
+Other Comprehensive Income,0,"(1,711)",(941),(861),(884),CI
+"Other Equity, Total","(1,410)","(1,711)",(941),(861),(884),CI
+Total Equity,"13,711","41,028","45,338","50,321","47,112",CI
+Total Liabilities & Shareholders’ Equity,"61,759","153,226","155,774","155,451","154,889",CI
+Ttl Comm. Shares Outs.,244,381,373,355,323,CI
+Trsy. Shrs-Comm. Primary Iss.,52,1,13,36,71,CI

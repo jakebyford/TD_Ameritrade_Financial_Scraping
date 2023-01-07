@@ -1,0 +1,50 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"20,370","17,039","18,645","19,084",GE
+"Cost of Revenue, Total","15,307","12,812","13,605","14,662",GE
+"Sell/Gen/AdminExpenses,Tot","3,097","2,794","2,702","2,754",GE
+Research & Development,705,641,696,686,GE
+Restructuring Charge,83,180,243,427,GE
+Impair-Assets Held for Use,0,824,0,0,GE
+Other Unusual Expnse (In),"4,993",(15),(4),(22),GE
+Unusual Expense (Income),"5,076",989,239,405,GE
+"Other Operat Expse, Total",648,503,552,917,GE
+Total Operating Expense,"24,833","17,739","17,794","19,424",GE
+Total Operating Income,"(4,463)",(700),851,(340),GE
+"Inter Expse,Net Non-Operat",--,(16),(15),(13),GE
+"Inter/Invest Inc, Non-Oper",555,(91),"(1,447)",116,GE
+"Inter Inc(Exp),Net Non-Oper",588,--,--,--,GE
+"Other, Net",(146),282,367,182,GE
+Income Before Tax,"(3,466)",(525),(244),(55),GE
+Income Tax - Total,37,204,317,21,GE
+Income After Tax,"(3,503)",(729),(561),(76),GE
+Minority Interest,(1),(28),(19),(4),GE
+Net Inc Before Extra Items,"(3,504)",(757),(580),(80),GE
+Discontinued Operations,373,(273),(213),(153),GE
+Extraordinary Item,0,--,--,--,GE
+Tax on Extraordinary Items,(712),(13),3,68,GE
+Total Extraordinary Items,(339),(286),(210),(85),GE
+Total Net Income,"(3,843)","(1,043)",(790),(165),GE
+Preferred Dividends,(57),(52),(67),(73),GE
+Misc Earnings Adjustment,0,1,--,--,GE
+Total Adjust to Net Income,(57),(51),(67),(73),GE
+Income Available to Common Excl. Extra. Items,"(3,561)",(808),(647),(153),GE
+Income Available to Common Incl. Extra. Items,"(3,900)","(1,094)",(857),(238),GE
+Basic/Primary Weighted Average Shares,"1,101","1,100","1,099","1,095",GE
+Basic/Primary EPS Excl. Extra. Items,(3.23),(0.73),(0.59),(0.14),GE
+Basic/Primary EPS Incl. Extra. Items,(3.54),(0.99),(0.78),(0.22),GE
+Diluted Weighted Average Shares,"1,101","1,100","1,099","1,095",GE
+Diluted EPS Excl. Extra. Items,(3.23),(0.73),(0.59),(0.14),GE
+Diluted EPS Incl. Extra. Items,(3.54),(0.99),(0.78),(0.22),GE
+Div/Share-ComStockPrimIssue,0.08,0.08,0.08,0.08,GE
+Gross Divid - Common Stock,144,141,155,161,GE
+Pro Forma Net Income,--,--,--,--,GE
+"Interest Expense, Suppl","1,014",406,394,390,GE
+"Depreciat/Amort, Suppl",481,460,443,407,GE
+Total Special Items,"5,076","1,219",239,438,GE
+Normalzd Income Before Tax,"1,610",694,(5),383,GE
+Efct/SpecItemsIncTxs (STEC),(232),(66),(78),(119),GE
+IncTxsExcl ImpctofSpec Itms,(195),138,239,(98),GE
+Normalized Income After Tax,"1,805",556,(244),481,GE
+Normalzd Inc Avail to Common,"1,747",477,(330),404,GE
+Basic Normalized EPS,1.59,0.43,(0.30),0.37,GE
+Diluted Normalized EPS,1.59,0.43,(0.30),0.37,GE

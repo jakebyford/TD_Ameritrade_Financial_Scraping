@@ -1,0 +1,39 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Cash,"17,992","14,298","12,852","18,546",AAPL
+Cash & Equivalents,"19,127","13,800","14,650","5,100",AAPL
+Short Term Investments,"26,794","23,413","20,729","24,658",AAPL
+Cash and Short Term Invs,"63,913","51,511","48,231","48,304",AAPL
+"Trade Accts Recvble, Net","30,213","20,815","21,803","28,184",AAPL
+Other Receivables,"35,040","24,585","20,439","32,748",AAPL
+"Total Receivables, Net","65,253","45,400","42,242","60,932",AAPL
+Total Inventory,"5,876","5,460","5,433","4,946",AAPL
+"Other Curr. Assets, Total","18,112","15,809","16,386","21,223",AAPL
+Total Current Assets,"153,154","118,180","112,292","135,405",AAPL
+Buildings,--,--,--,"11,271",AAPL
+Land/Improvements,--,--,--,"22,126",AAPL
+Machinery/Equipment,--,--,--,"81,060",AAPL
+Other Prop./Plant/Equip.,"107,699","109,324","111,851",--,AAPL
+Prop./Plant/Equip. - Gross,"107,699","109,324","111,851","114,457",AAPL
+Accumulated Depreciation,"(68,454)","(70,020)","(71,516)","(72,340)",AAPL
+Prop./Plant/Equip. - Net,"39,245","39,304","40,335","42,117",AAPL
+Long Term Investments,"138,683","141,219","131,077","120,805",AAPL
+Other Long Term Assets,"50,109","51,959","52,605","54,428",AAPL
+Total Assets,"381,191","350,662","336,309","352,755",AAPL
+Accounts Payable,"74,362","52,682","48,343","64,115",AAPL
+Notes Payable/ST Debt,"5,000","6,999","10,982","9,982",AAPL
+Curr. Port. LT Dbt/Cap Ls.,"11,169","9,659","14,009","11,128",AAPL
+Customer Advances,"7,876","7,920","7,728","7,912",AAPL
+Other Current Liabilities,"49,167","50,248","48,811","60,845",AAPL
+"Other Curr. Lblts, Total","57,043","58,168","56,539","68,757",AAPL
+Total Current Liabilities,"147,574","127,508","129,873","153,982",AAPL
+Total Long Term Debt,"106,629","103,323","94,700","98,959",AAPL
+Total Debt,"122,798","119,981","119,691","120,069",AAPL
+"Other Liabilities, Total","55,056","52,432","53,629","49,142",AAPL
+Total Liabilities,"309,259","283,263","278,202","302,083",AAPL
+Common Stock,"58,424","61,181","62,115","64,849",AAPL
+Ret. Earn.(Accum. Deficit),"14,435","12,712","5,289","(3,068)",AAPL
+"Other Equity, Total",(927),"(6,494)","(9,297)","(11,109)",AAPL
+Total Equity,"71,932","67,399","58,107","50,672",AAPL
+Total Liabilities & Shareholders’ Equity,"381,191","350,662","336,309","352,755",AAPL
+Ttl Comm. Shares Outs.,"16,341","16,208","16,095","15,943",AAPL
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,AAPL

@@ -1,0 +1,33 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"2,228","1,643","1,062","2,201","1,233",FOX
+Depreciation/Depletion,171,212,258,300,363,FOX
+Deferred Taxes,(603),386,283,534,342,FOX
+Unusual Items,16,26,133,35,0,FOX
+Other Non-Cash Items,92,93,409,(410),629,FOX
+Non-Cash Items,108,119,542,(375),629,FOX
+"Cash Taxes Pd, Supplemental",--,--,88,225,209,FOX
+"Cash Interest Pd, Suppl",--,--,355,390,383,FOX
+Accounts Receivable,(166),(166),345,(269),(79),FOX
+Inventories,(228),197,181,190,(301),FOX
+Payable/Accrued,(193),133,(306),282,(54),FOX
+Changes in Working Capital,(587),164,220,(21),(683),FOX
+Total Cash from Operations,"1,317","2,524","2,365","2,639","1,884",FOX
+Capital Expenditures,(215),(235),(359),(484),(307),FOX
+Acquisition of Business,--,--,"(1,061)",(51),(243),FOX
+Sale of Business,--,--,--,93,83,FOX
+Sale/Maturity of Investment,--,--,349,0,0,FOX
+Purchase of Investments,--,(338),(103),(86),(28),FOX
+Other Investing Cash Flow,343,(64),74,0,(18),FOX
+"OtherInvestCashFlowItms,Tot",343,(402),(741),(44),(206),FOX
+Total Cash from Investing,128,(637),"(1,100)",(528),(513),FOX
+Financing Cash Flow Items,"1,036","(7,715)",(110),461,0,FOX
+Total Cash Dividends Paid,--,(188),(335),(330),(307),FOX
+"Iss (Retirmnt) of Stock,Net",--,--,(600),"(1,001)","(1,000)",FOX
+Long Term Debt Issued,--,"6,750","1,191",0,0,FOX
+Long Term Debt Reduction,--,--,--,--,(750),FOX
+"Iss (Retirmnt) of Debt, Net",--,"6,750","1,191",0,(750),FOX
+Total Cash From Financing,"1,036","(1,153)",146,(870),"(2,057)",FOX
+Net Change in Cash,"2,481",734,"1,411","1,241",(686),FOX
+NetCash-BeginBal/RsvdforFutUse,19,"2,500","3,234","4,645","5,886",FOX
+NetCash-EndBal/RsrvforFutUse,"2,500","3,234","4,645","5,886","5,200",FOX
+"Depreciation, Supplemental",171,212,258,300,363,FOX

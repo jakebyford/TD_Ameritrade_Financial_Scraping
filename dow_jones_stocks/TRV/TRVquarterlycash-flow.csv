@@ -1,0 +1,29 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"3,662","1,018","1,569","2,023",TRV
+Depreciation/Depletion,870,234,444,639,TRV
+Amortization,"5,043","1,310","2,675","4,081",TRV
+Deferred Taxes,62,40,(28),(130),TRV
+Non-Cash Items,(993),(118),(295),(319),TRV
+"Cash Taxes Pd, Supplemental",707,10,552,663,TRV
+"Cash Interest Pd, Suppl",337,59,174,234,TRV
+Changes in Working Capital,"(1,370)","(1,218)","(1,724)","(1,169)",TRV
+Total Cash from Operations,"7,274","1,266","2,641","5,125",TRV
+Acquisition of Business,(38),(4),(4),(4),TRV
+Sale/Maturity of Investment,"12,546","3,067","6,655","9,778",TRV
+"Investment, Net","1,702",367,257,(97),TRV
+Purchase of Investments,"(19,108)","(4,616)","(8,352)","(12,654)",TRV
+Other Investing Cash Flow,(298),529,77,(77),TRV
+Total Cash from Investing,"(5,196)",(657),"(1,367)","(3,054)",TRV
+Total Cash Dividends Paid,(869),(213),(436),(656),TRV
+Sale/Issuance of Common,293,159,194,205,TRV
+Repurch/Retirement Common,"(2,200)",(559),"(1,059)","(1,560)",TRV
+"Iss (Retirmnt) of Stock,Net","(1,907)",(400),(865),"(1,355)",TRV
+Total Debt Issued,739,--,0,0,TRV
+Total Debt Reduction,0,--,--,--,TRV
+"Iss (Retirmnt) of Debt, Net",739,--,0,0,TRV
+Total Cash From Financing,"(2,037)",(613),"(1,301)","(2,011)",TRV
+Foreign Exchange Effects,(1),(5),(24),(48),TRV
+Net Change in Cash,40,(9),(51),12,TRV
+NetCash-BeginBal/RsvdforFutUse,721,761,761,761,TRV
+NetCash-EndBal/RsrvforFutUse,761,752,710,773,TRV
+"Depreciation, Supplemental",870,234,444,639,TRV

@@ -1,0 +1,38 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"265,595","260,174","274,515","365,817","394,328",AAPL
+"Cost of Revenue, Total","163,756","161,782","169,559","212,981","223,546",AAPL
+Selling/Gen/Admin Expense,"15,043","18,245","19,916","21,973","25,094",AAPL
+Labor & Related Expense,"1,662",--,--,--,--,AAPL
+"Sell/Gen/AdminExpenses,Tot","16,705","18,245","19,916","21,973","25,094",AAPL
+Research & Development,"14,236","16,217","18,752","21,914","26,251",AAPL
+Total Operating Expense,"194,697","196,244","208,227","256,868","274,891",AAPL
+Total Operating Income,"70,898","63,930","66,288","108,949","119,437",AAPL
+"Inter Expse,Net Non-Operat","(3,240)","(3,576)","(2,873)","(2,645)","(2,931)",AAPL
+"Inter/Invest Inc, Non-Oper","5,686","4,961","3,763","2,843","2,825",AAPL
+OtherNon-OperatInc (Expnse),(441),422,(87),60,(228),AAPL
+"Other, Net",(441),422,(87),60,(228),AAPL
+Income Before Tax,"72,903","65,737","67,091","109,207","119,103",AAPL
+Income Tax - Total,"11,872","10,481","9,680","14,527","19,300",AAPL
+Income After Tax,"61,031","55,256","57,411","94,680","99,803",AAPL
+Net Inc Before Extra Items,"61,031","55,256","57,411","94,680","99,803",AAPL
+Total Extraordinary Items,"(1,500)",--,--,--,--,AAPL
+Total Net Income,"59,531","55,256","57,411","94,680","99,803",AAPL
+Income Available to Common Excl. Extra. Items,"61,031","55,256","57,411","94,680","99,803",AAPL
+Income Available to Common Incl. Extra. Items,"59,531","55,256","57,411","94,680","99,803",AAPL
+Basic/Primary Weighted Average Shares,"19,822","18,471","17,352","16,701","16,216",AAPL
+Basic/Primary EPS Excl. Extra. Items,3.08,2.99,3.31,5.67,6.15,AAPL
+Basic/Primary EPS Incl. Extra. Items,3.00,2.99,3.31,5.67,6.15,AAPL
+Diluted Weighted Average Shares,"20,000","18,596","17,528","16,865","16,326",AAPL
+Diluted EPS Excl. Extra. Items,3.05,2.97,3.28,5.61,6.11,AAPL
+Diluted EPS Incl. Extra. Items,2.98,2.97,3.28,5.61,6.11,AAPL
+Div/Share-ComStockPrimIssue,0.68,0.75,0.80,0.85,0.90,AAPL
+Gross Divid - Common Stock,"13,735","14,129","14,087","14,431","14,793",AAPL
+Pro Forma Net Income,--,--,--,--,--,AAPL
+"Interest Expense, Suppl","3,240","3,576","2,873","2,645","2,931",AAPL
+"Depreciat/Amort, Suppl","10,903","12,547","11,056","11,284","11,104",AAPL
+Normalzd Income Before Tax,"72,903","65,737","67,091","109,207","119,103",AAPL
+IncTxsExcl ImpctofSpec Itms,"11,872","10,481","9,680","14,527","19,300",AAPL
+Normalized Income After Tax,"61,031","55,256","57,411","94,680","99,803",AAPL
+Normalzd Inc Avail to Common,"61,031","55,256","57,411","94,680","99,803",AAPL
+Basic Normalized EPS,3.08,2.99,3.31,5.67,6.15,AAPL
+Diluted Normalized EPS,3.05,2.97,3.28,5.61,6.11,AAPL

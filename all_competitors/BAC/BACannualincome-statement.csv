@@ -1,0 +1,52 @@
+items,2017,2018,2019,2020,2021,ticker
+Interest & Fees on Loans,"36,221","40,811","43,086","34,029","29,282",BAC
+Inter & Divs/ Invest Securs,"10,471","11,724","11,806","9,790","12,376",BAC
+Fed. Fund/Resale,"2,390","3,176","4,843",903,(90),BAC
+Other Interest Income,"4,023","6,247","6,305","2,735","2,334",BAC
+Trading Account Interest,"4,474","4,811","5,196","4,128","3,770",BAC
+"Interest Income, Bank","57,579","66,769","71,236","51,585","47,672",BAC
+Interest on Deposit,"1,931","4,495","7,188","1,943",537,BAC
+Inter on Other Borrowings,"10,409","14,112","15,157","6,282","4,201",BAC
+Total Interest Expense,"12,340","18,607","22,345","8,225","4,738",BAC
+Net Interest Income,"45,239","48,162","48,891","43,360","42,934",BAC
+Loan Loss Provision,"3,396","3,282","3,590","4,120","(4,594)",BAC
+NetInterIn after Loan Loss Provision,"41,843","44,880","45,301","39,240","47,528",BAC
+Commish & Fees/Secur Act,"19,847","19,487","19,544","21,754","25,577",BAC
+Credit Card Fees,"5,676","5,824","5,797","5,656","6,218",BAC
+Fees for Other Cust Serv,"7,818","7,767","7,674","7,141","7,504",BAC
+Dealer Trading Acct Profit,"7,102","9,008","9,034","8,355","8,691",BAC
+Other Unusual Income,(41),(33),(24),--,--,BAC
+Other Revenue,"1,485",805,328,(738),"(1,811)",BAC
+"Non-Interest Income, Bank","41,887","42,858","42,353","42,168","46,179",BAC
+Labor & Related Expenses,"(31,931)","(31,880)","(31,977)","(32,725)","(36,140)",BAC
+Other Unusual Expense,--,--,--,"(7,200)",--,BAC
+Other Expense,"(22,586)","(21,274)","(22,923)","(22,488)","(23,591)",BAC
+"Non-Interest Expense, Bank","(54,517)","(53,154)","(54,900)","(62,413)","(59,731)",BAC
+Income Before Tax,"29,213","34,584","32,754","18,995","33,976",BAC
+Income Tax - Total,"9,028","6,437","5,324","1,101","1,998",BAC
+Income After Tax,"20,185","28,147","27,430","17,894","31,978",BAC
+Net Inc Before Extra Items,"20,185","28,147","27,430","17,894","31,978",BAC
+Total Extraordinary Items,"(1,953)",--,--,--,--,BAC
+Total Net Income,"18,232","28,147","27,430","17,894","31,978",BAC
+Total Adjust to Net Income,"(1,614)","(1,451)","(1,432)","(1,421)","(1,421)",BAC
+Income Available to Common Excl. Extra. Items,"18,571","26,696","25,998","16,473","30,557",BAC
+Income Available to Common Incl. Extra. Items,"16,618","26,696","25,998","16,473","30,557",BAC
+Basic/Primary Weighted Average Shares,"10,196","10,097","9,391","8,753","8,493",BAC
+Basic/Primary EPS Excl. Extra. Items,1.82,2.64,2.77,1.88,3.60,BAC
+Basic/Primary EPS Incl. Extra. Items,1.63,2.64,2.77,1.88,3.60,BAC
+Dilution Adjustment,186,0,0,--,--,BAC
+Diluted Weighted Average Shares,"10,778","10,237","9,443","8,797","8,558",BAC
+Diluted EPS Excl. Extra. Items,1.74,2.61,2.75,1.87,3.57,BAC
+Diluted EPS Incl. Extra. Items,1.56,2.61,2.75,1.87,3.57,BAC
+Div/Share-ComStockPrimIssue,0.39,0.54,0.66,0.72,0.78,BAC
+Gross Divid - Common Stock,"4,027","5,424","6,146","6,289","6,575",BAC
+Pro Forma Net Income,--,--,--,--,--,BAC
+"Depreciat/Amort, Suppl","1,482","1,525","1,617","1,748","1,822",BAC
+Total Special Items,41,502,"2,805","8,023",164,BAC
+Normalzd Income Before Tax,"29,254","35,086","35,559","27,018","34,140",BAC
+Efct/SpecItemsIncTxs (STEC),13,93,456,465,10,BAC
+IncTxsExcl ImpctofSpec Itms,"9,041","6,530","5,780","1,566","2,008",BAC
+Normalized Income After Tax,"20,213","28,556","29,779","25,452","32,132",BAC
+Normalzd Inc Avail to Common,"18,599","27,105","28,347","24,031","30,711",BAC
+Basic Normalized EPS,1.82,2.68,3.02,2.75,3.62,BAC
+Diluted Normalized EPS,1.74,2.65,3.00,2.73,3.59,BAC

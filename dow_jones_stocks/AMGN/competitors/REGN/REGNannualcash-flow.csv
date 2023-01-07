@@ -1,0 +1,38 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"1,199","2,444","2,116","3,513","8,075",REGN
+Depreciation/Depletion,145,148,210,236,286,REGN
+Deferred Taxes,319,(140),(131),76,(147),REGN
+Unusual Items,--,--,--,--,(387),REGN
+Other Non-Cash Items,571,440,435,297,"1,170",REGN
+Non-Cash Items,571,440,435,297,783,REGN
+"Cash Taxes Pd, Supplemental",755,206,342,188,"1,218",REGN
+"Cash Interest Pd, Suppl",19,22,25,23,56,REGN
+Accounts Receivable,(363),(269),(473),"(1,356)","(1,927)",REGN
+Inventories,(314),(388),(336),(529),(494),REGN
+Prepaid Expenses,(113),(56),(130),115,(241),REGN
+Payable/Accrued,(23),210,445,119,866,REGN
+Changes in Working Capital,(927),(697),(201),"(1,504)","(1,917)",REGN
+Total Cash from Operations,"1,307","2,195","2,430","2,618","7,081",REGN
+Capital Expenditures,(273),(383),(430),(615),(552),REGN
+Sale/Maturity of Investment,545,776,"1,604","3,785","2,215",REGN
+Purchase of Investments,"(1,277)","(1,846)","(3,202)","(3,241)","(7,048)",REGN
+Other Investing Cash Flow,--,(10),0,--,--,REGN
+"OtherInvestCashFlowItms,Tot",(733),"(1,080)","(1,598)",544,"(4,833)",REGN
+Total Cash from Investing,"(1,005)","(1,463)","(2,028)",(71),"(5,385)",REGN
+Financing Cash Flow Items,(302),(187),(188),(681),"(1,033)",REGN
+Sale/Issuance of Common,240,115,212,"2,575","1,672",REGN
+Repurch/Retirement Common,--,(4),(276),"(5,847)","(1,645)",REGN
+"Iss (Retirmnt) of Stock,Net",240,110,(64),"(3,272)",27,REGN
+Short Term Debt Issued,--,--,--,"1,500",0,REGN
+Short Term Debt Reduction,--,--,--,"(1,500)",0,REGN
+"Short Term Debt, Net",--,--,--,0,0,REGN
+Long Term Debt Issued,--,--,--,"1,982",0,REGN
+Long Term Debt Reduction,0,0,--,--,--,REGN
+"Long Term Debt, Net",0,0,--,"1,982",0,REGN
+Total Debt Reduction,(20),0,--,--,--,REGN
+"Iss (Retirmnt) of Debt, Net",37,0,--,"1,982",0,REGN
+Total Cash From Financing,(24),(77),(252),"(1,971)","(1,006)",REGN
+Net Change in Cash,278,655,150,577,691,REGN
+NetCash-BeginBal/RsvdforFutUse,535,825,"1,480","1,630","2,207",REGN
+NetCash-EndBal/RsrvforFutUse,813,"1,480","1,630","2,207","2,898",REGN
+"Depreciation, Supplemental",145,148,210,236,286,REGN

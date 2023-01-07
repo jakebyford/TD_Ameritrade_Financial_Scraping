@@ -1,0 +1,42 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"81,305","87,734","111,265","106,512",XOM
+"Cost of Revenue, Total","56,272","62,629","76,299","71,514",XOM
+"Sell/Gen/AdminExpenses,Tot","10,458","9,963","9,398","8,911",XOM
+Research & Development,524,173,286,218,XOM
+Depreciation/Amortization,"5,661","4,283","4,451","5,642",XOM
+Unusual Expense (Income),--,"4,600",0,0,XOM
+"Other Operat Expse, Total",100,108,120,154,XOM
+Total Operating Expense,"73,015","81,756","90,554","86,439",XOM
+Total Operating Income,"8,290","5,978","20,711","20,073",XOM
+"Inter Expse,Net Non-Operat",(221),(188),(194),(209),XOM
+"Inter/Invest Inc, Non-Oper","2,078","2,538","3,688","4,632",XOM
+OtherNon-OperatInc (Expnse),"1,582",228,728,926,XOM
+"Other, Net","1,582",228,728,926,XOM
+Income Before Tax,"11,729","8,556","24,933","25,422",XOM
+Income Tax - Total,"2,703","2,806","6,359","5,224",XOM
+Income After Tax,"9,026","5,750","18,574","20,198",XOM
+Minority Interest,(209),(270),(724),(538),XOM
+Net Inc Before Extra Items,"8,817","5,480","17,850","19,660",XOM
+Total Extraordinary Items,53,--,--,--,XOM
+Total Net Income,"8,870","5,480","17,850","19,660",XOM
+Income Available to Common Excl. Extra. Items,"8,817","5,480","17,850","19,660",XOM
+Income Available to Common Incl. Extra. Items,"8,870","5,480","17,850","19,660",XOM
+Basic/Primary Weighted Average Shares,"4,275","4,266","4,233","4,185",XOM
+Basic/Primary EPS Excl. Extra. Items,2.06,1.28,4.22,4.70,XOM
+Basic/Primary EPS Incl. Extra. Items,2.07,1.28,4.22,4.70,XOM
+Diluted Weighted Average Shares,"4,275","4,266","4,233","4,185",XOM
+Diluted EPS Excl. Extra. Items,2.06,1.28,4.22,4.70,XOM
+Diluted EPS Incl. Extra. Items,2.07,1.28,4.22,4.70,XOM
+Div/Share-ComStockPrimIssue,0.88,0.88,0.00,0.88,XOM
+Gross Divid - Common Stock,"3,763","3,760","3,727","3,685",XOM
+Pro Forma Net Income,--,--,--,--,XOM
+"Interest Expense, Suppl",221,188,194,209,XOM
+"Depreciat/Amort, Suppl","5,661","4,283","4,451","5,642",XOM
+Total Special Items,510,"4,600",0,0,XOM
+Normalzd Income Before Tax,"12,239","13,156","24,933","25,422",XOM
+Efct/SpecItemsIncTxs (STEC),118,"1,509",0,0,XOM
+IncTxsExcl ImpctofSpec Itms,"2,821","4,315","6,359","5,224",XOM
+Normalized Income After Tax,"9,418","8,841","18,574","20,198",XOM
+Normalzd Inc Avail to Common,"9,209","8,571","17,850","19,660",XOM
+Basic Normalized EPS,2.15,2.01,4.22,4.70,XOM
+Diluted Normalized EPS,2.15,2.01,4.22,4.70,XOM

@@ -1,0 +1,39 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"1,598","2,621","3,980","5,705","3,351",PGR
+Depreciation/Depletion,170,190,240,275,280,PGR
+Amortization,66,72,66,57,58,PGR
+Unusual Items,8,32,11,13,(4),PGR
+Other Non-Cash Items,182,112,124,190,231,PGR
+Non-Cash Items,190,144,135,203,227,PGR
+"Cash Taxes Pd, Supplemental",146,154,954,206,842,PGR
+"Cash Interest Pd, Suppl",716,703,185,"1,446",224,PGR
+Prepaid Expenses,(33),(106),(317),258,(75),PGR
+Payable/Accrued,400,747,612,329,400,PGR
+Changes in Working Capital,"1,733","3,258","1,841",666,"3,846",PGR
+Total Cash from Operations,"3,757","6,285","6,262","6,906","7,762",PGR
+Capital Expenditures,(156),(266),(364),(224),(244),PGR
+Acquisition of Business,(18),--,0,--,(313),PGR
+Sale of Fixed Assets,15,9,53,22,66,PGR
+Sale/Maturity of Investment,"10,901","13,786","25,080","30,382","26,983",PGR
+"Investment, Net",728,"1,116",32,"(3,393)","4,356",PGR
+Purchase of Investments,"(14,843)","(21,692)","(29,145)","(32,989)","(34,016)",PGR
+Other Investing Cash Flow,(34),12,6,84,48,PGR
+"OtherInvestCashFlowItms,Tot","(3,251)","(6,769)","(3,975)","(5,894)","(2,876)",PGR
+Total Cash from Investing,"(3,407)","(7,035)","(4,338)","(6,118)","(3,120)",PGR
+Financing Cash Flow Items,0,(297),(11),(243),(20),PGR
+Cash Divids Paid - Common,(395),(655),"(1,643)","(1,551)","(3,747)",PGR
+Cash Divs Paid - Preferred,--,(14),(27),(27),(27),PGR
+Total Cash Dividends Paid,(395),(668),"(1,670)","(1,578)","(3,773)",PGR
+"Common Stock, Net",(63),(79),(91),(112),(223),PGR
+"Preferred Stock, Net",--,494,0,0,--,PGR
+Options Exercised,1,3,2,7,0,PGR
+"Iss (Retirmnt) of Stock,Net",(62),418,(90),(104),(223),PGR
+Long Term Debt Issued,841,"1,134",0,986,0,PGR
+Long Term Debt Reduction,(685),(37),0,0,(500),PGR
+"Iss (Retirmnt) of Debt, Net",157,"1,097",0,986,(500),PGR
+Total Cash From Financing,(301),550,"(1,771)",(939),"(4,516)",PGR
+Foreign Exchange Effects,0,--,0,--,--,PGR
+Net Change in Cash,49,(200),152,(151),126,PGR
+NetCash-BeginBal/RsvdforFutUse,226,275,75,227,77,PGR
+NetCash-EndBal/RsrvforFutUse,275,75,227,77,202,PGR
+"Depreciation, Supplemental",170,190,240,275,280,PGR

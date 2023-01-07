@@ -1,0 +1,31 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash Receipts,"284,219","74,192","151,769","235,395",CVS
+Cash Payments,"(165,783)","(44,365)","(90,887)","(138,785)",CVS
+"Cash Taxes Pd, Supplemental","(3,195)",(96),"(1,887)","(3,070)",CVS
+"Cash Interest Pd, Suppl","(2,469)",(782),"(1,150)","(1,936)",CVS
+Changes in Working Capital,"(94,507)","(25,386)","(48,839)","(73,475)",CVS
+Total Cash from Operations,"18,265","3,563","9,006","18,129",CVS
+Capital Expenditures,"(2,520)","(1,082)","(1,459)","(2,039)",CVS
+Acquisition of Business,(146),(7),"(2,068)","(2,059)",CVS
+Sale of Business,0,--,--,--,CVS
+Sale of Fixed Assets,122,--,--,--,CVS
+Sale/Maturity of Investment,"7,246","2,570","4,360","5,535",CVS
+Purchase of Investments,"(9,963)","(3,474)","(5,010)","(6,439)",CVS
+Other Investing Cash Flow,0,--,54,74,CVS
+"OtherInvestCashFlowItms,Tot","(2,741)",(911),"(2,664)","(2,889)",CVS
+Total Cash from Investing,"(5,261)","(1,993)","(4,123)","(4,928)",CVS
+Financing Cash Flow Items,(13),(211),(468),(456),CVS
+Total Cash Dividends Paid,"(2,625)",(722),"(1,462)","(2,188)",CVS
+"Common Stock, Net",--,"(2,000)","(2,000)","(2,000)",CVS
+Options Exercised,549,297,348,510,CVS
+"Iss (Retirmnt) of Stock,Net",549,"(1,703)","(1,652)","(1,490)",CVS
+"Short Term Debt, Net",0,0,--,--,CVS
+Long Term Debt Issued,987,--,--,0,CVS
+Long Term Debt Reduction,"(10,254)",(14),"(1,529)","(4,195)",CVS
+"Long Term Debt, Net","(9,267)",(14),"(1,529)","(4,195)",CVS
+"Iss (Retirmnt) of Debt, Net","(9,267)",(14),"(1,529)","(4,195)",CVS
+Total Cash From Financing,"(11,356)","(2,650)","(5,111)","(8,329)",CVS
+Net Change in Cash,"1,648","(1,080)",(228),"4,872",CVS
+NetCash-BeginBal/RsvdforFutUse,"11,043","12,691","12,691","12,691",CVS
+NetCash-EndBal/RsrvforFutUse,"12,691","11,611","12,463","17,563",CVS
+"Depreciation, Supplemental","4,512","1,055","2,142","3,198",CVS

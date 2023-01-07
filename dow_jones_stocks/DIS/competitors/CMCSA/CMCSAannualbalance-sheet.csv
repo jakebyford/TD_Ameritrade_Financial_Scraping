@@ -1,0 +1,55 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash and Short Term Invs,"3,428","3,814","5,500","11,740","8,711",CMCSA
+"Trade Accts Recvble, Gross","9,122","11,456","11,711","12,273","12,666",CMCSA
+Prov. for Doubtful Accts,(288),(352),(419),(807),(658),CMCSA
+"Total Receivables, Net","8,834","11,104","11,292","11,466","12,008",CMCSA
+Restricted Cash - Current,--,--,--,--,56,CMCSA
+Other Current Assets,"4,081","6,930","8,600","3,535","4,032",CMCSA
+"Other Curr. Assets, Total","4,081","6,930","8,600","3,535","4,088",CMCSA
+Total Current Assets,"16,343","21,848","25,392","26,741","24,807",CMCSA
+Buildings,"12,346","14,188","15,104","15,885","20,258",CMCSA
+Land/Improvements,"1,332","1,539","1,483","1,848","1,722",CMCSA
+Machinery/Equipment,"72,956","77,025","79,729","81,555","84,547",CMCSA
+Construction in Progress,"1,752","2,991","5,245","7,095","3,131",CMCSA
+Other Prop./Plant/Equip.,--,--,"4,038","3,784","6,467",CMCSA
+Prop./Plant/Equip. - Gross,"88,386","95,743","105,599","110,167","116,125",CMCSA
+Accumulated Depreciation,"(49,916)","(51,306)","(53,239)","(54,388)","(55,611)",CMCSA
+Prop./Plant/Equip. - Net,"38,470","44,437","52,360","55,779","60,514",CMCSA
+"Goodwill, Net","36,780","66,154","68,725","70,669","70,189",CMCSA
+Intangibles - Gross,"96,535","119,754","121,643","127,919","129,296",CMCSA
+Accum. Intangible Amort.,"(11,951)","(14,194)","(17,217)","(19,825)","(23,545)",CMCSA
+Intangibles - Net,"84,584","105,560","104,426","108,094","105,751",CMCSA
+LT Invt. - Affiliate Comp.,"3,546","4,035","5,347","6,006","6,111",CMCSA
+LT Investments - Other,"3,385","3,848","2,336","2,261","2,576",CMCSA
+Long Term Investments,"6,931","7,883","7,683","8,267","8,687",CMCSA
+Note Rcvble - Long Term,--,"1,399","1,337","1,091","1,632",CMCSA
+Other Long Term Assets,"4,354","4,403","3,491","3,228","4,313",CMCSA
+Total Assets,"187,462","251,684","263,414","273,869","275,905",CMCSA
+Payable/Accrued,"6,908","8,494","10,826","11,364","12,455",CMCSA
+Accrued Expenses,"8,264","12,529","12,246","11,323","11,721",CMCSA
+Notes Payable/ST Debt,0,0,0,0,0,CMCSA
+Curr. Port. LT Dbt/Cap Ls.,"5,134","4,398","4,452","3,146","2,132",CMCSA
+"Other Curr. Lblts, Total","1,687","2,182","2,768","2,963","3,040",CMCSA
+Total Current Liabilities,"21,993","27,603","30,292","28,796","29,348",CMCSA
+Total Long Term Debt,"59,422","107,345","102,931","105,782","97,888",CMCSA
+Total Debt,"64,556","111,743","107,383","108,928","100,020",CMCSA
+Deferred Income Tax,"24,259","27,589","28,180","28,051","30,041",CMCSA
+Minority Interest,"2,200","2,205","2,520","2,695","1,917",CMCSA
+"Other Liabilities, Total","10,972","15,329","16,765","18,222","20,619",CMCSA
+Total Liabilities,"118,846","180,071","180,688","183,546","179,813",CMCSA
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,0,CMCSA
+Common Stock,55,54,54,54,54,CMCSA
+Additional Paid-In Capital,"37,497","37,461","38,447","39,464","40,173",CMCSA
+Ret. Earn.(Accum. Deficit),"38,202","41,983","50,695","56,438","61,902",CMCSA
+Treasury Stock - Common,"(7,517)","(7,517)","(7,517)","(7,517)","(7,517)",CMCSA
+Unrealized Gain (Loss),(43),3,6,--,--,CMCSA
+Cum. Trans. Adjustment,153,(751),637,"1,790","1,119",CMCSA
+Min. Pension Lblty Adj.,260,325,265,203,257,CMCSA
+Other Comprehensive Income,9,55,139,(109),104,CMCSA
+"Other Equity, Total",422,(371),"1,041","1,884","1,480",CMCSA
+Total Equity,"68,616","71,613","82,726","90,323","96,092",CMCSA
+Total Liabilities & Shareholders’ Equity,"187,462","251,684","263,414","273,869","275,905",CMCSA
+Shr Outs.-Com. Primary Iss.,"4,635","4,517","4,544","4,571","4,524",CMCSA
+Shr Outs.-Com. Stk. Iss. 3,9,9,9,9,9,CMCSA
+Ttl Comm. Shares Outs.,"4,645","4,526","4,553","4,581","4,533",CMCSA
+Trsy. Shrs-Comm. Primary Iss.,873,873,873,873,873,CMCSA

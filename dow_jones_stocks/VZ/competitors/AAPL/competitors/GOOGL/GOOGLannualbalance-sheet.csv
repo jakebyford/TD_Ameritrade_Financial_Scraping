@@ -1,0 +1,61 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash,"7,158",--,--,--,--,GOOGL
+Cash & Equivalents,"3,557","16,701","18,498","26,465","20,945",GOOGL
+Short Term Investments,"91,156","92,439","101,177","110,229","118,704",GOOGL
+Cash and Short Term Invs,"101,871","109,140","119,675","136,694","139,649",GOOGL
+"Trade Accts Recvble, Gross","19,010","21,567","26,079","32,274","40,693",GOOGL
+Prov. for Doubtful Accts,(674),(729),(753),"(1,344)","(1,389)",GOOGL
+"Trade Accts Recvble, Net","18,336","20,838","25,326","30,930","39,304",GOOGL
+Other Receivables,369,355,"2,166",454,966,GOOGL
+"Total Receivables, Net","18,705","21,193","27,492","31,384","40,270",GOOGL
+Total Inventory,749,"1,107",999,728,"1,170",GOOGL
+"Other Curr. Assets, Total","2,983","4,236","4,412","5,490","7,054",GOOGL
+Total Current Assets,"124,308","135,676","152,578","174,296","188,143",GOOGL
+Buildings,"4,496","5,310","6,310","7,516","9,146",GOOGL
+Land/Improvements,"23,183","30,179","39,865","49,732","58,881",GOOGL
+Machinery/Equipment,"21,429","30,119","36,840","45,906","55,606",GOOGL
+Construction in Progress,"10,491","16,838","21,036","23,111","23,171",GOOGL
+Other Prop./Plant/Equip.,48,61,"11,097","12,408","13,167",GOOGL
+Prop./Plant/Equip. - Gross,"59,647","82,507","115,148","138,673","159,971",GOOGL
+Accumulated Depreciation,"(17,264)","(22,788)","(30,561)","(41,713)","(49,414)",GOOGL
+Prop./Plant/Equip. - Net,"42,383","59,719","84,587","96,960","110,558",GOOGL
+"Goodwill, Net","16,747","17,888","20,624","21,175","22,956",GOOGL
+Intangibles - Gross,"6,163","6,177","5,929","5,604","5,964",GOOGL
+Accum. Intangible Amort.,"(3,471)","(3,957)","(3,950)","(4,159)","(4,547)",GOOGL
+Intangibles - Net,"2,692","2,220","1,979","1,445","1,417",GOOGL
+Long Term Investments,"7,813","13,859","13,078","20,703","29,549",GOOGL
+Other Long Term Assets,"2,672","2,693","2,342","3,953","5,361",GOOGL
+Total Assets,"197,295","232,792","275,909","319,616","359,268",GOOGL
+Accounts Payable,"3,137","4,378","5,561","5,589","6,037",GOOGL
+Accrued Expenses,"14,406","14,000","19,543","28,208","35,213",GOOGL
+Notes Payable/ST Debt,0,0,0,0,0,GOOGL
+Curr. Port. LT Dbt/Cap Ls.,0,--,0,"1,100",113,GOOGL
+Customer Advances,"5,407","8,186","10,069","10,043","12,284",GOOGL
+Income Taxes Payable,881,69,274,"1,485",808,GOOGL
+Other Current Liabilities,352,"7,987","9,774","10,409","9,799",GOOGL
+"Other Curr. Lblts, Total","6,640","16,242","20,117","21,937","22,891",GOOGL
+Total Current Liabilities,"24,183","34,620","45,221","56,834","64,254",GOOGL
+Long Term Debt,"3,943","3,950","3,869","12,832","12,841",GOOGL
+Capital Lease Obligations,26,62,685,"1,100","1,976",GOOGL
+Total Long Term Debt,"3,969","4,012","4,554","13,932","14,817",GOOGL
+Total Debt,"3,969","4,012","4,554","15,032","14,930",GOOGL
+Deferred Income Tax,430,"1,264","1,701","3,561","5,257",GOOGL
+"Other Liabilities, Total","16,211","15,268","22,991","22,745","23,305",GOOGL
+Total Liabilities,"44,793","55,164","74,467","97,072","107,633",GOOGL
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,0,GOOGL
+Common Stock,1,1,1,1,1,GOOGL
+Additional Paid-In Capital,"40,246","45,048","50,551","58,509","61,773",GOOGL
+Ret. Earn.(Accum. Deficit),"113,247","134,885","152,122","163,401","191,484",GOOGL
+Unrealized Gain (Loss),233,(688),812,"1,612",236,GOOGL
+Cum. Trans. Adjustment,"(1,103)","(1,884)","(2,003)",(864),"(2,306)",GOOGL
+Other Comprehensive Income,(122),266,(41),(115),447,GOOGL
+"Other Equity, Total","(1,225)","(1,618)","(2,044)",(979),"(1,859)",GOOGL
+Total Equity,"152,502","177,628","201,442","222,544","251,635",GOOGL
+Total Liabilities & Shareholders’ Equity,"197,295","232,792","275,909","319,616","359,268",GOOGL
+Shr Outs.-Com. Primary Iss.,"5,969","5,985","5,997","6,015","6,015",GOOGL
+Shr Outs.-Com. Stk. Iss. 2,939,933,929,917,893,GOOGL
+Shr Outs.-Com. Stk. Iss. 3,"6,987","6,994","6,841","6,573","6,334",GOOGL
+Ttl Comm. Shares Outs.,"13,896","13,911","13,767","13,504","13,242",GOOGL
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,GOOGL
+Trsy. Shrs-Comm. Iss. 2,0,0,0,0,0,GOOGL
+Trsy. Shrs-Comm. Iss. 3,0,0,0,0,0,GOOGL

@@ -1,0 +1,40 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"2,842","3,395","3,885","3,569","4,314",MDLZ
+Depreciation/Depletion,816,811,"1,047","1,116","1,113",MDLZ
+Deferred Taxes,"(1,228)",233,(631),(70),205,MDLZ
+Extraordinary Item,"1,317",(38),5,0,0,MDLZ
+Unusual Items,159,281,65,321,230,MDLZ
+Equity in Net Earnings/Loss,(232),"(1,146)",(190),"(1,164)",(963),MDLZ
+Other Non-Cash Items,(88),509,232,369,(109),MDLZ
+Non-Cash Items,"1,156",(394),112,(474),(842),MDLZ
+"Cash Taxes Pd, Supplemental",848,864,981,"1,264","1,556",MDLZ
+"Cash Interest Pd, Suppl",398,491,486,413,426,MDLZ
+Accounts Receivable,(24),257,124,59,(197),MDLZ
+Inventories,(18),(204),31,(24),(170),MDLZ
+Other Assets,14,(25),(77),(207),(169),MDLZ
+Accounts Payable,5,236,4,436,702,MDLZ
+Changes in Working Capital,(993),(97),(448),(177),(649),MDLZ
+Total Cash from Operations,"2,593","3,948","3,965","3,964","4,141",MDLZ
+Capital Expenditures,"(1,014)","(1,095)",(925),(863),(965),MDLZ
+Acquisition of Business,--,(528),(284),"(1,136)",(833),MDLZ
+Sale of Business,604,1,167,"2,489","1,539",MDLZ
+Sale of Fixed Assets,109,398,82,10,--,MDLZ
+Other Investing Cash Flow,--,--,--,--,233,MDLZ
+"OtherInvestCashFlowItms,Tot",713,(129),(35),"1,363",939,MDLZ
+Total Cash from Investing,(301),"(1,224)",(960),500,(26),MDLZ
+Financing Cash Flow Items,207,211,313,131,(1),MDLZ
+Total Cash Dividends Paid,"(1,198)","(1,359)","(1,542)","(1,678)","(1,826)",MDLZ
+"Iss (Retirmnt) of Stock,Net","(2,174)","(2,020)","(1,480)","(1,390)","(2,110)",MDLZ
+Short Term Debt Issued,"1,808","3,981","1,306",677,0,MDLZ
+Short Term Debt Reduction,"(1,911)","(2,856)","(2,367)","(1,174)",0,MDLZ
+"Short Term Debt, Net",924,(288),(537),"(2,613)",194,MDLZ
+Long Term Debt Issued,350,"2,948","3,136","7,213","5,921",MDLZ
+Long Term Debt Reduction,"(1,470)","(1,821)","(2,677)","(3,878)","(6,247)",MDLZ
+"Long Term Debt, Net","(1,120)","1,127",459,"3,335",(326),MDLZ
+"Iss (Retirmnt) of Debt, Net",(196),839,(78),722,(132),MDLZ
+Total Cash From Financing,"(3,361)","(2,329)","(2,787)","(2,215)","(4,069)",MDLZ
+Foreign Exchange Effects,89,(56),10,73,(143),MDLZ
+Net Change in Cash,(980),339,228,"2,322",(97),MDLZ
+NetCash-BeginBal/RsvdforFutUse,"1,741",761,"1,100","1,328","3,650",MDLZ
+NetCash-EndBal/RsrvforFutUse,761,"1,100","1,328","3,650","3,553",MDLZ
+"Depreciation, Supplemental",816,811,"1,047","1,116","1,113",MDLZ

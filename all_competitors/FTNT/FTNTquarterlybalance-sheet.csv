@@ -1,0 +1,48 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash & Equivalents,"1,319",924,710,964,FTNT
+Short Term Investments,"1,233","1,218","1,045",766,FTNT
+Cash and Short Term Invs,"2,552","2,142","1,755","1,730",FTNT
+"Trade Accts Recvble, Gross",810,793,925,967,FTNT
+Prov. for Doubtful Accts,(2),(3),(5),(4),FTNT
+"Total Receivables, Net",808,790,920,963,FTNT
+Invent. - Finished Goods,126,137,144,165,FTNT
+Invent. - Work In Progress,10,8,10,9,FTNT
+Invent. - Raw Materials,40,39,41,42,FTNT
+Total Inventory,176,185,195,216,FTNT
+Prepaid Expenses,65,92,83,73,FTNT
+Total Current Assets,"3,601","3,208","2,953","2,982",FTNT
+Buildings,456,501,524,539,FTNT
+Land/Improvements,205,250,253,306,FTNT
+Machinery/Equipment,176,188,208,219,FTNT
+Construction in Progress,20,31,28,38,FTNT
+Other Prop./Plant/Equip.,108,43,44,48,FTNT
+Prop./Plant/Equip. - Gross,964,"1,014","1,057","1,149",FTNT
+Accumulated Depreciation,(212),(228),(243),(260),FTNT
+Prop./Plant/Equip. - Net,753,787,815,890,FTNT
+"Goodwill, Net",125,124,121,120,FTNT
+Intangibles - Gross,115,113,108,106,FTNT
+Accum. Intangible Amort.,(52),(58),(63),(67),FTNT
+Intangibles - Net,64,55,45,39,FTNT
+Long Term Investments,441,361,189,84,FTNT
+Deferred Charges,423,438,457,481,FTNT
+Def. Inc. Tax - LT Asset,342,432,480,516,FTNT
+Other Long Term Assets,171,247,235,225,FTNT
+Total Assets,"5,919","5,651","5,295","5,336",FTNT
+Accounts Payable,148,175,193,215,FTNT
+Accrued Expenses,392,443,429,436,FTNT
+Notes Payable/ST Debt,0,0,0,0,FTNT
+"Other Curr. Lblts, Total","1,777","1,893","2,013","2,129",FTNT
+Total Current Liabilities,"2,318","2,511","2,635","2,780",FTNT
+Total Long Term Debt,988,989,989,990,FTNT
+Total Debt,988,989,989,990,FTNT
+Minority Interest,17,16,13,12,FTNT
+"Other Liabilities, Total","1,814","1,919","2,050","2,189",FTNT
+Total Liabilities,"5,137","5,433","5,687","5,971",FTNT
+Common Stock,0,0,1,1,FTNT
+Additional Paid-In Capital,"1,254","1,236","1,237","1,250",FTNT
+Ret. Earn.(Accum. Deficit),(468),"(1,003)","(1,608)","(1,860)",FTNT
+"Other Equity, Total",(5),(15),(23),(26),FTNT
+Total Equity,782,218,(393),(635),FTNT
+Total Liabilities & Shareholders’ Equity,"5,919","5,651","5,295","5,336",FTNT
+Ttl Comm. Shares Outs.,810,802,788,780,FTNT
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,FTNT

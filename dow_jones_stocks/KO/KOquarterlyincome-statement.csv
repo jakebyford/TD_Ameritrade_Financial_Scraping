@@ -1,0 +1,49 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"9,464","10,491","11,325","11,063",KO
+"Cost of Revenue, Total","4,088","4,091","4,830","4,566",KO
+Selling/Gen/Admin Expense,"2,345","1,900","1,933","1,744",KO
+Labor & Related Expense,101,87,102,84,KO
+Advertising Expense,890,980,"1,168","1,451",KO
+"Sell/Gen/AdminExpenses,Tot","3,336","2,967","3,203","3,279",KO
+Restructuring Charge,330,11,21,27,KO
+Litigation,1,--,--,--,KO
+Impair-Assets Held for Use,78,--,--,57,KO
+Impair-Assets Held for Sale,--,--,96,--,KO
+Other Unusual Expnse (In),(647),4,930,47,KO
+Unusual Expense (Income),(238),15,"1,047",131,KO
+"Other Operat Expse, Total",--,--,--,(1),KO
+Total Operating Expense,"7,186","7,073","9,080","7,975",KO
+Total Operating Income,"2,278","3,418","2,245","3,088",KO
+"Inter Expse,Net Non-Operat",(165),(182),(198),(198),KO
+"Inter Income, Non-Operating",71,78,100,128,KO
+"Invest Income, Non-Operat",383,73,80,390,KO
+"Inter/Invest Inc, Non-Oper",454,151,180,518,KO
+OtherNon-OperatInc (Expnse),393,71,57,36,KO
+"Other, Net",393,71,57,36,KO
+Income Before Tax,"2,960","3,458","2,284","3,444",KO
+Income Tax - Total,510,665,384,622,KO
+Income After Tax,"2,450","2,793","1,900","2,822",KO
+Minority Interest,(36),(12),5,3,KO
+Net Inc Before Extra Items,"2,414","2,781","1,905","2,825",KO
+Total Net Income,"2,414","2,781","1,905","2,825",KO
+Income Available to Common Excl. Extra. Items,"2,414","2,781","1,905","2,825",KO
+Income Available to Common Incl. Extra. Items,"2,414","2,781","1,905","2,825",KO
+Basic/Primary Weighted Average Shares,"4,321","4,332","4,331","4,325",KO
+Basic/Primary EPS Excl. Extra. Items,0.56,0.64,0.44,0.65,KO
+Basic/Primary EPS Incl. Extra. Items,0.56,0.64,0.44,0.65,KO
+Diluted Weighted Average Shares,"4,349","4,357","4,353","4,346",KO
+Diluted EPS Excl. Extra. Items,0.56,0.64,0.44,0.65,KO
+Diluted EPS Incl. Extra. Items,0.56,0.64,0.44,0.65,KO
+Div/Share-ComStockPrimIssue,0.42,0.42,0.44,0.44,KO
+Gross Divid - Common Stock,"1,815","1,906","1,904","1,902",KO
+Pro Forma Net Income,--,--,--,--,KO
+"Interest Expense, Suppl",165,182,198,198,KO
+"Depreciat/Amort, Suppl",341,324,322,307,KO
+Total Special Items,(238),15,"1,047",131,KO
+Normalzd Income Before Tax,"2,722","3,473","3,331","3,575",KO
+Efct/SpecItemsIncTxs (STEC),(41),3,176,24,KO
+IncTxsExcl ImpctofSpec Itms,469,668,560,646,KO
+Normalized Income After Tax,"2,253","2,805","2,771","2,929",KO
+Normalzd Inc Avail to Common,"2,217","2,793","2,776","2,932",KO
+Basic Normalized EPS,0.51,0.64,0.64,0.68,KO
+Diluted Normalized EPS,0.51,0.64,0.64,0.67,KO

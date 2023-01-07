@@ -1,0 +1,48 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"4,114","4,254","4,467","3,626","3,771",BK
+Depreciation/Depletion,"1,474","1,339","1,315","1,630","1,867",BK
+Deferred Taxes,133,(525),(69),(193),257,BK
+Non-Cash Items,(138),(43),(71),(34),(18),BK
+"Cash Taxes Pd, Supplemental",478,808,320,"1,281",431,BK
+"Cash Interest Pd, Suppl","1,033","2,711","4,400","1,236",233,BK
+Loan Loss Provision,(24),(11),(25),336,(231),BK
+Other Assets,(694),(574),"(5,167)",(496),"(1,898)",BK
+Changes in Working Capital,(916),971,"(5,546)",9,"(3,039)",BK
+Total Cash from Operations,"4,667","5,996",96,"5,038","2,838",BK
+Capital Expenditures,"(1,197)","(1,108)","(1,210)","(1,222)","(1,215)",BK
+Acquisition of Business,0,0,--,--,(170),BK
+Sale of Business,0,84,0,0,8,BK
+Sale of Fixed Assets,0,23,0,0,34,BK
+Sale/Maturity of Investment,"29,889","35,689","54,654","67,772","56,752",BK
+"Investment, Net","(2,458)","(18,603)","16,689",(690),"1,404",BK
+Purchase of Investments,"(34,480)","(37,459)","(55,257)","(98,081)","(63,160)",BK
+Loans,"(24,228)","24,826","(26,100)","(45,506)","24,949",BK
+Other Investing Cash Flow,(231),(153),676,(728),"1,070",BK
+"OtherInvestCashFlowItms,Tot","(31,508)","4,407","(9,338)","(77,233)","20,887",BK
+Total Cash from Investing,"(32,705)","3,299","(10,548)","(78,455)","19,672",BK
+Deposits,"17,069","(2,874)","20,663","77,523","(17,896)",BK
+Fed. Funds/REPOs,"5,174",(920),"(2,822)",(361),418,BK
+Other Financing Cash Flow,(787),(455),(964),"6,025",123,BK
+Financing Cash Flow Items,"21,456","(4,249)","16,877","83,187","(17,355)",BK
+Cash Divids Paid - Common,(901),"(1,052)","(1,120)","(1,117)","(1,126)",BK
+Cash Divs Paid - Preferred,(175),(169),(169),(179),(197),BK
+Total Cash Dividends Paid,"(1,076)","(1,221)","(1,289)","(1,296)","(1,323)",BK
+Sale/Issuance of Common,34,40,21,12,13,BK
+Repurch/Retirement Common,"(2,686)","(3,269)","(3,327)",(989),"(4,567)",BK
+"Common Stock, Net","(2,652)","(3,229)","(3,306)",(977),"(4,554)",BK
+Sale/Issuance of Preferred,0,0,--,"1,567","1,287",BK
+Repurch/Retirement Preferd,--,--,--,(583),"(1,000)",BK
+"Preferred Stock, Net",0,0,--,984,287,BK
+Options Exercised,431,80,65,46,50,BK
+"Iss (Retirmnt) of Stock,Net","(2,221)","(3,149)","(3,241)",53,"(4,217)",BK
+"Short Term Debt, Net","4,927",(972),(631),"(4,229)",397,BK
+Long Term Debt Issued,"4,738","5,143","2,993","2,993","5,186",BK
+Long Term Debt Reduction,"(1,046)","(3,650)","(5,250)","(5,200)","(4,650)",BK
+"Long Term Debt, Net","3,692","1,493","(2,257)","(2,207)",536,BK
+"Iss (Retirmnt) of Debt, Net","8,619",521,"(2,888)","(6,436)",933,BK
+Total Cash From Financing,"26,778","(8,098)","9,459","75,508","(21,962)",BK
+Foreign Exchange Effects,189,(72),2,61,(84),BK
+Net Change in Cash,"(1,071)","1,125",(991),"2,152",464,BK
+NetCash-BeginBal/RsvdforFutUse,"8,204","7,133","8,258","7,267","9,419",BK
+NetCash-EndBal/RsrvforFutUse,"7,133","8,258","7,267","9,419","9,883",BK
+"Depreciation, Supplemental","1,474","1,339","1,315","1,630","1,867",BK

@@ -1,0 +1,37 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"284,000","276,600","306,600","31,700","16,100",HXL
+Depreciation/Depletion,"104,500","123,100","141,700","140,900","138,000",HXL
+Deferred Taxes,"3,800","29,300","16,300","(51,400)","(2,600)",HXL
+Unusual Items,--,"7,700","(2,500)","23,000","(5,600)",HXL
+Equity in Net Earnings/Loss,"(3,300)","(5,600)","(3,700)","1,600",0,HXL
+Other Non-Cash Items,"18,300","17,800","19,200","16,600","22,100",HXL
+Non-Cash Items,"15,000","19,900","13,000","41,200","16,500",HXL
+"Cash Taxes Pd, Supplemental",--,--,--,--,"1,200",HXL
+"Cash Interest Pd, Suppl",--,--,--,--,"36,100",HXL
+Accounts Receivable,"20,200","(20,700)","36,500","110,000","(40,700)",HXL
+Inventories,"2,300","(25,200)","(30,400)","129,400","(40,400)",HXL
+Prepaid Expenses,(100),"(8,600)","(5,800)","11,200","13,000",HXL
+Other Assets,"(8,000)",--,--,--,--,HXL
+Payable/Accrued,"(2,100)","23,300","12,500","(134,100)","49,800",HXL
+Changes in Working Capital,"21,400","(27,500)","13,500","101,900","(16,300)",HXL
+Total Cash from Operations,"428,700","421,400","491,100","264,300","151,700",HXL
+Capital Expenditures,"(278,100)","(184,100)","(204,100)","(50,600)","(27,900)",HXL
+"OtherInvestCashFlowItms,Tot","(76,000)","(3,400)","(163,200)",--,0,HXL
+Total Cash from Investing,"(354,100)","(187,500)","(367,300)","(50,600)","(27,900)",HXL
+Financing Cash Flow Items,"8,500","1,000","4,600","(4,600)","7,100",HXL
+Total Cash Dividends Paid,"(42,600)","(48,400)","(54,200)","(14,200)",0,HXL
+Sale/Issuance of Common,"10,000",0,--,--,--,HXL
+Repurch/Retirement Common,"(150,300)","(357,700)","(143,000)","(24,600)",0,HXL
+"Iss (Retirmnt) of Stock,Net","(140,300)","(357,700)","(143,000)","(24,600)",0,HXL
+Long Term Debt Issued,"398,300","752,000","926,000","422,800",0,HXL
+Long Term Debt Reduction,"(315,000)","(600,000)","(815,800)","(508,000)","(103,900)",HXL
+"Long Term Debt, Net","82,800","152,200","110,200","(85,200)","(103,900)",HXL
+Total Debt Issued,"37,400",0,0,--,--,HXL
+Total Debt Reduction,"(4,100)","(4,400)","(9,000)","(49,900)",0,HXL
+"Iss (Retirmnt) of Debt, Net","116,100","147,800","101,200","(135,100)","(103,900)",HXL
+Total Cash From Financing,"(58,300)","(257,300)","(91,400)","(178,500)","(96,800)",HXL
+Foreign Exchange Effects,"8,600","(4,000)",(700),"3,700","(2,600)",HXL
+Net Change in Cash,"24,900","(27,400)","31,700","38,900","24,400",HXL
+NetCash-BeginBal/RsvdforFutUse,"35,200","60,100","32,700","64,400","103,300",HXL
+NetCash-EndBal/RsrvforFutUse,"60,100","32,700","64,400","103,300","127,700",HXL
+"Depreciation, Supplemental","104,500","123,100","141,700","140,900","138,000",HXL

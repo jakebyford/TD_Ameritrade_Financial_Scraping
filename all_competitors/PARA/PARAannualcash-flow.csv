@@ -1,0 +1,44 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"3,320","3,460","3,301","2,701","4,631",PARA
+Depreciation/Depletion,443,433,443,430,390,PARA
+Deferred Taxes,(367),58,(769),122,90,PARA
+Discontinued Operations,94,1,0,(38),(44),PARA
+Unusual Items,(377),61,(611),(294),"(2,262)",PARA
+Equity in Net Earnings/Loss,15,54,58,34,96,PARA
+Other Non-Cash Items,"11,143","11,786","12,845","11,319","13,544",PARA
+Non-Cash Items,"10,875","11,902","12,292","11,021","11,334",PARA
+"Cash Taxes Pd, Supplemental",827,161,598,466,334,PARA
+"Cash Interest Pd, Suppl","1,056","1,012",922,965,970,PARA
+Accounts Receivable,(147),(368),(256),(68),179,PARA
+Inventories,"(11,544)","(12,185)","(14,215)","(12,170)","(16,584)",PARA
+Accounts Payable,(248),(158),297,188,760,PARA
+Changes in Working Capital,"(11,832)","(12,389)","(14,037)","(11,980)","(15,492)",PARA
+Total Cash from Operations,"2,439","3,464","1,230","2,294",953,PARA
+Capital Expenditures,(356),(352),(353),(324),(354),PARA
+Acquisition of Business,(289),(118),(399),(147),(54),PARA
+Sale of Business,892,39,756,593,"3,028",PARA
+Purchase of Investments,(128),(161),(171),(59),(193),PARA
+Other Investing Cash Flow,7,(19),12,(7),(32),PARA
+"OtherInvestCashFlowItms,Tot",482,(259),198,380,"2,749",PARA
+Total Cash from Investing,126,(611),(155),56,"2,395",PARA
+Financing Cash Flow Items,(202),(268),(186),(205),(338),PARA
+Cash Divids Paid - Common,(616),(599),(595),(600),(617),PARA
+Cash Divs Paid - Preferred,--,--,--,--,(30),PARA
+Total Cash Dividends Paid,(616),(599),(595),(600),(647),PARA
+Sale/Issuance of Common,--,--,--,--,"1,672",PARA
+Repurch/Retirement Common,"(1,111)",(586),(57),(58),0,PARA
+"Common Stock, Net","(1,111)",(586),(57),(58),"1,672",PARA
+"Preferred Stock, Net",--,--,--,--,983,PARA
+Options Exercised,263,29,15,5,408,PARA
+"Iss (Retirmnt) of Stock,Net",(848),(557),(42),(53),"3,063",PARA
+"Short Term Debt, Net",229,(5),25,(706),0,PARA
+Long Term Debt Issued,"3,157",0,492,"4,375",0,PARA
+Long Term Debt Reduction,"(4,729)","(1,102)",(910),"(2,901)","(2,230)",PARA
+"Long Term Debt, Net","(1,572)","(1,102)",(418),"1,474","(2,230)",PARA
+"Iss (Retirmnt) of Debt, Net","(1,343)","(1,107)",(393),768,"(2,230)",PARA
+Total Cash From Financing,"(3,009)","(2,531)","(1,216)",(90),(152),PARA
+Foreign Exchange Effects,58,(25),(1),25,(48),PARA
+Net Change in Cash,(386),297,(142),"2,285","3,148",PARA
+NetCash-BeginBal/RsvdforFutUse,"1,065",679,976,834,"3,119",PARA
+NetCash-EndBal/RsrvforFutUse,679,976,834,"3,119","6,267",PARA
+"Depreciation, Supplemental",443,433,443,430,390,PARA

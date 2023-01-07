@@ -1,0 +1,43 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Total Revenue,"9,569","13,044","14,102","15,536",DE
+"Cost of Revenue, Total","6,605","8,841","9,506","10,205",DE
+"Sell/Gen/AdminExpenses,Tot",781,932,951,"1,188",DE
+Research & Development,402,453,481,576,DE
+Restructuring Charge,--,--,9,5,DE
+Impair-Assets Held for Use,--,69,0,0,DE
+Impair-Assets Held for Sale,--,8,4,7,DE
+Other Unusual Expnse (In),90,17,(12),0,DE
+Unusual Expense (Income),90,94,1,12,DE
+"Other Operat Expse, Total",311,311,328,321,DE
+Total Operating Expense,"8,189","10,631","11,267","12,302",DE
+Total Operating Income,"1,380","2,413","2,835","3,234",DE
+"Inter Expse,Net Non-Operat",(229),(187),(296),(349),DE
+"Inter/Invest Inc, Non-Oper",--,326,0,0,DE
+Income Before Tax,"1,151","2,552","2,539","2,885",DE
+Income Tax - Total,250,461,654,643,DE
+Income After Tax,901,"2,091","1,885","2,242",DE
+Minority Interest,(1),1,(1),2,DE
+Equity In Affiliates,3,6,0,2,DE
+Net Inc Before Extra Items,903,"2,098","1,884","2,246",DE
+Total Net Income,903,"2,098","1,884","2,246",DE
+Income Available to Common Excl. Extra. Items,903,"2,098","1,884","2,246",DE
+Income Available to Common Incl. Extra. Items,903,"2,098","1,884","2,246",DE
+Basic/Primary Weighted Average Shares,307,306,304,301,DE
+Basic/Primary EPS Excl. Extra. Items,2.94,6.85,6.20,7.47,DE
+Basic/Primary EPS Incl. Extra. Items,2.94,6.85,6.20,7.47,DE
+Diluted Weighted Average Shares,309,308,306,302,DE
+Diluted EPS Excl. Extra. Items,2.92,6.81,6.16,7.43,DE
+Diluted EPS Incl. Extra. Items,2.92,6.81,6.16,7.43,DE
+Div/Share-ComStockPrimIssue,1.05,1.05,1.05,1.13,DE
+Gross Divid - Common Stock,323,322,343,339,DE
+Pro Forma Net Income,--,--,--,--,DE
+"Interest Expense, Suppl",229,187,296,349,DE
+"Depreciat/Amort, Suppl",458,413,468,411,DE
+Total Special Items,90,94,1,12,DE
+Normalzd Income Before Tax,"1,241","2,646","2,540","2,897",DE
+Efct/SpecItemsIncTxs (STEC),20,17,0,3,DE
+IncTxsExcl ImpctofSpec Itms,270,478,654,646,DE
+Normalized Income After Tax,971,"2,168","1,886","2,251",DE
+Normalzd Inc Avail to Common,973,"2,175","1,885","2,255",DE
+Basic Normalized EPS,3.17,7.10,6.20,7.50,DE
+Diluted Normalized EPS,3.15,7.06,6.17,7.47,DE

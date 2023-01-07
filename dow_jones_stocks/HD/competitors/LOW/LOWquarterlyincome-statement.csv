@@ -1,0 +1,42 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Total Revenue,"21,339","23,659","27,476","23,479",LOW
+"Cost of Revenue, Total","14,312","15,609","18,343","15,661",LOW
+"Sell/Gen/AdminExpenses,Tot","4,713","4,303","4,455","6,443",LOW
+Depreciation/Amortization,436,445,449,451,LOW
+Unusual Expense (Income),29,--,--,--,LOW
+Total Operating Expense,"19,490","20,357","23,247","22,555",LOW
+Total Operating Income,"1,849","3,302","4,229",924,LOW
+"Inter Expse, Non-Operating",(222),(238),(264),(306),LOW
+"Inter Capital, Non-Operat",1,1,1,1,LOW
+"Inter Expse,Net Non-Operat",(221),(237),(263),(305),LOW
+"Inter/Invest Inc, Non-Oper",2,2,5,14,LOW
+OtherNon-OperatInc (Expnse),(16),(8),(6),(4),LOW
+"Other, Net",(16),(8),(6),(4),LOW
+Income Before Tax,"1,614","3,059","3,965",629,LOW
+Income Tax - Total,407,726,973,475,LOW
+Income After Tax,"1,207","2,333","2,992",154,LOW
+Net Inc Before Extra Items,"1,207","2,333","2,992",154,LOW
+Total Net Income,"1,207","2,333","2,992",154,LOW
+Total Adjust to Net Income,(5),(8),(9),(2),LOW
+Income Available to Common Excl. Extra. Items,"1,202","2,325","2,983",152,LOW
+Income Available to Common Incl. Extra. Items,"1,202","2,325","2,983",152,LOW
+Basic/Primary Weighted Average Shares,672,660,638,618,LOW
+Basic/Primary EPS Excl. Extra. Items,1.79,3.52,4.68,0.25,LOW
+Basic/Primary EPS Incl. Extra. Items,1.79,3.52,4.68,0.25,LOW
+Diluted Weighted Average Shares,678,662,639,620,LOW
+Diluted EPS Excl. Extra. Items,1.77,3.51,4.67,0.25,LOW
+Diluted EPS Incl. Extra. Items,1.77,3.51,4.67,0.25,LOW
+Div/Share-ComStockPrimIssue,0.80,0.80,0.00,1.05,LOW
+Gross Divid - Common Stock,537,524,666,643,LOW
+Pro Forma Net Income,--,--,--,--,LOW
+"Interest Expense, Suppl",222,238,264,306,LOW
+"Interest Capitalized, Suppl",(1),(1),(1),(1),LOW
+"Depreciat/Amort, Suppl",494,503,504,502,LOW
+Total Special Items,29,--,--,--,LOW
+Normalzd Income Before Tax,"1,643","3,059","3,965",629,LOW
+Efct/SpecItemsIncTxs (STEC),7,--,--,--,LOW
+IncTxsExcl ImpctofSpec Itms,414,726,973,475,LOW
+Normalized Income After Tax,"1,229","2,333","2,992",154,LOW
+Normalzd Inc Avail to Common,"1,224","2,325","2,983",152,LOW
+Basic Normalized EPS,1.82,3.52,4.68,0.25,LOW
+Diluted Normalized EPS,1.80,3.51,4.67,0.25,LOW

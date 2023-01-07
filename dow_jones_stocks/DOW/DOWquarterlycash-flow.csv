@@ -1,0 +1,39 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"6,405","1,552","3,233","3,993",DOW
+Depreciation/Depletion,"2,842",752,"1,436","2,104",DOW
+Deferred Taxes,278,253,348,124,DOW
+Discontinued Operations,(60),(9),(11),(11),DOW
+Unusual Items,(99),180,192,175,DOW
+Equity in Net Earnings/Loss,(651),374,289,517,DOW
+Other Non-Cash Items,(259),92,17,22,DOW
+Non-Cash Items,"(1,069)",637,487,703,DOW
+Accounts Receivable,"(2,132)",(741),(767),323,DOW
+Inventories,"(1,768)",(443),(908),(254),DOW
+Accounts Payable,"2,458",86,69,(860),DOW
+Changes in Working Capital,"(1,447)","(1,591)","(2,047)","(1,527)",DOW
+Total Cash from Operations,"7,009","1,603","3,457","5,397",DOW
+Capital Expenditures,"(2,195)",(317),(775),"(1,229)",DOW
+Acquisition of Business,(129),--,0,(54),DOW
+Sale of Fixed Assets,68,4,5,16,DOW
+Sale/Maturity of Investment,759,141,418,596,DOW
+Purchase of Investments,"(1,458)",(191),(391),(648),DOW
+Other Investing Cash Flow,41,(4),(20),(20),DOW
+"OtherInvestCashFlowItms,Tot",(719),(50),12,(110),DOW
+Total Cash from Investing,"(2,914)",(367),(763),"(1,339)",DOW
+Financing Cash Flow Items,(622),105,(63),(84),DOW
+Total Cash Dividends Paid,"(2,073)",(513),"(1,018)","(1,511)",DOW
+Sale/Issuance of Common,320,35,97,99,DOW
+Repurch/Retirement Common,"(1,000)",(600),"(1,400)","(2,200)",DOW
+"Iss (Retirmnt) of Stock,Net",(680),(565),"(1,303)","(2,101)",DOW
+Short Term Debt Reduction,(130),--,(14),(14),DOW
+"Short Term Debt, Net",(34),(35),166,58,DOW
+Long Term Debt Issued,109,16,49,82,DOW
+Long Term Debt Reduction,"(2,771)",(25),(927),(957),DOW
+"Long Term Debt, Net","(2,662)",(9),(878),(875),DOW
+"Iss (Retirmnt) of Debt, Net","(2,696)",(44),(712),(817),DOW
+Total Cash From Financing,"(6,071)","(1,017)","(3,096)","(4,513)",DOW
+Foreign Exchange Effects,(99),(45),(162),(261),DOW
+Net Change in Cash,"(2,075)",174,(564),(716),DOW
+NetCash-BeginBal/RsvdforFutUse,"5,108","3,033","3,033","3,033",DOW
+NetCash-EndBal/RsrvforFutUse,"3,033","3,207","2,469","2,317",DOW
+"Depreciation, Supplemental","2,842",752,"1,436","2,104",DOW

@@ -1,0 +1,37 @@
+items,Q3 2022,Q4 2022,Q1 2023,Q2 2023,ticker
+Net Income,"1,306","1,387",(56),(174),VFC
+Depreciation/Depletion,200,267,67,131,VFC
+Deferred Taxes,--,(157),--,--,VFC
+Discontinued Operations,(164),(165),0,0,VFC
+Unusual Items,4,4,--,422,VFC
+Other Non-Cash Items,60,447,213,303,VFC
+Non-Cash Items,(101),287,213,725,VFC
+Accounts Receivable,(215),(203),174,(462),VFC
+Inventories,(237),(381),(961),"(1,434)",VFC
+Accounts Payable,100,105,471,494,VFC
+Accrued Expenses,250,88,(95),139,VFC
+Changes in Working Capital,(608),(919),(582),"(1,595)",VFC
+Total Cash from Operations,797,864,(358),(914),VFC
+Purchase of Fixed Assets,(214),(245),(53),(90),VFC
+Purchase/Acq of Intangibles,(64),(83),(27),(48),VFC
+Capital Expenditures,(278),(328),(80),(138),VFC
+Sale of Business,620,621,0,--,VFC
+Sale/Maturity of Investment,599,599,--,--,VFC
+Purchase of Investments,0,0,--,--,VFC
+Other Investing Cash Flow,12,13,10,6,VFC
+"OtherInvestCashFlowItms,Tot","1,231","1,232",10,6,VFC
+Total Cash from Investing,953,904,(70),(132),VFC
+Financing Cash Flow Items,(2),(2),(57),(58),VFC
+Total Cash Dividends Paid,(579),(773),(194),(388),VFC
+"Iss (Retirmnt) of Stock,Net",(267),(313),(2),(2),VFC
+"Short Term Debt, Net",95,324,492,"1,357",VFC
+Long Term Debt Issued,0,0,--,--,VFC
+Long Term Debt Reduction,(504),(504),(500),(501),VFC
+"Long Term Debt, Net",(504),(504),(500),(501),VFC
+"Iss (Retirmnt) of Debt, Net",(409),(180),(8),857,VFC
+Total Cash From Financing,"(1,258)","(1,269)",(261),409,VFC
+Foreign Exchange Effects,(9),(73),(59),(86),VFC
+Net Change in Cash,484,426,(748),(723),VFC
+NetCash-BeginBal/RsvdforFutUse,851,851,"1,277","1,277",VFC
+NetCash-EndBal/RsrvforFutUse,"1,335","1,277",529,554,VFC
+"Depreciation, Supplemental",200,267,67,131,VFC

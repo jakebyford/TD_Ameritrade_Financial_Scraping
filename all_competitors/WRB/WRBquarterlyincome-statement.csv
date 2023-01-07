@@ -1,0 +1,45 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Gross Premiums Written,"2,767","2,860","3,052","3,082",WRB
+Other Insurance Revenue,198,127,156,147,WRB
+Reinsurance - Income,(563),(611),(695),(640),WRB
+Total Premiums Earned,"2,401","2,376","2,513","2,589",WRB
+Net Investment Income,165,174,172,203,WRB
+Realized Gains (Losses),12,366,(172),(67),WRB
+Total Revenue,"2,578","2,915","2,513","2,724",WRB
+"Losses, Benies & Adjusts","1,318","1,338","1,434","1,564",WRB
+Underwriting & Commissions,612,635,653,685,WRB
+"Losses,Benies& Adjmts,Total","1,931","1,974","2,087","2,249",WRB
+"Sell/Gen/AdminExpenses,Tot",32,33,36,36,WRB
+Unusual Expense (Income),12,1,2,1,WRB
+"Other Operat Expse, Total",218,145,173,161,WRB
+Total Operating Expense,"2,193","2,152","2,298","2,447",WRB
+Total Operating Income,385,763,214,277,WRB
+"Inter Expse,Net Non-Operat",(37),(35),(32),(32),WRB
+"Inter/Invest Inc, Non-Oper",7,4,40,41,WRB
+Income Before Tax,355,732,223,286,WRB
+Income Tax - Total,60,139,43,56,WRB
+Income After Tax,294,593,179,230,WRB
+Minority Interest,0,(2),0,(2),WRB
+Net Inc Before Extra Items,294,591,179,229,WRB
+Total Net Income,294,591,179,229,WRB
+Income Available to Common Excl. Extra. Items,294,591,179,229,WRB
+Income Available to Common Incl. Extra. Items,294,591,179,229,WRB
+Basic/Primary Weighted Average Shares,415,277,277,277,WRB
+Basic/Primary EPS Excl. Extra. Items,0.71,2.13,0.65,0.83,WRB
+Basic/Primary EPS Incl. Extra. Items,0.71,2.13,0.65,0.83,WRB
+Diluted Weighted Average Shares,416,279,280,280,WRB
+Diluted EPS Excl. Extra. Items,0.71,2.12,0.64,0.82,WRB
+Diluted EPS Incl. Extra. Items,0.71,2.12,0.64,0.82,WRB
+Div/Share-ComStockPrimIssue,0.06,0.09,0.10,0.10,WRB
+Gross Divid - Common Stock,200,23,159,27,WRB
+Pro Forma Net Income,--,--,--,--,WRB
+"Interest Expense, Suppl",37,35,32,32,WRB
+"Depreciat/Amort, Suppl",28,25,13,9,WRB
+Total Special Items,12,1,2,1,WRB
+Normalzd Income Before Tax,367,733,225,287,WRB
+Efct/SpecItemsIncTxs (STEC),2,0,0,0,WRB
+IncTxsExcl ImpctofSpec Itms,62,140,43,56,WRB
+Normalized Income After Tax,304,594,181,231,WRB
+Normalzd Inc Avail to Common,304,591,181,230,WRB
+Basic Normalized EPS,0.73,2.14,0.65,0.83,WRB
+Diluted Normalized EPS,0.73,2.12,0.65,0.82,WRB

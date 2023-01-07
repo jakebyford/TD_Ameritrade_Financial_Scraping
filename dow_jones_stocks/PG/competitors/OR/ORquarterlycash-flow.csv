@@ -1,0 +1,41 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"(56,675)","(5,529)","11,043","62,877",OR
+Depreciation/Depletion,"51,934","15,017","31,000","38,108",OR
+Deferred Taxes,"11,724","5,128","14,863","23,261",OR
+Discontinued Operations,--,--,--,"(65,116)",OR
+Unusual Items,"110,879","6,588","(18,532)","13,352",OR
+Equity in Net Earnings/Loss,"3,950","(2,273)","(1,054)",(383),OR
+Other Non-Cash Items,"9,282","3,692","1,260","(12,302)",OR
+Non-Cash Items,"124,111","8,007","(18,326)","(64,449)",OR
+"Cash Taxes Pd, Supplemental","7,027",234,689,"1,370",OR
+"Cash Interest Pd, Suppl","16,420","1,093","7,731","8,286",OR
+Accounts Receivable,476,"(1,801)","(6,368)","(3,336)",OR
+Inventories,"(13,075)","(6,417)","(5,945)",--,OR
+Other Assets,"(5,075)",(765),"(2,256)","1,342",OR
+Payable/Accrued,"(7,325)","9,970",(625),"3,620",OR
+Changes in Working Capital,"(24,999)",987,"(15,194)","1,626",OR
+Total Cash from Operations,"106,095","23,610","23,386","61,423",OR
+Capital Expenditures,"(279,408)","(22,329)","(43,983)","(32,363)",OR
+Acquisition of Business,0,--,"(62,189)","(133,138)",OR
+Sale/Maturity of Investment,"50,936","21,055","24,241",--,OR
+"Investment, Net","3,501",--,--,"2,960",OR
+Purchase of Investments,"(46,713)","(10,734)","(11,118)","(8,174)",OR
+Other Investing Cash Flow,(354),(264),"(14,409)","(115,002)",OR
+"OtherInvestCashFlowItms,Tot","7,370","10,057","(63,475)","(253,354)",OR
+Total Cash from Investing,"(272,038)","(12,272)","(107,458)","(285,717)",OR
+Financing Cash Flow Items,"31,925","337,652","544,104","541,075",OR
+Total Cash Dividends Paid,"(32,464)","(8,723)","(18,478)","(28,248)",OR
+Sale/Issuance of Common,0,--,--,--,OR
+Repurch/Retirement Common,"(30,791)","(4,879)","(4,879)","(21,330)",OR
+"Common Stock, Net","(30,791)","(4,879)","(4,879)","(21,330)",OR
+Options Exercised,"14,547",622,934,"1,057",OR
+"Iss (Retirmnt) of Stock,Net","(16,244)","(4,257)","(3,945)","(20,273)",OR
+Long Term Debt Issued,"54,015","3,870","7,536",--,OR
+Long Term Debt Reduction,"(56,833)","(5,877)","(122,032)","(113,772)",OR
+"Iss (Retirmnt) of Debt, Net","(2,818)","(2,007)","(114,496)","(113,772)",OR
+Total Cash From Financing,"(19,601)","322,665","407,185","378,782",OR
+Foreign Exchange Effects,"(1,282)",(251),"10,472","30,356",OR
+Net Change in Cash,"(186,826)","333,752","333,585","184,844",OR
+NetCash-BeginBal/RsvdforFutUse,"302,524","115,698","115,698","115,698",OR
+NetCash-EndBal/RsrvforFutUse,"115,698","449,450","449,283","300,542",OR
+"Depreciation, Supplemental","51,934","15,017","31,000","38,108",OR

@@ -1,0 +1,49 @@
+items,2017,2018,2019,2020,2021,ticker
+Gross Premiums Written,"30,904","30,888","41,003",--,--,AIG
+Net Premiums Earned,--,--,--,"28,523","31,259",AIG
+Other Insurance Revenue,"5,347","4,429","3,934","3,820","4,035",AIG
+Reinsurance - Income,470,(274),"(10,442)",--,--,AIG
+Total Premiums Earned,"36,721","35,043","34,495","32,343","35,294",AIG
+Net Investment Income,"14,179","12,476","14,619","13,631","14,612",AIG
+Realized Gains (Losses),"(1,153)",121,806,"(2,238)","2,151",AIG
+Total Revenue,"49,747","47,640","49,920","43,736","52,057",AIG
+"Losses,Benies& Adjmts,Total","33,564","31,166","29,234","28,428","27,945",AIG
+Amort. Of Policy Acquisition Costs,"4,288","5,386","5,164","4,211","4,573",AIG
+"Sell/Gen/AdminExpenses,Tot","9,107","9,302","8,537","8,396","8,790",AIG
+Impair-Assets Held for Sale,227,251,174,--,--,AIG
+Other Unusual Expnse (In),(73),(31),107,"8,537","(2,655)",AIG
+Unusual Expense (Income),154,220,281,"8,537","(2,655)",AIG
+Total Operating Expense,"47,113","46,074","43,216","49,572","38,653",AIG
+Total Operating Income,"2,634","1,566","6,704","(5,836)","13,404",AIG
+"Inter Expse,Net Non-Operat","(1,168)","(1,309)","(1,417)","(1,457)","(1,305)",AIG
+Income Before Tax,"1,466",257,"5,287","(7,293)","12,099",AIG
+Income Tax - Total,826,154,"1,166","(1,460)","2,176",AIG
+Income After Tax,640,103,"4,121","(5,833)","9,923",AIG
+Minority Interest,(28),(67),(821),(115),(535),AIG
+Net Inc Before Extra Items,612,36,"3,300","(5,948)","9,388",AIG
+Discontinued Operations,4,(42),48,4,0,AIG
+Extraordinary Item,"(6,700)",0,--,--,--,AIG
+Total Extraordinary Items,"(6,696)",(42),48,4,0,AIG
+Total Net Income,"(6,084)",(6),"3,348","(5,944)","9,388",AIG
+Total Adjust to Net Income,--,--,(22),(29),(29),AIG
+Income Available to Common Excl. Extra. Items,612,36,"3,278","(5,977)","9,359",AIG
+Income Available to Common Incl. Extra. Items,"(6,084)",(6),"3,326","(5,973)","9,359",AIG
+Basic/Primary Weighted Average Shares,931,898,877,869,854,AIG
+Basic/Primary EPS Excl. Extra. Items,0.66,0.04,3.74,(6.88),10.95,AIG
+Basic/Primary EPS Incl. Extra. Items,(6.54),(0.01),3.79,(6.87),10.95,AIG
+Diluted Weighted Average Shares,931,898,890,869,865,AIG
+Diluted EPS Excl. Extra. Items,0.66,0.04,3.69,(6.88),10.82,AIG
+Diluted EPS Incl. Extra. Items,(6.54),(0.01),3.74,(6.87),10.82,AIG
+Div/Share-ComStockPrimIssue,1.28,1.28,1.28,1.28,1.28,AIG
+Gross Divid - Common Stock,"1,172","1,138","1,114","1,103","1,114",AIG
+Pro Forma Net Income,--,--,--,--,--,AIG
+"Interest Expense, Suppl","1,168","1,309","1,417","1,457","1,305",AIG
+"Depreciat/Amort, Suppl","3,874","5,362","5,006","4,120","4,633",AIG
+Total Special Items,(448),263,"1,476","10,121","(1,961)",AIG
+Normalzd Income Before Tax,"1,018",520,"6,763","2,828","10,138",AIG
+Efct/SpecItemsIncTxs (STEC),146,158,326,"3,542",(353),AIG
+IncTxsExcl ImpctofSpec Itms,972,312,"1,492","2,082","1,823",AIG
+Normalized Income After Tax,46,208,"5,271",746,"8,315",AIG
+Normalzd Inc Avail to Common,18,141,"4,428",602,"7,751",AIG
+Basic Normalized EPS,0.02,0.16,5.05,0.69,9.07,AIG
+Diluted Normalized EPS,0.02,0.16,4.98,0.69,8.96,AIG

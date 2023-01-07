@@ -1,0 +1,40 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash and Short Term Invs,"2,117","2,126","1,841","1,884",TXT
+"Trade Accts Recvble, Gross",862,826,900,860,TXT
+Prov. for Doubtful Accts,(24),(26),(24),(24),TXT
+"Total Receivables, Net",838,800,876,836,TXT
+Invent. - Finished Goods,"1,071","1,100","1,110","1,084",TXT
+Invent. - Work In Progress,"1,548","1,686","1,705","1,754",TXT
+Invent. - Raw Materials,849,877,924,979,TXT
+Total Inventory,"3,468","3,663","3,739","3,817",TXT
+"Other Curr. Assets, Total","1,018","1,055",972,943,TXT
+Total Current Assets,"7,441","7,644","7,428","7,480",TXT
+Prop./Plant/Equip. - Gross,"7,426","7,402","7,414","7,415",TXT
+Accumulated Depreciation,"(4,888)","(4,914)","(4,945)","(4,972)",TXT
+Prop./Plant/Equip. - Net,"2,912","2,855","2,828","2,803",TXT
+"Goodwill, Net","2,149","2,147","2,278","2,262",TXT
+Note Rcvble - Long Term,605,578,561,566,TXT
+Other Long Term Assets,"2,720","2,687","2,784","2,845",TXT
+Total Assets,"15,827","15,911","15,879","15,956",TXT
+Accounts Payable,786,823,807,887,TXT
+Accrued Expenses,56,56,56,56,TXT
+Notes Payable/ST Debt,0,0,0,0,TXT
+Curr. Port. LT Dbt/Cap Ls.,6,7,7,7,TXT
+"Other Curr. Lblts, Total","2,288","2,451","2,604","2,677",TXT
+Total Current Liabilities,"3,136","3,337","3,474","3,627",TXT
+Total Long Term Debt,"3,761","3,648","3,559","3,556",TXT
+Total Debt,"3,767","3,655","3,566","3,563",TXT
+"Other Liabilities, Total","2,115","2,009","2,045","2,011",TXT
+Total Liabilities,"9,012","8,994","9,078","9,194",TXT
+Common Stock,28,28,28,28,TXT
+Additional Paid-In Capital,"1,863","1,924","1,953","1,980",TXT
+Ret. Earn.(Accum. Deficit),"5,870","6,058","6,271","6,492",TXT
+Treasury Stock - Common,(157),(314),(596),(796),TXT
+Cum. Trans. Adjustment,9,(5),(95),(192),TXT
+Min. Pension Lblty Adj.,(799),(782),(765),(747),TXT
+Other Comprehensive Income,1,8,5,(3),TXT
+"Other Equity, Total",(789),(779),(855),(942),TXT
+Total Equity,"6,815","6,917","6,801","6,762",TXT
+Total Liabilities & Shareholders’ Equity,"15,827","15,911","15,879","15,956",TXT
+Ttl Comm. Shares Outs.,217,216,212,209,TXT
+Trsy. Shrs-Comm. Primary Iss.,2,2,2,0,TXT

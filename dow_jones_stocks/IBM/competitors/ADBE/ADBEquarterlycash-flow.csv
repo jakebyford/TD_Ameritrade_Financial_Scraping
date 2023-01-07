@@ -1,0 +1,32 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Net Income,"1,266","2,444","3,580","4,756",ADBE
+Depreciation/Depletion,213,425,641,856,ADBE
+Deferred Taxes,129,197,282,--,ADBE
+Unusual Items,17,27,33,29,ADBE
+Other Non-Cash Items,346,718,"1,123","1,861",ADBE
+Non-Cash Items,363,745,"1,156","1,890",ADBE
+"Cash Taxes Pd, Supplemental",59,260,486,--,ADBE
+"Cash Interest Pd, Suppl",50,50,101,--,ADBE
+Accounts Receivable,191,287,146,--,ADBE
+Prepaid Expenses,(187),(140),(133),--,ADBE
+Accounts Payable,6,60,11,--,ADBE
+Accrued Expenses,(389),(187),(237),--,ADBE
+Changes in Working Capital,(202),(2),(146),336,ADBE
+Total Cash from Operations,"1,769","3,809","5,513","7,838",ADBE
+Capital Expenditures,(100),(226),(351),(442),ADBE
+Acquisition of Business,(106),(126),(126),(126),ADBE
+Sale/Maturity of Investment,262,508,718,--,ADBE
+"Investment, Net",--,--,--,44,ADBE
+Purchase of Investments,(316),(554),(742),(46),ADBE
+"OtherInvestCashFlowItms,Tot",(160),(172),(150),(128),ADBE
+Total Cash from Investing,(260),(398),(501),(570),ADBE
+Financing Cash Flow Items,(295),(345),(392),(378),ADBE
+Sale/Issuance of Common,91,91,278,103,ADBE
+Repurch/Retirement Common,"(2,400)","(3,600)","(4,800)","(6,550)",ADBE
+"Iss (Retirmnt) of Stock,Net","(2,309)","(3,509)","(4,522)","(6,447)",ADBE
+Total Cash From Financing,"(2,604)","(3,854)","(4,914)","(6,825)",ADBE
+Foreign Exchange Effects,(10),(36),(72),(51),ADBE
+Net Change in Cash,"(1,105)",(479),26,392,ADBE
+NetCash-BeginBal/RsvdforFutUse,"3,844","3,844","3,844","3,844",ADBE
+NetCash-EndBal/RsrvforFutUse,"2,739","3,365","3,870","4,236",ADBE
+"Depreciation, Supplemental",213,425,641,856,ADBE

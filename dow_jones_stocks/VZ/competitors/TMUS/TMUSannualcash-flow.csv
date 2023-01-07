@@ -1,0 +1,45 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"4,536","2,888","3,468","3,064","3,024",TMUS
+Depreciation/Depletion,"5,984","6,486","6,616","14,151","16,383",TMUS
+Deferred Taxes,"(1,404)",980,"1,091",822,197,TMUS
+Unusual Items,(149),122,19,789,184,TMUS
+Other Non-Cash Items,"1,069",904,932,"1,332","1,007",TMUS
+Non-Cash Items,920,"1,026",951,"2,121","1,191",TMUS
+"Cash Taxes Pd, Supplemental",31,51,88,218,"6,248",TMUS
+"Cash Interest Pd, Suppl","2,028","1,525","1,128","2,733","3,723",TMUS
+Accounts Receivable,"(5,743)","(6,215)","(4,724)","(4,726)","(6,366)",TMUS
+Inventories,(844),(201),(617),"(2,222)",201,TMUS
+Other Assets,(575),(181),"1,752","3,063","4,391",TMUS
+Accrued Expenses,--,--,"(2,131)","(3,699)","(5,358)",TMUS
+Payable/Accrued,"1,079",(867),17,"(2,123)",549,TMUS
+Changes in Working Capital,"(6,205)","(7,481)","(5,302)","(11,518)","(6,878)",TMUS
+Total Cash from Operations,"3,831","3,899","6,824","8,640","13,917",TMUS
+Purchase of Fixed Assets,"(5,237)","(5,541)","(6,391)","(11,034)","(12,326)",TMUS
+Purchase/Acq of Intangibles,"(5,828)",(127),(967),--,"(9,366)",TMUS
+Capital Expenditures,"(11,065)","(5,668)","(7,358)","(11,034)","(21,692)",TMUS
+Acquisition of Business,0,(338),(31),"(5,000)","(1,916)",TMUS
+Sale of Business,--,--,--,"1,224",0,TMUS
+Sale of Fixed Assets,--,--,38,0,40,TMUS
+Sale/Maturity of Investment,0,0,--,--,--,TMUS
+"Investment, Net",--,--,(632),632,0,TMUS
+"Intangible, Net",--,--,--,"(1,333)",--,TMUS
+Other Investing Cash Flow,"4,320","5,427","3,858","2,796","4,182",TMUS
+"OtherInvestCashFlowItms,Tot","4,320","5,089","3,233","(1,681)","2,306",TMUS
+Total Cash from Investing,"(6,745)",(579),"(4,125)","(12,715)","(19,386)",TMUS
+Financing Cash Flow Items,(161),(198),(173),(445),(507),TMUS
+Total Cash Dividends Paid,(55),0,0,--,--,TMUS
+Sale/Issuance of Common,--,--,--,"19,840",0,TMUS
+Repurch/Retirement Common,(427),"(1,071)",0,"(19,536)",0,TMUS
+"Iss (Retirmnt) of Stock,Net",(427),"(1,071)",0,304,0,TMUS
+Short Term Debt Issued,--,--,--,"18,743",0,TMUS
+Short Term Debt Reduction,--,--,--,"(18,929)",0,TMUS
+"Short Term Debt, Net",(300),(300),(775),(667),(184),TMUS
+Long Term Debt Issued,"13,390","8,759","2,340","35,337","14,727",TMUS
+Long Term Debt Reduction,"(13,814)","(10,526)","(3,766)","(21,519)","(12,327)",TMUS
+"Long Term Debt, Net",(424),"(1,767)","(1,426)","13,818","2,400",TMUS
+"Iss (Retirmnt) of Debt, Net",(724),"(2,067)","(2,201)","13,151","2,216",TMUS
+Total Cash From Financing,"(1,367)","(3,336)","(2,374)","13,010","1,709",TMUS
+Net Change in Cash,"(4,281)",(16),325,"8,935","(3,760)",TMUS
+NetCash-BeginBal/RsvdforFutUse,"5,500","1,219","1,203","1,528","10,463",TMUS
+NetCash-EndBal/RsrvforFutUse,"1,219","1,203","1,528","10,463","6,703",TMUS
+"Depreciation, Supplemental","5,984","6,486","6,616","14,151","16,383",TMUS

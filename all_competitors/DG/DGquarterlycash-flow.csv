@@ -1,0 +1,27 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Net Income,"2,399",553,"1,231","1,757",DG
+Depreciation/Depletion,641,173,350,533,DG
+Deferred Taxes,114,82,81,167,DG
+Non-Cash Items,269,96,256,423,DG
+Inventories,(550),(539),"(1,529)","(1,885)",DG
+Prepaid Expenses,(47),(34),(87),(82),DG
+Accounts Payable,99,172,622,377,DG
+Accrued Expenses,(37),(116),22,54,DG
+Changes in Working Capital,(558),(453),(970),"(1,631)",DG
+Total Cash from Operations,"2,866",450,948,"1,248",DG
+Capital Expenditures,"(1,070)",(282),(659),"(1,078)",DG
+"OtherInvestCashFlowItms,Tot",5,1,2,2,DG
+Total Cash from Investing,"(1,066)",(281),(657),"(1,076)",DG
+Financing Cash Flow Items,62,(8),(2),15,DG
+Total Cash Dividends Paid,(392),(125),(249),(372),DG
+"Iss (Retirmnt) of Stock,Net","(2,550)",(747),"(1,095)","(1,642)",DG
+"Short Term Debt, Net",54,705,"1,041",457,DG
+Long Term Debt Issued,0,--,--,"2,296",DG
+Long Term Debt Reduction,(6),(3),(5),(908),DG
+"Long Term Debt, Net",(6),(3),(5),"1,388",DG
+"Iss (Retirmnt) of Debt, Net",48,702,"1,037","1,845",DG
+Total Cash From Financing,"(2,832)",(178),(310),(154),DG
+Net Change in Cash,"(1,032)",(9),(19),18,DG
+NetCash-BeginBal/RsvdforFutUse,"1,377",345,345,345,DG
+NetCash-EndBal/RsrvforFutUse,345,336,326,363,DG
+"Depreciation, Supplemental",641,173,350,533,DG

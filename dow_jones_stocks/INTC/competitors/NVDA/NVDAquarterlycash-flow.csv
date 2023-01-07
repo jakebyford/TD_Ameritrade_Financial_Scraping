@@ -1,0 +1,35 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Net Income,"9,752","1,618","2,274","2,954",NVDA
+Depreciation/Depletion,"1,174",334,712,"1,118",NVDA
+Deferred Taxes,(406),(542),(985),"(1,517)",NVDA
+Unusual Items,(100),"1,370","1,377","1,388",NVDA
+Other Non-Cash Items,"2,051",601,"1,244","1,944",NVDA
+Non-Cash Items,"1,951","1,971","2,621","3,332",NVDA
+"Cash Taxes Pd, Supplemental",--,--,"1,108","1,372",NVDA
+Accounts Receivable,"(2,215)",(788),(668),(258),NVDA
+Inventories,(774),(560),"(1,285)","(1,848)",NVDA
+Prepaid Expenses,"(1,715)","(1,261)","(1,554)","(1,307)",NVDA
+Accounts Payable,568,255,559,(358),NVDA
+Accrued Expenses,581,634,"1,267","1,175",NVDA
+Changes in Working Capital,"(3,363)","(1,650)","(1,621)","(2,494)",NVDA
+Total Cash from Operations,"9,108","1,731","3,001","3,393",NVDA
+Capital Expenditures,(976),(361),(794),"(1,324)",NVDA
+Acquisition of Business,(263),(36),(49),(49),NVDA
+Sale/Maturity of Investment,"16,220","6,976","12,714","18,598",NVDA
+"Investment, Net",(24),(35),(65),(83),NVDA
+Purchase of Investments,"(24,787)","(3,932)","(7,576)","(9,764)",NVDA
+"OtherInvestCashFlowItms,Tot","(8,854)","2,973","5,024","8,702",NVDA
+Total Cash from Investing,"(9,830)","2,612","4,230","7,378",NVDA
+Financing Cash Flow Items,"(1,994)",(554),(872),"(1,184)",NVDA
+Total Cash Dividends Paid,(399),(100),(200),(300),NVDA
+Sale/Issuance of Common,281,204,205,349,NVDA
+Repurch/Retirement Common,--,"(1,996)","(5,341)","(8,826)",NVDA
+"Iss (Retirmnt) of Stock,Net",281,"(1,792)","(5,136)","(8,477)",NVDA
+Long Term Debt Issued,"4,977",--,0,0,NVDA
+Long Term Debt Reduction,"(1,000)",--,--,0,NVDA
+"Iss (Retirmnt) of Debt, Net","3,977",--,0,0,NVDA
+Total Cash From Financing,"1,865","(2,446)","(6,208)","(9,961)",NVDA
+Net Change in Cash,"1,143","1,897","1,023",810,NVDA
+NetCash-BeginBal/RsvdforFutUse,847,"1,990","1,990","1,990",NVDA
+NetCash-EndBal/RsrvforFutUse,"1,990","3,887","3,013","2,800",NVDA
+"Depreciation, Supplemental","1,174",334,712,"1,118",NVDA

@@ -1,0 +1,45 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"6,009","5,666","5,718","5,872",MCD
+"Cost of Revenue, Total","2,748","2,616","2,416","2,426",MCD
+"Sell/Gen/AdminExpenses,Tot",755,584,611,576,MCD
+Depreciation/Amortization,87,93,93,93,MCD
+"Inter/Invest Inc, Operating",(50),(31),(20),(37),MCD
+Other Unusual Expnse (In),41,621,911,(18),MCD
+Unusual Expense (Income),72,592,943,50,MCD
+Loss(Gain)/Sale Asts (Oper),32,(30),32,68,MCD
+"Other, Net",0,--,--,--,MCD
+"Other Operat Expse, Total",0,--,--,--,MCD
+Total Operating Expense,"3,612","3,853","4,044","3,108",MCD
+Total Operating Income,"2,397","1,813","1,675","2,764",MCD
+"Inter Expse,Net Non-Operat",(296),(287),(291),(306),MCD
+"Inter Income, Non-Operating",3,3,5,11,MCD
+"Invest Income, Non-Operat",5,11,27,50,MCD
+"Inter/Invest Inc, Non-Oper",8,14,32,61,MCD
+OtherNon-OperatInc (Expnse),(2),2,(7),17,MCD
+"Other, Net",(2),2,(7),17,MCD
+Income Before Tax,"2,108","1,541","1,409","2,536",MCD
+Income Tax - Total,469,437,221,555,MCD
+Income After Tax,"1,639","1,104","1,188","1,982",MCD
+Net Inc Before Extra Items,"1,639","1,104","1,188","1,982",MCD
+Total Net Income,"1,639","1,104","1,188","1,982",MCD
+Income Available to Common Excl. Extra. Items,"1,639","1,104","1,188","1,982",MCD
+Income Available to Common Incl. Extra. Items,"1,639","1,104","1,188","1,982",MCD
+Basic/Primary Weighted Average Shares,746,743,738,735,MCD
+Basic/Primary EPS Excl. Extra. Items,2.20,1.49,1.61,2.70,MCD
+Basic/Primary EPS Incl. Extra. Items,2.20,1.49,1.61,2.70,MCD
+Diluted Weighted Average Shares,752,748,742,740,MCD
+Diluted EPS Excl. Extra. Items,2.18,1.48,1.60,2.68,MCD
+Diluted EPS Incl. Extra. Items,2.18,1.48,1.60,2.68,MCD
+Div/Share-ComStockPrimIssue,1.38,1.38,1.38,1.38,MCD
+Gross Divid - Common Stock,2,"1,025","1,017","1,015",MCD
+Pro Forma Net Income,--,--,--,--,MCD
+"Interest Expense, Suppl",296,287,291,306,MCD
+"Depreciat/Amort, Suppl",482,480,462,466,MCD
+Total Special Items,72,592,943,50,MCD
+Normalzd Income Before Tax,"2,180","2,133","2,352","2,586",MCD
+Efct/SpecItemsIncTxs (STEC),16,168,148,11,MCD
+IncTxsExcl ImpctofSpec Itms,485,605,369,565,MCD
+Normalized Income After Tax,"1,695","1,528","1,983","2,021",MCD
+Normalzd Inc Avail to Common,"1,695","1,528","1,983","2,021",MCD
+Basic Normalized EPS,2.27,2.06,2.69,2.75,MCD
+Diluted Normalized EPS,2.26,2.04,2.67,2.73,MCD

@@ -1,0 +1,50 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"3,771",765,"1,629","2,017",BK
+Depreciation/Depletion,"1,867",437,859,"1,255",BK
+Deferred Taxes,257,36,145,255,BK
+Unusual Items,--,--,--,680,BK
+Other Non-Cash Items,(18),7,11,11,BK
+Non-Cash Items,(18),7,11,691,BK
+"Cash Taxes Pd, Supplemental",431,120,224,312,BK
+"Cash Interest Pd, Suppl",233,107,374,"1,355",BK
+Loan Loss Provision,(231),2,49,19,BK
+Other Assets,"(1,898)","2,251","6,730","6,945",BK
+Changes in Working Capital,"(3,039)","2,184","5,775","7,926",BK
+Total Cash from Operations,"2,838","3,429","8,419","12,144",BK
+Capital Expenditures,"(1,215)",(271),(871),(989),BK
+Acquisition of Business,(170),--,--,--,BK
+Sale of Business,8,0,0,51,BK
+Sale of Fixed Assets,34,45,45,45,BK
+Sale/Maturity of Investment,"56,752","13,970","22,834","31,174",BK
+"Investment, Net","1,404","2,493","6,641","6,133",BK
+Purchase of Investments,"(63,160)","(12,201)","(22,358)","(28,151)",BK
+Loans,"24,949","(37,298)","(30,379)","(11,766)",BK
+Other Investing Cash Flow,"1,070",(639),(507),"(1,747)",BK
+"OtherInvestCashFlowItms,Tot","20,887","(33,630)","(23,724)","(4,261)",BK
+Total Cash from Investing,"19,672","(33,901)","(24,595)","(5,250)",BK
+Deposits,"(17,896)","27,557","13,036","(8,202)",BK
+Fed. Funds/REPOs,418,"1,618",(60),(129),BK
+Other Financing Cash Flow,123,"1,647",865,"(1,120)",BK
+Financing Cash Flow Items,"(17,355)","30,822","13,841","(9,451)",BK
+Cash Divids Paid - Common,"(1,126)",(278),(557),(860),BK
+Cash Divs Paid - Preferred,(197),(74),(108),(177),BK
+Total Cash Dividends Paid,"(1,323)",(352),(665),"(1,037)",BK
+Sale/Issuance of Common,13,130,6,10,BK
+Repurch/Retirement Common,"(4,567)",(118),(121),(122),BK
+"Common Stock, Net","(4,554)",12,(115),(112),BK
+Sale/Issuance of Preferred,"1,287",--,--,--,BK
+Repurch/Retirement Preferd,"(1,000)",--,--,--,BK
+"Preferred Stock, Net",287,--,--,--,BK
+Options Exercised,50,9,9,9,BK
+"Iss (Retirmnt) of Stock,Net","(4,217)",21,(106),(103),BK
+"Short Term Debt, Net",397,(441),(202),(347),BK
+Long Term Debt Issued,"5,186","1,295","4,939","6,684",BK
+Long Term Debt Reduction,"(4,650)","(1,250)","(2,250)","(3,250)",BK
+"Long Term Debt, Net",536,45,"2,689","3,434",BK
+"Iss (Retirmnt) of Debt, Net",933,(396),"2,487","3,087",BK
+Total Cash From Financing,"(21,962)","30,095","15,557","(7,504)",BK
+Foreign Exchange Effects,(84),38,362,327,BK
+Net Change in Cash,464,(339),(257),(283),BK
+NetCash-BeginBal/RsvdforFutUse,"9,419","9,883","9,883","9,883",BK
+NetCash-EndBal/RsrvforFutUse,"9,883","9,544","9,626","9,600",BK
+"Depreciation, Supplemental","1,867",437,859,"1,255",BK

@@ -1,0 +1,47 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash and Short Term Invs,71,81,52,37,PZZA
+"Trade Accts Recvble, Gross",84,86,93,103,PZZA
+Prov. for Doubtful Accts,(2),(5),(5),(7),PZZA
+"Trade Accts Recvble, Net",81,81,87,96,PZZA
+Notes Recvble - Short Term,12,9,8,8,PZZA
+Other Receivables,9,11,4,11,PZZA
+"Total Receivables, Net",103,101,100,114,PZZA
+Total Inventory,35,39,38,42,PZZA
+Prepaid Expenses,46,46,50,47,PZZA
+"Other Curr. Assets, Total",--,19,--,--,PZZA
+Total Current Assets,255,286,240,240,PZZA
+Prop./Plant/Equip. - Net,421,414,421,421,PZZA
+"Goodwill, Net",81,72,71,69,PZZA
+Note Rcvble - Long Term,36,23,20,17,PZZA
+Other Long Term Assets,88,84,77,77,PZZA
+Total Assets,886,886,836,830,PZZA
+Accounts Payable,28,35,41,44,PZZA
+Accrued Expenses,213,177,168,175,PZZA
+Notes Payable/ST Debt,0,0,0,0,PZZA
+Curr. Port. LT Dbt/Cap Ls.,5,5,5,6,PZZA
+Customer Advances,22,20,20,20,PZZA
+Income Taxes Payable,20,28,17,18,PZZA
+Discontinued Operations,--,13,--,--,PZZA
+"Other Curr. Lblts, Total",42,61,37,38,PZZA
+Total Current Liabilities,287,279,250,264,PZZA
+Long Term Debt,481,528,536,549,PZZA
+Capital Lease Obligations,17,16,14,17,PZZA
+Total Long Term Debt,497,544,551,566,PZZA
+Total Debt,502,549,556,572,PZZA
+Deferred Income Tax,0,0,0,0,PZZA
+Minority Interest,21,21,17,17,PZZA
+"Other Liabilities, Total",268,266,267,257,PZZA
+Total Liabilities,"1,073","1,110","1,086","1,104",PZZA
+"Pref. Stock-Non Rdmbl, Net",0,--,--,--,PZZA
+Common Stock,0,0,0,0,PZZA
+Additional Paid-In Capital,445,436,442,445,PZZA
+Ret. Earn.(Accum. Deficit),183,181,194,187,PZZA
+Treasury Stock - Common,(806),(833),(875),(893),PZZA
+Cum. Trans. Adjustment,(5),(6),(9),(12),PZZA
+Other Comprehensive Income,(5),(4),(2),(1),PZZA
+"Other Equity, Total",(10),(9),(11),(14),PZZA
+Total Equity,(188),(224),(250),(274),PZZA
+Total Liabilities & Shareholders’ Equity,886,886,836,830,PZZA
+Ttl Comm. Shares Outs.,36,36,35,35,PZZA
+Trsy. Shrs-Comm. Primary Iss.,13,13,14,14,PZZA
+Trsry Shrs-Pref. Iss. 1,0,--,--,--,PZZA

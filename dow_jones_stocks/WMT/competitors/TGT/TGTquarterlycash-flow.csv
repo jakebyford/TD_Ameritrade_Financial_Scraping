@@ -1,0 +1,35 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Net Income,"6,946","1,009","1,192","1,904",TGT
+Depreciation/Depletion,"2,642",679,"1,329","2,004",TGT
+Deferred Taxes,522,115,227,548,TGT
+Discontinued Operations,0,--,--,--,TGT
+Unusual Items,(268),52,108,141,TGT
+Other Non-Cash Items,228,83,122,177,TGT
+Non-Cash Items,(40),135,230,318,TGT
+Inventories,"(3,249)","(1,181)","(1,418)","(3,215)",TGT
+Other Assets,(78),(86),(179),(205),TGT
+Accounts Payable,"2,628","(1,560)",(784),(224),TGT
+Accrued Expenses,(746),(505),(644),(578),TGT
+Changes in Working Capital,"(1,445)","(3,332)","(3,025)","(4,222)",TGT
+Total Cash from Operations,"8,625","(1,394)",(47),552,TGT
+Capital Expenditures,"(3,544)",(952),"(2,523)","(4,323)",TGT
+Sale of Business,356,0,0,0,TGT
+Sale of Fixed Assets,27,2,4,4,TGT
+"Investment, Net",7,2,1,16,TGT
+"OtherInvestCashFlowItms,Tot",390,4,5,20,TGT
+Total Cash from Investing,"(3,154)",(948),"(2,518)","(4,303)",TGT
+Financing Cash Flow Items,--,"(2,750)",--,--,TGT
+Total Cash Dividends Paid,"(1,548)",(424),(842),"(1,339)",TGT
+"Common Stock, Net","(7,356)",(181),"(2,821)","(2,825)",TGT
+Options Exercised,8,1,2,2,TGT
+"Iss (Retirmnt) of Stock,Net","(7,348)",(180),"(2,819)","(2,823)",TGT
+"Short Term Debt, Net",--,945,"1,545","2,104",TGT
+Long Term Debt Issued,"1,972",--,--,991,TGT
+Long Term Debt Reduction,"(1,147)",(48),(113),(139),TGT
+"Long Term Debt, Net",825,(48),(113),852,TGT
+"Iss (Retirmnt) of Debt, Net",825,897,"1,432","2,956",TGT
+Total Cash From Financing,"(8,071)","(2,457)","(2,229)","(1,206)",TGT
+Net Change in Cash,"(2,600)","(4,799)","(4,794)","(4,957)",TGT
+NetCash-BeginBal/RsvdforFutUse,"8,511","5,911","5,911","5,911",TGT
+NetCash-EndBal/RsrvforFutUse,"5,911","1,112","1,117",954,TGT
+"Depreciation, Supplemental","2,642",679,"1,329","2,004",TGT

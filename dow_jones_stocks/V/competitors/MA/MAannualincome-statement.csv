@@ -1,0 +1,43 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"12,497","14,950","16,883","15,301","18,884",MA
+Selling/Gen/Admin Expense,"1,658","2,049","2,155","2,114","2,547",MA
+Labor & Related Expense,"2,687","3,214","3,537","3,787","4,489",MA
+Advertising Expense,898,907,934,657,895,MA
+"Sell/Gen/AdminExpenses,Tot","5,243","6,170","6,626","6,558","7,931",MA
+Depreciation/Amortization,436,459,522,580,726,MA
+"Inter/Invest Inc, Operating",181,(89),71,9,51,MA
+Litigation,15,"1,128",0,73,94,MA
+Unusual Expense (Income),15,"1,128",0,73,94,MA
+Total Operating Expense,"5,875","7,668","7,219","7,220","8,802",MA
+Total Operating Income,"6,622","7,282","9,664","8,081","10,082",MA
+"Inter Expse,Net Non-Operat",(154),(186),(224),(380),(431),MA
+"Inter/Invest Inc, Non-Oper",56,122,264,54,656,MA
+OtherNon-OperatInc (Expnse),(2),(14),27,5,0,MA
+"Other, Net",(2),(14),27,5,0,MA
+Income Before Tax,"6,522","7,204","9,731","7,760","10,307",MA
+Income Tax - Total,"1,734","1,420","1,640","1,349","1,620",MA
+Income After Tax,"4,788","5,784","8,091","6,411","8,687",MA
+Net Inc Before Extra Items,"4,788","5,784","8,091","6,411","8,687",MA
+Total Extraordinary Items,(873),75,27,--,--,MA
+Total Net Income,"3,915","5,859","8,118","6,411","8,687",MA
+Income Available to Common Excl. Extra. Items,"4,788","5,784","8,091","6,411","8,687",MA
+Income Available to Common Incl. Extra. Items,"3,915","5,859","8,118","6,411","8,687",MA
+Basic/Primary Weighted Average Shares,"1,067","1,041","1,017","1,002",988,MA
+Basic/Primary EPS Excl. Extra. Items,4.49,5.56,7.96,6.40,8.79,MA
+Basic/Primary EPS Incl. Extra. Items,3.67,5.63,7.98,6.40,8.79,MA
+Diluted Weighted Average Shares,"1,072","1,047","1,022","1,006",992,MA
+Diluted EPS Excl. Extra. Items,4.47,5.52,7.92,6.37,8.76,MA
+Diluted EPS Incl. Extra. Items,3.65,5.60,7.94,6.37,8.76,MA
+Div/Share-ComStockPrimIssue,0.88,1.00,1.32,1.60,1.76,MA
+Gross Divid - Common Stock,969,"1,123","1,408","1,641","1,781",MA
+Pro Forma Net Income,--,--,--,--,--,MA
+"Interest Expense, Suppl",154,186,224,380,431,MA
+"Depreciat/Amort, Suppl",185,209,336,277,302,MA
+Total Special Items,182,"1,128",0,73,94,MA
+Normalzd Income Before Tax,"6,704","8,332","9,731","7,833","10,401",MA
+Efct/SpecItemsIncTxs (STEC),48,222,0,13,15,MA
+IncTxsExcl ImpctofSpec Itms,"1,782","1,642","1,640","1,362","1,635",MA
+Normalized Income After Tax,"4,922","6,690","8,091","6,471","8,766",MA
+Normalzd Inc Avail to Common,"4,922","6,690","8,091","6,471","8,766",MA
+Basic Normalized EPS,4.61,6.43,7.96,6.46,8.87,MA
+Diluted Normalized EPS,4.59,6.39,7.92,6.43,8.84,MA

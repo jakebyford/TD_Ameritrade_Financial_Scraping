@@ -1,0 +1,38 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"124,955","11,427","37,157","45,621",PZZA
+Depreciation/Depletion,"48,816","11,940","24,674","38,012",PZZA
+Deferred Taxes,"3,753","(1,817)","(2,993)",519,PZZA
+Unusual Items,--,"11,160","11,160","12,065",PZZA
+Other Non-Cash Items,"16,648","17,208","22,587","32,356",PZZA
+Non-Cash Items,"16,648","28,368","33,747","44,421",PZZA
+Accounts Receivable,"(4,090)","(3,654)","(3,808)","(20,730)",PZZA
+Inventories,"(4,708)","(4,731)","(3,815)","(8,185)",PZZA
+Prepaid Expenses,"2,866",77,"(3,901)","2,065",PZZA
+Accounts Payable,"(9,278)","7,359","12,742","16,188",PZZA
+Accrued Expenses,"15,875","(29,469)","(37,456)","(32,404)",PZZA
+Changes in Working Capital,"(9,497)","(24,524)","(47,000)","(52,020)",PZZA
+Total Cash from Operations,"184,675","25,394","45,585","76,553",PZZA
+Capital Expenditures,"(68,559)","(10,233)","(30,744)","(48,424)",PZZA
+Acquisition of Business,(699),"(1,250)","(1,250)","(1,346)",PZZA
+"Intangible, Net",--,--,"13,588","13,588",PZZA
+Other Investing Cash Flow,"5,746","3,168","5,883","5,953",PZZA
+"OtherInvestCashFlowItms,Tot","5,047","1,918","18,221","18,195",PZZA
+Total Cash from Investing,"(63,512)","(8,315)","(12,523)","(30,229)",PZZA
+Financing Cash Flow Items,"(24,599)","(9,211)","(7,013)","(13,996)",PZZA
+Cash Divids Paid - Common,"(40,356)","(12,608)","(25,101)","(39,949)",PZZA
+Cash Divs Paid - Preferred,"(6,394)",0,0,0,PZZA
+Total Cash Dividends Paid,"(46,750)","(12,608)","(25,101)","(39,949)",PZZA
+"Common Stock, Net","(72,499)","(32,709)","(75,471)","(95,000)",PZZA
+"Preferred Stock, Net",0,--,--,--,PZZA
+Repurch/Retirmnt Common/Preferred,"(188,647)",--,0,0,PZZA
+Options Exercised,"11,969",741,"1,908","2,730",PZZA
+"Iss (Retirmnt) of Stock,Net","(249,177)","(31,968)","(73,563)","(92,270)",PZZA
+Long Term Debt Issued,"400,000",--,--,0,PZZA
+Long Term Debt Reduction,"(340,000)",0,0,0,PZZA
+"Iss (Retirmnt) of Debt, Net","140,000","47,000","55,000","66,999",PZZA
+Total Cash From Financing,"(180,526)","(6,787)","(50,677)","(79,216)",PZZA
+Foreign Exchange Effects,(231),(233),(871),"(1,100)",PZZA
+Net Change in Cash,"(59,594)","10,059","(18,486)","(33,992)",PZZA
+NetCash-BeginBal/RsvdforFutUse,"130,204","70,610","70,610","70,610",PZZA
+NetCash-EndBal/RsrvforFutUse,"70,610","80,669","52,124","36,618",PZZA
+"Depreciation, Supplemental","48,816","11,940","24,674","38,012",PZZA

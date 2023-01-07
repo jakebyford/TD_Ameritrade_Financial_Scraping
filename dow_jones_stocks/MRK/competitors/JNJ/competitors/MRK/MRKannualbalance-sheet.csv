@@ -1,0 +1,59 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"6,092","7,965","9,676","8,062","8,096",MRK
+Short Term Investments,"2,406",899,774,0,--,MRK
+Cash and Short Term Invs,"8,498","8,864","10,450","8,062","8,096",MRK
+"Trade Accts Recvble, Gross","7,083","7,190","6,864","7,936","9,292",MRK
+Prov. for Doubtful Accts,(210),(119),(86),(85),(62),MRK
+"Total Receivables, Net","6,873","7,071","6,778","7,851","9,230",MRK
+Invent. - Finished Goods,"1,334","1,658","1,772","1,963","1,747",MRK
+Invent. - Raw Materials,"4,703","5,004","5,650","6,420","6,220",MRK
+Inventories - Other,(986),"(1,223)","(1,273)","(1,991)","(1,998)",MRK
+LIFO Reserve,45,1,(171),(82),(16),MRK
+Total Inventory,"5,096","5,440","5,978","6,310","5,953",MRK
+"Other Curr. Assets, Total","4,299","4,500","4,277","5,541","6,987",MRK
+Total Current Assets,"24,766","25,875","27,483","27,764","30,266",MRK
+Buildings,"11,726","11,486","11,989","12,645","12,529",MRK
+Land/Improvements,365,333,343,350,326,MRK
+Machinery/Equipment,"14,649","14,441","15,394","16,649","16,303",MRK
+Construction in Progress,"2,301","3,355","5,013","7,324","8,313",MRK
+Other Prop./Plant/Equip.,--,--,"1,073",--,--,MRK
+Prop./Plant/Equip. - Gross,"29,041","29,615","33,812","36,968","37,471",MRK
+Accumulated Depreciation,"(16,602)","(16,324)","(17,686)","(18,982)","(18,192)",MRK
+Prop./Plant/Equip. - Net,"12,439","13,291","16,126","17,986","19,279",MRK
+"Goodwill, Net","18,284","18,253","19,425","20,238","21,264",MRK
+Intangibles - Gross,"50,131","50,291","55,324","57,597","42,438",MRK
+Accum. Intangible Amort.,"(35,948)","(38,860)","(41,128)","(42,993)","(19,505)",MRK
+Intangibles - Net,"14,183","11,431","14,196","14,604","22,933",MRK
+LT Invt. - Affiliate Comp.,767,--,--,--,--,MRK
+LT Investments - Other,"12,125","6,233","1,889","1,371",966,MRK
+Long Term Investments,"12,892","6,233","1,889","1,371",966,MRK
+Other Long Term Assets,"5,308","7,554","5,278","9,625","10,986",MRK
+Total Assets,"87,872","82,637","84,397","91,588","105,694",MRK
+Accounts Payable,"3,102","3,318","3,738","4,594","4,609",MRK
+Accrued Expenses,"10,263","10,073","12,453","13,053","13,859",MRK
+Notes Payable/ST Debt,0,0,0,0,0,MRK
+Curr. Port. LT Dbt/Cap Ls.,"3,057","5,308","3,610","6,431","2,412",MRK
+Dividends Payable,"1,320","1,458","1,587","1,674","1,768",MRK
+Income Taxes Payable,708,"1,971",736,"1,575","1,224",MRK
+Other Current Liabilities,164,78,96,--,--,MRK
+"Other Curr. Lblts, Total","2,192","3,507","2,419","3,249","2,992",MRK
+Total Current Liabilities,"18,614","22,206","22,220","27,327","23,872",MRK
+Total Long Term Debt,"21,353","19,806","22,736","25,360","30,690",MRK
+Total Debt,"24,410","25,114","26,346","31,791","33,102",MRK
+Deferred Income Tax,"2,219","1,702","1,470","1,015","3,441",MRK
+Minority Interest,233,181,94,87,73,MRK
+"Other Liabilities, Total","11,117","12,041","11,970","12,482","9,434",MRK
+Total Liabilities,"53,536","55,936","58,490","66,271","67,510",MRK
+Common Stock,"1,788","1,788","1,788","1,788","1,788",MRK
+Additional Paid-In Capital,"39,902","38,808","39,660","39,588","44,238",MRK
+Ret. Earn.(Accum. Deficit),"41,350","42,579","46,602","47,362","53,696",MRK
+Treasury Stock - Common,"(43,794)","(50,929)","(55,950)","(56,787)","(57,109)",MRK
+Unrealized Gain (Loss),(61),(78),18,0,0,MRK
+Cum. Trans. Adjustment,"(1,954)","(2,077)","(1,981)","(1,828)","(1,830)",MRK
+Min. Pension Lblty Adj.,"(2,787)","(3,556)","(4,261)","(4,540)","(2,743)",MRK
+Other Comprehensive Income,(108),166,31,(266),144,MRK
+"Other Equity, Total","(4,849)","(5,467)","(6,211)","(6,634)","(4,429)",MRK
+Total Equity,"34,336","26,701","25,907","25,317","38,184",MRK
+Total Liabilities & Shareholders’ Equity,"87,872","82,637","84,397","91,588","105,694",MRK
+Ttl Comm. Shares Outs.,"2,697","2,593","2,539","2,530","2,528",MRK
+Trsy. Shrs-Comm. Primary Iss.,880,985,"1,038","1,047","1,049",MRK

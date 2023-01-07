@@ -1,0 +1,37 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"3,861","3,962","4,454","3,533","8,539",CB
+Amortization,260,339,305,290,287,CB
+Deferred Taxes,(527),16,(97),(333),(74),CB
+Equity in Net Earnings/Loss,--,--,--,--,"(2,433)",CB
+Other Non-Cash Items,694,592,395,367,332,CB
+Non-Cash Items,694,592,395,367,"(2,101)",CB
+"Cash Taxes Pd, Supplemental",736,503,912,902,"1,298",CB
+"Cash Interest Pd, Suppl",644,621,512,524,492,CB
+Accounts Payable,"2,408","1,292",(559),"5,199","6,373",CB
+Payable/Accrued,(517),375,(207),(98),536,CB
+Changes in Working Capital,215,571,"1,285","5,928","4,498",CB
+Total Cash from Operations,"4,503","5,480","6,342","9,785","11,149",CB
+Acquisition of Business,--,--,(29),0,0,CB
+Sale of Business,0,0,--,--,--,CB
+Sale/Maturity of Investment,"25,830","23,801","25,102","29,609","28,360",CB
+"Investment, Net",(802),532,"(1,820)",(194),956,CB
+Purchase of Investments,"(26,920)","(26,735)","(27,921)","(36,466)","(35,638)",CB
+Other Investing Cash Flow,(530),(533),"(1,237)",(470),(337),CB
+Total Cash from Investing,"(2,422)","(2,935)","(5,905)","(7,521)","(6,659)",CB
+Financing Cash Flow Items,135,95,211,(3),(23),CB
+Total Cash Dividends Paid,"(1,308)","(1,337)","(1,354)","(1,388)","(1,401)",CB
+Sale/Issuance of Common,151,115,204,145,300,CB
+Repurch/Retirement Common,(801),"(1,044)","(1,530)",(523),"(4,861)",CB
+"Iss (Retirmnt) of Stock,Net",(650),(929),"(1,326)",(378),"(4,561)",CB
+Short Term Debt Issued,"2,353","2,029","2,817","2,354","1,858",CB
+Short Term Debt Reduction,"(2,348)","(2,019)","(2,817)","(2,354)","(1,858)",CB
+"Short Term Debt, Net",5,10,0,0,0,CB
+Long Term Debt Issued,0,"2,171","2,828",988,"1,576",CB
+Long Term Debt Reduction,(501),"(2,001)",(510),"(1,301)",0,CB
+"Long Term Debt, Net",(501),170,"2,318",(313),"1,576",CB
+"Iss (Retirmnt) of Debt, Net",(496),180,"2,318",(313),"1,576",CB
+Total Cash From Financing,"(2,319)","(1,991)",(151),"(2,082)","(4,409)",CB
+Foreign Exchange Effects,1,(65),20,8,(106),CB
+Net Change in Cash,(237),489,306,190,(25),CB
+NetCash-BeginBal/RsvdforFutUse,"1,088",851,"1,340","1,646","1,836",CB
+NetCash-EndBal/RsrvforFutUse,851,"1,340","1,646","1,836","1,811",CB

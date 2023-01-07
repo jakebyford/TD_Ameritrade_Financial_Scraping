@@ -1,0 +1,47 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"49,330","51,904","49,301","49,818","51,557",CSCO
+"Cost of Revenue, Total","18,724","19,238","17,618","17,924","19,309",CSCO
+Selling/Gen/Admin Expense,"10,378","10,404","10,171","10,817","10,133",CSCO
+Labor & Related Expense,801,831,740,306,785,CSCO
+Advertising Expense,166,204,187,268,219,CSCO
+"Sell/Gen/AdminExpenses,Tot","11,345","11,439","11,098","11,391","11,137",CSCO
+Research & Development,"6,332","6,577","6,347","6,549","6,774",CSCO
+Depreciation/Amortization,221,150,141,215,313,CSCO
+Restructuring Charge,358,260,456,860,5,CSCO
+Other Unusual Expnse (In),41,21,21,46,50,CSCO
+Unusual Expense (Income),399,281,477,906,55,CSCO
+Total Operating Expense,"37,021","37,685","35,681","36,985","37,588",CSCO
+Total Operating Income,"12,309","14,219","13,620","12,833","13,969",CSCO
+"Inter Expse,Net Non-Operat",(942),(866),(585),(434),(360),CSCO
+"Inter Income, Non-Operating","1,508","1,308",920,618,476,CSCO
+"Invest Income, Non-Operat",258,(76),132,325,457,CSCO
+"Inter/Invest Inc, Non-Oper","1,766","1,232","1,052",943,933,CSCO
+OtherNon-OperatInc (Expnse),(94),(14),(117),(80),(65),CSCO
+"Other, Net",(94),(14),(117),(80),(65),CSCO
+Income Before Tax,"13,039","14,571","13,970","13,262","14,477",CSCO
+Income Tax - Total,"2,529","2,078","2,756","2,671","2,665",CSCO
+Income After Tax,"10,510","12,493","11,214","10,591","11,812",CSCO
+Net Inc Before Extra Items,"10,510","12,493","11,214","10,591","11,812",CSCO
+Total Extraordinary Items,"(10,400)",(872),--,--,--,CSCO
+Total Net Income,110,"11,621","11,214","10,591","11,812",CSCO
+Income Available to Common Excl. Extra. Items,"10,510","12,493","11,214","10,591","11,812",CSCO
+Income Available to Common Incl. Extra. Items,110,"11,621","11,214","10,591","11,812",CSCO
+Basic/Primary Weighted Average Shares,"4,837","4,419","4,236","4,222","4,170",CSCO
+Basic/Primary EPS Excl. Extra. Items,2.17,2.83,2.65,2.51,2.83,CSCO
+Basic/Primary EPS Incl. Extra. Items,0.02,2.63,2.65,2.51,2.83,CSCO
+Diluted Weighted Average Shares,"4,881","4,453","4,254","4,236","4,192",CSCO
+Diluted EPS Excl. Extra. Items,2.15,2.81,2.64,2.50,2.82,CSCO
+Diluted EPS Incl. Extra. Items,0.02,2.61,2.64,2.50,2.82,CSCO
+Div/Share-ComStockPrimIssue,1.20,1.34,1.41,1.45,1.49,CSCO
+Gross Divid - Common Stock,"5,968","5,979","6,016","6,166","6,224",CSCO
+Pro Forma Net Income,--,--,--,--,--,CSCO
+"Interest Expense, Suppl",942,866,585,434,360,CSCO
+"Depreciat/Amort, Suppl","1,331","1,123","1,008",931,895,CSCO
+Total Special Items,400,281,542,906,70,CSCO
+Normalzd Income Before Tax,"13,439","14,852","14,512","14,168","14,547",CSCO
+Efct/SpecItemsIncTxs (STEC),78,40,107,182,13,CSCO
+IncTxsExcl ImpctofSpec Itms,"2,607","2,118","2,863","2,853","2,678",CSCO
+Normalized Income After Tax,"10,832","12,734","11,649","11,315","11,869",CSCO
+Normalzd Inc Avail to Common,"10,832","12,734","11,649","11,315","11,869",CSCO
+Basic Normalized EPS,2.24,2.88,2.75,2.68,2.85,CSCO
+Diluted Normalized EPS,2.22,2.86,2.74,2.67,2.83,CSCO

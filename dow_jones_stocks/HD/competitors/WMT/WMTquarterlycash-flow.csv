@@ -1,0 +1,34 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Net Income,"13,940","2,103","7,250","5,483",WMT
+Depreciation/Depletion,"10,658","2,680","5,379","8,134",WMT
+Deferred Taxes,(755),(69),111,28,WMT
+Unusual Items,"5,283","1,989","1,988","5,611",WMT
+Other Non-Cash Items,"1,652",(59),244,921,WMT
+Non-Cash Items,"6,935","1,930","2,232","6,532",WMT
+Accounts Receivable,"(1,796)",837,874,(59),WMT
+Inventories,"(11,764)","(4,699)","(3,730)","(9,008)",WMT
+Accounts Payable,"5,520","(1,640)",(453),"3,183",WMT
+Accrued Expenses,"1,404","(4,949)","(2,439)","1,354",WMT
+Changes in Working Capital,"(4,749)","(10,402)","(5,732)","(4,479)",WMT
+Total Cash from Operations,"26,029","(3,758)","9,240","15,698",WMT
+Capital Expenditures,"(13,106)","(3,539)","(7,492)","(12,061)",WMT
+Acquisition of Business,(359),(598),(616),(730),WMT
+Sale of Business,"7,935",0,0,0,WMT
+Sale of Fixed Assets,394,35,72,126,WMT
+Other Investing Cash Flow,(879),(456),(548),(300),WMT
+"OtherInvestCashFlowItms,Tot","7,091","(1,019)","(1,092)",(904),WMT
+Total Cash from Investing,"(6,015)","(4,558)","(8,584)","(12,965)",WMT
+Financing Cash Flow Items,"(1,017)",(803),"(1,363)","(2,254)",WMT
+Total Cash Dividends Paid,"(6,152)","(1,543)","(3,081)","(4,600)",WMT
+"Iss (Retirmnt) of Stock,Net","(9,787)","(2,408)","(5,747)","(8,708)",WMT
+"Short Term Debt, Net",193,"10,995","10,230","6,451",WMT
+Long Term Debt Issued,"6,945",--,--,"4,969",WMT
+Long Term Debt Reduction,"(13,010)",(926),"(1,439)","(1,439)",WMT
+"Long Term Debt, Net","(6,065)",(926),"(1,439)","3,530",WMT
+"Iss (Retirmnt) of Debt, Net","(5,872)","10,069","8,791","9,981",WMT
+Total Cash From Financing,"(22,828)","5,315","(1,400)","(5,581)",WMT
+Foreign Exchange Effects,(140),49,(100),(331),WMT
+Net Change in Cash,"(2,954)","(2,952)",(844),"(3,179)",WMT
+NetCash-BeginBal/RsvdforFutUse,"17,788","14,834","14,834","14,834",WMT
+NetCash-EndBal/RsrvforFutUse,"14,834","11,882","13,990","11,655",WMT
+"Depreciation, Supplemental","10,658","2,680","5,379","8,134",WMT

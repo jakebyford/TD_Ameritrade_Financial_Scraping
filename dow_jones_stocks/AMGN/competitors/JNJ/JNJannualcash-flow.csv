@@ -1,0 +1,42 @@
+items,2017,2018,2019,2021,2022,ticker
+Net Income,"1,300","15,297","15,119","14,714","20,878",JNJ
+Depreciation/Depletion,"5,642","6,929","7,009","7,231","7,390",JNJ
+Deferred Taxes,"2,406","(1,016)","(2,476)","(1,141)","(2,079)",JNJ
+Unusual Items,(512),41,"(1,058)",122,372,JNJ
+Other Non-Cash Items,979,947,957,(80),"1,087",JNJ
+Non-Cash Items,467,988,(101),42,"1,459",JNJ
+"Cash Taxes Pd, Supplemental","3,312","4,570","4,191","4,619","4,768",JNJ
+"Cash Interest Pd, Suppl",960,"1,049",995,904,990,JNJ
+Accounts Receivable,(633),"(1,185)",(289),774,"(2,402)",JNJ
+Inventories,581,(644),(277),(265),"(1,248)",JNJ
+Other Assets,(411),(275),"(1,054)","(3,704)","(1,964)",JNJ
+Payable/Accrued,"2,725","3,951","4,060","5,141","2,437",JNJ
+Changes in Working Capital,"11,241",3,"3,865","2,690","(4,238)",JNJ
+Total Cash from Operations,"21,056","22,201","23,416","23,536","23,410",JNJ
+Capital Expenditures,"(3,279)","(3,670)","(3,498)","(3,347)","(3,652)",JNJ
+Acquisition of Business,"(35,151)",(899),"(5,810)","(7,323)",(60),JNJ
+Sale of Fixed Assets,"1,832","3,203","3,265",305,711,JNJ
+Sale/Maturity of Investment,"28,117","4,289","3,387","12,137","25,006",JNJ
+"Investment, Net",--,--,338,(987),214,JNJ
+Purchase of Investments,"(6,153)","(5,626)","(3,920)","(21,089)","(30,394)",JNJ
+Other Investing Cash Flow,(234),(464),44,(521),(508),JNJ
+"OtherInvestCashFlowItms,Tot","(11,589)",503,"(2,696)","(17,478)","(5,031)",JNJ
+Total Cash from Investing,"(14,868)","(3,167)","(6,194)","(20,825)","(8,683)",JNJ
+Financing Cash Flow Items,(188),(148),575,(627),395,JNJ
+Total Cash Dividends Paid,"(8,943)","(9,494)","(9,917)","(10,481)","(11,032)",JNJ
+"Common Stock, Net","(6,358)","(5,868)","(6,746)","(3,221)","(3,456)",JNJ
+Options Exercised,"1,062",949,954,"1,114","1,036",JNJ
+"Iss (Retirmnt) of Stock,Net","(5,296)","(4,919)","(5,792)","(2,107)","(2,420)",JNJ
+Short Term Debt Issued,869,80,39,"3,391","1,997",JNJ
+Short Term Debt Reduction,"(1,330)","(2,479)",(100),"(2,663)","(1,190)",JNJ
+"Short Term Debt, Net",(461),"(2,399)",(61),728,807,JNJ
+Long Term Debt Issued,"8,992",5,3,"7,431",5,JNJ
+Long Term Debt Reduction,"(1,777)","(1,555)","(2,823)","(1,064)","(1,802)",JNJ
+"Long Term Debt, Net","7,215","(1,550)","(2,820)","6,367","(1,797)",JNJ
+"Iss (Retirmnt) of Debt, Net","6,754","(3,949)","(2,881)","7,095",(990),JNJ
+Total Cash From Financing,"(7,673)","(18,510)","(18,015)","(6,120)","(14,047)",JNJ
+Foreign Exchange Effects,337,(241),(9),89,(178),JNJ
+Net Change in Cash,"(1,148)",283,(802),"(3,320)",502,JNJ
+NetCash-BeginBal/RsvdforFutUse,"18,972","17,824","18,107","17,305","13,985",JNJ
+NetCash-EndBal/RsrvforFutUse,"17,824","18,107","17,305","13,985","14,487",JNJ
+"Depreciation, Supplemental","5,642","6,929","7,009","7,231","7,390",JNJ

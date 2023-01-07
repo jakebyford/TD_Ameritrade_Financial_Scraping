@@ -1,0 +1,63 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash & Equivalents,"5,016","6,127","8,415","8,168","7,890",ACN
+Short Term Investments,3,3,94,4,4,ACN
+Cash and Short Term Invs,"5,019","6,130","8,510","8,172","7,894",ACN
+"Total Receivables, Net","7,496","8,095","7,847","9,728","11,777",ACN
+Restricted Cash - Current,46,0,--,--,--,ACN
+Other Current Assets,"1,025","1,225","1,393","1,766","1,940",ACN
+"Other Curr. Assets, Total","1,070","1,226","1,393","1,766","1,940",ACN
+Total Current Assets,"13,586","15,451","17,750","19,667","21,611",ACN
+Buildings,"1,126","1,229","1,425","1,528","1,546",ACN
+Land/Improvements,0,0,0,0,6,ACN
+Machinery/Equipment,"1,626","1,724","1,978","2,052","2,155",ACN
+Other Prop./Plant/Equip.,374,395,"3,639","3,653","3,461",ACN
+Prop./Plant/Equip. - Gross,"3,126","3,347","7,043","7,234","7,168",ACN
+Accumulated Depreciation,"(1,862)","(1,956)","(2,314)","(2,412)","(2,490)",ACN
+Prop./Plant/Equip. - Net,"1,264","1,391","4,729","4,822","4,678",ACN
+"Goodwill, Net","5,383","6,206","7,710","11,126","13,133",ACN
+Intangibles - Gross,"1,136","1,340","1,682","2,515","2,971",ACN
+Accum. Intangible Amort.,(449),(499),(653),(804),"(1,040)",ACN
+Intangibles - Net,687,841,"1,029","1,711","1,931",ACN
+LT Invt. - Affiliate Comp.,--,--,240,184,164,ACN
+LT Investments - Other,216,240,84,145,154,ACN
+Long Term Investments,216,240,325,330,318,ACN
+Note Rcvble - Long Term,23,71,43,38,47,ACN
+Deferred Charges,705,681,723,731,808,ACN
+Def. Inc. Tax - LT Asset,"2,087","4,349","4,153","4,007","4,001",ACN
+Other Long Term Assets,499,560,617,744,737,ACN
+Total Assets,"24,449","29,790","37,079","43,176","47,263",ACN
+Accounts Payable,"1,349","1,647","1,350","2,274","2,559",ACN
+Accrued Expenses,"5,386","5,791","7,215","8,770","9,830",ACN
+Notes Payable/ST Debt,0,0,0,0,0,ACN
+Curr. Port. LT Dbt/Cap Ls.,5,6,8,12,9,ACN
+Customer Advances,"2,838","3,189","3,637","4,229","4,478",ACN
+Income Taxes Payable,498,378,454,423,646,ACN
+Other Current Liabilities,76,51,--,--,--,ACN
+"Other Curr. Lblts, Total","3,412","3,618","4,090","4,653","5,125",ACN
+Total Current Liabilities,"10,152","11,062","12,663","15,709","17,523",ACN
+Total Long Term Debt,20,16,54,53,46,ACN
+Total Debt,25,23,62,66,55,ACN
+Deferred Income Tax,126,133,180,244,319,ACN
+Minority Interest,360,419,499,568,641,ACN
+Pension Benefits - Underfunded,"1,411","1,766","1,859","2,016","1,692",ACN
+Other LT Liabilities,"2,017","1,985","4,824","5,057","4,936",ACN
+"Other Liabilities, Total","3,427","3,751","6,683","7,073","6,628",ACN
+Total Liabilities,"14,084","15,381","20,078","23,646","25,157",ACN
+Common Stock,0,0,0,0,0,ACN
+Additional Paid-In Capital,"4,871","5,804","7,167","8,618","10,679",ACN
+Ret. Earn.(Accum. Deficit),"7,952","10,422","12,376","13,989","18,204",ACN
+Treasury Stock - Common,"(2,117)","(1,388)","(2,566)","(3,408)","(6,678)",ACN
+Unrealized Gain (Loss),2,1,0,0,0,ACN
+Cum. Trans. Adjustment,"(1,075)","(1,208)","(1,010)",(975),"(1,852)",ACN
+Other Equity,"1,235","1,412","1,585","1,751","2,091",ACN
+Min. Pension Lblty Adj.,(419),(672),(615),(560),(349),ACN
+Other Comprehensive Income,(84),39,64,116,11,ACN
+"Other Equity, Total",(344),(429),24,331,(99),ACN
+Total Equity,"10,365","14,409","17,001","19,529","22,106",ACN
+Total Liabilities & Shareholders’ Equity,"24,449","29,790","37,079","43,176","47,263",ACN
+Shr Outs.-Com. Primary Iss.,639,636,634,632,631,ACN
+Shr Outs.-Com. Stk. Iss. 2,1,1,1,1,1,ACN
+Shr Outs.-Com. Stk. Iss. 3,0,0,0,0,0,ACN
+Ttl Comm. Shares Outs.,640,636,635,633,632,ACN
+Trsy. Shrs-Comm. Primary Iss.,24,19,24,25,33,ACN
+Trsy. Shrs-Comm. Iss. 3,0,0,0,0,0,ACN

@@ -1,0 +1,39 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"4,832","4,905","5,212","5,241",TXN
+"Cost of Revenue, Total","1,482","1,463","1,587","1,624",TXN
+"Sell/Gen/AdminExpenses,Tot",404,422,422,431,TXN
+Research & Development,389,391,414,431,TXN
+Depreciation/Amortization,0,0,0,0,TXN
+Unusual Expense (Income),54,66,66,77,TXN
+Total Operating Expense,"2,329","2,342","2,489","2,563",TXN
+Total Operating Income,"2,503","2,563","2,723","2,678",TXN
+"Inter Expse,Net Non-Operat",(49),(52),(49),(53),TXN
+OtherNon-OperatInc (Expnse),9,15,7,33,TXN
+"Other, Net",9,15,7,33,TXN
+Income Before Tax,"2,463","2,526","2,681","2,658",TXN
+Income Tax - Total,325,325,390,363,TXN
+Income After Tax,"2,138","2,201","2,291","2,295",TXN
+Net Inc Before Extra Items,"2,138","2,201","2,291","2,295",TXN
+Total Net Income,"2,138","2,201","2,291","2,295",TXN
+Total Adjust to Net Income,(9),(9),(10),(11),TXN
+Income Available to Common Excl. Extra. Items,"2,129","2,192","2,281","2,284",TXN
+Income Available to Common Incl. Extra. Items,"2,129","2,192","2,281","2,284",TXN
+Basic/Primary Weighted Average Shares,923,923,920,913,TXN
+Basic/Primary EPS Excl. Extra. Items,2.31,2.37,2.48,2.50,TXN
+Basic/Primary EPS Incl. Extra. Items,2.31,2.37,2.48,2.50,TXN
+Diluted Weighted Average Shares,936,934,930,923,TXN
+Diluted EPS Excl. Extra. Items,2.27,2.35,2.45,2.47,TXN
+Diluted EPS Incl. Extra. Items,2.27,2.35,2.45,2.47,TXN
+Div/Share-ComStockPrimIssue,1.15,1.15,1.15,1.15,TXN
+Gross Divid - Common Stock,"1,062","1,063","1,060","1,051",TXN
+Pro Forma Net Income,--,--,--,--,TXN
+"Interest Expense, Suppl",49,52,49,53,TXN
+"Depreciat/Amort, Suppl",200,200,227,249,TXN
+Total Special Items,54,66,66,77,TXN
+Normalzd Income Before Tax,"2,517","2,592","2,747","2,735",TXN
+Efct/SpecItemsIncTxs (STEC),7,8,10,11,TXN
+IncTxsExcl ImpctofSpec Itms,332,333,400,374,TXN
+Normalized Income After Tax,"2,185","2,259","2,347","2,361",TXN
+Normalzd Inc Avail to Common,"2,176","2,250","2,337","2,350",TXN
+Basic Normalized EPS,2.36,2.44,2.54,2.57,TXN
+Diluted Normalized EPS,2.32,2.41,2.51,2.55,TXN

@@ -1,0 +1,39 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"12,247","11,857","13,582","13,996",AXP
+"Cost of Revenue, Total","3,799","3,859","4,456","4,785",AXP
+Selling/Gen/Admin Expense,"3,979","2,296","2,626","2,609",AXP
+Labor & Related Expense,"1,654","1,654","1,816","1,748",AXP
+"Sell/Gen/AdminExpenses,Tot","5,633","3,950","4,442","4,357",AXP
+"Inter/Invest Inc, Operating",3,23,11,70,AXP
+Other Operating Expense,453,"1,346","1,720","1,547",AXP
+"Other, Net",53,(33),410,778,AXP
+"Other Operat Expse, Total",506,"1,313","2,130","2,325",AXP
+Total Operating Expense,"9,941","9,145","11,039","11,537",AXP
+Total Operating Income,"2,306","2,712","2,543","2,459",AXP
+Income Before Tax,"2,306","2,712","2,543","2,459",AXP
+Income Tax - Total,587,613,579,580,AXP
+Income After Tax,"1,719","2,099","1,964","1,879",AXP
+Net Inc Before Extra Items,"1,719","2,099","1,964","1,879",AXP
+Total Net Income,"1,719","2,099","1,964","1,879",AXP
+Preferred Dividends,(29),(14),(15),(14),AXP
+Misc Earnings Adjustment,(11),(16),(15),(14),AXP
+Total Adjust to Net Income,(40),(30),(30),(28),AXP
+Income Available to Common Excl. Extra. Items,"1,679","2,069","1,934","1,851",AXP
+Income Available to Common Incl. Extra. Items,"1,679","2,069","1,934","1,851",AXP
+Basic/Primary Weighted Average Shares,768,757,752,748,AXP
+Basic/Primary EPS Excl. Extra. Items,2.19,2.73,2.57,2.47,AXP
+Basic/Primary EPS Incl. Extra. Items,2.19,2.73,2.57,2.47,AXP
+Diluted Weighted Average Shares,769,758,753,749,AXP
+Diluted EPS Excl. Extra. Items,2.18,2.73,2.57,2.47,AXP
+Diluted EPS Incl. Extra. Items,2.18,2.73,2.57,2.47,AXP
+Div/Share-ComStockPrimIssue,0.43,0.00,0.52,0.52,AXP
+Gross Divid - Common Stock,329,394,393,391,AXP
+Pro Forma Net Income,--,--,--,--,AXP
+"Interest Expense, Suppl",292,321,439,796,AXP
+"Depreciat/Amort, Suppl",419,398,397,413,AXP
+Normalzd Income Before Tax,"2,306","2,712","2,543","2,459",AXP
+IncTxsExcl ImpctofSpec Itms,587,613,579,580,AXP
+Normalized Income After Tax,"1,719","2,099","1,964","1,879",AXP
+Normalzd Inc Avail to Common,"1,679","2,069","1,934","1,851",AXP
+Basic Normalized EPS,2.19,2.73,2.57,2.47,AXP
+Diluted Normalized EPS,2.18,2.73,2.57,2.47,AXP

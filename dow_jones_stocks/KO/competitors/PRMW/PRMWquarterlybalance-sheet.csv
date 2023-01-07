@@ -1,0 +1,41 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash and Short Term Invs,128,98,99,96,PRMW
+"Trade Accts Recvble, Gross",262,292,306,309,PRMW
+Prov. for Doubtful Accts,(21),(21),(23),(21),PRMW
+"Trade Accts Recvble, Net",241,271,284,287,PRMW
+Other Receivables,21,--,--,--,PRMW
+"Total Receivables, Net",262,271,284,287,PRMW
+Invent. - Finished Goods,36,40,43,42,PRMW
+Invent. - Raw Materials,57,63,65,70,PRMW
+Inventories - Other,2,2,2,1,PRMW
+Total Inventory,95,105,110,114,PRMW
+Prepaid Expenses,25,31,64,47,PRMW
+Total Current Assets,510,505,555,544,PRMW
+Prop./Plant/Equip. - Net,896,884,847,872,PRMW
+"Goodwill, Net","1,321","1,318","1,286","1,267",PRMW
+Intangibles - Net,970,944,912,891,PRMW
+Other Long Term Assets,27,29,29,27,PRMW
+Total Assets,"3,723","3,680","3,629","3,601",PRMW
+Payable/Accrued,438,425,430,425,PRMW
+Accrued Expenses,32,34,33,31,PRMW
+Notes Payable/ST Debt,222,226,235,248,PRMW
+Curr. Port. LT Dbt/Cap Ls.,18,17,17,16,PRMW
+Total Current Liabilities,710,701,715,720,PRMW
+Long Term Debt,"1,245","1,307","1,275","1,239",PRMW
+Capital Lease Obligations,76,--,--,--,PRMW
+Total Long Term Debt,"1,321","1,307","1,275","1,239",PRMW
+Total Debt,"1,561","1,550","1,527","1,504",PRMW
+Deferred Income Tax,159,159,158,161,PRMW
+"Other Liabilities, Total",214,207,205,218,PRMW
+Total Liabilities,"2,403","2,375","2,353","2,338",PRMW
+Common Stock,"1,287","1,292","1,293","1,287",PRMW
+Additional Paid-In Capital,86,84,87,90,PRMW
+Ret. Earn.(Accum. Deficit),16,(2),(36),(50),PRMW
+Cum. Trans. Adjustment,(67),(68),(66),(62),PRMW
+Min. Pension Lblty Adj.,(2),(2),(2),(2),PRMW
+Other Comprehensive Income,0,0,--,--,PRMW
+"Other Equity, Total",(69),(69),(67),(64),PRMW
+Total Equity,"1,320","1,305","1,277","1,263",PRMW
+Total Liabilities & Shareholders’ Equity,"3,723","3,680","3,629","3,601",PRMW
+Ttl Comm. Shares Outs.,161,161,161,160,PRMW
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,PRMW

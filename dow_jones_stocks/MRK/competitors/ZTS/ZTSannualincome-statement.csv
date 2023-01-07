@@ -1,0 +1,52 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"5,307","5,825","6,260","6,675","7,776",ZTS
+"Cost of Revenue, Total","1,763","1,883","1,976","2,045","2,285",ZTS
+"Sell/Gen/AdminExpenses,Tot","1,334","1,484","1,638","1,726","2,001",ZTS
+Research & Development,382,432,457,463,508,ZTS
+Depreciation/Amortization,91,117,155,160,161,ZTS
+"Inter Expense, Operating",179,215,236,248,244,ZTS
+"Inter Capitalzd, Operating",(4),(9),(13),(17),(20),ZTS
+"Inter Expense,Net Operatng",175,206,223,231,224,ZTS
+"Interest Income, Operating",--,(31),(37),(12),(6),ZTS
+"Invest Income, Operating",29,31,16,21,27,ZTS
+"Inter/Invest Inc, Operating",29,0,(21),9,21,ZTS
+Restructuring Charge,19,68,33,8,33,ZTS
+Litigation,(8),0,--,--,--,ZTS
+Impair-Assets Held for Use,0,0,--,30,30,ZTS
+Impair-Assets Held for Sale,--,--,--,4,2,ZTS
+Other Unusual Expnse (In),--,--,18,17,16,ZTS
+Unusual Expense (Income),22,28,31,40,84,ZTS
+Loss(Gain)/Sale Asts (Oper),11,(40),(20),(19),3,ZTS
+"Other, Net",(14),(15),0,5,4,ZTS
+"Other Operat Expse, Total",(14),(15),0,5,4,ZTS
+Total Operating Expense,"3,782","4,135","4,459","4,679","5,288",ZTS
+Total Operating Income,"1,525","1,690","1,801","1,996","2,488",ZTS
+Income Before Tax,"1,525","1,690","1,801","1,996","2,488",ZTS
+Income Tax - Total,451,311,301,360,454,ZTS
+Income After Tax,"1,074","1,379","1,500","1,636","2,034",ZTS
+Minority Interest,2,4,0,2,3,ZTS
+Net Inc Before Extra Items,"1,076","1,383","1,500","1,638","2,037",ZTS
+Total Extraordinary Items,(212),45,--,--,--,ZTS
+Total Net Income,864,"1,428","1,500","1,638","2,037",ZTS
+Income Available to Common Excl. Extra. Items,"1,076","1,383","1,500","1,638","2,037",ZTS
+Income Available to Common Incl. Extra. Items,864,"1,428","1,500","1,638","2,037",ZTS
+Basic/Primary Weighted Average Shares,490,483,478,476,474,ZTS
+Basic/Primary EPS Excl. Extra. Items,2.20,2.86,3.14,3.44,4.29,ZTS
+Basic/Primary EPS Incl. Extra. Items,1.76,2.96,3.14,3.44,4.29,ZTS
+Diluted Weighted Average Shares,493,487,482,479,477,ZTS
+Diluted EPS Excl. Extra. Items,2.18,2.84,3.11,3.42,4.27,ZTS
+Diluted EPS Incl. Extra. Items,1.75,2.93,3.11,3.42,4.27,ZTS
+Div/Share-ComStockPrimIssue,0.44,0.50,0.66,0.80,1.00,ZTS
+Gross Divid - Common Stock,216,261,330,404,509,ZTS
+Pro Forma Net Income,--,--,--,--,--,ZTS
+"Interest Expense, Suppl",175,206,223,231,224,ZTS
+"Interest Capitalized, Suppl",(4),(9),(13),(17),(20),ZTS
+"Depreciat/Amort, Suppl",142,152,175,211,244,ZTS
+Total Special Items,22,28,31,59,84,ZTS
+Normalzd Income Before Tax,"1,547","1,718","1,832","2,055","2,572",ZTS
+Efct/SpecItemsIncTxs (STEC),7,5,5,11,18,ZTS
+IncTxsExcl ImpctofSpec Itms,458,316,306,371,472,ZTS
+Normalized Income After Tax,"1,089","1,402","1,526","1,684","2,100",ZTS
+Normalzd Inc Avail to Common,"1,091","1,406","1,526","1,686","2,103",ZTS
+Basic Normalized EPS,2.23,2.91,3.19,3.55,4.43,ZTS
+Diluted Normalized EPS,2.21,2.89,3.17,3.52,4.41,ZTS

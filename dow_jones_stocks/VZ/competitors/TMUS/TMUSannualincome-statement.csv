@@ -1,0 +1,45 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"40,604","43,310","44,998","68,397","80,118",TMUS
+"Cost of Revenue, Total","17,708","18,354","18,521","27,614","34,572",TMUS
+"Sell/Gen/AdminExpenses,Tot","12,259","13,161","13,519","17,663","19,164",TMUS
+Depreciation/Amortization,"5,984","6,486","6,616","14,151","16,383",TMUS
+Impair-Assets Held for Use,--,--,--,418,0,TMUS
+Other Unusual Expnse (In),--,--,620,"1,915","3,107",TMUS
+Unusual Expense (Income),(235),0,620,"2,333","3,107",TMUS
+Loss(Gain)/Sale Asts (Oper),(235),0,0,--,--,TMUS
+Total Operating Expense,"35,716","38,001","39,276","61,761","73,226",TMUS
+Total Operating Income,"4,888","5,309","5,722","6,636","6,892",TMUS
+"Inter Expse,Net Non-Operat","(1,671)","(1,357)","(1,135)","(2,730)","(3,362)",TMUS
+"Inter/Invest Inc, Non-Oper",17,19,24,29,20,TMUS
+OtherNon-OperatInc (Expnse),(73),(54),(8),(405),(199),TMUS
+"Other, Net",(73),(54),(8),(405),(199),TMUS
+Income Before Tax,"3,161","3,917","4,603","3,530","3,351",TMUS
+Income Tax - Total,822,"1,029","1,135",786,327,TMUS
+Income After Tax,"2,339","2,888","3,468","2,744","3,024",TMUS
+Net Inc Before Extra Items,"2,339","2,888","3,468","2,744","3,024",TMUS
+Discontinued Operations,--,--,--,320,0,TMUS
+Extraordinary Item,"2,197",--,--,--,--,TMUS
+Total Extraordinary Items,"2,197",--,--,320,0,TMUS
+Total Net Income,"4,536","2,888","3,468","3,064","3,024",TMUS
+Total Adjust to Net Income,(55),0,0,--,--,TMUS
+Income Available to Common Excl. Extra. Items,"2,284","2,888","3,468","2,744","3,024",TMUS
+Income Available to Common Incl. Extra. Items,"4,481","2,888","3,468","3,064","3,024",TMUS
+Basic/Primary Weighted Average Shares,832,850,854,"1,144","1,247",TMUS
+Basic/Primary EPS Excl. Extra. Items,2.75,3.40,4.06,2.40,2.42,TMUS
+Basic/Primary EPS Incl. Extra. Items,5.39,3.40,4.06,2.68,2.42,TMUS
+Diluted Weighted Average Shares,872,858,863,"1,155","1,255",TMUS
+Diluted EPS Excl. Extra. Items,2.62,3.36,4.02,2.38,2.41,TMUS
+Diluted EPS Incl. Extra. Items,5.14,3.36,4.02,2.65,2.41,TMUS
+Gross Divid - Common Stock,0,0,0,0,0,TMUS
+Pro Forma Net Income,--,--,--,--,--,TMUS
+"Interest Expense, Suppl","1,671","1,357","1,135","2,730","3,362",TMUS
+"Interest Capitalized, Suppl",(136),(362),(473),(440),(210),TMUS
+"Depreciat/Amort, Suppl","5,821","6,362","6,534","13,100","15,200",TMUS
+Total Special Items,(235),0,620,"2,791","3,107",TMUS
+Normalzd Income Before Tax,"2,926","3,917","5,223","6,321","6,458",TMUS
+Efct/SpecItemsIncTxs (STEC),(61),0,153,621,303,TMUS
+IncTxsExcl ImpctofSpec Itms,761,"1,029","1,288","1,407",630,TMUS
+Normalized Income After Tax,"2,165","2,888","3,935","4,914","5,828",TMUS
+Normalzd Inc Avail to Common,"2,110","2,888","3,935","4,914","5,828",TMUS
+Basic Normalized EPS,2.54,3.40,4.61,4.29,4.67,TMUS
+Diluted Normalized EPS,2.42,3.36,4.56,4.26,4.64,TMUS

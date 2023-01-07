@@ -1,0 +1,42 @@
+items,Q3 2022,Q4 2022,Q1 2023,Q2 2023,ticker
+Net Income,882,"1,287",809,"1,776",MCK
+Depreciation/Depletion,215,279,61,124,MCK
+Amortization,383,481,87,175,MCK
+Deferred Taxes,12,34,109,170,MCK
+Discontinued Operations,(215),(540),470,470,MCK
+Unusual Items,"1,282","1,552",(13),(172),MCK
+Equity in Net Earnings/Loss,--,0,--,--,MCK
+Other Non-Cash Items,571,719,152,247,MCK
+Non-Cash Items,"1,638","1,731",609,545,MCK
+Accounts Receivable,"(1,925)","(1,843)","(1,584)","(1,883)",MCK
+Inventories,"(1,659)","(1,169)",(955),"(1,453)",MCK
+Accounts Payable,"1,612","2,802","1,006","2,292",MCK
+Accrued Expenses,(276),(356),(94),(174),MCK
+Changes in Working Capital,"(1,798)",82,"(2,146)","(2,154)",MCK
+Total Cash from Operations,"1,332","3,894",(471),636,MCK
+Purchase of Fixed Assets,(253),(388),(71),(157),MCK
+Software Development Costs,(127),(147),(29),(65),MCK
+Capital Expenditures,(380),(535),(100),(222),MCK
+Acquisition of Business,(6),(6),(1),(23),MCK
+Sale of Business,197,578,240,496,MCK
+Other Investing Cash Flow,(83),(126),(100),(135),MCK
+"OtherInvestCashFlowItms,Tot",108,446,139,338,MCK
+Total Cash from Investing,(272),(89),39,116,MCK
+Financing Cash Flow Items,"(1,354)","(1,414)",(199),(253),MCK
+Total Cash Dividends Paid,(206),(277),(71),(139),MCK
+Sale/Issuance of Common,174,220,91,127,MCK
+Repurch/Retirement Common,"(1,986)","(3,516)","(1,000)","(1,484)",MCK
+"Iss (Retirmnt) of Stock,Net","(1,812)","(3,296)",(909),"(1,357)",MCK
+Short Term Debt Issued,"3,642","11,192",--,100,MCK
+Short Term Debt Reduction,"(3,270)","(11,192)",--,(100),MCK
+"Short Term Debt, Net",372,0,--,0,MCK
+Long Term Debt Issued,498,498,--,0,MCK
+Long Term Debt Reduction,"(1,830)","(1,832)",(2),(4),MCK
+"Long Term Debt, Net","(1,332)","(1,334)",(2),(4),MCK
+"Iss (Retirmnt) of Debt, Net",(960),"(1,334)",(2),(4),MCK
+Total Cash From Financing,"(4,332)","(6,321)","(1,181)","(1,753)",MCK
+Foreign Exchange Effects,35,55,18,24,MCK
+Net Change in Cash,"(3,237)","(2,461)","(1,595)",(977),MCK
+NetCash-BeginBal/RsvdforFutUse,"6,396","6,396","3,935","3,935",MCK
+NetCash-EndBal/RsrvforFutUse,"3,159","3,935","2,340","2,958",MCK
+"Depreciation, Supplemental",215,279,61,124,MCK

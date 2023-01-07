@@ -1,0 +1,47 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"26,076","26,268","24,977","26,185","26,042",KHC
+"Cost of Revenue, Total","16,579","17,149","16,782","17,028","17,343",KHC
+Selling/Gen/Admin Expense,"2,179","2,484","2,571","2,961","2,479",KHC
+Advertising Expense,629,584,534,646,"1,039",KHC
+"Sell/Gen/AdminExpenses,Tot","2,808","3,068","3,105","3,607","3,518",KHC
+Restructuring Charge,434,460,108,32,88,KHC
+Impair-Assets Held for Use,49,"15,936","1,899","3,399","1,634",KHC
+Other Unusual Expnse (In),--,23,19,10,(44),KHC
+Unusual Expense (Income),483,"16,419","2,026","3,441","1,678",KHC
+Total Operating Expense,"19,870","36,636","21,913","24,076","22,539",KHC
+Total Operating Income,"6,206","(10,368)","3,064","2,109","3,503",KHC
+"Inter Expse,Net Non-Operat","(1,230)","(1,284)","(1,361)","(1,394)","(2,047)",KHC
+"Inter Income, Non-Operating",--,--,--,--,15,KHC
+"Invest Income, Non-Operat",(33),(21),(12),--,15,KHC
+"Inter/Invest Inc, Non-Oper",(33),(21),(12),--,30,KHC
+OtherNon-OperatInc (Expnse),507,352,970,315,222,KHC
+"Other, Net",507,352,970,315,222,KHC
+Income Before Tax,"5,450","(11,321)","2,661","1,030","1,708",KHC
+Income Tax - Total,"1,518","(1,171)",728,750,919,KHC
+Income After Tax,"3,932","(10,150)","1,933",280,789,KHC
+Minority Interest,9,62,2,(5),(12),KHC
+Net Inc Before Extra Items,"3,941","(10,088)","1,935",275,777,KHC
+Total Extraordinary Items,"7,000",(104),--,81,235,KHC
+Total Net Income,"10,941","(10,192)","1,935",356,"1,012",KHC
+Total Adjust to Net Income,0,--,--,--,--,KHC
+Income Available to Common Excl. Extra. Items,"3,941","(10,088)","1,935",275,777,KHC
+Income Available to Common Incl. Extra. Items,"10,941","(10,192)","1,935",356,"1,012",KHC
+Basic/Primary Weighted Average Shares,"1,218","1,219","1,221","1,223","1,224",KHC
+Basic/Primary EPS Excl. Extra. Items,3.24,(8.28),1.58,0.22,0.63,KHC
+Basic/Primary EPS Incl. Extra. Items,8.98,(8.36),1.58,0.29,0.83,KHC
+Diluted Weighted Average Shares,"1,228","1,219","1,224","1,228","1,236",KHC
+Diluted EPS Excl. Extra. Items,3.21,(8.28),1.58,0.22,0.63,KHC
+Diluted EPS Incl. Extra. Items,8.91,(8.36),1.58,0.29,0.82,KHC
+Div/Share-ComStockPrimIssue,2.45,2.50,1.60,1.60,1.60,KHC
+Gross Divid - Common Stock,"2,988","3,048","1,959","1,973","1,979",KHC
+Pro Forma Net Income,--,--,--,--,--,KHC
+"Interest Expense, Suppl","1,230","1,284","1,361","1,394","2,047",KHC
+"Depreciat/Amort, Suppl",758,693,708,705,671,KHC
+Total Special Items,483,"16,419","2,026","3,441","1,678",KHC
+Normalzd Income Before Tax,"5,933","5,098","4,687","4,471","3,386",KHC
+Efct/SpecItemsIncTxs (STEC),135,"5,747",554,"1,204",903,KHC
+IncTxsExcl ImpctofSpec Itms,"1,653","4,576","1,282","1,954","1,822",KHC
+Normalized Income After Tax,"4,280",522,"3,405","2,517","1,564",KHC
+Normalzd Inc Avail to Common,"4,289",584,"3,407","2,512","1,552",KHC
+Basic Normalized EPS,3.52,0.48,2.79,2.05,1.27,KHC
+Diluted Normalized EPS,3.49,0.48,2.78,2.05,1.26,KHC

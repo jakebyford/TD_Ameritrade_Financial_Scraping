@@ -1,0 +1,35 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"200,392","37,402","85,553","136,095",WEN
+Depreciation/Depletion,"125,540","33,231","66,659","100,911",WEN
+Amortization,--,--,--,888,WEN
+Deferred Taxes,"(13,781)","4,527","7,306","10,214",WEN
+Unusual Items,"(31,357)","(2,918)","(1,210)","(1,456)",WEN
+Equity in Net Earnings/Loss,"5,134",898,"1,108","3,468",WEN
+Other Non-Cash Items,"74,846","22,650","37,924","51,291",WEN
+Non-Cash Items,"48,623","20,630","37,822","53,303",WEN
+Other Assets,--,"(4,656)","(13,213)","(22,685)",WEN
+Accrued Expenses,"(45,606)","(11,615)","(22,913)","(34,241)",WEN
+Changes in Working Capital,"(15,002)","(74,808)","(99,145)","(118,772)",WEN
+Total Cash from Operations,"345,772","20,982","98,195","182,639",WEN
+Capital Expenditures,"(77,984)","(12,496)","(30,941)","(50,036)",WEN
+Acquisition of Business,"(123,069)",--,--,--,WEN
+Sale of Business,"55,118",263,"1,016","3,731",WEN
+Sale/Maturity of Investment,63,--,--,--,WEN
+Purchase of Investments,"(10,000)",--,--,--,WEN
+Other Investing Cash Flow,"1,203",(814),"1,133",229,WEN
+"OtherInvestCashFlowItms,Tot","(76,685)",(551),"2,149","3,960",WEN
+Total Cash from Investing,"(154,669)","(13,047)","(28,792)","(46,076)",WEN
+Financing Cash Flow Items,"(25,384)","(11,739)","(12,136)","(13,212)",WEN
+Total Cash Dividends Paid,"(94,846)","(26,911)","(53,546)","(80,153)",WEN
+"Common Stock, Net","(268,531)",0,"(51,950)","(51,950)",WEN
+Options Exercised,"30,003","1,591","1,959","2,668",WEN
+"Iss (Retirmnt) of Stock,Net","(238,528)","1,591","(49,991)","(49,282)",WEN
+Long Term Debt Issued,"1,100,000","500,000","500,000","500,000",WEN
+Long Term Debt Reduction,"(983,984)","(10,139)","(21,620)","(32,848)",WEN
+"Iss (Retirmnt) of Debt, Net","116,016","489,861","478,380","467,152",WEN
+Total Cash From Financing,"(242,742)","452,802","362,707","324,505",WEN
+Foreign Exchange Effects,364,305,"(2,428)","(7,176)",WEN
+Net Change in Cash,"(51,275)","461,042","429,682","453,892",WEN
+NetCash-BeginBal/RsvdforFutUse,"418,241","366,966","366,966","366,966",WEN
+NetCash-EndBal/RsrvforFutUse,"366,966","828,008","796,648","820,858",WEN
+"Depreciation, Supplemental","125,540","33,231","66,659","100,911",WEN

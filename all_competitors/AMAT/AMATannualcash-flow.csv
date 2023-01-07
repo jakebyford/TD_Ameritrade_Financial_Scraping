@@ -1,0 +1,33 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"3,038","2,706","3,619","5,888","6,525",AMAT
+Depreciation/Depletion,457,363,376,394,444,AMAT
+Deferred Taxes,71,49,80,80,(223),AMAT
+Unusual Items,--,--,--,148,(4),AMAT
+Other Non-Cash Items,262,244,367,276,449,AMAT
+Non-Cash Items,262,244,367,424,445,AMAT
+"Cash Taxes Pd, Supplemental",237,500,610,824,"2,025",AMAT
+"Cash Interest Pd, Suppl",219,219,219,205,205,AMAT
+Accounts Receivable,16,(207),(427),"(1,989)","(1,109)",AMAT
+Inventories,"(1,014)",248,(421),(405),"(1,590)",AMAT
+Other Assets,(199),(86),(161),(602),(16),AMAT
+Payable/Accrued,170,(247),327,465,390,AMAT
+Changes in Working Capital,(41),(115),(638),"(1,344)","(1,792)",AMAT
+Total Cash from Operations,"3,787","3,247","3,804","5,442","5,399",AMAT
+Capital Expenditures,(622),(441),(422),(668),(787),AMAT
+Acquisition of Business,(6),(28),(107),(12),(441),AMAT
+Sale/Maturity of Investment,"3,276","1,940","1,754","1,471","1,363",AMAT
+Purchase of Investments,"(2,077)","(1,914)","(1,355)","(2,007)","(1,492)",AMAT
+"OtherInvestCashFlowItms,Tot","1,193",(2),292,(548),(570),AMAT
+Total Cash from Investing,571,(443),(130),"(1,216)","(1,357)",AMAT
+Financing Cash Flow Items,(164),(86),(172),(178),(266),AMAT
+Total Cash Dividends Paid,(605),(771),(787),(838),(873),AMAT
+Sale/Issuance of Common,124,145,174,175,199,AMAT
+Repurch/Retirement Common,"(5,283)","(2,403)",(649),"(3,750)","(6,103)",AMAT
+"Iss (Retirmnt) of Stock,Net","(5,159)","(2,258)",(475),"(3,575)","(5,904)",AMAT
+Long Term Debt Issued,0,0,"2,979",0,0,AMAT
+"Iss (Retirmnt) of Debt, Net",0,0,97,0,0,AMAT
+Total Cash From Financing,"(5,928)","(3,115)","(1,337)","(4,591)","(7,043)",AMAT
+Net Change in Cash,"(1,570)",(311),"2,337",(365),"(3,001)",AMAT
+NetCash-BeginBal/RsvdforFutUse,"5,010","3,440","3,129","5,466","5,101",AMAT
+NetCash-EndBal/RsrvforFutUse,"3,440","3,129","5,466","5,101","2,100",AMAT
+"Depreciation, Supplemental",457,363,376,394,444,AMAT

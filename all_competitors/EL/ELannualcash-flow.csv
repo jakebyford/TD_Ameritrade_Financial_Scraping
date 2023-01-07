@@ -1,0 +1,42 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"1,117","1,794",696,"2,875","2,408",EL
+Depreciation/Depletion,531,557,611,651,727,EL
+Deferred Taxes,175,(66),(143),(230),(149),EL
+Unusual Items,16,107,"1,466",287,263,EL
+Equity in Net Earnings/Loss,0,(71),(534),(847),(1),EL
+Other Non-Cash Items,159,198,195,341,346,EL
+Non-Cash Items,175,234,"1,127",(219),608,EL
+"Cash Taxes Pd, Supplemental",351,588,537,664,760,EL
+"Cash Interest Pd, Suppl",128,131,153,166,163,EL
+Accounts Receivable,(105),(169),625,(398),(10),EL
+Inventories,(147),(375),(3),(140),(602),EL
+Other Assets,1,(62),(212),13,(101),EL
+Accounts Payable,349,319,(308),440,210,EL
+Accrued Expenses,466,285,(113),639,(51),EL
+Changes in Working Capital,564,(2),(11),554,(554),EL
+Total Cash from Operations,"2,562","2,517","2,280","3,631","3,040",EL
+Capital Expenditures,(629),(744),(623),(637),"(1,040)",EL
+Acquisition of Business,--,--,"(1,047)","(1,065)",(3),EL
+Sale of Fixed Assets,0,2,0,0,--,EL
+Sale/Maturity of Investment,749,"1,229",0,0,--,EL
+"Investment, Net",--,--,(23),(152),108,EL
+Purchase of Investments,(478),(14),(5),(42),(10),EL
+Other Investing Cash Flow,--,--,--,32,0,EL
+"OtherInvestCashFlowItms,Tot",271,"1,217","(1,075)","(1,227)",95,EL
+Total Cash from Investing,(358),473,"(1,698)","(1,864)",(945),EL
+Financing Cash Flow Items,(39),(29),(46),(14),(16),EL
+Total Cash Dividends Paid,(546),(609),(503),(753),(840),EL
+"Common Stock, Net",(759),"(1,555)",(893),(733),"(2,309)",EL
+Options Exercised,182,192,180,215,151,EL
+"Iss (Retirmnt) of Stock,Net",(577),"(1,363)",(713),(518),"(2,158)",EL
+"Short Term Debt, Net",(8),(171),755,(744),(4),EL
+Long Term Debt Issued,0,0,"2,481",596,0,EL
+Long Term Debt Reduction,(2),(1),(513),(459),(18),EL
+"Long Term Debt, Net",(2),(1),"1,968",137,(18),EL
+"Iss (Retirmnt) of Debt, Net",(10),(172),"2,723",(607),(22),EL
+Total Cash From Financing,"(1,172)","(2,173)","1,461","(1,892)","(3,036)",EL
+Foreign Exchange Effects,13,(11),(8),61,(60),EL
+Net Change in Cash,"1,045",806,"2,035",(64),"(1,001)",EL
+NetCash-BeginBal/RsvdforFutUse,"1,136","2,181","2,987","5,022","4,958",EL
+NetCash-EndBal/RsrvforFutUse,"2,181","2,987","5,022","4,958","3,957",EL
+"Depreciation, Supplemental",531,557,611,651,727,EL

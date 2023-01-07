@@ -1,0 +1,55 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Cash and Short Term Invs,"1,207","1,787","1,506","2,031",JCI
+"Trade Accts Recvble, Gross","3,956","3,917","3,971","3,570",JCI
+Prov. for Doubtful Accts,(91),(79),(72),(62),JCI
+"Total Receivables, Net","5,671","5,689","5,850","5,528",JCI
+Invent. - Finished Goods,"1,263","1,305","1,385","1,305",JCI
+Invent. - Work In Progress,195,212,196,196,JCI
+Invent. - Raw Materials,967,998,993,"1,009",JCI
+Total Inventory,"2,425","2,515","2,574","2,510",JCI
+Restricted Cash - Current,15,33,35,35,JCI
+Discont. Ops.-Curr. Assets,--,386,394,387,JCI
+Other Current Assets,"1,035","1,202","1,200","1,194",JCI
+"Other Curr. Assets, Total","1,050","1,621","1,629","1,616",JCI
+Total Current Assets,"10,353","11,612","11,559","11,685",JCI
+Prop./Plant/Equip. - Net,"4,554","4,175","4,252","4,313",JCI
+"Goodwill, Net","18,386","18,029","17,725","17,328",JCI
+Intangibles - Gross,"7,787","7,108","7,033","6,939",JCI
+Accum. Intangible Amort.,"(2,282)","(2,219)","(2,269)","(2,298)",JCI
+Intangibles - Net,"5,505","4,889","4,764","4,641",JCI
+LT Invt. - Affiliate Comp.,"1,102","1,073","1,070",963,JCI
+LT Investments - Other,323,--,314,217,JCI
+Long Term Investments,"1,425","1,073","1,384","1,180",JCI
+Note Rcvble - Long Term,98,90,104,79,JCI
+Other Long Term Assets,"1,742","2,044","1,644","2,181",JCI
+Total Assets,"42,222","42,991","42,324","42,158",JCI
+Accounts Payable,"4,083","4,101","4,125","4,241",JCI
+Accrued Expenses,"1,240",961,"1,160","1,258",JCI
+Notes Payable/ST Debt,392,"2,044","2,081",669,JCI
+Curr. Port. LT Dbt/Cap Ls.,220,240,217,865,JCI
+Customer Advances,"1,845","1,971","1,846","1,768",JCI
+Discontinued Operations,--,326,261,236,JCI
+Other Current Liabilities,"2,207","2,011","2,193","2,202",JCI
+"Other Curr. Lblts, Total","4,052","4,308","4,300","4,206",JCI
+Total Current Liabilities,"9,987","11,654","11,883","11,239",JCI
+Total Long Term Debt,"7,437","7,366","7,194","7,426",JCI
+Total Debt,"8,049","9,650","9,492","8,960",JCI
+Minority Interest,"1,241","1,152","1,155","1,134",JCI
+Pension Benefits - Underfunded,499,492,532,358,JCI
+Other LT Liabilities,"5,809","5,563","5,523","5,671",JCI
+Discont. Ops. - Lblts,--,228,49,62,JCI
+"Other Liabilities, Total","6,308","6,283","6,104","6,091",JCI
+Total Liabilities,"24,973","26,455","26,336","25,890",JCI
+Redeemable Preferred Stock,0,0,0,0,JCI
+Common Stock,7,7,7,7,JCI
+Additional Paid-In Capital,"17,150","17,174","17,199","17,224",JCI
+Ret. Earn.(Accum. Deficit),"1,638",900,645,"1,151",JCI
+Treasury Stock - Common,"(1,199)","(1,200)","(1,201)","(1,203)",JCI
+Cum. Trans. Adjustment,(337),(343),(641),(901),JCI
+Min. Pension Lblty Adj.,3,2,2,1,JCI
+Other Comprehensive Income,(13),(4),(23),(11),JCI
+"Other Equity, Total",(347),(345),(662),(911),JCI
+Total Equity,"17,249","16,536","15,988","16,268",JCI
+Total Liabilities & Shareholders’ Equity,"42,222","42,991","42,324","42,158",JCI
+Ttl Comm. Shares Outs.,703,696,689,689,JCI
+Trsy. Shrs-Comm. Primary Iss.,28,28,28,29,JCI

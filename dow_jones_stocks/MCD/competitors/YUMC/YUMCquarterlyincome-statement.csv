@@ -1,0 +1,45 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"2,291","2,668","2,128","2,685",YUMC
+"Cost of Revenue, Total","1,402","1,534","1,237","1,466",YUMC
+"Sell/Gen/AdminExpenses,Tot",824,888,745,847,YUMC
+Depreciation/Amortization,1,1,1,1,YUMC
+"Inter/Invest Inc, Operating",(21),0,0,0,YUMC
+Other Unusual Expnse (In),(597),2,14,4,YUMC
+Unusual Expense (Income),(597),2,14,4,YUMC
+Other Operating Expense,38,27,26,27,YUMC
+"Other, Net",(3),(1),--,--,YUMC
+"Other Operat Expse, Total",35,26,26,27,YUMC
+Total Operating Expense,"1,644","2,451","2,023","2,345",YUMC
+Total Operating Income,647,217,105,340,YUMC
+"Inter Expse,Net Non-Operat",(1),--,(1),(1),YUMC
+"Inter/Invest Inc, Non-Oper",(11),(37),20,(15),YUMC
+"Inter Inc(Exp),Net Non-Oper",14,12,15,26,YUMC
+"Other, Net",(14),(26),(24),(24),YUMC
+Income Before Tax,635,166,115,326,YUMC
+Income Tax - Total,159,55,31,97,YUMC
+Income After Tax,476,111,84,229,YUMC
+Minority Interest,(1),(10),0,(21),YUMC
+Equity In Affiliates,--,(1),(1),(2),YUMC
+Net Inc Before Extra Items,475,100,83,206,YUMC
+Total Net Income,475,100,83,206,YUMC
+Income Available to Common Excl. Extra. Items,475,100,83,206,YUMC
+Income Available to Common Incl. Extra. Items,475,100,83,206,YUMC
+Basic/Primary Weighted Average Shares,425,426,421,420,YUMC
+Basic/Primary EPS Excl. Extra. Items,1.12,0.23,0.20,0.49,YUMC
+Basic/Primary EPS Incl. Extra. Items,1.12,0.23,0.20,0.49,YUMC
+Diluted Weighted Average Shares,431,430,424,424,YUMC
+Diluted EPS Excl. Extra. Items,1.10,0.23,0.20,0.49,YUMC
+Diluted EPS Incl. Extra. Items,1.10,0.23,0.20,0.49,YUMC
+Div/Share-ComStockPrimIssue,0.12,0.12,0.12,0.12,YUMC
+Gross Divid - Common Stock,51,51,50,51,YUMC
+Pro Forma Net Income,--,--,--,--,YUMC
+"Interest Expense, Suppl",1,--,1,1,YUMC
+"Depreciat/Amort, Suppl",122,138,127,126,YUMC
+Total Special Items,(570),5,24,(4),YUMC
+Normalzd Income Before Tax,65,171,139,322,YUMC
+Efct/SpecItemsIncTxs (STEC),155,2,6,(1),YUMC
+IncTxsExcl ImpctofSpec Itms,314,57,37,96,YUMC
+Normalized Income After Tax,(249),114,102,226,YUMC
+Normalzd Inc Avail to Common,(250),103,101,203,YUMC
+Basic Normalized EPS,(0.59),0.24,0.24,0.48,YUMC
+Diluted Normalized EPS,(0.58),0.24,0.24,0.48,YUMC

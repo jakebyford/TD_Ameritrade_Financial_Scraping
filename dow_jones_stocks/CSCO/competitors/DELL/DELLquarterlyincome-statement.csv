@@ -1,0 +1,47 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Total Revenue,"22,194","26,116","26,425","24,721",DELL
+"Cost of Revenue, Total","24,005","20,332","20,986","19,014",DELL
+"Sell/Gen/AdminExpenses,Tot",--,"3,553","3,543","3,268",DELL
+Research & Development,--,681,626,677,DELL
+Restructuring Charge,9,--,--,--,DELL
+Litigation,--,--,--,"1,000",DELL
+Other Unusual Expnse (In),0,--,--,--,DELL
+Unusual Expense (Income),9,--,--,"1,000",DELL
+"Other Operat Expse, Total","(2,383)",--,--,--,DELL
+Total Operating Expense,"21,631","24,566","25,155","23,959",DELL
+Total Operating Income,563,"1,550","1,270",762,DELL
+"Inter Expse,Net Non-Operat",(67),(265),(298),(272),DELL
+"Inter Income, Non-Operating",10,15,16,21,DELL
+"Invest Income, Non-Operat",142,(75),(321),(28),DELL
+"Inter/Invest Inc, Non-Oper",152,(60),(305),(7),DELL
+OtherNon-OperatInc (Expnse),"(1,510)",(12),(32),(29),DELL
+"Other, Net","(1,510)",(12),(32),(29),DELL
+Income Before Tax,(862),"1,213",635,454,DELL
+Income Tax - Total,(98),144,129,213,DELL
+Income After Tax,(764),"1,069",506,241,DELL
+Minority Interest,151,3,5,4,DELL
+Net Inc Before Extra Items,(613),"1,072",511,245,DELL
+Total Extraordinary Items,615,0,0,0,DELL
+Total Net Income,2,"1,072",511,245,DELL
+Income Available to Common Excl. Extra. Items,(613),"1,072",511,245,DELL
+Income Available to Common Incl. Extra. Items,2,"1,072",511,245,DELL
+Basic/Primary Weighted Average Shares,762,754,739,728,DELL
+Basic/Primary EPS Excl. Extra. Items,(0.80),1.42,0.69,0.34,DELL
+Basic/Primary EPS Incl. Extra. Items,0.00,1.42,0.69,0.34,DELL
+Dilution Adjustment,0,--,--,--,DELL
+Diluted Weighted Average Shares,762,780,755,743,DELL
+Diluted EPS Excl. Extra. Items,(0.80),1.37,0.68,0.33,DELL
+Diluted EPS Incl. Extra. Items,0.00,1.37,0.68,0.33,DELL
+Div/Share-ComStockPrimIssue,0.00,0.33,0.33,0.33,DELL
+Gross Divid - Common Stock,0,253,248,241,DELL
+Pro Forma Net Income,--,--,--,--,DELL
+"Interest Expense, Suppl",67,265,298,272,DELL
+"Depreciat/Amort, Suppl",830,483,500,587,DELL
+Total Special Items,"(2,358)",100,196,"1,134",DELL
+Normalzd Income Before Tax,"(3,220)","1,313",831,"1,588",DELL
+Efct/SpecItemsIncTxs (STEC),(825),12,40,532,DELL
+IncTxsExcl ImpctofSpec Itms,(923),156,169,745,DELL
+Normalized Income After Tax,"(2,297)","1,157",662,843,DELL
+Normalzd Inc Avail to Common,"(2,146)","1,160",667,847,DELL
+Basic Normalized EPS,(2.82),1.54,0.90,1.16,DELL
+Diluted Normalized EPS,(2.82),1.49,0.88,1.14,DELL

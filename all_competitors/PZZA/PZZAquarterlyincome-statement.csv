@@ -1,0 +1,44 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,529,543,523,511,PZZA
+"Cost of Revenue, Total",366,379,366,360,PZZA
+"Sell/Gen/AdminExpenses,Tot",51,61,45,45,PZZA
+Depreciation/Amortization,12,12,13,13,PZZA
+Restructuring Charge,4,--,--,13,PZZA
+Litigation,--,5,0,--,PZZA
+Impair-Assets Held for Sale,--,11,0,1,PZZA
+Unusual Expense (Income),4,16,0,14,PZZA
+"Other Operat Expse, Total",58,61,61,59,PZZA
+Total Operating Expense,491,528,484,491,PZZA
+Total Operating Income,38,14,39,19,PZZA
+"Inter Expse,Net Non-Operat",(8),(4),(6),(8),PZZA
+"Inter/Invest Inc, Non-Oper",2,--,--,--,PZZA
+Income Before Tax,32,10,33,12,PZZA
+Income Tax - Total,7,(1),7,3,PZZA
+Income After Tax,26,11,26,8,PZZA
+Minority Interest,(1),(1),0,0,PZZA
+Net Inc Before Extra Items,25,10,25,8,PZZA
+Total Net Income,25,10,25,8,PZZA
+Preferred Dividends,0,0,0,0,PZZA
+Misc Earnings Adjustment,0,0,0,0,PZZA
+Total Adjust to Net Income,0,0,0,0,PZZA
+Income Available to Common Excl. Extra. Items,24,10,25,8,PZZA
+Income Available to Common Incl. Extra. Items,24,10,25,8,PZZA
+Basic/Primary Weighted Average Shares,36,36,36,35,PZZA
+Basic/Primary EPS Excl. Extra. Items,0.68,0.29,0.71,0.23,PZZA
+Basic/Primary EPS Incl. Extra. Items,0.68,0.29,0.71,0.23,PZZA
+Diluted Weighted Average Shares,37,36,36,35,PZZA
+Diluted EPS Excl. Extra. Items,0.65,0.29,0.70,0.23,PZZA
+Diluted EPS Incl. Extra. Items,0.65,0.29,0.70,0.23,PZZA
+Div/Share-ComStockPrimIssue,0.35,0.35,0.35,0.42,PZZA
+Gross Divid - Common Stock,13,13,13,15,PZZA
+Pro Forma Net Income,--,--,--,--,PZZA
+"Interest Expense, Suppl",8,4,6,8,PZZA
+"Depreciat/Amort, Suppl",12,12,13,13,PZZA
+Total Special Items,4,16,0,14,PZZA
+Normalzd Income Before Tax,36,26,33,26,PZZA
+Efct/SpecItemsIncTxs (STEC),(1),(7),0,(3),PZZA
+IncTxsExcl ImpctofSpec Itms,6,(8),7,0,PZZA
+Normalized Income After Tax,30,35,26,26,PZZA
+Normalzd Inc Avail to Common,29,34,26,26,PZZA
+Basic Normalized EPS,0.80,0.94,0.72,0.72,PZZA
+Diluted Normalized EPS,0.78,0.93,0.71,0.72,PZZA

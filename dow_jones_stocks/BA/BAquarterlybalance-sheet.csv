@@ -1,0 +1,53 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash & Equivalents,"8,052","7,409","10,090","13,494",BA
+Short Term Investments,"8,192","4,873","1,358",763,BA
+Cash and Short Term Invs,"16,244","12,282","11,448","14,257",BA
+"Trade Accts Recvble, Gross",--,"2,797","3,144","2,812",BA
+Prov. for Doubtful Accts,--,(390),(148),(139),BA
+"Trade Accts Recvble, Net","11,261","11,398","12,390","11,989",BA
+Notes Recvble - Short Term,117,157,159,155,BA
+"Total Receivables, Net","11,378","11,555","12,549","12,144",BA
+Invent. - Work In Progress,872,821,637,488,BA
+Invent. - Raw Materials,"9,845","9,759","9,799","9,737",BA
+Inventories - Other,"68,106","69,239","69,481","69,552",BA
+Total Inventory,"78,823","79,819","79,917","79,777",BA
+"Other Curr. Assets, Total","2,221","2,356","2,086","3,073",BA
+Total Current Assets,"108,666","106,012","106,000","109,251",BA
+Prop./Plant/Equip. - Gross,"31,456","31,514","31,588","31,716",BA
+Accumulated Depreciation,"(20,538)","(20,759)","(20,971)","(21,208)",BA
+Prop./Plant/Equip. - Net,"10,918","10,755","10,617","10,508",BA
+"Goodwill, Net","8,068","8,065","8,055","8,045",BA
+Intangibles - Net,"1,587","1,468","1,567","1,474",BA
+LT Invt. - Affiliate Comp.,930,947,942,944,BA
+LT Investments - Other,45,45,39,35,BA
+Long Term Investments,975,992,981,979,BA
+Note Rcvble - Long Term,"1,695","1,580","1,542","1,513",BA
+Other Long Term Assets,"6,566","6,838","6,611","5,711",BA
+Total Assets,"138,552","135,801","135,479","137,558",BA
+Accounts Payable,"9,261","8,779","9,575","9,793",BA
+Accrued Expenses,"18,455","17,864","17,752","21,217",BA
+Notes Payable/ST Debt,0,0,0,0,BA
+Curr. Port. LT Dbt/Cap Ls.,"1,296","2,591","5,406","5,431",BA
+"Other Curr. Lblts, Total","52,980","52,458","52,066","53,177",BA
+Total Current Liabilities,"81,992","81,692","84,799","89,618",BA
+Total Long Term Debt,"56,806","55,150","51,794","51,788",BA
+Total Debt,"58,102","57,741","57,200","57,219",BA
+Deferred Income Tax,218,158,38,230,BA
+Minority Interest,153,130,97,64,BA
+Pension Benefits - Underfunded,"12,632","12,190","11,748","11,307",BA
+Other LT Liabilities,"1,750","1,879","1,891","2,250",BA
+"Other Liabilities, Total","14,382","14,069","13,639","13,557",BA
+Total Liabilities,"153,551","151,199","150,367","155,257",BA
+Common Stock,"5,061","5,061","5,061","5,061",BA
+Additional Paid-In Capital,"9,052","9,295","9,475","9,705",BA
+Ret. Earn.(Accum. Deficit),"34,408","33,189","33,382","30,107",BA
+Treasury Stock - Common,"(51,861)","(51,573)","(51,319)","(51,054)",BA
+Unrealized Gain (Loss),1,1,1,(1),BA
+Cum. Trans. Adjustment,(105),(81),(157),(228),BA
+Min. Pension Lblty Adj.,"(11,561)","(11,425)","(11,293)","(11,162)",BA
+Other Comprehensive Income,6,135,(38),(127),BA
+"Other Equity, Total","(11,660)","(11,371)","(11,488)","(11,517)",BA
+Total Equity,"(14,999)","(15,398)","(14,888)","(17,699)",BA
+Total Liabilities & Shareholders’ Equity,"138,552","135,801","135,479","137,558",BA
+Ttl Comm. Shares Outs.,589,591,593,596,BA
+Trsy. Shrs-Comm. Primary Iss.,423,421,419,417,BA

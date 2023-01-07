@@ -1,0 +1,49 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash and Short Term Invs,557,788,"1,517","1,669","1,009",UA
+"Trade Accts Recvble, Gross",675,724,548,576,709,UA
+Prov. for Doubtful Accts,(22),(15),(20),(7),(7),UA
+"Total Receivables, Net",653,709,527,569,702,UA
+Total Inventory,"1,019",892,896,811,824,UA
+Prepaid Expenses,345,307,282,286,297,UA
+"Other Curr. Assets, Total",20,6,--,--,--,UA
+Total Current Assets,"2,594","2,702","3,223","3,336","2,833",UA
+Buildings,495,615,589,511,510,UA
+Land/Improvements,84,84,84,84,84,UA
+Machinery/Equipment,546,609,596,644,650,UA
+Construction in Progress,137,55,31,53,65,UA
+Other Prop./Plant/Equip.,221,832,779,713,690,UA
+Prop./Plant/Equip. - Gross,"1,482","2,194","2,079","2,005","1,999",UA
+Accumulated Depreciation,(656),(810),(884),(949),(977),UA
+Prop./Plant/Equip. - Net,827,"1,384","1,195","1,056","1,022",UA
+"Goodwill, Net",546,550,502,495,492,UA
+Intangibles - Gross,77,66,53,25,25,UA
+Accum. Intangible Amort.,(35),(30),(40),(14),(14),UA
+Intangibles - Net,42,36,13,11,11,UA
+Long Term Investments,--,5,0,0,--,UA
+Other Long Term Assets,124,83,73,75,76,UA
+Total Assets,"4,245","4,844","5,031","4,991","4,453",UA
+Accounts Payable,561,618,576,613,560,UA
+Accrued Expenses,340,501,541,599,453,UA
+Notes Payable/ST Debt,0,0,0,0,0,UA
+Curr. Port. LT Dbt/Cap Ls.,25,0,--,--,--,UA
+Security Deposits,301,219,203,164,160,UA
+Other Current Liabilities,88,84,93,74,126,UA
+"Other Curr. Lblts, Total",390,303,296,238,285,UA
+Total Current Liabilities,"1,316","1,422","1,413","1,450","1,299",UA
+Total Long Term Debt,704,593,"1,004",663,672,UA
+Total Debt,729,593,"1,004",663,672,UA
+"Other Liabilities, Total",208,679,938,790,753,UA
+Total Liabilities,"2,228","2,693","3,355","2,902","2,724",UA
+Common Stock,0,0,0,0,0,UA
+Additional Paid-In Capital,917,974,"1,061","1,109","1,047",UA
+Ret. Earn.(Accum. Deficit),"1,139","1,227",674,"1,028",722,UA
+"Other Equity, Total",(39),(51),(59),(48),(40),UA
+Total Equity,"2,017","2,150","1,676","2,089","1,729",UA
+Total Liabilities & Shareholders’ Equity,"4,245","4,844","5,031","4,991","4,453",UA
+Shr Outs.-Com. Primary Iss.,188,188,189,189,189,UA
+Shr Outs.-Com. Stk. Iss. 2,34,34,34,34,34,UA
+Shr Outs.-Com. Stk. Iss. 3,226,229,232,253,238,UA
+Ttl Comm. Shares Outs.,449,452,455,476,462,UA
+Trsy. Shrs-Comm. Primary Iss.,0,--,0,0,0,UA
+Trsy. Shrs-Comm. Iss. 2,0,--,0,0,0,UA
+Trsy. Shrs-Comm. Iss. 3,0,0,0,0,0,UA

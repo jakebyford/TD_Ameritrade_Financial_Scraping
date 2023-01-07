@@ -1,0 +1,44 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"15,120","17,762","21,161","21,013",COP
+"Cost of Revenue, Total","8,023","8,332","10,975","11,050",COP
+"Sell/Gen/AdminExpenses,Tot",640,"1,001","1,116",991,COP
+Research & Development,125,63,133,82,COP
+Depreciation/Amortization,"1,783","1,823","1,810","1,872",COP
+Restructuring Charge,25,--,--,--,COP
+Impair-Assets Held for Use,773,8,12,9,COP
+Other Unusual Expnse (In),(322),(817),(262),40,COP
+Unusual Expense (Income),476,(809),(250),49,COP
+Other Operating Expense,56,61,61,60,COP
+"Other, Net",309,(422),44,(76),COP
+"Other Operat Expse, Total",365,(361),105,(16),COP
+Total Operating Expense,"11,412","10,049","13,889","14,028",COP
+Total Operating Income,"3,708","7,713","7,272","6,985",COP
+"Inter Expse,Net Non-Operat",(219),(217),(211),(199),COP
+"Inter/Invest Inc, Non-Oper",847,402,594,654,COP
+Income Before Tax,"4,336","7,898","7,655","7,440",COP
+Income Tax - Total,"1,709","2,139","2,510","2,913",COP
+Income After Tax,"2,627","5,759","5,145","4,527",COP
+Minority Interest,0,--,--,--,COP
+Net Inc Before Extra Items,"2,627","5,759","5,145","4,527",COP
+Total Net Income,"2,627","5,759","5,145","4,527",COP
+Income Available to Common Excl. Extra. Items,"2,627","5,759","5,145","4,527",COP
+Income Available to Common Incl. Extra. Items,"2,627","5,759","5,145","4,527",COP
+Basic/Primary Weighted Average Shares,"1,315","1,302","1,290","1,266",COP
+Basic/Primary EPS Excl. Extra. Items,2.00,4.42,3.99,3.58,COP
+Basic/Primary EPS Incl. Extra. Items,2.00,4.42,3.99,3.58,COP
+Diluted Weighted Average Shares,"1,321","1,307","1,296","1,269",COP
+Diluted EPS Excl. Extra. Items,1.99,4.40,3.97,3.57,COP
+Diluted EPS Incl. Extra. Items,1.99,4.40,3.97,3.57,COP
+Div/Share-ComStockPrimIssue,0.66,0.46,0.46,0.51,COP
+Gross Divid - Common Stock,609,603,598,588,COP
+Pro Forma Net Income,--,--,--,--,COP
+"Interest Expense, Suppl",219,217,211,199,COP
+"Depreciat/Amort, Suppl","1,783","1,823","1,810","1,872",COP
+Total Special Items,476,(809),(250),49,COP
+Normalzd Income Before Tax,"4,812","7,089","7,405","7,489",COP
+Efct/SpecItemsIncTxs (STEC),188,(219),(82),19,COP
+IncTxsExcl ImpctofSpec Itms,"1,897","1,920","2,428","2,932",COP
+Normalized Income After Tax,"2,915","5,169","4,977","4,557",COP
+Normalzd Inc Avail to Common,"2,915","5,169","4,977","4,557",COP
+Basic Normalized EPS,2.22,3.97,3.86,3.60,COP
+Diluted Normalized EPS,2.21,3.95,3.84,3.59,COP

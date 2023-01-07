@@ -1,0 +1,43 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"9,030","11,171","12,868","15,785","17,606",ADBE
+"Cost of Revenue, Total","1,195","1,673","1,722","1,865","2,165",ADBE
+Selling/Gen/Admin Expense,"3,075","3,596","3,992","4,723","6,187",ADBE
+Labor & Related Expense,291,358,381,471,--,ADBE
+"Sell/Gen/AdminExpenses,Tot","3,366","3,954","4,373","5,194","6,187",ADBE
+Research & Development,"1,538","1,930","2,188","2,540","2,987",ADBE
+Depreciation/Amortization,91,175,162,172,169,ADBE
+Unusual Expense (Income),--,171,186,212,--,ADBE
+Total Operating Expense,"6,190","7,903","8,631","9,983","11,508",ADBE
+Total Operating Income,"2,840","3,268","4,237","5,802","6,098",ADBE
+"Inter Expse,Net Non-Operat",(89),(157),(116),(113),(112),ADBE
+"Inter Income, Non-Operating",93,68,43,17,--,ADBE
+"Invest Income, Non-Operat",(90),5,12,(1),(19),ADBE
+"Inter/Invest Inc, Non-Oper",3,73,55,16,(19),ADBE
+OtherNon-OperatInc (Expnse),40,20,--,--,41,ADBE
+"Other, Net",40,20,--,--,41,ADBE
+Income Before Tax,"2,794","3,205","4,176","5,705","6,008",ADBE
+Income Tax - Total,17,250,"(1,084)",883,"1,252",ADBE
+Income After Tax,"2,777","2,954","5,260","4,822","4,756",ADBE
+Net Inc Before Extra Items,"2,777","2,954","5,260","4,822","4,756",ADBE
+Total Extraordinary Items,(186),(3),0,--,--,ADBE
+Total Net Income,"2,591","2,951","5,260","4,822","4,756",ADBE
+Income Available to Common Excl. Extra. Items,"2,777","2,954","5,260","4,822","4,756",ADBE
+Income Available to Common Incl. Extra. Items,"2,591","2,951","5,260","4,822","4,756",ADBE
+Basic/Primary Weighted Average Shares,491,486,481,477,470,ADBE
+Basic/Primary EPS Excl. Extra. Items,5.66,6.08,10.94,10.11,10.12,ADBE
+Basic/Primary EPS Incl. Extra. Items,5.28,6.07,10.94,10.11,10.12,ADBE
+Diluted Weighted Average Shares,498,492,485,481,471,ADBE
+Diluted EPS Excl. Extra. Items,5.58,6.01,10.85,10.02,10.10,ADBE
+Diluted EPS Incl. Extra. Items,5.20,6.00,10.85,10.02,10.10,ADBE
+Gross Divid - Common Stock,0,0,0,0,--,ADBE
+Pro Forma Net Income,--,--,--,--,--,ADBE
+"Interest Expense, Suppl",89,157,116,113,112,ADBE
+"Depreciat/Amort, Suppl",164,334,390,434,455,ADBE
+Total Special Items,--,171,186,212,26,ADBE
+Normalzd Income Before Tax,"2,794","3,376","4,362","5,917","6,034",ADBE
+Efct/SpecItemsIncTxs (STEC),--,13,65,33,5,ADBE
+IncTxsExcl ImpctofSpec Itms,17,264,"(1,019)",916,"1,257",ADBE
+Normalized Income After Tax,"2,777","3,112","5,381","5,001","4,777",ADBE
+Normalzd Inc Avail to Common,"2,777","3,112","5,381","5,001","4,777",ADBE
+Basic Normalized EPS,5.66,6.40,11.19,10.48,10.16,ADBE
+Diluted Normalized EPS,5.58,6.33,11.09,10.40,10.14,ADBE

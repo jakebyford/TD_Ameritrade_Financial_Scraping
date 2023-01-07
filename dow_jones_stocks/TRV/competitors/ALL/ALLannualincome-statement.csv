@@ -1,0 +1,54 @@
+items,2017,2018,2019,2020,2021,ticker
+Gross Premiums Written,"35,952","37,819","38,357","39,321","46,021",ALL
+Other Insurance Revenue,883,939,"1,054","1,065","2,172",ALL
+Reinsurance - Income,"(1,274)","(1,306)","(1,136)","(1,154)","(1,982)",ALL
+Total Premiums Earned,"35,561","37,452","38,275","39,232","46,211",ALL
+Net Investment Income,"3,401","3,240","1,728","1,590","3,293",ALL
+Realized Gains (Losses),591,(864),"1,538","1,087","1,084",ALL
+Total Revenue,"39,553","39,828","41,541","41,909","50,588",ALL
+"Losses, Benies & Adjusts","26,446","27,023","25,147","23,095","33,936",ALL
+Reinsurance - Expense,"(1,986)","(1,618)",(536),(545),"(3,569)",ALL
+"Losses,Benies& Adjmts,Total","24,460","25,405","24,611","22,550","30,367",ALL
+Amort. Of Policy Acquisition Costs,"4,784","5,222","5,353","5,477","6,252",ALL
+Depreciation/Amortization,99,105,126,118,376,ALL
+"Inter Expense,Net Operatng",335,332,327,318,330,ALL
+Restructuring Charge,96,67,39,253,170,ALL
+Impair-Assets Held for Use,125,0,106,--,--,ALL
+Impair-Assets Held for Sale,146,13,--,--,--,ALL
+Other Unusual Expnse (In),(20),(6),0,948,51,ALL
+Unusual Expense (Income),347,74,145,"1,201",221,ALL
+"Other Operat Expse, Total","4,979","6,062","5,536","5,443","6,594",ALL
+Total Operating Expense,"35,004","37,200","36,098","35,107","44,140",ALL
+Total Operating Income,"4,549","2,628","5,443","6,802","6,448",ALL
+Income Before Tax,"4,549","2,628","5,443","6,802","6,448",ALL
+Income Tax - Total,"1,504",497,"1,116","1,373","1,289",ALL
+Income After Tax,"3,045","2,131","4,327","5,429","5,159",ALL
+Minority Interest,--,--,--,--,33,ALL
+Net Inc Before Extra Items,"3,045","2,131","4,327","5,429","5,192",ALL
+Discontinued Operations,--,--,646,156,"(3,681)",ALL
+Extraordinary Item,509,29,--,--,--,ALL
+Tax on Extraordinary Items,--,--,(126),(9),88,ALL
+Total Extraordinary Items,509,29,520,147,"(3,593)",ALL
+Total Net Income,"3,554","2,160","4,847","5,576","1,599",ALL
+Total Adjust to Net Income,(116),(148),(169),(115),(114),ALL
+Income Available to Common Excl. Extra. Items,"2,929","1,983","4,158","5,314","5,078",ALL
+Income Available to Common Incl. Extra. Items,"3,438","2,012","4,678","5,461","1,485",ALL
+Basic/Primary Weighted Average Shares,362,348,328,312,295,ALL
+Basic/Primary EPS Excl. Extra. Items,8.09,5.70,12.67,17.05,17.23,ALL
+Basic/Primary EPS Incl. Extra. Items,9.50,5.78,14.25,17.53,5.04,ALL
+Diluted Weighted Average Shares,368,353,334,316,299,ALL
+Diluted EPS Excl. Extra. Items,7.96,5.61,12.47,16.84,16.98,ALL
+Diluted EPS Incl. Extra. Items,9.35,5.70,14.03,17.31,4.96,ALL
+Div/Share-ComStockPrimIssue,1.44,1.75,1.96,2.12,2.97,ALL
+Gross Divid - Common Stock,540,646,658,680,958,ALL
+Pro Forma Net Income,--,--,--,--,--,ALL
+"Interest Expense, Suppl",335,332,327,318,330,ALL
+"Depreciat/Amort, Suppl",290,299,326,353,411,ALL
+Total Special Items,347,74,145,"1,201",221,ALL
+Normalzd Income Before Tax,"4,896","2,702","5,588","8,003","6,669",ALL
+Efct/SpecItemsIncTxs (STEC),115,14,30,242,44,ALL
+IncTxsExcl ImpctofSpec Itms,"1,619",511,"1,146","1,615","1,333",ALL
+Normalized Income After Tax,"3,277","2,191","4,442","6,388","5,336",ALL
+Normalzd Inc Avail to Common,"3,161","2,043","4,273","6,273","5,255",ALL
+Basic Normalized EPS,8.73,5.87,13.02,20.13,17.83,ALL
+Diluted Normalized EPS,8.60,5.78,12.81,19.88,17.57,ALL

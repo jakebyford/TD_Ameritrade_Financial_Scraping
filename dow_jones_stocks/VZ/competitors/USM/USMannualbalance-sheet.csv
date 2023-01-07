@@ -1,0 +1,56 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,352,580,285,"1,271",156,USM
+Short Term Investments,50,17,0,3,0,USM
+Cash and Short Term Invs,402,597,285,"1,274",156,USM
+"Trade Accts Recvble, Gross",830,974,989,977,"1,033",USM
+Prov. for Doubtful Accts,(55),(66),(70),(62),(57),USM
+"Trade Accts Recvble, Net",802,930,947,928,983,USM
+Other Receivables,41,46,109,195,186,USM
+"Total Receivables, Net",843,976,"1,056","1,123","1,169",USM
+Total Inventory,138,142,162,146,173,USM
+Prepaid Expenses,79,63,50,51,58,USM
+"Other Curr. Assets, Total",21,34,20,29,49,USM
+Total Current Assets,"1,483","1,812","1,573","2,623","1,605",USM
+Buildings,"1,475","1,506","1,575","1,664","1,735",USM
+Land/Improvements,36,35,35,34,37,USM
+Machinery/Equipment,"4,845","4,814","5,087","5,443","5,544",USM
+Construction in Progress,212,274,358,317,261,USM
+Other Prop./Plant/Equip.,"1,060","1,149","2,138","2,251","2,438",USM
+Prop./Plant/Equip. - Gross,"7,628","7,778","9,193","9,709","10,015",USM
+Accumulated Depreciation,"(5,308)","(5,576)","(6,086)","(6,319)","(6,450)",USM
+Prop./Plant/Equip. - Net,"2,320","2,202","3,107","3,390","3,565",USM
+"Goodwill, Net",0,--,--,--,--,USM
+Intangibles - Net,"2,223","2,186","2,471","2,629","4,088",USM
+Long Term Investments,415,441,447,435,439,USM
+Deferred Charges,390,579,566,602,626,USM
+Disct. Ops. - LT Asset,10,54,0,2,18,USM
+Total Assets,"6,841","7,274","8,164","9,681","10,341",USM
+Accounts Payable,310,313,304,387,360,USM
+Accrued Expenses,130,108,211,246,245,USM
+Notes Payable/ST Debt,0,0,0,0,0,USM
+Curr. Port. LT Dbt/Cap Ls.,18,19,8,2,3,USM
+Customer Advances,185,157,148,151,191,USM
+Discontinued Operations,--,--,0,--,0,USM
+Other Current Liabilities,90,94,79,85,104,USM
+"Other Curr. Lblts, Total",275,251,227,236,295,USM
+Total Current Liabilities,733,691,750,871,903,USM
+Long Term Debt,"1,618","1,600","1,499","2,486","2,728",USM
+Capital Lease Obligations,4,5,3,3,--,USM
+Total Long Term Debt,"1,622","1,605","1,502","2,489","2,728",USM
+Total Debt,"1,640","1,624","1,510","2,491","2,731",USM
+Deferred Income Tax,461,510,507,633,674,USM
+Minority Interest,11,21,24,25,27,USM
+Other LT Liabilities,337,390,"1,184","1,251","1,462",USM
+Discont. Ops. - Lblts,--,--,--,1,--,USM
+"Other Liabilities, Total",337,390,"1,184","1,252","1,462",USM
+Total Liabilities,"3,164","3,217","3,967","5,270","5,794",USM
+Common Stock,88,88,88,88,88,USM
+Additional Paid-In Capital,"1,552","1,590","1,629","1,651","1,678",USM
+Ret. Earn.(Accum. Deficit),"2,157","2,444","2,550","2,739","2,849",USM
+Treasury Stock - Common,(120),(65),(70),(67),(68),USM
+Total Equity,"3,677","4,057","4,197","4,411","4,547",USM
+Total Liabilities & Shareholders’ Equity,"6,841","7,274","8,164","9,681","10,341",USM
+Shr Outs.-Com. Primary Iss.,52,53,53,53,53,USM
+Shr Outs.-Com. Stk. Iss. 2,33,33,33,33,33,USM
+Ttl Comm. Shares Outs.,85,86,86,86,86,USM
+Trsy. Shrs-Comm. Primary Iss.,3,2,2,2,2,USM

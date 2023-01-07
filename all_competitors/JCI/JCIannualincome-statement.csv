@@ -1,0 +1,51 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"23,400","23,968","22,317","23,668","25,299",JCI
+"Cost of Revenue, Total","15,733","16,275","14,906","15,609","16,956",JCI
+Selling/Gen/Admin Expense,"5,332","5,925","5,391","4,886","5,546",JCI
+Labor & Related Expense,--,--,--,97,104,JCI
+"Sell/Gen/AdminExpenses,Tot","5,332","5,925","5,391","4,983","5,650",JCI
+Research & Development,310,319,274,275,295,JCI
+"Inter/Invest Inc, Operating",(177),(192),(171),(261),(246),JCI
+Restructuring Charge,255,235,783,242,721,JCI
+Other Unusual Expnse (In),0,60,0,--,--,JCI
+Unusual Expense (Income),255,295,783,242,721,JCI
+Total Operating Expense,"21,453","22,622","21,183","20,848","23,376",JCI
+Total Operating Income,"1,947","1,346","1,134","2,820","1,923",JCI
+"Inter Expse,Net Non-Operat",(409),(335),(240),(219),(225),JCI
+"Inter Income, Non-Operating",13,61,23,9,6,JCI
+"Invest Income, Non-Operat",25,12,12,29,33,JCI
+"Inter/Invest Inc, Non-Oper",38,73,35,38,39,JCI
+OtherNon-OperatInc (Expnse),(30),(28),(26),(25),(27),JCI
+"Other, Net",(30),(28),(26),(25),(27),JCI
+Income Before Tax,"1,546","1,056",903,"2,614","1,710",JCI
+Income Tax - Total,89,(233),108,868,(13),JCI
+Income After Tax,"1,457","1,289",795,"1,746","1,723",JCI
+Minority Interest,(174),(189),(164),(233),(191),JCI
+Net Inc Before Extra Items,"1,283","1,100",631,"1,513","1,532",JCI
+Discontinued Operations,987,"4,574",0,150,0,JCI
+Extraordinary Item,(108),--,--,--,--,JCI
+Tax on Extraordinary Items,--,--,--,(26),--,JCI
+Total Extraordinary Items,879,"4,574",0,124,0,JCI
+Total Net Income,"2,162","5,674",631,"1,637","1,532",JCI
+Income Available to Common Excl. Extra. Items,"1,283","1,100",631,"1,513","1,532",JCI
+Income Available to Common Incl. Extra. Items,"2,162","5,674",631,"1,637","1,532",JCI
+Basic/Primary Weighted Average Shares,926,870,751,717,696,JCI
+Basic/Primary EPS Excl. Extra. Items,1.39,1.26,0.84,2.11,2.20,JCI
+Basic/Primary EPS Incl. Extra. Items,2.34,6.52,0.84,2.28,2.20,JCI
+Diluted Weighted Average Shares,932,874,754,721,700,JCI
+Diluted EPS Excl. Extra. Items,1.38,1.26,0.84,2.10,2.19,JCI
+Diluted EPS Incl. Extra. Items,2.32,6.49,0.84,2.27,2.19,JCI
+Div/Share-ComStockPrimIssue,1.04,1.04,1.04,1.07,1.39,JCI
+Gross Divid - Common Stock,968,887,780,771,965,JCI
+Pro Forma Net Income,--,--,--,--,--,JCI
+"Interest Expense, Suppl",409,335,240,219,225,JCI
+"Interest Capitalized, Suppl",(17),(6),(1),--,--,JCI
+"Depreciat/Amort, Suppl",448,448,436,410,403,JCI
+Total Special Items,489,612,980,255,721,JCI
+Normalzd Income Before Tax,"2,035","1,668","1,883","2,869","2,431",JCI
+Efct/SpecItemsIncTxs (STEC),28,214,117,85,252,JCI
+IncTxsExcl ImpctofSpec Itms,117,(19),225,953,239,JCI
+Normalized Income After Tax,"1,918","1,687","1,658","1,916","2,192",JCI
+Normalzd Inc Avail to Common,"1,744","1,498","1,494","1,683","2,001",JCI
+Basic Normalized EPS,1.88,1.72,1.99,2.35,2.87,JCI
+Diluted Normalized EPS,1.87,1.71,1.98,2.33,2.86,JCI

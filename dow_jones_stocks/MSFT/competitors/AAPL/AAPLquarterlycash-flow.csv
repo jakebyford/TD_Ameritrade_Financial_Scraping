@@ -1,0 +1,31 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Net Income,"34,630","59,640","79,082","99,803",AAPL
+Depreciation/Depletion,"2,697","5,434","8,239","11,104",AAPL
+Deferred Taxes,682,"1,088","2,756",895,AAPL
+Non-Cash Items,"2,432","4,497","6,699","9,149",AAPL
+"Cash Taxes Pd, Supplemental","5,235","9,301","12,251","19,573",AAPL
+"Cash Interest Pd, Suppl",531,"1,406","1,910","2,865",AAPL
+Accounts Receivable,"(13,746)","6,185","9,350","(9,343)",AAPL
+Inventories,681,"1,065","1,049","1,484",AAPL
+Other Assets,"(4,921)","(3,542)","(3,289)","(6,499)",AAPL
+Accounts Payable,"19,813","(1,750)","(6,108)","9,448",AAPL
+Changes in Working Capital,"6,525","4,473","1,248","1,200",AAPL
+Total Cash from Operations,"46,966","75,132","98,024","122,151",AAPL
+Capital Expenditures,"(2,803)","(5,317)","(7,419)","(10,708)",AAPL
+Acquisition of Business,--,(167),(169),(306),AAPL
+Sale/Maturity of Investment,"21,984","42,668","57,812","67,363",AAPL
+Purchase of Investments,"(34,913)","(61,987)","(70,178)","(76,923)",AAPL
+Other Investing Cash Flow,(374),(568),"(1,183)","(1,780)",AAPL
+"OtherInvestCashFlowItms,Tot","(13,303)","(20,054)","(13,718)","(11,646)",AAPL
+Total Cash from Investing,"(16,106)","(25,371)","(21,137)","(22,354)",AAPL
+Financing Cash Flow Items,"(2,949)","(3,323)","(6,063)","(6,383)",AAPL
+Total Cash Dividends Paid,"(3,732)","(7,327)","(11,138)","(14,841)",AAPL
+"Iss (Retirmnt) of Stock,Net","(20,478)","(43,109)","(64,974)","(89,402)",AAPL
+"Short Term Debt, Net","(1,000)",999,"4,970","3,955",AAPL
+"Long Term Debt, Net",0,"(3,750)","(6,750)","(4,078)",AAPL
+"Iss (Retirmnt) of Debt, Net","(1,000)","(2,751)","(1,780)",(123),AAPL
+Total Cash From Financing,"(28,159)","(56,510)","(83,955)","(110,749)",AAPL
+Net Change in Cash,"2,701","(6,749)","(7,068)","(10,952)",AAPL
+NetCash-BeginBal/RsvdforFutUse,"35,929","35,929","35,929","35,929",AAPL
+NetCash-EndBal/RsrvforFutUse,"38,630","29,180","28,861","24,977",AAPL
+"Depreciation, Supplemental","2,697","5,434","8,239","11,104",AAPL

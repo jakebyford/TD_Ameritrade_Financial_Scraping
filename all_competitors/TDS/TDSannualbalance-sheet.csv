@@ -1,0 +1,65 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,619,921,465,"1,429",367,TDS
+Short Term Investments,100,17,0,3,0,TDS
+Cash and Short Term Invs,719,938,465,"1,432",367,TDS
+"Trade Accts Recvble, Gross",922,"1,063","1,079","1,071","1,118",TDS
+Prov. for Doubtful Accts,(61),(71),(74),(67),(60),TDS
+"Trade Accts Recvble, Net",861,992,"1,005","1,017","1,068",TDS
+Other Receivables,247,269,155,295,277,TDS
+"Total Receivables, Net","1,108","1,261","1,160","1,312","1,345",TDS
+Total Inventory,--,--,169,154,178,TDS
+Prepaid Expenses,112,103,98,105,103,TDS
+Restricted Cash - Current,--,--,9,23,47,TDS
+Other Current Assets,27,28,20,--,4,TDS
+"Other Curr. Assets, Total",27,28,29,23,51,TDS
+Total Current Assets,"1,966","2,330","1,921","3,026","2,044",TDS
+Buildings,"1,733","1,768","1,841","1,937","2,017",TDS
+Land/Improvements,55,55,57,56,62,TDS
+Machinery/Equipment,"7,768","6,076","6,389","6,840","6,997",TDS
+Construction in Progress,319,427,590,528,576,TDS
+Other Prop./Plant/Equip.,"1,867","3,748","4,959","5,296","5,653",TDS
+Prop./Plant/Equip. - Gross,"11,742","12,074","13,836","14,657","15,305",TDS
+Accumulated Depreciation,"(8,318)","(8,728)","(9,337)","(9,687)","(9,904)",TDS
+Prop./Plant/Equip. - Net,"3,424","3,346","4,499","4,970","5,401",TDS
+"Goodwill, Net",509,509,547,547,547,TDS
+Intangibles - Gross,"2,653","2,616","2,886","2,922","4,385",TDS
+Accum. Intangible Amort.,(142),(168),(167),(71),(91),TDS
+Intangibles - Net,"2,511","2,448","2,719","2,851","4,294",TDS
+LT Invt. - Affiliate Comp.,453,480,488,477,479,TDS
+LT Investments - Other,0,--,--,--,--,TDS
+Long Term Investments,453,480,488,477,479,TDS
+Other Long Term Assets,422,616,607,652,710,TDS
+Total Assets,"9,295","9,783","10,781","12,525","13,493",TDS
+Accounts Payable,368,365,374,508,481,TDS
+Accrued Expenses,137,138,248,277,288,TDS
+Notes Payable/ST Debt,0,0,0,0,0,TDS
+Curr. Port. LT Dbt/Cap Ls.,20,21,10,5,6,TDS
+Customer Advances,223,197,189,193,236,TDS
+Income Taxes Payable,64,44,41,69,45,TDS
+Other Current Liabilities,106,114,100,101,124,TDS
+"Other Curr. Lblts, Total",393,355,330,363,405,TDS
+Total Current Liabilities,918,879,962,"1,153","1,180",TDS
+Long Term Debt,"2,437","2,418","2,316","3,417","2,928",TDS
+Capital Lease Obligations,--,--,--,7,--,TDS
+Total Long Term Debt,"2,437","2,418","2,316","3,424","2,928",TDS
+Total Debt,"2,457","2,439","2,326","3,429","2,934",TDS
+Deferred Income Tax,552,640,676,863,921,TDS
+Minority Interest,624,744,762,799,818,TDS
+Other LT Liabilities,495,541,"1,412","1,482","1,719",TDS
+Discont. Ops. - Lblts,--,1,0,0,0,TDS
+"Other Liabilities, Total",495,542,"1,412","1,482","1,719",TDS
+Total Liabilities,"5,026","5,223","6,128","7,721","7,566",TDS
+Redeemable Preferred Stock,0,--,--,--,--,TDS
+"Pref. Stock-Non Rdmbl, Net",--,--,--,--,"1,074",TDS
+Common Stock,1,1,1,1,1,TDS
+Additional Paid-In Capital,"2,413","2,432","2,468","2,482","2,496",TDS
+Ret. Earn.(Accum. Deficit),"2,525","2,656","2,672","2,802","2,812",TDS
+Treasury Stock - Common,(669),(519),(479),(477),(461),TDS
+"Other Equity, Total",(1),(10),(9),(4),5,TDS
+Total Equity,"4,269","4,560","4,653","4,804","5,927",TDS
+Total Liabilities & Shareholders’ Equity,"9,295","9,783","10,781","12,525","13,493",TDS
+Shr Outs.-Com. Primary Iss.,104,107,108,107,108,TDS
+Shr Outs.-Com. Stk. Iss. 3,7,7,7,7,7,TDS
+Ttl Comm. Shares Outs.,111,114,115,114,115,TDS
+Trsy. Shrs-Comm. Primary Iss.,22,19,18,19,18,TDS
+Trsry Shrs-Pref. Iss. 1,--,--,--,--,0,TDS

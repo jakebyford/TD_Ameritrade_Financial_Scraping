@@ -1,0 +1,59 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"1,696","4,059","5,683","7,854","9,408",CVS
+Short Term Investments,111,"2,522","2,373","3,000","3,117",CVS
+Cash and Short Term Invs,"1,807","6,581","8,056","10,854","12,525",CVS
+"Trade Accts Recvble, Gross","13,488","18,124","10,838","7,459","8,271",CVS
+Prov. for Doubtful Accts,(307),(493),(319),(358),(339),CVS
+"Trade Accts Recvble, Net","13,181","17,631","17,236","7,101","7,932",CVS
+Other Receivables,--,--,"2,381","14,641","16,499",CVS
+"Total Receivables, Net","13,181","17,631","19,617","21,742","24,431",CVS
+Total Inventory,"15,296","16,450","17,516","18,496","17,760",CVS
+Restricted Cash - Current,--,--,--,--,"3,065",CVS
+Other Current Assets,945,"4,581","5,113","5,277","2,227",CVS
+"Other Curr. Assets, Total",945,"4,581","5,113","5,277","5,292",CVS
+Total Current Assets,"31,229","45,243","50,302","56,369","60,008",CVS
+Buildings,"8,136","9,169","9,679","10,027","10,467",CVS
+Land/Improvements,"1,707","1,872","1,981","2,134","2,038",CVS
+Machinery/Equipment,"14,447","15,828","17,274","19,145","21,045",CVS
+Other Prop./Plant/Equip.,--,--,"20,860","20,729","19,122",CVS
+Prop./Plant/Equip. - Gross,"24,290","26,869","49,794","52,035","52,672",CVS
+Accumulated Depreciation,"(13,998)","(15,520)","(16,890)","(18,700)","(20,654)",CVS
+Prop./Plant/Equip. - Net,"10,292","11,349","32,904","33,335","32,018",CVS
+"Goodwill, Net","38,451","78,678","79,749","79,552","79,121",CVS
+Intangibles - Gross,"19,929","43,738","42,159","41,623","41,753",CVS
+Accum. Intangible Amort.,"(6,299)","(7,214)","(9,038)","(10,481)","(12,727)",CVS
+Intangibles - Net,"13,630","36,524","33,121","31,142","29,026",CVS
+Long Term Investments,--,"15,732","17,314","20,812","23,025",CVS
+Other Long Term Assets,"1,529","8,930","9,059","9,229","9,583",CVS
+Total Assets,"95,131","196,456","222,449","230,715","232,999",CVS
+Accounts Payable,"19,218","26,437","30,972","34,869","38,682",CVS
+Accrued Expenses,"6,609","10,711","13,656","15,810","19,229",CVS
+Notes Payable/ST Debt,"1,276",720,0,0,0,CVS
+Curr. Port. LT Dbt/Cap Ls.,"3,545","1,265","3,781","5,440","4,205",CVS
+Customer Advances,--,--,73,71,87,CVS
+Other Current Liabilities,--,"4,876","4,821","5,827","5,604",CVS
+"Other Curr. Lblts, Total",--,"4,876","4,894","5,898","5,691",CVS
+Total Current Liabilities,"30,648","44,009","53,303","62,017","67,807",CVS
+Long Term Debt,"22,181","71,444","63,918","58,157","50,721",CVS
+Capital Lease Obligations,--,--,781,"1,050","1,250",CVS
+Total Long Term Debt,"22,181","71,444","64,699","59,207","51,971",CVS
+Total Debt,"27,002","73,429","68,480","64,647","56,176",CVS
+Deferred Income Tax,"2,996","7,677","7,294","6,794","6,270",CVS
+Minority Interest,4,318,306,312,306,CVS
+"Other Liabilities, Total","1,611","14,783","32,983","32,996","31,570",CVS
+Total Liabilities,"57,440","138,231","158,585","161,326","157,924",CVS
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,0,CVS
+Common Stock,17,"45,440","45,972","46,513","47,377",CVS
+Additional Paid-In Capital,"32,079",--,--,--,--,CVS
+Ret. Earn.(Accum. Deficit),"43,556","40,911","45,108","49,640","54,906",CVS
+Treasury Stock - Common,"(37,796)","(28,228)","(28,235)","(28,178)","(28,173)",CVS
+Unrealized Gain (Loss),--,97,774,"1,214",778,CVS
+Cum. Trans. Adjustment,(129),(158),4,7,0,CVS
+Min. Pension Lblty Adj.,(21),(149),(38),(55),(35),CVS
+Other Comprehensive Income,(15),312,279,248,222,CVS
+"Other Equity, Total",(165),5,245,200,187,CVS
+Total Equity,"37,691","58,225","63,864","69,389","75,075",CVS
+Total Liabilities & Shareholders’ Equity,"95,131","196,456","222,449","230,715","232,999",CVS
+Ttl Comm. Shares Outs.,"1,014","1,295","1,302","1,310","1,322",CVS
+Trsy. Shrs-Comm. Primary Iss.,698,425,425,423,422,CVS
+Trsry Shrs-Pref. Iss. 1,--,--,0,0,--,CVS

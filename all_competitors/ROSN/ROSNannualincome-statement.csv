@@ -1,0 +1,28 @@
+items,2011,2012,2013,2014,ticker
+Total Revenue,0,0,0,0,ROSN
+Total Operating Expense,1,31,293,271,ROSN
+Total Operating Income,(1),(31),(293),(271),ROSN
+"Other, Net",--,0,(7),(35),ROSN
+Income Before Tax,(1),(31),(301),(306),ROSN
+Income Tax - Total,0,0,0,0,ROSN
+Income After Tax,(1),(31),(301),(306),ROSN
+Net Inc Before Extra Items,(1),(31),(301),(306),ROSN
+Total Net Income,(1),(31),(301),(306),ROSN
+Income Available to Common Excl. Extra. Items,(1),(31),(301),(306),ROSN
+Income Available to Common Incl. Extra. Items,(1),(31),(301),(306),ROSN
+Basic/Primary Weighted Average Shares,"25,900","25,900","26,317","26,750",ROSN
+Basic/Primary EPS Excl. Extra. Items,0.00,0.00,(0.01),(0.01),ROSN
+Basic/Primary EPS Incl. Extra. Items,0.00,0.00,(0.01),(0.01),ROSN
+Dilution Adjustment,0,0,0,--,ROSN
+Diluted Weighted Average Shares,"25,900","25,900","26,317","26,750",ROSN
+Diluted EPS Excl. Extra. Items,0.00,0.00,(0.01),(0.01),ROSN
+Diluted EPS Incl. Extra. Items,0.00,0.00,(0.01),(0.01),ROSN
+Div/Share-ComStockPrimIssue,0.00,0.00,0.00,0.00,ROSN
+Gross Divid - Common Stock,0,0,0,0,ROSN
+Pro Forma Net Income,--,--,--,--,ROSN
+Normalzd Income Before Tax,(1),(31),(301),(306),ROSN
+IncTxsExcl ImpctofSpec Itms,0,0,0,0,ROSN
+Normalized Income After Tax,(1),(31),(301),(306),ROSN
+Normalzd Inc Avail to Common,(1),(31),(301),(306),ROSN
+Basic Normalized EPS,0.00,0.00,(0.01),(0.01),ROSN
+Diluted Normalized EPS,0.00,0.00,(0.01),(0.01),ROSN

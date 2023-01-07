@@ -1,0 +1,32 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Net Income,"1,200","1,797","3,299","3,553",DIS
+Depreciation/Depletion,"1,269","2,556","3,846","5,163",DIS
+Deferred Taxes,726,983,605,200,DIS
+Discontinued Operations,8,8,8,8,DIS
+Unusual Items,436,632,779,714,DIS
+Equity in Net Earnings/Loss,(16),(43),(99),(37),DIS
+Other Non-Cash Items,851,"(1,255)","(2,626)","(4,079)",DIS
+Non-Cash Items,"1,279",(658),"(1,938)","(3,394)",DIS
+Accounts Receivable,"(1,401)",(342),(506),605,DIS
+Inventories,(14),(97),(259),(420),DIS
+Other Assets,(115),(676),(684),(707),DIS
+Payable/Accrued,"(2,579)","(1,349)",(892),964,DIS
+Changes in Working Capital,"(4,675)","(3,114)","(2,326)",488,DIS
+Total Cash from Operations,(201),"1,564","3,486","6,010",DIS
+Capital Expenditures,(981),"(2,060)","(3,795)","(4,943)",DIS
+"OtherInvestCashFlowItms,Tot",(6),36,(77),(65),DIS
+Total Cash from Investing,(987),"(2,024)","(3,872)","(5,008)",DIS
+Financing Cash Flow Items,(234),(737),(836),(851),DIS
+Total Cash Dividends Paid,--,--,--,0,DIS
+"Iss (Retirmnt) of Stock,Net",33,88,100,127,DIS
+"Short Term Debt, Net",(124),(130),(275),(334),DIS
+Long Term Debt Issued,33,70,152,333,DIS
+Long Term Debt Reduction,0,"(1,400)","(1,400)","(4,016)",DIS
+"Long Term Debt, Net",33,"(1,330)","(1,248)","(3,683)",DIS
+"Iss (Retirmnt) of Debt, Net",(91),"(1,460)","(1,523)","(4,017)",DIS
+Total Cash From Financing,(292),"(2,109)","(2,259)","(4,741)",DIS
+Foreign Exchange Effects,(35),(116),(354),(603),DIS
+Net Change in Cash,"(1,515)","(2,685)","(2,999)","(4,342)",DIS
+NetCash-BeginBal/RsvdforFutUse,"16,003","16,003","16,003","16,003",DIS
+NetCash-EndBal/RsrvforFutUse,"14,488","13,318","13,004","11,661",DIS
+"Depreciation, Supplemental","1,269","2,556","3,846","5,163",DIS

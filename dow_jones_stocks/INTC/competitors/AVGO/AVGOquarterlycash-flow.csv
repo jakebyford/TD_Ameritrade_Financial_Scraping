@@ -1,0 +1,36 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Net Income,"2,472","5,062","8,136","11,495",AVGO
+Depreciation/Depletion,136,271,400,529,AVGO
+Amortization,"1,151","2,280","3,368","4,455",AVGO
+Deferred Taxes,70,70,55,(34),AVGO
+Unusual Items,15,215,240,113,AVGO
+Other Non-Cash Items,419,848,"1,255","1,832",AVGO
+Non-Cash Items,434,"1,063","1,495","1,945",AVGO
+"Cash Taxes Pd, Supplemental",186,426,657,908,AVGO
+"Cash Interest Pd, Suppl",240,699,989,"1,386",AVGO
+Accounts Receivable,(468),"(1,004)",(629),(870),AVGO
+Inventories,(223),(370),(540),(627),AVGO
+Accounts Payable,0,(31),(383),(79),AVGO
+Changes in Working Capital,(777),"(1,017)","(1,301)","(1,654)",AVGO
+Total Cash from Operations,"3,486","7,729","12,153","16,736",AVGO
+Capital Expenditures,(101),(186),(302),(424),AVGO
+Acquisition of Business,(8),(234),(239),(246),AVGO
+Sale of Business,--,--,--,0,AVGO
+Sale/Maturity of Investment,--,--,200,200,AVGO
+Purchase of Investments,(200),(200),(200),(200),AVGO
+Other Investing Cash Flow,--,1,2,3,AVGO
+"OtherInvestCashFlowItms,Tot",(208),(433),(237),(243),AVGO
+Total Cash from Investing,(309),(619),(539),(667),AVGO
+Financing Cash Flow Items,(4),(8),(12),(17),AVGO
+Total Cash Dividends Paid,"(1,764)","(3,514)","(5,250)","(7,032)",AVGO
+Sale/Issuance of Common,1,60,60,114,AVGO
+Repurch/Retirement Common,"(3,099)","(6,389)","(8,181)","(8,455)",AVGO
+"Iss (Retirmnt) of Stock,Net","(3,098)","(6,329)","(8,121)","(8,341)",AVGO
+Long Term Debt Issued,0,"1,935","1,935","1,935",AVGO
+Long Term Debt Reduction,(255),"(2,352)","(2,352)","(2,361)",AVGO
+"Iss (Retirmnt) of Debt, Net",(255),(417),(417),(426),AVGO
+Total Cash From Financing,"(5,121)","(10,268)","(13,800)","(15,816)",AVGO
+Net Change in Cash,"(1,944)","(3,158)","(2,186)",253,AVGO
+NetCash-BeginBal/RsvdforFutUse,"12,163","12,163","12,163","12,163",AVGO
+NetCash-EndBal/RsrvforFutUse,"10,219","9,005","9,977","12,416",AVGO
+"Depreciation, Supplemental",136,271,400,529,AVGO

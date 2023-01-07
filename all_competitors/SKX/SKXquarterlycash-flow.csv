@@ -1,0 +1,37 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,816,136,242,337,SKX
+Depreciation/Depletion,140,37,72,111,SKX
+Deferred Taxes,(387),5,(4),2,SKX
+Unusual Items,0,--,--,--,SKX
+Other Non-Cash Items,125,34,56,83,SKX
+Non-Cash Items,125,34,56,83,SKX
+"Cash Taxes Pd, Supplemental",125,29,51,73,SKX
+"Cash Interest Pd, Suppl",15,4,9,14,SKX
+Accounts Receivable,(154),(280),(210),(287),SKX
+Inventories,(458),24,(125),(381),SKX
+Other Assets,(110),4,11,15,SKX
+Accounts Payable,135,(65),119,92,SKX
+Changes in Working Capital,(481),(347),(211),(576),SKX
+Total Cash from Operations,212,(135),155,(43),SKX
+Capital Expenditures,(310),(89),(164),(264),SKX
+Acquisition of Business,0,--,--,--,SKX
+Sale of Fixed Assets,0,--,--,--,SKX
+Sale/Maturity of Investment,180,32,82,114,SKX
+Purchase of Investments,(215),(18),(33),(44),SKX
+"OtherInvestCashFlowItms,Tot",(35),14,50,71,SKX
+Total Cash from Investing,(345),(75),(114),(193),SKX
+Financing Cash Flow Items,(48),(13),(22),(31),SKX
+Sale/Issuance of Common,7,--,5,5,SKX
+Repurch/Retirement Common,0,(25),(49),(74),SKX
+"Iss (Retirmnt) of Stock,Net",7,(25),(44),(69),SKX
+"Short Term Debt, Net",(2),49,(1),30,SKX
+Long Term Debt Issued,96,2,16,52,SKX
+Long Term Debt Reduction,(487),(19),(30),(30),SKX
+"Long Term Debt, Net",(391),(16),(14),22,SKX
+"Iss (Retirmnt) of Debt, Net",(393),33,(15),52,SKX
+Total Cash From Financing,(434),(5),(81),(49),SKX
+Foreign Exchange Effects,(8),9,(4),(4),SKX
+Net Change in Cash,(575),(206),(44),(288),SKX
+NetCash-BeginBal/RsvdforFutUse,"1,371",796,796,796,SKX
+NetCash-EndBal/RsrvforFutUse,796,590,752,508,SKX
+"Depreciation, Supplemental",140,37,72,111,SKX

@@ -1,0 +1,62 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash,304,279,170,643,708,CCEP
+Short Term Investments,56,30,146,880,757,CCEP
+Cash and Short Term Invs,360,309,316,"1,523","1,465",CCEP
+"Trade Accts Recvble, Gross","1,746","1,671","1,687","1,478","2,354",CCEP
+Prov. for Doubtful Accts,(14),(16),(18),(39),(49),CCEP
+"Trade Accts Recvble, Net","1,732","1,655","1,669","1,439","2,305",CCEP
+Other Receivables,497,259,300,169,189,CCEP
+"Total Receivables, Net","2,229","1,914","1,969","1,608","2,494",CCEP
+Invent. - Finished Goods,324,378,408,389,635,CCEP
+Invent. - Work In Progress,103,81,83,82,147,CCEP
+Invent. - Raw Materials,223,234,232,210,375,CCEP
+Total Inventory,650,693,723,681,"1,157",CCEP
+Prepaid Expenses,45,47,65,--,--,CCEP
+Discont. Ops.-Curr. Assets,10,15,18,--,223,CCEP
+Other Current Assets,20,13,12,264,421,CCEP
+"Other Curr. Assets, Total",30,28,30,264,644,CCEP
+Total Current Assets,"3,314","2,991","3,103","4,076","5,760",CCEP
+Buildings,"1,453","1,488","1,755","1,846","2,429",CCEP
+Land/Improvements,312,317,316,317,663,CCEP
+Machinery/Equipment,"3,749","3,876","4,306","4,413","4,902",CCEP
+Construction in Progress,180,339,279,125,206,CCEP
+Other Prop./Plant/Equip.,177,183,234,144,160,CCEP
+Prop./Plant/Equip. - Gross,"5,871","6,203","6,890","6,845","8,360",CCEP
+Accumulated Depreciation,"(2,034)","(2,315)","(2,685)","(2,985)","(3,112)",CCEP
+Prop./Plant/Equip. - Net,"3,837","3,888","4,205","3,860","5,248",CCEP
+"Goodwill, Net","2,520","2,518","2,520","2,517","4,623",CCEP
+Intangibles - Gross,"8,548","8,598","8,763","8,690","12,994",CCEP
+Accum. Intangible Amort.,(164),(214),(257),(276),(355),CCEP
+Intangibles - Net,"8,384","8,384","8,506","8,414","12,639",CCEP
+Other Long Term Assets,83,398,324,343,760,CCEP
+Total Assets,"18,194","18,216","18,685","19,237","29,090",CCEP
+Accounts Payable,"1,057","1,105","1,138","1,124","1,691",CCEP
+Accrued Expenses,"1,184","1,323","1,226","1,251","1,916",CCEP
+Notes Payable/ST Debt,250,120,221,0,285,CCEP
+Curr. Port. LT Dbt/Cap Ls.,24,371,578,805,"1,065",CCEP
+Income Taxes Payable,253,383,346,364,401,CCEP
+Other Payables,178,191,249,181,210,CCEP
+Other Current Liabilities,341,299,357,415,525,CCEP
+"Other Curr. Lblts, Total",772,873,952,960,"1,136",CCEP
+Total Current Liabilities,"3,287","3,792","4,115","4,140","6,093",CCEP
+Long Term Debt,"5,411","5,074","5,346","6,113","11,281",CCEP
+Capital Lease Obligations,63,53,276,269,509,CCEP
+Total Long Term Debt,"5,474","5,127","5,622","6,382","11,790",CCEP
+Total Debt,"5,748","5,618","6,421","7,187","13,140",CCEP
+Deferred Income Tax,"2,237","2,157","2,203","2,134","3,617",CCEP
+Minority Interest,--,--,--,--,177,CCEP
+Reserves,48,119,54,83,48,CCEP
+Pension Benefits - Underfunded,162,142,221,283,138,CCEP
+Other LT Liabilities,301,315,314,190,194,CCEP
+"Other Liabilities, Total",511,576,589,556,380,CCEP
+Total Liabilities,"11,509","11,652","12,529","13,212","22,057",CCEP
+Common Stock,5,5,5,5,5,CCEP
+Additional Paid-In Capital,127,152,178,192,220,CCEP
+Ret. Earn.(Accum. Deficit),"7,056","6,959","6,422","6,365","6,969",CCEP
+Cum. Trans. Adjustment,(688),(723),(629),(754),(509),CCEP
+Other Comprehensive Income,185,171,180,217,348,CCEP
+"Other Equity, Total",(503),(552),(449),(537),(161),CCEP
+Total Equity,"6,685","6,564","6,156","6,025","7,033",CCEP
+Total Liabilities & Shareholders’ Equity,"18,194","18,216","18,685","19,237","29,090",CCEP
+Ttl Comm. Shares Outs.,485,475,456,457,456,CCEP
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,CCEP

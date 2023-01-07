@@ -1,0 +1,58 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash and Short Term Invs,"2,073","1,467","4,717","4,787","3,001",TDG
+"Trade Accts Recvble, Gross",709,"1,085",757,821,"1,002",TDG
+Prov. for Doubtful Accts,(5),(17),(37),(30),(35),TDG
+"Total Receivables, Net",704,"1,112",756,861,"1,086",TDG
+Invent. - Finished Goods,127,192,222,207,210,TDG
+Invent. - Work In Progress,237,360,358,322,359,TDG
+Invent. - Raw Materials,540,805,881,850,959,TDG
+LIFO Reserve,(99),(124),(178),(194),(196),TDG
+Total Inventory,805,"1,233","1,283","1,185","1,332",TDG
+Prepaid Expenses,75,91,204,197,230,TDG
+"Other Curr. Assets, Total",0,962,0,--,--,TDG
+Total Current Assets,"3,657","4,865","6,960","7,030","5,649",TDG
+Buildings,171,407,350,409,461,TDG
+Land/Improvements,77,96,103,103,103,TDG
+Machinery/Equipment,448,628,782,832,945,TDG
+Construction in Progress,31,52,57,61,78,TDG
+Other Prop./Plant/Equip.,--,--,103,94,85,TDG
+Prop./Plant/Equip. - Gross,728,"1,183","1,395","1,499","1,672",TDG
+Accumulated Depreciation,(340),(427),(540),(635),(780),TDG
+Prop./Plant/Equip. - Net,388,757,855,864,892,TDG
+"Goodwill, Net","6,223","7,820","7,889","8,568","8,641",TDG
+Intangibles - Gross,"2,233","3,324","3,354","3,571","3,640",TDG
+Accum. Intangible Amort.,(444),(580),(744),(780),(890),TDG
+Intangibles - Net,"1,788","2,744","2,610","2,791","2,750",TDG
+Note Rcvble - Long Term,--,7,6,2,1,TDG
+Other Long Term Assets,140,62,58,60,174,TDG
+Total Assets,"12,197","16,255","18,395","19,315","18,107",TDG
+Accounts Payable,174,277,218,227,279,TDG
+Accrued Expenses,327,550,662,737,635,TDG
+Notes Payable/ST Debt,300,350,349,349,350,TDG
+Curr. Port. LT Dbt/Cap Ls.,76,80,278,279,78,TDG
+Dividends Payable,24,64,72,46,39,TDG
+Customer Advances,--,18,18,25,45,TDG
+Income Taxes Payable,--,44,19,--,--,TDG
+Discontinued Operations,0,157,0,--,--,TDG
+"Other Curr. Lblts, Total",24,283,109,71,84,TDG
+Total Current Liabilities,900,"1,539","1,616","1,663","1,426",TDG
+Long Term Debt,"12,502","16,469","19,384","19,372","19,369",TDG
+Capital Lease Obligations,--,--,55,98,144,TDG
+Total Long Term Debt,"12,502","16,469","19,439","19,470","19,513",TDG
+Total Debt,"12,877","16,899","20,066","20,098","19,941",TDG
+Deferred Income Tax,399,441,430,485,596,TDG
+Minority Interest,--,10,4,6,7,TDG
+"Other Liabilities, Total",204,691,878,607,338,TDG
+Total Liabilities,"14,006","19,150","22,367","22,231","21,880",TDG
+Common Stock,1,1,1,1,1,TDG
+Additional Paid-In Capital,"1,209","1,379","1,581","1,830","2,113",TDG
+Ret. Earn.(Accum. Deficit),"(2,247)","(3,120)","(4,359)","(3,705)","(3,914)",TDG
+Treasury Stock - Common,(775),(775),(794),(794),"(1,706)",TDG
+Cum. Trans. Adjustment,(52),(40),(91),(1),(380),TDG
+Min. Pension Lblty Adj.,(11),(167),(8),(18),(10),TDG
+Other Comprehensive Income,67,(172),(302),(229),123,TDG
+"Other Equity, Total",4,(379),(401),(248),(267),TDG
+Total Equity,"(1,808)","(2,895)","(3,972)","(2,916)","(3,773)",TDG
+Total Liabilities & Shareholders’ Equity,"12,197","16,255","18,395","19,315","18,107",TDG
+Ttl Comm. Shares Outs.,53,53,54,55,54,TDG
+Trsy. Shrs-Comm. Primary Iss.,4,4,4,4,6,TDG

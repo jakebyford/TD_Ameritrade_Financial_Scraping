@@ -1,0 +1,50 @@
+items,2017,2018,2019,2021,2022,ticker
+Total Revenue,"76,450","81,581","82,059","82,584","93,775",JNJ
+"Cost of Revenue, Total","25,351","26,986","27,456","28,327","29,855",JNJ
+Selling/Gen/Admin Expense,"19,020","19,940","19,978","18,984","20,859",JNJ
+Advertising Expense,"2,500","2,600","2,200","2,100","2,700",JNJ
+"Sell/Gen/AdminExpenses,Tot","21,520","22,540","22,178","21,084","23,559",JNJ
+Research & Development,"10,594","10,775","11,355","12,159","14,714",JNJ
+"Inter Expense, Operating","1,028","1,091",388,264,232,JNJ
+"Inter Capitalzd, Operating",(94),(86),(70),(63),(49),JNJ
+"Inter Expense,Net Operatng",934,"1,005",318,201,183,JNJ
+"Interest Income, Operating",(385),(611),(357),(111),(53),JNJ
+"Invest Income, Operating",--,--,(144),(500),(500),JNJ
+"Inter/Invest Inc, Operating",(385),(611),(501),(611),(553),JNJ
+Purchased R&D Written-Off,408,"1,126",890,181,900,JNJ
+Restructuring Charge,760,700,566,447,352,JNJ
+Litigation,--,--,--,"5,100","2,300",JNJ
+Impair-Assets Held for Use,--,--,--,--,989,JNJ
+Other Unusual Expnse (In),--,--,--,(300),600,JNJ
+Unusual Expense (Income),"1,168","1,826","1,456","5,428","5,141",JNJ
+"Other Operat Expse, Total",(405),"1,061","2,469",(501),"(1,900)",JNJ
+Total Operating Expense,"58,777","63,582","64,731","66,087","70,999",JNJ
+Total Operating Income,"17,673","17,999","17,328","16,497","22,776",JNJ
+Income Before Tax,"17,673","17,999","17,328","16,497","22,776",JNJ
+Income Tax - Total,"3,373","2,702","2,209","2,083","1,898",JNJ
+Income After Tax,"14,300","15,297","15,119","14,414","20,878",JNJ
+Net Inc Before Extra Items,"14,300","15,297","15,119","14,414","20,878",JNJ
+Total Extraordinary Items,"(13,000)",--,--,300,--,JNJ
+Total Net Income,"1,300","15,297","15,119","14,714","20,878",JNJ
+Income Available to Common Excl. Extra. Items,"14,300","15,297","15,119","14,414","20,878",JNJ
+Income Available to Common Incl. Extra. Items,"1,300","15,297","15,119","14,714","20,878",JNJ
+Basic/Primary Weighted Average Shares,"2,692","2,682","2,645","2,633","2,632",JNJ
+Basic/Primary EPS Excl. Extra. Items,5.31,5.70,5.72,5.47,7.93,JNJ
+Basic/Primary EPS Incl. Extra. Items,0.48,5.70,5.72,5.59,7.93,JNJ
+Diluted Weighted Average Shares,"2,745","2,729","2,684","2,671","2,674",JNJ
+Diluted EPS Excl. Extra. Items,5.21,5.61,5.63,5.40,7.81,JNJ
+Diluted EPS Incl. Extra. Items,0.47,5.61,5.63,5.51,7.81,JNJ
+Div/Share-ComStockPrimIssue,3.32,3.54,3.75,3.98,4.19,JNJ
+Gross Divid - Common Stock,"8,943","9,494","9,917","10,481","11,032",JNJ
+Pro Forma Net Income,--,--,--,--,--,JNJ
+"Interest Expense, Suppl",934,"1,005",318,201,183,JNJ
+"Interest Capitalized, Suppl",(94),(86),(70),(63),(49),JNJ
+"Depreciat/Amort, Suppl","2,642","2,529","2,509","2,600","2,700",JNJ
+Total Special Items,"3,368","4,026","6,754","5,828","5,141",JNJ
+Normalzd Income Before Tax,"21,041","22,025","24,082","22,325","27,917",JNJ
+Efct/SpecItemsIncTxs (STEC),565,435,748,713,353,JNJ
+IncTxsExcl ImpctofSpec Itms,"3,938","3,137","2,957","2,796","2,251",JNJ
+Normalized Income After Tax,"17,103","18,888","21,125","19,529","25,666",JNJ
+Normalzd Inc Avail to Common,"17,103","18,888","21,125","19,529","25,666",JNJ
+Basic Normalized EPS,6.35,7.04,7.99,7.42,9.75,JNJ
+Diluted Normalized EPS,6.23,6.92,7.87,7.31,9.60,JNJ

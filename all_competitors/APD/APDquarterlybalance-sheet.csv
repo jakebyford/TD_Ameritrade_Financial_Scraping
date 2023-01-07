@@ -1,0 +1,48 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Cash & Equivalents,"2,954","2,349","2,957","2,711",APD
+Short Term Investments,729,849,358,591,APD
+Cash and Short Term Invs,"3,682","3,198","3,315","3,302",APD
+"Total Receivables, Net","1,878","2,012","1,923","1,879",APD
+Invent. - Finished Goods,159,174,161,162,APD
+Invent. - Work In Progress,26,22,23,22,APD
+Invent. - Raw Materials,303,312,330,330,APD
+Total Inventory,487,508,514,514,APD
+Prepaid Expenses,135,196,179,157,APD
+"Other Curr. Assets, Total",301,337,436,432,APD
+Total Current Assets,"6,484","6,249","6,367","6,283",APD
+Prop./Plant/Equip. - Gross,"28,101","28,720","28,349","28,160",APD
+Accumulated Depreciation,"(14,476)","(14,625)","(14,217)","(14,000)",APD
+Prop./Plant/Equip. - Net,"13,625","14,095","14,132","14,161",APD
+"Goodwill, Gross","1,235","1,251","1,155","1,096",APD
+Accum. Goodwill Amort.,(311),(338),(288),(273),APD
+"Goodwill, Net",923,913,867,823,APD
+Intangibles - Net,419,419,377,348,APD
+Long Term Investments,"3,329","3,424","3,340","3,354",APD
+Note Rcvble - Long Term,724,692,642,583,APD
+Other Long Term Assets,"1,622","1,657","1,765","1,642",APD
+Total Assets,"27,125","27,450","27,489","27,193",APD
+Payable/Accrued,"1,791","1,841","2,067","2,333",APD
+Notes Payable/ST Debt,113,207,207,11,APD
+Curr. Port. LT Dbt/Cap Ls.,87,486,547,548,APD
+Customer Advances,519,566,477,439,APD
+Income Taxes Payable,120,105,108,135,APD
+"Other Curr. Lblts, Total",639,670,585,574,APD
+Total Current Liabilities,"2,630","3,205","3,407","3,466",APD
+Total Long Term Debt,"7,178","6,748","6,832","7,086",APD
+Total Debt,"7,378","7,442","7,586","7,645",APD
+Deferred Income Tax,"1,210","1,249","1,309","1,247",APD
+Minority Interest,551,556,572,558,APD
+"Other Liabilities, Total","1,732","1,737","1,726","1,691",APD
+Total Liabilities,"13,300","13,495","13,845","14,049",APD
+Common Stock,249,249,249,249,APD
+Additional Paid-In Capital,"1,112","1,121","1,131","1,141",APD
+Ret. Earn.(Accum. Deficit),"15,905","16,076","16,298","16,520",APD
+Treasury Stock - Common,"(1,989)","(1,985)","(1,984)","(1,981)",APD
+Cum. Trans. Adjustment,(857),(912),"(1,468)","(2,072)",APD
+Min. Pension Lblty Adj.,(578),(562),(545),(642),APD
+Other Comprehensive Income,(18),(32),(39),(72),APD
+"Other Equity, Total","(1,452)","(1,506)","(2,051)","(2,786)",APD
+Total Equity,"13,825","13,955","13,644","13,144",APD
+Total Liabilities & Shareholders’ Equity,"27,125","27,450","27,489","27,193",APD
+Ttl Comm. Shares Outs.,222,222,222,222,APD
+Trsy. Shrs-Comm. Primary Iss.,28,28,28,28,APD

@@ -1,0 +1,42 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash & Equivalents,"5,081","4,424","4,421","7,079",CI
+Prop./Plant/Equip. - Gross,552,546,563,543,CI
+Accumulated Depreciation,(51),(56),(63),(46),CI
+Prop./Plant/Equip. - Net,"4,143","4,089","4,104","4,140",CI
+"Goodwill, Net","45,811","45,804","45,810","45,807",CI
+Intangibles - Net,"34,102","33,714","33,276","32,885",CI
+Long Term Investments,"19,358","18,424","17,478","17,056",CI
+Note Rcvble - Long Term,"15,071","16,003","18,290","17,275",CI
+Def. Policy Acq. Costs,677,719,742,764,CI
+Reinsurance - Asset,"4,970","4,937","4,874","4,826",CI
+Separate Accounts - Assets,"8,337","8,148","7,495","7,260",CI
+Other Assets,"7,282","6,655","7,088","7,117",CI
+"Other Assets, Total","20,589","19,740","19,457","19,203",CI
+Total Assets,"154,889","152,610","152,630","144,209",CI
+Accounts Payable,"6,655","6,632","7,142","6,870",CI
+Accrued Expenses,"7,758","8,212","8,133","8,354",CI
+Insurance Reserves,"17,881","17,840","17,431","17,750",CI
+Sep. Accounts - Liability,"8,337","8,148","7,495","7,260",CI
+Policy Liabilities,"26,218","25,988","24,926","25,010",CI
+Notes Payable/ST Debt,"2,027","1,570","1,797",0,CI
+Curr. Port. LT Dbt/Cap Ls.,518,603,600,"3,488",CI
+"Other Curr. Lblts, Total","15,309","15,235","16,432","16,676",CI
+Long Term Debt,"31,097","30,976","30,961","28,021",CI
+Capital Lease Obligations,28,37,23,69,CI
+Total Long Term Debt,"31,125","31,013","30,984","28,090",CI
+Total Debt,"33,670","33,186","33,381","31,578",CI
+Deferred Income Tax,"8,346","8,110","8,014","7,777",CI
+Minority Interest,72,77,75,92,CI
+Discont. Ops. - Lblts,"6,423","6,116","5,851",--,CI
+Other Liabilities,"3,326","2,967","2,784","2,811",CI
+"Other Liabilities, Total","9,749","9,083","8,635","2,811",CI
+Total Liabilities,"107,777","106,523","106,738","99,168",CI
+Common Stock,4,4,4,4,CI
+Additional Paid-In Capital,"29,574","29,736","29,930","29,395",CI
+Ret. Earn.(Accum. Deficit),"32,593","33,420","34,626","37,041",CI
+Treasury Stock - Common,"(14,175)","(15,581)","(16,588)","(19,390)",CI
+"Other Equity, Total",(884),"(1,492)","(2,080)","(2,009)",CI
+Total Equity,"47,112","46,087","45,892","45,041",CI
+Total Liabilities & Shareholders’ Equity,"154,889","152,610","152,630","144,209",CI
+Ttl Comm. Shares Outs.,323,319,316,305,CI
+Trsy. Shrs-Comm. Primary Iss.,71,77,81,92,CI

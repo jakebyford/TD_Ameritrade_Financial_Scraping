@@ -1,0 +1,33 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"5,582","1,903","2,855","4,307",LLY
+Depreciation/Depletion,"1,548",436,785,"1,148",LLY
+Deferred Taxes,(802),(507),"(1,125)","(2,196)",LLY
+Unusual Items,"1,102",579,779,928,LLY
+Other Non-Cash Items,854,134,144,496,LLY
+Non-Cash Items,"1,956",713,923,"1,424",LLY
+Changes in Working Capital,"(1,023)",(46),(118),822,LLY
+Total Cash from Operations,"7,261","2,499","3,320","5,505",LLY
+Purchase of Fixed Assets,"(1,310)",(365),(736),"(1,354)",LLY
+Purchase/Acq of Intangibles,(563),(492),(572),(575),LLY
+Capital Expenditures,"(1,873)",(857),"(1,308)","(1,928)",LLY
+Acquisition of Business,(747),0,0,0,LLY
+Sale of Business,0,--,--,--,LLY
+Sale/Maturity of Investment,847,108,226,335,LLY
+Purchase of Investments,"(1,013)",(131),(284),(539),LLY
+Other Investing Cash Flow,24,(133),(111),(268),LLY
+"OtherInvestCashFlowItms,Tot",(889),(157),(170),(473),LLY
+Total Cash from Investing,"(2,762)","(1,014)","(1,478)","(2,401)",LLY
+Financing Cash Flow Items,(296),(282),(290),(295),LLY
+Total Cash Dividends Paid,"(3,087)",(886),"(1,769)","(2,651)",LLY
+"Iss (Retirmnt) of Stock,Net","(1,250)","(1,500)","(1,500)","(1,500)",LLY
+"Short Term Debt, Net",(4),500,"2,117","1,741",LLY
+Long Term Debt Issued,"2,411",--,--,0,LLY
+Long Term Debt Reduction,"(1,905)",(710),"(1,560)","(1,560)",LLY
+"Long Term Debt, Net",505,(710),"(1,560)","(1,560)",LLY
+"Iss (Retirmnt) of Debt, Net",501,(210),557,181,LLY
+Total Cash From Financing,"(4,131)","(2,878)","(3,002)","(4,265)",LLY
+Foreign Exchange Effects,(206),34,(36),(39),LLY
+Net Change in Cash,161,"(1,359)","(1,196)","(1,201)",LLY
+NetCash-BeginBal/RsvdforFutUse,"3,657","3,819","3,819","3,819",LLY
+NetCash-EndBal/RsrvforFutUse,"3,819","2,459","2,623","2,617",LLY
+"Depreciation, Supplemental","1,548",436,785,"1,148",LLY

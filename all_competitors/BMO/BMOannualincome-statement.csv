@@ -1,0 +1,55 @@
+items,2018,2019,2020,2021,2022,ticker
+Interest & Fees on Loans,"16,275","19,824","17,945","15,727","20,464",BMO
+Inter & Divs/ Invest Securs,"4,119","5,541","4,980","3,963","5,590",BMO
+Interest on Deposits,641,787,390,197,843,BMO
+"Interest Income, Bank","21,035","26,152","23,315","19,887","26,897",BMO
+Interest on Deposit,"6,080","8,616","6,239","3,220","6,711",BMO
+Inter on Other Borrowings,"3,517","4,648","3,105","2,357","4,301",BMO
+Total Interest Expense,"9,597","13,264","9,344","5,577","11,012",BMO
+Net Interest Income,"11,438","12,888","13,971","14,310","15,885",BMO
+Loan Loss Provision,662,872,"1,431",20,313,BMO
+NetInterIn after Loan Loss Provision,"10,776","12,016","12,540","14,290","15,572",BMO
+Fees & Commish from Operat,"1,134","1,204","1,221","1,243","1,318",BMO
+Commish & Fees/Secur Act,"3,717","3,756","3,913","4,510","4,045",BMO
+Insur Commish Fees& Premium,"(1,352)","(2,709)","(1,708)","(1,399)",683,BMO
+Credit Card Fees,428,437,358,442,548,BMO
+Fees for Other Cust Serv,997,"1,181","1,295","1,391","1,440",BMO
+Dealer Trading Acct Profit,"2,178","1,717","1,432","1,891","9,562",BMO
+Invest Securities Gains,239,249,124,591,281,BMO
+Foreign Currency Gains,182,166,127,167,181,BMO
+Other Revenue,713,702,567,700,607,BMO
+"Non-Interest Income, Bank","8,236","6,703","7,329","9,536","18,665",BMO
+Labor & Related Expenses,"(7,461)","(8,423)","(7,944)","(8,322)","(8,795)",BMO
+Amortization of Intangibles,(503),(554),(620),(634),(604),BMO
+Other Unusual Expense,--,--,"(1,522)",--,--,BMO
+Other Expense,"(3,634)","(2,470)","(3,435)","(4,612)","(6,952)",BMO
+"Non-Interest Expense, Bank","(11,598)","(11,447)","(13,521)","(13,568)","(16,351)",BMO
+Income Before Tax,"7,414","7,272","6,348","10,258","17,886",BMO
+Income Tax - Total,"1,536","1,514","1,251","2,504","4,349",BMO
+Income After Tax,"5,878","5,758","5,097","7,754","13,537",BMO
+Minority Interest,0,0,--,--,--,BMO
+Net Inc Before Extra Items,"5,878","5,758","5,097","7,754","13,537",BMO
+Total Extraordinary Items,(425),--,--,--,--,BMO
+Total Net Income,"5,453","5,758","5,097","7,754","13,537",BMO
+Total Adjust to Net Income,(184),(211),(247),(244),(231),BMO
+Income Available to Common Excl. Extra. Items,"5,694","5,547","4,850","7,510","13,306",BMO
+Income Available to Common Incl. Extra. Items,"5,269","5,547","4,850","7,510","13,306",BMO
+Basic/Primary Weighted Average Shares,643,639,641,647,664,BMO
+Basic/Primary EPS Excl. Extra. Items,8.86,8.68,7.56,11.60,20.04,BMO
+Basic/Primary EPS Incl. Extra. Items,8.20,8.68,7.56,11.60,20.04,BMO
+Dilution Adjustment,0,0,0,--,--,BMO
+Diluted Weighted Average Shares,645,640,642,649,666,BMO
+Diluted EPS Excl. Extra. Items,8.83,8.66,7.55,11.58,19.99,BMO
+Diluted EPS Incl. Extra. Items,8.17,8.66,7.55,11.58,19.99,BMO
+Div/Share-ComStockPrimIssue,3.72,4.06,4.21,4.24,5.11,BMO
+Gross Divid - Common Stock,"2,424","2,594","2,723","2,746","3,634",BMO
+Pro Forma Net Income,--,--,--,--,--,BMO
+"Depreciat/Amort, Suppl",400,435,801,791,780,BMO
+Total Special Items,307,507,"1,541",880,326,BMO
+Normalzd Income Before Tax,"7,721","7,779","7,889","11,138","18,212",BMO
+Efct/SpecItemsIncTxs (STEC),(77),(130),(3),16,79,BMO
+IncTxsExcl ImpctofSpec Itms,"1,459","1,384","1,248","2,520","4,428",BMO
+Normalized Income After Tax,"6,262","6,395","6,641","8,618","13,784",BMO
+Normalzd Inc Avail to Common,"6,078","6,184","6,394","8,374","13,553",BMO
+Basic Normalized EPS,9.45,9.68,9.97,12.94,20.41,BMO
+Diluted Normalized EPS,9.42,9.66,9.96,12.91,20.36,BMO

@@ -1,0 +1,41 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"21,635","3,939","6,866","9,935",GS
+Depreciation/Depletion,"2,015",492,"1,062","1,728",GS
+Deferred Taxes,5,--,--,--,GS
+Unusual Items,0,--,--,--,GS
+Other Non-Cash Items,"2,705","3,689","4,739","5,554",GS
+Non-Cash Items,"2,705","3,689","4,739","5,554",GS
+"Cash Taxes Pd, Supplemental","6,195",435,"1,600","3,046",GS
+"Cash Interest Pd, Suppl","5,521","1,299","3,738","9,882",GS
+Other Assets,"15,232","(28,163)","(18,694)","(39,764)",GS
+Accounts Payable,"21,971","26,755","25,150","21,453",GS
+Changes in Working Capital,"(25,439)","(31,072)","2,855","6,488",GS
+Total Cash from Operations,921,"(22,952)","15,522","23,705",GS
+Capital Expenditures,"(4,667)",(953),"(2,004)","(2,994)",GS
+Acquisition of Business,--,(13),"(1,830)","(2,113)",GS
+Sale of Fixed Assets,"3,933",428,939,"1,272",GS
+Sale/Maturity of Investment,"45,701","2,369","4,964","8,080",GS
+"Investment, Net","(35,520)","(10,072)","(21,076)","(20,924)",GS
+Purchase of Investments,"(39,912)","(8,780)","(36,502)","(52,989)",GS
+"OtherInvestCashFlowItms,Tot","(25,798)","(16,068)","(53,505)","(66,674)",GS
+Total Cash from Investing,"(30,465)","(17,021)","(55,509)","(69,668)",GS
+Financing Cash Flow Items,497,(205),137,523,GS
+Cash Divids Paid - Common,"(2,282)",(707),--,"(2,313)",GS
+Cash Divs Paid - Preferred,(443),(108),"(1,672)",(356),GS
+Total Cash Dividends Paid,"(2,725)",(815),"(1,672)","(2,669)",GS
+"Common Stock, Net","(5,200)",(500),"(1,000)","(2,000)",GS
+Sale/Issuance of Preferred,"2,172",--,0,0,GS
+Repurch/Retirement Preferd,"(2,675)",0,0,0,GS
+"Preferred Stock, Net",(503),0,0,0,GS
+"Iss (Retirmnt) of Stock,Net","(5,703)",(500),"(1,000)","(2,000)",GS
+"Short Term Debt, Net","104,355","33,350","41,334","40,210",GS
+Long Term Debt Issued,"97,512","37,471","54,470","71,119",GS
+Long Term Debt Reduction,"(52,608)","(14,483)","(23,781)","(35,328)",GS
+"Long Term Debt, Net","44,904","22,988","30,689","35,791",GS
+Total Debt Reduction,"(6,590)","(1,717)","(1,931)","(2,677)",GS
+"Iss (Retirmnt) of Debt, Net","142,669","54,621","70,092","73,324",GS
+Total Cash From Financing,"134,738","53,101","67,557","69,178",GS
+Net Change in Cash,"105,194","13,128","27,570","23,215",GS
+NetCash-BeginBal/RsvdforFutUse,"155,842","261,036","261,036","261,036",GS
+NetCash-EndBal/RsrvforFutUse,"261,036","274,164","288,606","284,251",GS
+"Depreciation, Supplemental","2,015",492,"1,062","1,728",GS

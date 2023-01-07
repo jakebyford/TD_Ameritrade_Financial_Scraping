@@ -1,0 +1,35 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"1,022",591,770,999,WRB
+Depreciation/Depletion,130,25,37,46,WRB
+Deferred Taxes,8,124,(57),(111),WRB
+Equity in Net Earnings/Loss,(220),(52),(86),(122),WRB
+Other Non-Cash Items,55,14,27,40,WRB
+Non-Cash Items,(165),(38),(59),(82),WRB
+"Cash Taxes Pd, Supplemental",244,0,183,264,WRB
+"Cash Interest Pd, Suppl",141,53,75,116,WRB
+Changes in Working Capital,"1,189",(223),314,921,WRB
+Total Cash from Operations,"2,184",478,"1,006","1,773",WRB
+Capital Expenditures,(67),(9),(28),(54),WRB
+Acquisition of Business,--,(50),(50),(50),WRB
+Sale of Business,--,907,907,907,WRB
+Sale of Fixed Assets,167,28,--,--,WRB
+Sale/Maturity of Investment,"8,036","1,858","3,585","5,574",WRB
+"Investment, Net",101,(13),(143),(73),WRB
+Purchase of Investments,"(11,181)","(2,301)","(5,132)","(8,035)",WRB
+Other Investing Cash Flow,(45),98,71,180,WRB
+"OtherInvestCashFlowItms,Tot","(2,923)",528,(762),"(1,496)",WRB
+Total Cash from Investing,"(2,989)",519,(790),"(1,550)",WRB
+Financing Cash Flow Items,(45),(3),(1),(22),WRB
+Total Cash Dividends Paid,(356),(23),(23),(182),WRB
+"Common Stock, Net",(122),0,0,(7),WRB
+Options Exercised,--,0,--,--,WRB
+"Iss (Retirmnt) of Stock,Net",(122),0,0,(7),WRB
+Long Term Debt Issued,"1,034",1,0,2,WRB
+Long Term Debt Reduction,(505),(427),(427),(427),WRB
+"Iss (Retirmnt) of Debt, Net",529,(425),(426),(424),WRB
+Total Cash From Financing,6,(451),(451),(635),WRB
+Foreign Exchange Effects,(4),1,(17),(26),WRB
+Net Change in Cash,(804),546,(252),(438),WRB
+NetCash-BeginBal/RsvdforFutUse,"2,372","1,569","1,569","1,569",WRB
+NetCash-EndBal/RsrvforFutUse,"1,569","2,115","1,317","1,131",WRB
+"Depreciation, Supplemental",130,25,37,46,WRB

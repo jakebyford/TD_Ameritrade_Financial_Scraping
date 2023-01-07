@@ -1,0 +1,32 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"3,033","10,073","11,588","21,331","33,364",AMZN
+Depreciation/Depletion,"11,478","15,341","21,789","25,251","34,296",AMZN
+Deferred Taxes,(29),441,796,(554),(310),AMZN
+Non-Cash Items,"4,125","5,911","6,779","6,555","(1,412)",AMZN
+"Cash Taxes Pd, Supplemental",957,"1,184",(881),"1,713","3,688",AMZN
+"Cash Interest Pd, Suppl",328,854,875,916,"1,098",AMZN
+Accounts Receivable,"(4,780)","(4,615)","(7,681)","(8,169)","(18,163)",AMZN
+Inventories,"(3,583)","(1,314)","(3,278)","(2,849)","(9,487)",AMZN
+Accounts Payable,"7,100","3,263","8,193","17,480","3,602",AMZN
+Accrued Expenses,283,472,"(1,383)","5,754","2,123",AMZN
+Changes in Working Capital,(242),"(1,043)","(2,438)","13,481","(19,611)",AMZN
+Total Cash from Operations,"18,365","30,723","38,514","66,064","46,327",AMZN
+Capital Expenditures,"(11,955)","(13,427)","(16,861)","(40,140)","(61,053)",AMZN
+Acquisition of Business,"(13,972)","(2,186)","(2,461)","(2,325)","(1,985)",AMZN
+Sale of Fixed Assets,"1,897","2,104","4,172","5,096","5,657",AMZN
+Sale/Maturity of Investment,"9,677","8,240","22,681","50,237","59,384",AMZN
+Purchase of Investments,"(12,731)","(7,100)","(31,812)","(72,479)","(60,157)",AMZN
+"OtherInvestCashFlowItms,Tot","(15,129)","1,058","(7,420)","(19,471)","2,899",AMZN
+Total Cash from Investing,"(27,084)","(12,369)","(24,281)","(59,611)","(58,154)",AMZN
+Short Term Debt Issued,--,--,--,"6,796","7,956",AMZN
+Short Term Debt Reduction,--,--,--,"(6,177)","(7,753)",AMZN
+"Short Term Debt, Net",--,--,--,619,203,AMZN
+Long Term Debt Issued,"16,228",768,"2,273","10,525","19,003",AMZN
+Long Term Debt Reduction,"(6,300)","(8,454)","(12,339)","(12,248)","(12,915)",AMZN
+"Long Term Debt, Net","9,928","(7,686)","(10,066)","(1,723)","6,088",AMZN
+Total Cash From Financing,"9,928","(7,686)","(10,066)","(1,104)","6,291",AMZN
+Foreign Exchange Effects,713,(351),70,618,(364),AMZN
+Net Change in Cash,"1,922","10,317","4,237","5,967","(5,900)",AMZN
+NetCash-BeginBal/RsvdforFutUse,"19,934","21,856","32,173","36,410","42,377",AMZN
+NetCash-EndBal/RsrvforFutUse,"21,856","32,173","36,410","42,377","36,477",AMZN
+"Depreciation, Supplemental","11,478","15,341","21,789","25,251","34,296",AMZN

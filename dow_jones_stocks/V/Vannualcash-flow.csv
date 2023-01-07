@@ -1,0 +1,37 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"10,301","12,080","10,866","12,311","14,957",V
+Depreciation/Depletion,613,656,767,804,861,V
+Deferred Taxes,"(1,277)",214,307,873,(336),V
+Equity in Net Earnings/Loss,(11),(172),(37),(859),221,V
+Other Non-Cash Items,"5,754","6,309","6,935","8,800","10,803",V
+Non-Cash Items,"5,743","6,137","6,898","7,941","11,024",V
+"Cash Taxes Pd, Supplemental","2,285","2,648","2,671","3,012","3,741",V
+"Cash Interest Pd, Suppl",545,537,537,643,607,V
+Accounts Receivable,(293),"(1,866)","1,815",(811),(494),V
+Other Assets,"(4,623)","(6,740)","(8,483)","(7,657)","(10,017)",V
+Accounts Payable,265,"1,907","(2,363)",767,"1,323",V
+Accrued Expenses,"2,212",396,633,999,"1,531",V
+Changes in Working Capital,"(2,439)","(6,303)","(8,398)","(6,702)","(7,657)",V
+Total Cash from Operations,"12,941","12,784","10,440","15,227","18,849",V
+Capital Expenditures,(718),(756),(736),(705),(970),V
+Acquisition of Business,(196),(699),(77),(75),"(1,948)",V
+Sale of Fixed Assets,14,0,--,--,--,V
+Sale/Maturity of Investment,"3,638","4,008","4,510","5,701","4,585",V
+Purchase of Investments,"(5,822)","(3,154)","(2,342)","(5,182)","(6,083)",V
+Other Investing Cash Flow,0,10,72,109,128,V
+"OtherInvestCashFlowItms,Tot","(2,366)",165,"2,163",553,"(3,318)",V
+Total Cash from Investing,"(3,084)",(591),"1,427",(152),"(4,288)",V
+Financing Cash Flow Items,(94),"(1,347)",(592),(144),(318),V
+Total Cash Dividends Paid,"(1,918)","(2,269)","(2,664)","(2,798)","(3,203)",V
+"Common Stock, Net","(7,192)","(8,607)","(8,114)","(8,676)","(11,589)",V
+Options Exercised,164,162,190,208,196,V
+"Iss (Retirmnt) of Stock,Net","(7,028)","(8,445)","(7,924)","(8,468)","(11,393)",V
+Long Term Debt Issued,0,0,"7,212",0,"3,218",V
+Long Term Debt Reduction,"(1,750)",0,0,"(3,000)","(1,000)",V
+"Iss (Retirmnt) of Debt, Net","(1,750)",0,"7,212","(3,000)","2,218",V
+Total Cash From Financing,"(10,790)","(12,061)","(3,968)","(14,410)","(12,696)",V
+Foreign Exchange Effects,(101),(277),440,(37),"(1,287)",V
+Net Change in Cash,"(1,034)",(145),"8,339",628,578,V
+NetCash-BeginBal/RsvdforFutUse,"12,011","10,977","10,832","19,171","19,799",V
+NetCash-EndBal/RsrvforFutUse,"10,977","10,832","19,171","19,799","20,377",V
+"Depreciation, Supplemental",613,656,767,804,861,V

@@ -1,0 +1,40 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"9,601","21,053","21,048","20,899","19,868",INTC
+Depreciation/Depletion,"6,752","7,520","9,204","10,482","9,953",INTC
+Amortization,"1,377","1,565","1,622","1,757","1,839",INTC
+Deferred Taxes,"1,548","(1,749)",--,--,--,INTC
+Unusual Items,473,(237),(690),(30),"2,626",INTC
+Equity in Net Earnings/Loss,"(2,583)",155,(892),"(1,757)","(1,458)",INTC
+Other Non-Cash Items,"1,358","1,546","1,705","1,854","2,036",INTC
+Non-Cash Items,(752),"1,464",123,67,"3,204",INTC
+"Cash Taxes Pd, Supplemental","3,824","3,813","2,110","2,436","2,263",INTC
+"Cash Interest Pd, Suppl",624,448,469,594,545,INTC
+Accounts Receivable,(781),"(1,714)",(935),883,"(2,674)",INTC
+Inventories,"(1,300)",(214),"(1,481)",(687),"(2,339)",INTC
+Accounts Payable,191,211,696,412,"1,190",INTC
+Accrued Expenses,(73),(260),91,463,515,INTC
+Changes in Working Capital,"3,584",(421),"1,148","2,179","(4,873)",INTC
+Total Cash from Operations,"22,110","29,432","33,145","35,384","29,991",INTC
+Capital Expenditures,"(11,778)","(15,181)","(16,213)","(14,453)","(20,329)",INTC
+Acquisition of Business,"(14,499)",(190),"(1,958)",(837),(209),INTC
+Sale of Business,"3,124",548,911,123,--,INTC
+Sale/Maturity of Investment,"24,640","15,274","11,404","22,158","35,299",INTC
+Purchase of Investments,"(18,065)","(14,220)","(11,952)","(29,959)","(41,167)",INTC
+Other Investing Cash Flow,816,"2,530","3,403","2,172","1,239",INTC
+"OtherInvestCashFlowItms,Tot","(3,984)","3,942","1,808","(6,343)","(4,838)",INTC
+Total Cash from Investing,"(15,762)","(11,239)","(14,405)","(20,796)","(25,167)",INTC
+Financing Cash Flow Items,(194),(748),72,261,"(1,297)",INTC
+Total Cash Dividends Paid,"(5,072)","(5,541)","(5,576)","(5,568)","(5,644)",INTC
+"Common Stock, Net","(3,615)","(10,730)","(13,576)","(14,229)","(2,415)",INTC
+Options Exercised,770,555,750,897,"1,020",INTC
+"Iss (Retirmnt) of Stock,Net","(2,845)","(10,175)","(12,826)","(13,332)","(1,395)",INTC
+"Short Term Debt, Net",--,460,--,--,--,INTC
+Long Term Debt Issued,"7,716",423,"3,392","10,247","4,974",INTC
+Long Term Debt Reduction,"(8,080)","(3,026)","(2,627)","(4,525)","(2,500)",INTC
+"Long Term Debt, Net",(364),"(2,603)",765,"5,722","2,474",INTC
+"Iss (Retirmnt) of Debt, Net",(364),"(2,143)",765,"5,722","2,474",INTC
+Total Cash From Financing,"(8,475)","(18,607)","(17,565)","(12,917)","(5,862)",INTC
+Net Change in Cash,"(2,127)",(414),"1,175","1,671","(1,038)",INTC
+NetCash-BeginBal/RsvdforFutUse,"5,560","3,433","3,019","4,194","5,865",INTC
+NetCash-EndBal/RsrvforFutUse,"3,433","3,019","4,194","5,865","4,827",INTC
+"Depreciation, Supplemental","6,752","7,520","9,204","10,482","9,953",INTC

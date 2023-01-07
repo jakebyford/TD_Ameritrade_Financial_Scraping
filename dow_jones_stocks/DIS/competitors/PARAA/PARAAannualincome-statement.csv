@@ -1,0 +1,51 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"26,535","26,425","26,998","25,285","28,586",PARAA
+"Cost of Revenue, Total","15,483","15,399","16,713","14,833","17,744",PARAA
+"Sell/Gen/AdminExpenses,Tot","5,156","5,048","5,481","5,320","6,398",PARAA
+Depreciation/Amortization,443,427,438,405,390,PARAA
+Restructuring Charge,258,489,769,618,100,PARAA
+Impair-Assets Held for Use,--,--,--,25,--,PARAA
+Other Unusual Expnse (In),38,(18),0,285,128,PARAA
+Unusual Expense (Income),150,471,220,714,"(2,115)",PARAA
+Loss(Gain)/Sale Asts (Oper),(146),0,(549),(214),"(2,343)",PARAA
+Total Operating Expense,"21,232","21,345","22,852","21,272","22,417",PARAA
+Total Operating Income,"5,303","5,080","4,146","4,013","6,169",PARAA
+"Inter Expse,Net Non-Operat","(1,088)","(1,030)",(962),"(1,031)",(986),PARAA
+"Inter Income, Non-Operating",87,79,66,60,53,PARAA
+"Invest Income, Non-Operat",285,(53),67,171,21,PARAA
+"Inter/Invest Inc, Non-Oper",372,26,133,231,74,PARAA
+OtherNon-OperatInc (Expnse),(467),(92),(94),(66),(51),PARAA
+"Other, Net",(467),(92),(94),(66),(51),PARAA
+Income Before Tax,"4,120","3,984","3,223","3,147","5,206",PARAA
+Income Tax - Total,796,660,15,535,646,PARAA
+Income After Tax,"3,324","3,324","3,208","2,612","4,560",PARAA
+Minority Interest,(52),(37),(31),(279),(88),PARAA
+Equity In Affiliates,4,(47),(53),(28),(91),PARAA
+Net Inc Before Extra Items,"3,276","3,240","3,124","2,305","4,381",PARAA
+Discontinued Operations,(947),135,140,117,219,PARAA
+Extraordinary Item,(8),80,44,--,--,PARAA
+Tax on Extraordinary Items,--,--,--,--,(57),PARAA
+Total Extraordinary Items,(955),215,184,117,162,PARAA
+Total Net Income,"2,321","3,455","3,308","2,422","4,543",PARAA
+Total Adjust to Net Income,--,--,--,--,(44),PARAA
+Income Available to Common Excl. Extra. Items,"3,276","3,240","3,124","2,305","4,337",PARAA
+Income Available to Common Incl. Extra. Items,"2,321","3,455","3,308","2,422","4,499",PARAA
+Basic/Primary Weighted Average Shares,640,617,615,616,641,PARAA
+Basic/Primary EPS Excl. Extra. Items,5.12,5.25,5.08,3.74,6.77,PARAA
+Basic/Primary EPS Incl. Extra. Items,3.63,5.60,5.38,3.93,7.02,PARAA
+Diluted Weighted Average Shares,647,621,617,618,655,PARAA
+Diluted EPS Excl. Extra. Items,5.06,5.22,5.06,3.73,6.62,PARAA
+Diluted EPS Incl. Extra. Items,3.59,5.56,5.36,3.92,6.87,PARAA
+Div/Share-ComStockPrimIssue,0.72,0.72,0.72,0.96,0.96,PARAA
+Gross Divid - Common Stock,289,274,600,601,625,PARAA
+Pro Forma Net Income,--,--,--,--,--,PARAA
+"Interest Expense, Suppl","1,088","1,030",962,"1,031",986,PARAA
+"Depreciat/Amort, Suppl",395,383,362,345,344,PARAA
+Total Special Items,150,471,220,714,"(2,115)",PARAA
+Normalzd Income Before Tax,"4,270","4,455","3,443","3,861","3,091",PARAA
+Efct/SpecItemsIncTxs (STEC),29,78,1,121,(262),PARAA
+IncTxsExcl ImpctofSpec Itms,825,738,16,656,384,PARAA
+Normalized Income After Tax,"3,445","3,717","3,427","3,205","2,707",PARAA
+Normalzd Inc Avail to Common,"3,397","3,633","3,343","2,898","2,484",PARAA
+Basic Normalized EPS,5.31,5.89,5.44,4.70,3.88,PARAA
+Diluted Normalized EPS,5.25,5.85,5.42,4.69,3.79,PARAA

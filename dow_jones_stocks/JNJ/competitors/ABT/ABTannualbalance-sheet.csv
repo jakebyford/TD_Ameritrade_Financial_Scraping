@@ -1,0 +1,66 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"9,407","3,844","3,860","6,838","9,799",ABT
+Short Term Investments,203,242,280,310,450,ABT
+Cash and Short Term Invs,"9,610","4,086","4,140","7,148","10,249",ABT
+"Trade Accts Recvble, Gross","5,543","5,496","5,809","6,874","7,006",ABT
+Prov. for Doubtful Accts,(294),(314),(384),(460),(519),ABT
+"Total Receivables, Net","5,249","5,182","5,425","6,414","6,487",ABT
+Invent. - Finished Goods,"2,339","2,407","2,784","3,030","3,081",ABT
+Invent. - Work In Progress,472,499,560,712,694,ABT
+Invent. - Raw Materials,790,890,972,"1,270","1,382",ABT
+Total Inventory,"3,601","3,796","4,316","5,012","5,157",ABT
+Prepaid Expenses,"1,529","1,445","1,638","1,867","2,346",ABT
+Discont. Ops.-Curr. Assets,20,9,--,--,--,ABT
+Other Current Assets,138,114,148,--,--,ABT
+"Other Curr. Assets, Total",158,123,148,--,--,ABT
+Total Current Assets,"20,147","14,632","15,667","20,441","24,239",ABT
+Buildings,"3,613","3,555","3,702","4,014","4,007",ABT
+Land/Improvements,526,501,519,538,525,ABT
+Machinery/Equipment,"10,394","10,756","11,468","12,884","13,528",ABT
+Construction in Progress,732,894,"1,110","1,357","1,304",ABT
+Other Prop./Plant/Equip.,--,--,934,"1,101","1,153",ABT
+Prop./Plant/Equip. - Gross,"15,265","15,706","17,733","19,894","20,517",ABT
+Accumulated Depreciation,"(7,658)","(8,143)","(8,761)","(9,764)","(10,405)",ABT
+Prop./Plant/Equip. - Net,"7,607","7,563","8,972","10,130","10,112",ABT
+"Goodwill, Net","24,020","23,254","23,195","23,744","23,231",ABT
+Intangibles - Gross,"29,573","18,952","28,925","28,984","28,639",ABT
+Accum. Intangible Amort.,"(8,100)",(10),"(11,900)","(14,200)","(15,900)",ABT
+Intangibles - Net,"21,473","18,942","17,025","14,784","12,739",ABT
+LT Invt. - Affiliate Comp.,797,856,836,776,748,ABT
+LT Investments - Other,86,41,47,45,68,ABT
+Long Term Investments,883,897,883,821,816,ABT
+Def. Inc. Tax - LT Asset,"1,944","1,868","2,097","2,628","4,059",ABT
+Disct. Ops. - LT Asset,176,17,--,--,--,ABT
+Other Long Term Assets,0,0,48,--,--,ABT
+Total Assets,"76,250","67,173","67,887","72,548","75,196",ABT
+Accounts Payable,"2,402","2,975","3,252","3,946","4,408",ABT
+Accrued Expenses,"4,793","4,867","5,183","6,581","6,806",ABT
+Notes Payable/ST Debt,206,200,201,213,0,ABT
+Curr. Port. LT Dbt/Cap Ls.,508,7,"1,277",7,754,ABT
+Dividends Payable,489,563,635,798,831,ABT
+Income Taxes Payable,309,305,226,362,306,ABT
+Discontinued Operations,0,--,--,--,--,ABT
+Other Current Liabilities,205,95,89,--,--,ABT
+"Other Curr. Lblts, Total","1,003",963,950,"1,160","1,137",ABT
+Total Current Liabilities,"8,912","9,012","10,863","11,907","13,105",ABT
+Total Long Term Debt,"27,210","19,359","16,115","18,527","17,296",ABT
+Total Debt,"27,924","19,566","17,593","18,747","18,050",ABT
+Deferred Income Tax,"2,006","2,056","1,546","1,406","1,392",ABT
+Minority Interest,201,198,213,219,222,ABT
+Pension Benefits - Underfunded,"2,169","2,040","2,817","3,119","2,738",ABT
+Other LT Liabilities,"4,855","3,984","5,245","4,586","4,641",ABT
+Discont. Ops. - Lblts,0,--,--,--,--,ABT
+"Other Liabilities, Total","7,024","6,024","8,062","7,705","7,379",ABT
+Total Liabilities,"45,353","36,649","36,799","39,764","39,394",ABT
+Common Stock,"23,206","23,512","23,853","24,145","24,470",ABT
+Ret. Earn.(Accum. Deficit),"23,978","24,560","25,847","27,627","31,528",ABT
+Treasury Stock - Common,"(10,225)","(9,962)","(10,147)","(10,042)","(11,822)",ABT
+Unrealized Gain (Loss),(5),0,0,--,--,ABT
+Cum. Trans. Adjustment,"(3,452)","(4,912)","(4,924)","(4,859)","(5,839)",ABT
+Min. Pension Lblty Adj.,"(2,521)","(2,726)","(3,540)","(3,871)","(2,670)",ABT
+Other Comprehensive Income,(84),52,(1),(216),135,ABT
+"Other Equity, Total","(6,057)","(7,586)","(8,465)","(8,946)","(8,374)",ABT
+Total Equity,"30,897","30,524","31,088","32,784","35,802",ABT
+Total Liabilities & Shareholders’ Equity,"76,250","67,173","67,887","72,548","75,196",ABT
+Ttl Comm. Shares Outs.,"1,744","1,756","1,763","1,771","1,764",ABT
+Trsy. Shrs-Comm. Primary Iss.,222,216,214,210,221,ABT

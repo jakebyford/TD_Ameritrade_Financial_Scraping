@@ -1,0 +1,43 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"1,329","1,557","1,826","2,062","2,066",INTU
+Depreciation/Depletion,228,199,189,166,187,INTU
+Amortization,25,26,29,197,559,INTU
+Deferred Taxes,(5),(7),(179),(42),120,INTU
+Unusual Items,79,0,0,--,--,INTU
+Other Non-Cash Items,388,416,501,776,"1,393",INTU
+Non-Cash Items,467,416,501,776,"1,393",INTU
+"Cash Taxes Pd, Supplemental",245,325,493,578,303,INTU
+"Cash Interest Pd, Suppl",19,17,14,30,67,INTU
+Accounts Receivable,4,16,(6),(155),(2),INTU
+Prepaid Expenses,(33),(37),(31),30,(121),INTU
+Accounts Payable,12,90,33,206,(95),INTU
+Accrued Expenses,75,16,39,(136),(440),INTU
+Changes in Working Capital,68,133,48,91,(436),INTU
+Total Cash from Operations,"2,112","2,324","2,414","3,250","3,889",INTU
+Purchase of Fixed Assets,(38),(76),(59),(53),(157),INTU
+Software Development Costs,(86),(79),(78),(72),(72),INTU
+Capital Expenditures,(124),(155),(137),(125),(229),INTU
+Acquisition of Business,(363),(64),0,"(3,064)","(5,682)",INTU
+Sale/Maturity of Investment,414,387,726,779,"1,758",INTU
+Purchase of Investments,(407),(752),(701),"(1,489)",(830),INTU
+Other Investing Cash Flow,(57),18,15,(66),(438),INTU
+"OtherInvestCashFlowItms,Tot",(413),(411),40,"(3,840)","(5,192)",INTU
+Total Cash from Investing,(537),(566),(97),"(3,965)","(5,421)",INTU
+Financing Cash Flow Items,(200),(259),(226),(383),(677),INTU
+Total Cash Dividends Paid,(407),(501),(561),(646),(774),INTU
+Sale/Issuance of Common,295,284,211,196,162,INTU
+Repurch/Retirement Common,(272),(556),(323),"(1,005)","(1,861)",INTU
+"Iss (Retirmnt) of Stock,Net",23,(272),(112),(809),"(1,699)",INTU
+Short Term Debt Issued,800,0,"1,000",0,0,INTU
+Short Term Debt Reduction,(800),0,0,"(1,000)",0,INTU
+"Short Term Debt, Net",0,0,"1,000","(1,000)",0,INTU
+Long Term Debt Issued,0,48,"1,983",0,"4,882",INTU
+Long Term Debt Reduction,(50),(50),(50),(338),0,INTU
+"Long Term Debt, Net",(50),(2),"1,933",(338),"4,882",INTU
+"Iss (Retirmnt) of Debt, Net",(50),(2),"2,933","(1,338)","4,882",INTU
+Total Cash From Financing,(634),"(1,034)","2,034","(3,176)","1,732",INTU
+Foreign Exchange Effects,(11),(3),(6),13,(22),INTU
+Net Change in Cash,930,721,"4,345","(3,878)",178,INTU
+NetCash-BeginBal/RsvdforFutUse,701,"1,631","2,352","6,697","2,819",INTU
+NetCash-EndBal/RsrvforFutUse,"1,631","2,352","6,697","2,819","2,997",INTU
+"Depreciation, Supplemental",228,199,189,166,187,INTU

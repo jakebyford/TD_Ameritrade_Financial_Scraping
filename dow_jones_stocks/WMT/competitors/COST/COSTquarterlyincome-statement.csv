@@ -1,0 +1,40 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Total Revenue,"51,904","52,596","72,091","54,437",COST
+"Cost of Revenue, Total","45,517","46,355","63,558","47,769",COST
+"Sell/Gen/AdminExpenses,Tot","4,575","4,450","6,036","4,917",COST
+Unusual Expense (Income),0,0,0,--,COST
+Total Operating Expense,"50,092","50,805","69,594","52,686",COST
+Total Operating Income,"1,812","1,791","2,497","1,751",COST
+"Inter Expse,Net Non-Operat",(36),(35),(48),(34),COST
+"Inter Income, Non-Operating",6,6,40,54,COST
+"Invest Income, Non-Operat",12,56,12,(9),COST
+"Inter/Invest Inc, Non-Oper",18,62,52,45,COST
+OtherNon-OperatInc (Expnse),7,9,15,8,COST
+"Other, Net",7,9,15,8,COST
+Income Before Tax,"1,801","1,827","2,516","1,770",COST
+Income Tax - Total,481,455,638,406,COST
+Income After Tax,"1,320","1,372","1,878","1,364",COST
+Minority Interest,(21),(19),(10),0,COST
+Net Inc Before Extra Items,"1,299","1,353","1,868","1,364",COST
+Total Net Income,"1,299","1,353","1,868","1,364",COST
+Income Available to Common Excl. Extra. Items,"1,299","1,353","1,868","1,364",COST
+Income Available to Common Incl. Extra. Items,"1,299","1,353","1,868","1,364",COST
+Basic/Primary Weighted Average Shares,444,444,444,444,COST
+Basic/Primary EPS Excl. Extra. Items,2.93,3.05,4.21,3.07,COST
+Basic/Primary EPS Incl. Extra. Items,2.93,3.05,4.21,3.07,COST
+Diluted Weighted Average Shares,445,445,445,445,COST
+Diluted EPS Excl. Extra. Items,2.92,3.04,4.20,3.07,COST
+Diluted EPS Incl. Extra. Items,2.92,3.04,4.20,3.07,COST
+Div/Share-ComStockPrimIssue,0.79,0.79,0.90,0.90,COST
+Gross Divid - Common Stock,351,398,399,400,COST
+Pro Forma Net Income,--,--,--,--,COST
+"Interest Expense, Suppl",36,35,48,34,COST
+"Depreciat/Amort, Suppl",436,438,594,447,COST
+Total Special Items,0,0,0,--,COST
+Normalzd Income Before Tax,"1,801","1,827","2,516","1,770",COST
+Efct/SpecItemsIncTxs (STEC),0,0,0,--,COST
+IncTxsExcl ImpctofSpec Itms,481,455,638,406,COST
+Normalized Income After Tax,"1,320","1,372","1,878","1,364",COST
+Normalzd Inc Avail to Common,"1,299","1,353","1,868","1,364",COST
+Basic Normalized EPS,2.93,3.05,4.21,3.07,COST
+Diluted Normalized EPS,2.92,3.04,4.20,3.07,COST

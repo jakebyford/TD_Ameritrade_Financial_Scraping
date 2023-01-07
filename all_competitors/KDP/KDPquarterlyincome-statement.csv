@@ -1,0 +1,48 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"3,391","3,078","3,554","3,622",KDP
+"Cost of Revenue, Total","1,615","1,424","1,775","1,718",KDP
+Selling/Gen/Admin Expense,993,961,"1,116","1,095",KDP
+Labor & Related Expense,20,(15),27,31,KDP
+"Sell/Gen/AdminExpenses,Tot","1,013",946,"1,143","1,126",KDP
+Depreciation/Amortization,33,34,33,33,KDP
+Restructuring Charge,57,33,23,33,KDP
+Litigation,7,(295),3,2,KDP
+Impair-Assets Held for Use,0,--,--,311,KDP
+Impair-Assets Held for Sale,17,6,6,0,KDP
+Other Unusual Expnse (In),7,53,174,5,KDP
+Unusual Expense (Income),88,(203),206,351,KDP
+"Other Operat Expse, Total",(66),(35),0,0,KDP
+Total Operating Expense,"2,683","2,166","3,157","3,228",KDP
+Total Operating Income,708,912,397,394,KDP
+"Inter Expse,Net Non-Operat",(119),(188),(175),(207),KDP
+"Inter/Invest Inc, Non-Oper",524,50,0,0,KDP
+OtherNon-OperatInc (Expnse),(4),(9),(9),(4),KDP
+"Other, Net",(4),(9),(9),(4),KDP
+Income Before Tax,"1,109",765,213,183,KDP
+Income Tax - Total,265,181,(4),5,KDP
+Income After Tax,844,584,217,178,KDP
+Minority Interest,0,0,0,1,KDP
+Net Inc Before Extra Items,844,584,217,179,KDP
+Total Extraordinary Items,(1),1,1,1,KDP
+Total Net Income,843,585,218,180,KDP
+Income Available to Common Excl. Extra. Items,844,584,217,179,KDP
+Income Available to Common Incl. Extra. Items,843,585,218,180,KDP
+Basic/Primary Weighted Average Shares,"1,418","1,418","1,418","1,416",KDP
+Basic/Primary EPS Excl. Extra. Items,0.60,0.41,0.15,0.13,KDP
+Basic/Primary EPS Incl. Extra. Items,0.59,0.41,0.15,0.13,KDP
+Diluted Weighted Average Shares,"1,429","1,430","1,429","1,427",KDP
+Diluted EPS Excl. Extra. Items,0.59,0.41,0.15,0.13,KDP
+Diluted EPS Incl. Extra. Items,0.59,0.41,0.15,0.13,KDP
+Div/Share-ComStockPrimIssue,0.19,0.19,0.19,0.20,KDP
+Gross Divid - Common Stock,321,266,265,284,KDP
+Pro Forma Net Income,--,--,--,--,KDP
+"Interest Expense, Suppl",119,188,175,207,KDP
+"Depreciat/Amort, Suppl",106,106,99,96,KDP
+Total Special Items,88,(203),206,351,KDP
+Normalzd Income Before Tax,"1,197",562,419,534,KDP
+Efct/SpecItemsIncTxs (STEC),(74),47,(49),(85),KDP
+IncTxsExcl ImpctofSpec Itms,191,228,(53),(80),KDP
+Normalized Income After Tax,"1,006",334,472,614,KDP
+Normalzd Inc Avail to Common,"1,006",334,472,615,KDP
+Basic Normalized EPS,0.71,0.24,0.33,0.43,KDP
+Diluted Normalized EPS,0.70,0.23,0.33,0.43,KDP

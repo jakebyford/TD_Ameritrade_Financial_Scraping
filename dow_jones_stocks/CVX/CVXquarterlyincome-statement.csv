@@ -1,0 +1,40 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"45,861","52,314","65,372","63,508",CVX
+"Cost of Revenue, Total","27,341","32,649","40,003","38,090",CVX
+"Sell/Gen/AdminExpenses,Tot","3,050","2,969","2,426","2,735",CVX
+Research & Development,192,209,196,116,CVX
+Depreciation/Amortization,"4,813","3,654","3,700","4,201",CVX
+"Other Operat Expse, Total","4,896","5,664","5,395","5,631",CVX
+Total Operating Expense,"40,292","45,145","51,720","50,773",CVX
+Total Operating Income,"5,569","7,169","13,652","12,735",CVX
+"Inter Expse,Net Non-Operat",(155),(136),(129),(128),CVX
+"Inter/Invest Inc, Non-Oper","1,657","2,085","2,467","2,410",CVX
+OtherNon-OperatInc (Expnse),(86),(64),13,(208),CVX
+"Other, Net",(86),(64),13,(208),CVX
+Income Before Tax,"6,985","9,054","16,003","14,809",CVX
+Income Tax - Total,"1,903","2,777","4,288","3,571",CVX
+Income After Tax,"5,082","6,277","11,715","11,238",CVX
+Minority Interest,(27),(18),(93),(7),CVX
+Net Inc Before Extra Items,"5,055","6,259","11,622","11,231",CVX
+Total Net Income,"5,055","6,259","11,622","11,231",CVX
+Income Available to Common Excl. Extra. Items,"5,055","6,259","11,622","11,231",CVX
+Income Available to Common Incl. Extra. Items,"5,055","6,259","11,622","11,231",CVX
+Basic/Primary Weighted Average Shares,"1,915","1,936","1,948","1,932",CVX
+Basic/Primary EPS Excl. Extra. Items,2.64,3.23,5.97,5.81,CVX
+Basic/Primary EPS Incl. Extra. Items,2.64,3.23,5.97,5.81,CVX
+Diluted Weighted Average Shares,"1,921","1,945","1,957","1,940",CVX
+Diluted EPS Excl. Extra. Items,2.63,3.22,5.94,5.79,CVX
+Diluted EPS Incl. Extra. Items,2.63,3.22,5.94,5.79,CVX
+Div/Share-ComStockPrimIssue,1.34,1.42,1.42,1.42,CVX
+Gross Divid - Common Stock,"2,567","2,746","2,766","2,743",CVX
+Pro Forma Net Income,--,--,--,--,CVX
+"Interest Expense, Suppl",155,136,129,128,CVX
+"Depreciat/Amort, Suppl","4,813","3,654","3,700","4,201",CVX
+Total Special Items,(785),--,--,--,CVX
+Normalzd Income Before Tax,"6,200","9,054","16,003","14,809",CVX
+Efct/SpecItemsIncTxs (STEC),(214),--,--,--,CVX
+IncTxsExcl ImpctofSpec Itms,"1,689","2,777","4,288","3,571",CVX
+Normalized Income After Tax,"4,511","6,277","11,715","11,238",CVX
+Normalzd Inc Avail to Common,"4,484","6,259","11,622","11,231",CVX
+Basic Normalized EPS,2.34,3.23,5.97,5.81,CVX
+Diluted Normalized EPS,2.33,3.22,5.94,5.79,CVX

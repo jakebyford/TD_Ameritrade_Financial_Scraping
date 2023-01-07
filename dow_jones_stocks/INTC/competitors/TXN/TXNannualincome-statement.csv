@@ -1,0 +1,45 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"14,961","15,784","14,383","14,461","18,344",TXN
+"Cost of Revenue, Total","5,347","5,507","5,219","5,192","5,968",TXN
+Selling/Gen/Admin Expense,"1,547","1,546","1,515","1,488","1,532",TXN
+Labor & Related Expense,147,138,130,135,134,TXN
+"Sell/Gen/AdminExpenses,Tot","1,694","1,684","1,645","1,623","1,666",TXN
+Research & Development,"1,508","1,559","1,544","1,530","1,554",TXN
+Depreciation/Amortization,318,318,288,198,142,TXN
+Restructuring Charge,11,6,(15),25,0,TXN
+Other Unusual Expnse (In),--,--,--,--,104,TXN
+Unusual Expense (Income),11,3,(36),24,54,TXN
+Loss(Gain)/Sale Asts (Oper),0,(3),(21),(1),(50),TXN
+Total Operating Expense,"8,878","9,071","8,660","8,567","9,384",TXN
+Total Operating Income,"6,083","6,713","5,723","5,894","8,960",TXN
+"Inter Expse,Net Non-Operat",(78),(125),(170),(190),(184),TXN
+OtherNon-OperatInc (Expnse),75,98,175,313,143,TXN
+"Other, Net",75,98,175,313,143,TXN
+Income Before Tax,"6,080","6,686","5,728","6,017","8,919",TXN
+Income Tax - Total,"2,339","1,150",711,422,"1,150",TXN
+Income After Tax,"3,741","5,536","5,017","5,595","7,769",TXN
+Net Inc Before Extra Items,"3,741","5,536","5,017","5,595","7,769",TXN
+Total Extraordinary Items,(59),44,--,--,--,TXN
+Total Net Income,"3,682","5,580","5,017","5,595","7,769",TXN
+Total Adjust to Net Income,(33),(42),(31),(27),(33),TXN
+Income Available to Common Excl. Extra. Items,"3,708","5,494","4,986","5,568","7,736",TXN
+Income Available to Common Incl. Extra. Items,"3,649","5,538","4,986","5,568","7,736",TXN
+Basic/Primary Weighted Average Shares,991,970,936,921,923,TXN
+Basic/Primary EPS Excl. Extra. Items,3.74,5.66,5.33,6.05,8.38,TXN
+Basic/Primary EPS Incl. Extra. Items,3.68,5.71,5.33,6.05,8.38,TXN
+Diluted Weighted Average Shares,"1,012",990,952,933,936,TXN
+Diluted EPS Excl. Extra. Items,3.66,5.55,5.24,5.97,8.26,TXN
+Diluted EPS Incl. Extra. Items,3.61,5.59,5.24,5.97,8.26,TXN
+Div/Share-ComStockPrimIssue,2.12,2.63,3.21,3.72,4.21,TXN
+Gross Divid - Common Stock,"2,104","2,555","3,008","3,426","3,886",TXN
+Pro Forma Net Income,--,--,--,--,--,TXN
+"Interest Expense, Suppl",78,125,170,190,184,TXN
+"Depreciat/Amort, Suppl",539,590,708,733,755,TXN
+Total Special Items,11,3,(36),24,54,TXN
+Normalzd Income Before Tax,"6,091","6,689","5,692","6,041","8,973",TXN
+Efct/SpecItemsIncTxs (STEC),4,1,(4),2,7,TXN
+IncTxsExcl ImpctofSpec Itms,"2,343","1,151",707,424,"1,157",TXN
+Normalized Income After Tax,"3,748","5,538","4,985","5,617","7,816",TXN
+Normalzd Inc Avail to Common,"3,715","5,496","4,954","5,590","7,783",TXN
+Basic Normalized EPS,3.75,5.67,5.29,6.07,8.43,TXN
+Diluted Normalized EPS,3.67,5.55,5.20,5.99,8.32,TXN

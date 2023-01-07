@@ -1,0 +1,40 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"5,309","5,687","7,882","4,622","11,549",ABBV
+Depreciation/Depletion,425,471,464,666,803,ABBV
+Amortization,"1,076","1,294","1,553","5,805","7,718",ABBV
+Deferred Taxes,--,--,--,"(2,325)",(898),ABBV
+Extraordinary Item,"1,242",424,0,--,--,ABBV
+Unusual Items,980,"5,119","3,791","5,753","2,611",ABBV
+Other Non-Cash Items,919,"1,558",963,"2,961","2,316",ABBV
+Non-Cash Items,"3,141","7,101","4,754","8,714","4,927",ABBV
+"Cash Taxes Pd, Supplemental","1,696",35,"1,447","1,674","3,648",ABBV
+"Cash Interest Pd, Suppl","1,099","1,215","1,794","2,619","2,712",ABBV
+Accounts Receivable,(391),(591),(74),(929),"(1,321)",ABBV
+Inventories,93,(226),(231),(40),(142),ABBV
+Prepaid Expenses,(118),(499),97,134,(197),ABBV
+Payable/Accrued,425,190,"(1,121)","1,514","1,628",ABBV
+Changes in Working Capital,9,"(1,126)","(1,329)",106,"(1,322)",ABBV
+Total Cash from Operations,"9,960","13,427","13,324","17,588","22,777",ABBV
+Capital Expenditures,(529),(638),(552),(798),(787),ABBV
+Acquisition of Business,0,(736),"(1,135)","(39,610)","(1,902)",ABBV
+Sale/Maturity of Investment,"2,793","2,160","2,699","1,525",98,ABBV
+Purchase of Investments,"(2,538)","(1,792)",(583),(61),(119),ABBV
+Other Investing Cash Flow,0,0,167,"1,387",366,ABBV
+"OtherInvestCashFlowItms,Tot",255,(368),"1,148","(36,759)","(1,557)",ABBV
+Total Cash from Investing,(274),"(1,006)",596,"(37,557)","(2,344)",ABBV
+Financing Cash Flow Items,(246),(104),(552),(333),(674),ABBV
+Total Cash Dividends Paid,"(4,107)","(5,580)","(6,366)","(7,716)","(9,261)",ABBV
+"Common Stock, Net","(1,410)","(12,014)",(629),(978),(934),ABBV
+Options Exercised,254,73,8,209,244,ABBV
+"Iss (Retirmnt) of Stock,Net","(1,156)","(11,941)",(621),(769),(690),ABBV
+"Short Term Debt, Net",22,"3,301","(3,699)",0,0,ABBV
+Long Term Debt Issued,0,"5,963","31,482","3,000","1,000",ABBV
+Long Term Debt Reduction,(25),"(6,035)","(1,536)","(5,683)","(9,414)",ABBV
+"Long Term Debt, Net",(25),(72),"29,946","(2,683)","(8,414)",ABBV
+"Iss (Retirmnt) of Debt, Net",(3),"3,229","26,247","(2,683)","(8,414)",ABBV
+Total Cash From Financing,"(5,512)","(14,396)","18,708","(11,501)","(19,039)",ABBV
+Foreign Exchange Effects,29,(39),7,(5),(97),ABBV
+Net Change in Cash,"4,203","(2,014)","32,635","(31,475)","1,297",ABBV
+NetCash-BeginBal/RsvdforFutUse,"5,100","9,303","7,289","39,924","8,449",ABBV
+NetCash-EndBal/RsrvforFutUse,"9,303","7,289","39,924","8,449","9,746",ABBV
+"Depreciation, Supplemental",425,471,464,666,803,ABBV

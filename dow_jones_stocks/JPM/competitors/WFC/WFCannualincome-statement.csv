@@ -1,0 +1,55 @@
+items,2017,2018,2019,2020,2021,ticker
+Interest & Fees on Loans,"42,186","44,891","45,110","35,177","29,499",WFC
+Inter & Divs/ Invest Securs,"10,664","15,398","15,917","11,788","9,861",WFC
+Other Interest Income,"3,131","4,358","5,128",954,334,WFC
+Trading Account Interest,"2,928",--,--,--,--,WFC
+"Interest Income, Bank","58,909","64,647","66,155","47,919","39,694",WFC
+Interest on Deposit,"3,013","5,622","8,635","2,804",388,WFC
+Inter on Other Borrowings,"6,339","9,030","10,217","5,159","3,527",WFC
+Total Interest Expense,"9,352","14,652","18,852","7,963","3,915",WFC
+Net Interest Income,"49,557","49,995","47,303","39,956","35,779",WFC
+Loan Loss Provision,"2,528","1,744","2,687","14,129","(4,155)",WFC
+NetInterIn after Loan Loss Provision,"47,029","48,251","44,616","25,827","39,934",WFC
+Fees & Commish from Operat,"19,606","19,225","21,365","20,714","22,584",WFC
+Commish & Fees/Secur Act,"4,350","3,017","2,715","3,493","4,956",WFC
+Insur Commish Fees& Premium,"1,049",429,--,--,--,WFC
+Credit Card Fees,"3,960","3,907","4,016","3,544","4,175",WFC
+Fees for Other Cust Serv,"3,557","3,384",--,--,--,WFC
+Real Estate Operation Gain,"1,907","1,753",--,--,--,WFC
+Dealer Trading Acct Profit,"1,053",602,"3,976","2,710","7,264",WFC
+Invest Securities Gains,"1,747","1,623",--,--,--,WFC
+Other Revenue,"1,603","2,473","7,457","3,847","3,734",WFC
+"Non-Interest Income, Bank","38,832","36,413","39,529","34,308","42,713",WFC
+Labor & Related Expenses,"(33,371)","(33,024)","(35,128)","(34,811)","(35,541)",WFC
+Amortization of Intangibles,"(1,152)","(1,058)",--,--,--,WFC
+Restructuring Charge,--,--,0,"(1,499)",(76),WFC
+Other Expense,"(23,961)","(22,044)","(23,050)","(21,320)","(18,214)",WFC
+"Non-Interest Expense, Bank","(58,484)","(56,126)","(58,178)","(57,630)","(53,831)",WFC
+Income Before Tax,"27,377","28,538","25,967","2,505","28,816",WFC
+Income Tax - Total,"7,334","5,498","5,761","(1,157)","5,578",WFC
+Income After Tax,"20,043","23,040","20,206","3,662","23,238",WFC
+Minority Interest,(277),(483),(491),(285),"(1,690)",WFC
+Net Inc Before Extra Items,"19,766","22,557","19,715","3,377","21,548",WFC
+Total Extraordinary Items,"2,417",(164),--,--,--,WFC
+Total Net Income,"22,183","22,393","19,715","3,377","21,548",WFC
+Total Adjust to Net Income,"(1,629)","(1,704)","(1,612)","(1,591)","(1,292)",WFC
+Income Available to Common Excl. Extra. Items,"18,137","20,853","18,103","1,786","20,256",WFC
+Income Available to Common Incl. Extra. Items,"20,554","20,689","18,103","1,786","20,256",WFC
+Basic/Primary Weighted Average Shares,"4,965","4,800","4,393","4,118","4,062",WFC
+Basic/Primary EPS Excl. Extra. Items,3.65,4.34,4.12,0.43,4.99,WFC
+Basic/Primary EPS Incl. Extra. Items,4.14,4.31,4.12,0.43,4.99,WFC
+Diluted Weighted Average Shares,"5,017","4,838","4,425","4,134","4,096",WFC
+Diluted EPS Excl. Extra. Items,3.61,4.31,4.09,0.43,4.95,WFC
+Diluted EPS Incl. Extra. Items,4.10,4.28,4.09,0.43,4.95,WFC
+Div/Share-ComStockPrimIssue,1.54,1.64,1.92,1.22,0.60,WFC
+Gross Divid - Common Stock,"7,708","7,889","8,444","5,015","2,426",WFC
+Pro Forma Net Income,--,--,--,--,--,WFC
+"Depreciat/Amort, Suppl","5,406","4,259","7,075","8,736","7,585",WFC
+Total Special Items,606,380,245,"3,154",197,WFC
+Normalzd Income Before Tax,"27,983","28,918","26,212","5,659","29,013",WFC
+Efct/SpecItemsIncTxs (STEC),162,73,54,"1,104",38,WFC
+IncTxsExcl ImpctofSpec Itms,"7,496","5,571","5,815",(53),"5,616",WFC
+Normalized Income After Tax,"20,487","23,347","20,397","5,712","23,397",WFC
+Normalzd Inc Avail to Common,"18,581","21,160","18,294","3,836","20,415",WFC
+Basic Normalized EPS,3.74,4.41,4.16,0.93,5.03,WFC
+Diluted Normalized EPS,3.70,4.37,4.13,0.93,4.98,WFC

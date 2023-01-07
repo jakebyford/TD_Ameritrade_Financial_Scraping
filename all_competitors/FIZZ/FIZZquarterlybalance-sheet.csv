@@ -1,0 +1,43 @@
+items,Q3 2022,Q4 2022,Q1 2023,Q2 2023,ticker
+Cash and Short Term Invs,40,48,56,93,FIZZ
+"Total Receivables, Net",82,94,100,100,FIZZ
+Invent. - Finished Goods,50,59,47,46,FIZZ
+Invent. - Raw Materials,38,45,43,42,FIZZ
+Inventories - Other,0,0,0,0,FIZZ
+Total Inventory,89,103,90,88,FIZZ
+Prepaid Expenses,26,30,7,17,FIZZ
+Total Current Assets,237,275,254,299,FIZZ
+Buildings,64,66,67,68,FIZZ
+Land/Improvements,10,10,10,10,FIZZ
+Machinery/Equipment,271,277,279,282,FIZZ
+Other Prop./Plant/Equip.,37,29,39,39,FIZZ
+Prop./Plant/Equip. - Gross,381,382,394,398,FIZZ
+Accumulated Depreciation,(209),(208),(213),(216),FIZZ
+Prop./Plant/Equip. - Net,172,174,181,182,FIZZ
+"Goodwill, Net",13,13,13,13,FIZZ
+Intangibles - Net,2,2,2,2,FIZZ
+Other Long Term Assets,5,5,6,5,FIZZ
+Total Assets,428,468,456,500,FIZZ
+Accounts Payable,69,95,76,84,FIZZ
+Accrued Expenses,50,50,55,63,FIZZ
+Notes Payable/ST Debt,0,0,0,0,FIZZ
+"Other Curr. Lblts, Total",1,0,1,0,FIZZ
+Total Current Liabilities,119,145,132,148,FIZZ
+Total Long Term Debt,50,30,0,0,FIZZ
+Total Debt,50,30,0,0,FIZZ
+Deferred Income Tax,19,24,21,21,FIZZ
+"Other Liabilities, Total",34,29,38,37,FIZZ
+Total Liabilities,222,228,191,205,FIZZ
+Conv. Pref. Stk-Non Rdmbl.,0,0,0,0,FIZZ
+Treasury Stock - Preferred,(5),(5),(5),(5),FIZZ
+"Pref. Stock-Non Rdmbl, Net",(5),(5),(5),(5),FIZZ
+Common Stock,1,1,1,1,FIZZ
+Additional Paid-In Capital,39,39,40,40,FIZZ
+Ret. Earn.(Accum. Deficit),182,216,252,288,FIZZ
+Treasury Stock - Common,(19),(19),(19),(19),FIZZ
+"Other Equity, Total",8,7,(4),(10),FIZZ
+Total Equity,206,239,264,295,FIZZ
+Total Liabilities & Shareholders’ Equity,428,468,456,500,FIZZ
+Ttl Comm. Shares Outs.,93,93,93,93,FIZZ
+Trsy. Shrs-Comm. Primary Iss.,8,8,8,8,FIZZ
+Trsry Shrs-Pref. Iss. 1,0,0,0,0,FIZZ

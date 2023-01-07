@@ -1,0 +1,47 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Total Revenue,"59,629","57,719","60,065","61,174",ABC
+"Cost of Revenue, Total","57,568","55,486","58,022","59,176",ABC
+"Sell/Gen/AdminExpenses,Tot","1,170","1,203","1,212","1,263",ABC
+Depreciation,96,96,97,97,ABC
+Amortiz of Intangibles,80,79,75,73,ABC
+Depreciation/Amortization,176,175,172,171,ABC
+Restructuring Charge,7,9,5,16,ABC
+Litigation,33,50,23,15,ABC
+Impair-Assets Held for Use,5,0,76,0,ABC
+Other Unusual Expnse (In),26,16,13,89,ABC
+Unusual Expense (Income),70,75,117,119,ABC
+Total Operating Expense,"58,984","56,939","59,523","60,730",ABC
+Total Operating Income,644,780,541,445,ABC
+"Inter Expse,Net Non-Operat",(57),(55),(58),(62),ABC
+"Inter Income, Non-Operating",3,2,5,11,ABC
+"Invest Income, Non-Operat",5,(3),(9),(8),ABC
+"Inter/Invest Inc, Non-Oper",9,0,(4),3,ABC
+OtherNon-OperatInc (Expnse),0,4,(3),(3),ABC
+"Other, Net",0,4,(3),(3),ABC
+Income Before Tax,596,728,476,382,ABC
+Income Tax - Total,147,173,113,84,ABC
+Income After Tax,449,555,363,299,ABC
+Minority Interest,0,(7),44,(4),ABC
+Net Inc Before Extra Items,449,548,407,295,ABC
+Total Net Income,449,548,407,295,ABC
+Income Available to Common Excl. Extra. Items,449,548,407,295,ABC
+Income Available to Common Incl. Extra. Items,449,548,407,295,ABC
+Basic/Primary Weighted Average Shares,209,209,209,207,ABC
+Basic/Primary EPS Excl. Extra. Items,2.15,2.62,1.95,1.42,ABC
+Basic/Primary EPS Incl. Extra. Items,2.15,2.62,1.95,1.42,ABC
+Diluted Weighted Average Shares,211,212,212,210,ABC
+Diluted EPS Excl. Extra. Items,2.13,2.59,1.92,1.40,ABC
+Diluted EPS Incl. Extra. Items,2.13,2.59,1.92,1.40,ABC
+Div/Share-ComStockPrimIssue,0.46,0.46,0.46,0.46,ABC
+Gross Divid - Common Stock,101,97,97,96,ABC
+Pro Forma Net Income,--,--,--,--,ABC
+"Interest Expense, Suppl",57,55,58,62,ABC
+"Depreciat/Amort, Suppl",97,97,98,98,ABC
+Total Special Items,70,75,117,119,ABC
+Normalzd Income Before Tax,666,803,594,502,ABC
+Efct/SpecItemsIncTxs (STEC),17,18,28,26,ABC
+IncTxsExcl ImpctofSpec Itms,164,191,141,110,ABC
+Normalized Income After Tax,502,612,453,392,ABC
+Normalzd Inc Avail to Common,502,605,496,388,ABC
+Basic Normalized EPS,2.41,2.89,2.38,1.87,ABC
+Diluted Normalized EPS,2.38,2.85,2.34,1.85,ABC

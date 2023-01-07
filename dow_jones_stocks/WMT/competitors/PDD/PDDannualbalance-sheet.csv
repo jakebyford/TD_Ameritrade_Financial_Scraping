@@ -1,0 +1,50 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"3,058","14,160","5,768","22,421","6,427",PDD
+Short Term Investments,50,"7,631","35,289","64,551","86,517",PDD
+Cash and Short Term Invs,"3,108","21,791","41,057","86,972","92,943",PDD
+Notes Recvble - Short Term,29,136,146,309,365,PDD
+Other Receivables,564,"1,330","3,519","5,342","5,594",PDD
+"Total Receivables, Net",593,"1,466","3,665","5,651","5,959",PDD
+Total Inventory,--,--,--,"1,718",14,PDD
+Prepaid Expenses,35,667,645,"2,516","1,393",PDD
+Restricted Cash - Current,"9,371","16,379","27,578","52,422","59,617",PDD
+Other Current Assets,30,88,56,244,982,PDD
+"Other Curr. Assets, Total","9,401","16,467","27,634","52,667","60,600",PDD
+Total Current Assets,"13,138","40,391","73,001","149,524","160,909",PDD
+Buildings,--,--,19,24,29,PDD
+Machinery/Equipment,--,--,49,229,"3,135",PDD
+Other Prop./Plant/Equip.,--,--,517,630,939,PDD
+Prop./Plant/Equip. - Gross,--,--,585,883,"4,103",PDD
+Accumulated Depreciation,--,(9),(27),(50),(961),PDD
+Prop./Plant/Equip. - Net,9,29,558,833,"3,142",PDD
+Intangibles - Net,--,"2,579","1,994","1,277",701,PDD
+Long Term Investments,5,--,--,--,--,PDD
+Note Rcvble - Long Term,162,0,--,--,--,PDD
+Other Long Term Assets,--,183,503,"7,275","16,426",PDD
+Total Assets,"13,314","43,182","76,057","158,909","181,210",PDD
+Accounts Payable,"9,839","17,276","29,926","54,972","64,461",PDD
+Accrued Expenses,253,"1,761","3,904","6,612","6,029",PDD
+Notes Payable/ST Debt,0,0,899,"1,866",0,PDD
+Customer Advances,56,191,606,"2,423","1,167",PDD
+Income Taxes Payable,104,436,"1,046","2,882","5,734",PDD
+Other Payables,76,478,"1,503","3,386","1,963",PDD
+Other Current Liabilities,"1,781","4,216","7,884","11,741","14,375",PDD
+"Other Curr. Lblts, Total","2,018","5,322","11,038","20,432","23,239",PDD
+Total Current Liabilities,"12,110","24,359","45,768","83,882","93,730",PDD
+Total Long Term Debt,0,0,"5,207","14,433","11,789",PDD
+Total Debt,0,0,"6,105","16,299","11,789",PDD
+Deferred Income Tax,--,--,--,--,31,PDD
+"Other Liabilities, Total",--,--,436,418,545,PDD
+Total Liabilities,"12,110","24,359","51,410","98,733","106,095",PDD
+"Pref. Stock-Non Rdmbl, Net","2,197",0,--,--,--,PDD
+Common Stock,0,0,0,0,0,PDD
+Additional Paid-In Capital,61,"29,115","41,494","86,699","95,341",PDD
+Ret. Earn.(Accum. Deficit),"(1,030)","(11,328)","(18,295)","(25,475)","(17,707)",PDD
+"Other Equity, Total",(23),"1,036","1,448","(1,048)","(2,520)",PDD
+Total Equity,"1,205","18,823","24,647","60,176","75,115",PDD
+Total Liabilities & Shareholders’ Equity,"13,314","43,182","76,057","158,909","181,210",PDD
+Shr Outs.-Com. Stk. Iss. 2,"2,357","2,575","2,576","3,545","5,058",PDD
+Shr Outs.-Com. Stk. Iss. 3,"2,074","2,074","2,074","1,410",--,PDD
+Ttl Comm. Shares Outs.,"4,431","4,649","4,650","4,955","5,058",PDD
+Trsy. Shrs-Comm. Iss. 2,0,0,0,0,0,PDD
+Trsy. Shrs-Comm. Iss. 3,0,0,0,0,--,PDD

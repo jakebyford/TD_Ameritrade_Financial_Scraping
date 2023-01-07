@@ -1,0 +1,44 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"6,918","6,483","6,806","6,846",PYPL
+"Cost of Revenue, Total","3,834","3,720","4,028","3,864",PYPL
+Selling/Gen/Admin Expense,"1,075",968,979,939,PYPL
+Labor & Related Expense,161,233,130,68,PYPL
+"Sell/Gen/AdminExpenses,Tot","1,236","1,201","1,109","1,007",PYPL
+Research & Development,796,815,815,801,PYPL
+Restructuring Charge,2,20,71,27,PYPL
+Impair-Assets Held for Use,0,16,19,29,PYPL
+Unusual Expense (Income),2,36,90,56,PYPL
+Total Operating Expense,"5,868","5,772","6,042","5,728",PYPL
+Total Operating Income,"1,050",711,764,"1,118",PYPL
+"Inter Expse,Net Non-Operat",(59),(59),(69),(87),PYPL
+"Inter Income, Non-Operating",14,15,27,48,PYPL
+"Invest Income, Non-Operat",(290),14,(672),495,PYPL
+"Inter/Invest Inc, Non-Oper",(276),29,(645),543,PYPL
+OtherNon-OperatInc (Expnse),(9),(52),(1),4,PYPL
+"Other, Net",(9),(52),(1),4,PYPL
+Income Before Tax,706,629,49,"1,578",PYPL
+Income Tax - Total,(95),120,390,248,PYPL
+Income After Tax,801,509,(341),"1,330",PYPL
+Net Inc Before Extra Items,801,509,(341),"1,330",PYPL
+Total Net Income,801,509,(341),"1,330",PYPL
+Income Available to Common Excl. Extra. Items,801,509,(341),"1,330",PYPL
+Income Available to Common Incl. Extra. Items,801,509,(341),"1,330",PYPL
+Basic/Primary Weighted Average Shares,"1,174","1,163","1,158","1,154",PYPL
+Basic/Primary EPS Excl. Extra. Items,0.68,0.44,(0.29),1.15,PYPL
+Basic/Primary EPS Incl. Extra. Items,0.68,0.44,(0.29),1.15,PYPL
+Diluted Weighted Average Shares,"1,183","1,172","1,158","1,157",PYPL
+Diluted EPS Excl. Extra. Items,0.68,0.43,(0.29),1.15,PYPL
+Diluted EPS Incl. Extra. Items,0.68,0.43,(0.29),1.15,PYPL
+Div/Share-ComStockPrimIssue,--,0.00,0.00,0.00,PYPL
+Gross Divid - Common Stock,0,0,0,--,PYPL
+Pro Forma Net Income,--,--,--,--,PYPL
+"Interest Expense, Suppl",59,59,69,87,PYPL
+"Depreciat/Amort, Suppl",209,210,213,212,PYPL
+Total Special Items,2,36,90,56,PYPL
+Normalzd Income Before Tax,708,665,139,"1,634",PYPL
+Efct/SpecItemsIncTxs (STEC),1,7,32,9,PYPL
+IncTxsExcl ImpctofSpec Itms,(94),127,422,257,PYPL
+Normalized Income After Tax,802,538,(283),"1,377",PYPL
+Normalzd Inc Avail to Common,802,538,(283),"1,377",PYPL
+Basic Normalized EPS,0.68,0.46,(0.24),1.19,PYPL
+Diluted Normalized EPS,0.68,0.46,(0.24),1.19,PYPL

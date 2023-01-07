@@ -1,0 +1,49 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"3,609","3,934","4,937","5,741","4,880",ELV
+Buildings,168,169,169,174,172,ELV
+Land/Improvements,512,581,732,688,658,ELV
+Machinery/Equipment,"3,693","4,798","5,578","6,465","7,429",ELV
+Other Prop./Plant/Equip.,--,--,575,646,628,ELV
+Prop./Plant/Equip. - Gross,"4,373","5,548","7,054","7,973","8,887",ELV
+Accumulated Depreciation,"(2,198)","(2,813)","(3,346)","(3,844)","(4,340)",ELV
+Prop./Plant/Equip. - Net,"2,175","2,735","3,708","4,129","4,547",ELV
+"Goodwill, Net","19,231","20,504","20,500","21,691","24,228",ELV
+Intangibles - Gross,"11,387","12,365","12,370","13,462","14,121",ELV
+Accum. Intangible Amort.,"(3,018)","(3,358)","(3,696)","(4,057)","(3,506)",ELV
+Intangibles - Net,"8,368","9,007","8,674","9,405","10,615",ELV
+Long Term Investments,"24,931","22,452","25,461","29,839","34,005",ELV
+Insurance Receivables,"6,185","6,743","7,584","8,128","9,691",ELV
+Note Rcvble - Long Term,"2,608","2,568","2,969","2,830","3,749",ELV
+Restricted Cash - LT,455,604,353,--,--,ELV
+Accrued Investment Income,163,162,173,--,--,ELV
+Other Assets,"2,815","2,862","3,094","4,852","5,745",ELV
+"Other Assets, Total","2,977","3,024","3,267","4,852","5,745",ELV
+Total Assets,"70,540","71,571","77,453","86,615","97,460",ELV
+Accounts Payable,"5,024","4,959","4,198","5,493","4,970",ELV
+Accrued Expenses,--,--,640,957,997,ELV
+Policy Liabilities,"10,942","10,044","11,892","15,949","19,039",ELV
+Unearned Prem. Or Rev.,860,902,"1,017","1,259","1,153",ELV
+Other Policyholders’ Funds,717,781,759,794,802,ELV
+Policy Liabilities,"12,519","11,727","13,668","18,002","20,994",ELV
+Notes Payable/ST Debt,"1,275","1,145",700,0,275,ELV
+Curr. Port. LT Dbt/Cap Ls.,"1,275",849,"1,598",700,"1,599",ELV
+"Other Curr. Lblts, Total",567,801,435,--,--,ELV
+Total Long Term Debt,"17,382","17,217","17,787","19,335","21,157",ELV
+Total Debt,"19,932","19,211","20,085","20,035","23,031",ELV
+Deferred Income Tax,"1,727","1,960","2,227","2,019","2,805",ELV
+Minority Interest,--,--,--,--,68,ELV
+"Other Liabilities, Total","4,268","4,372","4,472","6,910","8,535",ELV
+Total Liabilities,"44,037","43,030","45,725","53,416","61,400",ELV
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,0,ELV
+Common Stock,3,3,3,3,2,ELV
+Additional Paid-In Capital,"8,547","9,536","9,448","9,244","9,148",ELV
+Ret. Earn.(Accum. Deficit),"18,054","19,988","22,573","23,802","27,088",ELV
+Unrealized Gain (Loss),534,(161),519,947,492,ELV
+Cum. Trans. Adjustment,(1),(2),(2),5,(4),ELV
+Min. Pension Lblty Adj.,(401),(577),(551),(552),(429),ELV
+Other Comprehensive Income,(233),(246),(262),(250),(237),ELV
+"Other Equity, Total",(635),(825),(815),(797),(670),ELV
+Total Equity,"26,503","28,541","31,728","33,199","36,060",ELV
+Total Liabilities & Shareholders’ Equity,"70,540","71,571","77,453","86,615","97,460",ELV
+Ttl Comm. Shares Outs.,256,257,253,245,242,ELV
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,ELV

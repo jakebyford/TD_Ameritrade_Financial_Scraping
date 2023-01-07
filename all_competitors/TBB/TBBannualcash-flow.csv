@@ -1,0 +1,43 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"29,847","19,953","14,975","(3,821)","21,479",TBB
+Depreciation/Depletion,"24,387","28,430","28,217","28,516","22,862",TBB
+Deferred Taxes,"(15,940)",610,"1,806","1,675","5,246",TBB
+Unusual Items,"2,632",(693),240,"18,138","3,977",TBB
+Equity in Net Earnings/Loss,174,292,295,38,184,TBB
+Other Non-Cash Items,"2,900","2,151","15,331","11,752","4,258",TBB
+Non-Cash Items,"5,706","1,750","15,866","29,928","8,419",TBB
+"Cash Taxes Pd, Supplemental","2,006",(354),"1,421",993,700,TBB
+"Cash Interest Pd, Suppl","6,622","8,818","8,693","8,237","7,673",TBB
+Accounts Receivable,"(2,225)","(1,734)","3,360",787,(899),TBB
+Other Assets,(778),"(6,442)","(12,852)","(13,070)","(16,472)",TBB
+Payable/Accrued,816,"1,602","(1,524)","(1,410)","1,636",TBB
+Changes in Working Capital,"(5,990)","(7,141)","(12,196)","(13,168)","(16,049)",TBB
+Total Cash from Operations,"38,010","43,602","48,668","43,130","41,957",TBB
+Capital Expenditures,"(20,647)","(20,758)","(19,435)","(15,675)","(16,527)",TBB
+Acquisition of Business,--,"(43,309)","(1,809)","(1,851)","(25,453)",TBB
+Sale of Business,"1,182","2,148","4,684","3,641","8,740",TBB
+"Investment, Net",449,(185),435,497,--,TBB
+Other Investing Cash Flow,73,"(1,041)",(565),(160),"1,151",TBB
+"OtherInvestCashFlowItms,Tot","1,704","(42,387)","2,745","2,127","(15,562)",TBB
+Total Cash from Investing,"(18,943)","(63,145)","(16,690)","(13,548)","(32,089)",TBB
+Financing Cash Flow Items,"1,946","(3,926)","4,148","(7,536)","(7,040)",TBB
+Total Cash Dividends Paid,"(12,038)","(13,410)","(14,888)","(14,956)","(15,068)",TBB
+Sale/Issuance of Common,33,745,631,105,96,TBB
+Repurch/Retirement Common,(463),(609),"(2,417)","(5,498)",(202),TBB
+"Common Stock, Net",(430),136,"(1,786)","(5,393)",(106),TBB
+Sale/Issuance of Preferred,--,--,"1,164","5,848",0,TBB
+Repurch/Retirement Preferd,--,--,--,"(1,950)",0,TBB
+"Preferred Stock, Net",--,--,"1,164","3,898",0,TBB
+"Iss (Retirmnt) of Stock,Net",(430),136,(622),"(1,495)",(106),TBB
+Short Term Debt Issued,0,"4,898","4,012","9,440","21,856",TBB
+Short Term Debt Reduction,0,"(2,098)","(6,904)","(9,467)","(7,510)",TBB
+"Short Term Debt, Net",(2),"1,979","(3,168)",(44),"15,662",TBB
+Long Term Debt Issued,"48,793","41,875","17,039","31,988","11,272",TBB
+Long Term Debt Reduction,"(12,339)","(52,643)","(27,592)","(39,964)","(3,142)",TBB
+"Long Term Debt, Net","36,454","(10,768)","(10,553)","(7,976)","8,130",TBB
+"Iss (Retirmnt) of Debt, Net","36,452","(8,789)","(13,721)","(8,020)","23,792",TBB
+Total Cash From Financing,"25,930","(25,989)","(25,083)","(32,007)","1,578",TBB
+Net Change in Cash,"44,997","(45,532)","6,895","(2,425)","11,446",TBB
+NetCash-BeginBal/RsvdforFutUse,"5,935","50,932","5,400","12,295","9,870",TBB
+NetCash-EndBal/RsrvforFutUse,"50,932","5,400","12,295","9,870","21,316",TBB
+"Depreciation, Supplemental","24,387","28,430","28,217","28,516","22,862",TBB

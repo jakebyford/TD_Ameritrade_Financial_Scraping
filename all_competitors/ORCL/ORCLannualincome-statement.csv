@@ -1,0 +1,47 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"39,383","39,506","39,068","40,479","42,440",ORCL
+"Cost of Revenue, Total","8,060","7,995","7,938","7,855","8,877",ORCL
+Selling/Gen/Admin Expense,"9,036","9,073","8,717","8,285","8,398",ORCL
+Labor & Related Expense,541,532,380,449,693,ORCL
+Advertising Expense,138,169,178,202,273,ORCL
+"Sell/Gen/AdminExpenses,Tot","9,715","9,774","9,275","8,936","9,364",ORCL
+Research & Development,"6,084","6,026","6,067","6,527","7,219",ORCL
+Depreciation/Amortization,"1,620","1,689","1,586","1,379","1,150",ORCL
+Restructuring Charge,588,443,250,431,191,ORCL
+Other Unusual Expnse (In),52,44,56,138,"4,713",ORCL
+Unusual Expense (Income),640,487,306,569,"4,904",ORCL
+Total Operating Expense,"26,119","25,971","25,172","25,266","31,514",ORCL
+Total Operating Income,"13,264","13,535","13,896","15,213","10,926",ORCL
+"Inter Expse,Net Non-Operat","(2,025)","(2,082)","(1,995)","(2,496)","(2,755)",ORCL
+"Inter Income, Non-Operating","1,203","1,092",527,101,94,ORCL
+"Invest Income, Non-Operat",(209),(263),(349),(292),(530),ORCL
+"Inter/Invest Inc, Non-Oper",994,829,178,(191),(436),ORCL
+OtherNon-OperatInc (Expnse),191,(14),(16),473,(86),ORCL
+"Other, Net",191,(14),(16),473,(86),ORCL
+Income Before Tax,"12,424","12,268","12,063","12,999","7,649",ORCL
+Income Tax - Total,"1,967","1,574","1,928",(747),932,ORCL
+Income After Tax,"10,457","10,694","10,135","13,746","6,717",ORCL
+Net Inc Before Extra Items,"10,457","10,694","10,135","13,746","6,717",ORCL
+Total Extraordinary Items,"(6,870)",389,0,0,--,ORCL
+Total Net Income,"3,587","11,083","10,135","13,746","6,717",ORCL
+Income Available to Common Excl. Extra. Items,"10,457","10,694","10,135","13,746","6,717",ORCL
+Income Available to Common Incl. Extra. Items,"3,587","11,083","10,135","13,746","6,717",ORCL
+Basic/Primary Weighted Average Shares,"4,121","3,634","3,211","2,945","2,700",ORCL
+Basic/Primary EPS Excl. Extra. Items,2.54,2.94,3.16,4.67,2.49,ORCL
+Basic/Primary EPS Incl. Extra. Items,0.87,3.05,3.16,4.67,2.49,ORCL
+Diluted Weighted Average Shares,"4,238","3,732","3,294","3,022","2,786",ORCL
+Diluted EPS Excl. Extra. Items,2.47,2.87,3.08,4.55,2.41,ORCL
+Diluted EPS Incl. Extra. Items,0.85,2.97,3.08,4.55,2.41,ORCL
+Div/Share-ComStockPrimIssue,0.76,0.76,0.96,0.96,1.28,ORCL
+Gross Divid - Common Stock,"3,140","2,932","3,070","3,063","3,457",ORCL
+Pro Forma Net Income,--,--,--,--,--,ORCL
+"Interest Expense, Suppl","2,025","2,082","1,995","2,496","2,755",ORCL
+"Depreciat/Amort, Suppl","1,165","1,230","1,382","1,537","1,972",ORCL
+Total Special Items,640,487,306,569,"4,904",ORCL
+Normalzd Income Before Tax,"13,064","12,755","12,369","13,568","12,553",ORCL
+Efct/SpecItemsIncTxs (STEC),101,62,49,199,598,ORCL
+IncTxsExcl ImpctofSpec Itms,"2,068","1,636","1,977",(548),"1,530",ORCL
+Normalized Income After Tax,"10,996","11,119","10,392","14,116","11,023",ORCL
+Normalzd Inc Avail to Common,"10,996","11,119","10,392","14,116","11,023",ORCL
+Basic Normalized EPS,2.67,3.06,3.24,4.79,4.08,ORCL
+Diluted Normalized EPS,2.59,2.98,3.15,4.67,3.96,ORCL

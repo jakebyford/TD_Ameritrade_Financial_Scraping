@@ -1,0 +1,35 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,943,(667),(469),(91),(538),RAD
+Depreciation/Depletion,386,358,328,327,296,RAD
+Deferred Taxes,260,96,386,(11),(7),RAD
+Discontinued Operations,"(1,538)",(63),(24),(91),0,RAD
+Unusual Items,295,446,(9),(34),423,RAD
+Other Non-Cash Items,(3),35,(49),(39),36,RAD
+Non-Cash Items,"(1,247)",418,(81),(164),460,RAD
+"Cash Taxes Pd, Supplemental",87,17,5,8,6,RAD
+"Cash Interest Pd, Suppl",406,268,216,182,181,RAD
+Accounts Receivable,(349),(76),487,(182),54,RAD
+Inventories,19,(45),15,177,(97),RAD
+Other Assets,--,1,(38),81,34,RAD
+Accounts Payable,212,126,(92),(35),139,RAD
+Accrued Expenses,--,--,14,--,(29),RAD
+Changes in Working Capital,(77),(433),323,(39),169,RAD
+Total Cash from Operations,266,(229),487,23,379,RAD
+Purchase of Fixed Assets,(186),(197),(172),(195),(194),RAD
+Purchase/Acq of Intangibles,(29),(48),(43),(30),(27),RAD
+Capital Expenditures,(215),(245),(214),(225),(221),RAD
+Acquisition of Business,0,--,--,(86),0,RAD
+Sale of Fixed Assets,28,44,60,11,19,RAD
+Other Investing Cash Flow,"3,500",667,68,285,68,RAD
+"OtherInvestCashFlowItms,Tot","3,528",711,128,210,87,RAD
+Total Cash from Investing,"3,313",466,(87),(15),(134),RAD
+Financing Cash Flow Items,"(3,109)","(1,427)",4,(57),(30),RAD
+"Iss (Retirmnt) of Stock,Net",6,2,--,0,0,RAD
+Long Term Debt Issued,--,450,600,850,350,RAD
+Long Term Debt Reduction,(10),(440),(706),"(1,059)",(545),RAD
+"Iss (Retirmnt) of Debt, Net",(275),885,(331),(9),(336),RAD
+Total Cash From Financing,"(3,378)",(541),(327),(65),(366),RAD
+Net Change in Cash,202,(303),74,(57),(121),RAD
+NetCash-BeginBal/RsvdforFutUse,245,447,144,218,161,RAD
+NetCash-EndBal/RsrvforFutUse,447,144,218,161,40,RAD
+"Depreciation, Supplemental",386,358,328,327,296,RAD

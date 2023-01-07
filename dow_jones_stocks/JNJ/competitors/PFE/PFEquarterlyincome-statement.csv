@@ -1,0 +1,50 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"23,635","25,661","27,742","22,638",PFE
+"Cost of Revenue, Total","9,611","10,010","8,671","6,088",PFE
+"Sell/Gen/AdminExpenses,Tot","4,069","2,691","3,197","3,542",PFE
+Research & Development,"4,565","2,655","2,816","3,220",PFE
+Depreciation/Amortization,916,835,822,822,PFE
+Restructuring Charge,134,98,33,42,PFE
+Litigation,(276),79,19,77,PFE
+Impair-Assets Held for Use,86,--,--,200,PFE
+Other Unusual Expnse (In),"1,339",(55),(29),(31),PFE
+Unusual Expense (Income),"1,283",122,23,288,PFE
+"Other Operat Expse, Total","(1,385)",(525),111,(734),PFE
+Total Operating Expense,"19,059","15,788","15,640","13,226",PFE
+Total Operating Income,"4,576","9,873","12,102","9,412",PFE
+"Inter Expse,Net Non-Operat",(316),(322),(293),(311),PFE
+"Inter Income, Non-Operating",15,14,30,70,PFE
+"Invest Income, Non-Operat",(93),(515),(392),(163),PFE
+"Inter/Invest Inc, Non-Oper",(78),(501),(362),(93),PFE
+"Inter Inc(Exp),Net Non-Oper",--,--,--,1,PFE
+Gain(Loss)on Sale of Assets,0,1,0,(7),PFE
+"Other, Net",1,(1),--,(1),PFE
+Income Before Tax,"4,183","9,050","11,447","9,001",PFE
+Income Tax - Total,334,"1,172","1,570",356,PFE
+Income After Tax,"3,849","7,878","9,877","8,645",PFE
+Minority Interest,2,(6),(6),(15),PFE
+Net Inc Before Extra Items,"3,851","7,872","9,871","8,630",PFE
+Total Extraordinary Items,(458),(9),34,(21),PFE
+Total Net Income,"3,393","7,863","9,905","8,609",PFE
+Total Adjust to Net Income,--,1,1,(1),PFE
+Income Available to Common Excl. Extra. Items,"3,851","7,873","9,872","8,629",PFE
+Income Available to Common Incl. Extra. Items,"3,393","7,864","9,906","8,608",PFE
+Basic/Primary Weighted Average Shares,"5,613","5,617","5,593","5,607",PFE
+Basic/Primary EPS Excl. Extra. Items,0.69,1.40,1.77,1.54,PFE
+Basic/Primary EPS Incl. Extra. Items,0.60,1.40,1.77,1.54,PFE
+Diluted Weighted Average Shares,"5,768","5,758","5,712","5,718",PFE
+Diluted EPS Excl. Extra. Items,0.67,1.37,1.73,1.51,PFE
+Diluted EPS Incl. Extra. Items,0.59,1.37,1.73,1.51,PFE
+Div/Share-ComStockPrimIssue,0.39,0.40,0.40,0.40,PFE
+Gross Divid - Common Stock,"2,247","2,249","2,240","2,245",PFE
+Pro Forma Net Income,--,--,--,--,PFE
+"Interest Expense, Suppl",316,322,293,311,PFE
+"Depreciat/Amort, Suppl",361,352,353,361,PFE
+Total Special Items,"1,283",121,23,295,PFE
+Normalzd Income Before Tax,"5,466","9,171","11,470","9,296",PFE
+Efct/SpecItemsIncTxs (STEC),814,448,551,109,PFE
+IncTxsExcl ImpctofSpec Itms,"1,148","1,620","2,121",465,PFE
+Normalized Income After Tax,"4,318","7,551","9,349","8,831",PFE
+Normalzd Inc Avail to Common,"4,320","7,546","9,344","8,815",PFE
+Basic Normalized EPS,0.77,1.34,1.67,1.57,PFE
+Diluted Normalized EPS,0.75,1.31,1.64,1.54,PFE

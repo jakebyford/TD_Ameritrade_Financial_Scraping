@@ -1,0 +1,36 @@
+items,Q2 2014,Q3 2014,Q4 2014,Q1 2015,ticker
+Total Revenue,0,0,0,0,ROSN
+Selling/Gen/Admin Expense,60,54,89,94,ROSN
+Labor & Related Expense,--,--,--,(2),ROSN
+Advertising Expense,--,--,--,0,ROSN
+"Sell/Gen/AdminExpenses,Tot",60,54,89,92,ROSN
+"Other Operat Expse, Total",--,--,--,2,ROSN
+Total Operating Expense,60,54,89,94,ROSN
+Total Operating Income,(60),(54),(89),(94),ROSN
+"Inter Expse,Net Non-Operat",--,--,--,(13),ROSN
+OtherNon-OperatInc (Expnse),(6),(14),(13),--,ROSN
+"Other, Net",(6),(14),(13),--,ROSN
+Income Before Tax,(65),(68),(103),(107),ROSN
+Income Tax - Total,0,0,0,0,ROSN
+Income After Tax,(65),(68),(103),(107),ROSN
+Net Inc Before Extra Items,(65),(68),(103),(107),ROSN
+Total Net Income,(65),(68),(103),(107),ROSN
+Income Available to Common Excl. Extra. Items,(65),(68),(103),(107),ROSN
+Income Available to Common Incl. Extra. Items,(65),(68),(103),(107),ROSN
+Basic/Primary Weighted Average Shares,"26,533","26,783","26,650","27,100",ROSN
+Basic/Primary EPS Excl. Extra. Items,0.00,0.00,0.00,0.00,ROSN
+Basic/Primary EPS Incl. Extra. Items,0.00,0.00,0.00,0.00,ROSN
+Dilution Adjustment,0,--,--,--,ROSN
+Diluted Weighted Average Shares,"26,533","26,783","26,650","27,100",ROSN
+Diluted EPS Excl. Extra. Items,0.00,0.00,0.00,0.00,ROSN
+Diluted EPS Incl. Extra. Items,0.00,0.00,0.00,0.00,ROSN
+Div/Share-ComStockPrimIssue,0.00,0.00,0.00,0.00,ROSN
+Gross Divid - Common Stock,0,0,0,0,ROSN
+Pro Forma Net Income,--,--,--,--,ROSN
+"Interest Expense, Suppl",--,--,--,13,ROSN
+Normalzd Income Before Tax,(65),(68),(103),(107),ROSN
+IncTxsExcl ImpctofSpec Itms,0,0,0,0,ROSN
+Normalized Income After Tax,(65),(68),(103),(107),ROSN
+Normalzd Inc Avail to Common,(65),(68),(103),(107),ROSN
+Basic Normalized EPS,0.00,0.00,0.00,0.00,ROSN
+Diluted Normalized EPS,0.00,0.00,0.00,0.00,ROSN

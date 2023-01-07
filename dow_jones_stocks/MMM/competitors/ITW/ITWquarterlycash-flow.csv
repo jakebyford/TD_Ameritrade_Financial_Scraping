@@ -1,0 +1,40 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"2,694",662,"1,400","2,127",ITW
+Depreciation/Depletion,277,71,140,209,ITW
+Amortization,133,35,69,102,ITW
+Deferred Taxes,(148),(37),(60),(72),ITW
+Unusual Items,(29),(1),(6),(10),ITW
+Other Non-Cash Items,69,17,37,53,ITW
+Non-Cash Items,40,16,31,43,ITW
+"Cash Taxes Pd, Supplemental",731,102,506,768,ITW
+"Cash Interest Pd, Suppl",197,58,113,170,ITW
+Accounts Receivable,(240),(301),(396),(417),ITW
+Inventories,(450),(207),(374),(477),ITW
+Prepaid Expenses,(36),(47),(1),27,ITW
+Accounts Payable,37,116,124,84,ITW
+Accrued Expenses,202,(119),(27),14,ITW
+Changes in Working Capital,(439),(424),(756),(872),ITW
+Total Cash from Operations,"2,557",323,824,"1,537",ITW
+Capital Expenditures,(296),(74),(155),(256),ITW
+Acquisition of Business,(731),(2),(2),(2),ITW
+Sale of Business,0,--,--,3,ITW
+Sale of Fixed Assets,8,2,5,8,ITW
+Sale/Maturity of Investment,38,2,7,12,ITW
+Other Investing Cash Flow,(3),(1),(1),(2),ITW
+"OtherInvestCashFlowItms,Tot",(688),1,9,19,ITW
+Total Cash from Investing,(984),(73),(146),(237),ITW
+Financing Cash Flow Items,(10),(13),(15),(15),ITW
+Total Cash Dividends Paid,"(1,463)",(382),(762),"(1,139)",ITW
+Sale/Issuance of Common,50,16,17,17,ITW
+Repurch/Retirement Common,"(1,000)",(375),(750),"(1,250)",ITW
+"Iss (Retirmnt) of Stock,Net",(950),(359),(733),"(1,233)",ITW
+"Short Term Debt, Net",120,564,635,"1,078",ITW
+"Long Term Debt, Net",90,357,454,454,ITW
+Total Debt Reduction,(351),(656),(863),"(1,110)",ITW
+"Iss (Retirmnt) of Debt, Net",(141),265,226,422,ITW
+Total Cash From Financing,"(2,564)",(489),"(1,284)","(1,965)",ITW
+Foreign Exchange Effects,(46),8,(42),(88),ITW
+Net Change in Cash,"(1,037)",(231),(648),(753),ITW
+NetCash-BeginBal/RsvdforFutUse,"2,564","1,527","1,527","1,527",ITW
+NetCash-EndBal/RsrvforFutUse,"1,527","1,296",879,774,ITW
+"Depreciation, Supplemental",277,71,140,209,ITW

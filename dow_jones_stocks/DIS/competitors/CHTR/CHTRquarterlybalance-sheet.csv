@@ -1,0 +1,44 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash and Short Term Invs,601,"2,431",483,480,CHTR
+"Trade Accts Recvble, Gross","2,736","2,691","2,998","3,071",CHTR
+Prov. for Doubtful Accts,(157),(161),(219),(230),CHTR
+"Total Receivables, Net","2,579","2,530","2,779","2,841",CHTR
+Prepaid Expenses,386,555,476,433,CHTR
+Total Current Assets,"3,566","5,516","3,738","3,754",CHTR
+Other Prop./Plant/Equip.,"68,563","69,070","69,148","70,419",CHTR
+Prop./Plant/Equip. - Gross,"68,563","69,070","69,148","70,419",CHTR
+Accumulated Depreciation,"(34,253)","(34,897)","(34,676)","(35,414)",CHTR
+Prop./Plant/Equip. - Net,"35,616","34,173","34,472","35,005",CHTR
+"Goodwill, Gross","29,562",--,--,--,CHTR
+Accum. Goodwill Amort.,0,--,--,--,CHTR
+"Goodwill, Net","29,562","29,563","29,563","29,563",CHTR
+Intangibles - Gross,"86,639","71,046","85,602","85,613",CHTR
+Accum. Intangible Amort.,"(14,376)",--,"(14,875)","(15,177)",CHTR
+Intangibles - Net,"72,263","71,046","70,727","70,436",CHTR
+Other Long Term Assets,"1,484","3,650","4,758","4,911",CHTR
+Total Assets,"142,491","143,948","143,258","143,669",CHTR
+Accounts Payable,724,706,718,740,CHTR
+Accrued Expenses,"8,276","8,198","8,611","8,808",CHTR
+Notes Payable/ST Debt,0,0,0,0,CHTR
+Curr. Port. LT Dbt/Cap Ls.,"2,997","4,543","1,533","1,522",CHTR
+"Other Curr. Lblts, Total",461,482,533,525,CHTR
+Total Current Liabilities,"12,458","13,929","11,395","11,595",CHTR
+Total Long Term Debt,"88,564","90,679","94,468","95,510",CHTR
+Total Debt,"91,561","95,222","96,001","97,032",CHTR
+Deferred Income Tax,"19,096","19,070","19,123","19,153",CHTR
+Minority Interest,"4,106","3,884","3,634","3,461",CHTR
+"Other Liabilities, Total","4,217","4,326","4,759","5,061",CHTR
+Total Liabilities,"128,441","131,888","133,379","134,780",CHTR
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,CHTR
+Common Stock,0,0,0,0,CHTR
+Additional Paid-In Capital,"26,725","26,865","26,900","26,950",CHTR
+Ret. Earn.(Accum. Deficit),"(12,675)","(11,472)","(10,001)","(8,816)",CHTR
+Treasury Stock - Common,--,"(3,333)","(7,020)","(9,245)",CHTR
+"Other Equity, Total",0,0,0,0,CHTR
+Total Equity,"14,050","12,060","9,879","8,889",CHTR
+Total Liabilities & Shareholders’ Equity,"142,491","143,948","143,258","143,669",CHTR
+Shr Outs.-Com. Primary Iss.,173,174,161,156,CHTR
+Shr Outs.-Com. Stk. Iss. 2,0,0,0,0,CHTR
+Ttl Comm. Shares Outs.,173,174,161,156,CHTR
+Trsy. Shrs-Comm. Primary Iss.,0,0,13,18,CHTR
+Trsy. Shrs-Comm. Iss. 2,0,0,--,--,CHTR

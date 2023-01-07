@@ -1,0 +1,44 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"40,958","29,712","29,643","30,043",TBC
+"Cost of Revenue, Total","19,795","12,735","12,341","12,201",TBC
+"Sell/Gen/AdminExpenses,Tot","10,009","6,981","7,250","7,193",TBC
+Depreciation/Amortization,"5,673","4,462","4,450","4,514",TBC
+Impair-Assets Held for Use,188,0,631,114,TBC
+Other Unusual Expnse (In),(15),(3),15,9,TBC
+Unusual Expense (Income),173,(3),646,123,TBC
+Total Operating Expense,"35,650","24,175","24,687","24,031",TBC
+Total Operating Income,"5,308","5,537","4,956","6,012",TBC
+"Inter Expse,Net Non-Operat","(1,663)","(1,626)","(1,502)","(1,420)",TBC
+"Inter/Invest Inc, Non-Oper",592,433,308,321,TBC
+OtherNon-OperatInc (Expnse),"2,209","2,245","2,498","2,341",TBC
+"Other, Net","2,209","2,245","2,498","2,341",TBC
+Income Before Tax,"6,446","6,589","6,260","7,254",TBC
+Income Tax - Total,"1,056","1,440","1,509",908,TBC
+Income After Tax,"5,390","5,149","4,751","6,346",TBC
+Minority Interest,(347),(354),(380),(373),TBC
+Net Inc Before Extra Items,"5,043","4,795","4,371","5,973",TBC
+Total Extraordinary Items,--,15,(214),53,TBC
+Total Net Income,"5,043","4,810","4,157","6,026",TBC
+Total Adjust to Net Income,(51),(48),(52),(49),TBC
+Income Available to Common Excl. Extra. Items,"4,992","4,747","4,319","5,924",TBC
+Income Available to Common Incl. Extra. Items,"4,992","4,762","4,105","5,977",TBC
+Basic/Primary Weighted Average Shares,"7,171","7,173","7,169","7,153",TBC
+Basic/Primary EPS Excl. Extra. Items,0.70,0.66,0.60,0.83,TBC
+Basic/Primary EPS Incl. Extra. Items,0.70,0.66,0.57,0.84,TBC
+Dilution Adjustment,5,146,143,143,TBC
+Diluted Weighted Average Shares,"7,205","7,598","7,611","7,647",TBC
+Diluted EPS Excl. Extra. Items,0.69,0.64,0.59,0.79,TBC
+Diluted EPS Incl. Extra. Items,0.69,0.65,0.56,0.80,TBC
+Div/Share-ComStockPrimIssue,0.52,0.52,0.28,0.28,TBC
+Gross Divid - Common Stock,"3,748","2,020","1,993","1,991",TBC
+Pro Forma Net Income,--,--,--,--,TBC
+"Interest Expense, Suppl","1,663","1,626","1,502","1,420",TBC
+"Depreciat/Amort, Suppl","4,597","5,512","4,433","4,498",TBC
+Total Special Items,305,188,939,197,TBC
+Normalzd Income Before Tax,"6,751","6,777","7,199","7,451",TBC
+Efct/SpecItemsIncTxs (STEC),50,41,226,25,TBC
+IncTxsExcl ImpctofSpec Itms,"1,106","1,481","1,735",933,TBC
+Normalized Income After Tax,"5,645","5,296","5,464","6,518",TBC
+Normalzd Inc Avail to Common,"5,247","4,894","5,032","6,096",TBC
+Basic Normalized EPS,0.73,0.68,0.70,0.85,TBC
+Diluted Normalized EPS,0.73,0.66,0.68,0.82,TBC

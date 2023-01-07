@@ -1,0 +1,50 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"1,967","1,986","2,052","2,002",ZTS
+"Cost of Revenue, Total",596,565,620,606,ZTS
+"Sell/Gen/AdminExpenses,Tot",593,465,529,501,ZTS
+Research & Development,138,122,135,134,ZTS
+Depreciation/Amortization,40,41,37,37,ZTS
+"Inter Expense, Operating",60,58,59,58,ZTS
+"Inter Capitalzd, Operating",(6),(5),(6),(5),ZTS
+"Inter Expense,Net Operatng",54,53,53,53,ZTS
+"Interest Income, Operating",(2),(2),(5),(13),ZTS
+"Invest Income, Operating",7,11,14,11,ZTS
+"Inter/Invest Inc, Operating",5,9,9,(2),ZTS
+Restructuring Charge,0,0,0,5,ZTS
+Impair-Assets Held for Use,27,--,--,1,ZTS
+Impair-Assets Held for Sale,0,0,4,0,ZTS
+Other Unusual Expnse (In),5,5,1,1,ZTS
+Unusual Expense (Income),32,5,5,7,ZTS
+Loss(Gain)/Sale Asts (Oper),0,--,0,0,ZTS
+"Other, Net",3,(1),(6),(1),ZTS
+"Other Operat Expse, Total",3,(1),(6),(1),ZTS
+Total Operating Expense,"1,461","1,259","1,382","1,335",ZTS
+Total Operating Income,506,727,670,667,ZTS
+Income Before Tax,506,727,670,667,ZTS
+Income Tax - Total,93,133,141,139,ZTS
+Income After Tax,413,594,529,528,ZTS
+Minority Interest,1,1,0,1,ZTS
+Net Inc Before Extra Items,414,595,529,529,ZTS
+Total Net Income,414,595,529,529,ZTS
+Income Available to Common Excl. Extra. Items,414,595,529,529,ZTS
+Income Available to Common Incl. Extra. Items,414,595,529,529,ZTS
+Basic/Primary Weighted Average Shares,473,472,470,468,ZTS
+Basic/Primary EPS Excl. Extra. Items,0.88,1.26,1.13,1.13,ZTS
+Basic/Primary EPS Incl. Extra. Items,0.88,1.26,1.13,1.13,ZTS
+Diluted Weighted Average Shares,476,474,472,469,ZTS
+Diluted EPS Excl. Extra. Items,0.87,1.26,1.12,1.13,ZTS
+Diluted EPS Incl. Extra. Items,0.87,1.26,1.12,1.13,ZTS
+Div/Share-ComStockPrimIssue,0.25,0.33,0.33,0.33,ZTS
+Gross Divid - Common Stock,271,153,153,0,ZTS
+Pro Forma Net Income,--,--,--,--,ZTS
+"Interest Expense, Suppl",54,53,53,53,ZTS
+"Interest Capitalized, Suppl",(6),(5),(6),(5),ZTS
+"Depreciat/Amort, Suppl",67,62,70,67,ZTS
+Total Special Items,32,5,5,7,ZTS
+Normalzd Income Before Tax,538,732,675,674,ZTS
+Efct/SpecItemsIncTxs (STEC),6,2,2,1,ZTS
+IncTxsExcl ImpctofSpec Itms,99,135,143,140,ZTS
+Normalized Income After Tax,439,597,532,534,ZTS
+Normalzd Inc Avail to Common,440,598,532,535,ZTS
+Basic Normalized EPS,0.93,1.27,1.13,1.14,ZTS
+Diluted Normalized EPS,0.93,1.26,1.13,1.14,ZTS

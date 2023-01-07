@@ -1,0 +1,52 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash and Short Term Invs,621,551,"3,483",998,601,CHTR
+"Trade Accts Recvble, Gross","1,748","1,862","2,378","2,395","2,736",CHTR
+Prov. for Doubtful Accts,(113),(129),(151),(194),(157),CHTR
+"Total Receivables, Net","1,635","1,733","2,227","2,201","2,579",CHTR
+Prepaid Expenses,299,446,761,707,386,CHTR
+Total Current Assets,"2,555","2,730","6,471","3,906","3,566",CHTR
+Buildings,"3,901","4,360","4,843","5,396","5,729",CHTR
+Machinery/Equipment,"43,514","48,397","50,913","53,381","55,819",CHTR
+Other Prop./Plant/Equip.,"4,550","5,444","7,583","8,433","8,321",CHTR
+Prop./Plant/Equip. - Gross,"51,965","58,201","63,339","67,210","69,869",CHTR
+Accumulated Depreciation,"(18,077)","(23,075)","(27,656)","(31,639)","(34,253)",CHTR
+Prop./Plant/Equip. - Net,"33,888","35,126","35,683","35,571","35,616",CHTR
+"Goodwill, Gross",--,"29,554","29,554","29,554","29,562",CHTR
+Accum. Goodwill Amort.,--,0,0,0,0,CHTR
+"Goodwill, Net","29,554","29,554","29,554","29,554","29,562",CHTR
+Intangibles - Gross,"86,438","86,116","86,116","86,131","86,639",CHTR
+Accum. Intangible Amort.,"(6,479)","(8,756)","(10,899)","(12,774)","(14,376)",CHTR
+Intangibles - Net,"79,959","77,360","75,217","73,357","72,263",CHTR
+Long Term Investments,482,454,309,294,112,CHTR
+Deferred Charges,--,415,427,--,--,CHTR
+Restricted Cash - LT,--,214,66,3,--,CHTR
+Other Long Term Assets,185,277,461,"1,521","1,372",CHTR
+Total Assets,"146,623","146,130","148,188","144,206","142,491",CHTR
+Accounts Payable,740,758,786,763,724,CHTR
+Accrued Expenses,"7,910","7,553","7,635","7,668","8,276",CHTR
+Notes Payable/ST Debt,0,0,0,0,0,CHTR
+Curr. Port. LT Dbt/Cap Ls.,"2,045","3,290","3,504","1,008","2,997",CHTR
+"Other Curr. Lblts, Total",395,494,460,436,461,CHTR
+Total Current Liabilities,"11,090","12,095","12,385","9,875","12,458",CHTR
+Long Term Debt,"68,186","69,537","75,578","81,744","88,564",CHTR
+Capital Lease Obligations,--,--,58,--,--,CHTR
+Total Long Term Debt,"68,186","69,537","75,636","81,744","88,564",CHTR
+Total Debt,"70,231","72,827","79,140","82,752","91,561",CHTR
+Deferred Income Tax,"17,314","17,389","17,711","18,108","19,096",CHTR
+Minority Interest,"8,447","7,987","7,366","6,476","4,106",CHTR
+"Other Liabilities, Total","2,502","2,837","3,645","4,198","4,217",CHTR
+Total Liabilities,"107,539","109,845","116,743","120,401","128,441",CHTR
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,0,CHTR
+Common Stock,0,0,0,0,0,CHTR
+Additional Paid-In Capital,"35,253","33,507","31,405","29,000","26,725",CHTR
+Ret. Earn.(Accum. Deficit),"3,832","2,780",40,"(5,195)","(12,675)",CHTR
+Other Equity,--,--,0,0,0,CHTR
+Other Comprehensive Income,(1),(2),0,--,--,CHTR
+"Other Equity, Total",(1),(2),0,0,0,CHTR
+Total Equity,"39,084","36,285","31,445","23,805","14,050",CHTR
+Total Liabilities & Shareholders’ Equity,"146,623","146,130","148,188","144,206","142,491",CHTR
+Shr Outs.-Com. Primary Iss.,239,225,210,194,173,CHTR
+Shr Outs.-Com. Stk. Iss. 2,0,0,0,0,0,CHTR
+Ttl Comm. Shares Outs.,239,225,210,194,173,CHTR
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,CHTR
+Trsy. Shrs-Comm. Iss. 2,0,0,0,0,0,CHTR

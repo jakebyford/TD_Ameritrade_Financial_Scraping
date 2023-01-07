@@ -1,0 +1,34 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,709,694,952,992,"1,082",GRMN
+Depreciation/Depletion,60,65,72,78,103,GRMN
+Amortization,26,31,34,49,51,GRMN
+Deferred Taxes,(90),39,(88),7,(5),GRMN
+Unusual Items,1,0,(1),(3),0,GRMN
+Other Non-Cash Items,99,97,82,71,129,GRMN
+Non-Cash Items,99,97,81,68,129,GRMN
+"Cash Taxes Pd, Supplemental",106,68,160,133,(123),GRMN
+Accounts Receivable,(40),5,(123),(109),(19),GRMN
+Inventories,(39),(82),(170),29,(476),GRMN
+Other Assets,(22),7,(86),(34),(38),GRMN
+Accounts Payable,(17),41,26,1,109,GRMN
+Changes in Working Capital,(144),(7),(353),(59),(348),GRMN
+Total Cash from Operations,661,920,699,"1,135","1,012",GRMN
+Purchase of Fixed Assets,(140),(156),(118),(185),(308),GRMN
+Purchase/Acq of Intangibles,(12),(5),(2),(2),(2),GRMN
+Capital Expenditures,(152),(160),(120),(187),(310),GRMN
+Acquisition of Business,(90),(29),(300),(149),(20),GRMN
+Sale of Fixed Assets,0,2,1,2,0,GRMN
+Sale/Maturity of Investment,635,284,759,"1,126","1,363",GRMN
+Purchase of Investments,(588),(403),(789),"(1,053)","(1,509)",GRMN
+"OtherInvestCashFlowItms,Tot",(42),(147),(330),(73),(166),GRMN
+Total Cash from Investing,(194),(308),(451),(261),(475),GRMN
+Total Cash Dividends Paid,(383),(296),(417),(451),(491),GRMN
+Sale/Issuance of Common,22,27,27,15,36,GRMN
+Repurch/Retirement Common,(87),(17),(26),(26),(31),GRMN
+"Iss (Retirmnt) of Stock,Net",(65),10,1,(11),5,GRMN
+Total Cash From Financing,(448),(286),(416),(462),(487),GRMN
+Foreign Exchange Effects,27,(16),(6),18,(10),GRMN
+Net Change in Cash,45,310,(174),431,40,GRMN
+NetCash-BeginBal/RsvdforFutUse,847,892,"1,202","1,028","1,459",GRMN
+NetCash-EndBal/RsrvforFutUse,892,"1,202","1,028","1,459","1,499",GRMN
+"Depreciation, Supplemental",60,65,72,78,103,GRMN

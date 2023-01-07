@@ -1,0 +1,33 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"1,082",212,469,680,GRMN
+Depreciation/Depletion,103,29,59,88,GRMN
+Amortization,51,12,24,34,GRMN
+Deferred Taxes,(5),(26),(66),(101),GRMN
+Unusual Items,0,(1),(1),(1),GRMN
+Other Non-Cash Items,129,20,61,103,GRMN
+Non-Cash Items,129,18,60,103,GRMN
+Accounts Receivable,(19),238,122,157,GRMN
+Inventories,(476),(135),(295),(442),GRMN
+Other Assets,(38),(2),1,29,GRMN
+Accounts Payable,109,(62),(30),(64),GRMN
+Changes in Working Capital,(348),(60),(281),(385),GRMN
+Total Cash from Operations,"1,012",186,265,420,GRMN
+Purchase of Fixed Assets,(308),(60),(135),(185),GRMN
+Purchase/Acq of Intangibles,(2),(1),(1),(1),GRMN
+Capital Expenditures,(310),(60),(136),(186),GRMN
+Acquisition of Business,(20),(11),(11),(13),GRMN
+Sale of Fixed Assets,0,1,2,2,GRMN
+Sale/Maturity of Investment,"1,363",432,621,924,GRMN
+Purchase of Investments,"(1,509)",(498),(873),"(1,045)",GRMN
+"OtherInvestCashFlowItms,Tot",(166),(76),(261),(133),GRMN
+Total Cash from Investing,(475),(136),(397),(319),GRMN
+Total Cash Dividends Paid,(491),(129),(258),(399),GRMN
+Sale/Issuance of Common,36,20,41,41,GRMN
+Repurch/Retirement Common,(31),(15),(40),(120),GRMN
+"Iss (Retirmnt) of Stock,Net",5,6,1,(79),GRMN
+Total Cash From Financing,(487),(123),(257),(478),GRMN
+Foreign Exchange Effects,(10),(7),(22),(38),GRMN
+Net Change in Cash,40,(81),(411),(416),GRMN
+NetCash-BeginBal/RsvdforFutUse,"1,459","1,499","1,499","1,499",GRMN
+NetCash-EndBal/RsrvforFutUse,"1,499","1,418","1,088","1,083",GRMN
+"Depreciation, Supplemental",103,29,59,88,GRMN

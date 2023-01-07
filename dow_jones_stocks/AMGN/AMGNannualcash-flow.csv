@@ -1,0 +1,36 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"1,979","8,394","7,842","7,264","5,893",AMGN
+Depreciation/Depletion,"1,955","1,946","2,206","3,601","3,398",AMGN
+Deferred Taxes,"(1,330)",(363),(289),(287),(453),AMGN
+Non-Cash Items,663,697,122,135,"1,617",AMGN
+"Cash Taxes Pd, Supplemental","1,500","1,900","1,900","1,400","1,900",AMGN
+"Cash Interest Pd, Suppl","1,300","1,500","1,300","1,200","1,200",AMGN
+Accounts Receivable,(58),(378),(504),(427),(429),AMGN
+Inventories,133,(3),(66),(215),(165),AMGN
+Other Assets,(24),35,10,129,(237),AMGN
+Accounts Payable,424,(143),164,45,(69),AMGN
+Changes in Working Capital,"7,910",622,(731),(216),"(1,194)",AMGN
+Total Cash from Operations,"11,177","11,296","9,150","10,497","9,261",AMGN
+Capital Expenditures,(664),(738),(618),(608),(880),AMGN
+Acquisition of Business,(19),--,"(13,617)",--,"(2,529)",AMGN
+Sale of Business,--,195,--,0,--,AMGN
+Sale of Fixed Assets,11,--,--,--,--,AMGN
+Sale/Maturity of Investment,"30,414","33,768","29,390","6,978","13,234",AMGN
+Purchase of Investments,"(33,607)","(18,741)","(9,394)","(11,696)","(9,057)",AMGN
+Other Investing Cash Flow,(159),(145),(52),(75),(35),AMGN
+"OtherInvestCashFlowItms,Tot","(3,360)","15,077","6,327","(4,793)","1,613",AMGN
+Total Cash from Investing,"(4,024)","14,339","5,709","(5,401)",733,AMGN
+Financing Cash Flow Items,(140),(68),(42),(90),(78),AMGN
+Total Cash Dividends Paid,"(3,365)","(3,507)","(3,509)","(3,755)","(4,013)",AMGN
+"Iss (Retirmnt) of Stock,Net","(3,160)","(17,794)","(7,702)","(3,486)","(4,975)",AMGN
+Long Term Debt Issued,--,--,0,"8,914","4,945",AMGN
+Long Term Debt Reduction,--,--,"(4,514)","(6,450)","(4,150)",AMGN
+"Long Term Debt, Net",--,--,"(4,514)","2,464",795,AMGN
+Total Debt Issued,"4,476",0,--,--,--,AMGN
+Total Debt Reduction,"(4,405)","(1,121)",--,--,--,AMGN
+"Iss (Retirmnt) of Debt, Net",71,"(1,121)","(4,514)","2,464",795,AMGN
+Total Cash From Financing,"(6,594)","(22,490)","(15,767)","(4,867)","(8,271)",AMGN
+Net Change in Cash,559,"3,145",(908),229,"1,723",AMGN
+NetCash-BeginBal/RsvdforFutUse,"3,241","3,800","6,945","6,037","6,266",AMGN
+NetCash-EndBal/RsrvforFutUse,"3,800","6,945","6,037","6,266","7,989",AMGN
+"Depreciation, Supplemental","1,955","1,946","2,206","3,601","3,398",AMGN

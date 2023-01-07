@@ -1,0 +1,43 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"24,720","26,509","23,518","29,061","32,250",SBUX
+"Cost of Revenue, Total","17,368","19,021","18,399","20,625","23,865",SBUX
+"Sell/Gen/AdminExpenses,Tot","1,759","1,824","1,680","1,933","2,032",SBUX
+Depreciation/Amortization,"1,247","1,377","1,431","1,442","1,448",SBUX
+"Inter/Invest Inc, Operating",(301),(298),(323),(385),(234),SBUX
+Restructuring Charge,224,136,279,170,46,SBUX
+Impair-Assets Held for Use,--,--,60,44,14,SBUX
+Other Unusual Expnse (In),"(1,876)",(623),0,(865),20,SBUX
+Unusual Expense (Income),"(1,651)",(487),338,(650),80,SBUX
+"Other Operat Expse, Total",539,371,430,360,442,SBUX
+Total Operating Expense,"18,961","21,808","21,956","23,324","27,633",SBUX
+Total Operating Income,"5,759","4,701","1,562","5,737","4,618",SBUX
+"Inter Expse,Net Non-Operat",(170),(331),(437),(470),(483),SBUX
+"Inter/Invest Inc, Non-Oper",191,97,40,90,97,SBUX
+Income Before Tax,"5,780","4,466","1,164","5,357","4,232",SBUX
+Income Tax - Total,"1,102",872,240,"1,157",949,SBUX
+Income After Tax,"4,678","3,595",925,"4,200","3,283",SBUX
+Minority Interest,0,5,4,(1),(2),SBUX
+Net Inc Before Extra Items,"4,678","3,599",928,"4,199","3,282",SBUX
+Total Extraordinary Items,(160),--,--,--,--,SBUX
+Total Net Income,"4,518","3,599",928,"4,199","3,282",SBUX
+Income Available to Common Excl. Extra. Items,"4,678","3,599",928,"4,199","3,282",SBUX
+Income Available to Common Incl. Extra. Items,"4,518","3,599",928,"4,199","3,282",SBUX
+Basic/Primary Weighted Average Shares,"1,383","1,221","1,173","1,178","1,153",SBUX
+Basic/Primary EPS Excl. Extra. Items,3.38,2.95,0.79,3.57,2.85,SBUX
+Basic/Primary EPS Incl. Extra. Items,3.27,2.95,0.79,3.57,2.85,SBUX
+Diluted Weighted Average Shares,"1,395","1,233","1,182","1,186","1,159",SBUX
+Diluted EPS Excl. Extra. Items,3.35,2.92,0.79,3.54,2.83,SBUX
+Diluted EPS Incl. Extra. Items,3.24,2.92,0.79,3.54,2.83,SBUX
+Div/Share-ComStockPrimIssue,1.26,1.44,1.64,1.80,1.96,SBUX
+Gross Divid - Common Stock,"1,761","1,802","1,437","2,697","2,294",SBUX
+Pro Forma Net Income,--,--,--,--,--,SBUX
+"Interest Expense, Suppl",170,331,437,470,483,SBUX
+"Depreciat/Amort, Suppl","1,119","1,217","1,280","1,301","1,337",SBUX
+Total Special Items,"(1,576)",(369),439,(594),123,SBUX
+Normalzd Income Before Tax,"4,204","4,098","1,603","4,763","4,355",SBUX
+Efct/SpecItemsIncTxs (STEC),(300),(72),90,(128),28,SBUX
+IncTxsExcl ImpctofSpec Itms,802,800,330,"1,028",976,SBUX
+Normalized Income After Tax,"3,403","3,298","1,273","3,734","3,379",SBUX
+Normalzd Inc Avail to Common,"3,403","3,303","1,277","3,733","3,377",SBUX
+Basic Normalized EPS,2.46,2.70,1.09,3.17,2.93,SBUX
+Diluted Normalized EPS,2.44,2.68,1.08,3.15,2.92,SBUX

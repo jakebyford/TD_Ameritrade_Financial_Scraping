@@ -1,0 +1,49 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"43,730","49,604","42,951","38,542","54,968",DOW
+"Cost of Revenue, Total","36,350","41,074","36,657","33,329","44,191",DOW
+"Sell/Gen/AdminExpenses,Tot","1,795","1,782","1,590","1,471","1,645",DOW
+Research & Development,803,800,765,768,857,DOW
+Depreciation/Amortization,400,469,419,401,388,DOW
+Restructuring Charge,"3,537","1,380","4,282",622,(16),DOW
+Litigation,--,--,205,--,(54),DOW
+Impair-Assets Held for Use,--,--,--,245,12,DOW
+Other Unusual Expnse (In),(227),(34),100,(472),538,DOW
+Unusual Expense (Income),"3,310","1,346","4,587",395,480,DOW
+Total Operating Expense,"42,658","45,471","44,018","36,364","47,561",DOW
+Total Operating Income,"1,072","4,133","(1,067)","2,178","7,407",DOW
+"Inter Expse,Net Non-Operat",(914),"(1,063)",(933),(878),(731),DOW
+"Inter Income, Non-Operating",66,82,81,38,55,DOW
+"Invest Income, Non-Operat",394,555,(94),2,967,DOW
+"Inter/Invest Inc, Non-Oper",460,637,(13),40,"1,022",DOW
+Gain(Loss)on Sale of Assets,--,--,--,592,105,DOW
+"Other, Net",(381),42,766,139,342,DOW
+Income Before Tax,237,"3,749","(1,247)","2,071","8,145",DOW
+Income Tax - Total,"1,524",809,470,777,"1,740",DOW
+Income After Tax,"(1,287)","2,940","(1,717)","1,294","6,405",DOW
+Minority Interest,(130),(134),(87),(78),(94),DOW
+Net Inc Before Extra Items,"(1,417)","2,806","(1,804)","1,216","6,311",DOW
+Total Extraordinary Items,"1,882","1,835",445,0,0,DOW
+Total Net Income,465,"4,641","(1,359)","1,216","6,311",DOW
+Total Adjust to Net Income,--,--,--,--,(32),DOW
+Income Available to Common Excl. Extra. Items,"(1,417)","2,806","(1,804)","1,216","6,279",DOW
+Income Available to Common Incl. Extra. Items,465,"4,641","(1,359)","1,216","6,279",DOW
+Basic/Primary Weighted Average Shares,745,747,743,741,744,DOW
+Basic/Primary EPS Excl. Extra. Items,(1.90),3.76,(2.43),1.64,8.44,DOW
+Basic/Primary EPS Incl. Extra. Items,0.62,6.21,(1.83),1.64,8.44,DOW
+Diluted Weighted Average Shares,745,747,743,742,749,DOW
+Diluted EPS Excl. Extra. Items,(1.90),3.76,(2.43),1.64,8.38,DOW
+Diluted EPS Incl. Extra. Items,0.62,6.21,(1.83),1.64,8.38,DOW
+Div/Share-ComStockPrimIssue,0.00,0.00,2.10,2.80,2.80,DOW
+Gross Divid - Common Stock,0,0,"2,085","2,071","2,073",DOW
+Pro Forma Net Income,--,--,--,--,--,DOW
+"Interest Expense, Suppl",914,"1,063",933,878,731,DOW
+"Interest Capitalized, Suppl",--,--,--,(64),(59),DOW
+"Depreciat/Amort, Suppl","2,064","2,347","2,423","2,377","2,364",DOW
+Total Special Items,"3,310","1,346","4,587",(741),613,DOW
+Normalzd Income Before Tax,"3,547","5,095","3,340","1,330","8,758",DOW
+Efct/SpecItemsIncTxs (STEC),"1,159",290,"1,605",(278),131,DOW
+IncTxsExcl ImpctofSpec Itms,"2,683","1,099","2,075",499,"1,871",DOW
+Normalized Income After Tax,865,"3,996","1,265",831,"6,887",DOW
+Normalzd Inc Avail to Common,735,"3,862","1,178",753,"6,761",DOW
+Basic Normalized EPS,0.99,5.17,1.59,1.02,9.09,DOW
+Diluted Normalized EPS,0.99,5.17,1.59,1.01,9.03,DOW

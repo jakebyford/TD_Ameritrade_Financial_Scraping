@@ -1,0 +1,32 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"1,935","2,790","3,747","1,385","4,221",SYF
+Depreciation/Depletion,254,302,367,383,390,SYF
+Deferred Taxes,385,(53),23,(602),219,SYF
+"Cash Taxes Pd, Supplemental",754,772,"1,017",847,"1,112",SYF
+"Cash Interest Pd, Suppl","1,350","1,815","2,272","1,691","1,034",SYF
+Loan Loss Provision,"5,296","5,545","4,180","5,310",726,SYF
+Other Assets,(154),(199),(298),358,461,SYF
+Changes in Working Capital,"6,001","6,303","4,853","6,321","2,269",SYF
+Total Cash from Operations,"8,575","9,342","8,990","7,487","7,099",SYF
+Sale/Maturity of Investment,"3,762","5,668","8,085","8,383","5,080",SYF
+Purchase of Investments,"(3,159)","(7,271)","(7,856)","(9,913)","(2,990)",SYF
+Loans,"(9,671)","(16,631)",98,"1,422","(6,355)",SYF
+Other Investing Cash Flow,(474),(802),(588),(390),(549),SYF
+Total Cash from Investing,"(9,542)","(19,036)",(261),(498),"(4,814)",SYF
+Deposits,"4,431","7,509","1,117","(2,369)",(534),SYF
+Other Financing Cash Flow,(5),(34),37,(7),29,SYF
+Financing Cash Flow Items,"4,426","7,475","1,154","(2,376)",(505),SYF
+Cash Divids Paid - Common,(446),(534),(581),(520),(500),SYF
+Cash Divs Paid - Preferred,--,--,--,(42),(42),SYF
+Total Cash Dividends Paid,(446),(534),(581),(562),(542),SYF
+"Common Stock, Net","(1,497)","(1,868)","(3,618)",(985),"(2,876)",SYF
+"Preferred Stock, Net",--,--,734,0,0,SYF
+"Iss (Retirmnt) of Stock,Net","(1,497)","(1,868)","(2,884)",(985),"(2,876)",SYF
+Long Term Debt Issued,"6,043","6,337","5,330",675,"3,105",SYF
+Long Term Debt Reduction,"(5,410)","(3,157)","(9,477)","(4,783)","(4,386)",SYF
+"Iss (Retirmnt) of Debt, Net",633,"3,180","(4,147)","(4,108)","(1,281)",SYF
+Total Cash From Financing,"3,116","8,253","(6,458)","(8,031)","(5,204)",SYF
+Net Change in Cash,"2,149","(1,441)","2,271","(1,042)","(2,919)",SYF
+NetCash-BeginBal/RsvdforFutUse,"9,668","11,817","10,376","12,647","11,605",SYF
+NetCash-EndBal/RsrvforFutUse,"11,817","10,376","12,647","11,605","8,686",SYF
+"Depreciation, Supplemental",254,302,367,383,390,SYF

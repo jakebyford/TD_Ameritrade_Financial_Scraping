@@ -1,0 +1,68 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"43,967","31,124","35,811","36,530","15,770",GE
+Short Term Investments,--,"33,508","9,888","7,319","12,297",GE
+Cash and Short Term Invs,"43,967","64,632","45,699","43,849","28,067",GE
+"Trade Accts Recvble, Gross","25,282","15,315","17,442","17,855","16,694",GE
+Prov. for Doubtful Accts,"(1,073)",(670),(874),"(1,164)","(1,074)",GE
+"Trade Accts Recvble, Net","24,209","14,645","23,958","22,455","20,501",GE
+Notes Recvble - Short Term,--,"7,699","3,712",--,--,GE
+"Total Receivables, Net","24,209","22,344","27,670","22,455","20,501",GE
+Invent. - Finished Goods,"9,288","5,745","5,333","5,654","4,927",GE
+Invent. - Raw Materials,"10,131","8,057","8,771","7,937","8,710",GE
+Inventories - Other,--,1,"3,111","2,299","2,210",GE
+Total Inventory,"19,419","13,803","17,215","15,890","15,847",GE
+Discont. Ops.-Curr. Assets,--,--,"9,149",--,--,GE
+Other Current Assets,"28,949",--,"3,363","2,659","1,933",GE
+"Other Curr. Assets, Total","28,949",--,"12,512","2,659","1,933",GE
+Total Current Assets,"116,544","100,779","103,096","84,853","66,348",GE
+Buildings,--,"11,101","9,989","10,346","10,282",GE
+Land/Improvements,--,853,757,602,585,GE
+Machinery/Equipment,--,"19,425","20,082","21,151","21,036",GE
+Other Prop./Plant/Equip.,"89,607","44,239","44,052","2,851","2,607",GE
+Prop./Plant/Equip. - Gross,"89,607","75,618","74,880","34,950","34,510",GE
+Accumulated Depreciation,"(35,733)","(32,007)","(29,001)","(18,251)","(18,901)",GE
+Prop./Plant/Equip. - Net,"53,874","43,611","45,879","16,699","15,609",GE
+"Goodwill, Net","83,968","33,974","26,734","25,524","26,182",GE
+Intangibles - Gross,"32,833","23,043","21,511","21,319","21,204",GE
+Accum. Intangible Amort.,"(12,561)","(10,865)","(10,857)","(11,649)","(11,923)",GE
+Intangibles - Net,"20,273","12,178","10,653","9,671","9,330",GE
+LT Invt. - Affiliate Comp.,--,--,"4,015","6,383","7,840",GE
+LT Investments - Other,"38,696",0,"38,632","42,549","42,209",GE
+Long Term Investments,"38,696",0,"42,647","48,932","50,049",GE
+Note Rcvble - Long Term,"36,993","24,574","12,303","5,888","6,124",GE
+Def. Inc. Tax - LT Asset,"8,819","12,117","9,889","14,253","10,855",GE
+Disct. Ops. - LT Asset,"10,076","65,482","4,109","40,749","3,177",GE
+Other Long Term Assets,2,"18,357","9,867","9,642","11,200",GE
+Total Assets,"369,245","311,072","265,177","256,211","198,874",GE
+Accounts Payable,"15,172","14,257","17,357","16,458","16,243",GE
+Notes Payable/ST Debt,"8,803","4,523","6,176","1,457",97,GE
+Curr. Port. LT Dbt/Cap Ls.,"15,233","8,253","17,465","3,256","4,264",GE
+Dividends Payable,"1,052",--,--,--,--,GE
+Customer Advances,"22,117","18,983","18,389","18,371","17,372",GE
+Discontinued Operations,--,--,"1,658",--,--,GE
+Other Current Liabilities,"75,838","14,453","17,820","15,071","13,977",GE
+"Other Curr. Lblts, Total","99,007","33,436","37,867","33,442","31,349",GE
+Total Current Liabilities,"138,215","60,469","78,865","54,613","51,953",GE
+Total Long Term Debt,"110,555","90,824","67,241","70,189","30,824",GE
+Total Debt,"134,591","103,600","90,882","74,902","35,185",GE
+Minority Interest,"20,859","20,500","1,545","1,522","1,302",GE
+Pension Benefits - Underfunded,"41,630","32,740","31,687","29,677","21,202",GE
+Other LT Liabilities,--,"55,569","57,320","58,773","52,396",GE
+Discont. Ops. - Lblts,"1,954","19,989",203,"5,886",887,GE
+"Other Liabilities, Total","43,584","108,298","89,210","94,336","74,485",GE
+Total Liabilities,"313,213","280,091","236,861","220,660","158,564",GE
+"Pref. Stock-Non Rdmbl, Net",6,6,6,6,6,GE
+Common Stock,702,702,702,702,15,GE
+Ret. Earn.(Accum. Deficit),"117,245","93,109","87,732","92,247","85,110",GE
+Treasury Stock - Common,"(84,902)","(83,925)","(82,797)","(81,961)","(81,093)",GE
+Unrealized Gain (Loss),(102),(39),61,32,"2,498",GE
+Cum. Trans. Adjustment,"(4,661)","(6,134)","(4,818)","(4,386)","(4,562)",GE
+Other Equity,"37,384","35,503","34,405","34,306","34,690",GE
+Min. Pension Lblty Adj.,"(9,702)","(8,254)","(7,024)","(5,395)","3,646",GE
+Other Comprehensive Income,62,13,49,--,--,GE
+"Other Equity, Total","23,083","21,128","22,612","24,525","33,774",GE
+Total Equity,"56,032","30,981","28,316","35,551","40,310",GE
+Total Liabilities & Shareholders’ Equity,"369,245","311,072","265,177","256,211","198,874",GE
+Ttl Comm. Shares Outs.,"1,085","1,088","1,092","1,096","1,099",GE
+Trsy. Shrs-Comm. Primary Iss.,377,374,374,374,374,GE
+Trsry Shrs-Pref. Iss. 1,0,0,0,0,0,GE

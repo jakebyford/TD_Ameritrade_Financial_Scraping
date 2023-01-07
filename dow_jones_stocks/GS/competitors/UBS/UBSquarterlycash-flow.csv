@@ -1,0 +1,38 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"7,486","2,144","4,262","6,005",UBS
+Depreciation/Depletion,"2,088",506,"1,009","1,517",UBS
+Amortization,30,--,--,--,UBS
+Deferred Taxes,434,221,350,563,UBS
+Equity in Net Earnings/Loss,(105),4,(12),(31),UBS
+Other Non-Cash Items,"3,802","1,925","9,399","14,766",UBS
+Non-Cash Items,"3,697","1,929","9,387","14,735",UBS
+"Cash Taxes Pd, Supplemental","1,134",670,878,"1,284",UBS
+"Cash Interest Pd, Suppl","4,707","1,387","2,675","5,028",UBS
+Loan Loss Provision,(148),18,25,22,UBS
+Other Assets,"38,750","23,659","28,643","34,599",UBS
+Changes in Working Capital,"17,690","22,479","3,142","(7,820)",UBS
+Total Cash from Operations,"31,425","27,279","18,150","15,000",UBS
+Capital Expenditures,"(1,841)",(402),(761),"(1,181)",UBS
+Acquisition of Business,(1),0,0,0,UBS
+Sale of Business,593,--,911,"1,682",UBS
+Sale of Fixed Assets,295,--,3,9,UBS
+Sale/Maturity of Investment,"5,052","1,092","2,291","3,234",UBS
+"Investment, Net",(415),"(2,547)","(4,254)","(8,228)",UBS
+Purchase of Investments,"(5,802)","(1,645)","(2,821)","(3,958)",UBS
+Other Investing Cash Flow,--,--,1,(1),UBS
+"OtherInvestCashFlowItms,Tot",(278),"(3,100)","(3,869)","(7,262)",UBS
+Total Cash from Investing,"(2,119)","(3,502)","(4,630)","(8,443)",UBS
+Financing Cash Flow Items,(283),(225),(352),(482),UBS
+Total Cash Dividends Paid,"(1,301)",--,"(1,668)","(1,668)",UBS
+"Iss (Retirmnt) of Stock,Net","(3,341)","(1,886)","(3,521)","(4,745)",UBS
+"Short Term Debt, Net","(3,093)","(5,188)","(10,440)","(16,249)",UBS
+Long Term Debt Issued,"98,272","24,381","48,460","68,389",UBS
+Long Term Debt Reduction,"(79,909)","(21,201)","(36,309)","(54,184)",UBS
+"Long Term Debt, Net","18,363","3,180","12,151","14,205",UBS
+"Iss (Retirmnt) of Debt, Net","15,270","(2,008)","1,711","(2,044)",UBS
+Total Cash From Financing,"10,345","(4,119)","(3,830)","(8,939)",UBS
+Foreign Exchange Effects,"(5,307)","(2,731)","(9,656)","(15,788)",UBS
+Net Change in Cash,"34,344","16,927",34,"(18,170)",UBS
+NetCash-BeginBal/RsvdforFutUse,"173,531","207,875","207,875","207,875",UBS
+NetCash-EndBal/RsrvforFutUse,"207,875","224,802","207,909","189,707",UBS
+"Depreciation, Supplemental","2,088",506,"1,009","1,517",UBS

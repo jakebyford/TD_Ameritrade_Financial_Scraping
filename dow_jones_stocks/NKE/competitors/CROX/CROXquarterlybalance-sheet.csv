@@ -1,0 +1,49 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash and Short Term Invs,213,172,187,143,CROX
+"Trade Accts Recvble, Gross",203,394,452,429,CROX
+Prov. for Doubtful Accts,(21),(19),(28),(31),CROX
+"Trade Accts Recvble, Net",183,376,423,398,CROX
+Other Receivables,35,41,19,26,CROX
+"Total Receivables, Net",217,417,442,424,CROX
+Total Inventory,214,408,502,514,CROX
+Prepaid Expenses,23,42,37,43,CROX
+"Other Curr. Assets, Total",0,0,0,0,CROX
+Total Current Assets,667,"1,039","1,168","1,123",CROX
+Buildings,65,--,--,67,CROX
+Machinery/Equipment,54,--,--,126,CROX
+Construction in Progress,53,--,--,25,CROX
+Other Prop./Plant/Equip.,181,221,229,285,CROX
+Prop./Plant/Equip. - Gross,353,221,229,503,CROX
+Accumulated Depreciation,(84),(86),(89),(91),CROX
+Prop./Plant/Equip. - Net,269,335,376,412,CROX
+"Goodwill, Net",2,642,714,714,CROX
+Intangibles - Gross,137,"2,008","1,921","1,924",CROX
+Accum. Intangible Amort.,(108),(112),(117),(122),CROX
+Intangibles - Net,29,"1,896","1,804","1,803",CROX
+Def. Inc. Tax - LT Asset,567,548,514,482,CROX
+Restricted Cash - LT,4,3,3,3,CROX
+Other Long Term Assets,8,7,7,6,CROX
+Total Assets,"1,545","4,471","4,587","4,543",CROX
+Accounts Payable,162,203,225,190,CROX
+Accrued Expenses,160,154,194,191,CROX
+Notes Payable/ST Debt,0,0,0,0,CROX
+Curr. Port. LT Dbt/Cap Ls.,--,25,25,20,CROX
+Customer Advances,7,8,8,9,CROX
+Income Taxes Payable,16,67,59,77,CROX
+Other Current Liabilities,42,73,91,84,CROX
+"Other Curr. Lblts, Total",66,149,157,170,CROX
+Total Current Liabilities,388,531,602,571,CROX
+Total Long Term Debt,771,"2,851","2,744","2,596",CROX
+Total Debt,771,"2,876","2,769","2,616",CROX
+Deferred Income Tax,--,330,313,313,CROX
+"Other Liabilities, Total",371,409,436,433,CROX
+Total Liabilities,"1,531","4,121","4,095","3,912",CROX
+Common Stock,0,0,0,0,CROX
+Additional Paid-In Capital,496,775,784,792,CROX
+Ret. Earn.(Accum. Deficit),"1,279","1,352","1,512","1,681",CROX
+Treasury Stock - Common,"(1,684)","(1,690)","(1,691)","(1,695)",CROX
+"Other Equity, Total",(77),(87),(113),(147),CROX
+Total Equity,14,349,492,631,CROX
+Total Liabilities & Shareholders’ Equity,"1,545","4,471","4,587","4,543",CROX
+Ttl Comm. Shares Outs.,58,62,62,62,CROX
+Trsy. Shrs-Comm. Primary Iss.,48,48,48,48,CROX

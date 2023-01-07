@@ -1,0 +1,58 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash and Short Term Invs,"14,217","27,938","29,345","40,348","62,975",SCHW
+"Total Receivables, Net","21,686","22,614","21,767","64,440","90,565",SCHW
+Prepaid Expenses,126,122,--,--,--,SCHW
+Total Current Assets,--,--,--,--,--,SCHW
+Buildings,810,945,"1,056","1,444","1,640",SCHW
+Land/Improvements,142,248,324,325,429,SCHW
+Machinery/Equipment,"1,882","1,974","2,220","2,823","3,203",SCHW
+Construction in Progress,167,179,163,208,208,SCHW
+Other Prop./Plant/Equip.,550,586,"1,178","1,687","1,692",SCHW
+Prop./Plant/Equip. - Gross,"3,551","3,932","4,941","6,487","7,172",SCHW
+Accumulated Depreciation,"(2,080)","(2,163)","(2,236)","(2,667)","(2,888)",SCHW
+Prop./Plant/Equip. - Net,"1,471","1,769","2,705","3,820","4,284",SCHW
+"Goodwill, Net","1,227","1,227","1,227","11,952","11,952",SCHW
+Intangibles - Gross,378,451,454,"10,507","10,510",SCHW
+Accum. Intangible Amort.,(270),(299),(326),(516),"(1,131)",SCHW
+Intangibles - Net,108,152,128,"9,991","9,379",SCHW
+Long Term Investments,"178,432","218,749","205,789","353,323","404,676",SCHW
+Note Rcvble - Long Term,"16,478","16,609","18,568","24,392","35,273",SCHW
+Def. Inc. Tax - LT Asset,76,3,--,--,--,SCHW
+Restricted Cash - LT,"8,543","6,368","11,455","35,495","40,853",SCHW
+Other Assets,910,931,"3,021","5,248","7,313",SCHW
+"Other Assets, Total",910,931,"3,021","5,248","7,313",SCHW
+Total Assets,"243,274","296,482","294,005","549,009","667,270",SCHW
+Accounts Payable,"32,530","34,557","39,220","104,201","125,671",SCHW
+Accrued Expenses,"2,810","2,954","5,516","17,094","17,791",SCHW
+Notes Payable/ST Debt,"184,656","231,423","220,094","358,022","448,633",SCHW
+Total Current Liabilities,--,--,--,--,--,SCHW
+Long Term Debt,"4,692","6,826","7,430","13,632","18,914",SCHW
+Capital Lease Obligations,61,52,--,--,--,SCHW
+Total Long Term Debt,"4,753","6,878","7,430","13,632","18,914",SCHW
+Total Debt,"189,409","238,301","227,524","371,654","467,547",SCHW
+Total Liabilities,"224,749","275,812","272,260","492,949","611,009",SCHW
+"Pref. Stock-Non Rdmbl, Net","2,793","2,793","2,793","7,733","9,954",SCHW
+Common Stock,15,15,15,21,21,SCHW
+Additional Paid-In Capital,"4,353","4,499","4,656","26,515","26,741",SCHW
+Ret. Earn.(Accum. Deficit),"14,408","17,329","19,960","21,975","25,992",SCHW
+Treasury Stock - Common,"(2,892)","(3,714)","(5,767)","(5,578)","(5,338)",SCHW
+Unrealized Gain (Loss),(152),(252),88,"5,394","(1,109)",SCHW
+Total Equity,"18,525","20,670","21,745","56,060","56,261",SCHW
+Total Liabilities & Shareholders’ Equity,"243,274","296,482","294,005","549,009","667,270",SCHW
+Shr Outs.-Com. Primary Iss.,"1,345","1,332","1,286","1,801","1,814",SCHW
+Shr Outs.-Com. Stk. Iss. 2,--,--,--,79,79,SCHW
+Ttl Comm. Shares Outs.,"1,345","1,332","1,286","1,881","1,893",SCHW
+Trsy. Shrs-Comm. Primary Iss.,142,155,202,194,181,SCHW
+Trsy. Shrs-Comm. Iss. 2,--,--,--,0,--,SCHW
+Shrs Out-Pref Primary Iss.,1,0,0,0,0,SCHW
+Shrs Out-Pref Stk Iss. 2,1,1,1,1,0,SCHW
+Shrs Out-Pref Stk Iss. 3,1,1,1,1,1,SCHW
+Shrs Out-Pref Stk Iss. 4,0,0,0,0,0,SCHW
+Shrs Out-Pref Stk Iss. 5,--,0,0,0,0,SCHW
+Shrs Out-Pref Stk Iss. 6,--,--,--,--,1,SCHW
+Trsry Shrs-Pref. Iss. 1,0,--,--,0,0,SCHW
+Trsry Shrs-Pref. Iss. 2,0,--,--,0,0,SCHW
+Trsry Shrs-Pref. Iss. 3,0,--,--,0,0,SCHW
+Trsry Shrs-Pref. Iss. 4,0,--,--,0,0,SCHW
+Trsry Shrs-Pref. Iss. 5,--,0,0,0,0,SCHW
+Trsry Shrs-Pref. Iss. 6,--,--,--,--,0,SCHW

@@ -1,0 +1,47 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash and Short Term Invs,"7,832","6,040","4,767","5,381",RTX
+"Trade Accts Recvble, Gross","10,136","9,589","10,897","9,717",RTX
+Prov. for Doubtful Accts,(475),(513),(503),(484),RTX
+"Total Receivables, Net","21,022","20,642","22,230","21,530",RTX
+Invent. - Finished Goods,"3,069","3,199","3,304","3,309",RTX
+Invent. - Work In Progress,"3,085","3,471","3,628","3,747",RTX
+Invent. - Raw Materials,"3,024","3,079","3,210","3,387",RTX
+Total Inventory,"9,178","9,749","10,142","10,443",RTX
+"Other Curr. Assets, Total","4,018","4,309","4,323","4,467",RTX
+Total Current Assets,"42,050","40,740","41,462","41,821",RTX
+Prop./Plant/Equip. - Gross,"27,637","27,815","27,990","28,201",RTX
+Accumulated Depreciation,"(12,665)","(12,978)","(13,249)","(13,533)",RTX
+Prop./Plant/Equip. - Net,"16,930","16,748","16,607","16,470",RTX
+"Goodwill, Net","54,436","54,316","53,806","53,168",RTX
+Intangibles - Gross,"47,884","47,965","47,825","47,721",RTX
+Accum. Intangible Amort.,"(9,368)","(9,847)","(10,263)","(10,675)",RTX
+Intangibles - Net,"38,516","38,118","37,562","37,046",RTX
+Long Term Investments,"2,848","2,766","2,675","2,618",RTX
+Note Rcvble - Long Term,"11,361",--,--,--,RTX
+Other Long Term Assets,"(4,737)","6,678","6,905","7,102",RTX
+Total Assets,"161,404","159,366","159,017","158,225",RTX
+Accounts Payable,"8,751","8,270","9,732","9,017",RTX
+Accrued Expenses,"12,820","12,884","14,487","13,600",RTX
+Notes Payable/ST Debt,134,140,113,"2,195",RTX
+Curr. Port. LT Dbt/Cap Ls.,24,24,26,193,RTX
+"Other Curr. Lblts, Total","13,720","13,739","13,430","13,368",RTX
+Total Current Liabilities,"35,449","35,057","37,788","38,373",RTX
+Total Long Term Debt,"31,327","31,308","31,274","31,059",RTX
+Total Debt,"31,485","31,472","31,413","33,447",RTX
+Minority Interest,"1,631","1,560","1,587","1,581",RTX
+Pension Benefits - Underfunded,"7,855","7,709","7,543","7,362",RTX
+Other LT Liabilities,"12,074","11,270","10,384","9,663",RTX
+"Other Liabilities, Total","19,929","18,979","17,927","17,025",RTX
+Total Liabilities,"88,336","86,904","88,576","88,038",RTX
+Common Stock,"37,483","37,504","37,673","37,829",RTX
+Ret. Earn.(Accum. Deficit),"50,265","50,592","50,271","51,652",RTX
+Treasury Stock - Common,"(12,727)","(13,483)","(14,539)","(15,141)",RTX
+ESOP Debt Guarantee,(38),(36),(33),(31),RTX
+Cum. Trans. Adjustment,49,(194),(908),"(1,954)",RTX
+Min. Pension Lblty Adj.,"(1,828)","(1,811)","(1,772)","(1,730)",RTX
+Other Comprehensive Income,(136),(110),(251),(438),RTX
+"Other Equity, Total","(1,915)","(2,115)","(2,931)","(4,122)",RTX
+Total Equity,"73,068","72,462","70,441","70,187",RTX
+Total Liabilities & Shareholders’ Equity,"161,404","159,366","159,017","158,225",RTX
+Ttl Comm. Shares Outs.,"1,493","1,487","1,477","1,470",RTX
+Trsy. Shrs-Comm. Primary Iss.,215,215,215,215,RTX

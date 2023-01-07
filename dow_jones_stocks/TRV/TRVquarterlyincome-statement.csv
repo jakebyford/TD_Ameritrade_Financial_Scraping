@@ -1,0 +1,41 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Premiums Earned,"8,024","8,014","8,317","8,615",TRV
+Other Insurance Revenue,186,181,207,188,TRV
+Total Premiums Earned,"8,210","8,195","8,524","8,803",TRV
+Net Investment Income,743,637,707,593,TRV
+Realized Gains (Losses),59,(22),(75),(79),TRV
+Total Revenue,"9,012","8,810","9,156","9,317",TRV
+"Losses,Benies& Adjmts,Total","4,819","5,039","5,803","6,088",TRV
+Amort. Of Policy Acquisition Costs,"1,301","1,310","1,365","1,406",TRV
+"Sell/Gen/AdminExpenses,Tot","1,153","1,191","1,223","1,193",TRV
+Unusual Expense (Income),1,1,20,5,TRV
+Total Operating Expense,"7,274","7,541","8,411","8,692",TRV
+Total Operating Income,"1,738","1,269",745,625,TRV
+Gain(Loss)on Sale of Assets,--,--,--,(9),TRV
+Income Before Tax,"1,650","1,182",657,528,TRV
+Income Tax - Total,317,164,106,74,TRV
+Income After Tax,"1,333","1,018",551,454,TRV
+Net Inc Before Extra Items,"1,333","1,018",551,454,TRV
+Total Net Income,"1,333","1,018",551,454,TRV
+Total Adjust to Net Income,(10),(7),(4),(4),TRV
+Income Available to Common Excl. Extra. Items,"1,323","1,011",547,450,TRV
+Income Available to Common Incl. Extra. Items,"1,323","1,011",547,450,TRV
+Basic/Primary Weighted Average Shares,244,241,238,235,TRV
+Basic/Primary EPS Excl. Extra. Items,5.43,4.20,2.29,1.91,TRV
+Basic/Primary EPS Incl. Extra. Items,5.43,4.20,2.29,1.91,TRV
+Diluted Weighted Average Shares,246,244,241,238,TRV
+Diluted EPS Excl. Extra. Items,5.38,4.15,2.27,1.89,TRV
+Diluted EPS Incl. Extra. Items,5.38,4.15,2.27,1.89,TRV
+Div/Share-ComStockPrimIssue,0.88,0.88,0.88,0.93,TRV
+Gross Divid - Common Stock,216,214,225,221,TRV
+Pro Forma Net Income,--,--,--,--,TRV
+"Interest Expense, Suppl",88,87,88,88,TRV
+"Depreciat/Amort, Suppl",205,231,210,195,TRV
+Total Special Items,1,1,20,14,TRV
+Normalzd Income Before Tax,"1,651","1,183",677,542,TRV
+Efct/SpecItemsIncTxs (STEC),0,0,3,2,TRV
+IncTxsExcl ImpctofSpec Itms,317,164,109,76,TRV
+Normalized Income After Tax,"1,334","1,019",568,466,TRV
+Normalzd Inc Avail to Common,"1,324","1,012",564,462,TRV
+Basic Normalized EPS,5.43,4.20,2.36,1.96,TRV
+Diluted Normalized EPS,5.38,4.15,2.34,1.94,TRV

@@ -1,0 +1,49 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"22,820","21,258","21,364","19,208","23,223",MCD
+"Cost of Revenue, Total","12,200","10,425","10,185","9,456","10,643",MCD
+"Sell/Gen/AdminExpenses,Tot","2,324","1,985","1,967","2,245","2,378",MCD
+Depreciation/Amortization,--,215,263,301,330,MCD
+"Inter/Invest Inc, Operating",(276),(152),(154),(117),(177),MCD
+Other Unusual Expnse (In),(998),(72),(53),(291),(381),MCD
+Unusual Expense (Income),(980),(39),34,0,(306),MCD
+Loss(Gain)/Sale Asts (Oper),19,34,87,291,75,MCD
+"Other, Net",--,--,--,--,0,MCD
+"Other Operat Expse, Total",--,--,--,--,0,MCD
+Total Operating Expense,"13,268","12,435","12,295","11,884","12,867",MCD
+Total Operating Income,"9,553","8,823","9,070","7,324","10,356",MCD
+"Inter Expse, Non-Operating",(927),(987),"(1,129)","(1,224)","(1,193)",MCD
+"Inter Capital, Non-Operat",5,6,7,6,7,MCD
+"Inter Expse,Net Non-Operat",(921),(981),"(1,122)","(1,218)","(1,186)",MCD
+"Inter Income, Non-Operating",7,4,37,18,9,MCD
+"Invest Income, Non-Operat",(26),(5),48,3,(37),MCD
+"Inter/Invest Inc, Non-Oper",(19),(1),85,21,(28),MCD
+OtherNon-OperatInc (Expnse),(39),(24),(15),14,(14),MCD
+"Other, Net",(39),(24),(15),14,(14),MCD
+Income Before Tax,"8,574","7,816","8,018","6,141","9,128",MCD
+Income Tax - Total,"2,681","1,817","1,909","1,410","1,583",MCD
+Income After Tax,"5,892","5,999","6,109","4,731","7,545",MCD
+Net Inc Before Extra Items,"5,892","5,999","6,109","4,731","7,545",MCD
+Total Extraordinary Items,(700),(75),(84),--,--,MCD
+Total Net Income,"5,192","5,924","6,025","4,731","7,545",MCD
+Income Available to Common Excl. Extra. Items,"5,892","5,999","6,109","4,731","7,545",MCD
+Income Available to Common Incl. Extra. Items,"5,192","5,924","6,025","4,731","7,545",MCD
+Basic/Primary Weighted Average Shares,807,778,758,745,746,MCD
+Basic/Primary EPS Excl. Extra. Items,7.30,7.71,8.06,6.35,10.11,MCD
+Basic/Primary EPS Incl. Extra. Items,6.43,7.61,7.95,6.35,10.11,MCD
+Diluted Weighted Average Shares,816,786,765,750,752,MCD
+Diluted EPS Excl. Extra. Items,7.23,7.64,7.99,6.31,10.04,MCD
+Diluted EPS Incl. Extra. Items,6.37,7.54,7.88,6.31,10.04,MCD
+Div/Share-ComStockPrimIssue,3.83,4.19,4.73,5.04,5.25,MCD
+Gross Divid - Common Stock,"3,089","3,256","3,582","3,753","3,919",MCD
+Pro Forma Net Income,--,--,--,--,--,MCD
+"Interest Expense, Suppl",921,981,"1,122","1,218","1,186",MCD
+"Interest Capitalized, Suppl",(5),(6),(7),(6),(7),MCD
+"Depreciat/Amort, Suppl","1,363","1,303","1,392","1,469","1,531",MCD
+Total Special Items,(980),(39),34,0,(306),MCD
+Normalzd Income Before Tax,"7,594","7,777","8,052","6,141","8,822",MCD
+Efct/SpecItemsIncTxs (STEC),(306),(9),8,0,(53),MCD
+IncTxsExcl ImpctofSpec Itms,"2,375","1,808","1,917","1,410","1,530",MCD
+Normalized Income After Tax,"5,219","5,970","6,135","4,730","7,292",MCD
+Normalzd Inc Avail to Common,"5,219","5,970","6,135","4,730","7,292",MCD
+Basic Normalized EPS,6.46,7.67,8.09,6.35,9.77,MCD
+Diluted Normalized EPS,6.40,7.60,8.02,6.31,9.70,MCD

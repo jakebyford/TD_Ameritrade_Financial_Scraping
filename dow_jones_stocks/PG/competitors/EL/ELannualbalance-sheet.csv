@@ -1,0 +1,60 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash & Equivalents,"2,181","2,987","5,022","4,958","3,957",EL
+Short Term Investments,534,--,--,--,--,EL
+Cash and Short Term Invs,"2,715","2,987","5,022","4,958","3,957",EL
+"Trade Accts Recvble, Gross","1,516","1,863","1,257","1,742","1,656",EL
+Prov. for Doubtful Accts,(29),(32),(63),(40),(27),EL
+"Total Receivables, Net","1,487","1,831","1,194","1,702","1,629",EL
+Invent. - Finished Goods,798,981,995,"1,213","1,449",EL
+Invent. - Work In Progress,222,268,305,330,366,EL
+Invent. - Raw Materials,432,541,542,674,791,EL
+Inventories - Other,166,216,220,288,314,EL
+Total Inventory,"1,618","2,006","2,062","2,505","2,920",EL
+Prepaid Expenses,315,358,614,603,792,EL
+"Other Curr. Assets, Total",33,30,--,--,--,EL
+Total Current Assets,"6,168","7,212","8,892","9,768","9,298",EL
+Buildings,"2,389","2,611","2,781","2,953","2,737",EL
+Land/Improvements,30,29,33,55,53,EL
+Machinery/Equipment,"1,912","2,075","2,200","2,483","2,462",EL
+Construction in Progress,--,--,--,--,759,EL
+Other Prop./Plant/Equip.,104,116,"2,402","2,317","2,078",EL
+Prop./Plant/Equip. - Gross,"4,435","4,831","7,416","7,808","8,089",EL
+Accumulated Depreciation,"(2,612)","(2,763)","(3,079)","(3,338)","(3,490)",EL
+Prop./Plant/Equip. - Net,"1,823","2,068","4,337","4,470","4,599",EL
+"Goodwill, Net","1,926","1,868","1,401","2,616","2,521",EL
+Intangibles - Gross,"1,651","1,615","2,856","4,682","4,056",EL
+Accum. Intangible Amort.,(375),(412),(518),(587),(628),EL
+Intangibles - Net,"1,276","1,203","2,338","4,095","3,428",EL
+Long Term Investments,843,177,--,--,--,EL
+Other Long Term Assets,411,333,769,"1,240","1,061",EL
+Total Assets,"12,567","13,156","17,781","21,971","20,910",EL
+Accounts Payable,"1,182","1,490","1,177","1,692","1,822",EL
+Accrued Expenses,"1,906","2,253","2,558","3,252","3,413",EL
+Notes Payable/ST Debt,0,0,0,0,0,EL
+Curr. Port. LT Dbt/Cap Ls.,183,516,"1,222",32,268,EL
+Customer Advances,--,314,222,322,312,EL
+Other Current Liabilities,39,32,--,--,--,EL
+"Other Curr. Lblts, Total",39,346,222,322,312,EL
+Total Current Liabilities,"3,310","4,605","5,179","5,298","5,815",EL
+Long Term Debt,"3,361","2,896","4,909","5,510","5,134",EL
+Capital Lease Obligations,--,--,5,27,10,EL
+Total Long Term Debt,"3,361","2,896","4,914","5,537","5,144",EL
+Total Debt,"3,544","3,412","6,136","5,569","5,412",EL
+Minority Interest,22,25,27,891,842,EL
+"Other Liabilities, Total","1,186","1,244","3,726","4,188","3,519",EL
+Total Liabilities,"7,879","8,770","13,846","15,914","15,320",EL
+Common Stock,6,6,6,6,6,EL
+Additional Paid-In Capital,"3,972","4,403","4,790","5,335","5,796",EL
+Ret. Earn.(Accum. Deficit),"9,040","9,984","10,134","12,244","13,912",EL
+Treasury Stock - Common,"(7,896)","(9,444)","(10,330)","(11,058)","(13,362)",EL
+Unrealized Gain (Loss),(14),0,0,0,--,EL
+Cum. Trans. Adjustment,(284),(331),(435),(289),(716),EL
+Min. Pension Lblty Adj.,(175),(253),(244),(179),(114),EL
+Other Comprehensive Income,39,21,14,(2),68,EL
+"Other Equity, Total",(420),(563),(665),(470),(762),EL
+Total Equity,"4,688","4,386","3,935","6,057","5,590",EL
+Total Liabilities & Shareholders’ Equity,"12,567","13,156","17,781","21,971","20,910",EL
+Shr Outs.-Com. Primary Iss.,224,222,225,234,232,EL
+Shr Outs.-Com. Stk. Iss. 2,143,140,135,128,126,EL
+Ttl Comm. Shares Outs.,367,361,361,362,357,EL
+Trsy. Shrs-Comm. Primary Iss.,211,222,227,229,236,EL

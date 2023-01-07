@@ -1,0 +1,39 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,188,72,111,101,TDS
+Depreciation/Depletion,895,229,456,691,TDS
+Deferred Taxes,52,29,52,48,TDS
+Unusual Items,24,1,12,15,TDS
+Equity in Net Earnings/Loss,(182),(45),(83),(123),TDS
+Other Non-Cash Items,170,38,80,137,TDS
+Non-Cash Items,12,(6),9,29,TDS
+Accounts Receivable,(138),14,(50),(190),TDS
+Inventories,(25),(5),(35),(74),TDS
+Accounts Payable,(69),(60),(6),16,TDS
+Accrued Expenses,--,10,1,10,TDS
+Changes in Working Capital,(44),57,106,32,TDS
+Total Cash from Operations,"1,103",381,734,901,TDS
+Capital Expenditures,"(1,131)",(271),(526),(794),TDS
+Acquisition of Business,"(1,308)",(568),(586),(603),TDS
+Sale of Business,3,1,1,8,TDS
+Sale/Maturity of Investment,3,--,0,0,TDS
+Purchase of Investments,0,--,--,--,TDS
+Other Investing Cash Flow,(29),(10),(11),(19),TDS
+"OtherInvestCashFlowItms,Tot","(1,331)",(577),(596),(614),TDS
+Total Cash from Investing,"(2,462)",(848),"(1,122)","(1,408)",TDS
+Financing Cash Flow Items,(72),(6),(10),(11),TDS
+Total Cash Dividends Paid,(119),(38),(76),(114),TDS
+"Common Stock, Net",(60),(16),(43),(58),TDS
+"Preferred Stock, Net","1,110",0,0,0,TDS
+"Iss (Retirmnt) of Stock,Net","1,050",(16),(43),(58),TDS
+Short Term Debt Issued,--,60,60,110,TDS
+Short Term Debt Reduction,--,--,--,(50),TDS
+"Short Term Debt, Net",--,60,60,60,TDS
+Long Term Debt Issued,"1,543",776,776,"1,027",TDS
+Long Term Debt Reduction,"(2,081)",(127),(228),(330),TDS
+"Long Term Debt, Net",(538),649,548,697,TDS
+"Iss (Retirmnt) of Debt, Net",(538),709,608,757,TDS
+Total Cash From Financing,321,649,479,574,TDS
+Net Change in Cash,"(1,038)",182,91,67,TDS
+NetCash-BeginBal/RsvdforFutUse,"1,452",414,414,414,TDS
+NetCash-EndBal/RsrvforFutUse,414,596,505,481,TDS
+"Depreciation, Supplemental",895,229,456,691,TDS

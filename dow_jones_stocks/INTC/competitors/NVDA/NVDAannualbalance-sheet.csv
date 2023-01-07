@@ -1,0 +1,55 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash & Equivalents,"4,002",782,"10,896",847,"1,990",NVDA
+Short Term Investments,"3,106","6,640",1,"10,714","19,218",NVDA
+Cash and Short Term Invs,"7,108","7,422","10,897","11,561","21,208",NVDA
+"Trade Accts Recvble, Gross","1,278",--,--,--,--,NVDA
+Prov. for Doubtful Accts,(13),--,--,--,--,NVDA
+"Total Receivables, Net","1,265","1,424","1,657","2,429","4,650",NVDA
+Invent. - Finished Goods,377,724,465,737,"1,122",NVDA
+Invent. - Work In Progress,192,238,265,457,692,NVDA
+Invent. - Raw Materials,227,613,249,632,791,NVDA
+Total Inventory,796,"1,575",979,"1,826","2,605",NVDA
+Prepaid Expenses,86,136,157,239,366,NVDA
+Total Current Assets,"9,255","10,557","13,690","16,055","28,829",NVDA
+Buildings,546,602,633,726,874,NVDA
+Land/Improvements,218,218,218,218,218,NVDA
+Machinery/Equipment,835,"1,147","1,440","1,969","2,852",NVDA
+Construction in Progress,31,107,320,558,737,NVDA
+Other Prop./Plant/Equip.,107,97,692,793,829,NVDA
+Prop./Plant/Equip. - Gross,"1,737","2,171","3,303","4,264","5,510",NVDA
+Accumulated Depreciation,(740),(767),"(1,011)","(1,408)","(1,903)",NVDA
+Prop./Plant/Equip. - Net,997,"1,404","2,292","2,856","3,607",NVDA
+"Goodwill, Net",618,618,618,"4,193","4,349",NVDA
+Intangibles - Gross,664,686,715,"3,986","4,135",NVDA
+Accum. Intangible Amort.,(612),(641),(666),"(1,249)","(1,796)",NVDA
+Intangibles - Net,52,45,49,"2,737","2,339",NVDA
+Long Term Investments,--,--,--,--,266,NVDA
+Deferred Charges,--,--,--,440,"2,156",NVDA
+Def. Inc. Tax - LT Asset,--,--,548,806,"1,222",NVDA
+Other Long Term Assets,319,668,118,"1,704","1,419",NVDA
+Total Assets,"11,241","13,292","17,315","28,791","44,187",NVDA
+Accounts Payable,596,511,687,"1,201","1,783",NVDA
+Accrued Expenses,469,635,756,"1,276","1,553",NVDA
+Notes Payable/ST Debt,0,0,0,0,0,NVDA
+Curr. Port. LT Dbt/Cap Ls.,15,0,--,999,0,NVDA
+Customer Advances,53,92,141,288,300,NVDA
+Income Taxes Payable,20,91,61,61,--,NVDA
+Other Payables,--,--,139,61,--,NVDA
+Other Current Liabilities,--,--,--,39,699,NVDA
+"Other Curr. Lblts, Total",73,183,341,449,999,NVDA
+Total Current Liabilities,"1,153","1,329","1,784","3,925","4,335",NVDA
+Total Long Term Debt,"1,985","1,988","1,991","5,964","10,946",NVDA
+Total Debt,"2,000","1,988","1,991","6,963","10,946",NVDA
+Deferred Income Tax,18,19,29,241,245,NVDA
+"Other Liabilities, Total",614,614,"1,307","1,768","2,049",NVDA
+Total Liabilities,"3,770","3,950","5,111","11,898","17,575",NVDA
+"Pref. Stock-Non Rdmbl, Net",0,--,0,0,0,NVDA
+Common Stock,1,1,1,1,3,NVDA
+Additional Paid-In Capital,"5,351","6,051","7,045","8,721","10,385",NVDA
+Ret. Earn.(Accum. Deficit),"8,787","12,565","14,971","18,908","16,235",NVDA
+Treasury Stock - Common,"(6,650)","(9,263)","(9,814)","(10,756)",0,NVDA
+"Other Equity, Total",(18),(12),1,19,(11),NVDA
+Total Equity,"7,471","9,342","12,204","16,893","26,612",NVDA
+Total Liabilities & Shareholders’ Equity,"11,241","13,292","17,315","28,791","44,187",NVDA
+Ttl Comm. Shares Outs.,"2,424","2,424","2,452","2,480","2,506",NVDA
+Trsy. Shrs-Comm. Primary Iss.,"1,304","1,356","1,368","1,380",0,NVDA

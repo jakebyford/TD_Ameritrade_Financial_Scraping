@@ -1,0 +1,61 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash and Short Term Invs,17,14,10,55,142,COKE
+"Trade Accts Recvble, Gross",396,437,434,425,472,COKE
+Prov. for Doubtful Accts,(8),(9),(14),(22),(17),COKE
+"Total Receivables, Net",493,503,525,490,547,COKE
+Invent. - Finished Goods,116,136,142,140,182,COKE
+Invent. - Raw Materials,33,40,45,47,81,COKE
+Inventories - Other,34,35,38,39,40,COKE
+Total Inventory,184,210,226,226,303,COKE
+Prepaid Expenses,96,71,39,47,44,COKE
+Discont. Ops.-Curr. Assets,--,--,--,6,7,COKE
+Other Current Assets,4,0,30,27,34,COKE
+"Other Curr. Assets, Total",4,0,30,33,41,COKE
+Total Current Assets,795,797,830,851,"1,077",COKE
+Buildings,337,352,369,395,444,COKE
+Land/Improvements,79,78,77,82,80,COKE
+Machinery/Equipment,"1,268","1,315","1,391","1,351","1,395",COKE
+Construction in Progress,25,15,29,55,23,COKE
+Other Prop./Plant/Equip.,185,185,203,231,235,COKE
+Prop./Plant/Equip. - Gross,"1,895","1,945","2,069","2,113","2,177",COKE
+Accumulated Depreciation,(833),(931),(961),(956),"(1,007)",COKE
+Prop./Plant/Equip. - Net,"1,061","1,014","1,127","1,227","1,235",COKE
+"Goodwill, Net",169,166,166,166,166,COKE
+Intangibles - Gross,965,976,976,978,985,COKE
+Accum. Intangible Amort.,(33),(59),(85),(111),(138),COKE
+Intangibles - Net,932,917,891,867,848,COKE
+Other Long Term Assets,116,115,113,112,120,COKE
+Total Assets,"3,073","3,010","3,127","3,222","3,446",COKE
+Accounts Payable,368,264,296,325,465,COKE
+Accrued Expenses,203,213,253,278,312,COKE
+Notes Payable/ST Debt,0,0,0,0,0,COKE
+Curr. Port. LT Dbt/Cap Ls.,8,9,9,6,6,COKE
+Income Taxes Payable,--,--,2,0,--,COKE
+Other Current Liabilities,61,116,62,39,52,COKE
+"Other Curr. Lblts, Total",61,116,64,39,52,COKE
+Total Current Liabilities,639,602,622,647,835,COKE
+Long Term Debt,"1,088","1,104","1,030",940,723,COKE
+Capital Lease Obligations,35,27,17,70,65,COKE
+Total Long Term Debt,"1,123","1,131","1,047","1,010",788,COKE
+Total Debt,"1,131","1,140","1,057","1,016",795,COKE
+Deferred Income Tax,112,127,125,139,136,COKE
+Minority Interest,92,97,104,0,--,COKE
+Pension Benefits - Underfunded,118,86,115,113,93,COKE
+Other LT Liabilities,621,609,766,799,881,COKE
+"Other Liabilities, Total",739,695,881,913,974,COKE
+Total Liabilities,"2,706","2,652","2,780","2,709","2,734",COKE
+Common Stock,13,13,13,13,13,COKE
+Additional Paid-In Capital,120,124,129,136,136,COKE
+Ret. Earn.(Accum. Deficit),389,359,381,544,724,COKE
+Treasury Stock - Common,(61),(61),(61),(61),(61),COKE
+Cum. Trans. Adjustment,--,--,0,0,0,COKE
+Min. Pension Lblty Adj.,--,--,(95),(99),(81),COKE
+Other Comprehensive Income,(94),(77),(20),(20),(20),COKE
+"Other Equity, Total",(94),(77),(115),(119),(100),COKE
+Total Equity,367,358,347,513,712,COKE
+Total Liabilities & Shareholders’ Equity,"3,073","3,010","3,127","3,222","3,446",COKE
+Shr Outs.-Com. Primary Iss.,7,7,7,7,7,COKE
+Shr Outs.-Com. Stk. Iss. 2,2,2,2,2,2,COKE
+Ttl Comm. Shares Outs.,9,9,9,9,9,COKE
+Trsy. Shrs-Comm. Primary Iss.,3,3,3,3,3,COKE
+Trsy. Shrs-Comm. Iss. 2,1,1,1,1,1,COKE

@@ -1,0 +1,33 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"17,732","5,148","10,347","15,731",UNH
+Depreciation/Depletion,"3,103",788,"1,590","2,418",UNH
+Deferred Taxes,130,161,(15),(590),UNH
+Non-Cash Items,(144),316,719,675,UNH
+Accounts Receivable,"(1,000)","(4,521)","(4,204)","(2,563)",UNH
+Other Assets,"(1,031)","(1,089)",(643),(741),UNH
+Payable/Accrued,"1,162",589,807,"1,416",UNH
+Changes in Working Capital,"1,522","(1,094)",(451),"12,505",UNH
+Total Cash from Operations,"22,343","5,319","12,190","30,739",UNH
+Capital Expenditures,"(2,454)",(555),"(1,212)","(1,936)",UNH
+Acquisition of Business,"(4,821)","(1,231)","(7,150)","(7,154)",UNH
+Sale/Maturity of Investment,"15,296","3,350","5,537","10,116",UNH
+Purchase of Investments,"(17,139)","(4,982)","(8,903)","(14,183)",UNH
+Other Investing Cash Flow,"(1,254)",(255),(532),50,UNH
+"OtherInvestCashFlowItms,Tot","(7,918)","(3,118)","(11,048)","(11,171)",UNH
+Total Cash from Investing,"(10,372)","(3,673)","(12,260)","(13,107)",UNH
+Financing Cash Flow Items,"(1,011)","3,568","4,240","5,394",UNH
+Total Cash Dividends Paid,"(5,280)","(1,363)","(2,908)","(4,450)",UNH
+Sale/Issuance of Common,"1,355",551,756,"1,084",UNH
+Repurch/Retirement Common,"(5,000)","(2,500)","(5,000)","(6,000)",UNH
+"Iss (Retirmnt) of Stock,Net","(3,645)","(1,949)","(4,244)","(4,916)",UNH
+"Short Term Debt, Net","(1,302)","3,148","1,340",(16),UNH
+Long Term Debt Issued,"6,933",--,"5,922","5,922",UNH
+Long Term Debt Reduction,"(3,150)","(1,100)","(1,100)","(2,100)",UNH
+"Long Term Debt, Net","3,783","(1,100)","4,822","3,822",UNH
+"Iss (Retirmnt) of Debt, Net","2,481","2,048","6,162","3,806",UNH
+Total Cash From Financing,"(7,455)","2,304","3,250",(166),UNH
+Foreign Exchange Effects,(62),157,57,4,UNH
+Net Change in Cash,"4,454","4,107","3,237","17,470",UNH
+NetCash-BeginBal/RsvdforFutUse,"16,921","21,375","21,375","21,375",UNH
+NetCash-EndBal/RsrvforFutUse,"21,375","25,482","24,612","38,845",UNH
+"Depreciation, Supplemental","3,103",788,"1,590","2,418",UNH

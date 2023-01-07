@@ -1,0 +1,41 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"12,662","30,736","34,343","40,269","76,033",GOOG
+Depreciation/Depletion,"6,103","8,164","10,856","12,905","11,555",GOOG
+Amortization,812,871,925,792,886,GOOG
+Deferred Taxes,258,778,173,"1,390","1,808",GOOG
+Unusual Items,194,"(6,650)","(2,798)","(6,317)","(12,270)",GOOG
+Other Non-Cash Items,"7,816","9,164","10,202","14,258","15,163",GOOG
+Non-Cash Items,"8,010","2,514","7,404","7,941","2,893",GOOG
+"Cash Taxes Pd, Supplemental","6,191","5,671","8,203","4,990","13,412",GOOG
+"Cash Interest Pd, Suppl",84,69,--,--,--,GOOG
+Accounts Receivable,"(3,768)","(2,169)","(4,340)","(6,524)","(9,095)",GOOG
+Prepaid Expenses,"(2,164)",--,--,--,--,GOOG
+Other Assets,--,"(1,207)",(621),"(1,330)","(1,846)",GOOG
+Accounts Payable,731,"1,067",428,694,283,GOOG
+Accrued Expenses,"5,846","9,097","8,443","7,143","8,986",GOOG
+Changes in Working Capital,"9,246","4,908",819,"1,827","(1,523)",GOOG
+Total Cash from Operations,"37,091","47,971","54,520","65,124","91,652",GOOG
+Capital Expenditures,"(13,184)","(25,139)","(23,548)","(22,281)","(24,640)",GOOG
+Acquisition of Business,(287),"(1,491)","(2,515)",(738),"(2,618)",GOOG
+Sale of Fixed Assets,99,98,589,--,--,GOOG
+Sale/Maturity of Investment,"74,492","50,259","98,230","133,929","129,228",GOOG
+Purchase of Investments,"(93,940)","(52,231)","(102,247)","(143,751)","(138,034)",GOOG
+Other Investing Cash Flow,"1,419",0,0,68,541,GOOG
+"OtherInvestCashFlowItms,Tot","(18,217)","(3,365)","(5,943)","(10,492)","(10,883)",GOOG
+Total Cash from Investing,"(31,401)","(28,504)","(29,491)","(32,773)","(35,523)",GOOG
+Financing Cash Flow Items,"(4,166)","(4,993)","(4,545)","(2,920)","(9,852)",GOOG
+Sale/Issuance of Common,800,950,--,--,--,GOOG
+Repurch/Retirement Common,"(4,846)","(9,075)","(18,396)","(31,149)","(50,274)",GOOG
+"Iss (Retirmnt) of Stock,Net","(4,046)","(8,125)","(18,396)","(31,149)","(50,274)",GOOG
+Long Term Debt Issued,--,"6,766",317,"11,761","20,199",GOOG
+Long Term Debt Reduction,--,"(6,827)",(585),"(2,100)","(21,435)",GOOG
+"Long Term Debt, Net",--,(61),(268),"9,661","(1,236)",GOOG
+Total Debt Issued,"4,291",--,--,--,--,GOOG
+Total Debt Reduction,"(4,377)",--,--,--,--,GOOG
+"Iss (Retirmnt) of Debt, Net",(86),(61),(268),"9,661","(1,236)",GOOG
+Total Cash From Financing,"(8,298)","(13,179)","(23,209)","(24,408)","(61,362)",GOOG
+Foreign Exchange Effects,405,(302),(23),24,(287),GOOG
+Net Change in Cash,"(2,203)","5,986","1,797","7,967","(5,520)",GOOG
+NetCash-BeginBal/RsvdforFutUse,"12,918","10,715","16,701","18,498","26,465",GOOG
+NetCash-EndBal/RsrvforFutUse,"10,715","16,701","18,498","26,465","20,945",GOOG
+"Depreciation, Supplemental","6,103","8,164","10,856","12,905","11,555",GOOG

@@ -1,0 +1,38 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,821,993,"1,108","1,410","1,377",MNST
+Depreciation/Depletion,49,57,65,61,50,MNST
+Deferred Taxes,68,(1),1,(157),16,MNST
+Unusual Items,(1),(1),0,8,(1),MNST
+Other Non-Cash Items,52,57,63,70,75,MNST
+Non-Cash Items,51,56,63,79,74,MNST
+"Cash Taxes Pd, Supplemental",389,201,294,356,421,MNST
+"Cash Interest Pd, Suppl",0,0,0,0,0,MNST
+Accounts Receivable,142,(38),(60),(120),(254),MNST
+Inventories,(89),(26),(85),30,(278),MNST
+Prepaid Expenses,(74),92,(4),7,(40),MNST
+Accounts Payable,30,10,29,19,114,MNST
+Accrued Expenses,13,35,15,47,111,MNST
+Changes in Working Capital,(1),56,(123),(28),(362),MNST
+Total Cash from Operations,988,"1,162","1,114","1,364","1,156",MNST
+Capital Expenditures,(83),(62),(102),(49),(44),MNST
+Acquisition of Business,0,0,--,--,--,MNST
+Sale of Business,0,--,--,--,--,MNST
+Sale of Fixed Assets,1,4,1,1,1,MNST
+Sale/Maturity of Investment,0,0,851,920,"1,489",MNST
+"Investment, Net",533,"1,181",--,--,--,MNST
+Purchase of Investments,(972),(826),"(1,068)","(1,300)","(2,413)",MNST
+"Intangible, Net",(10),(13),(9),(19),(14),MNST
+Other Investing Cash Flow,(1),(12),(1),(26),(11),MNST
+"OtherInvestCashFlowItms,Tot",(448),335,(225),(424),(948),MNST
+Total Cash from Investing,(532),273,(327),(472),(992),MNST
+Sale/Issuance of Common,53,28,92,73,46,MNST
+Repurch/Retirement Common,(361),"(1,342)",(707),(596),(14),MNST
+"Iss (Retirmnt) of Stock,Net",(309),"(1,314)",(615),(523),32,MNST
+Long Term Debt Reduction,(3),(2),(14),(3),--,MNST
+"Iss (Retirmnt) of Debt, Net",(3),(2),(14),(3),3,MNST
+Total Cash From Financing,(311),"(1,316)",(629),(526),35,MNST
+Foreign Exchange Effects,6,(10),2,17,(52),MNST
+Net Change in Cash,151,109,160,382,146,MNST
+NetCash-BeginBal/RsvdforFutUse,378,529,638,798,"1,180",MNST
+NetCash-EndBal/RsrvforFutUse,529,638,798,"1,180","1,326",MNST
+"Depreciation, Supplemental",49,57,65,61,50,MNST

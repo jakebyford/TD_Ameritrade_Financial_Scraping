@@ -1,0 +1,44 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Total Revenue,"5,862","6,098","6,614","6,725",JCI
+"Cost of Revenue, Total","3,971","4,141","4,414","4,430",JCI
+"Sell/Gen/AdminExpenses,Tot","1,369","1,454","1,589","1,533",JCI
+"Inter/Invest Inc, Operating",(70),(42),(63),(71),JCI
+Restructuring Charge,49,63,121,167,JCI
+Impair-Assets Held for Use,--,321,--,--,JCI
+Unusual Expense (Income),49,384,121,167,JCI
+Total Operating Expense,"5,319","5,937","6,061","6,059",JCI
+Total Operating Income,543,161,553,666,JCI
+"Inter Expse,Net Non-Operat",(55),(56),(54),(60),JCI
+"Inter Income, Non-Operating",2,1,2,1,JCI
+"Invest Income, Non-Operat",5,9,9,10,JCI
+"Inter/Invest Inc, Non-Oper",7,10,11,11,JCI
+OtherNon-OperatInc (Expnse),(5),(5),(6),(11),JCI
+"Other, Net",(5),(5),(6),(11),JCI
+Income Before Tax,490,110,504,606,JCI
+Income Tax - Total,71,58,61,(203),JCI
+Income After Tax,419,52,443,809,JCI
+Minority Interest,(38),(41),(64),(48),JCI
+Net Inc Before Extra Items,381,11,379,761,JCI
+Total Extraordinary Items,0,0,0,0,JCI
+Total Net Income,381,11,379,761,JCI
+Income Available to Common Excl. Extra. Items,381,11,379,761,JCI
+Income Available to Common Incl. Extra. Items,381,11,379,761,JCI
+Basic/Primary Weighted Average Shares,704,699,692,689,JCI
+Basic/Primary EPS Excl. Extra. Items,0.54,0.02,0.55,1.11,JCI
+Basic/Primary EPS Incl. Extra. Items,0.54,0.02,0.55,1.11,JCI
+Diluted Weighted Average Shares,710,703,692,691,JCI
+Diluted EPS Excl. Extra. Items,0.54,0.02,0.55,1.10,JCI
+Diluted EPS Incl. Extra. Items,0.54,0.02,0.55,1.10,JCI
+Div/Share-ComStockPrimIssue,0.34,0.35,0.35,0.35,JCI
+Gross Divid - Common Stock,242,150,332,241,JCI
+Pro Forma Net Income,--,--,--,--,JCI
+"Interest Expense, Suppl",55,56,54,60,JCI
+"Depreciat/Amort, Suppl",106,102,99,96,JCI
+Total Special Items,49,384,121,167,JCI
+Normalzd Income Before Tax,539,494,625,773,JCI
+Efct/SpecItemsIncTxs (STEC),7,202,15,58,JCI
+IncTxsExcl ImpctofSpec Itms,78,260,76,(145),JCI
+Normalized Income After Tax,461,234,549,918,JCI
+Normalzd Inc Avail to Common,423,193,485,870,JCI
+Basic Normalized EPS,0.60,0.28,0.70,1.26,JCI
+Diluted Normalized EPS,0.60,0.27,0.70,1.26,JCI

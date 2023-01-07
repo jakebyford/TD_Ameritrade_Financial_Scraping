@@ -1,0 +1,33 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"5,376",632,835,"1,382",SAP
+Depreciation/Depletion,"1,775",460,933,"1,425",SAP
+Non-Cash Items,999,698,"1,203","2,340",SAP
+"Cash Taxes Pd, Supplemental","2,063",421,"1,192","1,473",SAP
+"Cash Interest Pd, Suppl",202,85,140,173,SAP
+Accounts Receivable,414,(361),865,"1,352",SAP
+Other Assets,(706),(356),(621),(765),SAP
+Accounts Payable,475,"(1,144)","(1,312)","(1,115)",SAP
+Changes in Working Capital,"(1,928)",691,(221),"(1,548)",SAP
+Total Cash from Operations,"6,222","2,481","2,750","3,599",SAP
+Capital Expenditures,(800),(221),(456),(738),SAP
+Acquisition of Business,"(1,214)",(612),(627),(642),SAP
+Sale of Fixed Assets,91,27,51,70,SAP
+Sale/Maturity of Investment,"3,229","1,658","4,005","4,164",SAP
+Purchase of Investments,"(4,368)","(1,521)","(2,256)","(2,772)",SAP
+Other Investing Cash Flow,(1),"(1,093)","(1,432)","(1,744)",SAP
+"OtherInvestCashFlowItms,Tot","(2,263)","(1,541)",(259),(924),SAP
+Total Cash from Investing,"(3,063)","(1,762)",(715),"(1,662)",SAP
+Financing Cash Flow Items,(56),875,"1,183","1,462",SAP
+Total Cash Dividends Paid,"(2,182)",--,"(2,865)","(2,865)",SAP
+Sale/Issuance of Common,"2,828",20,21,33,SAP
+Repurch/Retirement Common,0,(581),"(1,000)","(1,500)",SAP
+"Iss (Retirmnt) of Stock,Net","2,828",(561),(979),"(1,467)",SAP
+Long Term Debt Issued,"1,680",0,38,38,SAP
+Long Term Debt Reduction,"(2,326)","(1,039)","(1,159)","(1,334)",SAP
+"Iss (Retirmnt) of Debt, Net",(646),"(1,039)","(1,121)","(1,296)",SAP
+Total Cash From Financing,(56),(725),"(3,782)","(4,166)",SAP
+Foreign Exchange Effects,484,50,341,671,SAP
+Net Change in Cash,"3,587",44,"(1,406)","(1,558)",SAP
+NetCash-BeginBal/RsvdforFutUse,"5,311","8,898","8,898","8,898",SAP
+NetCash-EndBal/RsrvforFutUse,"8,898","8,942","7,492","7,340",SAP
+"Depreciation, Supplemental","1,775",460,933,"1,425",SAP

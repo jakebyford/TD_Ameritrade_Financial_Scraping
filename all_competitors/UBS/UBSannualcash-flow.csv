@@ -1,0 +1,39 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"1,046","4,522","4,310","6,572","7,486",UBS
+Depreciation/Depletion,"1,053","1,228","1,765","2,069","2,078",UBS
+Amortization,71,65,65,57,31,UBS
+Deferred Taxes,"3,414",425,477,352,434,UBS
+Unusual Items,--,--,110,--,9,UBS
+Equity in Net Earnings/Loss,(69),(528),(45),(84),(105),UBS
+Other Non-Cash Items,(855),"(1,179)",854,"(8,076)","3,802",UBS
+Non-Cash Items,(924),"(1,707)",919,"(8,160)","3,706",UBS
+"Cash Taxes Pd, Supplemental","1,044",951,804,"1,002","1,134",UBS
+"Cash Interest Pd, Suppl","3,917","4,553","10,769","6,320","4,707",UBS
+Loan Loss Provision,131,118,78,694,(148),UBS
+Other Assets,"(41,829)","23,634","8,763","76,558","38,750",UBS
+Changes in Working Capital,"(56,759)","24,380","12,169","36,068","17,690",UBS
+Total Cash from Operations,"(52,099)","28,913","19,705","36,958","31,425",UBS
+Capital Expenditures,"(1,627)","(1,688)","(1,584)","(1,854)","(1,841)",UBS
+Acquisition of Business,(106),(287),(26),(46),(1),UBS
+Sale of Business,339,137,114,674,593,UBS
+Sale of Fixed Assets,47,114,11,366,295,UBS
+Sale/Maturity of Investment,"15,250","1,361","3,913","4,530","5,052",UBS
+"Investment, Net",(91),"(3,770)",(562),"(4,166)",(415),UBS
+Purchase of Investments,"(8,626)","(1,999)","(3,424)","(6,290)","(5,802)",UBS
+Other Investing Cash Flow,--,--,--,1,--,UBS
+"OtherInvestCashFlowItms,Tot","6,813","(4,444)",26,"(4,931)",(278),UBS
+Total Cash from Investing,"5,186","(6,132)","(1,558)","(6,785)","(2,119)",UBS
+Financing Cash Flow Items,(786),(32),(8),(7),(283),UBS
+Total Cash Dividends Paid,"(2,259)","(2,440)","(2,544)","(2,607)","(1,301)",UBS
+"Iss (Retirmnt) of Stock,Net",(730),"(1,431)","(1,559)","(1,387)","(3,341)",UBS
+"Short Term Debt, Net","24,500","(12,245)","(17,149)","23,845","(3,093)",UBS
+Long Term Debt Issued,"51,450","60,682","65,047","80,255","98,272",UBS
+Long Term Debt Reduction,"(45,187)","(44,344)","(69,401)","(87,667)","(79,909)",UBS
+"Long Term Debt, Net","6,263","16,338","(4,354)","(7,412)","18,363",UBS
+"Iss (Retirmnt) of Debt, Net","30,763","4,093","(21,503)","16,433","15,270",UBS
+Total Cash From Financing,"26,988",190,"(25,614)","12,432","10,345",UBS
+Foreign Exchange Effects,"5,745","(1,726)","1,261","11,052","(5,307)",UBS
+Net Change in Cash,"(14,180)","21,245","(6,206)","53,657","34,344",UBS
+NetCash-BeginBal/RsvdforFutUse,"119,014","104,834","126,079","119,873","173,531",UBS
+NetCash-EndBal/RsrvforFutUse,"104,834","126,079","119,873","173,531","207,875",UBS
+"Depreciation, Supplemental","1,053","1,228","1,765","2,069","2,078",UBS

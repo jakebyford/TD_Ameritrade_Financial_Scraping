@@ -1,0 +1,45 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"16,705","14,608","17,202","23,063","25,785",AMAT
+"Cost of Revenue, Total","9,188","8,222","9,510","12,149","13,792",AMAT
+Selling/Gen/Admin Expense,899,875,987,"1,111","1,310",AMAT
+Labor & Related Expense,75,75,88,99,115,AMAT
+"Sell/Gen/AdminExpenses,Tot",974,950,"1,075","1,210","1,425",AMAT
+Research & Development,"2,021","2,053","2,233","2,484","2,771",AMAT
+Depreciation/Amortization,19,19,19,20,13,AMAT
+"Inter/Invest Inc, Operating",12,14,--,--,--,AMAT
+Restructuring Charge,--,--,--,157,(4),AMAT
+Other Unusual Expnse (In),--,--,--,154,0,AMAT
+Unusual Expense (Income),--,--,--,311,(4),AMAT
+Total Operating Expense,"12,214","11,258","12,837","16,174","17,997",AMAT
+Total Operating Income,"4,491","3,350","4,365","6,889","7,788",AMAT
+"Inter Expse,Net Non-Operat",(234),(237),(240),(236),(228),AMAT
+"Inter Income, Non-Operating",139,120,32,19,32,AMAT
+"Invest Income, Non-Operat",--,36,9,99,7,AMAT
+"Inter/Invest Inc, Non-Oper",139,156,41,118,39,AMAT
+Income Before Tax,"4,396","3,269","4,166","6,771","7,599",AMAT
+Income Tax - Total,246,587,547,883,"1,074",AMAT
+Income After Tax,"4,150","2,682","3,619","5,888","6,525",AMAT
+Net Inc Before Extra Items,"4,150","2,682","3,619","5,888","6,525",AMAT
+Total Extraordinary Items,"(1,112)",24,0,0,--,AMAT
+Total Net Income,"3,038","2,706","3,619","5,888","6,525",AMAT
+Income Available to Common Excl. Extra. Items,"4,150","2,682","3,619","5,888","6,525",AMAT
+Income Available to Common Incl. Extra. Items,"3,038","2,706","3,619","5,888","6,525",AMAT
+Basic/Primary Weighted Average Shares,"1,013",937,916,910,871,AMAT
+Basic/Primary EPS Excl. Extra. Items,4.10,2.86,3.95,6.47,7.49,AMAT
+Basic/Primary EPS Incl. Extra. Items,3.00,2.89,3.95,6.47,7.49,AMAT
+Diluted Weighted Average Shares,"1,026",945,923,919,877,AMAT
+Diluted EPS Excl. Extra. Items,4.04,2.84,3.92,6.41,7.44,AMAT
+Diluted EPS Incl. Extra. Items,2.96,2.86,3.92,6.41,7.44,AMAT
+Div/Share-ComStockPrimIssue,0.60,0.82,0.86,0.92,1.00,AMAT
+Gross Divid - Common Stock,694,770,796,851,879,AMAT
+Pro Forma Net Income,--,--,--,--,--,AMAT
+"Interest Expense, Suppl",234,237,240,236,228,AMAT
+"Depreciat/Amort, Suppl",258,306,320,345,404,AMAT
+Total Special Items,177,71,130,385,69,AMAT
+Normalzd Income Before Tax,"4,573","3,340","4,296","7,156","7,668",AMAT
+Efct/SpecItemsIncTxs (STEC),10,13,17,50,10,AMAT
+IncTxsExcl ImpctofSpec Itms,256,600,564,933,"1,084",AMAT
+Normalized Income After Tax,"4,317","2,740","3,732","6,223","6,584",AMAT
+Normalzd Inc Avail to Common,"4,317","2,740","3,732","6,223","6,584",AMAT
+Basic Normalized EPS,4.26,2.92,4.07,6.84,7.56,AMAT
+Diluted Normalized EPS,4.21,2.90,4.04,6.77,7.51,AMAT

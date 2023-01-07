@@ -1,0 +1,39 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash & Due from Banks,"8,750","9,625","11,439","10,004",DFS
+Other Short Trm Invest.,0,--,--,--,DFS
+Securities Held,204,205,208,216,DFS
+Securities for Sale,"6,549","5,781","5,390","6,876",DFS
+Total Invest. Securities,"6,904","5,977","5,536","6,897",DFS
+"Other Erng. Assets, Total","6,904","5,977","5,536","6,897",DFS
+Total Gross Loans,"93,684","93,471","99,301","104,908",DFS
+Loan Loss Allowances,"(6,822)","(6,647)","(6,757)","(7,061)",DFS
+Net Loans,"86,862","86,824","92,544","97,847",DFS
+Prop./Plant/Equip. - Net,983,984,984,"1,015",DFS
+"Goodwill, Net",255,255,255,255,DFS
+Intangibles - Net,0,--,--,--,DFS
+Long Term Investments,388,377,366,382,DFS
+"Other Assets, Total","6,100","3,370","3,476","5,486",DFS
+Total Assets,"110,242","107,412","114,600","121,886",DFS
+Accrued Expenses,"4,214","4,365","4,439","4,526",DFS
+Non-Interest Bearing Dep.,"1,575","1,541","1,514","1,524",DFS
+Interest Bearing Deposits,"70,818","70,941","74,898","81,373",DFS
+Total Deposits,"72,393","72,482","76,412","82,897",DFS
+Total ST Borrowings,"1,750",0,"1,800",0,DFS
+Curr. Port. LT Dbt/Cap Ls.,"5,185","2,638","2,322","2,331",DFS
+Total Long Term Debt,"13,292","14,494","15,863","17,846",DFS
+Total Debt,"20,227","17,132","19,985","20,177",DFS
+Total Liabilities,"96,834","93,979","100,836","107,600",DFS
+"Pref. Stock-Non Rdmbl, Net","1,056","1,056","1,056","1,056",DFS
+Common Stock,6,6,6,6,DFS
+Additional Paid-In Capital,"4,369","4,390","4,417","4,444",DFS
+Ret. Earn.(Accum. Deficit),"24,766","25,833","26,776","27,585",DFS
+Treasury Stock - Common,"(16,695)","(17,639)","(18,240)","(18,452)",DFS
+Unrealized Gain (Loss),114,(7),(48),(148),DFS
+Min. Pension Lblty Adj.,(199),(199),(199),(199),DFS
+Other Comprehensive Income,(9),(7),(4),(6),DFS
+"Other Equity, Total",(208),(206),(203),(205),DFS
+Total Equity,"13,408","13,433","13,764","14,286",DFS
+Total Liabilities & Shareholders’ Equity,"110,242","107,412","114,600","121,886",DFS
+Ttl Comm. Shares Outs.,288,281,275,273,DFS
+Trsy. Shrs-Comm. Primary Iss.,281,289,294,296,DFS
+Trsry Shrs-Pref. Iss. 1,0,0,0,0,DFS

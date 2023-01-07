@@ -1,0 +1,46 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"22,025","4,323","8,891","12,400",C
+Depreciation/Depletion,"3,964","1,015","2,089","3,154",C
+Deferred Taxes,"1,413",--,--,(576),C
+Discontinued Operations,(7),2,223,229,C
+Unusual Items,906,743,721,196,C
+Other Non-Cash Items,"(1,360)","(11,790)","(34,915)","(34,383)",C
+Non-Cash Items,(461),"(11,045)","(33,971)","(33,958)",C
+"Cash Taxes Pd, Supplemental","4,028",631,"1,661","2,684",C
+"Cash Interest Pd, Suppl","7,143","2,782","6,284","12,557",C
+Loan Loss Provision,"(3,891)",734,"1,959","3,216",C
+Other Assets,"(2,139)","(7,497)","(3,450)","(2,754)",C
+Changes in Working Capital,"34,308","(7,837)","19,722","14,810",C
+Total Cash from Operations,"61,249","(13,544)","(3,269)","(4,170)",C
+Capital Expenditures,"(4,119)","(1,229)","(2,465)","(3,667)",C
+Sale of Business,--,--,"1,940","3,242",C
+Sale of Fixed Assets,190,15,31,46,C
+Sale/Maturity of Investment,"268,828","88,192","162,644","215,318",C
+Purchase of Investments,"(359,158)","(94,521)","(157,845)","(216,594)",C
+Loans,"1,745","(8,967)","(13,228)","(2,711)",C
+Other Investing Cash Flow,"(32,391)","(18,013)","(34,378)","(22,456)",C
+"OtherInvestCashFlowItms,Tot","(120,786)","(33,294)","(40,836)","(23,155)",C
+Total Cash from Investing,"(124,905)","(34,523)","(43,301)","(26,822)",C
+Deposits,"44,966","34,816","25,360","8,947",C
+Fed. Funds/REPOs,"(8,240)","13,209","7,187","12,144",C
+Other Financing Cash Flow,(337),(330),(334),(339),C
+Financing Cash Flow Items,"36,389","47,695","32,213","20,752",C
+Cash Divids Paid - Common,"(4,158)","(1,007)","(1,997)","(2,983)",C
+Cash Divs Paid - Preferred,"(1,040)",(279),(517),(794),C
+Total Cash Dividends Paid,"(5,198)","(1,286)","(2,514)","(3,777)",C
+"Common Stock, Net","(7,601)","(2,833)","(3,200)","(3,250)",C
+Sale/Issuance of Preferred,"3,300",--,0,0,C
+Repurch/Retirement Preferd,"(3,785)",--,0,0,C
+"Preferred Stock, Net",(485),--,0,0,C
+"Iss (Retirmnt) of Stock,Net","(8,086)","(2,833)","(3,200)","(3,250)",C
+"Short Term Debt, Net","(1,541)","2,171","12,081","19,395",C
+Long Term Debt Issued,"70,658","29,668","60,304","85,459",C
+Long Term Debt Reduction,"(74,950)","(17,061)","(28,439)","(47,011)",C
+"Long Term Debt, Net","(4,292)","12,607","31,865","38,448",C
+"Iss (Retirmnt) of Debt, Net","(5,833)","14,778","43,946","57,843",C
+Total Cash From Financing,"17,272","58,354","70,445","71,568",C
+Foreign Exchange Effects,"(1,198)",(233),"(1,878)","(3,002)",C
+Net Change in Cash,"(47,582)","10,054","21,997","37,574",C
+NetCash-BeginBal/RsvdforFutUse,"309,615","262,033","262,033","262,033",C
+NetCash-EndBal/RsrvforFutUse,"262,033","272,087","284,030","299,607",C
+"Depreciation, Supplemental","3,964","1,015","2,089","3,154",C

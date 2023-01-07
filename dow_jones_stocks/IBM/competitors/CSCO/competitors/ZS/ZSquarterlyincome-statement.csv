@@ -1,0 +1,42 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Total Revenue,"255,563","286,807","318,059","355,548",ZS
+"Cost of Revenue, Total","57,783","64,022","68,308","76,697",ZS
+Selling/Gen/Admin Expense,"144,060","162,457","165,354","200,604",ZS
+Labor & Related Expense,"68,279","70,169","88,598","72,210",ZS
+"Sell/Gen/AdminExpenses,Tot","212,339","232,626","253,952","272,814",ZS
+Research & Development,"69,142","76,498","77,952","74,511",ZS
+Depreciation/Amortization,231,258,376,613,ZS
+Litigation,--,--,0,--,ZS
+Impair-Assets Held for Use,--,0,0,--,ZS
+Unusual Expense (Income),--,0,0,--,ZS
+Total Operating Expense,"339,495","373,404","400,588","424,635",ZS
+Total Operating Income,"(83,932)","(86,597)","(82,529)","(69,087)",ZS
+"Inter Expse,Net Non-Operat","(14,040)","(14,246)","(14,458)","(1,331)",ZS
+"Inter/Invest Inc, Non-Oper",557,949,"2,607","7,865",ZS
+OtherNon-OperatInc (Expnse),(844),"(2,001)",(774),(863),ZS
+"Other, Net",(844),"(2,001)",(774),(863),ZS
+Income Before Tax,"(98,259)","(101,895)","(95,154)","(63,416)",ZS
+Income Tax - Total,"2,161",(490),"2,498","4,746",ZS
+Income After Tax,"(100,420)","(101,405)","(97,652)","(68,162)",ZS
+Net Inc Before Extra Items,"(100,420)","(101,405)","(97,652)","(68,162)",ZS
+Total Net Income,"(100,420)","(101,405)","(97,652)","(68,162)",ZS
+Income Available to Common Excl. Extra. Items,"(100,420)","(101,405)","(97,652)","(68,162)",ZS
+Income Available to Common Incl. Extra. Items,"(100,420)","(101,405)","(97,652)","(68,162)",ZS
+Basic/Primary Weighted Average Shares,"140,515","141,422","142,371","143,476",ZS
+Basic/Primary EPS Excl. Extra. Items,(0.71),(0.72),(0.69),(0.48),ZS
+Basic/Primary EPS Incl. Extra. Items,(0.71),(0.72),(0.69),(0.48),ZS
+Diluted Weighted Average Shares,"140,515","141,422","142,371","143,476",ZS
+Diluted EPS Excl. Extra. Items,(0.71),(0.72),(0.69),(0.48),ZS
+Diluted EPS Incl. Extra. Items,(0.71),(0.72),(0.69),(0.48),ZS
+Div/Share-ComStockPrimIssue,0.00,0.00,--,0.00,ZS
+Pro Forma Net Income,--,--,--,--,ZS
+"Interest Expense, Suppl","14,040","14,246","14,458","1,331",ZS
+"Depreciat/Amort, Suppl","10,000","10,432","11,100","11,900",ZS
+Total Special Items,--,0,0,--,ZS
+Normalzd Income Before Tax,"(98,259)","(101,895)","(95,154)","(63,416)",ZS
+Efct/SpecItemsIncTxs (STEC),--,0,0,--,ZS
+IncTxsExcl ImpctofSpec Itms,"2,161",(490),"2,498","4,746",ZS
+Normalized Income After Tax,"(100,420)","(101,405)","(97,652)","(68,162)",ZS
+Normalzd Inc Avail to Common,"(100,420)","(101,405)","(97,652)","(68,162)",ZS
+Basic Normalized EPS,(0.71),(0.72),(0.69),(0.48),ZS
+Diluted Normalized EPS,(0.71),(0.72),(0.69),(0.48),ZS

@@ -1,0 +1,50 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"1,024","1,088","1,231","1,386","2,313",CROX
+"Cost of Revenue, Total",506,528,614,636,893,CROX
+Selling/Gen/Admin Expense,396,371,360,353,484,CROX
+Labor & Related Expense,--,13,14,16,38,CROX
+Advertising Expense,59,69,83,101,173,CROX
+"Sell/Gen/AdminExpenses,Tot",455,452,457,470,694,CROX
+Research & Development,13,14,12,10,14,CROX
+Depreciation,13,11,7,8,9,CROX
+Amortiz of Intangibles,14,13,12,12,12,CROX
+Depreciation/Amortization,26,24,19,20,21,CROX
+Impair-Assets Held for Use,5,2,0,21,--,CROX
+Other Unusual Expnse (In),--,--,--,14,8,CROX
+Unusual Expense (Income),5,7,0,35,8,CROX
+Loss(Gain)/Sale Asts (Oper),--,5,0,0,0,CROX
+Total Operating Expense,"1,006","1,025","1,102","1,172","1,630",CROX
+Total Operating Income,17,63,129,214,683,CROX
+"Inter Expse,Net Non-Operat",(1),(1),(9),(7),(22),CROX
+"Inter Income, Non-Operating",1,1,1,0,1,CROX
+"Invest Income, Non-Operat",1,1,(1),(1),0,CROX
+"Inter/Invest Inc, Non-Oper",1,3,(1),(1),1,CROX
+OtherNon-OperatInc (Expnse),0,1,0,1,2,CROX
+"Other, Net",0,1,0,1,2,CROX
+Income Before Tax,18,65,119,207,664,CROX
+Income Tax - Total,7,15,0,(106),(62),CROX
+Income After Tax,11,50,119,313,726,CROX
+Net Inc Before Extra Items,11,50,119,313,726,CROX
+Total Extraordinary Items,(1),--,--,--,--,CROX
+Total Net Income,10,50,119,313,726,CROX
+Total Adjust to Net Income,(16),(120),0,0,--,CROX
+Income Available to Common Excl. Extra. Items,(5),(69),119,313,726,CROX
+Income Available to Common Incl. Extra. Items,(5),(69),119,313,726,CROX
+Basic/Primary Weighted Average Shares,72,68,70,67,62,CROX
+Basic/Primary EPS Excl. Extra. Items,(0.06),(1.01),1.70,4.64,11.62,CROX
+Basic/Primary EPS Incl. Extra. Items,(0.07),(1.01),1.70,4.64,11.62,CROX
+Diluted Weighted Average Shares,72,68,72,69,64,CROX
+Diluted EPS Excl. Extra. Items,(0.06),(1.01),1.66,4.56,11.39,CROX
+Diluted EPS Incl. Extra. Items,(0.07),(1.01),1.66,4.56,11.39,CROX
+Gross Divid - Common Stock,0,0,0,0,0,CROX
+Pro Forma Net Income,--,--,--,--,--,CROX
+"Interest Expense, Suppl",1,1,9,7,22,CROX
+"Depreciat/Amort, Suppl",15,13,9,12,15,CROX
+Total Special Items,5,7,0,35,8,CROX
+Normalzd Income Before Tax,23,72,120,242,672,CROX
+Efct/SpecItemsIncTxs (STEC),2,2,0,12,3,CROX
+IncTxsExcl ImpctofSpec Itms,9,16,0,(93),(59),CROX
+Normalized Income After Tax,14,56,120,336,731,CROX
+Normalzd Inc Avail to Common,(1),(64),120,336,731,CROX
+Basic Normalized EPS,(0.02),(0.93),1.70,4.98,11.70,CROX
+Diluted Normalized EPS,(0.02),(0.93),1.67,4.90,11.47,CROX

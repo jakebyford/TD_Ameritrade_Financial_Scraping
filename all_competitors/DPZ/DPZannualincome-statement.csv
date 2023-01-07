@@ -1,0 +1,38 @@
+items,2017,2018,2019,2021,2022,ticker
+Total Revenue,"2,788","3,433","3,619","4,117","4,357",DPZ
+"Cost of Revenue, Total","1,922","2,130","2,216","2,523","2,669",DPZ
+Selling/Gen/Admin Expense,345,372,382,407,428,DPZ
+Advertising Expense,--,359,391,462,480,DPZ
+"Sell/Gen/AdminExpenses,Tot",345,731,773,869,908,DPZ
+Total Operating Expense,"2,267","2,861","2,989","3,392","3,577",DPZ
+Total Operating Income,521,572,629,726,780,DPZ
+"Inter Expse,Net Non-Operat",(123),(146),(151),(172),(192),DPZ
+"Inter Income, Non-Operating",1,3,4,2,0,DPZ
+"Invest Income, Non-Operat",--,--,--,--,37,DPZ
+"Inter/Invest Inc, Non-Oper",1,3,4,2,37,DPZ
+Income Before Tax,400,429,483,555,626,DPZ
+Income Tax - Total,122,67,82,64,115,DPZ
+Income After Tax,278,362,401,491,510,DPZ
+Net Inc Before Extra Items,278,362,401,491,510,DPZ
+Total Net Income,278,362,401,491,510,DPZ
+Income Available to Common Excl. Extra. Items,278,362,401,491,510,DPZ
+Income Available to Common Incl. Extra. Items,278,362,401,491,510,DPZ
+Basic/Primary Weighted Average Shares,46,42,41,39,37,DPZ
+Basic/Primary EPS Excl. Extra. Items,6.05,8.65,9.83,12.61,13.72,DPZ
+Basic/Primary EPS Incl. Extra. Items,6.05,8.65,9.83,12.61,13.72,DPZ
+Diluted Weighted Average Shares,48,43,42,40,38,DPZ
+Diluted EPS Excl. Extra. Items,5.83,8.35,9.56,12.39,13.54,DPZ
+Diluted EPS Incl. Extra. Items,5.83,8.35,9.56,12.39,13.54,DPZ
+Div/Share-ComStockPrimIssue,1.84,2.20,2.60,3.12,3.76,DPZ
+Gross Divid - Common Stock,84,92,106,122,140,DPZ
+Pro Forma Net Income,--,--,--,--,--,DPZ
+"Interest Expense, Suppl",123,146,151,172,192,DPZ
+"Depreciat/Amort, Suppl",30,35,37,42,49,DPZ
+Total Special Items,4,(4),3,3,2,DPZ
+Normalzd Income Before Tax,404,424,485,558,627,DPZ
+Efct/SpecItemsIncTxs (STEC),1,(1),0,0,0,DPZ
+IncTxsExcl ImpctofSpec Itms,123,66,82,64,116,DPZ
+Normalized Income After Tax,281,358,403,494,512,DPZ
+Normalzd Inc Avail to Common,281,358,403,494,512,DPZ
+Basic Normalized EPS,6.10,8.56,9.88,12.67,13.76,DPZ
+Diluted Normalized EPS,5.88,8.27,9.61,12.46,13.58,DPZ

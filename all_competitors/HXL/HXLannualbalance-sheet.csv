@@ -1,0 +1,51 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash and Short Term Invs,60,33,64,103,128,HXL
+"Total Receivables, Net",249,311,280,169,191,HXL
+Invent. - Finished Goods,135,123,137,95,91,HXL
+Invent. - Work In Progress,52,44,41,24,41,HXL
+Invent. - Raw Materials,127,131,155,95,114,HXL
+Total Inventory,314,298,333,214,246,HXL
+Prepaid Expenses,34,34,27,38,40,HXL
+Discont. Ops.-Curr. Assets,--,--,--,13,13,HXL
+Other Current Assets,--,--,1,--,--,HXL
+"Other Curr. Assets, Total",--,--,1,13,13,HXL
+Total Current Assets,657,676,705,536,616,HXL
+Buildings,624,660,688,687,672,HXL
+Land/Improvements,97,105,105,107,109,HXL
+Machinery/Equipment,"1,699","1,920","2,027","2,109","2,077",HXL
+Construction in Progress,325,155,249,232,247,HXL
+Other Prop./Plant/Equip.,--,--,72,64,56,HXL
+Prop./Plant/Equip. - Gross,"2,744","2,840","3,142","3,198","3,161",HXL
+Accumulated Depreciation,(878),(963),"(1,132)","(1,266)","(1,364)",HXL
+Prop./Plant/Equip. - Net,"1,866","1,877","2,009","1,933","1,797",HXL
+Intangibles - Net,149,142,280,278,268,HXL
+Long Term Investments,48,49,47,45,45,HXL
+Other Long Term Assets,62,81,88,127,94,HXL
+Total Assets,"2,781","2,824","3,129","2,918","2,819",HXL
+Accounts Payable,144,162,158,70,113,HXL
+Accrued Expenses,114,155,138,109,128,HXL
+Notes Payable/ST Debt,0,0,0,0,0,HXL
+Curr. Port. LT Dbt/Cap Ls.,4,9,10,1,1,HXL
+"Other Curr. Lblts, Total",--,--,18,4,6,HXL
+Total Current Liabilities,262,327,323,183,248,HXL
+Long Term Debt,806,947,"1,049",924,822,HXL
+Capital Lease Obligations,--,1,2,1,0,HXL
+Total Long Term Debt,806,947,"1,051",926,822,HXL
+Total Debt,810,957,"1,060",926,823,HXL
+Deferred Income Tax,--,--,156,153,140,HXL
+Pension Benefits - Underfunded,45,42,53,54,53,HXL
+Other LT Liabilities,173,186,100,92,71,HXL
+"Other Liabilities, Total",218,228,154,146,124,HXL
+Total Liabilities,"1,286","1,502","1,683","1,408","1,334",HXL
+Common Stock,1,1,1,1,1,HXL
+Additional Paid-In Capital,774,798,830,850,879,HXL
+Ret. Earn.(Accum. Deficit),"1,496","1,727","1,979","1,996","2,013",HXL
+Treasury Stock - Common,(731),"(1,096)","(1,245)","(1,277)","(1,280)",HXL
+Cum. Trans. Adjustment,(41),(87),(89),(35),(62),HXL
+Min. Pension Lblty Adj.,(19),(15),(22),(40),(62),HXL
+Other Comprehensive Income,15,(6),(7),16,(3),HXL
+"Other Equity, Total",(45),(108),(119),(60),(127),HXL
+Total Equity,"1,495","1,322","1,446","1,510","1,486",HXL
+Total Liabilities & Shareholders’ Equity,"2,781","2,824","3,129","2,918","2,819",HXL
+Ttl Comm. Shares Outs.,90,85,84,84,84,HXL
+Trsy. Shrs-Comm. Primary Iss.,18,24,26,26,26,HXL

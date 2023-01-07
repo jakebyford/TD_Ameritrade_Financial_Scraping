@@ -1,0 +1,40 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"4,042","2,343","4,054","4,673","3,394",HUM
+Land/Improvements,733,786,894,971,"1,143",HUM
+Other Prop./Plant/Equip.,"2,827","3,262","4,131","4,960","5,482",HUM
+Prop./Plant/Equip. - Gross,"3,560","4,048","5,025","5,931","6,625",HUM
+Accumulated Depreciation,"(1,976)","(2,313)","(2,660)","(3,123)","(2,874)",HUM
+Prop./Plant/Equip. - Net,"1,584","1,735","2,365","2,808","3,751",HUM
+"Goodwill, Net","3,281","3,897","3,928","4,447","11,092",HUM
+Intangibles - Gross,770,827,829,"1,069","3,443",HUM
+Accum. Intangible Amort.,(544),(582),(652),(740),(804),HUM
+Intangibles - Net,226,245,177,329,"2,639",HUM
+LT Invt. - Affiliate Comp.,--,"1,047","1,063","1,170",141,HUM
+LT Investments - Other,"12,302","10,437","11,378","13,766","13,972",HUM
+Long Term Investments,"12,302","11,484","12,441","14,936","14,113",HUM
+Insurance Receivables,854,"1,015","1,056","1,138","1,814",HUM
+"Other Assets, Total","4,889","4,694","5,053","6,638","7,555",HUM
+Total Assets,"27,178","25,413","29,074","34,969","44,358",HUM
+Payable/Accrued,"4,069","3,067","3,638","3,884","4,324",HUM
+Accrued Expenses,--,--,448,484,731,HUM
+Policy Liabilities,"4,668","4,862","6,004","8,143","8,289",HUM
+Notes Payable/ST Debt,141,"1,466",525,320,326,HUM
+Curr. Port. LT Dbt/Cap Ls.,150,399,399,600,"1,953",HUM
+"Other Curr. Lblts, Total",378,283,247,318,254,HUM
+Total Long Term Debt,"4,770","4,375","4,967","6,060","10,541",HUM
+Total Debt,"5,061","6,240","5,891","6,980","12,820",HUM
+Minority Interest,--,--,--,--,23,HUM
+Pension Benefits - Underfunded,"2,923",219,206,--,--,HUM
+Other Liabilities,237,581,603,"1,432","1,837",HUM
+"Other Liabilities, Total","3,160",800,809,"1,432","1,837",HUM
+Total Liabilities,"17,336","15,252","17,037","21,241","28,278",HUM
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,0,HUM
+Common Stock,33,33,33,33,33,HUM
+Additional Paid-In Capital,"2,445","2,535","2,820","2,705","3,082",HUM
+Ret. Earn.(Accum. Deficit),"13,670","15,072","17,483","20,517","23,086",HUM
+Treasury Stock - Common,"(6,325)","(7,320)","(8,455)","(9,918)","(10,163)",HUM
+"Other Equity, Total",19,(159),156,391,42,HUM
+Total Equity,"9,842","10,161","12,037","13,728","16,080",HUM
+Total Liabilities & Shareholders’ Equity,"27,178","25,413","29,074","34,969","44,358",HUM
+Ttl Comm. Shares Outs.,138,136,132,129,129,HUM
+Trsy. Shrs-Comm. Primary Iss.,61,63,67,70,70,HUM

@@ -1,0 +1,39 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"2,934",930,"1,627","2,820",HUM
+Depreciation/Depletion,640,181,369,555,HUM
+Amortization,73,24,45,73,HUM
+Deferred Taxes,15,--,167,(33),HUM
+Unusual Items,--,--,140,(96),HUM
+Equity in Net Earnings/Loss,"(1,194)",4,2,(1),HUM
+Other Non-Cash Items,180,43,93,173,HUM
+Non-Cash Items,"(1,014)",47,235,76,HUM
+"Cash Taxes Pd, Supplemental",227,(20),373,751,HUM
+"Cash Interest Pd, Suppl",285,67,171,256,HUM
+Other Assets,(491),(628),(655),(465),HUM
+Accounts Payable,104,"1,089","1,361",948,HUM
+Changes in Working Capital,(386),(880),"(1,182)","6,223",HUM
+Total Cash from Operations,"2,262",302,"1,261","9,714",HUM
+Capital Expenditures,"(1,316)",(295),(574),(862),HUM
+Acquisition of Business,"(4,187)",(74),(167),(293),HUM
+Sale of Business,--,--,--,"2,708",HUM
+Sale/Maturity of Investment,"6,144","1,882","2,310","3,193",HUM
+Purchase of Investments,"(7,197)","(2,161)","(3,239)","(4,740)",HUM
+"OtherInvestCashFlowItms,Tot","(5,240)",(353),"(1,096)",868,HUM
+Total Cash from Investing,"(6,556)",(648),"(1,670)",6,HUM
+Financing Cash Flow Items,(337),"2,474","3,074","3,785",HUM
+Total Cash Dividends Paid,(354),(91),(191),(291),HUM
+"Common Stock, Net",(79),"(1,024)","(1,028)","(1,032)",HUM
+Options Exercised,21,(13),(11),(13),HUM
+"Iss (Retirmnt) of Stock,Net",(58),"(1,037)","(1,039)","(1,045)",HUM
+Short Term Debt Issued,"2,500",--,--,--,HUM
+Short Term Debt Reduction,"(2,078)",--,--,"(2,000)",HUM
+"Short Term Debt, Net",780,(274),(353),"(2,749)",HUM
+Long Term Debt Issued,"2,984",744,744,744,HUM
+Long Term Debt Reduction,0,--,--,--,HUM
+"Long Term Debt, Net","2,984",744,744,744,HUM
+"Iss (Retirmnt) of Debt, Net","3,764",470,391,"(2,005)",HUM
+Total Cash From Financing,"3,015","1,816","2,235",444,HUM
+Net Change in Cash,"(1,279)","1,470","1,826","10,164",HUM
+NetCash-BeginBal/RsvdforFutUse,"4,673","3,394","3,394","3,394",HUM
+NetCash-EndBal/RsrvforFutUse,"3,394","4,864","5,220","13,558",HUM
+"Depreciation, Supplemental",640,181,369,555,HUM

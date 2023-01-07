@@ -1,0 +1,39 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"4,145","1,126","2,464","3,859",RTX
+Depreciation/Depletion,"4,557","1,014","2,013","3,060",RTX
+Deferred Taxes,(88),(601),"(1,147)","(1,681)",RTX
+Discontinued Operations,(71),0,0,0,RTX
+Unusual Items,649,--,--,--,RTX
+Other Non-Cash Items,(972),(257),(502),(744),RTX
+Non-Cash Items,(394),(257),(502),(744),RTX
+Accounts Receivable,"(2,164)",337,"(1,315)",(678),RTX
+Inventories,163,(587),"(1,033)","(1,434)",RTX
+Other Assets,(566),(281),(353),(584),RTX
+Payable/Accrued,917,(316),"2,109","1,298",RTX
+Changes in Working Capital,"(1,149)",(806),"(1,066)","(1,954)",RTX
+Total Cash from Operations,"7,071",476,"1,762","2,540",RTX
+Purchase of Fixed Assets,"(2,134)",(439),(918),"(1,433)",RTX
+Purchase/Acq of Intangibles,(188),(50),(91),(169),RTX
+Capital Expenditures,"(2,322)",(489),"(1,009)","(1,602)",RTX
+Acquisition of Business,"(1,088)",0,0,(66),RTX
+Sale of Business,"1,879",35,88,94,RTX
+Other Investing Cash Flow,167,(64),(215),(317),RTX
+"OtherInvestCashFlowItms,Tot",958,(29),(127),(289),RTX
+Total Cash from Investing,"(1,364)",(518),"(1,136)","(1,891)",RTX
+Financing Cash Flow Items,"(1,103)",(263),(286),(329),RTX
+Total Cash Dividends Paid,"(2,957)",(745),"(1,543)","(2,337)",RTX
+Sale/Issuance of Common,7,--,--,--,RTX
+Repurch/Retirement Common,"(2,327)",(743),"(1,779)","(2,395)",RTX
+"Iss (Retirmnt) of Stock,Net","(2,320)",(743),"(1,779)","(2,395)",RTX
+Short Term Debt Issued,--,--,--,"2,067",RTX
+"Short Term Debt, Net",(113),6,(17),"2,053",RTX
+Long Term Debt Issued,"4,062",--,--,0,RTX
+Long Term Debt Reduction,"(4,254)",0,(2),(2),RTX
+"Long Term Debt, Net",(192),0,(2),(2),RTX
+"Iss (Retirmnt) of Debt, Net",(305),6,(19),"2,051",RTX
+Total Cash From Financing,"(6,685)","(1,745)","(3,627)","(3,010)",RTX
+Foreign Exchange Effects,(1),15,(20),(57),RTX
+Net Change in Cash,(979),"(1,772)","(3,021)","(2,418)",RTX
+NetCash-BeginBal/RsvdforFutUse,"8,832","7,853","7,853","7,853",RTX
+NetCash-EndBal/RsrvforFutUse,"7,853","6,081","4,832","5,435",RTX
+"Depreciation, Supplemental","4,557","1,014","2,013","3,060",RTX

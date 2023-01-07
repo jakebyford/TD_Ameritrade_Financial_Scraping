@@ -1,0 +1,48 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Cash & Equivalents,"4,135","1,887","2,285","1,358",WBA
+Short Term Investments,--,--,"2,173","1,114",WBA
+Cash and Short Term Invs,"4,135","1,887","4,458","2,472",WBA
+"Total Receivables, Net","5,960","5,328","5,034","5,017",WBA
+Total Inventory,"9,475","8,947","8,520","8,353",WBA
+Restricted Cash - Current,133,140,82,86,WBA
+Other Current Assets,611,522,778,974,WBA
+"Other Curr. Assets, Total",744,662,860,"1,060",WBA
+Total Current Assets,"20,314","16,824","18,872","16,902",WBA
+Prop./Plant/Equip. - Net,"34,121","33,937","33,158","32,988",WBA
+"Goodwill, Net","21,520","21,958","21,901","22,280",WBA
+Intangibles - Gross,"14,723","14,139","13,436","12,683",WBA
+Accum. Intangible Amort.,"(1,953)","(1,787)","(1,853)","(1,953)",WBA
+Intangibles - Net,"12,770","12,352","11,583","10,730",WBA
+Long Term Investments,"6,367","6,247","5,777","5,495",WBA
+Other Long Term Assets,"1,415","1,365","1,468","1,729",WBA
+Total Assets,"96,507","92,683","92,759","90,124",WBA
+Accounts Payable,"12,452","11,178","11,794","11,255",WBA
+Accrued Expenses,"9,202","9,245","9,389","10,148",WBA
+Notes Payable/ST Debt,875,"1,264","1,200",0,WBA
+Curr. Port. LT Dbt/Cap Ls.,"1,809",879,"1,624","1,096",WBA
+Income Taxes Payable,110,132,60,84,WBA
+Other Current Liabilities,(1),1,--,--,WBA
+"Other Curr. Lblts, Total",109,133,60,84,WBA
+Total Current Liabilities,"24,447","22,699","24,067","22,583",WBA
+Long Term Debt,"11,199","11,203","10,670","10,615",WBA
+Capital Lease Obligations,963,965,919,899,WBA
+Total Long Term Debt,"12,162","12,168","11,589","11,514",WBA
+Total Debt,"14,846","14,311","14,413","12,610",WBA
+Deferred Income Tax,"1,970","1,892","1,578","1,442",WBA
+Minority Interest,"7,103","4,978","4,904","5,133",WBA
+"Other Liabilities, Total","24,562","24,245","24,368","24,177",WBA
+Total Liabilities,"70,244","65,982","66,506","64,849",WBA
+Common Stock,12,12,12,12,WBA
+Additional Paid-In Capital,"10,966","10,973","11,029","10,950",WBA
+Ret. Earn.(Accum. Deficit),"38,286","38,757","38,632","37,801",WBA
+Treasury Stock - Common,"(20,700)","(20,712)","(20,696)","(20,683)",WBA
+Unrealized Gain (Loss),(74),(154),(171),1,WBA
+Cum. Trans. Adjustment,"(1,863)","(1,782)","(2,297)","(2,605)",WBA
+Other Equity,--,(1),--,--,WBA
+Min. Pension Lblty Adj.,(364),(372),(376),(157),WBA
+Other Comprehensive Income,0,(20),120,(44),WBA
+"Other Equity, Total","(2,227)","(2,175)","(2,553)","(2,806)",WBA
+Total Equity,"26,263","26,701","26,253","25,275",WBA
+Total Liabilities & Shareholders’ Equity,"96,507","92,683","92,759","90,124",WBA
+Ttl Comm. Shares Outs.,864,864,864,865,WBA
+Trsy. Shrs-Comm. Primary Iss.,309,309,308,308,WBA

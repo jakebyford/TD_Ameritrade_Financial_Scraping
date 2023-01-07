@@ -1,0 +1,41 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"(2,926)","(2,181)","5,529","3,505","5,707",DELL
+Depreciation/Depletion,"8,634","7,746","6,143","5,390","4,551",DELL
+Deferred Taxes,"(2,605)","(1,331)","(6,339)",(399),(365),DELL
+Unusual Items,16,(30),619,--,--,DELL
+Other Non-Cash Items,"1,573","1,704","1,581","1,521","(1,508)",DELL
+Non-Cash Items,"1,589","1,674","2,200","1,521","(1,508)",DELL
+"Cash Taxes Pd, Supplemental",924,747,"1,414","1,421","1,257",DELL
+"Cash Interest Pd, Suppl","2,192","2,347","2,500","2,279","1,825",DELL
+Accounts Receivable,"(3,243)","(2,406)","(1,615)","(1,124)","(2,434)",DELL
+Inventories,(325),"(1,445)",311,(243),"(2,514)",DELL
+Other Assets,"(1,395)",(534),"(1,435)","(1,656)","(1,948)",DELL
+Accounts Payable,"3,779",952,894,"1,598","6,221",DELL
+Accrued Expenses,587,"1,098",(124),--,--,DELL
+Changes in Working Capital,"2,151","1,083","1,758","1,390","1,922",DELL
+Total Cash from Operations,"6,843","6,991","9,291","11,407","10,307",DELL
+Purchase of Fixed Assets,"(1,367)","(1,229)","(2,252)","(2,082)","(2,796)",DELL
+Software Development Costs,(369),(339),(335),--,--,DELL
+Capital Expenditures,"(1,736)","(1,568)","(2,587)","(2,082)","(2,796)",DELL
+Acquisition of Business,(658),(912),"(2,455)",(424),(16),DELL
+Sale of Business,0,142,0,"2,187",--,DELL
+Sale of Fixed Assets,0,10,--,--,"3,957",DELL
+Sale/Maturity of Investment,"3,878","6,612",497,169,513,DELL
+Purchase of Investments,"(4,389)",(925),(181),(338),(414),DELL
+Other Investing Cash Flow,30,30,40,28,62,DELL
+"OtherInvestCashFlowItms,Tot","(1,139)","4,957","(2,099)","1,622","4,102",DELL
+Total Cash from Investing,"(2,875)","3,389","(4,686)",(460),"1,306",DELL
+Financing Cash Flow Items,(432),(489),(73),(270),"(8,807)",DELL
+Total Cash Dividends Paid,0,"(2,134)",0,0,--,DELL
+Sale/Issuance of Common,131,803,658,452,334,DELL
+Repurch/Retirement Common,"(1,453)","(14,103)","(3,553)","(1,604)","(1,838)",DELL
+"Iss (Retirmnt) of Stock,Net","(1,322)","(13,300)","(2,895)","(1,152)","(1,504)",DELL
+Long Term Debt Issued,"14,415","13,045","20,481","16,391","20,425",DELL
+Long Term Debt Reduction,"(12,258)","(11,451)","(22,117)","(20,919)","(26,723)",DELL
+"Iss (Retirmnt) of Debt, Net","2,157","1,594","(1,636)","(4,528)","(6,298)",DELL
+Total Cash From Financing,403,"(14,329)","(4,604)","(5,950)","(16,609)",DELL
+Foreign Exchange Effects,175,(189),(90),36,(106),DELL
+Net Change in Cash,"4,546","(4,138)",(89),"5,033","(5,102)",DELL
+NetCash-BeginBal/RsvdforFutUse,"9,832","14,378","10,240","10,151","15,184",DELL
+NetCash-EndBal/RsrvforFutUse,"14,378","10,240","10,151","15,184","10,082",DELL
+"Depreciation, Supplemental","8,634","7,746","6,143","5,390","4,551",DELL

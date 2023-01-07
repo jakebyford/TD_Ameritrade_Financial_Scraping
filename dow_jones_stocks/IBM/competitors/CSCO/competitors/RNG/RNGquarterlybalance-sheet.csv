@@ -1,0 +1,48 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash,91,73,84,91,RNG
+Cash & Equivalents,176,229,223,215,RNG
+Cash and Short Term Invs,267,302,306,305,RNG
+"Trade Accts Recvble, Gross",241,267,264,275,RNG
+Prov. for Doubtful Accts,(8),(9),(10),(9),RNG
+"Total Receivables, Net",233,257,254,266,RNG
+Total Inventory,6,6,5,1,RNG
+Prepaid Expenses,26,30,28,27,RNG
+"Other Curr. Assets, Total",119,126,146,175,RNG
+Total Current Assets,651,721,739,775,RNG
+Buildings,14,14,14,14,RNG
+Machinery/Equipment,338,359,380,400,RNG
+Other Prop./Plant/Equip.,56,53,49,46,RNG
+Prop./Plant/Equip. - Gross,407,427,443,459,RNG
+Accumulated Depreciation,(193),(209),(224),(240),RNG
+Prop./Plant/Equip. - Net,214,218,219,219,RNG
+"Goodwill, Net",55,55,54,53,RNG
+Intangibles - Gross,836,836,835,835,RNG
+Accum. Intangible Amort.,(120),(163),(207),(250),RNG
+Intangibles - Net,717,672,629,585,RNG
+Long Term Investments,210,164,113,32,RNG
+Other Long Term Assets,8,8,7,6,RNG
+Total Assets,"2,579","2,568","2,519","2,316",RNG
+Accounts Payable,70,77,97,89,RNG
+Accrued Expenses,280,297,318,341,RNG
+Notes Payable/ST Debt,0,0,0,0,RNG
+Curr. Port. LT Dbt/Cap Ls.,0,--,--,--,RNG
+"Other Curr. Lblts, Total",176,201,207,209,RNG
+Total Current Liabilities,526,576,622,639,RNG
+Total Long Term Debt,"1,398","1,635","1,636","1,637",RNG
+Total Debt,"1,398","1,635","1,636","1,637",RNG
+"Other Liabilities, Total",116,109,100,85,RNG
+Total Liabilities,"2,041","2,320","2,358","2,361",RNG
+Redeemable Preferred Stock,199,199,199,199,RNG
+Common Stock,0,0,0,0,RNG
+Additional Paid-In Capital,"1,087",856,937,"1,023",RNG
+Ret. Earn.(Accum. Deficit),(749),(806),(965),"(1,250)",RNG
+Other Equity,0,--,--,--,RNG
+Other Comprehensive Income,1,(1),(10),(18),RNG
+"Other Equity, Total",1,(1),(10),(18),RNG
+Total Equity,538,248,162,(45),RNG
+Total Liabilities & Shareholders’ Equity,"2,579","2,568","2,519","2,316",RNG
+Shr Outs.-Com. Primary Iss.,84,85,85,86,RNG
+Shr Outs.-Com. Stk. Iss. 2,10,10,10,10,RNG
+Ttl Comm. Shares Outs.,94,95,95,96,RNG
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,RNG
+Trsy. Shrs-Comm. Iss. 2,0,0,0,0,RNG

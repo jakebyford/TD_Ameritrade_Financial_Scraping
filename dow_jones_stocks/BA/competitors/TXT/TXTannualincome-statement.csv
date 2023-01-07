@@ -1,0 +1,42 @@
+items,2017,2018,2020,2021,2022,ticker
+Total Revenue,"14,198","13,972","13,630","11,651","12,382",TXT
+"Cost of Revenue, Total","11,795","11,594","11,406","10,094","10,297",TXT
+"Sell/Gen/AdminExpenses,Tot","1,337","1,275","1,152","1,045","1,221",TXT
+Restructuring Charge,--,8,--,73,4,TXT
+Impair-Assets Held for Use,--,47,--,61,12,TXT
+Other Unusual Expnse (In),130,(426),72,13,(8),TXT
+Unusual Expense (Income),130,(371),72,147,8,TXT
+Total Operating Expense,"13,262","12,498","12,630","11,286","11,526",TXT
+Total Operating Income,936,"1,474","1,000",365,856,TXT
+"Inter Expse,Net Non-Operat",(174),(166),(171),(166),(142),TXT
+OtherNon-OperatInc (Expnse),--,76,113,83,159,TXT
+"Other, Net",--,76,113,83,159,TXT
+Income Before Tax,762,"1,384",942,282,873,TXT
+Income Tax - Total,190,176,127,(27),126,TXT
+Income After Tax,572,"1,208",815,309,747,TXT
+Net Inc Before Extra Items,572,"1,208",815,309,747,TXT
+Discontinued Operations,1,0,0,--,(1),TXT
+Extraordinary Item,(266),14,0,0,--,TXT
+Total Extraordinary Items,(265),14,0,0,(1),TXT
+Total Net Income,307,"1,222",815,309,746,TXT
+Income Available to Common Excl. Extra. Items,572,"1,208",815,309,747,TXT
+Income Available to Common Incl. Extra. Items,307,"1,222",815,309,746,TXT
+Basic/Primary Weighted Average Shares,266,250,231,229,224,TXT
+Basic/Primary EPS Excl. Extra. Items,2.15,4.83,3.52,1.35,3.33,TXT
+Basic/Primary EPS Incl. Extra. Items,1.15,4.88,3.52,1.35,3.33,TXT
+Diluted Weighted Average Shares,269,253,233,229,227,TXT
+Diluted EPS Excl. Extra. Items,2.13,4.77,3.50,1.35,3.30,TXT
+Diluted EPS Incl. Extra. Items,1.14,4.83,3.50,1.35,3.29,TXT
+Div/Share-ComStockPrimIssue,0.08,0.08,0.08,0.08,0.08,TXT
+Gross Divid - Common Stock,21,20,18,18,18,TXT
+Pro Forma Net Income,--,--,--,--,--,TXT
+"Interest Expense, Suppl",174,166,171,166,142,TXT
+"Depreciat/Amort, Suppl",379,371,357,337,339,TXT
+Total Special Items,130,(371),72,147,8,TXT
+Normalzd Income Before Tax,892,"1,013","1,014",429,881,TXT
+Efct/SpecItemsIncTxs (STEC),32,(47),10,51,1,TXT
+IncTxsExcl ImpctofSpec Itms,222,129,137,24,127,TXT
+Normalized Income After Tax,670,884,877,405,754,TXT
+Normalzd Inc Avail to Common,670,884,877,405,754,TXT
+Basic Normalized EPS,2.51,3.53,3.79,1.77,3.36,TXT
+Diluted Normalized EPS,2.49,3.49,3.77,1.77,3.33,TXT

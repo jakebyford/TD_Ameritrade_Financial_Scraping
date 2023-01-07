@@ -1,0 +1,43 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"9,714","11,716","10,918","16,675","26,914",NVDA
+"Cost of Revenue, Total","3,892","4,545","4,150","6,279","9,439",NVDA
+Selling/Gen/Admin Expense,664,797,828,"1,491","1,601",NVDA
+Labor & Related Expense,151,194,265,449,565,NVDA
+"Sell/Gen/AdminExpenses,Tot",815,991,"1,093","1,940","2,166",NVDA
+Research & Development,"1,797","2,376","2,829","3,924","5,268",NVDA
+Unusual Expense (Income),0,0,--,--,--,NVDA
+Total Operating Expense,"6,504","7,912","8,072","12,143","16,873",NVDA
+Total Operating Income,"3,210","3,804","2,846","4,532","10,041",NVDA
+"Inter Expse,Net Non-Operat",(61),(58),(52),(184),(236),NVDA
+"Inter Income, Non-Operating",69,136,178,57,29,NVDA
+"Invest Income, Non-Operat",--,--,--,--,48,NVDA
+"Inter/Invest Inc, Non-Oper",69,136,178,57,77,NVDA
+OtherNon-OperatInc (Expnse),(22),14,(2),4,59,NVDA
+"Other, Net",(22),14,(2),4,59,NVDA
+Income Before Tax,"3,196","3,896","2,970","4,409","9,941",NVDA
+Income Tax - Total,282,123,174,77,189,NVDA
+Income After Tax,"2,914","3,773","2,796","4,332","9,752",NVDA
+Net Inc Before Extra Items,"2,914","3,773","2,796","4,332","9,752",NVDA
+Total Extraordinary Items,133,368,0,--,--,NVDA
+Total Net Income,"3,047","4,141","2,796","4,332","9,752",NVDA
+Income Available to Common Excl. Extra. Items,"2,914","3,773","2,796","4,332","9,752",NVDA
+Income Available to Common Incl. Extra. Items,"3,047","4,141","2,796","4,332","9,752",NVDA
+Basic/Primary Weighted Average Shares,"2,396","2,432","2,436","2,468","2,496",NVDA
+Basic/Primary EPS Excl. Extra. Items,1.22,1.55,1.15,1.76,3.91,NVDA
+Basic/Primary EPS Incl. Extra. Items,1.27,1.70,1.15,1.76,3.91,NVDA
+Diluted Weighted Average Shares,"2,528","2,500","2,472","2,512","2,535",NVDA
+Diluted EPS Excl. Extra. Items,1.15,1.51,1.13,1.72,3.85,NVDA
+Diluted EPS Incl. Extra. Items,1.21,1.66,1.13,1.72,3.85,NVDA
+Div/Share-ComStockPrimIssue,0.14,0.15,0.16,0.16,0.16,NVDA
+Gross Divid - Common Stock,341,371,390,395,399,NVDA
+Pro Forma Net Income,--,--,--,--,--,NVDA
+"Interest Expense, Suppl",61,58,52,184,236,NVDA
+"Depreciat/Amort, Suppl",144,233,356,486,611,NVDA
+Total Special Items,0,46,45,122,10,NVDA
+Normalzd Income Before Tax,"3,196","3,942","3,015","4,531","9,951",NVDA
+Efct/SpecItemsIncTxs (STEC),0,1,3,2,0,NVDA
+IncTxsExcl ImpctofSpec Itms,282,124,177,79,189,NVDA
+Normalized Income After Tax,"2,914","3,818","2,838","4,452","9,762",NVDA
+Normalzd Inc Avail to Common,"2,914","3,818","2,838","4,452","9,762",NVDA
+Basic Normalized EPS,1.22,1.57,1.17,1.80,3.91,NVDA
+Diluted Normalized EPS,1.15,1.53,1.15,1.77,3.85,NVDA

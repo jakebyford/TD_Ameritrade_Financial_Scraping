@@ -1,0 +1,40 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"20,878","5,149","9,963","14,421",JNJ
+Depreciation/Depletion,"7,390","1,769","3,513","5,198",JNJ
+Deferred Taxes,"(2,079)",(926),"(2,349)","(2,488)",JNJ
+Unusual Items,372,442,534,574,JNJ
+Other Non-Cash Items,"1,087",284,641,911,JNJ
+Non-Cash Items,"1,459",726,"1,175","1,485",JNJ
+Accounts Receivable,"(2,402)",(427),"(1,386)","(1,591)",JNJ
+Inventories,"(1,248)",(600),"(1,257)","(1,877)",JNJ
+Other Assets,"(1,964)",995,"3,527","4,563",JNJ
+Payable/Accrued,"2,437","(2,817)","(1,170)",141,JNJ
+Changes in Working Capital,"(4,238)","(2,739)","(2,742)","(2,772)",JNJ
+Total Cash from Operations,"23,410","3,979","9,560","15,844",JNJ
+Capital Expenditures,"(3,652)",(607),"(1,470)","(2,422)",JNJ
+Acquisition of Business,(60),(252),(523),(522),JNJ
+Sale of Fixed Assets,711,248,314,322,JNJ
+Sale/Maturity of Investment,"25,006","6,303","17,634","26,324",JNJ
+"Investment, Net",214,(249),(10),(305),JNJ
+Purchase of Investments,"(30,394)","(9,018)","(22,048)","(31,163)",JNJ
+Other Investing Cash Flow,(508),(59),(170),(208),JNJ
+"OtherInvestCashFlowItms,Tot","(5,031)","(3,027)","(4,803)","(5,552)",JNJ
+Total Cash from Investing,"(8,683)","(3,634)","(6,273)","(7,974)",JNJ
+Financing Cash Flow Items,395,(373),802,"1,806",JNJ
+Total Cash Dividends Paid,"(11,032)","(2,787)","(5,758)","(8,728)",JNJ
+"Common Stock, Net","(3,456)","(1,577)","(2,550)","(4,715)",JNJ
+Options Exercised,"1,036",321,820,907,JNJ
+"Iss (Retirmnt) of Stock,Net","(2,420)","(1,256)","(1,730)","(3,808)",JNJ
+Short Term Debt Issued,"1,997","3,019","4,371","7,099",JNJ
+Short Term Debt Reduction,"(1,190)",(856),"(2,201)","(4,808)",JNJ
+"Short Term Debt, Net",807,"2,163","2,170","2,291",JNJ
+Long Term Debt Issued,5,--,2,1,JNJ
+Long Term Debt Reduction,"(1,802)","(2,132)","(2,132)","(2,133)",JNJ
+"Long Term Debt, Net","(1,797)","(2,132)","(2,130)","(2,132)",JNJ
+"Iss (Retirmnt) of Debt, Net",(990),31,40,159,JNJ
+Total Cash From Financing,"(14,047)","(4,385)","(6,646)","(10,571)",JNJ
+Foreign Exchange Effects,(178),16,(145),(431),JNJ
+Net Change in Cash,502,"(4,024)","(3,504)","(3,132)",JNJ
+NetCash-BeginBal/RsvdforFutUse,"13,985","14,487","14,487","14,487",JNJ
+NetCash-EndBal/RsrvforFutUse,"14,487","10,463","10,983","11,355",JNJ
+"Depreciation, Supplemental","7,390","1,769","3,513","5,198",JNJ

@@ -1,0 +1,54 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"3,800","6,945","6,037","6,266","7,989",AMGN
+Short Term Investments,"37,878","22,359","2,874","4,381",48,AMGN
+Cash and Short Term Invs,"41,678","29,304","8,911","10,647","8,037",AMGN
+"Trade Accts Recvble, Net","3,237","3,580","4,057","4,525","4,895",AMGN
+Other Receivables,--,--,--,799,944,AMGN
+"Total Receivables, Net","3,237","3,580","4,057","5,324","5,839",AMGN
+Invent. - Finished Goods,934,"1,023",999,970,"1,072",AMGN
+Invent. - Work In Progress,"1,668","1,660","2,227","2,437","2,367",AMGN
+Invent. - Raw Materials,232,257,358,486,647,AMGN
+Total Inventory,"2,834","2,940","3,584","3,893","4,086",AMGN
+Prepaid Expenses,--,--,--,"1,156","1,223",AMGN
+"Other Curr. Assets, Total","1,727","1,794","1,888",124,200,AMGN
+Total Current Assets,"49,476","37,618","18,440","21,144","19,385",AMGN
+Buildings,"3,507","3,616","3,757","3,857","4,028",AMGN
+Land/Improvements,283,265,263,259,279,AMGN
+Machinery/Equipment,"3,551","4,716","5,045","7,744","7,826",AMGN
+Construction in Progress,834,953,907,915,987,AMGN
+Other Prop./Plant/Equip.,"4,404","3,204","3,782","1,499","1,428",AMGN
+Prop./Plant/Equip. - Gross,"12,579","12,754","13,754","14,274","14,548",AMGN
+Accumulated Depreciation,"(7,590)","(7,796)","(8,357)","(8,977)","(8,798)",AMGN
+Prop./Plant/Equip. - Net,"4,989","4,958","5,397","5,297","5,750",AMGN
+"Goodwill, Net","14,761","14,699","14,703","14,689","14,890",AMGN
+Intangibles - Gross,"18,730","18,845","32,045","32,048","33,169",AMGN
+Accum. Intangible Amort.,"(10,121)","(11,402)","(12,632)","(15,461)","(17,987)",AMGN
+Intangibles - Net,"8,609","7,443","19,413","16,587","15,182",AMGN
+LT Invt. - Affiliate Comp.,570,--,--,496,573,AMGN
+LT Investments - Other,--,--,--,680,--,AMGN
+Long Term Investments,570,--,--,"1,176",573,AMGN
+Other Long Term Assets,"1,549","1,698","1,754","4,055","5,385",AMGN
+Total Assets,"79,954","66,416","59,707","62,948","61,165",AMGN
+Accounts Payable,"1,352","1,207","1,371","1,421","1,366",AMGN
+Accrued Expenses,"5,563","6,948","7,565","8,295","8,947",AMGN
+Notes Payable/ST Debt,0,0,0,0,0,AMGN
+Curr. Port. LT Dbt/Cap Ls.,"1,152","4,419","2,953",91,87,AMGN
+Dividends Payable,953,914,946,"1,018","1,083",AMGN
+Income Taxes Payable,--,--,--,828,701,AMGN
+"Other Curr. Lblts, Total",953,914,946,"1,846","1,784",AMGN
+Total Current Liabilities,"9,020","13,488","12,835","11,653","12,184",AMGN
+Total Long Term Debt,"34,190","29,510","26,950","32,895","33,222",AMGN
+Total Debt,"35,342","33,929","29,903","32,986","33,309",AMGN
+Deferred Income Tax,"1,166",864,606,--,--,AMGN
+"Other Liabilities, Total","10,337","10,054","9,643","8,991","9,059",AMGN
+Total Liabilities,"54,713","53,916","50,034","53,539","54,465",AMGN
+Common Stock,"30,992","31,246","31,531","31,802","32,096",AMGN
+Ret. Earn.(Accum. Deficit),"(5,072)","(17,977)","(21,330)","(21,408)","(24,600)",AMGN
+Unrealized Gain (Loss),(144),(338),22,1,--,AMGN
+Cum. Trans. Adjustment,(529),(670),(718),(709),(844),AMGN
+Other Comprehensive Income,(6),239,168,(277),48,AMGN
+"Other Equity, Total",(535),(431),(550),(986),(796),AMGN
+Total Equity,"25,241","12,500","9,673","9,409","6,700",AMGN
+Total Liabilities & Shareholders’ Equity,"79,954","66,416","59,707","62,948","61,165",AMGN
+Ttl Comm. Shares Outs.,722,630,591,578,558,AMGN
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,AMGN

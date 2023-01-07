@@ -1,0 +1,70 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash and Short Term Invs,470,340,525,"1,593","1,041",HUN
+"Trade Accts Recvble, Gross","1,281","1,186",959,928,"1,184",HUN
+Prov. for Doubtful Accts,(25),(21),(19),(26),(25),HUN
+"Trade Accts Recvble, Net","1,256","1,165",940,902,"1,159",HUN
+Other Receivables,27,18,13,8,360,HUN
+"Total Receivables, Net","1,283","1,183",953,910,"1,519",HUN
+Invent. - Finished Goods,897,798,718,651,909,HUN
+Invent. - Work In Progress,48,51,49,44,52,HUN
+Invent. - Raw Materials,189,191,175,180,282,HUN
+LIFO Reserve,(61),(40),(28),(27),(42),HUN
+Total Inventory,"1,073","1,000",914,848,"1,201",HUN
+Prepaid Expenses,60,58,83,--,--,HUN
+Restricted Cash - Current,11,--,--,--,--,HUN
+Discont. Ops.-Curr. Assets,"2,880",232,"1,208",--,--,HUN
+Other Current Assets,202,145,72,217,167,HUN
+"Other Curr. Assets, Total","3,093",377,"1,280",217,167,HUN
+Total Current Assets,"5,979","2,958","3,755","3,568","3,928",HUN
+Buildings,644,--,605,540,628,HUN
+Land/Improvements,150,--,103,97,99,HUN
+Machinery/Equipment,"5,929",--,"4,695","5,039","5,118",HUN
+Construction in Progress,360,--,285,357,465,HUN
+Other Prop./Plant/Equip.,--,--,396,445,403,HUN
+Prop./Plant/Equip. - Gross,"7,083",--,"6,084","6,478","6,713",HUN
+Accumulated Depreciation,"(3,985)",--,"(3,305)","(3,528)","(3,734)",HUN
+Prop./Plant/Equip. - Net,"3,098","2,353","2,779","2,950","2,979",HUN
+"Goodwill, Net",140,275,276,533,650,HUN
+Intangibles - Gross,476,--,518,808,860,HUN
+Accum. Intangible Amort.,(420),--,(321),(355),(391),HUN
+Intangibles - Net,56,213,197,453,469,HUN
+LT Invt. - Affiliate Comp.,266,526,535,373,470,HUN
+LT Investments - Other,0,--,--,--,--,HUN
+Long Term Investments,266,526,535,373,470,HUN
+Note Rcvble - Long Term,--,34,34,0,--,HUN
+Pension Bene. - Overfunded,22,--,--,--,--,HUN
+Def. Inc. Tax - LT Asset,208,324,292,288,206,HUN
+Disct. Ops. - LT Asset,0,877,0,--,--,HUN
+Other Long Term Assets,475,393,452,548,690,HUN
+Total Assets,"10,244","7,953","8,320","8,713","9,392",HUN
+Accounts Payable,964,793,822,876,"1,208",HUN
+Accrued Expenses,485,497,403,437,696,HUN
+Notes Payable/ST Debt,0,0,0,0,0,HUN
+Curr. Port. LT Dbt/Cap Ls.,40,96,212,593,12,HUN
+Income Taxes Payable,62,--,59,73,135,HUN
+Discontinued Operations,"1,692",225,512,0,--,HUN
+Other Current Liabilities,22,--,--,--,--,HUN
+"Other Curr. Lblts, Total","1,776",225,571,73,135,HUN
+Total Current Liabilities,"3,265","1,611","2,008","1,979","2,051",HUN
+Total Long Term Debt,"2,258","2,224","2,177","1,528","1,538",HUN
+Total Debt,"2,298","2,320","2,389","2,121","1,550",HUN
+Deferred Income Tax,264,137,29,212,161,HUN
+Minority Interest,894,265,163,174,193,HUN
+Reserves,53,--,--,--,--,HUN
+Pension Benefits - Underfunded,831,--,743,783,541,HUN
+Other LT Liabilities,202,"1,232",539,538,542,HUN
+Discont. Ops. - Lblts,0,--,--,--,--,HUN
+"Other Liabilities, Total","1,086","1,232","1,282","1,321","1,083",HUN
+Total Liabilities,"7,767","5,469","5,659","5,214","5,026",HUN
+Common Stock,3,3,3,3,3,HUN
+Additional Paid-In Capital,"3,889","3,984","4,008","4,048","4,102",HUN
+Ret. Earn.(Accum. Deficit),161,292,690,"1,564","2,435",HUN
+Treasury Stock - Common,(150),(427),(635),(731),(934),HUN
+Cum. Trans. Adjustment,(249),(371),(374),(333),(420),HUN
+Min. Pension Lblty Adj.,"(1,189)",(994),"(1,012)","(1,028)",(810),HUN
+Other Comprehensive Income,12,(3),(19),(24),(10),HUN
+"Other Equity, Total","(1,426)","(1,368)","(1,405)","(1,385)","(1,240)",HUN
+Total Equity,"2,477","2,484","2,661","3,499","4,366",HUN
+Total Liabilities & Shareholders’ Equity,"10,244","7,953","8,320","8,713","9,392",HUN
+Ttl Comm. Shares Outs.,240,233,224,220,214,HUN
+Trsy. Shrs-Comm. Primary Iss.,13,23,33,38,46,HUN

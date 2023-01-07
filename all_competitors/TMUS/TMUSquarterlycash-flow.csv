@@ -1,0 +1,42 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"3,024",713,605,"1,113",TMUS
+Depreciation/Depletion,"16,383","3,585","7,076","10,389",TMUS
+Deferred Taxes,197,185,109,73,TMUS
+Unusual Items,184,0,477,848,TMUS
+Other Non-Cash Items,"1,007",397,924,"1,373",TMUS
+Non-Cash Items,"1,191",397,"1,401","2,221",TMUS
+"Cash Taxes Pd, Supplemental","6,248",0,63,75,TMUS
+"Cash Interest Pd, Suppl","3,723",778,"1,767","2,548",TMUS
+Accounts Receivable,"(6,366)","(1,519)","(3,281)","(4,582)",TMUS
+Inventories,201,(93),391,384,TMUS
+Other Assets,"4,391","1,465","3,046","3,825",TMUS
+Accrued Expenses,"(5,358)",(771),"(1,518)","(2,218)",TMUS
+Payable/Accrued,549,(59),(23),319,TMUS
+Changes in Working Capital,"(6,878)","(1,035)","(1,137)","(1,351)",TMUS
+Total Cash from Operations,"13,917","3,845","8,054","12,445",TMUS
+Purchase of Fixed Assets,"(12,326)","(3,381)","(6,953)","(10,587)",TMUS
+Purchase/Acq of Intangibles,"(9,366)","(2,843)","(2,959)","(3,319)",TMUS
+Capital Expenditures,"(21,692)","(6,224)","(9,912)","(13,906)",TMUS
+Acquisition of Business,"(1,916)",(52),(52),(52),TMUS
+Sale of Business,0,--,--,--,TMUS
+Sale of Fixed Assets,40,--,0,0,TMUS
+"Investment, Net",0,--,--,--,TMUS
+Other Investing Cash Flow,"4,182","1,184","2,313","3,752",TMUS
+"OtherInvestCashFlowItms,Tot","2,306","1,132","2,261","3,700",TMUS
+Total Cash from Investing,"(19,386)","(5,092)","(7,651)","(10,206)",TMUS
+Financing Cash Flow Items,(507),(202),(277),(322),TMUS
+Sale/Issuance of Common,0,--,--,--,TMUS
+Repurch/Retirement Common,0,--,--,(557),TMUS
+"Iss (Retirmnt) of Stock,Net",0,--,--,(557),TMUS
+Short Term Debt Issued,0,--,--,--,TMUS
+Short Term Debt Reduction,0,--,--,--,TMUS
+"Short Term Debt, Net",(184),0,0,0,TMUS
+Long Term Debt Issued,"14,727",0,0,"2,972",TMUS
+Long Term Debt Reduction,"(12,327)","(1,934)","(3,603)","(4,046)",TMUS
+"Long Term Debt, Net","2,400","(1,934)","(3,603)","(1,074)",TMUS
+"Iss (Retirmnt) of Debt, Net","2,216","(1,934)","(3,603)","(1,074)",TMUS
+Total Cash From Financing,"1,709","(2,136)","(3,880)","(1,953)",TMUS
+Net Change in Cash,"(3,760)","(3,383)","(3,477)",286,TMUS
+NetCash-BeginBal/RsvdforFutUse,"10,463","6,703","6,703","6,703",TMUS
+NetCash-EndBal/RsrvforFutUse,"6,703","3,320","3,226","6,989",TMUS
+"Depreciation, Supplemental","16,383","3,585","7,076","10,389",TMUS

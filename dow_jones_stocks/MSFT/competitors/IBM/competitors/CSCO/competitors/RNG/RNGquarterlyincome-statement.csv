@@ -1,0 +1,41 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,448,468,487,509,RNG
+"Cost of Revenue, Total",136,155,158,167,RNG
+Selling/Gen/Admin Expense,258,260,271,269,RNG
+Labor & Related Expense,71,65,69,65,RNG
+"Sell/Gen/AdminExpenses,Tot",329,325,340,334,RNG
+Research & Development,87,90,97,87,RNG
+Unusual Expense (Income),(2),--,--,--,RNG
+"Other Operat Expse, Total",--,--,--,103,RNG
+Total Operating Expense,550,571,595,692,RNG
+Total Operating Income,(101),(104),(108),(183),RNG
+"Inter Expse,Net Non-Operat",(16),(1),(1),(1),RNG
+"Inter/Invest Inc, Non-Oper",31,(47),(50),(77),RNG
+OtherNon-OperatInc (Expnse),(31),1,1,(23),RNG
+"Other, Net",(31),1,1,(23),RNG
+Income Before Tax,(117),(150),(158),(284),RNG
+Income Tax - Total,1,1,1,1,RNG
+Income After Tax,(118),(151),(160),(285),RNG
+Net Inc Before Extra Items,(118),(151),(160),(285),RNG
+Total Net Income,(118),(151),(160),(285),RNG
+Income Available to Common Excl. Extra. Items,(118),(151),(160),(285),RNG
+Income Available to Common Incl. Extra. Items,(118),(151),(160),(285),RNG
+Basic/Primary Weighted Average Shares,93,95,95,96,RNG
+Basic/Primary EPS Excl. Extra. Items,(1.27),(1.60),(1.68),(2.98),RNG
+Basic/Primary EPS Incl. Extra. Items,(1.27),(1.60),(1.68),(2.98),RNG
+Diluted Weighted Average Shares,93,95,95,96,RNG
+Diluted EPS Excl. Extra. Items,(1.27),(1.60),(1.68),(2.98),RNG
+Diluted EPS Incl. Extra. Items,(1.27),(1.60),(1.68),(2.98),RNG
+Div/Share-ComStockPrimIssue,--,0.00,0.00,0.00,RNG
+Gross Divid - Common Stock,--,0,0,0,RNG
+Pro Forma Net Income,--,--,--,--,RNG
+"Interest Expense, Suppl",16,1,1,1,RNG
+"Depreciat/Amort, Suppl",16,17,18,18,RNG
+Total Special Items,(2),--,--,--,RNG
+Normalzd Income Before Tax,(119),(150),(158),(284),RNG
+Efct/SpecItemsIncTxs (STEC),(1),--,--,--,RNG
+IncTxsExcl ImpctofSpec Itms,0,1,1,1,RNG
+Normalized Income After Tax,(120),(151),(160),(285),RNG
+Normalzd Inc Avail to Common,(120),(151),(160),(285),RNG
+Basic Normalized EPS,(1.28),(1.60),(1.68),(2.98),RNG
+Diluted Normalized EPS,(1.28),(1.60),(1.68),(2.98),RNG

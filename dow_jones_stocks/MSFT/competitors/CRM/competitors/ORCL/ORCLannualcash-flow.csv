@@ -1,0 +1,33 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"3,587","11,083","10,135","13,746","6,717",ORCL
+Depreciation/Depletion,"1,165","1,230","1,382","1,537","1,972",ORCL
+Amortization,"1,620","1,689","1,586","1,379","1,150",ORCL
+Deferred Taxes,(847),"(1,191)",(851),"(2,425)","(1,146)",ORCL
+Non-Cash Items,"1,726","2,000","2,074","1,990","2,833",ORCL
+"Cash Taxes Pd, Supplemental","1,562","2,901","3,218","3,189","2,567",ORCL
+"Cash Interest Pd, Suppl","1,910","2,059","1,972","2,408","2,735",ORCL
+Accounts Receivable,267,(272),(690),141,(874),ORCL
+Prepaid Expenses,(258),261,665,622,11,ORCL
+Accounts Payable,(260),(102),(496),(23),(733),ORCL
+Changes in Working Capital,"8,135",(260),"(1,187)",(340),"(1,987)",ORCL
+Total Cash from Operations,"15,386","14,551","13,139","15,887","9,539",ORCL
+Capital Expenditures,"(1,736)","(1,660)","(1,564)","(2,135)","(4,511)",ORCL
+Acquisition of Business,"(1,724)",(363),(124),(41),(148),ORCL
+Sale/Maturity of Investment,"23,117","29,980","17,262","27,060","26,151",ORCL
+Purchase of Investments,"(25,282)","(1,400)","(5,731)","(37,982)","(10,272)",ORCL
+"OtherInvestCashFlowItms,Tot","(3,889)","28,217","11,407","(10,963)","15,731",ORCL
+Total Cash from Investing,"(5,625)","26,557","9,843","(13,098)","11,220",ORCL
+Financing Cash Flow Items,(34),(136),(133),196,(560),ORCL
+Total Cash Dividends Paid,"(3,140)","(2,932)","(3,070)","(3,063)","(3,457)",ORCL
+Sale/Issuance of Common,"2,402","2,155","1,588","1,786",482,ORCL
+Repurch/Retirement Common,"(11,853)","(36,643)","(19,905)","(21,600)","(17,341)",ORCL
+"Iss (Retirmnt) of Stock,Net","(9,451)","(34,488)","(18,317)","(19,814)","(16,859)",ORCL
+Long Term Debt Issued,"12,443",0,"19,888","14,934",0,ORCL
+Long Term Debt Reduction,"(9,800)","(4,500)","(4,500)","(2,631)","(8,250)",ORCL
+"Iss (Retirmnt) of Debt, Net","2,643","(4,500)","15,388","12,303","(8,250)",ORCL
+Total Cash From Financing,"(9,982)","(42,056)","(6,132)","(10,378)","(29,126)",ORCL
+Foreign Exchange Effects,57,(158),(125),448,(348),ORCL
+Net Change in Cash,(164),"(1,106)","16,725","(7,141)","(8,715)",ORCL
+NetCash-BeginBal/RsvdforFutUse,"21,784","21,620","20,514","37,239","30,098",ORCL
+NetCash-EndBal/RsrvforFutUse,"21,620","20,514","37,239","30,098","21,383",ORCL
+"Depreciation, Supplemental","1,165","1,230","1,382","1,537","1,972",ORCL

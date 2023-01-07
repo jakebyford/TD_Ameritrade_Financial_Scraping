@@ -1,0 +1,40 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Total Revenue,"152,871","141,569","152,859","152,813",WMT
+"Cost of Revenue, Total","115,522","106,847","115,838","115,613",WMT
+"Sell/Gen/AdminExpenses,Tot","30,962","29,404","30,167","34,505",WMT
+Unusual Expense (Income),(300),400,(200),0,WMT
+Total Operating Expense,"146,184","136,651","145,805","150,118",WMT
+Total Operating Income,"6,687","4,918","7,054","2,695",WMT
+"Inter Expse,Net Non-Operat",(427),(455),(479),(584),WMT
+"Inter Income, Non-Operating",47,36,31,84,WMT
+"Invest Income, Non-Operat",--,--,"1,200","6,900",WMT
+"Inter/Invest Inc, Non-Oper",47,36,"1,231","6,984",WMT
+OtherNon-OperatInc (Expnse),"(1,525)","(1,598)","(1,162)","(10,526)",WMT
+"Other, Net","(1,525)","(1,598)","(1,162)","(10,526)",WMT
+Income Before Tax,"4,782","2,901","6,644","(1,431)",WMT
+Income Tax - Total,"1,149",798,"1,497",336,WMT
+Income After Tax,"3,633","2,103","5,147","(1,767)",WMT
+Minority Interest,(71),(49),2,(31),WMT
+Net Inc Before Extra Items,"3,562","2,054","5,149","(1,798)",WMT
+Total Net Income,"3,562","2,054","5,149","(1,798)",WMT
+Income Available to Common Excl. Extra. Items,"3,562","2,054","5,149","(1,798)",WMT
+Income Available to Common Incl. Extra. Items,"3,562","2,054","5,149","(1,798)",WMT
+Basic/Primary Weighted Average Shares,"2,771","2,754","2,736","2,711",WMT
+Basic/Primary EPS Excl. Extra. Items,1.29,0.75,1.88,(0.66),WMT
+Basic/Primary EPS Incl. Extra. Items,1.29,0.75,1.88,(0.66),WMT
+Diluted Weighted Average Shares,"2,781","2,765","2,745","2,711",WMT
+Diluted EPS Excl. Extra. Items,1.28,0.74,1.88,(0.66),WMT
+Diluted EPS Incl. Extra. Items,1.28,0.74,1.88,(0.66),WMT
+Div/Share-ComStockPrimIssue,0.55,0.56,0.56,0.56,WMT
+Gross Divid - Common Stock,"1,546","6,173",0,43,WMT
+Pro Forma Net Income,--,--,--,--,WMT
+"Interest Expense, Suppl",427,455,479,584,WMT
+"Depreciat/Amort, Suppl","2,706","2,680","2,699","2,755",WMT
+Total Special Items,(300),400,(200),0,WMT
+Normalzd Income Before Tax,"4,482","3,301","6,444","(1,431)",WMT
+Efct/SpecItemsIncTxs (STEC),(72),110,(45),0,WMT
+IncTxsExcl ImpctofSpec Itms,"1,077",908,"1,452",336,WMT
+Normalized Income After Tax,"3,405","2,393","4,992","(1,767)",WMT
+Normalzd Inc Avail to Common,"3,334","2,344","4,994","(1,798)",WMT
+Basic Normalized EPS,1.20,0.85,1.83,(0.66),WMT
+Diluted Normalized EPS,1.20,0.85,1.82,(0.66),WMT

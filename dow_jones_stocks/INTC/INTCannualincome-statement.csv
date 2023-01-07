@@ -1,0 +1,50 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"62,761","70,848","71,965","77,867","79,024",INTC
+"Cost of Revenue, Total","23,663","27,111","29,825","34,255","35,209",INTC
+Selling/Gen/Admin Expense,"6,052","5,550","5,318","5,212","5,234",INTC
+Advertising Expense,"1,400","1,200",832,763,"1,100",INTC
+"Sell/Gen/AdminExpenses,Tot","7,452","6,750","6,150","5,975","6,334",INTC
+Research & Development,"13,035","13,543","13,362","13,556","15,190",INTC
+Depreciation/Amortization,177,200,200,205,209,INTC
+Restructuring Charge,95,(72),393,198,"2,626",INTC
+Impair-Assets Held for Use,40,0,--,--,--,INTC
+Other Unusual Expnse (In),249,--,--,(6),(4),INTC
+Unusual Expense (Income),384,(72),393,192,"2,622",INTC
+Total Operating Expense,"44,711","47,532","49,930","54,183","59,564",INTC
+Total Operating Income,"18,050","23,316","22,035","23,684","19,460",INTC
+"Inter Expse, Non-Operating",(959),(964),(961),(967),(995),INTC
+"Inter Capital, Non-Operat",313,496,472,338,398,INTC
+"Inter Expse,Net Non-Operat",(646),(468),(489),(629),(597),INTC
+"Inter Income, Non-Operating",441,438,483,272,144,INTC
+"Invest Income, Non-Operat","2,651",(125),"1,539","1,904","2,729",INTC
+"Inter/Invest Inc, Non-Oper","3,092",313,"2,022","2,176","2,873",INTC
+OtherNon-OperatInc (Expnse),(144),156,490,(153),(33),INTC
+"Other, Net",(144),156,490,(153),(33),INTC
+Income Before Tax,"20,352","23,317","24,058","25,078","21,703",INTC
+Income Tax - Total,"5,351","2,564","3,010","4,179","1,835",INTC
+Income After Tax,"15,001","20,753","21,048","20,899","19,868",INTC
+Net Inc Before Extra Items,"15,001","20,753","21,048","20,899","19,868",INTC
+Total Extraordinary Items,"(5,400)",300,--,--,--,INTC
+Total Net Income,"9,601","21,053","21,048","20,899","19,868",INTC
+Income Available to Common Excl. Extra. Items,"15,001","20,753","21,048","20,899","19,868",INTC
+Income Available to Common Incl. Extra. Items,"9,601","21,053","21,048","20,899","19,868",INTC
+Basic/Primary Weighted Average Shares,"4,701","4,611","4,417","4,199","4,059",INTC
+Basic/Primary EPS Excl. Extra. Items,3.19,4.50,4.77,4.98,4.89,INTC
+Basic/Primary EPS Incl. Extra. Items,2.04,4.57,4.77,4.98,4.89,INTC
+Diluted Weighted Average Shares,"4,835","4,701","4,473","4,232","4,090",INTC
+Diluted EPS Excl. Extra. Items,3.10,4.41,4.71,4.94,4.86,INTC
+Diluted EPS Incl. Extra. Items,1.99,4.48,4.71,4.94,4.86,INTC
+Div/Share-ComStockPrimIssue,1.08,1.20,1.26,1.32,1.39,INTC
+Gross Divid - Common Stock,"5,072","5,541","5,578","5,568","5,644",INTC
+Pro Forma Net Income,--,--,--,--,--,INTC
+"Interest Expense, Suppl",646,468,489,629,597,INTC
+"Interest Capitalized, Suppl",(313),(496),(472),(338),(398),INTC
+"Depreciat/Amort, Suppl","6,752","7,520","9,204","10,482","9,953",INTC
+Total Special Items,384,(72),"1,717","1,608","2,745",INTC
+Normalzd Income Before Tax,"20,736","23,245","25,775","26,686","24,448",INTC
+Efct/SpecItemsIncTxs (STEC),101,(8),(14),(209),232,INTC
+IncTxsExcl ImpctofSpec Itms,"5,452","2,556","2,996","3,970","2,067",INTC
+Normalized Income After Tax,"15,284","20,689","22,779","22,716","22,381",INTC
+Normalzd Inc Avail to Common,"15,284","20,689","22,779","22,716","22,381",INTC
+Basic Normalized EPS,3.25,4.49,5.16,5.41,5.51,INTC
+Diluted Normalized EPS,3.16,4.40,5.09,5.37,5.47,INTC

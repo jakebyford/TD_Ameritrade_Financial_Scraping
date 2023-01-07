@@ -1,0 +1,54 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"4,576","5,357","5,603","4,968","5,739",QSR
+"Cost of Revenue, Total","1,850","1,818","1,818","1,610","1,890",QSR
+Selling/Gen/Admin Expense,775,"1,506",816,816,859,QSR
+Labor & Related Expense,55,55,74,84,102,QSR
+Advertising Expense,--,--,858,857,962,QSR
+"Sell/Gen/AdminExpenses,Tot",830,"1,561","1,748","1,757","1,923",QSR
+Depreciation/Amortization,23,20,19,19,20,QSR
+"Inter/Invest Inc, Operating",65,(55),(31),139,(72),QSR
+Restructuring Charge,0,45,37,16,16,QSR
+Litigation,2,11,2,7,81,QSR
+Other Unusual Expnse (In),162,10,23,98,11,QSR
+Unusual Expense (Income),193,85,69,127,110,QSR
+Loss(Gain)/Sale Asts (Oper),29,19,7,6,2,QSR
+"Other, Net",1,11,(4),(8),0,QSR
+"Other Operat Expse, Total",1,11,(4),(8),0,QSR
+Total Operating Expense,"2,962","3,440","3,619","3,644","3,871",QSR
+Total Operating Income,"1,614","1,917","1,984","1,324","1,868",QSR
+"Inter Expse,Net Non-Operat",(539),(550),(596),(484),(428),QSR
+"Inter Income, Non-Operating",26,15,20,9,3,QSR
+"Invest Income, Non-Operat",--,--,44,(33),(80),QSR
+"Inter/Invest Inc, Non-Oper",26,15,64,(24),(77),QSR
+Income Before Tax,"1,102","1,382","1,452",816,"1,363",QSR
+Income Tax - Total,64,229,341,66,110,QSR
+Income After Tax,"1,037","1,153","1,111",750,"1,253",QSR
+Minority Interest,(587),(532),(468),(264),(415),QSR
+Net Inc Before Extra Items,451,621,643,486,838,QSR
+Total Extraordinary Items,198,(9),--,--,--,QSR
+Total Net Income,649,612,643,486,838,QSR
+Preferred Dividends,(257),0,0,--,--,QSR
+Gen Partner’s Distributions,234,0,0,--,--,QSR
+Total Adjust to Net Income,(23),0,0,--,--,QSR
+Income Available to Common Excl. Extra. Items,428,621,643,486,838,QSR
+Income Available to Common Incl. Extra. Items,626,612,643,486,838,QSR
+Basic/Primary Weighted Average Shares,237,249,268,302,310,QSR
+Basic/Primary EPS Excl. Extra. Items,1.81,2.49,2.40,1.61,2.70,QSR
+Basic/Primary EPS Incl. Extra. Items,2.64,2.46,2.40,1.61,2.70,QSR
+Dilution Adjustment,585,531,466,262,411,QSR
+Diluted Weighted Average Shares,477,473,469,468,464,QSR
+Diluted EPS Excl. Extra. Items,2.12,2.44,2.36,1.60,2.69,QSR
+Diluted EPS Incl. Extra. Items,2.54,2.42,2.36,1.60,2.69,QSR
+Div/Share-ComStockPrimIssue,0.78,1.80,2.00,2.08,2.12,QSR
+Gross Divid - Common Stock,186,452,545,631,658,QSR
+Pro Forma Net Income,--,--,--,--,--,QSR
+"Interest Expense, Suppl",539,550,596,484,428,QSR
+"Depreciat/Amort, Suppl",150,148,136,140,148,QSR
+Total Special Items,193,85,69,160,110,QSR
+Normalzd Income Before Tax,"1,295","1,467","1,521",976,"1,473",QSR
+Efct/SpecItemsIncTxs (STEC),11,14,16,13,9,QSR
+IncTxsExcl ImpctofSpec Itms,76,243,357,79,119,QSR
+Normalized Income After Tax,"1,219","1,224","1,164",897,"1,354",QSR
+Normalzd Inc Avail to Common,610,692,696,633,939,QSR
+Basic Normalized EPS,2.57,2.78,2.60,2.10,3.03,QSR
+Diluted Normalized EPS,2.50,2.59,2.48,1.91,2.91,QSR

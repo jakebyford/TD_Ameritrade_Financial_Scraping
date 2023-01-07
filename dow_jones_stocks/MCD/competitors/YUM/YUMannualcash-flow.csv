@@ -1,0 +1,40 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"1,340","1,542","1,294",904,"1,575",YUM
+Depreciation/Depletion,253,137,112,146,164,YUM
+Deferred Taxes,634,(11),(232),(65),(200),YUM
+Discontinued Operations,0,0,--,--,--,YUM
+Unusual Items,"(1,080)",(549),30,64,(102),YUM
+Other Non-Cash Items,10,34,44,91,75,YUM
+Non-Cash Items,"(1,070)",(515),74,155,(27),YUM
+"Cash Taxes Pd, Supplemental",346,279,283,328,308,YUM
+"Cash Interest Pd, Suppl",442,455,497,480,474,YUM
+Accounts Receivable,(19),(66),(56),62,(46),YUM
+Inventories,3,--,--,--,--,YUM
+Prepaid Expenses,(13),0,(8),8,(33),YUM
+Payable/Accrued,(173),(68),(36),128,122,YUM
+Changes in Working Capital,(127),23,67,165,194,YUM
+Total Cash from Operations,"1,030","1,176","1,315","1,305","1,706",YUM
+Capital Expenditures,(318),(234),(196),(160),(230),YUM
+Acquisition of Business,--,(66),--,(408),0,YUM
+Sale of Business,--,--,0,--,--,YUM
+Sale of Fixed Assets,"1,773",825,110,19,85,YUM
+"Investment, Net",--,(200),0,206,0,YUM
+Other Investing Cash Flow,17,(12),(2),8,(28),YUM
+"OtherInvestCashFlowItms,Tot","1,790",547,108,(175),57,YUM
+Total Cash from Investing,"1,472",313,(88),(335),(173),YUM
+Financing Cash Flow Items,(122),(60),(85),(61),(77),YUM
+Total Cash Dividends Paid,(416),(462),(511),(566),(592),YUM
+"Iss (Retirmnt) of Stock,Net","(1,960)","(2,390)",(815),(239),"(1,591)",YUM
+Short Term Debt Issued,0,59,130,95,0,YUM
+Short Term Debt Reduction,0,(59),(126),(100),0,YUM
+"Short Term Debt, Net",0,0,4,(5),0,YUM
+Long Term Debt Issued,"1,088","1,556",800,"1,650","4,150",YUM
+Long Term Debt Reduction,(385),"(1,264)",(331),"(1,517)","(3,657)",YUM
+"Long Term Debt, Net",703,292,469,133,493,YUM
+"Iss (Retirmnt) of Debt, Net",703,292,473,128,493,YUM
+Total Cash From Financing,"(1,795)","(2,620)",(938),(738),"(1,767)",YUM
+Foreign Exchange Effects,61,(63),5,24,(19),YUM
+Net Change in Cash,768,"(1,194)",294,256,(253),YUM
+NetCash-BeginBal/RsvdforFutUse,831,"1,668",474,768,"1,024",YUM
+NetCash-EndBal/RsrvforFutUse,"1,599",474,768,"1,024",771,YUM
+"Depreciation, Supplemental",253,137,112,146,164,YUM

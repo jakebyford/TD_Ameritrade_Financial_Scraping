@@ -1,0 +1,40 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Total Revenue,"4,262","4,386","4,433","4,525",ADBE
+"Cost of Revenue, Total",512,539,546,568,ADBE
+Selling/Gen/Admin Expense,"1,287","1,387","1,422","1,637",ADBE
+Labor & Related Expense,140,151,163,--,ADBE
+"Sell/Gen/AdminExpenses,Tot","1,427","1,538","1,585","1,637",ADBE
+Research & Development,701,738,775,773,ADBE
+Depreciation/Amortization,42,42,43,42,ADBE
+Total Operating Expense,"2,682","2,857","2,949","3,020",ADBE
+Total Operating Income,"1,580","1,529","1,484","1,505",ADBE
+"Inter Expse,Net Non-Operat",(28),(28),(28),(28),ADBE
+"Inter/Invest Inc, Non-Oper",(9),(8),(6),4,ADBE
+OtherNon-OperatInc (Expnse),0,(1),6,36,ADBE
+"Other, Net",0,(1),6,36,ADBE
+Income Before Tax,"1,543","1,492","1,456","1,517",ADBE
+Income Tax - Total,277,314,320,341,ADBE
+Income After Tax,"1,266","1,178","1,136","1,176",ADBE
+Net Inc Before Extra Items,"1,266","1,178","1,136","1,176",ADBE
+Total Net Income,"1,266","1,178","1,136","1,176",ADBE
+Income Available to Common Excl. Extra. Items,"1,266","1,178","1,136","1,176",ADBE
+Income Available to Common Incl. Extra. Items,"1,266","1,178","1,136","1,176",ADBE
+Basic/Primary Weighted Average Shares,473,472,469,465,ADBE
+Basic/Primary EPS Excl. Extra. Items,2.68,2.50,2.42,2.53,ADBE
+Basic/Primary EPS Incl. Extra. Items,2.68,2.50,2.42,2.53,ADBE
+Diluted Weighted Average Shares,475,473,469,466,ADBE
+Diluted EPS Excl. Extra. Items,2.67,2.49,2.42,2.52,ADBE
+Diluted EPS Incl. Extra. Items,2.67,2.49,2.42,2.52,ADBE
+Div/Share-ComStockPrimIssue,0.00,0.00,0.00,--,ADBE
+Gross Divid - Common Stock,0,0,0,--,ADBE
+Pro Forma Net Income,--,--,--,--,ADBE
+"Interest Expense, Suppl",28,28,28,28,ADBE
+"Depreciat/Amort, Suppl",112,111,115,115,ADBE
+Total Special Items,--,--,--,26,ADBE
+Normalzd Income Before Tax,"1,543","1,492","1,456","1,543",ADBE
+Efct/SpecItemsIncTxs (STEC),--,--,--,6,ADBE
+IncTxsExcl ImpctofSpec Itms,277,314,320,347,ADBE
+Normalized Income After Tax,"1,266","1,178","1,136","1,196",ADBE
+Normalzd Inc Avail to Common,"1,266","1,178","1,136","1,196",ADBE
+Basic Normalized EPS,2.68,2.50,2.42,2.57,ADBE
+Diluted Normalized EPS,2.67,2.49,2.42,2.57,ADBE

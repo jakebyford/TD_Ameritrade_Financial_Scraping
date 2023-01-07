@@ -1,0 +1,43 @@
+items,Q3 2022,Q4 2022,Q1 2023,Q2 2023,ticker
+Total Revenue,"68,614","66,102","67,154","70,157",MCK
+"Cost of Revenue, Total","65,186","62,784","64,131","67,062",MCK
+"Sell/Gen/AdminExpenses,Tot","3,046","2,584","1,952","1,964",MCK
+Restructuring Charge,18,73,23,30,MCK
+Litigation,40,107,24,0,MCK
+Impair-Assets Held for Use,0,0,--,--,MCK
+Other Unusual Expnse (In),26,(79),(12),(23),MCK
+Unusual Expense (Income),84,101,35,7,MCK
+Total Operating Expense,"68,316","65,469","66,118","69,033",MCK
+Total Operating Income,298,633,"1,036","1,124",MCK
+"Inter Expse,Net Non-Operat",(41),(43),(45),(55),MCK
+"Inter/Invest Inc, Non-Oper",7,(6),--,--,MCK
+OtherNon-OperatInc (Expnse),13,63,15,175,MCK
+"Other, Net",13,63,15,175,MCK
+Income Before Tax,277,647,"1,006","1,244",MCK
+Income Tax - Total,238,240,199,271,MCK
+Income After Tax,39,407,807,973,MCK
+Minority Interest,(46),(37),(41),(41),MCK
+Net Inc Before Extra Items,(7),370,766,932,MCK
+Total Extraordinary Items,0,(2),2,(6),MCK
+Total Net Income,(7),368,768,926,MCK
+Income Available to Common Excl. Extra. Items,(7),370,766,932,MCK
+Income Available to Common Incl. Extra. Items,(7),368,768,926,MCK
+Basic/Primary Weighted Average Shares,152,147,144,143,MCK
+Basic/Primary EPS Excl. Extra. Items,(0.05),2.51,5.31,6.51,MCK
+Basic/Primary EPS Incl. Extra. Items,(0.05),2.50,5.33,6.47,MCK
+Diluted Weighted Average Shares,152,149,146,144,MCK
+Diluted EPS Excl. Extra. Items,(0.05),2.48,5.25,6.47,MCK
+Diluted EPS Incl. Extra. Items,(0.05),2.47,5.26,6.43,MCK
+Div/Share-ComStockPrimIssue,0.47,0.47,0.47,0.47,MCK
+Gross Divid - Common Stock,72,68,67,78,MCK
+Pro Forma Net Income,--,--,--,--,MCK
+"Interest Expense, Suppl",41,43,45,55,MCK
+"Depreciat/Amort, Suppl",67,64,61,63,MCK
+Total Special Items,84,101,35,7,MCK
+Normalzd Income Before Tax,361,748,"1,041","1,251",MCK
+Efct/SpecItemsIncTxs (STEC),29,37,7,2,MCK
+IncTxsExcl ImpctofSpec Itms,267,277,206,273,MCK
+Normalized Income After Tax,94,471,835,978,MCK
+Normalzd Inc Avail to Common,48,434,794,937,MCK
+Basic Normalized EPS,0.31,2.95,5.51,6.55,MCK
+Diluted Normalized EPS,0.31,2.91,5.44,6.51,MCK

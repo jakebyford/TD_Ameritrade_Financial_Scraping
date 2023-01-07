@@ -1,0 +1,54 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash and Short Term Invs,"1,219","1,203","1,528","10,385","6,631",TMUS
+"Trade Accts Recvble, Gross","2,001","1,836","1,949","4,448","4,313",TMUS
+Prov. for Doubtful Accts,(86),(67),(61),(194),(146),TMUS
+"Trade Accts Recvble, Net","1,915","1,769","1,951","4,532","4,453",TMUS
+Other Receivables,"2,312","2,549","2,620","3,599","4,775",TMUS
+"Total Receivables, Net","4,227","4,318","4,571","8,131","9,228",TMUS
+Total Inventory,"1,566","1,084",964,"2,527","2,567",TMUS
+Prepaid Expenses,--,--,--,624,746,TMUS
+"Other Curr. Assets, Total","1,903","1,676","2,242","2,218","1,719",TMUS
+Total Current Assets,"8,915","8,281","9,305","23,885","20,891",TMUS
+Buildings,"4,457","4,886","5,071","12,874","10,336",TMUS
+Land/Improvements,--,--,--,236,225,TMUS
+Machinery/Equipment,"10,563","11,712","12,705","16,412","18,243",TMUS
+Construction in Progress,"1,771","2,776","2,973","4,595","3,703",TMUS
+Other Prop./Plant/Equip.,"32,706","35,282","48,001","80,502","87,395",TMUS
+Prop./Plant/Equip. - Gross,"49,497","54,656","68,750","114,619","119,902",TMUS
+Accumulated Depreciation,"(27,301)","(31,297)","(33,118)","(42,395)","(49,818)",TMUS
+Prop./Plant/Equip. - Net,"22,196","23,359","35,632","72,224","70,084",TMUS
+"Goodwill, Net","1,683","1,901","1,930","11,117","12,188",TMUS
+Intangibles - Gross,"36,826","37,124","37,992","89,493","99,531",TMUS
+Accum. Intangible Amort.,"(1,243)","(1,367)","(1,412)","(1,367)","(2,192)",TMUS
+Intangibles - Net,"35,583","35,757","36,580","88,126","97,339",TMUS
+Note Rcvble - Long Term,"1,274","1,547","1,583","2,031","2,829",TMUS
+Other Long Term Assets,912,"1,623","1,891","2,779","3,232",TMUS
+Total Assets,"70,563","72,468","86,921","200,162","206,563",TMUS
+Accounts Payable,"6,182","5,487","4,322","5,564","6,499",TMUS
+Accrued Expenses,"2,346","2,254","4,711","8,500","8,331",TMUS
+Notes Payable/ST Debt,0,0,0,"4,579","5,623",TMUS
+Curr. Port. LT Dbt/Cap Ls.,"1,612",841,982,"1,063","1,120",TMUS
+Customer Advances,779,698,631,"1,030",856,TMUS
+Other Payables,182,200,187,157,103,TMUS
+Other Current Liabilities,414,787,"1,673",810,967,TMUS
+"Other Curr. Lblts, Total","1,375","1,685","2,491","1,997","1,926",TMUS
+Total Current Liabilities,"11,515","10,267","12,506","21,703","23,499",TMUS
+Long Term Debt,"28,086","28,089","27,180","69,574","71,376",TMUS
+Capital Lease Obligations,"1,211","1,174","1,346","1,444","1,455",TMUS
+Total Long Term Debt,"29,297","29,263","28,526","71,018","72,831",TMUS
+Total Debt,"30,909","30,104","29,508","76,660","79,574",TMUS
+Deferred Income Tax,"3,537","4,472","5,607","9,966","10,216",TMUS
+"Other Liabilities, Total","3,655","3,748","11,493","32,131","30,915",TMUS
+Total Liabilities,"48,004","47,750","58,132","134,818","137,461",TMUS
+Redeemable Preferred Stock,0,--,--,--,--,TMUS
+Common Stock,0,0,0,0,0,TMUS
+Additional Paid-In Capital,"38,629","38,010","38,498","72,772","73,292",TMUS
+Ret. Earn.(Accum. Deficit),"(16,074)","(12,954)","(8,833)","(5,836)","(2,812)",TMUS
+Treasury Stock - Common,(4),(6),(8),(11),(13),TMUS
+Other Equity,--,--,0,0,0,TMUS
+Other Comprehensive Income,8,(332),(868),"(1,581)","(1,365)",TMUS
+"Other Equity, Total",8,(332),(868),"(1,581)","(1,365)",TMUS
+Total Equity,"22,559","24,718","28,789","65,344","69,102",TMUS
+Total Liabilities & Shareholders’ Equity,"70,563","72,468","86,921","200,162","206,563",TMUS
+Ttl Comm. Shares Outs.,859,850,857,"1,242","1,249",TMUS
+Trsy. Shrs-Comm. Primary Iss.,1,1,2,2,2,TMUS

@@ -1,0 +1,60 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash and Short Term Invs,84,99,150,447,108,WWD
+"Trade Accts Recvble, Gross",436,599,365,322,369,WWD
+Prov. for Doubtful Accts,(4),(8),(7),(4),(4),WWD
+"Trade Accts Recvble, Net",432,592,538,523,610,WWD
+Other Receivables,6,8,29,12,5,WWD
+"Total Receivables, Net",438,600,567,535,615,WWD
+Invent. - Finished Goods,52,59,67,63,70,WWD
+Invent. - Work In Progress,118,134,93,96,123,WWD
+Invent. - Raw Materials,380,422,380,368,456,WWD
+Inventories - Other,--,(98),(101),(107),(135),WWD
+Total Inventory,550,517,438,420,514,WWD
+Restricted Cash - Current,--,--,3,2,0,WWD
+Other Current Assets,43,56,53,61,75,WWD
+"Other Curr. Assets, Total",43,56,56,63,75,WWD
+Total Current Assets,"1,115","1,271","1,211","1,465","1,312",WWD
+Buildings,583,605,570,573,575,WWD
+Land/Improvements,94,95,83,86,84,WWD
+Machinery/Equipment,794,855,901,920,902,WWD
+Construction in Progress,103,58,36,38,59,WWD
+Other Prop./Plant/Equip.,51,59,80,79,85,WWD
+Prop./Plant/Equip. - Gross,"1,625","1,672","1,670","1,696","1,705",WWD
+Accumulated Depreciation,(565),(613),(654),(726),(769),WWD
+Prop./Plant/Equip. - Net,"1,060","1,059","1,016",970,936,WWD
+"Goodwill, Net",813,798,808,805,773,WWD
+Intangibles - Gross,"1,016",983,962,935,860,WWD
+Accum. Intangible Amort.,(316),(371),(356),(376),(400),WWD
+Intangibles - Net,701,612,607,559,461,WWD
+Long Term Investments,10,8,9,7,8,WWD
+Other Long Term Assets,76,191,237,271,294,WWD
+Total Assets,"3,791","3,957","3,903","4,091","3,806",WWD
+Accounts Payable,226,240,134,171,231,WWD
+Accrued Expenses,148,149,88,109,158,WWD
+Notes Payable/ST Debt,0,0,0,0,67,WWD
+Curr. Port. LT Dbt/Cap Ls.,154,220,102,1,1,WWD
+Customer Advances,10,28,25,30,31,WWD
+Income Taxes Payable,17,19,5,11,35,WWD
+Other Current Liabilities,36,51,39,44,18,WWD
+"Other Curr. Lblts, Total",63,98,68,85,83,WWD
+Total Current Liabilities,591,707,392,366,539,WWD
+Long Term Debt,"1,092",865,736,734,705,WWD
+Capital Lease Obligations,--,--,1,0,4,WWD
+Total Long Term Debt,"1,092",865,737,734,710,WWD
+Total Debt,"1,246","1,085",838,735,777,WWD
+Deferred Income Tax,171,151,164,158,127,WWD
+Reserves,3,2,0,--,--,WWD
+Pension Benefits - Underfunded,91,111,114,107,70,WWD
+Other LT Liabilities,305,393,504,511,459,WWD
+"Other Liabilities, Total",398,506,618,618,529,WWD
+Total Liabilities,"2,253","2,230","1,911","1,876","1,905",WWD
+"Pref. Stock-Non Rdmbl, Net",0,0,0,--,--,WWD
+Common Stock,0,0,0,0,0,WWD
+Additional Paid-In Capital,186,207,232,262,294,WWD
+Ret. Earn.(Accum. Deficit),"1,967","2,225","2,428","2,601","2,727",WWD
+Treasury Stock - Common,(548),(611),(587),(590),"(1,034)",WWD
+"Other Equity, Total",(67),(94),(81),(58),(86),WWD
+Total Equity,"1,538","1,727","1,993","2,215","1,901",WWD
+Total Liabilities & Shareholders’ Equity,"3,791","3,957","3,903","4,091","3,806",WWD
+Ttl Comm. Shares Outs.,62,62,63,63,60,WWD
+Trsy. Shrs-Comm. Primary Iss.,11,11,10,10,13,WWD

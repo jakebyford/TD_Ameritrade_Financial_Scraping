@@ -1,0 +1,57 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"1,059","1,266","1,046","1,158","1,136",YUMC
+Short Term Investments,205,122,611,"3,105","2,860",YUMC
+Cash and Short Term Invs,"1,264","1,388","1,657","4,263","3,996",YUMC
+"Trade Accts Recvble, Gross",81,81,89,100,68,YUMC
+Prov. for Doubtful Accts,(2),(1),(1),(1),(1),YUMC
+"Trade Accts Recvble, Net",79,80,88,99,67,YUMC
+Other Receivables,40,49,41,47,45,YUMC
+"Total Receivables, Net",119,129,129,146,112,YUMC
+Total Inventory,297,307,380,398,432,YUMC
+Prepaid Expenses,122,128,93,129,176,YUMC
+Total Current Assets,"1,802","1,952","2,259","4,936","4,716",YUMC
+Buildings,"2,184","2,121","2,159","2,367","2,695",YUMC
+Machinery/Equipment,"1,204","1,201","1,282","1,490","1,878",YUMC
+Other Prop./Plant/Equip.,28,26,"2,015","2,200","2,664",YUMC
+Prop./Plant/Equip. - Gross,"3,416","3,348","5,456","6,057","7,237",YUMC
+Accumulated Depreciation,"(1,725)","(1,733)","(1,877)","(2,128)","(2,374)",YUMC
+Prop./Plant/Equip. - Net,"1,691","1,615","3,579","3,929","4,863",YUMC
+"Goodwill, Gross",490,648,645,"1,223","2,533",YUMC
+Accum. Goodwill Amort.,(382),(382),(391),(391),(391),YUMC
+"Goodwill, Net",108,266,254,832,"2,142",YUMC
+Intangibles - Gross,392,497,551,865,725,YUMC
+Accum. Intangible Amort.,(104),(132),(143),(175),(225),YUMC
+Intangibles - Net,288,365,408,690,500,YUMC
+LT Invt. - Affiliate Comp.,95,81,89,85,292,YUMC
+LT Investments - Other,--,--,--,--,223,YUMC
+Long Term Investments,95,81,89,85,515,YUMC
+Note Rcvble - Long Term,176,226,243,270,322,YUMC
+Deferred Charges,12,8,9,9,7,YUMC
+Def. Inc. Tax - LT Asset,105,89,95,98,106,YUMC
+Restricted Cash - LT,--,--,9,0,--,YUMC
+Other Long Term Assets,10,8,5,26,52,YUMC
+Total Assets,"4,287","4,610","6,950","10,875","13,223",YUMC
+Accounts Payable,420,619,623,708,830,YUMC
+Accrued Expenses,389,369,819,962,"1,131",YUMC
+Notes Payable/ST Debt,0,0,0,0,0,YUMC
+Curr. Port. LT Dbt/Cap Ls.,--,--,2,2,3,YUMC
+Customer Advances,72,96,135,175,182,YUMC
+Income Taxes Payable,39,54,45,72,51,YUMC
+Other Current Liabilities,104,115,112,148,186,YUMC
+"Other Curr. Lblts, Total",215,265,292,395,419,YUMC
+Total Current Liabilities,"1,024","1,253","1,736","2,067","2,383",YUMC
+Total Long Term Debt,28,25,26,28,40,YUMC
+Total Debt,28,25,28,30,43,YUMC
+Deferred Income Tax,32,65,67,227,425,YUMC
+Minority Interest,82,104,98,265,866,YUMC
+"Other Liabilities, Total",356,290,"1,946","2,082","2,453",YUMC
+Total Liabilities,"1,522","1,737","3,873","4,669","6,167",YUMC
+Common Stock,4,4,4,4,4,YUMC
+Additional Paid-In Capital,"2,375","2,402","2,427","4,658","4,695",YUMC
+Ret. Earn.(Accum. Deficit),397,944,"1,416","2,105","2,892",YUMC
+Treasury Stock - Common,(148),(460),(721),(728),(803),YUMC
+"Other Equity, Total",137,(17),(49),167,268,YUMC
+Total Equity,"2,765","2,873","3,077","6,206","7,056",YUMC
+Total Liabilities & Shareholders’ Equity,"4,287","4,610","6,950","10,875","13,223",YUMC
+Ttl Comm. Shares Outs.,385,379,376,420,428,YUMC
+Trsy. Shrs-Comm. Primary Iss.,4,13,19,20,21,YUMC

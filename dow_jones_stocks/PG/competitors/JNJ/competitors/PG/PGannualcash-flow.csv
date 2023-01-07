@@ -1,0 +1,40 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"9,861","3,966","13,103","14,352","14,793",PG
+Depreciation/Depletion,"2,834","2,824","3,013","2,735","2,807",PG
+Deferred Taxes,"(1,844)",(411),(596),(258),(402),PG
+Unusual Items,170,"7,667",7,496,(85),PG
+Other Non-Cash Items,395,515,558,540,528,PG
+Non-Cash Items,565,"8,182",565,"1,036",443,PG
+"Cash Taxes Pd, Supplemental","2,830","3,064","3,550","3,822","3,818",PG
+"Cash Interest Pd, Suppl",529,497,434,531,451,PG
+Accounts Receivable,(177),(276),634,(342),(694),PG
+Inventories,(188),(239),(637),(309),"(1,247)",PG
+Payable/Accrued,"1,385","1,856","1,923","1,391","1,429",PG
+Changes in Working Capital,"3,451",681,"1,318",506,(918),PG
+Total Cash from Operations,"14,867","15,242","17,403","18,371","16,723",PG
+Capital Expenditures,"(3,717)","(3,347)","(3,073)","(2,787)","(3,156)",PG
+Acquisition of Business,(109),"(3,945)",(58),(34),"(1,381)",PG
+Sale of Fixed Assets,269,394,30,42,110,PG
+Sale/Maturity of Investment,"3,928","3,628","6,151",0,0,PG
+"Investment, Net",27,(62),(5),0,3,PG
+Purchase of Investments,"(3,909)",(158),0,(55),0,PG
+Other Investing Cash Flow,0,--,--,--,--,PG
+"OtherInvestCashFlowItms,Tot",206,(143),"6,118",(47),"(1,268)",PG
+Total Cash from Investing,"(3,511)","(3,490)","3,045","(2,834)","(4,424)",PG
+Cash Divids Paid - Common,--,--,--,--,"(8,489)",PG
+Cash Divs Paid - Preferred,--,--,--,--,(281),PG
+Total Cash Dividends Paid,"(7,310)","(7,498)","(7,789)","(8,263)","(8,770)",PG
+"Common Stock, Net","(7,004)","(5,003)","(7,405)","(11,009)","(10,003)",PG
+Options Exercised,"1,177","3,324","1,978","1,644","2,005",PG
+"Iss (Retirmnt) of Stock,Net","(5,827)","(1,679)","(5,427)","(9,365)","(7,998)",PG
+"Short Term Debt, Net","(3,437)","(2,215)","2,345","(3,333)",(150),PG
+Long Term Debt Issued,"5,072","2,367","4,951","4,417","4,385",PG
+Long Term Debt Reduction,"(2,873)",(969),"(2,447)","(4,987)","(2,343)",PG
+"Long Term Debt, Net","2,199","1,398","2,504",(570),"2,042",PG
+"Iss (Retirmnt) of Debt, Net","(1,238)",(817),"4,849","(3,903)","1,892",PG
+Total Cash From Financing,"(14,375)","(9,994)","(8,367)","(21,531)","(14,876)",PG
+Foreign Exchange Effects,19,(88),(139),101,(497),PG
+Net Change in Cash,"(3,000)","1,670","11,942","(5,893)","(3,074)",PG
+NetCash-BeginBal/RsvdforFutUse,"5,569","2,569","4,239","16,181","10,288",PG
+NetCash-EndBal/RsrvforFutUse,"2,569","4,239","16,181","10,288","7,214",PG
+"Depreciation, Supplemental","2,834","2,824","3,013","2,735","2,807",PG

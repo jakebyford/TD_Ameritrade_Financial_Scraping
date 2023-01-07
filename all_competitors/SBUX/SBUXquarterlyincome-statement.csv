@@ -1,0 +1,42 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Total Revenue,"8,050","7,636","8,150","8,414",SBUX
+"Cost of Revenue, Total","5,927","5,781","5,916","6,256",SBUX
+"Sell/Gen/AdminExpenses,Tot",526,482,487,538,SBUX
+Depreciation/Amortization,366,368,357,357,SBUX
+"Inter/Invest Inc, Operating",(40),(49),(54),(91),SBUX
+Restructuring Charge,(8),4,14,35,SBUX
+Other Unusual Expnse (In),--,--,--,0,SBUX
+Unusual Expense (Income),(8),4,14,35,SBUX
+"Other Operat Expse, Total",102,102,135,123,SBUX
+Total Operating Expense,"6,873","6,687","6,855","7,219",SBUX
+Total Operating Income,"1,178",949,"1,296","1,196",SBUX
+"Inter Expse,Net Non-Operat",(115),(119),(123),(125),SBUX
+"Inter/Invest Inc, Non-Oper",--,46,20,31,SBUX
+"Inter Inc(Exp),Net Non-Oper",0,--,--,--,SBUX
+Income Before Tax,"1,062",876,"1,192","1,101",SBUX
+Income Tax - Total,246,201,279,223,SBUX
+Income After Tax,816,675,914,879,SBUX
+Minority Interest,0,(1),(1),0,SBUX
+Net Inc Before Extra Items,816,675,913,878,SBUX
+Total Net Income,816,675,913,878,SBUX
+Income Available to Common Excl. Extra. Items,816,675,913,878,SBUX
+Income Available to Common Incl. Extra. Items,816,675,913,878,SBUX
+Basic/Primary Weighted Average Shares,"1,170","1,149","1,147","1,147",SBUX
+Basic/Primary EPS Excl. Extra. Items,0.70,0.59,0.80,0.77,SBUX
+Basic/Primary EPS Incl. Extra. Items,0.70,0.59,0.80,0.77,SBUX
+Diluted Weighted Average Shares,"1,177","1,154","1,151","1,153",SBUX
+Diluted EPS Excl. Extra. Items,0.69,0.58,0.79,0.76,SBUX
+Diluted EPS Incl. Extra. Items,0.69,0.58,0.79,0.76,SBUX
+Div/Share-ComStockPrimIssue,0.49,0.49,0.49,0.49,SBUX
+Gross Divid - Common Stock,562,561,562,608,SBUX
+Pro Forma Net Income,--,--,--,--,SBUX
+"Interest Expense, Suppl",115,119,123,125,SBUX
+"Depreciat/Amort, Suppl",336,342,344,315,SBUX
+Total Special Items,(8),4,14,35,SBUX
+Normalzd Income Before Tax,"1,055",881,"1,206","1,136",SBUX
+Efct/SpecItemsIncTxs (STEC),(2),1,3,7,SBUX
+IncTxsExcl ImpctofSpec Itms,245,202,282,230,SBUX
+Normalized Income After Tax,810,678,924,907,SBUX
+Normalzd Inc Avail to Common,810,678,924,906,SBUX
+Basic Normalized EPS,0.69,0.59,0.81,0.79,SBUX
+Diluted Normalized EPS,0.69,0.59,0.80,0.79,SBUX

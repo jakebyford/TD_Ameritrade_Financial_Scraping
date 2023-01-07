@@ -1,0 +1,37 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"13,435","23,906","25,485","(26,967)","29,829",SHEL
+Depreciation/Depletion,"26,223","22,135","28,701","52,444","26,921",SHEL
+Deferred Taxes,"(3,918)",219,--,--,--,SHEL
+Unusual Items,"(1,640)","(2,816)","(1,301)",529,"(5,356)",SHEL
+Equity in Net Earnings/Loss,"(4,225)","(4,106)","(3,604)","(1,783)","(4,097)",SHEL
+Other Non-Cash Items,"14,954","18,256","7,844","5,907","7,025",SHEL
+Non-Cash Items,"9,089","11,334","2,939","4,653","(2,428)",SHEL
+"Cash Taxes Pd, Supplemental","6,307","9,671","7,605","3,290","5,476",SHEL
+"Cash Interest Pd, Suppl","3,550","3,574","4,649","4,105","4,014",SHEL
+Accounts Receivable,"(1,686)","1,955",(921),"9,625","(20,567)",SHEL
+Inventories,"(2,079)","2,823","(2,635)","4,477","(7,319)",SHEL
+Payable/Accrued,607,"(1,336)","(1,223)","(9,494)","17,519",SHEL
+Changes in Working Capital,"(9,179)","(4,509)","(14,947)","3,975","(9,218)",SHEL
+Total Cash from Operations,"35,650","53,085","42,178","34,105","45,104",SHEL
+Capital Expenditures,"(20,845)","(23,011)","(22,971)","(16,585)","(19,000)",SHEL
+Acquisition of Business,0,0,--,--,--,SHEL
+Sale of Fixed Assets,"8,808","4,366","4,803","2,489","14,233",SHEL
+Sale/Maturity of Investment,"2,177","1,594","3,068","1,521",880,SHEL
+Purchase of Investments,(595),(880),(948),"(1,242)",(697),SHEL
+Other Investing Cash Flow,"2,426","4,272",269,539,(177),SHEL
+"OtherInvestCashFlowItms,Tot","12,816","9,352","7,192","3,307","14,239",SHEL
+Total Cash from Investing,"(8,029)","(13,659)","(15,779)","(13,278)","(4,761)",SHEL
+Financing Cash Flow Items,"(4,380)","(4,595)","(6,408)","(3,683)","(5,793)",SHEL
+Total Cash Dividends Paid,"(10,877)","(15,675)","(15,198)","(7,424)","(6,253)",SHEL
+"Iss (Retirmnt) of Stock,Net",0,"(3,947)","(10,188)","(1,702)","(2,889)",SHEL
+"Short Term Debt, Net",(869),(396),(308),(63),14,SHEL
+Long Term Debt Issued,760,"3,977","11,185","23,033","1,791",SHEL
+Long Term Debt Reduction,"(11,720)","(11,912)","(14,292)","(17,385)","(21,534)",SHEL
+"Long Term Debt, Net","(10,960)","(7,935)","(3,107)","5,648","(19,743)",SHEL
+"Iss (Retirmnt) of Debt, Net","(11,829)","(8,331)","(3,415)","5,585","(19,729)",SHEL
+Total Cash From Financing,"(27,086)","(32,548)","(35,209)","(7,224)","(34,664)",SHEL
+Foreign Exchange Effects,647,(449),124,172,(539),SHEL
+Net Change in Cash,"1,182","6,429","(8,686)","13,775","5,140",SHEL
+NetCash-BeginBal/RsvdforFutUse,"19,130","20,312","26,741","18,055","31,830",SHEL
+NetCash-EndBal/RsrvforFutUse,"20,312","26,741","18,055","31,830","36,970",SHEL
+"Depreciation, Supplemental","26,223","22,135","28,701","52,444","26,921",SHEL

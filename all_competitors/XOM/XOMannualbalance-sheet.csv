@@ -1,0 +1,53 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash and Short Term Invs,"3,177","3,042","3,089","4,364","6,802",XOM
+"Trade Accts Recvble, Gross","21,346","19,699","21,134","16,435","27,042",XOM
+Prov. for Doubtful Accts,(72),(61),(34),(96),(159),XOM
+"Trade Accts Recvble, Net","21,274","19,638","21,100","16,339","26,883",XOM
+Other Receivables,"4,323","5,063","5,866","4,242","5,500",XOM
+"Total Receivables, Net","25,597","24,701","26,966","20,581","32,383",XOM
+Invent. - Finished Goods,"12,871","14,803","14,010","14,169","14,519",XOM
+Invent. - Raw Materials,"4,121","4,155","4,518","4,681","4,261",XOM
+Total Inventory,"16,992","18,958","18,528","18,850","18,780",XOM
+"Other Curr. Assets, Total","1,368","1,272","1,469","1,098","1,189",XOM
+Total Current Assets,"47,134","47,973","50,052","44,893","59,154",XOM
+Machinery/Equipment,"460,213","460,040","469,356","487,404","477,048",XOM
+Other Prop./Plant/Equip.,"16,972","17,150","23,979","23,996","24,096",XOM
+Prop./Plant/Equip. - Gross,"477,185","477,190","493,335","511,400","501,144",XOM
+Accumulated Depreciation,"(224,555)","(230,089)","(233,684)","(277,769)","(278,510)",XOM
+Prop./Plant/Equip. - Net,"252,630","247,101","259,651","233,631","222,634",XOM
+LT Invt. - Affiliate Comp.,"33,466","34,990","37,833","38,584","39,551",XOM
+LT Investments - Other,174,210,190,143,138,XOM
+Long Term Investments,"33,640","35,200","38,023","38,727","39,689",XOM
+Note Rcvble - Long Term,"5,520","5,590","5,141","4,788","5,506",XOM
+Other Long Term Assets,"9,767","10,332","9,730","10,711","11,940",XOM
+Total Assets,"348,691","346,196","362,597","332,750","338,923",XOM
+Accounts Payable,"21,701","21,063",--,--,--,XOM
+Payable/Accrued,--,--,"40,605","34,049","49,395",XOM
+Accrued Expenses,"9,642","9,342","1,211","1,168","1,367",XOM
+Notes Payable/ST Debt,"13,164","13,188","18,877","17,528","1,884",XOM
+Curr. Port. LT Dbt/Cap Ls.,"4,766","4,070","1,716","2,934","2,396",XOM
+Income Taxes Payable,"3,045","2,612","1,580",684,"1,601",XOM
+Other Payables,"5,453","6,863",--,--,--,XOM
+"Other Curr. Lblts, Total","8,498","9,475","1,580",684,"1,601",XOM
+Total Current Liabilities,"57,771","57,138","63,989","56,363","56,643",XOM
+Long Term Debt,"23,079","19,235","24,672","45,502","41,667",XOM
+Capital Lease Obligations,"1,327","1,303","1,809","1,815","1,892",XOM
+Total Long Term Debt,"24,406","20,538","26,481","47,317","43,559",XOM
+Total Debt,"42,336","37,796","47,074","67,779","47,839",XOM
+Deferred Income Tax,"26,893","27,244","25,620","18,165","20,165",XOM
+Minority Interest,"6,812","6,734","7,288","6,980","7,106",XOM
+Pension Benefits - Underfunded,"21,132","20,272","22,304","22,415","18,430",XOM
+Other LT Liabilities,"23,989","22,476","25,265","24,360","24,443",XOM
+"Other Liabilities, Total","45,121","42,748","47,569","46,775","42,873",XOM
+Total Liabilities,"161,003","154,402","170,947","175,600","170,346",XOM
+Common Stock,"14,656","15,258","15,637","15,688","15,746",XOM
+Ret. Earn.(Accum. Deficit),"414,540","421,653","421,341","383,943","392,059",XOM
+Treasury Stock - Common,"(225,246)","(225,553)","(225,835)","(225,776)","(225,464)",XOM
+Unrealized Gain (Loss),0,--,--,--,--,XOM
+Cum. Trans. Adjustment,"(9,482)","(13,881)","(12,446)","(10,614)","(11,499)",XOM
+Min. Pension Lblty Adj.,"(6,780)","(5,683)","(7,047)","(6,091)","(2,265)",XOM
+"Other Equity, Total","(16,262)","(19,564)","(19,493)","(16,705)","(13,764)",XOM
+Total Equity,"187,688","191,794","191,650","157,150","168,577",XOM
+Total Liabilities & Shareholders’ Equity,"348,691","346,196","362,597","332,750","338,923",XOM
+Ttl Comm. Shares Outs.,"4,239","4,237","4,234","4,233","4,239",XOM
+Trsy. Shrs-Comm. Primary Iss.,"3,780","3,782","3,785","3,786","3,780",XOM

@@ -1,0 +1,44 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"35,865","38,973","41,717","32,137","48,550",TJX
+"Cost of Revenue, Total","25,543","27,768","26,865","21,550","31,421",TJX
+"Sell/Gen/AdminExpenses,Tot","6,374","6,907","10,426","10,004","12,374",TJX
+Impair-Assets Held for Use,99,0,0,--,--,TJX
+Other Unusual Expnse (In),0,36,0,312,242,TJX
+Unusual Expense (Income),99,36,0,312,242,TJX
+Total Operating Expense,"32,016","34,712","37,290","31,867","44,037",TJX
+Total Operating Income,"3,848","4,261","4,426",270,"4,513",TJX
+"Inter Expse, Non-Operating",(69),(69),(61),(199),(123),TJX
+"Inter Capital, Non-Operat",5,4,2,5,4,TJX
+"Inter Expse,Net Non-Operat",(64),(65),(59),(194),(119),TJX
+"Inter Income, Non-Operating",33,56,49,13,4,TJX
+"Invest Income, Non-Operat",40,(79),(10),--,--,TJX
+"Inter/Invest Inc, Non-Oper",72,(23),39,13,4,TJX
+"Inter Inc(Exp),Net Non-Oper",--,--,0,0,0,TJX
+Income Before Tax,"3,857","4,173","4,406",89,"4,398",TJX
+Income Tax - Total,"1,337","1,113","1,134",(1),"1,115",TJX
+Income After Tax,"2,520","3,060","3,272",90,"3,283",TJX
+Net Inc Before Extra Items,"2,520","3,060","3,272",90,"3,283",TJX
+Total Extraordinary Items,88,--,--,--,--,TJX
+Total Net Income,"2,608","3,060","3,272",90,"3,283",TJX
+Income Available to Common Excl. Extra. Items,"2,520","3,060","3,272",90,"3,283",TJX
+Income Available to Common Incl. Extra. Items,"2,608","3,060","3,272",90,"3,283",TJX
+Basic/Primary Weighted Average Shares,"1,274","1,241","1,208","1,200","1,200",TJX
+Basic/Primary EPS Excl. Extra. Items,1.98,2.47,2.71,0.08,2.74,TJX
+Basic/Primary EPS Incl. Extra. Items,2.05,2.47,2.71,0.08,2.74,TJX
+Diluted Weighted Average Shares,"1,292","1,259","1,227","1,215","1,216",TJX
+Diluted EPS Excl. Extra. Items,1.95,2.43,2.67,0.07,2.70,TJX
+Diluted EPS Incl. Extra. Items,2.02,2.43,2.67,0.07,2.70,TJX
+Div/Share-ComStockPrimIssue,0.60,0.74,0.89,0.75,0.52,TJX
+Gross Divid - Common Stock,794,966,"1,112",312,"1,248",TJX
+Pro Forma Net Income,--,--,--,--,--,TJX
+"Interest Expense, Suppl",64,65,59,194,119,TJX
+"Interest Capitalized, Suppl",(5),(4),(2),(5),(4),TJX
+"Depreciat/Amort, Suppl",726,820,867,871,868,TJX
+Total Special Items,99,36,0,812,242,TJX
+Normalzd Income Before Tax,"3,956","4,209","4,406",901,"4,640",TJX
+Efct/SpecItemsIncTxs (STEC),34,10,0,284,61,TJX
+IncTxsExcl ImpctofSpec Itms,"1,371","1,123","1,134",283,"1,176",TJX
+Normalized Income After Tax,"2,585","3,086","3,272",618,"3,464",TJX
+Normalzd Inc Avail to Common,"2,585","3,086","3,272",618,"3,464",TJX
+Basic Normalized EPS,2.03,2.49,2.71,0.52,2.89,TJX
+Diluted Normalized EPS,2.00,2.45,2.67,0.51,2.85,TJX

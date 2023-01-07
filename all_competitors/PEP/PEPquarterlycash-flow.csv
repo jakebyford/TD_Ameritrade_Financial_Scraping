@@ -1,0 +1,41 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"7,679","4,273","5,719","8,443",PEP
+Depreciation/Depletion,"2,710",555,"1,195","1,854",PEP
+Deferred Taxes,298,257,49,(322),PEP
+Extraordinary Item,(119),--,(309),(223),PEP
+Unusual Items,(189),"(2,806)","(1,441)","(1,424)",PEP
+Other Non-Cash Items,144,5,304,479,PEP
+Non-Cash Items,(164),"(2,801)","(1,446)","(1,168)",PEP
+Accounts Receivable,(651),(837),"(1,753)","(2,258)",PEP
+Inventories,(582),(549),(990),(837),PEP
+Prepaid Expenses,159,(190),(186),(124),PEP
+Payable/Accrued,"1,762","(1,238)",(990),426,PEP
+Changes in Working Capital,"1,093","(2,458)","(3,636)","(2,501)",PEP
+Total Cash from Operations,"11,616",(174),"1,881","6,306",PEP
+Capital Expenditures,"(4,625)",(522),"(1,499)","(2,556)",PEP
+Sale of Business,169,5,15,15,PEP
+Sale of Fixed Assets,166,3,222,228,PEP
+Sale/Maturity of Investment,"1,135",0,0,0,PEP
+"Investment, Net",(58),22,8,9,PEP
+Purchase of Investments,(61),(13),(29),(850),PEP
+Other Investing Cash Flow,5,"3,460","3,455","3,463",PEP
+"OtherInvestCashFlowItms,Tot","1,356","3,477","3,671","2,865",PEP
+Total Cash from Investing,"(3,269)","2,955","2,172",309,PEP
+Financing Cash Flow Items,(912),(86),(102),(122),PEP
+Total Cash Dividends Paid,"(5,815)","(1,505)","(2,997)","(4,586)",PEP
+"Common Stock, Net",(106),(193),(699),"(1,156)",PEP
+Options Exercised,185,49,89,113,PEP
+"Iss (Retirmnt) of Stock,Net",79,(144),(610),"(1,043)",PEP
+Short Term Debt Issued,8,559,"1,935","1,947",PEP
+Short Term Debt Reduction,(397),0,0,"(1,932)",PEP
+"Short Term Debt, Net",45,"1,206","2,779",(30),PEP
+Long Term Debt Issued,"4,122",--,--,"3,377",PEP
+Long Term Debt Reduction,"(8,299)","(1,251)","(3,202)","(3,203)",PEP
+"Long Term Debt, Net","(4,177)","(1,251)","(3,202)",174,PEP
+"Iss (Retirmnt) of Debt, Net","(4,132)",(45),(423),144,PEP
+Total Cash From Financing,"(10,780)","(1,780)","(4,132)","(5,607)",PEP
+Foreign Exchange Effects,(114),(17),(83),(197),PEP
+Net Change in Cash,"(2,547)",984,(162),811,PEP
+NetCash-BeginBal/RsvdforFutUse,"8,254","5,707","5,707","5,707",PEP
+NetCash-EndBal/RsrvforFutUse,"5,707","6,691","5,545","6,518",PEP
+"Depreciation, Supplemental","2,710",555,"1,195","1,854",PEP

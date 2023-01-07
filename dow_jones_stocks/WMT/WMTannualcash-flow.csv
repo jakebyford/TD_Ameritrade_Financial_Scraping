@@ -1,0 +1,37 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"10,523","7,179","15,201","13,706","13,940",WMT
+Depreciation/Depletion,"10,529","10,678","10,987","11,152","10,658",WMT
+Deferred Taxes,(304),(499),320,"1,911",(755),WMT
+Unusual Items,"3,136","8,366","(1,871)",(188),"5,283",WMT
+Other Non-Cash Items,"1,210","1,734",945,"1,521","1,652",WMT
+Non-Cash Items,"4,346","10,100",(926),"1,333","6,935",WMT
+"Cash Taxes Pd, Supplemental","6,179","3,982","3,616","5,271","5,918",WMT
+"Cash Interest Pd, Suppl","2,450","2,348","2,464","2,216","2,237",WMT
+Accounts Receivable,"(1,074)",(368),154,"(1,086)","(1,796)",WMT
+Inventories,(140),"(1,311)",(300),"(2,395)","(11,764)",WMT
+Accounts Payable,"4,086","1,831",(274),"6,966","5,520",WMT
+Accrued Expenses,928,183,186,"4,623","1,404",WMT
+Changes in Working Capital,"3,243",295,(327),"7,972","(4,749)",WMT
+Total Cash from Operations,"28,337","27,753","25,255","36,074","26,029",WMT
+Capital Expenditures,"(10,051)","(10,344)","(10,705)","(10,264)","(13,106)",WMT
+Acquisition of Business,(375),"(14,656)",(56),(180),(359),WMT
+Sale of Business,"1,046",876,833,56,"7,935",WMT
+Sale of Fixed Assets,378,519,321,215,394,WMT
+Purchase of Investments,0,0,--,--,--,WMT
+Other Investing Cash Flow,(77),(431),479,102,(879),WMT
+"OtherInvestCashFlowItms,Tot",972,"(13,692)","1,577",193,"7,091",WMT
+Total Cash from Investing,"(9,079)","(24,036)","(9,128)","(10,071)","(6,015)",WMT
+Financing Cash Flow Items,"(4,018)","(1,060)","(1,463)","(1,670)","(1,017)",WMT
+Total Cash Dividends Paid,"(6,124)","(6,102)","(6,048)","(6,116)","(6,152)",WMT
+"Iss (Retirmnt) of Stock,Net","(8,296)","(7,410)","(5,717)","(2,625)","(9,787)",WMT
+"Short Term Debt, Net","4,148",(53),"(4,656)",(324),193,WMT
+Long Term Debt Issued,"7,476","15,872","5,492",0,"6,945",WMT
+Long Term Debt Reduction,"(13,061)","(3,784)","(1,907)","(5,382)","(13,010)",WMT
+"Long Term Debt, Net","(5,585)","12,088","3,585","(5,382)","(6,065)",WMT
+"Iss (Retirmnt) of Debt, Net","(1,437)","12,035","(1,071)","(5,706)","(5,872)",WMT
+Total Cash From Financing,"(19,875)","(2,537)","(14,299)","(16,117)","(22,828)",WMT
+Foreign Exchange Effects,487,(438),(69),235,(140),WMT
+Net Change in Cash,(130),742,"1,759","10,121","(2,954)",WMT
+NetCash-BeginBal/RsvdforFutUse,"7,144","7,014","7,756","7,667","17,788",WMT
+NetCash-EndBal/RsrvforFutUse,"7,014","7,756","9,515","17,788","14,834",WMT
+"Depreciation, Supplemental","10,529","10,678","10,987","11,152","10,658",WMT

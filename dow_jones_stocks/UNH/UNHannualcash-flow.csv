@@ -1,0 +1,35 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"10,823","12,382","14,239","15,769","17,732",UNH
+Depreciation/Depletion,"2,245","2,428","2,720","2,891","3,103",UNH
+Deferred Taxes,(965),42,230,(8),130,UNH
+Non-Cash Items,814,567,591,627,(144),UNH
+"Cash Taxes Pd, Supplemental","4,004","3,257","3,542","4,935","3,966",UNH
+"Cash Interest Pd, Suppl","1,133","1,410","1,627","1,704","1,653",UNH
+Accounts Receivable,"(1,062)","(1,351)",162,(688),"(1,000)",UNH
+Other Assets,(630),(750),"(1,563)","(2,195)","(1,031)",UNH
+Payable/Accrued,930,526,733,"5,348","1,162",UNH
+Changes in Working Capital,679,294,683,"2,895","1,522",UNH
+Total Cash from Operations,"13,596","15,713","18,463","22,174","22,343",UNH
+Capital Expenditures,"(2,023)","(2,063)","(2,071)","(2,051)","(2,454)",UNH
+Acquisition of Business,"(2,131)","(5,997)","(8,343)","(7,139)","(4,821)",UNH
+Sale/Maturity of Investment,"10,269","9,911","15,627","13,741","15,296",UNH
+Purchase of Investments,"(14,588)","(14,010)","(18,131)","(16,577)","(17,139)",UNH
+Other Investing Cash Flow,(126),(226),219,(506),"(1,254)",UNH
+"OtherInvestCashFlowItms,Tot","(6,576)","(10,322)","(10,628)","(10,481)","(7,918)",UNH
+Total Cash from Investing,"(8,599)","(12,385)","(12,699)","(12,532)","(10,372)",UNH
+Financing Cash Flow Items,"2,759","(1,517)","(1,224)","1,218","(1,011)",UNH
+Total Cash Dividends Paid,"(2,773)","(3,320)","(3,932)","(4,584)","(5,280)",UNH
+Sale/Issuance of Common,688,838,"1,037","1,440","1,355",UNH
+Repurch/Retirement Common,"(1,500)","(4,500)","(5,500)","(4,250)","(5,000)",UNH
+"Iss (Retirmnt) of Stock,Net",(812),"(3,662)","(4,463)","(2,810)","(3,645)",UNH
+"Short Term Debt, Net","(3,508)",(201),300,872,"(1,302)",UNH
+Long Term Debt Issued,"5,291","6,935","5,444","4,864","6,933",UNH
+Long Term Debt Reduction,"(4,398)","(2,600)","(1,750)","(3,150)","(3,150)",UNH
+"Long Term Debt, Net",893,"4,335","3,694","1,714","3,783",UNH
+"Iss (Retirmnt) of Debt, Net","(2,615)","4,134","3,994","2,586","2,481",UNH
+Total Cash From Financing,"(3,441)","(4,365)","(5,625)","(3,590)","(7,455)",UNH
+Foreign Exchange Effects,(5),(78),(20),(116),(62),UNH
+Net Change in Cash,"1,551","(1,115)",119,"5,936","4,454",UNH
+NetCash-BeginBal/RsvdforFutUse,"10,430","11,981","10,866","10,985","16,921",UNH
+NetCash-EndBal/RsrvforFutUse,"11,981","10,866","10,985","16,921","21,375",UNH
+"Depreciation, Supplemental","2,245","2,428","2,720","2,891","3,103",UNH

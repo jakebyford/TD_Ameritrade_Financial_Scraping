@@ -1,0 +1,38 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Total Revenue,"6,065","6,015","5,901","6,083",RAD
+"Cost of Revenue, Total","4,824","4,818","4,747","4,880",RAD
+"Sell/Gen/AdminExpenses,Tot","1,234","1,195","1,181","1,195",RAD
+Restructuring Charge,10,23,13,--,RAD
+Impair-Assets Held for Use,328,35,287,0,RAD
+Other Unusual Expnse (In),13,32,(30),23,RAD
+Unusual Expense (Income),351,89,270,23,RAD
+Total Operating Expense,"6,409","6,102","6,197","6,097",RAD
+Total Operating Income,(344),(88),(296),(13),RAD
+Gain(Loss)on Sale of Assets,(6),29,29,3,RAD
+Income Before Tax,(396),(107),(319),(68),RAD
+Income Tax - Total,(7),3,12,(1),RAD
+Income After Tax,(389),(110),(331),(67),RAD
+Net Inc Before Extra Items,(389),(110),(331),(67),RAD
+Total Extraordinary Items,0,--,--,--,RAD
+Total Net Income,(389),(110),(331),(67),RAD
+Income Available to Common Excl. Extra. Items,(389),(110),(331),(67),RAD
+Income Available to Common Incl. Extra. Items,(389),(110),(331),(67),RAD
+Basic/Primary Weighted Average Shares,54,54,55,55,RAD
+Basic/Primary EPS Excl. Extra. Items,(7.18),(2.03),(6.07),(1.23),RAD
+Basic/Primary EPS Incl. Extra. Items,(7.18),(2.03),(6.07),(1.23),RAD
+Diluted Weighted Average Shares,54,54,55,55,RAD
+Diluted EPS Excl. Extra. Items,(7.18),(2.03),(6.07),(1.23),RAD
+Diluted EPS Incl. Extra. Items,(7.18),(2.03),(6.07),(1.23),RAD
+Div/Share-ComStockPrimIssue,0.00,0.00,0.00,--,RAD
+Gross Divid - Common Stock,0,0,0,--,RAD
+Pro Forma Net Income,--,--,--,--,RAD
+"Interest Expense, Suppl",46,48,53,57,RAD
+"Depreciat/Amort, Suppl",54,49,50,52,RAD
+Total Special Items,362,86,262,20,RAD
+Normalzd Income Before Tax,(34),(20),(58),(48),RAD
+Efct/SpecItemsIncTxs (STEC),127,30,92,7,RAD
+IncTxsExcl ImpctofSpec Itms,120,34,104,6,RAD
+Normalized Income After Tax,(154),(54),(161),(54),RAD
+Normalzd Inc Avail to Common,(154),(54),(161),(54),RAD
+Basic Normalized EPS,(2.84),(1.00),(2.95),(0.99),RAD
+Diluted Normalized EPS,(2.84),(1.00),(2.95),(0.99),RAD

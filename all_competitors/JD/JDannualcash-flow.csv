@@ -1,0 +1,51 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,(12),"(2,801)","11,890","49,337","(4,467)",JD
+Depreciation/Depletion,"4,193","5,560","5,828","6,068","6,232",JD
+Deferred Taxes,(221),(10),533,(719),(651),JD
+Discontinued Operations,"(2,493)",0,0,--,--,JD
+Unusual Items,(137),989,"(6,684)","(31,056)","6,895",JD
+Equity in Net Earnings/Loss,"1,927","1,113","1,738","(4,291)","4,918",JD
+Other Non-Cash Items,"2,793","3,674","3,710","4,528","9,856",JD
+Non-Cash Items,"2,091","5,776","(1,236)","(30,820)","21,669",JD
+"Cash Taxes Pd, Supplemental",241,666,808,"1,190","1,221",JD
+"Cash Interest Pd, Suppl",577,421,679,"1,020","2,538",JD
+Accounts Receivable,"1,911","6,057","2,436",171,"(5,910)",JD
+Inventories,"(12,788)","(2,342)","(13,916)",799,"(16,697)",JD
+Prepaid Expenses,(328),(899),486,(260),"(2,539)",JD
+Other Assets,(510),(30),"(1,944)","(6,093)","(5,853)",JD
+Accounts Payable,"26,106","5,467","10,391","11,095","32,585",JD
+Accrued Expenses,"4,624","5,158","5,939","8,017","9,437",JD
+Changes in Working Capital,"20,806","12,356","7,766","18,678","19,518",JD
+Total Cash from Operations,"26,857","20,881","24,781","42,544","42,301",JD
+Purchase of Fixed Assets,"(3,294)","(9,743)","(2,597)","(3,370)","(5,562)",JD
+Purchase/Acq of Intangibles,"(4,794)","(4,267)","(1,081)","(1,538)","(7,848)",JD
+Capital Expenditures,"(8,089)","(14,011)","(3,678)","(4,908)","(13,410)",JD
+Acquisition of Business,(161),(20),(41),--,"(1,924)",JD
+Sale of Business,"13,027",0,"7,905","5,458","3,549",JD
+Sale of Fixed Assets,--,--,--,--,"1,765",JD
+Sale/Maturity of Investment,"7,414","10,977","6,634","35,379","126,934",JD
+Purchase of Investments,"(23,321)","(24,478)","(35,781)","(78,807)","(181,916)",JD
+Other Investing Cash Flow,"(28,687)","1,452",(389),"(14,933)","(9,246)",JD
+"OtherInvestCashFlowItms,Tot","(31,727)","(12,068)","(21,672)","(52,903)","(60,838)",JD
+Total Cash from Investing,"(39,815)","(26,079)","(25,349)","(57,811)","(74,248)",JD
+Financing Cash Flow Items,"15,145",977,"6,644","34,571","26,811",JD
+Sale/Issuance of Common,136,"3,580",112,"31,577",62,JD
+Repurch/Retirement Common,0,(206),(131),(312),"(5,246)",JD
+"Common Stock, Net",136,"3,375",(19),"31,266","(5,184)",JD
+"Preferred Stock, Net",0,"15,959",0,443,0,JD
+"Iss (Retirmnt) of Stock,Net",136,"19,333",(19),"31,709","(5,184)",JD
+Short Term Debt Issued,700,"1,179","5,804","14,766","7,133",JD
+Short Term Debt Reduction,"(2,357)","(1,200)","(5,970)","(16,582)","(5,982)",JD
+"Short Term Debt, Net","(1,657)",(21),(166),"(1,816)","1,151",JD
+Long Term Debt Issued,0,"2,891",0,"6,804",0,JD
+Long Term Debt Reduction,--,--,--,(196),"(3,275)",JD
+"Long Term Debt, Net",0,"2,891",0,"6,608","(3,275)",JD
+Total Debt Issued,"16,500",0,0,--,--,JD
+Total Debt Reduction,"(10,889)","(11,960)","(3,886)",0,--,JD
+"Iss (Retirmnt) of Debt, Net","3,954","(9,090)","(4,052)","4,792","(2,124)",JD
+Total Cash From Financing,"19,235","11,220","2,572","71,072","19,503",JD
+Foreign Exchange Effects,(642),"1,681",406,"(5,082)","(1,498)",JD
+Net Change in Cash,"5,635","7,704","2,410","50,723","(13,942)",JD
+NetCash-BeginBal/RsvdforFutUse,"24,164","29,799","37,502","39,912","90,635",JD
+NetCash-EndBal/RsrvforFutUse,"29,799","37,502","39,912","90,635","76,693",JD
+"Depreciation, Supplemental","4,193","5,560","5,828","6,068","6,232",JD

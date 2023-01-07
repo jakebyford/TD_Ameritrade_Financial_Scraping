@@ -1,0 +1,44 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"24,804","23,426","24,020","23,791",JNJ
+"Cost of Revenue, Total","7,955","7,582","7,902","7,794",JNJ
+"Sell/Gen/AdminExpenses,Tot","7,154","5,938","6,226","6,089",JNJ
+Research & Development,"4,720","3,462","3,703","3,597",JNJ
+"Inter Expense,Net Operatng",60,10,38,51,JNJ
+"Interest Income, Operating",(13),(22),(64),(150),JNJ
+"Invest Income, Operating",(200),400,100,200,JNJ
+"Inter/Invest Inc, Operating",(213),378,36,50,JNJ
+Purchased R&D Written-Off,0,610,--,0,JNJ
+Restructuring Charge,83,72,128,123,JNJ
+Litigation,200,--,400,200,JNJ
+Impair-Assets Held for Use,951,--,--,--,JNJ
+Other Unusual Expnse (In),0,100,300,400,JNJ
+Unusual Expense (Income),"1,234",782,828,723,JNJ
+"Other Operat Expse, Total",(942),(588),(553),(335),JNJ
+Total Operating Expense,"19,968","17,564","18,180","17,969",JNJ
+Total Operating Income,"4,836","5,862","5,840","5,822",JNJ
+Income Before Tax,"4,836","5,862","5,840","5,822",JNJ
+Income Tax - Total,100,713,"1,026","1,364",JNJ
+Income After Tax,"4,736","5,149","4,814","4,458",JNJ
+Net Inc Before Extra Items,"4,736","5,149","4,814","4,458",JNJ
+Total Net Income,"4,736","5,149","4,814","4,458",JNJ
+Income Available to Common Excl. Extra. Items,"4,736","5,149","4,814","4,458",JNJ
+Income Available to Common Incl. Extra. Items,"4,736","5,149","4,814","4,458",JNJ
+Basic/Primary Weighted Average Shares,"2,632","2,629","2,630","2,628",JNJ
+Basic/Primary EPS Excl. Extra. Items,1.80,1.96,1.83,1.70,JNJ
+Basic/Primary EPS Incl. Extra. Items,1.80,1.96,1.83,1.70,JNJ
+Diluted Weighted Average Shares,"2,672","2,667","2,668","2,661",JNJ
+Diluted EPS Excl. Extra. Items,1.77,1.93,1.80,1.68,JNJ
+Diluted EPS Incl. Extra. Items,1.77,1.93,1.80,1.68,JNJ
+Div/Share-ComStockPrimIssue,1.06,1.06,1.13,1.13,JNJ
+Gross Divid - Common Stock,"2,791","2,787","2,971","2,970",JNJ
+Pro Forma Net Income,--,--,--,--,JNJ
+"Interest Expense, Suppl",60,10,38,51,JNJ
+"Depreciat/Amort, Suppl",743,669,644,685,JNJ
+Total Special Items,"1,234",782,"1,028",923,JNJ
+Normalzd Income Before Tax,"6,070","6,644","6,868","6,745",JNJ
+Efct/SpecItemsIncTxs (STEC),26,21,181,216,JNJ
+IncTxsExcl ImpctofSpec Itms,126,734,"1,207","1,580",JNJ
+Normalized Income After Tax,"5,944","5,910","5,661","5,165",JNJ
+Normalzd Inc Avail to Common,"5,944","5,910","5,661","5,165",JNJ
+Basic Normalized EPS,2.26,2.25,2.15,1.97,JNJ
+Diluted Normalized EPS,2.22,2.22,2.12,1.94,JNJ

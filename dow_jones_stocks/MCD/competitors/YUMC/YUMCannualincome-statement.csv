@@ -1,0 +1,43 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"7,769","8,415","8,776","8,263","9,853",YUMC
+"Cost of Revenue, Total","4,169","4,635","4,931","4,705","5,719",YUMC
+"Sell/Gen/AdminExpenses,Tot","2,740","2,850","2,859","2,703","3,225",YUMC
+Depreciation/Amortization,--,--,1,2,3,YUMC
+"Inter/Invest Inc, Operating",(64),(54),(60),(49),(58),YUMC
+Other Unusual Expnse (In),47,(57),36,(181),(594),YUMC
+Unusual Expense (Income),47,(57),36,(181),(594),YUMC
+"Other Operat Expse, Total",99,100,108,122,129,YUMC
+Total Operating Expense,"6,991","7,474","7,875","7,302","8,424",YUMC
+Total Operating Income,778,941,901,961,"1,429",YUMC
+"Inter Expse,Net Non-Operat",--,--,--,--,(2),YUMC
+"Inter/Invest Inc, Non-Oper",0,(27),63,104,(54),YUMC
+"Inter Inc(Exp),Net Non-Oper",25,36,39,43,62,YUMC
+"Other, Net",0,0,0,--,(43),YUMC
+Income Before Tax,803,950,"1,003","1,108","1,392",YUMC
+Income Tax - Total,215,250,252,295,369,YUMC
+Income After Tax,588,700,751,813,"1,023",YUMC
+Minority Interest,(26),(28),(30),(29),(33),YUMC
+Net Inc Before Extra Items,562,672,721,784,990,YUMC
+Total Extraordinary Items,(164),36,(8),--,--,YUMC
+Total Net Income,398,708,713,784,990,YUMC
+Income Available to Common Excl. Extra. Items,562,672,721,784,990,YUMC
+Income Available to Common Incl. Extra. Items,398,708,713,784,990,YUMC
+Basic/Primary Weighted Average Shares,387,384,377,390,422,YUMC
+Basic/Primary EPS Excl. Extra. Items,1.45,1.75,1.91,2.01,2.35,YUMC
+Basic/Primary EPS Incl. Extra. Items,1.03,1.84,1.89,2.01,2.35,YUMC
+Diluted Weighted Average Shares,398,395,388,402,434,YUMC
+Diluted EPS Excl. Extra. Items,1.41,1.70,1.86,1.95,2.28,YUMC
+Diluted EPS Incl. Extra. Items,1.00,1.79,1.84,1.95,2.28,YUMC
+Div/Share-ComStockPrimIssue,0.10,0.42,0.48,0.24,0.48,YUMC
+Gross Divid - Common Stock,5,161,181,95,203,YUMC
+Pro Forma Net Income,--,--,--,--,--,YUMC
+"Interest Expense, Suppl",--,--,2,2,2,YUMC
+"Depreciat/Amort, Suppl",395,419,412,426,471,YUMC
+Total Special Items,47,(17),85,(210),(550),YUMC
+Normalzd Income Before Tax,850,933,"1,088",898,842,YUMC
+Efct/SpecItemsIncTxs (STEC),13,(4),1,60,155,YUMC
+IncTxsExcl ImpctofSpec Itms,228,246,253,355,524,YUMC
+Normalized Income After Tax,622,687,835,543,318,YUMC
+Normalzd Inc Avail to Common,596,659,805,514,285,YUMC
+Basic Normalized EPS,1.54,1.72,2.14,1.32,0.68,YUMC
+Diluted Normalized EPS,1.50,1.67,2.07,1.28,0.66,YUMC

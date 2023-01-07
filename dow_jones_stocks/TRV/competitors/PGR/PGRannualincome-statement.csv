@@ -1,0 +1,49 @@
+items,2017,2018,2019,2020,2021,ticker
+Gross Premiums Written,"26,426","31,970","37,520","40,569","46,405",PGR
+Other Insurance Revenue,497,631,759,830,963,PGR
+Reinsurance - Income,(696),"(1,037)","(1,327)","(1,307)","(2,037)",PGR
+Total Premiums Earned,"26,227","31,564","36,951","40,092","45,332",PGR
+Net Investment Income,539,796,"1,017",917,835,PGR
+Realized Gains (Losses),50,(406),"1,029","1,630","1,509",PGR
+Total Revenue,"26,816","31,955","38,998","42,638","47,677",PGR
+"Losses, Benies & Adjusts","18,808","21,721","25,471","25,122","33,628",PGR
+Underwriting & Commissions,"3,481","4,196","4,975","5,570","5,655",PGR
+"Losses,Benies& Adjmts,Total","22,289","25,917","30,446","30,692","39,282",PGR
+Amort. Of Policy Acquisition Costs,"2,125","2,574","3,023","3,273","3,713",PGR
+Unusual Expense (Income),1,0,0,--,--,PGR
+"Other Operat Expse, Total",110,134,179,"1,283",253,PGR
+Total Operating Expense,"24,524","28,625","33,648","35,248","43,248",PGR
+Total Operating Income,"2,292","3,330","5,350","7,390","4,429",PGR
+"Inter Expse, Non-Operating",(156),(168),(190),(217),(219),PGR
+"Inter Capital, Non-Operat",3,2,--,--,--,PGR
+"Inter Expse,Net Non-Operat",(153),(167),(190),(217),(219),PGR
+Income Before Tax,"2,139","3,164","5,160","7,173","4,210",PGR
+Income Tax - Total,640,543,"1,180","1,469",859,PGR
+Income After Tax,"1,499","2,621","3,980","5,705","3,351",PGR
+Minority Interest,(6),(6),(10),0,0,PGR
+Net Inc Before Extra Items,"1,493","2,615","3,970","5,705","3,351",PGR
+Total Extraordinary Items,100,--,--,--,--,PGR
+Total Net Income,"1,592","2,615","3,970","5,705","3,351",PGR
+Total Adjust to Net Income,--,(21),(27),(27),(27),PGR
+Income Available to Common Excl. Extra. Items,"1,493","2,594","3,943","5,678","3,324",PGR
+Income Available to Common Incl. Extra. Items,"1,592","2,594","3,943","5,678","3,324",PGR
+Basic/Primary Weighted Average Shares,581,582,584,585,585,PGR
+Basic/Primary EPS Excl. Extra. Items,2.57,4.45,6.75,9.71,5.69,PGR
+Basic/Primary EPS Incl. Extra. Items,2.74,4.45,6.75,9.71,5.69,PGR
+Diluted Weighted Average Shares,586,587,587,588,587,PGR
+Diluted EPS Excl. Extra. Items,2.55,4.42,6.72,9.66,5.66,PGR
+Diluted EPS Incl. Extra. Items,2.72,4.42,6.72,9.66,5.66,PGR
+Div/Share-ComStockPrimIssue,1.12,2.51,2.65,4.90,0.40,PGR
+Gross Divid - Common Stock,655,"1,468","1,548","2,866","1,109",PGR
+Pro Forma Net Income,--,--,--,--,--,PGR
+"Interest Expense, Suppl",153,167,190,217,219,PGR
+"Interest Capitalized, Suppl",(3),(2),--,--,--,PGR
+"Depreciat/Amort, Suppl",170,190,240,275,280,PGR
+Total Special Items,1,0,0,--,--,PGR
+Normalzd Income Before Tax,"2,140","3,164","5,160","7,173","4,210",PGR
+Efct/SpecItemsIncTxs (STEC),0,0,0,--,--,PGR
+IncTxsExcl ImpctofSpec Itms,641,543,"1,180","1,469",859,PGR
+Normalized Income After Tax,"1,499","2,621","3,980","5,705","3,351",PGR
+Normalzd Inc Avail to Common,"1,493","2,594","3,943","5,678","3,324",PGR
+Basic Normalized EPS,2.57,4.45,6.75,9.71,5.69,PGR
+Diluted Normalized EPS,2.55,4.42,6.72,9.66,5.66,PGR

@@ -1,0 +1,43 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"2,619","3,138","3,379","3,960","4,515",TTC
+"Cost of Revenue, Total","1,678","2,090","2,189","2,621","3,010",TTC
+Selling/Gen/Admin Expense,568,679,713,781,871,TTC
+Advertising Expense,--,44,50,51,58,TTC
+"Sell/Gen/AdminExpenses,Tot",568,723,763,832,929,TTC
+Unusual Expense (Income),1,2,--,(11),--,TTC
+Total Operating Expense,"2,246","2,815","2,952","3,441","3,939",TTC
+Total Operating Income,372,323,426,518,576,TTC
+"Inter Expse,Net Non-Operat",(19),(29),(33),(29),(36),TTC
+"Inter Income, Non-Operating",2,3,1,--,--,TTC
+"Invest Income, Non-Operat",15,11,10,--,--,TTC
+"Inter/Invest Inc, Non-Oper",18,14,11,--,--,TTC
+Gain(Loss)on Sale of Assets,--,0,--,--,--,TTC
+"Other, Net",1,14,3,10,13,TTC
+Income Before Tax,372,322,407,500,553,TTC
+Income Tax - Total,68,49,77,90,109,TTC
+Income After Tax,305,273,330,410,443,TTC
+Net Inc Before Extra Items,305,273,330,410,443,TTC
+Total Extraordinary Items,(33),1,--,--,--,TTC
+Total Net Income,272,274,330,410,443,TTC
+Income Available to Common Excl. Extra. Items,305,273,330,410,443,TTC
+Income Available to Common Incl. Extra. Items,272,274,330,410,443,TTC
+Basic/Primary Weighted Average Shares,106,107,108,107,105,TTC
+Basic/Primary EPS Excl. Extra. Items,2.86,2.56,3.06,3.82,4.23,TTC
+Basic/Primary EPS Incl. Extra. Items,2.56,2.57,3.06,3.82,4.23,TTC
+Diluted Weighted Average Shares,109,108,109,108,106,TTC
+Diluted EPS Excl. Extra. Items,2.80,2.53,3.03,3.78,4.20,TTC
+Diluted EPS Incl. Extra. Items,2.50,2.53,3.03,3.78,4.20,TTC
+Div/Share-ComStockPrimIssue,0.80,0.90,1.00,1.05,--,TTC
+Gross Divid - Common Stock,85,96,108,112,126,TTC
+Pro Forma Net Income,--,--,--,--,--,TTC
+"Interest Expense, Suppl",19,29,33,29,36,TTC
+"Interest Capitalized, Suppl",(1),(1),(1),(1),(3),TTC
+"Depreciat/Amort, Suppl",54,69,76,75,75,TTC
+Total Special Items,1,67,6,(11),4,TTC
+Normalzd Income Before Tax,373,389,413,488,557,TTC
+Efct/SpecItemsIncTxs (STEC),0,10,1,(2),1,TTC
+IncTxsExcl ImpctofSpec Itms,68,59,78,88,110,TTC
+Normalized Income After Tax,305,330,334,401,447,TTC
+Normalzd Inc Avail to Common,305,330,334,401,447,TTC
+Basic Normalized EPS,2.87,3.09,3.11,3.73,4.26,TTC
+Diluted Normalized EPS,2.81,3.05,3.08,3.69,4.23,TTC

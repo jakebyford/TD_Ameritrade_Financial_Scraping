@@ -1,0 +1,40 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"8,298","8,211","8,457","8,797",LIN
+"Cost of Revenue, Total","4,927","4,798","4,940","5,285",LIN
+"Sell/Gen/AdminExpenses,Tot",787,802,771,770,LIN
+Research & Development,38,35,37,35,LIN
+Depreciation/Amortization,"1,135","1,112","1,091","1,045",LIN
+Unusual Expense (Income),51,(4),993,15,LIN
+"Other Operat Expse, Total",23,(12),36,34,LIN
+Total Operating Expense,"6,961","6,731","7,868","7,184",LIN
+Total Operating Income,"1,337","1,480",589,"1,613",LIN
+"Inter Inc(Exp),Net Non-Oper",(31),(9),(5),(18),LIN
+"Other, Net",49,64,62,53,LIN
+Income Before Tax,"1,355","1,535",646,"1,648",LIN
+Income Tax - Total,339,369,286,391,LIN
+Income After Tax,"1,016","1,166",360,"1,257",LIN
+Minority Interest,(30),(36),(38),(27),LIN
+Equity In Affiliates,38,44,50,43,LIN
+Net Inc Before Extra Items,"1,024","1,174",372,"1,273",LIN
+Total Extraordinary Items,2,0,0,0,LIN
+Total Net Income,"1,026","1,174",372,"1,273",LIN
+Income Available to Common Excl. Extra. Items,"1,024","1,174",372,"1,273",LIN
+Income Available to Common Incl. Extra. Items,"1,026","1,174",372,"1,273",LIN
+Basic/Primary Weighted Average Shares,511,507,501,497,LIN
+Basic/Primary EPS Excl. Extra. Items,2.00,2.31,0.74,2.56,LIN
+Basic/Primary EPS Incl. Extra. Items,2.01,2.31,0.74,2.56,LIN
+Diluted Weighted Average Shares,517,511,505,501,LIN
+Diluted EPS Excl. Extra. Items,1.98,2.30,0.74,2.54,LIN
+Diluted EPS Incl. Extra. Items,1.99,2.30,0.74,2.54,LIN
+Div/Share-ComStockPrimIssue,1.06,1.17,1.17,1.17,LIN
+Gross Divid - Common Stock,541,592,585,581,LIN
+Pro Forma Net Income,--,--,--,--,LIN
+"Depreciat/Amort, Suppl","1,135","1,112","1,091","1,045",LIN
+Total Special Items,82,(4),993,15,LIN
+Normalzd Income Before Tax,"1,437","1,531","1,639","1,663",LIN
+Efct/SpecItemsIncTxs (STEC),21,(1),440,4,LIN
+IncTxsExcl ImpctofSpec Itms,360,368,726,395,LIN
+Normalized Income After Tax,"1,077","1,163",913,"1,268",LIN
+Normalzd Inc Avail to Common,"1,085","1,171",925,"1,284",LIN
+Basic Normalized EPS,2.12,2.31,1.85,2.58,LIN
+Diluted Normalized EPS,2.10,2.29,1.83,2.56,LIN

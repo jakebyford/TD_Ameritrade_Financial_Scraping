@@ -1,0 +1,36 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Net Income,"3,733","7,544","10,758","17,429",TD
+Depreciation/Depletion,275,566,851,"1,167",TD
+Amortization,160,307,452,599,TD
+Deferred Taxes,140,443,33,502,TD
+Non-Cash Items,(231),(433),(701),(991),TD
+"Cash Taxes Pd, Supplemental","2,614","3,777","4,103","4,404",TD
+"Cash Interest Pd, Suppl","1,272","2,798","6,095","12,523",TD
+Loan Loss Provision,72,99,450,"1,067",TD
+Other Assets,"6,946","2,824","12,643","15,916",TD
+Changes in Working Capital,"24,670","9,022","24,965","20,243",TD
+Total Cash from Operations,"28,747","17,449","36,358","38,949",TD
+Capital Expenditures,(333),(739),(993),"(1,454)",TD
+Sale of Business,0,0,0,"2,479",TD
+Sale/Maturity of Investment,"27,818","60,236","82,368","117,320",TD
+Purchase of Investments,"(47,523)","(106,520)","(142,768)","(180,695)",TD
+Other Investing Cash Flow,"(2,951)","34,723","30,987","30,455",TD
+"OtherInvestCashFlowItms,Tot","(22,656)","(11,561)","(29,413)","(30,441)",TD
+Total Cash from Investing,"(22,989)","(12,300)","(30,406)","(31,895)",TD
+Total Cash Dividends Paid,"(2,947)","(2,947)","(4,509)","(6,665)",TD
+Sale/Issuance of Common,"3,010","6,105","8,418","11,276",TD
+Repurch/Retirement Common,"(3,729)","(8,309)","(10,468)","(13,302)",TD
+"Common Stock, Net",(719),"(2,204)","(2,050)","(2,026)",TD
+Sale/Issuance of Preferred,--,847,"1,645","5,529",TD
+Repurch/Retirement Preferd,"(1,000)","(1,000)","(1,000)","(1,000)",TD
+"Preferred Stock, Net","(1,000)",(153),645,"4,529",TD
+"Iss (Retirmnt) of Stock,Net","(1,719)","(2,357)","(1,405)","2,503",TD
+Long Term Debt Issued,38,28,--,--,TD
+Long Term Debt Reduction,(166),(313),(478),(663),TD
+"Iss (Retirmnt) of Debt, Net",(128),(285),(430),(657),TD
+Total Cash From Financing,"(4,794)","(5,589)","(6,344)","(4,819)",TD
+Foreign Exchange Effects,106,142,135,390,TD
+Net Change in Cash,"1,070",(298),(257),"2,625",TD
+NetCash-BeginBal/RsvdforFutUse,"5,931","5,931","5,931","5,931",TD
+NetCash-EndBal/RsrvforFutUse,"7,001","5,633","5,674","8,556",TD
+"Depreciation, Supplemental",275,566,851,"1,167",TD

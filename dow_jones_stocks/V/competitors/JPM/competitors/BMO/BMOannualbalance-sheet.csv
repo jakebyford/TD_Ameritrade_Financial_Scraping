@@ -1,0 +1,66 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash & Due from Banks,"42,142","48,803","57,408","93,261","87,466",BMO
+Interest-Earning Deposits,"8,305","7,987","9,035","8,303","5,734",BMO
+Fed. Fund/Resale,"87,070","107,521","118,222","113,818","126,780",BMO
+Trading Account Assets,"123,316","105,411","130,291","138,761","153,714",BMO
+Other Short Trm Invest.,"14,116","17,184","18,911","17,708","17,557",BMO
+Securities Held,"6,485","24,472","48,466","49,970","106,590",BMO
+Securities for Sale,"62,440","64,515","73,407","63,123","43,561",BMO
+Total Invest. Securities,"68,925","88,987","121,873","113,093","150,151",BMO
+Other Earning Assets,"4,976","5,405","5,859","6,176","7,084",BMO
+Customer Acceptances,"18,585","23,593","13,493",--,"13,235",BMO
+"Other Erng. Assets, Total","325,293","356,088","417,684","397,859","474,255",BMO
+Total Gross Loans,"385,630","427,944","448,307","460,826","553,956",BMO
+Loan Loss Allowances,"(1,639)","(1,850)","(3,303)","(2,564)","(2,617)",BMO
+Net Loans,"384,928","426,964","445,681","458,677","551,602",BMO
+Buildings,"1,627","1,534","1,454","1,354","1,688",BMO
+Land/Improvements,145,109,112,99,119,BMO
+Other Prop./Plant/Equip.,"4,676","5,058","7,734","8,119","9,105",BMO
+Prop./Plant/Equip. - Gross,"6,448","6,701","9,300","9,572","10,912",BMO
+Accumulated Depreciation,"(4,462)","(4,646)","(5,117)","(5,118)","(6,071)",BMO
+Prop./Plant/Equip. - Net,"1,986","2,055","4,183","4,454","4,841",BMO
+"Goodwill, Net","6,373","6,340","6,535","5,378","5,285",BMO
+Intangibles - Gross,"6,837","7,587","8,046","7,966","8,317",BMO
+Accum. Intangible Amort.,"(4,565)","(5,163)","(5,604)","(5,700)","(6,124)",BMO
+Intangibles - Net,"2,272","2,424","2,442","2,266","2,193",BMO
+Pension Bene. - Overfunded,664,232,162,987,"1,318",BMO
+Def. Inc. Tax - LT Asset,"2,039","1,568","1,473","1,287","1,175",BMO
+Interest Receivable,"1,461","1,755","1,586","1,452","2,726",BMO
+Other Assets,"6,135","5,966","12,107","22,554","8,338",BMO
+"Other Assets, Total","7,596","7,721","13,693","24,006","11,064",BMO
+Total Assets,"773,293","852,195","949,261","988,175","1,139,199",BMO
+Accounts Payable,"1,898","2,204","2,969","3,413","2,966",BMO
+Payable/Accrued,"8,152","8,613","8,719","9,444","11,647",BMO
+Accrued Expenses,"1,385","1,693","1,359",960,"2,319",BMO
+Non-Interest Bearing Dep.,"56,729","58,467","77,087","93,306","91,273",BMO
+Interest Bearing Deposits,"464,199","509,676","581,947","592,325","678,205",BMO
+Total Deposits,"520,928","568,143","659,034","685,631","769,478",BMO
+"Other Bearing Lblts, Total","18,585","23,593","13,493","14,021","13,235",BMO
+Total ST Borrowings,"95,488","112,603","117,582","129,629","144,942",BMO
+Curr. Port. LT Dbt/Cap Ls.,"3,703","5,067","5,999","7,278","9,274",BMO
+"Other Curr. Lblts, Total",50,55,126,221,425,BMO
+Long Term Debt,"28,130","29,393","29,758","25,101","25,944",BMO
+Capital Lease Obligations,--,--,"2,409","2,743","2,835",BMO
+Total Long Term Debt,"28,130","29,393","32,167","27,844","28,779",BMO
+Total Debt,"127,321","147,063","155,748","164,751","182,995",BMO
+Deferred Income Tax,74,60,108,192,102,BMO
+Minority Interest,0,0,--,--,--,BMO
+Pension Benefits - Underfunded,"1,216","1,454","1,700","1,232",920,BMO
+Other Liabilities,"47,963","48,241","49,412","50,787","84,074",BMO
+"Other Liabilities, Total","49,179","49,695","51,112","52,019","84,994",BMO
+Total Liabilities,"727,572","801,119","892,668","930,652","1,068,161",BMO
+Redeemable Preferred Stock,"4,340","4,690","4,690","3,650","2,650",BMO
+Common Stock,"12,929","12,971","13,430","13,599","17,744",BMO
+Additional Paid-In Capital,300,303,302,313,317,BMO
+Ret. Earn.(Accum. Deficit),"25,850","28,725","30,745","35,497","45,117",BMO
+Unrealized Gain (Loss),(520),(104),197,(183),569,BMO
+Cum. Trans. Adjustment,"3,727","3,703","3,980","2,269","5,168",BMO
+Other Equity,0,658,"1,908","1,908","3,658",BMO
+Min. Pension Lblty Adj.,169,(383),(638),285,944,BMO
+Other Comprehensive Income,"(1,074)",513,"1,979",185,"(5,129)",BMO
+"Other Equity, Total","2,822","4,491","7,229","4,647","4,641",BMO
+Total Equity,"45,721","51,076","56,593","57,523","71,038",BMO
+Total Liabilities & Shareholders’ Equity,"773,293","852,195","949,261","988,175","1,139,199",BMO
+Ttl Comm. Shares Outs.,639,639,645,648,677,BMO
+Trsy. Shrs-Comm. Primary Iss.,0,0,1,0,0,BMO
+Trsry Shrs-Pref. Iss. 1,0,0,--,--,--,BMO

@@ -1,0 +1,43 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"4,518","3,595",925,"4,200","3,283",SBUX
+Depreciation/Depletion,"1,306","1,449","1,503","1,524","1,529",SBUX
+Deferred Taxes,715,"(1,495)",(26),(146),(38),SBUX
+Unusual Items,"(1,838)",(612),454,(638),91,SBUX
+Equity in Net Earnings/Loss,(243),(251),(281),(347),(269),SBUX
+Other Non-Cash Items,339,496,"1,471","1,562","1,701",SBUX
+Non-Cash Items,"(1,742)",(367),"1,644",576,"1,524",SBUX
+"Cash Taxes Pd, Supplemental","1,177",470,"1,699",756,"1,158",SBUX
+"Cash Interest Pd, Suppl",137,300,397,501,475,SBUX
+Accounts Receivable,131,(198),(3),(43),(326),SBUX
+Inventories,(41),(173),(11),(50),(641),SBUX
+Prepaid Expenses,--,922,(318),251,--,SBUX
+Accounts Payable,392,32,(211),190,346,SBUX
+Accrued Expenses,--,--,"(1,231)","(1,488)","(1,626)",SBUX
+Changes in Working Capital,"7,141","1,866","(2,449)",(165),"(1,902)",SBUX
+Total Cash from Operations,"11,938","5,047","1,598","5,989","4,397",SBUX
+Capital Expenditures,"(1,976)","(1,807)","(1,484)","(1,470)","(1,841)",SBUX
+Acquisition of Business,"(1,311)",0,0,--,--,SBUX
+Sale of Business,--,--,0,"1,175",59,SBUX
+Sale/Maturity of Investment,"1,113","1,042",260,489,140,SBUX
+Purchase of Investments,(192),(190),(444),(432),(378),SBUX
+Other Investing Cash Flow,6,(56),(44),(81),(126),SBUX
+"OtherInvestCashFlowItms,Tot",(385),796,(228),"1,151",(305),SBUX
+Total Cash from Investing,"(2,362)","(1,011)","(1,712)",(320),"(2,146)",SBUX
+Financing Cash Flow Items,(104),(129),(130),(97),(136),SBUX
+Total Cash Dividends Paid,"(1,743)","(1,761)","(1,924)","(2,119)","(2,263)",SBUX
+Sale/Issuance of Common,154,410,299,246,102,SBUX
+Repurch/Retirement Common,"(7,134)","(10,222)","(1,699)",0,"(4,013)",SBUX
+"Iss (Retirmnt) of Stock,Net","(6,980)","(9,813)","(1,400)",246,"(3,911)",SBUX
+Short Term Debt Issued,--,--,"1,407",215,37,SBUX
+Short Term Debt Reduction,--,--,(968),(350),(37),SBUX
+"Short Term Debt, Net",--,--,439,(431),175,SBUX
+Long Term Debt Issued,"5,584","1,996","4,728",0,"1,498",SBUX
+Long Term Debt Reduction,0,(350),0,"(1,250)","(1,000)",SBUX
+"Long Term Debt, Net","5,584","1,646","4,728","(1,250)",498,SBUX
+"Iss (Retirmnt) of Debt, Net","5,584","1,646","5,167","(1,681)",673,SBUX
+Total Cash From Financing,"(3,243)","(10,057)","1,713","(3,651)","(5,638)",SBUX
+Foreign Exchange Effects,(40),(49),65,86,(250),SBUX
+Net Change in Cash,"6,294","(6,070)","1,664","2,105","(3,637)",SBUX
+NetCash-BeginBal/RsvdforFutUse,"2,462","8,756","2,687","4,351","6,456",SBUX
+NetCash-EndBal/RsrvforFutUse,"8,756","2,687","4,351","6,456","2,818",SBUX
+"Depreciation, Supplemental","1,306","1,449","1,503","1,524","1,529",SBUX

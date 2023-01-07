@@ -1,0 +1,50 @@
+items,2017,2018,2019,2020,2021,ticker
+Gross Revenue,"3,861","4,430","4,868","5,371","6,466",MNST
+Sales Returns & Allowances,(492),(622),(667),(772),(925),MNST
+Total Revenue,"3,369","3,807","4,201","4,599","5,541",MNST
+"Cost of Revenue, Total","1,284","1,569","1,746","1,945","2,433",MNST
+Selling/Gen/Admin Expense,58,60,94,80,98,MNST
+Labor & Related Expense,104,118,140,164,259,MNST
+Advertising Expense,324,354,392,346,418,MNST
+"Sell/Gen/AdminExpenses,Tot",486,531,625,590,775,MNST
+Depreciation/Amortization,--,--,0,1,1,MNST
+Impair-Assets Held for Use,--,--,--,9,0,MNST
+Other Unusual Expnse (In),35,27,11,0,5,MNST
+Unusual Expense (Income),35,27,11,9,5,MNST
+Loss(Gain)/Sale Asts (Oper),0,--,--,--,--,MNST
+Other Operating Expense,334,362,373,383,503,MNST
+"Other, Net",32,35,43,39,28,MNST
+"Other Operat Expse, Total",365,397,415,422,531,MNST
+Total Operating Expense,"2,170","2,524","2,798","2,965","3,744",MNST
+Total Operating Income,"1,199","1,284","1,403","1,633","1,797",MNST
+"Inter Expse,Net Non-Operat",--,--,0,0,0,MNST
+"Inter Income, Non-Operating",--,14,18,8,4,MNST
+"Invest Income, Non-Operat",(14),6,(7),(11),0,MNST
+"Inter/Invest Inc, Non-Oper",(14),20,11,(3),5,MNST
+"Inter Inc(Exp),Net Non-Oper",17,(10),2,(4),(1),MNST
+Income Before Tax,"1,202","1,293","1,416","1,626","1,801",MNST
+Income Tax - Total,339,298,308,217,424,MNST
+Income After Tax,863,995,"1,108","1,410","1,377",MNST
+Net Inc Before Extra Items,863,995,"1,108","1,410","1,377",MNST
+Total Extraordinary Items,(42),(2),--,--,--,MNST
+Total Net Income,821,993,"1,108","1,410","1,377",MNST
+Income Available to Common Excl. Extra. Items,863,995,"1,108","1,410","1,377",MNST
+Income Available to Common Incl. Extra. Items,821,993,"1,108","1,410","1,377",MNST
+Basic/Primary Weighted Average Shares,567,557,542,530,529,MNST
+Basic/Primary EPS Excl. Extra. Items,1.52,1.79,2.04,2.66,2.61,MNST
+Basic/Primary EPS Incl. Extra. Items,1.45,1.78,2.04,2.66,2.61,MNST
+Diluted Weighted Average Shares,577,564,547,535,536,MNST
+Diluted EPS Excl. Extra. Items,1.49,1.76,2.03,2.64,2.57,MNST
+Diluted EPS Incl. Extra. Items,1.42,1.76,2.03,2.64,2.57,MNST
+Gross Divid - Common Stock,0,0,0,0,0,MNST
+Pro Forma Net Income,--,--,--,--,--,MNST
+"Interest Expense, Suppl",0,0,0,0,0,MNST
+"Depreciat/Amort, Suppl",37,45,49,49,46,MNST
+Total Special Items,35,27,11,9,5,MNST
+Normalzd Income Before Tax,"1,237","1,320","1,427","1,635","1,807",MNST
+Efct/SpecItemsIncTxs (STEC),10,6,2,1,1,MNST
+IncTxsExcl ImpctofSpec Itms,349,305,311,218,425,MNST
+Normalized Income After Tax,888,"1,015","1,117","1,417","1,382",MNST
+Normalzd Inc Avail to Common,888,"1,015","1,117","1,417","1,382",MNST
+Basic Normalized EPS,1.57,1.82,2.06,2.68,2.61,MNST
+Diluted Normalized EPS,1.54,1.80,2.04,2.65,2.58,MNST

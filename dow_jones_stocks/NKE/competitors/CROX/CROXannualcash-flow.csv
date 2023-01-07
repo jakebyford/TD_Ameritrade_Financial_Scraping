@@ -1,0 +1,36 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,10,50,119,313,726,CROX
+Depreciation/Depletion,33,29,24,28,32,CROX
+Deferred Taxes,(3),1,(16),(325),(241),CROX
+Unusual Items,5,6,(1),22,--,CROX
+Other Non-Cash Items,8,16,75,98,95,CROX
+Non-Cash Items,13,22,74,119,95,CROX
+"Cash Taxes Pd, Supplemental",13,19,16,21,160,CROX
+"Cash Interest Pd, Suppl",0,0,8,7,10,CROX
+Accounts Receivable,1,(25),(15),(47),(35),CROX
+Inventories,23,(2),(48),(13),(43),CROX
+Prepaid Expenses,19,10,(4),5,(6),CROX
+Accounts Payable,(3),13,6,--,35,CROX
+Accrued Expenses,5,18,(51),(39),38,CROX
+Payable/Accrued,--,--,--,23,--,CROX
+Changes in Working Capital,45,12,(111),132,(45),CROX
+Total Cash from Operations,98,114,90,267,567,CROX
+Capital Expenditures,(13),(12),(37),(42),(56),CROX
+Sale of Fixed Assets,2,2,1,0,0,CROX
+Other Investing Cash Flow,0,0,0,0,0,CROX
+"OtherInvestCashFlowItms,Tot",2,2,0,0,0,CROX
+Total Cash from Investing,(12),(10),(36),(42),(56),CROX
+Financing Cash Flow Items,0,0,(3),(2),(15),CROX
+Total Cash Dividends Paid,(12),(21),(3),0,--,CROX
+"Common Stock, Net",(50),(63),(147),(171),"(1,020)",CROX
+Repurch/Retirmnt Common/Preferred,0,(184),0,0,--,CROX
+"Iss (Retirmnt) of Stock,Net",(50),(247),(147),(171),"(1,020)",CROX
+Long Term Debt Issued,6,120,315,210,"1,090",CROX
+Long Term Debt Reduction,(9),(1),(230),(235),(485),CROX
+"Iss (Retirmnt) of Debt, Net",(3),119,85,(25),605,CROX
+Total Cash From Financing,(65),(149),(69),(198),(430),CROX
+Foreign Exchange Effects,3,(5),(1),0,(4),CROX
+Net Change in Cash,24,(50),(15),27,78,CROX
+NetCash-BeginBal/RsvdforFutUse,153,177,128,112,139,CROX
+NetCash-EndBal/RsrvforFutUse,177,128,112,139,217,CROX
+"Depreciation, Supplemental",33,29,24,28,32,CROX

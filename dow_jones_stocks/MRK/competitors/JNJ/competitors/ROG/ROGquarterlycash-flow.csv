@@ -1,0 +1,36 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"108,133","16,600","34,483","49,321",ROG
+Depreciation/Depletion,"43,284","10,724","22,980","34,352",ROG
+Deferred Taxes,"(3,195)","(2,013)","(8,728)","(14,076)",ROG
+Unusual Items,"1,522",186,394,396,ROG
+Equity in Net Earnings/Loss,"(7,032)","(1,275)","(3,075)","(4,237)",ROG
+Other Non-Cash Items,"21,923","4,932","10,011","17,760",ROG
+Non-Cash Items,"16,413","3,843","7,330","13,919",ROG
+"Cash Taxes Pd, Supplemental","33,788","7,600","13,426","19,617",ROG
+"Cash Interest Pd, Suppl","2,402","1,068","2,550","5,491",ROG
+Accounts Receivable,"(36,232)","(17,505)","(31,080)","(33,079)",ROG
+Inventories,"(34,413)","(19,935)","(41,702)","(47,500)",ROG
+Other Assets,"1,723","(11,099)","(5,962)","(4,919)",ROG
+Payable/Accrued,"36,688","(4,809)","(1,976)","(12,083)",ROG
+Changes in Working Capital,"(40,272)","(42,877)","(67,741)","(81,682)",ROG
+Total Cash from Operations,"124,363","(13,723)","(11,676)","1,834",ROG
+Capital Expenditures,"(71,125)","(28,249)","(53,205)","(87,000)",ROG
+Acquisition of Business,"(168,204)",--,"(1,300)","(1,300)",ROG
+Sale of Fixed Assets,714,--,--,0,ROG
+Sale/Maturity of Investment,0,--,--,--,ROG
+Other Investing Cash Flow,--,"2,262","2,262","7,252",ROG
+"OtherInvestCashFlowItms,Tot","(167,490)","2,262",962,"5,952",ROG
+Total Cash from Investing,"(238,615)","(25,987)","(52,243)","(81,048)",ROG
+Financing Cash Flow Items,"(2,881)","(10,498)","(10,623)","(10,751)",ROG
+"Common Stock, Net","1,562",950,950,950,ROG
+Options Exercised,0,--,--,--,ROG
+"Iss (Retirmnt) of Stock,Net","1,562",950,950,950,ROG
+Long Term Debt Issued,"190,000",--,"70,000","100,000",ROG
+Long Term Debt Reduction,"(29,624)",(146),(143),(202),ROG
+"Iss (Retirmnt) of Debt, Net","160,376",(146),"69,857","99,798",ROG
+Total Cash From Financing,"159,057","(9,694)","60,184","89,997",ROG
+Foreign Exchange Effects,"(4,294)",(748),"(3,229)","(6,618)",ROG
+Net Change in Cash,"40,511","(50,152)","(6,964)","4,165",ROG
+NetCash-BeginBal/RsvdforFutUse,"191,785","232,296","232,296","232,296",ROG
+NetCash-EndBal/RsrvforFutUse,"232,296","182,144","225,332","236,461",ROG
+"Depreciation, Supplemental","43,284","10,724","22,980","34,352",ROG

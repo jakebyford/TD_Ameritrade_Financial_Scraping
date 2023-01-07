@@ -1,0 +1,48 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Premiums Earned,"2,176","2,136","2,169","2,197",AIZ
+Other Insurance Revenue,315,322,325,295,AIZ
+Total Premiums Earned,"2,491","2,459","2,494","2,492",AIZ
+Net Investment Income,79,86,92,84,AIZ
+Realized Gains (Losses),5,(63),(78),(27),AIZ
+Total Revenue,"2,575","2,482","2,508","2,548",AIZ
+"Losses,Benies& Adjmts,Total",515,490,600,671,AIZ
+Amort. Of Policy Acquisition Costs,932,--,--,--,AIZ
+"Sell/Gen/AdminExpenses,Tot",939,"1,791","1,812","1,843",AIZ
+Impair-Assets Held for Sale,0,(1),(2),0,AIZ
+Other Unusual Expnse (In),0,0,1,0,AIZ
+Unusual Expense (Income),0,(1),(1),0,AIZ
+Total Operating Expense,"2,386","2,280","2,411","2,513",AIZ
+Total Operating Income,189,202,97,35,AIZ
+"Inter Expse,Net Non-Operat",(27),(27),(27),(26),AIZ
+"Inter/Invest Inc, Non-Oper",0,--,--,--,AIZ
+Income Before Tax,162,175,70,9,AIZ
+Income Tax - Total,35,26,18,1,AIZ
+Income After Tax,127,149,52,7,AIZ
+Minority Interest,0,0,0,--,AIZ
+Net Inc Before Extra Items,127,149,52,7,AIZ
+Discontinued Operations,(4),0,0,0,AIZ
+Tax on Extraordinary Items,1,--,--,--,AIZ
+Total Extraordinary Items,(3),0,0,0,AIZ
+Total Net Income,124,149,52,7,AIZ
+Total Adjust to Net Income,0,0,0,0,AIZ
+Income Available to Common Excl. Extra. Items,127,149,52,7,AIZ
+Income Available to Common Incl. Extra. Items,124,149,52,7,AIZ
+Basic/Primary Weighted Average Shares,57,55,55,54,AIZ
+Basic/Primary EPS Excl. Extra. Items,2.21,2.71,0.96,0.14,AIZ
+Basic/Primary EPS Incl. Extra. Items,2.16,2.71,0.96,0.14,AIZ
+Diluted Weighted Average Shares,58,55,55,54,AIZ
+Diluted EPS Excl. Extra. Items,2.19,2.69,0.95,0.14,AIZ
+Diluted EPS Incl. Extra. Items,2.13,2.69,0.95,0.14,AIZ
+Div/Share-ComStockPrimIssue,0.68,0.68,0.68,0.68,AIZ
+Gross Divid - Common Stock,39,37,39,37,AIZ
+Pro Forma Net Income,--,--,--,--,AIZ
+"Interest Expense, Suppl",27,27,27,26,AIZ
+"Depreciat/Amort, Suppl",46,20,22,23,AIZ
+Total Special Items,0,(2),(2),(1),AIZ
+Normalzd Income Before Tax,162,173,68,7,AIZ
+Efct/SpecItemsIncTxs (STEC),0,0,0,0,AIZ
+IncTxsExcl ImpctofSpec Itms,35,26,17,1,AIZ
+Normalized Income After Tax,127,147,51,6,AIZ
+Normalzd Inc Avail to Common,127,147,51,6,AIZ
+Basic Normalized EPS,2.22,2.68,0.93,0.12,AIZ
+Diluted Normalized EPS,2.19,2.66,0.92,0.12,AIZ

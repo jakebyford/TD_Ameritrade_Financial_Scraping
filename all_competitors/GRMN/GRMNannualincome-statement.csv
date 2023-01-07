@@ -1,0 +1,37 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"3,122","3,347","3,758","4,187","4,983",GRMN
+"Cost of Revenue, Total","1,324","1,368","1,524","1,705","2,092",GRMN
+Selling/Gen/Admin Expense,438,478,519,570,660,GRMN
+Advertising Expense,165,155,164,151,172,GRMN
+"Sell/Gen/AdminExpenses,Tot",603,634,683,721,832,GRMN
+Research & Development,512,568,605,706,840,GRMN
+Total Operating Expense,"2,438","2,569","2,812","3,132","3,764",GRMN
+Total Operating Income,684,778,946,"1,054","1,219",GRMN
+"Inter Income, Non-Operating",37,47,53,37,29,GRMN
+"Invest Income, Non-Operat",(23),(8),(17),3,(45),GRMN
+"Inter/Invest Inc, Non-Oper",14,40,36,40,(17),GRMN
+OtherNon-OperatInc (Expnse),(1),5,6,9,5,GRMN
+"Other, Net",(1),5,6,9,5,GRMN
+Income Before Tax,697,823,987,"1,103","1,207",GRMN
+Income Tax - Total,(12),129,35,111,125,GRMN
+Income After Tax,709,694,952,992,"1,082",GRMN
+Net Inc Before Extra Items,709,694,952,992,"1,082",GRMN
+Total Net Income,709,694,952,992,"1,082",GRMN
+Income Available to Common Excl. Extra. Items,709,694,952,992,"1,082",GRMN
+Income Available to Common Incl. Extra. Items,709,694,952,992,"1,082",GRMN
+Basic/Primary Weighted Average Shares,188,189,190,191,192,GRMN
+Basic/Primary EPS Excl. Extra. Items,3.77,3.68,5.01,5.19,5.63,GRMN
+Basic/Primary EPS Incl. Extra. Items,3.77,3.68,5.01,5.19,5.63,GRMN
+Diluted Weighted Average Shares,189,190,191,192,193,GRMN
+Diluted EPS Excl. Extra. Items,3.76,3.66,4.99,5.17,5.61,GRMN
+Diluted EPS Incl. Extra. Items,3.76,3.66,4.99,5.17,5.61,GRMN
+Div/Share-ComStockPrimIssue,2.04,2.10,2.24,2.40,2.62,GRMN
+Gross Divid - Common Stock,383,401,434,467,516,GRMN
+Pro Forma Net Income,--,--,--,--,--,GRMN
+"Depreciat/Amort, Suppl",60,65,72,78,103,GRMN
+Normalzd Income Before Tax,697,823,987,"1,103","1,207",GRMN
+IncTxsExcl ImpctofSpec Itms,(12),129,35,111,125,GRMN
+Normalized Income After Tax,709,694,952,992,"1,082",GRMN
+Normalzd Inc Avail to Common,709,694,952,992,"1,082",GRMN
+Basic Normalized EPS,3.77,3.68,5.01,5.19,5.63,GRMN
+Diluted Normalized EPS,3.76,3.66,4.99,5.17,5.61,GRMN

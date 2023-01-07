@@ -1,0 +1,60 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"1,564","1,602","1,932","3,602","3,482",ZTS
+Short Term Investments,--,99,0,--,--,ZTS
+Cash and Short Term Invs,"1,564","1,701","1,932","3,602","3,482",ZTS
+"Trade Accts Recvble, Gross","1,023","1,060","1,107","1,033","1,150",ZTS
+Prov. for Doubtful Accts,(25),(24),(21),(20),(17),ZTS
+"Total Receivables, Net",998,"1,036","1,086","1,013","1,133",ZTS
+Invent. - Finished Goods,788,744,701,805,888,ZTS
+Invent. - Work In Progress,484,481,511,594,696,ZTS
+Invent. - Raw Materials,155,166,198,229,339,ZTS
+Total Inventory,"1,427","1,391","1,410","1,628","1,923",ZTS
+Restricted Cash - Current,--,--,2,2,3,ZTS
+Other Current Assets,228,271,318,366,389,ZTS
+"Other Curr. Assets, Total",228,271,320,368,392,ZTS
+Total Current Assets,"4,217","4,399","4,748","6,611","6,930",ZTS
+Buildings,934,929,983,"1,019","1,103",ZTS
+Land/Improvements,22,22,22,22,22,ZTS
+Machinery/Equipment,"1,696","1,852","2,119","2,440","2,627",ZTS
+Construction in Progress,254,454,553,673,742,ZTS
+Other Prop./Plant/Equip.,--,--,189,192,181,ZTS
+Prop./Plant/Equip. - Gross,"2,906","3,257","3,866","4,346","4,675",ZTS
+Accumulated Depreciation,"(1,471)","(1,599)","(1,737)","(1,952)","(2,072)",ZTS
+Prop./Plant/Equip. - Net,"1,435","1,658","2,129","2,394","2,603",ZTS
+"Goodwill, Gross",--,--,--,"3,230","3,218",ZTS
+Accum. Goodwill Amort.,--,--,--,(536),(536),ZTS
+"Goodwill, Net","1,510","2,519","2,592","2,694","2,682",ZTS
+Intangibles - Gross,"2,030","2,952","3,019","3,068","3,018",ZTS
+Accum. Intangible Amort.,(761),(906),"(1,129)","(1,358)","(1,544)",ZTS
+Intangibles - Net,"1,269","2,046","1,890","1,710","1,474",ZTS
+Other Long Term Assets,75,94,98,106,111,ZTS
+Total Assets,"8,586","10,777","11,545","13,609","13,900",ZTS
+Accounts Payable,261,313,301,457,436,ZTS
+Accrued Expenses,668,753,854,891,"1,143",ZTS
+Notes Payable/ST Debt,0,0,0,4,0,ZTS
+Curr. Port. LT Dbt/Cap Ls.,--,9,500,600,0,ZTS
+Dividends Payable,61,79,95,119,154,ZTS
+Customer Advances,--,--,--,--,12,ZTS
+Income Taxes Payable,60,35,36,46,38,ZTS
+Other Current Liabilities,44,34,20,53,14,ZTS
+"Other Curr. Lblts, Total",165,148,151,218,218,ZTS
+Total Current Liabilities,"1,094","1,223","1,806","2,170","1,797",ZTS
+Total Long Term Debt,"4,953","6,443","5,947","6,595","6,592",ZTS
+Total Debt,"4,953","6,452","6,447","7,199","6,592",ZTS
+Deferred Income Tax,380,474,434,378,320,ZTS
+Minority Interest,16,0,--,4,1,ZTS
+"Other Liabilities, Total",373,452,650,693,647,ZTS
+Total Liabilities,"6,816","8,592","8,837","9,840","9,357",ZTS
+Redeemable Preferred Stock,0,0,--,--,--,ZTS
+Common Stock,5,5,5,5,5,ZTS
+Additional Paid-In Capital,"1,013","1,026","1,044","1,065","1,068",ZTS
+Ret. Earn.(Accum. Deficit),"2,109","3,270","4,427","5,659","7,186",ZTS
+Treasury Stock - Common,(852),"(1,487)","(2,042)","(2,230)","(2,952)",ZTS
+Cum. Trans. Adjustment,--,--,--,--,(756),ZTS
+Min. Pension Lblty Adj.,--,--,--,--,(17),ZTS
+Other Comprehensive Income,(505),(629),(726),(730),9,ZTS
+"Other Equity, Total",(505),(629),(726),(730),(764),ZTS
+Total Equity,"1,770","2,185","2,708","3,769","4,543",ZTS
+Total Liabilities & Shareholders’ Equity,"8,586","10,777","11,545","13,609","13,900",ZTS
+Ttl Comm. Shares Outs.,486,480,476,475,473,ZTS
+Trsy. Shrs-Comm. Primary Iss.,16,22,26,27,29,ZTS

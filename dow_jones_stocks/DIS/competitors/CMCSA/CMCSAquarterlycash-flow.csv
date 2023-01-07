@@ -1,0 +1,37 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"13,833","3,476","6,717","2,052",CMCSA
+Depreciation/Depletion,"13,804","3,548","7,016","10,349",CMCSA
+Deferred Taxes,"1,892",106,(31),(326),CMCSA
+Unusual Items,"(1,311)",(113),864,"9,755",CMCSA
+Other Non-Cash Items,"1,797",469,840,"1,223",CMCSA
+Non-Cash Items,486,356,"1,704","10,978",CMCSA
+"Cash Taxes Pd, Supplemental","2,628",90,"2,841","4,022",CMCSA
+"Cash Interest Pd, Suppl","3,908",747,"1,644","2,341",CMCSA
+Accounts Receivable,"(1,335)",(527),(338),(574),CMCSA
+Other Assets,(680),363,651,(753),CMCSA
+Payable/Accrued,765,314,78,152,CMCSA
+Changes in Working Capital,(869),(229),"(1,822)","(2,523)",CMCSA
+Total Cash from Operations,"29,146","7,257","13,584","20,530",CMCSA
+Purchase of Fixed Assets,"(9,174)","(1,856)","(4,270)","(7,062)",CMCSA
+Purchase/Acq of Intangibles,"(2,883)",(641),"(1,383)","(2,152)",CMCSA
+Capital Expenditures,"(12,057)","(2,497)","(5,653)","(9,214)",CMCSA
+Acquisition of Business,"(1,374)",0,0,(1),CMCSA
+Sale/Maturity of Investment,684,69,108,"1,197",CMCSA
+Purchase of Investments,(174),(66),"(1,164)","(2,089)",CMCSA
+Other Investing Cash Flow,(525),(103),(83),(51),CMCSA
+"OtherInvestCashFlowItms,Tot","(1,389)",(100),"(1,139)",(944),CMCSA
+Total Cash from Investing,"(13,446)","(2,597)","(6,792)","(10,158)",CMCSA
+Financing Cash Flow Items,(544),(114),117,220,CMCSA
+Total Cash Dividends Paid,"(4,532)","(1,166)","(2,377)","(3,571)",CMCSA
+"Iss (Retirmnt) of Stock,Net","(4,672)","(3,223)","(6,288)","(9,813)",CMCSA
+"Short Term Debt, Net",0,--,--,--,CMCSA
+"Long Term Debt, Net",0,--,--,--,CMCSA
+Total Debt Issued,"2,628",117,166,166,CMCSA
+Total Debt Reduction,"(11,498)",(104),(254),(301),CMCSA
+"Iss (Retirmnt) of Debt, Net","(8,870)",13,(88),(135),CMCSA
+Total Cash From Financing,"(18,618)","(4,490)","(8,636)","(13,299)",CMCSA
+Foreign Exchange Effects,(71),(35),(76),(122),CMCSA
+Net Change in Cash,"(2,989)",135,"(1,920)","(3,049)",CMCSA
+NetCash-BeginBal/RsvdforFutUse,"11,768","8,778","8,778","8,778",CMCSA
+NetCash-EndBal/RsrvforFutUse,"8,778","8,914","6,859","5,729",CMCSA
+"Depreciation, Supplemental","13,804","3,548","7,016","10,349",CMCSA

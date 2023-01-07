@@ -1,0 +1,52 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash & Equivalents,737,787,767,867,926,TGT
+Short Term Investments,"1,906",769,"1,810","7,644","4,985",TGT
+Cash and Short Term Invs,"2,643","1,556","2,577","8,511","5,911",TGT
+"Trade Accts Recvble, Net",--,--,--,631,835,TGT
+Other Receivables,929,"1,100",962,504,518,TGT
+"Total Receivables, Net",929,"1,100",962,"1,135","1,353",TGT
+Total Inventory,"8,597","9,497","8,992","10,653","13,902",TGT
+Prepaid Expenses,157,157,154,171,170,TGT
+"Other Curr. Assets, Total",214,209,217,286,237,TGT
+Total Current Assets,"12,540","12,519","12,902","20,756","21,573",TGT
+Buildings,"26,978","27,997","30,603","31,557","32,985",TGT
+Land/Improvements,"6,095","6,064","6,036","6,141","6,164",TGT
+Machinery/Equipment,"2,645","2,544","2,692","2,765","2,505",TGT
+Construction in Progress,440,460,533,780,"1,257",TGT
+Other Prop./Plant/Equip.,"6,776","7,155","8,319","8,141","8,963",TGT
+Prop./Plant/Equip. - Gross,"42,934","44,220","48,183","49,384","51,874",TGT
+Accumulated Depreciation,"(18,398)","(18,687)","(19,664)","(20,278)","(21,137)",TGT
+Prop./Plant/Equip. - Net,"26,420","27,498","28,519","29,106","30,737",TGT
+"Goodwill, Net",630,633,633,--,631,TGT
+Intangibles - Net,79,66,53,668,25,TGT
+Other Long Term Assets,634,574,672,718,845,TGT
+Total Assets,"40,303","41,290","42,779","51,248","53,811",TGT
+Accounts Payable,"8,677","9,761","9,920","12,859","15,478",TGT
+Accrued Expenses,"3,031","3,027","3,138","4,273","4,472",TGT
+Notes Payable/ST Debt,0,0,0,0,0,TGT
+Curr. Port. LT Dbt/Cap Ls.,281,"1,052",161,"1,144",171,TGT
+Dividends Payable,336,331,333,341,424,TGT
+Income Taxes Payable,--,--,--,473,--,TGT
+Other Current Liabilities,727,843,935,"1,035","1,202",TGT
+"Other Curr. Lblts, Total","1,063","1,174","1,268","1,849","1,626",TGT
+Total Current Liabilities,"13,052","15,014","14,487","20,125","21,747",TGT
+Long Term Debt,"10,232","9,255","10,035","9,770","11,582",TGT
+Capital Lease Obligations,885,968,"1,303","1,766","1,967",TGT
+Total Long Term Debt,"11,117","10,223","11,338","11,536","13,549",TGT
+Total Debt,"11,398","11,275","11,499","12,680","13,720",TGT
+Deferred Income Tax,693,972,"1,122",990,"1,566",TGT
+Pension Benefits - Underfunded,41,40,107,57,45,TGT
+Other LT Liabilities,"3,749","3,744","3,892","4,100","4,077",TGT
+"Other Liabilities, Total","3,790","3,784","3,999","4,157","4,122",TGT
+Total Liabilities,"28,652","29,993","30,946","36,808","40,984",TGT
+Common Stock,45,43,42,42,39,TGT
+Additional Paid-In Capital,"5,858","6,042","6,226","6,329","6,421",TGT
+Ret. Earn.(Accum. Deficit),"6,495","6,017","6,433","8,825","6,920",TGT
+Cum. Trans. Adjustment,(13),(20),(19),(18),(19),TGT
+Min. Pension Lblty Adj.,(720),(772),(837),(735),(583),TGT
+Other Comprehensive Income,(14),(13),(12),(3),49,TGT
+"Other Equity, Total",(747),(805),(868),(756),(553),TGT
+Total Equity,"11,651","11,297","11,833","14,440","12,827",TGT
+Total Liabilities & Shareholders’ Equity,"40,303","41,290","42,779","51,248","53,811",TGT
+Ttl Comm. Shares Outs.,542,518,504,501,471,TGT
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,TGT

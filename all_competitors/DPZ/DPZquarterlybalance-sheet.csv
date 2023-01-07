@@ -1,0 +1,50 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash and Short Term Invs,310,319,278,272,DPZ
+"Total Receivables, Net",270,262,288,259,DPZ
+Total Inventory,68,78,70,73,DPZ
+Prepaid Expenses,32,34,51,38,DPZ
+"Other Curr. Assets, Total",181,168,158,185,DPZ
+Total Current Assets,861,861,846,826,DPZ
+Buildings,194,195,196,197,DPZ
+Land/Improvements,108,108,108,107,DPZ
+Machinery/Equipment,313,319,322,330,DPZ
+Construction in Progress,28,27,27,27,DPZ
+Other Prop./Plant/Equip.,211,209,223,218,DPZ
+Prop./Plant/Equip. - Gross,853,858,876,879,DPZ
+Accumulated Depreciation,(318),(329),(340),(350),DPZ
+Prop./Plant/Equip. - Net,535,529,537,529,DPZ
+"Goodwill, Net",15,16,16,16,DPZ
+Intangibles - Net,96,97,103,106,DPZ
+Long Term Investments,141,126,126,126,DPZ
+Other Long Term Assets,23,43,41,41,DPZ
+Total Assets,"1,672","1,674","1,671","1,646",DPZ
+Accounts Payable,92,92,99,91,DPZ
+Accrued Expenses,232,201,167,180,DPZ
+Notes Payable/ST Debt,0,0,0,0,DPZ
+Curr. Port. LT Dbt/Cap Ls.,56,56,56,56,DPZ
+Dividends Payable,--,41,41,40,DPZ
+Customer Advances,5,5,6,6,DPZ
+Other Current Liabilities,206,200,207,206,DPZ
+"Other Curr. Lblts, Total",212,246,253,251,DPZ
+Total Current Liabilities,591,595,575,579,DPZ
+Long Term Debt,"4,942","4,931","4,919","5,028",DPZ
+Capital Lease Obligations,72,71,70,70,DPZ
+Total Long Term Debt,"5,015","5,002","4,990","5,097",DPZ
+Total Debt,"5,070","5,058","5,045","5,153",DPZ
+Deferred Income Tax,4,5,6,9,DPZ
+Reserves,37,39,36,38,DPZ
+Other LT Liabilities,235,232,243,240,DPZ
+"Other Liabilities, Total",272,271,280,278,DPZ
+Total Liabilities,"5,881","5,873","5,851","5,963",DPZ
+"Pref. Stock-Non Rdmbl, Net",0,--,--,--,DPZ
+Common Stock,0,0,0,0,DPZ
+Additional Paid-In Capital,1,4,4,1,DPZ
+Ret. Earn.(Accum. Deficit),"(4,208)","(4,200)","(4,180)","(4,314)",DPZ
+"Other Equity, Total",(3),(2),(4),(4),DPZ
+Total Equity,"(4,210)","(4,199)","(4,180)","(4,317)",DPZ
+Total Liabilities & Shareholders’ Equity,"1,672","1,674","1,671","1,646",DPZ
+Shr Outs.-Com. Primary Iss.,36,36,36,35,DPZ
+Shr Outs.-Com. Stk. Iss. 2,0,--,--,--,DPZ
+Ttl Comm. Shares Outs.,36,36,36,35,DPZ
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,DPZ
+Trsy. Shrs-Comm. Iss. 2,0,--,--,--,DPZ

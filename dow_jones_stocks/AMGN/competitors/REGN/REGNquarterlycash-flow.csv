@@ -1,0 +1,35 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"8,075",974,"1,826","3,141",REGN
+Depreciation/Depletion,286,74,149,241,REGN
+Deferred Taxes,(147),(225),(381),(467),REGN
+Unusual Items,(387),205,371,117,REGN
+Other Non-Cash Items,"1,170",251,660,887,REGN
+Non-Cash Items,783,456,"1,031","1,004",REGN
+Accounts Receivable,"(1,927)","1,198",875,488,REGN
+Inventories,(494),(89),(329),(552),REGN
+Prepaid Expenses,(241),(45),(289),(167),REGN
+Payable/Accrued,866,(250),(326),(486),REGN
+Changes in Working Capital,"(1,917)",823,42,(625),REGN
+Total Cash from Operations,"7,081","2,102","2,666","3,295",REGN
+Purchase of Fixed Assets,(552),(142),(295),(438),REGN
+Purchase/Acq of Intangibles,--,--,--,(927),REGN
+Capital Expenditures,(552),(142),(295),"(1,365)",REGN
+Acquisition of Business,--,--,(230),(230),REGN
+Sale/Maturity of Investment,"2,215",746,"2,181","4,013",REGN
+Purchase of Investments,"(7,048)","(2,310)","(3,775)","(4,345)",REGN
+"OtherInvestCashFlowItms,Tot","(4,833)","(1,564)","(1,824)",(562),REGN
+Total Cash from Investing,"(5,385)","(1,705)","(2,119)","(1,927)",REGN
+Financing Cash Flow Items,"(1,033)",(99),(148),(257),REGN
+Sale/Issuance of Common,"1,672",522,828,"1,147",REGN
+Repurch/Retirement Common,"(1,645)",(358),(717),"(1,652)",REGN
+"Iss (Retirmnt) of Stock,Net",27,164,111,(505),REGN
+Short Term Debt Issued,0,--,--,--,REGN
+Short Term Debt Reduction,0,--,--,--,REGN
+"Short Term Debt, Net",0,--,--,--,REGN
+"Long Term Debt, Net",0,--,--,--,REGN
+"Iss (Retirmnt) of Debt, Net",0,--,--,--,REGN
+Total Cash From Financing,"(1,006)",65,(36),(761),REGN
+Net Change in Cash,691,461,511,607,REGN
+NetCash-BeginBal/RsvdforFutUse,"2,207","2,898","2,898","2,898",REGN
+NetCash-EndBal/RsrvforFutUse,"2,898","3,359","3,409","3,505",REGN
+"Depreciation, Supplemental",286,74,149,241,REGN

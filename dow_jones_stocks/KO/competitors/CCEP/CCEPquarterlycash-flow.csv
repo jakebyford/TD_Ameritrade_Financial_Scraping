@@ -1,0 +1,41 @@
+items,Q4 2020,Q2 2021,Q4 2021,Q2 2022,ticker
+Net Income,695,455,"1,382",898,CCEP
+Depreciation/Depletion,665,300,693,336,CCEP
+Amortization,62,42,89,50,CCEP
+Non-Cash Items,125,68,145,75,CCEP
+"Cash Taxes Pd, Supplemental",273,58,306,162,CCEP
+"Cash Interest Pd, Suppl",91,58,97,98,CCEP
+Accounts Receivable,208,(384),(242),(429),CCEP
+Inventories,34,(144),(1),(245),CCEP
+Accounts Payable,(112),121,8,180,CCEP
+Payable/Accrued,53,503,507,936,CCEP
+Changes in Working Capital,(57),43,(192),294,CCEP
+Total Cash from Operations,"1,490",908,"2,117","1,653",CCEP
+Purchase of Fixed Assets,(348),(115),(349),(178),CCEP
+Purchase/Acq of Intangibles,(60),(42),(97),(22),CCEP
+Capital Expenditures,(408),(157),(446),(200),CCEP
+Acquisition of Business,--,"(5,401)","(5,401)",0,CCEP
+Sale of Fixed Assets,49,20,25,6,CCEP
+Sale/Maturity of Investment,--,0,223,13,CCEP
+"Investment, Net",--,118,--,(181),CCEP
+Purchase of Investments,(11),--,(4),(2),CCEP
+Sale of Intangible,--,0,--,143,CCEP
+Other Investing Cash Flow,--,16,(2),(1),CCEP
+"OtherInvestCashFlowItms,Tot",38,"(5,247)","(5,159)",(22),CCEP
+Total Cash from Investing,(370),"(5,404)","(5,605)",(222),CCEP
+Financing Cash Flow Items,(91),(54),(165),(106),CCEP
+Total Cash Dividends Paid,(386),0,(638),(256),CCEP
+"Common Stock, Net",(129),--,--,--,CCEP
+Options Exercised,14,18,28,5,CCEP
+"Iss (Retirmnt) of Stock,Net",(115),18,28,5,CCEP
+"Short Term Debt, Net",(221),305,276,237,CCEP
+Long Term Debt Issued,"1,598","4,877","4,877",0,CCEP
+Long Term Debt Reduction,(685),(533),"(1,089)",(914),CCEP
+"Long Term Debt, Net",913,"4,344","3,788",(914),CCEP
+"Iss (Retirmnt) of Debt, Net",692,"4,649","4,064",(677),CCEP
+Total Cash From Financing,100,"4,613","3,289","(1,034)",CCEP
+Foreign Exchange Effects,(13),46,83,15,CCEP
+Net Change in Cash,"1,207",163,(116),412,CCEP
+NetCash-BeginBal/RsvdforFutUse,316,"1,523","1,523","1,407",CCEP
+NetCash-EndBal/RsrvforFutUse,"1,523","1,686","1,407","1,819",CCEP
+"Depreciation, Supplemental",665,300,693,336,CCEP

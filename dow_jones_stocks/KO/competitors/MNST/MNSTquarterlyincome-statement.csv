@@ -1,0 +1,46 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Gross Revenue,"1,642","1,754","1,915","1,877",MNST
+Sales Returns & Allowances,(217),(235),(260),(253),MNST
+Total Revenue,"1,425","1,519","1,655","1,624",MNST
+"Cost of Revenue, Total",657,742,875,791,MNST
+Selling/Gen/Admin Expense,21,29,20,29,MNST
+Labor & Related Expense,69,68,70,69,MNST
+"Sell/Gen/AdminExpenses,Tot",90,97,90,99,MNST
+Depreciation/Amortization,0,0,0,0,MNST
+Unusual Expense (Income),5,--,--,--,MNST
+Other Operating Expense,253,266,297,300,MNST
+"Other, Net",6,14,20,17,MNST
+"Other Operat Expse, Total",259,280,316,317,MNST
+Total Operating Expense,"1,012","1,119","1,282","1,206",MNST
+Total Operating Income,413,399,373,418,MNST
+"Inter Expse,Net Non-Operat",0,0,0,0,MNST
+"Inter Income, Non-Operating",1,2,4,10,MNST
+"Invest Income, Non-Operat",6,(8),(8),(6),MNST
+"Inter/Invest Inc, Non-Oper",7,(7),(5),3,MNST
+"Inter Inc(Exp),Net Non-Oper",(1),0,(2),(1),MNST
+Income Before Tax,419,392,366,420,MNST
+Income Tax - Total,98,98,93,98,MNST
+Income After Tax,321,294,273,322,MNST
+Net Inc Before Extra Items,321,294,273,322,MNST
+Total Net Income,321,294,273,322,MNST
+Income Available to Common Excl. Extra. Items,321,294,273,322,MNST
+Income Available to Common Incl. Extra. Items,321,294,273,322,MNST
+Basic/Primary Weighted Average Shares,529,529,529,527,MNST
+Basic/Primary EPS Excl. Extra. Items,0.61,0.56,0.52,0.61,MNST
+Basic/Primary EPS Incl. Extra. Items,0.61,0.56,0.52,0.61,MNST
+Diluted Weighted Average Shares,536,536,535,533,MNST
+Diluted EPS Excl. Extra. Items,0.60,0.55,0.51,0.60,MNST
+Diluted EPS Incl. Extra. Items,0.60,0.55,0.51,0.60,MNST
+Div/Share-ComStockPrimIssue,--,0.00,0.00,0.00,MNST
+Gross Divid - Common Stock,0,0,0,0,MNST
+Pro Forma Net Income,--,--,--,--,MNST
+"Interest Expense, Suppl",0,0,0,0,MNST
+"Depreciat/Amort, Suppl",11,13,14,14,MNST
+Total Special Items,5,--,--,--,MNST
+Normalzd Income Before Tax,424,392,366,420,MNST
+Efct/SpecItemsIncTxs (STEC),1,--,--,--,MNST
+IncTxsExcl ImpctofSpec Itms,99,98,93,98,MNST
+Normalized Income After Tax,325,294,273,322,MNST
+Normalzd Inc Avail to Common,325,294,273,322,MNST
+Basic Normalized EPS,0.61,0.56,0.52,0.61,MNST
+Diluted Normalized EPS,0.61,0.55,0.51,0.60,MNST

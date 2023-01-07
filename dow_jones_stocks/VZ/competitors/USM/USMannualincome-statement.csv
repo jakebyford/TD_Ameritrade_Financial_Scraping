@@ -1,0 +1,49 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"3,890","3,967","4,022","4,037","4,122",USM
+"Cost of Revenue, Total","1,803","1,789","1,784","1,793","1,908",USM
+Selling/Gen/Admin Expense,"1,385","1,355","1,370","1,340","1,322",USM
+Labor & Related Expense,27,33,36,28,23,USM
+"Sell/Gen/AdminExpenses,Tot","1,412","1,388","1,406","1,368","1,345",USM
+Depreciation/Amortization,615,640,702,683,678,USM
+Impair-Assets Held for Use,370,0,0,--,--,USM
+Other Unusual Expnse (In),(1),0,(1),0,(2),USM
+Unusual Expense (Income),364,(8),18,20,21,USM
+Loss(Gain)/Sale Asts (Oper),(5),(8),19,20,23,USM
+Total Operating Expense,"4,194","3,809","3,910","3,864","3,952",USM
+Total Operating Income,(304),158,112,173,170,USM
+"Inter Expse, Non-Operating",(114),(116),(112),(117),(188),USM
+"Inter Capital, Non-Operat",1,--,2,5,13,USM
+"Inter Expse,Net Non-Operat",(113),(116),(110),(112),(175),USM
+"Inter Income, Non-Operating",8,15,17,8,6,USM
+"Invest Income, Non-Operat",137,159,166,181,179,USM
+"Inter/Invest Inc, Non-Oper",145,174,183,189,185,USM
+OtherNon-OperatInc (Expnse),0,(1),0,0,--,USM
+"Other, Net",0,(1),0,0,--,USM
+Income Before Tax,(272),215,185,250,180,USM
+Income Tax - Total,(18),55,52,66,20,USM
+Income After Tax,(254),160,133,184,160,USM
+Minority Interest,(3),(14),(6),(4),(5),USM
+Net Inc Before Extra Items,(257),146,127,180,155,USM
+Total Extraordinary Items,269,4,0,49,--,USM
+Total Net Income,12,150,127,229,155,USM
+Income Available to Common Excl. Extra. Items,(257),146,127,180,155,USM
+Income Available to Common Incl. Extra. Items,12,150,127,229,155,USM
+Basic/Primary Weighted Average Shares,85,86,86,86,86,USM
+Basic/Primary EPS Excl. Extra. Items,(3.02),1.70,1.48,2.09,1.80,USM
+Basic/Primary EPS Incl. Extra. Items,0.14,1.74,1.48,2.66,1.80,USM
+Diluted Weighted Average Shares,85,87,88,87,87,USM
+Diluted EPS Excl. Extra. Items,(3.02),1.68,1.44,2.07,1.78,USM
+Diluted EPS Incl. Extra. Items,0.14,1.72,1.44,2.63,1.78,USM
+Gross Divid - Common Stock,0,0,0,0,0,USM
+Pro Forma Net Income,--,--,--,--,--,USM
+"Interest Expense, Suppl",113,116,110,112,175,USM
+"Interest Capitalized, Suppl",(1),--,(2),(5),(13),USM
+"Depreciat/Amort, Suppl",615,640,702,683,678,USM
+Total Special Items,364,(8),18,20,21,USM
+Normalzd Income Before Tax,92,207,203,270,201,USM
+Efct/SpecItemsIncTxs (STEC),127,(2),5,5,2,USM
+IncTxsExcl ImpctofSpec Itms,109,53,57,71,22,USM
+Normalized Income After Tax,(17),154,146,199,179,USM
+Normalzd Inc Avail to Common,(20),140,140,195,174,USM
+Basic Normalized EPS,(0.24),1.63,1.63,2.26,2.02,USM
+Diluted Normalized EPS,(0.24),1.61,1.59,2.24,2.00,USM

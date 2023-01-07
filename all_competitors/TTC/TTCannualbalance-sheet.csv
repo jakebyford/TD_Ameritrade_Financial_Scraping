@@ -1,0 +1,51 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash and Short Term Invs,289,152,480,406,188,TTC
+"Trade Accts Recvble, Gross",187,245,228,256,293,TTC
+Prov. for Doubtful Accts,(2),(3),(5),(3),(3),TTC
+"Trade Accts Recvble, Net",185,242,223,253,290,TTC
+Other Receivables,8,27,38,58,43,TTC
+"Total Receivables, Net",193,269,261,310,333,TTC
+Invent. - Finished Goods,315,554,566,538,738,TTC
+Invent. - Raw Materials,115,180,169,335,483,TTC
+LIFO Reserve,(72),(82),(82),(135),(170),TTC
+Total Inventory,358,652,652,738,"1,051",TTC
+Prepaid Expenses,43,40,34,35,103,TTC
+"Other Curr. Assets, Total",11,11,--,--,--,TTC
+Total Current Assets,895,"1,123","1,428","1,489","1,675",TTC
+Buildings,210,277,302,308,324,TTC
+Land/Improvements,40,56,57,58,60,TTC
+Machinery/Equipment,433,548,602,619,662,TTC
+Construction in Progress,35,35,48,86,144,TTC
+Other Prop./Plant/Equip.,212,227,310,288,302,TTC
+Prop./Plant/Equip. - Gross,929,"1,142","1,319","1,359","1,493",TTC
+Accumulated Depreciation,(658),(704),(772),(804),(845),TTC
+Prop./Plant/Equip. - Net,271,437,547,555,648,TTC
+"Goodwill, Net",225,362,424,422,583,TTC
+Intangibles - Gross,179,444,519,555,754,TTC
+Accum. Intangible Amort.,(74),(91),(111),(135),(168),TTC
+Intangibles - Net,106,352,408,420,586,TTC
+Long Term Investments,--,--,20,21,39,TTC
+Other Long Term Assets,36,49,20,24,19,TTC
+Total Assets,"1,571","2,331","2,853","2,936","3,556",TTC
+Accounts Payable,257,319,364,503,579,TTC
+Accrued Expenses,276,358,392,434,485,TTC
+Notes Payable/ST Debt,0,0,0,0,0,TTC
+Curr. Port. LT Dbt/Cap Ls.,0,80,100,0,--,TTC
+"Other Curr. Lblts, Total",0,0,--,--,--,TTC
+Total Current Liabilities,533,757,856,937,"1,064",TTC
+Total Long Term Debt,313,621,691,691,991,TTC
+Total Debt,313,701,791,691,991,TTC
+Deferred Income Tax,1,51,70,50,44,TTC
+"Other Liabilities, Total",55,43,121,106,106,TTC
+Total Liabilities,902,"1,471","1,738","1,785","2,204",TTC
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,0,TTC
+Common Stock,106,107,108,105,104,TTC
+Ret. Earn.(Accum. Deficit),587,785,"1,042","1,072","1,281",TTC
+Cum. Trans. Adjustment,(30),(31),(25),(20),(51),TTC
+Min. Pension Lblty Adj.,(1),(5),(5),(4),(4),TTC
+Other Comprehensive Income,6,4,(5),(3),22,TTC
+"Other Equity, Total",(24),(32),(34),(26),(33),TTC
+Total Equity,669,860,"1,115","1,151","1,352",TTC
+Total Liabilities & Shareholders’ Equity,"1,571","2,331","2,853","2,936","3,556",TTC
+Ttl Comm. Shares Outs.,106,107,108,105,104,TTC
+Trsy. Shrs-Comm. Primary Iss.,23,21,0,0,0,TTC

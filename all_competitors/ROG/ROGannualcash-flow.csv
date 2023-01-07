@@ -1,0 +1,39 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"80,459","87,651","47,319","49,990","108,133",ROG
+Depreciation/Depletion,"44,099","50,073","49,162","71,425","43,284",ROG
+Deferred Taxes,"17,513","(3,325)","(17,549)","(13,406)","(3,195)",ROG
+Unusual Items,"(4,347)","1,342","55,506",617,"1,522",ROG
+Equity in Net Earnings/Loss,"(4,898)","(5,501)","(5,319)","(4,877)","(7,032)",ROG
+Other Non-Cash Items,"17,679","15,042","18,894","19,988","21,923",ROG
+Non-Cash Items,"8,434","10,883","69,081","15,728","16,413",ROG
+"Cash Taxes Pd, Supplemental","36,918","29,161","17,593","29,983","33,788",ROG
+"Cash Interest Pd, Suppl","5,787","7,040","7,762","7,251","2,402",ROG
+Accounts Receivable,"(14,059)","(26,552)","20,950","(13,054)","(36,232)",ROG
+Inventories,"(14,208)","(19,013)","(1,200)","34,687","(34,413)",ROG
+Other Assets,(576),(648),"(1,519)",(217),"1,723",ROG
+Payable/Accrued,"12,341","(7,886)","(9,139)","10,084","36,688",ROG
+Changes in Working Capital,"(11,523)","(78,462)","13,310","41,319","(40,272)",ROG
+Total Cash from Operations,"138,982","66,820","161,323","165,056","124,363",ROG
+Capital Expenditures,"(27,215)","(90,549)","(51,597)","(40,385)","(71,125)",ROG
+Acquisition of Business,"(60,191)","(77,969)",0,0,"(168,204)",ROG
+Sale of Business,0,--,--,--,--,ROG
+Sale of Fixed Assets,"8,095","1,081",9,0,714,ROG
+Sale/Maturity of Investment,"1,041",--,"2,625",0,0,ROG
+Other Investing Cash Flow,0,0,--,--,--,ROG
+"OtherInvestCashFlowItms,Tot","(51,055)","(76,888)","2,634",0,"(167,490)",ROG
+Total Cash from Investing,"(78,270)","(167,437)","(48,963)","(40,385)","(238,615)",ROG
+Financing Cash Flow Items,"(6,478)","(6,600)","(7,550)","(7,219)","(2,881)",ROG
+Sale/Issuance of Common,895,"1,082","1,249","1,360","1,562",ROG
+Repurch/Retirement Common,0,"(2,999)",0,0,--,ROG
+"Common Stock, Net",895,"(1,917)","1,249","1,360","1,562",ROG
+Options Exercised,"3,085",861,344,0,0,ROG
+"Iss (Retirmnt) of Stock,Net","3,980","(1,056)","1,593","1,360","1,562",ROG
+Long Term Debt Issued,0,"102,500",0,"150,000","190,000",ROG
+Long Term Debt Reduction,"(110,689)","(6,162)","(105,886)","(248,330)","(29,624)",ROG
+"Iss (Retirmnt) of Debt, Net","(110,689)","96,338","(105,886)","(98,330)","160,376",ROG
+Total Cash From Financing,"(113,187)","88,682","(111,843)","(104,189)","159,057",ROG
+Foreign Exchange Effects,"5,867","(1,486)","(1,406)","4,454","(4,294)",ROG
+Net Change in Cash,"(46,608)","(13,421)",(889),"24,936","40,511",ROG
+NetCash-BeginBal/RsvdforFutUse,"227,767","181,159","167,738","166,849","191,785",ROG
+NetCash-EndBal/RsrvforFutUse,"181,159","167,738","166,849","191,785","232,296",ROG
+"Depreciation, Supplemental","44,099","50,073","49,162","71,425","43,284",ROG

@@ -1,0 +1,39 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"(8,849)","(22,443)","(4,912)","5,546","(6,591)",GE
+Depreciation/Depletion,"4,332","4,419","2,018","2,128","1,871",GE
+Amortization,"1,862","2,163","1,523","1,336","1,138",GE
+Discontinued Operations,"1,026","3,131","4,202","3,454","5,639",GE
+Unusual Items,"1,526","20,614","1,060","(9,206)","4,908",GE
+Other Non-Cash Items,"(1,987)","(2,997)","2,904",(627),894,GE
+Non-Cash Items,565,"20,748","8,166","(6,379)","11,441",GE
+"Cash Taxes Pd, Supplemental","1,924","1,404","1,950","1,441","1,165",GE
+"Cash Interest Pd, Suppl","4,211","4,409","4,101","2,976","2,536",GE
+Accounts Receivable,"(5,145)",(439),"(1,960)",312,854,GE
+Inventories,324,(356),"(1,581)","1,105",(702),GE
+Accounts Payable,169,"1,545","2,679",(582),(2),GE
+Changes in Working Capital,"8,645",92,"1,940",936,"(4,527)",GE
+Total Cash from Operations,"6,555","4,979","8,735","3,567","3,332",GE
+Purchase of Fixed Assets,"(6,642)","(6,627)","(2,216)","(1,579)","(1,250)",GE
+Software Development Costs,(454),(320),(282),(151),(111),GE
+Capital Expenditures,"(7,096)","(6,947)","(2,498)","(1,730)","(1,361)",GE
+Acquisition of Business,"(2,722)",(1),(68),(85),"(1,550)",GE
+Sale of Business,"3,208","8,425","4,507","20,979","4,146",GE
+Sale of Fixed Assets,"6,994","4,122","6,243",203,"22,523",GE
+"Investment, Net",--,--,"(1,600)","(1,352)","(1,290)",GE
+Other Investing Cash Flow,"4,995","12,681","2,393","(1,344)","(1,160)",GE
+"OtherInvestCashFlowItms,Tot","12,475","25,227","11,475","18,401","22,669",GE
+Total Cash from Investing,"5,379","18,280","8,977","16,671","21,308",GE
+Financing Cash Flow Items,"5,358","(5,774)","(1,642)",(432),"(7,735)",GE
+Total Cash Dividends Paid,"(8,650)","(4,474)",(649),(648),(575),GE
+"Iss (Retirmnt) of Stock,Net","(2,550)",(17),--,--,--,GE
+"Short Term Debt, Net","1,699","(4,343)",280,"(4,168)",(710),GE
+Long Term Debt Issued,"10,879","3,120","2,185","15,028",364,GE
+Long Term Debt Reduction,"(25,220)","(20,319)","(16,307)","(29,632)","(36,521)",GE
+"Long Term Debt, Net","(14,341)","(17,199)","(14,122)","(14,604)","(36,157)",GE
+"Iss (Retirmnt) of Debt, Net","(12,642)","(21,542)","(13,842)","(18,772)","(36,867)",GE
+Total Cash From Financing,"(18,484)","(31,807)","(16,133)","(19,852)","(45,177)",GE
+Foreign Exchange Effects,891,(628),(50),145,(213),GE
+Net Change in Cash,"(5,659)","(9,176)","1,529",531,"(20,750)",GE
+NetCash-BeginBal/RsvdforFutUse,"50,384","44,724","35,548","37,077","37,608",GE
+NetCash-EndBal/RsrvforFutUse,"44,724","35,548","37,077","37,608","16,859",GE
+"Depreciation, Supplemental","4,332","4,419","2,018","2,128","1,871",GE

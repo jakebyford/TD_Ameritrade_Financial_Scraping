@@ -1,0 +1,35 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"2,914","2,937","3,281","4,368","6,946",TGT
+Depreciation/Depletion,"2,476","2,474","2,604","2,485","2,642",TGT
+Deferred Taxes,(188),322,178,(184),522,TGT
+Discontinued Operations,68,(4),6,0,0,TGT
+Unusual Items,331,95,39,598,(268),TGT
+Other Non-Cash Items,112,132,147,200,228,TGT
+Non-Cash Items,511,223,192,798,(40),TGT
+"Cash Taxes Pd, Supplemental",934,373,696,"1,031","2,063",TGT
+"Cash Interest Pd, Suppl",678,476,492,939,414,TGT
+Inventories,(348),(900),505,"(1,661)","(3,249)",TGT
+Other Assets,(156),(299),18,(137),(78),TGT
+Accounts Payable,"1,307","1,127",140,"2,925","2,628",TGT
+Accrued Expenses,419,89,199,"1,931",(746),TGT
+Changes in Working Capital,"1,222",17,862,"3,058","(1,445)",TGT
+Total Cash from Operations,"6,935","5,973","7,117","10,525","8,625",TGT
+Capital Expenditures,"(2,533)","(3,516)","(3,027)","(2,649)","(3,544)",TGT
+Acquisition of Business,(518),--,--,--,--,TGT
+Sale of Business,--,0,0,--,356,TGT
+Sale of Fixed Assets,31,85,63,42,27,TGT
+"Investment, Net",(55),15,20,16,7,TGT
+"OtherInvestCashFlowItms,Tot",(542),100,83,58,390,TGT
+Total Cash from Investing,"(3,075)","(3,416)","(2,944)","(2,591)","(3,154)",TGT
+Total Cash Dividends Paid,"(1,338)","(1,335)","(1,330)","(1,343)","(1,548)",TGT
+"Common Stock, Net","(1,046)","(2,124)","(1,565)",(745),"(7,356)",TGT
+Options Exercised,108,96,73,23,8,TGT
+"Iss (Retirmnt) of Stock,Net",(938),"(2,028)","(1,492)",(722),"(7,348)",TGT
+Long Term Debt Issued,739,0,"1,739","2,480","1,972",TGT
+Long Term Debt Reduction,"(2,192)",(281),"(2,069)","(2,415)","(1,147)",TGT
+"Iss (Retirmnt) of Debt, Net","(1,453)",(281),(330),65,825,TGT
+Total Cash From Financing,"(3,729)","(3,644)","(3,152)","(2,000)","(8,071)",TGT
+Net Change in Cash,131,"(1,087)","1,021","5,934","(2,600)",TGT
+NetCash-BeginBal/RsvdforFutUse,"2,512","2,643","1,556","2,577","8,511",TGT
+NetCash-EndBal/RsrvforFutUse,"2,643","1,556","2,577","8,511","5,911",TGT
+"Depreciation, Supplemental","2,476","2,474","2,604","2,485","2,642",TGT

@@ -1,0 +1,34 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,801,210,223,357,ADS
+Depreciation/Depletion,123,21,51,80,ADS
+Deferred Taxes,(15),(48),(102),(137),ADS
+Unusual Items,0,--,--,--,ADS
+Other Non-Cash Items,675,227,669,"1,008",ADS
+Non-Cash Items,675,227,669,"1,008",ADS
+"Cash Taxes Pd, Supplemental",357,--,--,--,ADS
+"Cash Interest Pd, Suppl",325,--,--,--,ADS
+Changes in Working Capital,(41),87,(98),43,ADS
+Total Cash from Operations,"1,543",497,743,"1,351",ADS
+Capital Expenditures,(84),(20),(43),(53),ADS
+Acquisition of Business,(75),--,--,--,ADS
+Sale of Business,0,--,--,--,ADS
+Sale/Maturity of Investment,585,12,18,25,ADS
+Purchase of Investments,(203),(18),(272),(284),ADS
+Other Investing Cash Flow,"(1,914)",336,(600),"(1,176)",ADS
+"OtherInvestCashFlowItms,Tot","(1,607)",330,(854),"(1,435)",ADS
+Total Cash from Investing,"(1,691)",310,(897),"(1,488)",ADS
+Financing Cash Flow Items,"1,080",(7),(32),"1,381",ADS
+Total Cash Dividends Paid,(42),(10),(22),(32),ADS
+Sale/Issuance of Common,4,--,--,--,ADS
+Repurch/Retirement Common,0,--,--,--,ADS
+"Iss (Retirmnt) of Stock,Net",4,(12),(12),(12),ADS
+"Long Term Debt, Net",--,(405),--,--,ADS
+Total Debt Issued,"4,968",700,"1,806","1,941",ADS
+Total Debt Reduction,"(5,402)","(1,362)","(1,812)","(3,456)",ADS
+"Iss (Retirmnt) of Debt, Net",(434),"(1,067)",(6),"(1,515)",ADS
+Total Cash From Financing,608,"(1,096)",(72),(178),ADS
+Foreign Exchange Effects,0,0,0,0,ADS
+Net Change in Cash,460,(289),(226),(315),ADS
+NetCash-BeginBal/RsvdforFutUse,"3,463","3,923","3,923","3,923",ADS
+NetCash-EndBal/RsrvforFutUse,"3,923","3,634","3,697","3,608",ADS
+"Depreciation, Supplemental",123,21,51,80,ADS

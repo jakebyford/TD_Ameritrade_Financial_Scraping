@@ -1,0 +1,44 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"203,256","203,391","230,752","227,814",SHAK
+"Cost of Revenue, Total","118,492","120,152","131,540","132,142",SHAK
+Selling/Gen/Admin Expense,"43,337","47,317","45,401","43,778",SHAK
+Labor & Related Expense,"2,740","3,188","3,452","3,515",SHAK
+"Sell/Gen/AdminExpenses,Tot","46,077","50,505","48,853","47,293",SHAK
+Depreciation/Amortization,"15,610","16,855","18,087","18,647",SHAK
+Unusual Expense (Income),370,577,528,592,SHAK
+Loss(Gain)/Sale Asts (Oper),370,577,528,592,SHAK
+Other Operating Expense,"29,200","30,237","32,563","33,966",SHAK
+"Other Operat Expse, Total","29,200","30,237","32,563","33,966",SHAK
+Total Operating Expense,"209,749","218,326","231,571","232,640",SHAK
+Total Operating Income,"(6,493)","(14,935)",(819),"(4,826)",SHAK
+"Inter Expse,Net Non-Operat",(353),(355),(315),(475),SHAK
+"Inter/Invest Inc, Non-Oper",(82),(323),(26),451,SHAK
+OtherNon-OperatInc (Expnse),20,34,564,"1,031",SHAK
+"Other, Net",20,34,564,"1,031",SHAK
+Income Before Tax,"(6,908)","(15,579)",(596),"(3,819)",SHAK
+Income Tax - Total,"3,441","(4,297)",707,"(1,508)",SHAK
+Income After Tax,"(10,349)","(11,282)","(1,303)","(2,311)",SHAK
+Minority Interest,619,"1,120",115,287,SHAK
+Net Inc Before Extra Items,"(9,730)","(10,162)","(1,188)","(2,024)",SHAK
+Total Net Income,"(9,730)","(10,162)","(1,188)","(2,024)",SHAK
+Income Available to Common Excl. Extra. Items,"(9,730)","(10,162)","(1,188)","(2,024)",SHAK
+Income Available to Common Incl. Extra. Items,"(9,730)","(10,162)","(1,188)","(2,024)",SHAK
+Basic/Primary Weighted Average Shares,"39,142","39,163","39,227","39,274",SHAK
+Basic/Primary EPS Excl. Extra. Items,(0.25),(0.26),(0.03),(0.05),SHAK
+Basic/Primary EPS Incl. Extra. Items,(0.25),(0.26),(0.03),(0.05),SHAK
+Diluted Weighted Average Shares,"39,142","39,163","39,227","39,274",SHAK
+Diluted EPS Excl. Extra. Items,(0.25),(0.26),(0.03),(0.05),SHAK
+Diluted EPS Incl. Extra. Items,(0.25),(0.26),(0.03),(0.05),SHAK
+Div/Share-ComStockPrimIssue,0.00,0.00,0.00,0.00,SHAK
+Gross Divid - Common Stock,0,--,--,--,SHAK
+Pro Forma Net Income,--,--,--,--,SHAK
+"Interest Expense, Suppl",353,355,315,475,SHAK
+"Depreciat/Amort, Suppl","15,610","16,855","18,087","18,647",SHAK
+Total Special Items,311,"6,577","1,278",592,SHAK
+Normalzd Income Before Tax,"(6,597)","(9,002)",682,"(3,227)",SHAK
+Efct/SpecItemsIncTxs (STEC),109,"2,302",447,207,SHAK
+IncTxsExcl ImpctofSpec Itms,"3,550","(1,995)","1,154","(1,301)",SHAK
+Normalized Income After Tax,"(10,147)","(7,007)",(472),"(1,926)",SHAK
+Normalzd Inc Avail to Common,"(9,528)","(5,887)",(357),"(1,639)",SHAK
+Basic Normalized EPS,(0.24),(0.15),(0.01),(0.04),SHAK
+Diluted Normalized EPS,(0.24),(0.15),(0.01),(0.04),SHAK

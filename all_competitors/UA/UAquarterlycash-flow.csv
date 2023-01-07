@@ -1,0 +1,36 @@
+items,Q4 2021,Q4 2022,Q1 2023,Q2 2023,ticker
+Net Income,360,(60),8,95,UA
+Depreciation/Depletion,141,35,34,68,UA
+Deferred Taxes,(3),(3),(1),(2),UA
+Unusual Items,90,0,0,1,UA
+Other Non-Cash Items,54,(2),20,42,UA
+Non-Cash Items,144,(2),20,43,UA
+"Cash Taxes Pd, Supplemental",43,--,--,--,UA
+"Cash Interest Pd, Suppl",25,--,--,--,UA
+Accounts Receivable,(31),(132),9,(90),UA
+Inventories,93,(6),(134),(267),UA
+Prepaid Expenses,10,(4),(8),(15),UA
+Other Assets,80,28,20,(37),UA
+Accounts Payable,26,(55),96,167,UA
+Accrued Expenses,(115),(123),44,19,UA
+Changes in Working Capital,23,(293),26,(206),UA
+Total Cash from Operations,665,(321),87,(2),UA
+Capital Expenditures,(70),(40),(36),(94),UA
+Acquisition of Business,0,--,--,--,UA
+Sale of Business,--,--,35,35,UA
+Sale of Fixed Assets,1,0,0,0,UA
+"OtherInvestCashFlowItms,Tot",1,0,35,35,UA
+Total Cash from Investing,(68),(40),(1),(59),UA
+Financing Cash Flow Items,(8),(11),0,(1),UA
+"Common Stock, Net",--,(300),(25),(50),UA
+Options Exercised,95,1,1,2,UA
+"Iss (Retirmnt) of Stock,Net",95,(299),(24),(48),UA
+Long Term Debt Issued,0,0,--,--,UA
+Long Term Debt Reduction,(506),--,0,--,UA
+"Iss (Retirmnt) of Debt, Net",(506),0,0,--,UA
+Total Cash From Financing,(419),(311),(24),(49),UA
+Foreign Exchange Effects,(23),11,(21),(44),UA
+Net Change in Cash,154,(661),41,(154),UA
+NetCash-BeginBal/RsvdforFutUse,"1,529","1,683","1,022","1,022",UA
+NetCash-EndBal/RsrvforFutUse,"1,683","1,022","1,063",868,UA
+"Depreciation, Supplemental",141,35,34,68,UA

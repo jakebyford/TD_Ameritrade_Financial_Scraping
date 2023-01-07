@@ -1,0 +1,35 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"4,046","4,088","3,370","5,283","5,376",SAP
+Depreciation/Depletion,"1,272","1,362","1,872","1,831","1,775",SAP
+Non-Cash Items,729,"1,477","1,566",806,999,SAP
+"Cash Taxes Pd, Supplemental","1,332","1,687","2,329","1,194","2,063",SAP
+"Cash Interest Pd, Suppl",200,251,341,244,202,SAP
+Accounts Receivable,(309),136,"(1,469)",821,414,SAP
+Other Assets,(355),(454),(583),(651),(706),SAP
+Accounts Payable,389,93,328,293,475,SAP
+Changes in Working Capital,"(1,002)","(2,624)","(3,312)",(727),"(1,928)",SAP
+Total Cash from Operations,"5,045","4,303","3,496","7,193","6,222",SAP
+Capital Expenditures,"(1,275)","(1,458)",(817),(816),(800),SAP
+Acquisition of Business,(291),"(2,036)","(6,215)",(662),"(1,214)",SAP
+Sale of Business,--,--,61,203,--,SAP
+Sale of Fixed Assets,97,57,71,88,91,SAP
+Sale/Maturity of Investment,"3,272","1,488",778,735,"3,229",SAP
+"Investment, Net",0,(103),--,--,--,SAP
+Purchase of Investments,"(2,914)","(1,013)",(900),"(2,535)","(4,368)",SAP
+Other Investing Cash Flow,(1),(1),1,1,(1),SAP
+"OtherInvestCashFlowItms,Tot",163,"(1,608)","(6,204)","(2,170)","(2,263)",SAP
+Total Cash from Investing,"(1,112)","(3,066)","(7,021)","(2,986)","(3,063)",SAP
+Financing Cash Flow Items,(43),(7),(18),(60),(56),SAP
+Total Cash Dividends Paid,"(1,499)","(1,671)","(1,790)","(1,864)","(2,182)",SAP
+Sale/Issuance of Common,0,0,--,95,"2,828",SAP
+Repurch/Retirement Common,(500),0,0,"(1,492)",0,SAP
+"Iss (Retirmnt) of Stock,Net",(500),0,0,"(1,397)","2,828",SAP
+Long Term Debt Issued,27,"6,368","3,622","2,132","1,680",SAP
+Long Term Debt Reduction,"(1,391)","(1,407)","(1,712)","(2,808)","(2,326)",SAP
+"Iss (Retirmnt) of Debt, Net","(1,364)","4,961","1,910",(676),(646),SAP
+Total Cash From Financing,"(3,406)","3,283",102,"(3,997)",(56),SAP
+Foreign Exchange Effects,(218),97,110,(214),484,SAP
+Net Change in Cash,309,"4,617","(3,313)",(4),"3,587",SAP
+NetCash-BeginBal/RsvdforFutUse,"3,702","4,011","8,627","5,314","5,311",SAP
+NetCash-EndBal/RsrvforFutUse,"4,011","8,627","5,314","5,311","8,898",SAP
+"Depreciation, Supplemental","1,272","1,362","1,872","1,831","1,775",SAP

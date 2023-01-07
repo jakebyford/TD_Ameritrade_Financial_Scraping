@@ -1,0 +1,58 @@
+items,2017,2018,2019,2020,2021,ticker
+Interest & Fees on Loans,"1,420","1,866","1,789","1,142",958,BK
+Inter & Divs/ Invest Securs,"2,041","2,574","2,737","2,146","1,744",BK
+Fed. Fund/Resale,423,"1,116","2,154",545,120,BK
+Interest on Deposits,439,750,713,184,(29),BK
+Trading Account Interest,59,126,155,92,52,BK
+"Interest Income, Bank","4,382","6,432","7,548","4,109","2,845",BK
+Interest on Deposit,226,"1,068","1,832",189,(181),BK
+Inter on Other Borrowings,623,995,"1,091",660,408,BK
+Fed Funds Sold/Secs Sold under Repurch Agrmnt,225,758,"1,437",283,--,BK
+Total Interest Expense,"1,074","2,821","4,360","1,132",227,BK
+Net Interest Income,"3,308","3,611","3,188","2,977","2,618",BK
+Loan Loss Provision,(24),(11),(25),336,(231),BK
+NetInterIn after Loan Loss Provision,"3,332","3,622","3,213","2,641","2,849",BK
+Fees & Commish from Operat,216,207,196,212,"8,478",BK
+Commish & Fees/Secur Act,"11,054","11,524","11,289","11,414","3,588",BK
+Dealer Trading Acct Profit,--,--,--,--,6,BK
+Invest Securities Gains,109,(57),53,141,204,BK
+Foreign Currency Gains,668,732,654,789,799,BK
+Unrealized Gains,279,--,--,--,--,BK
+Other Unusual Income,55,71,819,(38),13,BK
+Other Revenue,(146),304,263,313,225,BK
+"Non-Interest Income, Bank","12,235","12,781","13,274","12,831","13,313",BK
+Labor & Related Expenses,"(5,972)","(6,145)","(6,063)","(5,966)","(6,337)",BK
+Amortization of Intangibles,(209),(180),(117),(104),(82),BK
+Other Unusual Expense,(106),--,--,--,--,BK
+Other Expense,"(4,670)","(4,886)","(4,720)","(4,934)","(5,095)",BK
+"Non-Interest Expense, Bank","(10,957)","(11,211)","(10,900)","(11,004)","(11,514)",BK
+Income Before Tax,"4,610","5,192","5,587","4,468","4,648",BK
+Income Tax - Total,"1,206","1,044","1,120",842,877,BK
+Income After Tax,"3,404","4,148","4,467","3,626","3,771",BK
+Minority Interest,(24),12,(26),(9),(12),BK
+Net Inc Before Extra Items,"3,380","4,160","4,441","3,617","3,759",BK
+Total Extraordinary Items,710,106,--,--,--,BK
+Total Net Income,"4,090","4,266","4,441","3,617","3,759",BK
+Preferred Dividends,(175),(169),(169),(194),(207),BK
+Misc Earnings Adjustment,(43),(27),(18),(6),(2),BK
+Total Adjust to Net Income,(218),(196),(187),(200),(209),BK
+Income Available to Common Excl. Extra. Items,"3,162","3,964","4,254","3,417","3,550",BK
+Income Available to Common Incl. Extra. Items,"3,872","4,070","4,254","3,417","3,550",BK
+Basic/Primary Weighted Average Shares,"1,034","1,003",940,891,852,BK
+Basic/Primary EPS Excl. Extra. Items,3.06,3.95,4.53,3.84,4.17,BK
+Basic/Primary EPS Incl. Extra. Items,3.74,4.06,4.53,3.84,4.17,BK
+Diluted Weighted Average Shares,"1,040","1,007",943,893,856,BK
+Diluted EPS Excl. Extra. Items,3.04,3.94,4.51,3.83,4.15,BK
+Diluted EPS Incl. Extra. Items,3.72,4.04,4.51,3.83,4.15,BK
+Div/Share-ComStockPrimIssue,0.86,1.04,1.18,1.24,1.30,BK
+Gross Divid - Common Stock,901,"1,052","1,120","1,117","1,126",BK
+Pro Forma Net Income,--,--,--,--,--,BK
+"Depreciat/Amort, Suppl","1,265","1,159","1,198","1,526","1,785",BK
+Total Special Items,51,(71),(819),38,(13),BK
+Normalzd Income Before Tax,"4,661","5,121","4,768","4,506","4,635",BK
+Efct/SpecItemsIncTxs (STEC),13,(14),(164),7,(2),BK
+IncTxsExcl ImpctofSpec Itms,"1,219","1,030",956,849,875,BK
+Normalized Income After Tax,"3,442","4,091","3,812","3,657","3,760",BK
+Normalzd Inc Avail to Common,"3,200","3,907","3,599","3,448","3,539",BK
+Basic Normalized EPS,3.09,3.90,3.83,3.87,4.15,BK
+Diluted Normalized EPS,3.08,3.88,3.82,3.86,4.13,BK

@@ -1,0 +1,40 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"2,227","1,993","1,548","3,916",(265),AZN
+Depreciation/Depletion,"3,036","3,753","3,762","3,149","6,530",AZN
+Unusual Items,"(1,518)","(1,885)","(1,243)","(1,030)","(1,289)",AZN
+Equity in Net Earnings/Loss,55,113,116,27,64,AZN
+Other Non-Cash Items,980,496,"1,024",671,"1,366",AZN
+Non-Cash Items,(483),"(1,276)",(103),(332),141,AZN
+"Cash Taxes Pd, Supplemental",454,537,"1,118","1,562","1,743",AZN
+"Cash Interest Pd, Suppl",698,676,774,733,721,AZN
+Accounts Receivable,83,(523),(898),(739),(961),AZN
+Inventories,(548),(13),(316),(621),"1,577",AZN
+Payable/Accrued,415,(103),868,"1,721","1,405",AZN
+Changes in Working Capital,"(1,202)","(1,852)","(2,238)","(1,934)",(443),AZN
+Total Cash from Operations,"3,578","2,618","2,969","4,799","5,963",AZN
+Purchase of Fixed Assets,"(1,326)","(1,043)",(979),(961),"(1,091)",AZN
+Purchase/Acq of Intangibles,(294),(328),"(1,481)","(1,645)","(1,109)",AZN
+Capital Expenditures,"(1,620)","(1,371)","(2,460)","(2,606)","(2,200)",AZN
+Acquisition of Business,"(1,450)",0,0,--,"(9,263)",AZN
+Sale of Fixed Assets,83,12,37,106,13,AZN
+Sale/Maturity of Investment,70,24,18,"1,381",785,AZN
+"Investment, Net",(345),405,194,745,96,AZN
+Purchase of Investments,(172),(289),(87),(127),(276),AZN
+Sale of Intangible,"1,376","2,338","2,076",951,587,AZN
+Other Investing Cash Flow,(270),(156),(435),(735),(800),AZN
+"OtherInvestCashFlowItms,Tot",(708),"2,334","1,803","2,321","(8,858)",AZN
+Total Cash from Investing,"(2,328)",963,(657),(285),"(11,058)",AZN
+Financing Cash Flow Items,(20),(67),4,(101),(178),AZN
+Total Cash Dividends Paid,"(3,519)","(3,484)","(3,592)","(3,572)","(3,856)",AZN
+"Iss (Retirmnt) of Stock,Net",43,34,"3,525",30,29,AZN
+"Short Term Debt, Net",336,(98),(516),288,(276),AZN
+"Long Term Debt, Net",(14),0,(186),(207),(240),AZN
+Total Debt Issued,"1,988","2,971",500,"2,968","12,929",AZN
+Total Debt Reduction,"(1,750)","(1,400)","(1,500)","(1,609)","(4,759)",AZN
+"Iss (Retirmnt) of Debt, Net",560,"1,473","(1,702)","1,440","7,654",AZN
+Total Cash From Financing,"(2,936)","(2,044)","(1,765)","(2,203)","3,649",AZN
+Foreign Exchange Effects,(66),(38),5,12,(62),AZN
+Net Change in Cash,"(1,752)","1,499",552,"2,323","(1,508)",AZN
+NetCash-BeginBal/RsvdforFutUse,"4,924","3,172","4,671","5,223","7,546",AZN
+NetCash-EndBal/RsrvforFutUse,"3,172","4,671","5,223","7,546","6,038",AZN
+"Depreciation, Supplemental","3,036","3,753","3,762","3,149","6,530",AZN

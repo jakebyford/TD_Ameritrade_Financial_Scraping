@@ -1,0 +1,36 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Net Income,"1,086","2,086","3,205","3,203",HPQ
+Depreciation/Depletion,197,390,571,780,HPQ
+Deferred Taxes,5,(5),47,574,HPQ
+Unusual Items,68,150,163,233,HPQ
+Other Non-Cash Items,319,507,634,818,HPQ
+Non-Cash Items,387,657,797,"1,051",HPQ
+Accounts Receivable,337,91,"1,076","1,260",HPQ
+Inventories,"(1,277)","(1,270)",(570),233,HPQ
+Other Assets,(20),(41),(94),(155),HPQ
+Accounts Payable,"2,035",981,(491),(928),HPQ
+Changes in Working Capital,(18),(963),"(2,061)","(1,145)",HPQ
+Total Cash from Operations,"1,657","2,165","2,559","4,463",HPQ
+Capital Expenditures,(273),(452),(647),(791),HPQ
+Acquisition of Business,(21),(24),(24),"(2,755)",HPQ
+Sale of Fixed Assets,--,1,26,26,HPQ
+Sale/Maturity of Investment,0,7,8,9,HPQ
+"Investment, Net",14,14,14,14,HPQ
+Purchase of Investments,0,(8),(50),(52),HPQ
+"OtherInvestCashFlowItms,Tot",(7),(10),(26),"(2,758)",HPQ
+Total Cash from Investing,(280),(462),(673),"(3,549)",HPQ
+Financing Cash Flow Items,(92),(38),(9),184,HPQ
+Total Cash Dividends Paid,(271),(533),(788),"(1,037)",HPQ
+"Iss (Retirmnt) of Stock,Net","(1,508)","(2,518)","(3,547)","(4,297)",HPQ
+Short Term Debt Issued,9,--,--,--,HPQ
+Short Term Debt Reduction,(400),(400),(400),--,HPQ
+"Short Term Debt, Net",(391),(400),(400),(400),HPQ
+Long Term Debt Issued,30,"2,060","4,086","4,175",HPQ
+Long Term Debt Reduction,(50),(96),(141),(693),HPQ
+"Long Term Debt, Net",(20),"1,964","3,945","3,482",HPQ
+"Iss (Retirmnt) of Debt, Net",(411),"1,564","3,545","3,082",HPQ
+Total Cash From Financing,"(2,282)","(1,525)",(799),"(2,068)",HPQ
+Net Change in Cash,(905),178,"1,087","(1,154)",HPQ
+NetCash-BeginBal/RsvdforFutUse,"4,299","4,299","4,299","4,299",HPQ
+NetCash-EndBal/RsrvforFutUse,"3,394","4,477","5,386","3,145",HPQ
+"Depreciation, Supplemental",197,390,571,780,HPQ

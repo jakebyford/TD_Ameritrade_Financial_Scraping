@@ -1,0 +1,59 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash and Short Term Invs,22,33,28,130,71,PZZA
+"Trade Accts Recvble, Gross",67,82,88,94,84,PZZA
+Prov. for Doubtful Accts,(2),(4),(7),(4),(2),PZZA
+"Trade Accts Recvble, Net",65,78,81,90,81,PZZA
+Notes Recvble - Short Term,4,5,8,11,12,PZZA
+Other Receivables,4,16,4,1,9,PZZA
+"Total Receivables, Net",73,100,93,103,103,PZZA
+Total Inventory,31,27,28,30,35,PZZA
+Prepaid Expenses,29,31,33,43,46,PZZA
+Discont. Ops.-Curr. Assets,6,--,--,--,--,PZZA
+Other Current Assets,9,5,0,--,--,PZZA
+"Other Curr. Assets, Total",16,5,0,--,--,PZZA
+Total Current Assets,170,196,182,306,255,PZZA
+Buildings,217,217,213,215,230,PZZA
+Land/Improvements,34,34,33,33,31,PZZA
+Machinery/Equipment,379,403,424,437,466,PZZA
+Construction in Progress,11,11,7,8,24,PZZA
+Other Prop./Plant/Equip.,--,0,158,165,197,PZZA
+Prop./Plant/Equip. - Gross,640,665,834,857,947,PZZA
+Accumulated Depreciation,(406),(438),(465),(492),(526),PZZA
+Prop./Plant/Equip. - Net,234,227,369,366,421,PZZA
+"Goodwill, Net",87,85,80,81,81,PZZA
+Note Rcvble - Long Term,16,23,33,37,36,PZZA
+Other Long Term Assets,48,64,65,72,88,PZZA
+Total Assets,556,596,731,873,886,PZZA
+Accounts Payable,32,27,29,37,28,PZZA
+Accrued Expenses,47,58,89,119,119,PZZA
+Notes Payable/ST Debt,0,0,0,0,0,PZZA
+Curr. Port. LT Dbt/Cap Ls.,20,20,22,24,5,PZZA
+Customer Advances,--,6,6,20,22,PZZA
+Income Taxes Payable,11,7,8,10,20,PZZA
+Other Current Liabilities,24,71,55,79,93,PZZA
+"Other Curr. Lblts, Total",34,84,68,109,135,PZZA
+Total Current Liabilities,133,189,208,289,287,PZZA
+Long Term Debt,447,601,347,328,481,PZZA
+Capital Lease Obligations,--,0,8,14,17,PZZA
+Total Long Term Debt,447,601,355,342,497,PZZA
+Total Debt,467,621,377,365,502,PZZA
+Deferred Income Tax,13,8,3,1,0,PZZA
+Minority Interest,22,21,21,22,21,PZZA
+Reserves,22,42,45,49,54,PZZA
+Pension Benefits - Underfunded,29,28,33,54,36,PZZA
+Other LT Liabilities,12,27,147,146,178,PZZA
+"Other Liabilities, Total",63,97,225,250,268,PZZA
+Total Liabilities,677,915,812,903,"1,073",PZZA
+"Pref. Stock-Non Rdmbl, Net",--,0,251,252,0,PZZA
+Common Stock,0,0,0,0,0,PZZA
+Additional Paid-In Capital,185,193,219,254,445,PZZA
+Ret. Earn.(Accum. Deficit),292,242,206,219,183,PZZA
+Treasury Stock - Common,(597),(752),(747),(742),(806),PZZA
+Cum. Trans. Adjustment,--,(7),(6),(4),(5),PZZA
+Other Comprehensive Income,(2),4,(5),(10),(5),PZZA
+"Other Equity, Total",(2),(3),(10),(14),(10),PZZA
+Total Equity,(122),(319),(81),(30),(188),PZZA
+Total Liabilities & Shareholders’ Equity,556,596,731,873,886,PZZA
+Ttl Comm. Shares Outs.,34,31,32,33,36,PZZA
+Trsy. Shrs-Comm. Primary Iss.,10,13,13,13,13,PZZA
+Trsry Shrs-Pref. Iss. 1,--,--,0,0,0,PZZA

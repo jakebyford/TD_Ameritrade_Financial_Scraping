@@ -1,0 +1,47 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"2,140","5,991","4,896","4,920","2,958",NOVN
+Selling/Gen/Admin Expense,"11,123","10,447","9,284","10,797","11,818",NOVN
+Labor & Related Expense,"1,990","1,060","1,128",474,525,NOVN
+"Sell/Gen/AdminExpenses,Tot","13,113","11,507","10,412","11,271","12,343",NOVN
+Research & Development,"25,212","23,045","25,172","19,814","20,416",NOVN
+Impair-Assets Held for Use,--,--,--,"2,277",114,NOVN
+Other Unusual Expnse (In),--,--,--,--,(956),NOVN
+Unusual Expense (Income),--,--,--,"4,049",(842),NOVN
+Loss(Gain)/Sale Asts (Oper),--,--,--,"1,772",0,NOVN
+Total Operating Expense,"38,325","34,552","35,584","35,134","31,917",NOVN
+Total Operating Income,"(36,185)","(28,561)","(30,688)","(30,214)","(28,959)",NOVN
+"Inter Expse,Net Non-Operat",--,"(1,047)",(2),0,--,NOVN
+"Inter Income, Non-Operating",--,297,177,51,13,NOVN
+"Invest Income, Non-Operat",--,"16,566",(264),--,--,NOVN
+"Inter/Invest Inc, Non-Oper",--,"16,863",(87),51,13,NOVN
+OtherNon-OperatInc (Expnse),(942),72,136,870,(746),NOVN
+"Other, Net",(942),72,136,870,(746),NOVN
+Income Before Tax,"(37,127)","(12,673)","(30,641)","(29,293)","(29,692)",NOVN
+Income Tax - Total,0,--,--,--,--,NOVN
+Income After Tax,"(37,127)","(12,673)","(30,641)","(29,293)","(29,692)",NOVN
+Net Inc Before Extra Items,"(37,127)","(12,673)","(30,641)","(29,293)","(29,692)",NOVN
+Discontinued Operations,0,--,--,--,--,NOVN
+Extraordinary Item,0,--,--,--,--,NOVN
+Total Extraordinary Items,0,--,--,--,--,NOVN
+Total Net Income,"(37,127)","(12,673)","(30,641)","(29,293)","(29,692)",NOVN
+Income Available to Common Excl. Extra. Items,"(37,127)","(12,673)","(30,641)","(29,293)","(29,692)",NOVN
+Income Available to Common Incl. Extra. Items,"(37,127)","(12,673)","(30,641)","(29,293)","(29,692)",NOVN
+Basic/Primary Weighted Average Shares,"1,598","2,580","2,625","9,881","17,066",NOVN
+Basic/Primary EPS Excl. Extra. Items,(23.23),(4.91),(11.67),(2.96),(1.74),NOVN
+Basic/Primary EPS Incl. Extra. Items,(23.23),(4.91),(11.67),(2.96),(1.74),NOVN
+Diluted Weighted Average Shares,"1,598","2,580","2,625","9,881","17,066",NOVN
+Diluted EPS Excl. Extra. Items,(23.23),(4.91),(11.67),(2.96),(1.74),NOVN
+Diluted EPS Incl. Extra. Items,(23.23),(4.91),(11.67),(2.96),(1.74),NOVN
+Div/Share-ComStockPrimIssue,0.00,--,--,--,--,NOVN
+Gross Divid - Common Stock,0,0,0,0,0,NOVN
+Pro Forma Net Income,--,--,--,--,--,NOVN
+"Interest Expense, Suppl",--,"1,047",2,0,--,NOVN
+"Depreciat/Amort, Suppl","1,423","1,664","2,033","1,170",344,NOVN
+Total Special Items,--,--,--,"4,049",(842),NOVN
+Normalzd Income Before Tax,"(37,127)","(12,673)","(30,641)","(25,244)","(30,534)",NOVN
+Efct/SpecItemsIncTxs (STEC),--,--,--,0,0,NOVN
+IncTxsExcl ImpctofSpec Itms,0,--,--,0,0,NOVN
+Normalized Income After Tax,"(37,127)","(12,673)","(30,641)","(25,244)","(30,534)",NOVN
+Normalzd Inc Avail to Common,"(37,127)","(12,673)","(30,641)","(25,244)","(30,534)",NOVN
+Basic Normalized EPS,(23.23),(4.91),(11.67),(2.55),(1.79),NOVN
+Diluted Normalized EPS,(23.23),(4.91),(11.67),(2.55),(1.79),NOVN

@@ -1,0 +1,46 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Total Revenue,"2,994","2,945","3,189","3,570",APD
+"Cost of Revenue, Total","2,224","2,152","2,342","2,621",APD
+"Sell/Gen/AdminExpenses,Tot",233,227,217,224,APD
+Research & Development,23,24,25,31,APD
+"Inter/Invest Inc, Operating",--,0,0,0,APD
+Other Unusual Expnse (In),--,0,0,74,APD
+Unusual Expense (Income),--,0,0,74,APD
+"Other Operat Expse, Total",(9),(19),(22),(6),APD
+Total Operating Expense,"2,471","2,383","2,562","2,944",APD
+Total Operating Income,523,562,627,627,APD
+"Inter Expse, Non-Operating",(41),(40),(42),(46),APD
+"Inter Capital, Non-Operat",11,8,9,13,APD
+"Inter Expse,Net Non-Operat",(31),(32),(33),(33),APD
+"Inter/Invest Inc, Non-Oper",148,121,116,97,APD
+OtherNon-OperatInc (Expnse),23,9,11,20,APD
+"Other, Net",23,9,11,20,APD
+Income Before Tax,663,660,721,711,APD
+Income Tax - Total,113,123,134,131,APD
+Income After Tax,550,537,587,580,APD
+Minority Interest,11,(6),(5),(10),APD
+Net Inc Before Extra Items,560,531,582,571,APD
+Total Extraordinary Items,0,0,0,13,APD
+Total Net Income,560,531,582,583,APD
+Income Available to Common Excl. Extra. Items,560,531,582,571,APD
+Income Available to Common Incl. Extra. Items,560,531,582,583,APD
+Basic/Primary Weighted Average Shares,222,222,222,222,APD
+Basic/Primary EPS Excl. Extra. Items,2.53,2.39,2.62,2.57,APD
+Basic/Primary EPS Incl. Extra. Items,2.53,2.39,2.62,2.63,APD
+Diluted Weighted Average Shares,223,223,223,223,APD
+Diluted EPS Excl. Extra. Items,2.52,2.38,2.62,2.56,APD
+Diluted EPS Incl. Extra. Items,2.52,2.38,2.62,2.62,APD
+Div/Share-ComStockPrimIssue,1.50,1.62,1.62,1.62,APD
+Gross Divid - Common Stock,333,359,359,359,APD
+Pro Forma Net Income,--,--,--,--,APD
+"Interest Expense, Suppl",31,32,33,33,APD
+"Interest Capitalized, Suppl",(11),(8),(9),(13),APD
+"Depreciat/Amort, Suppl",332,336,337,333,APD
+Total Special Items,--,0,0,74,APD
+Normalzd Income Before Tax,663,660,721,785,APD
+Efct/SpecItemsIncTxs (STEC),--,0,0,14,APD
+IncTxsExcl ImpctofSpec Itms,113,123,134,144,APD
+Normalized Income After Tax,550,537,587,641,APD
+Normalzd Inc Avail to Common,560,531,582,631,APD
+Basic Normalized EPS,2.53,2.39,2.62,2.84,APD
+Diluted Normalized EPS,2.52,2.38,2.62,2.83,APD

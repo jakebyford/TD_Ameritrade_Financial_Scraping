@@ -1,0 +1,37 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"7,256","7,911","8,352","10,620","12,731",TSCO
+"Cost of Revenue, Total","4,764","5,209","5,480","6,859","8,254",TSCO
+"Sell/Gen/AdminExpenses,Tot","1,640","1,823","1,933","2,479","2,900",TSCO
+Depreciation/Amortization,166,177,196,217,270,TSCO
+Unusual Expense (Income),--,--,--,69,0,TSCO
+Total Operating Expense,"6,570","7,209","7,609","9,623","11,424",TSCO
+Total Operating Income,686,702,743,997,"1,307",TSCO
+"Inter Expse,Net Non-Operat",(14),(18),(20),(29),(27),TSCO
+"Inter/Invest Inc, Non-Oper",0,0,--,--,--,TSCO
+Income Before Tax,673,683,723,968,"1,280",TSCO
+Income Tax - Total,245,151,161,219,283,TSCO
+Income After Tax,427,532,562,749,997,TSCO
+Net Inc Before Extra Items,427,532,562,749,997,TSCO
+Total Extraordinary Items,(5),0,0,--,--,TSCO
+Total Net Income,423,532,562,749,997,TSCO
+Income Available to Common Excl. Extra. Items,427,532,562,749,997,TSCO
+Income Available to Common Incl. Extra. Items,423,532,562,749,997,TSCO
+Basic/Primary Weighted Average Shares,128,123,120,116,115,TSCO
+Basic/Primary EPS Excl. Extra. Items,3.35,4.34,4.70,6.44,8.69,TSCO
+Basic/Primary EPS Incl. Extra. Items,3.31,4.34,4.70,6.44,8.69,TSCO
+Diluted Weighted Average Shares,128,123,121,117,116,TSCO
+Diluted EPS Excl. Extra. Items,3.33,4.31,4.66,6.38,8.61,TSCO
+Diluted EPS Incl. Extra. Items,3.30,4.31,4.66,6.38,8.61,TSCO
+Div/Share-ComStockPrimIssue,1.05,1.20,1.36,1.50,2.08,TSCO
+Gross Divid - Common Stock,134,147,163,175,239,TSCO
+Pro Forma Net Income,--,--,--,--,--,TSCO
+"Interest Expense, Suppl",14,18,20,29,27,TSCO
+"Depreciat/Amort, Suppl",166,177,196,217,270,TSCO
+Total Special Items,--,--,--,177,74,TSCO
+Normalzd Income Before Tax,673,683,723,"1,146","1,354",TSCO
+Efct/SpecItemsIncTxs (STEC),--,--,--,40,16,TSCO
+IncTxsExcl ImpctofSpec Itms,245,151,161,259,299,TSCO
+Normalized Income After Tax,427,532,562,886,"1,055",TSCO
+Normalzd Inc Avail to Common,427,532,562,886,"1,055",TSCO
+Basic Normalized EPS,3.35,4.34,4.70,7.62,9.19,TSCO
+Diluted Normalized EPS,3.33,4.31,4.66,7.55,9.10,TSCO

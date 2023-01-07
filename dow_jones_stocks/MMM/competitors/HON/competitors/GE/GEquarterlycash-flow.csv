@@ -1,0 +1,38 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"(6,591)","(1,014)","(1,786)","(1,946)",GE
+Depreciation/Depletion,"1,871",460,903,"1,310",GE
+Amortization,"1,138","1,025","1,261","1,498",GE
+Discontinued Operations,"5,639",265,517,704,GE
+Unusual Items,"4,908",199,"1,968","2,126",GE
+Other Non-Cash Items,894,(65),(5),(206),GE
+Non-Cash Items,"11,441",399,"2,480","2,624",GE
+"Cash Taxes Pd, Supplemental","1,165",192,479,810,GE
+Accounts Receivable,854,(307),"(1,024)","(1,914)",GE
+Inventories,(702),(990),"(2,346)","(2,774)",GE
+Accounts Payable,(2),75,"1,446","2,107",GE
+Changes in Working Capital,"(4,527)","(1,426)","(2,864)","(2,069)",GE
+Total Cash from Operations,"3,332",(556),(6),"1,417",GE
+Purchase of Fixed Assets,"(1,250)",(340),(660),(957),GE
+Software Development Costs,(111),(23),(48),(78),GE
+Capital Expenditures,"(1,361)",(363),(708),"(1,035)",GE
+Acquisition of Business,"(1,550)",--,--,(30),GE
+Sale of Business,"4,146","1,302","3,783","4,086",GE
+Sale of Fixed Assets,"22,523",30,72,159,GE
+"Investment, Net","(1,290)","(1,344)","(1,356)","(1,189)",GE
+Other Investing Cash Flow,"(1,160)",(69),(266),(399),GE
+"OtherInvestCashFlowItms,Tot","22,669",(81),"2,233","2,627",GE
+Total Cash from Investing,"21,308",(444),"1,525","1,592",GE
+Financing Cash Flow Items,"(7,735)",(98),(494),(872),GE
+Total Cash Dividends Paid,(575),(140),(294),(455),GE
+"Iss (Retirmnt) of Stock,Net",--,--,(370),(688),GE
+"Short Term Debt, Net",(710),47,64,67,GE
+Long Term Debt Issued,364,0,0,3,GE
+Long Term Debt Reduction,"(36,521)","(1,268)","(2,046)","(3,182)",GE
+"Long Term Debt, Net","(36,157)","(1,268)","(2,046)","(3,179)",GE
+"Iss (Retirmnt) of Debt, Net","(36,867)","(1,221)","(1,982)","(3,112)",GE
+Total Cash From Financing,"(45,177)","(1,459)","(3,140)","(5,127)",GE
+Foreign Exchange Effects,(213),(75),(266),(623),GE
+Net Change in Cash,"(20,750)","(2,534)","(1,887)","(2,741)",GE
+NetCash-BeginBal/RsvdforFutUse,"37,608","16,859","16,859","16,859",GE
+NetCash-EndBal/RsrvforFutUse,"16,859","14,325","14,971","14,118",GE
+"Depreciation, Supplemental","1,871",460,903,"1,310",GE

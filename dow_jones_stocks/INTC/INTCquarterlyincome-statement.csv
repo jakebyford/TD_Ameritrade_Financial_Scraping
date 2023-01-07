@@ -1,0 +1,47 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"20,528","18,353","15,321","15,338",INTC
+"Cost of Revenue, Total","9,519","9,109","9,734","8,803",INTC
+"Sell/Gen/AdminExpenses,Tot","1,942","1,752","1,800","1,744",INTC
+Research & Development,"4,049","4,362","4,400","4,302",INTC
+Restructuring Charge,29,5,38,607,INTC
+Litigation,--,"(1,216)",13,4,INTC
+Impair-Assets Held for Use,--,--,36,53,INTC
+Other Unusual Expnse (In),--,"(1,100)",100,0,INTC
+Unusual Expense (Income),29,"(2,311)",187,664,INTC
+Total Operating Expense,"15,539","12,912","16,121","15,513",INTC
+Total Operating Income,"4,989","5,441",(800),(175),INTC
+"Inter Expse, Non-Operating",(244),(266),(263),(334),INTC
+"Inter Capital, Non-Operat",110,142,154,220,INTC
+"Inter Expse,Net Non-Operat",(134),(124),(109),(114),INTC
+"Inter Income, Non-Operating",33,47,98,170,INTC
+"Invest Income, Non-Operat",359,"4,323",(90),(151),INTC
+"Inter/Invest Inc, Non-Oper",392,"4,370",8,19,INTC
+OtherNon-OperatInc (Expnse),(53),(26),(8),82,INTC
+"Other, Net",(53),(26),(8),82,INTC
+Income Before Tax,"5,194","9,661",(909),(188),INTC
+Income Tax - Total,571,"1,548",(455),"(1,207)",INTC
+Income After Tax,"4,623","8,113",(454),"1,019",INTC
+Net Inc Before Extra Items,"4,623","8,113",(454),"1,019",INTC
+Total Net Income,"4,623","8,113",(454),"1,019",INTC
+Income Available to Common Excl. Extra. Items,"4,623","8,113",(454),"1,019",INTC
+Income Available to Common Incl. Extra. Items,"4,623","8,113",(454),"1,019",INTC
+Basic/Primary Weighted Average Shares,"4,071","4,079","4,100","4,118",INTC
+Basic/Primary EPS Excl. Extra. Items,1.14,1.99,(0.11),0.25,INTC
+Basic/Primary EPS Incl. Extra. Items,1.14,1.99,(0.11),0.25,INTC
+Diluted Weighted Average Shares,"4,093","4,107","4,100","4,125",INTC
+Diluted EPS Excl. Extra. Items,1.13,1.98,(0.11),0.25,INTC
+Diluted EPS Incl. Extra. Items,1.13,1.98,(0.11),0.25,INTC
+Div/Share-ComStockPrimIssue,0.35,0.37,0.37,0.37,INTC
+Gross Divid - Common Stock,0,"1,487","1,499","3,012",INTC
+Pro Forma Net Income,--,--,--,--,INTC
+"Interest Expense, Suppl",134,124,109,114,INTC
+"Interest Capitalized, Suppl",(110),(142),(154),(220),INTC
+"Depreciat/Amort, Suppl","2,596","2,847","2,681","2,781",INTC
+Total Special Items,62,"(1,907)",187,664,INTC
+Normalzd Income Before Tax,"5,256","7,754",(722),476,INTC
+Efct/SpecItemsIncTxs (STEC),7,(306),65,232,INTC
+IncTxsExcl ImpctofSpec Itms,578,"1,242",(390),(975),INTC
+Normalized Income After Tax,"4,678","6,512",(332),"1,451",INTC
+Normalzd Inc Avail to Common,"4,678","6,512",(332),"1,451",INTC
+Basic Normalized EPS,1.15,1.60,(0.08),0.35,INTC
+Diluted Normalized EPS,1.14,1.59,(0.08),0.35,INTC

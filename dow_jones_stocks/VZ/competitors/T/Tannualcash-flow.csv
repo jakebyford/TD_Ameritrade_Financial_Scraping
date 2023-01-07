@@ -1,0 +1,43 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"29,847","19,953","14,975","(3,821)","21,479",T
+Depreciation/Depletion,"24,387","28,430","28,217","28,516","22,862",T
+Deferred Taxes,"(15,940)",610,"1,806","1,675","5,246",T
+Unusual Items,"2,632",(693),240,"18,138","3,977",T
+Equity in Net Earnings/Loss,174,292,295,38,184,T
+Other Non-Cash Items,"2,900","2,151","15,331","11,752","4,258",T
+Non-Cash Items,"5,706","1,750","15,866","29,928","8,419",T
+"Cash Taxes Pd, Supplemental","2,006",(354),"1,421",993,700,T
+"Cash Interest Pd, Suppl","6,622","8,818","8,693","8,237","7,673",T
+Accounts Receivable,"(2,225)","(1,734)","3,360",787,(899),T
+Other Assets,(778),"(6,442)","(12,852)","(13,070)","(16,472)",T
+Payable/Accrued,816,"1,602","(1,524)","(1,410)","1,636",T
+Changes in Working Capital,"(5,990)","(7,141)","(12,196)","(13,168)","(16,049)",T
+Total Cash from Operations,"38,010","43,602","48,668","43,130","41,957",T
+Capital Expenditures,"(20,647)","(20,758)","(19,435)","(15,675)","(16,527)",T
+Acquisition of Business,--,"(43,309)","(1,809)","(1,851)","(25,453)",T
+Sale of Business,"1,182","2,148","4,684","3,641","8,740",T
+"Investment, Net",449,(185),435,497,--,T
+Other Investing Cash Flow,73,"(1,041)",(565),(160),"1,151",T
+"OtherInvestCashFlowItms,Tot","1,704","(42,387)","2,745","2,127","(15,562)",T
+Total Cash from Investing,"(18,943)","(63,145)","(16,690)","(13,548)","(32,089)",T
+Financing Cash Flow Items,"1,946","(3,926)","4,148","(7,536)","(7,040)",T
+Total Cash Dividends Paid,"(12,038)","(13,410)","(14,888)","(14,956)","(15,068)",T
+Sale/Issuance of Common,33,745,631,105,96,T
+Repurch/Retirement Common,(463),(609),"(2,417)","(5,498)",(202),T
+"Common Stock, Net",(430),136,"(1,786)","(5,393)",(106),T
+Sale/Issuance of Preferred,--,--,"1,164","5,848",0,T
+Repurch/Retirement Preferd,--,--,--,"(1,950)",0,T
+"Preferred Stock, Net",--,--,"1,164","3,898",0,T
+"Iss (Retirmnt) of Stock,Net",(430),136,(622),"(1,495)",(106),T
+Short Term Debt Issued,0,"4,898","4,012","9,440","21,856",T
+Short Term Debt Reduction,0,"(2,098)","(6,904)","(9,467)","(7,510)",T
+"Short Term Debt, Net",(2),"1,979","(3,168)",(44),"15,662",T
+Long Term Debt Issued,"48,793","41,875","17,039","31,988","11,272",T
+Long Term Debt Reduction,"(12,339)","(52,643)","(27,592)","(39,964)","(3,142)",T
+"Long Term Debt, Net","36,454","(10,768)","(10,553)","(7,976)","8,130",T
+"Iss (Retirmnt) of Debt, Net","36,452","(8,789)","(13,721)","(8,020)","23,792",T
+Total Cash From Financing,"25,930","(25,989)","(25,083)","(32,007)","1,578",T
+Net Change in Cash,"44,997","(45,532)","6,895","(2,425)","11,446",T
+NetCash-BeginBal/RsvdforFutUse,"5,935","50,932","5,400","12,295","9,870",T
+NetCash-EndBal/RsrvforFutUse,"50,932","5,400","12,295","9,870","21,316",T
+"Depreciation, Supplemental","24,387","28,430","28,217","28,516","22,862",T

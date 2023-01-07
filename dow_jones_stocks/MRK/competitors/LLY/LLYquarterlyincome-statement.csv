@@ -1,0 +1,45 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"8,000","7,810","6,488","6,942",LLY
+"Cost of Revenue, Total","2,050","2,072","1,431","1,579",LLY
+"Sell/Gen/AdminExpenses,Tot","1,592","1,558","1,625","1,614",LLY
+Research & Development,"1,959","1,610","1,782","1,803",LLY
+Purchased R&D Written-Off,377,166,440,62,LLY
+Restructuring Charge,2,0,--,0,LLY
+Impair-Assets Held for Use,103,0,0,207,LLY
+Other Unusual Expnse (In),0,--,--,0,LLY
+Unusual Expense (Income),481,166,440,269,LLY
+Total Operating Expense,"6,083","5,406","5,278","5,265",LLY
+Total Operating Income,"1,917","2,404","1,210","1,677",LLY
+"Inter Expse,Net Non-Operat",(81),(85),(81),(82),LLY
+"Inter Income, Non-Operating",7,7,10,20,LLY
+"Invest Income, Non-Operat",(93),(425),(119),(123),LLY
+"Inter/Invest Inc, Non-Oper",(86),(418),(109),(103),LLY
+OtherNon-OperatInc (Expnse),90,153,71,74,LLY
+"Other, Net",90,153,71,74,LLY
+Income Before Tax,"1,840","2,054","1,091","1,566",LLY
+Income Tax - Total,114,151,138,114,LLY
+Income After Tax,"1,726","1,903",953,"1,452",LLY
+Net Inc Before Extra Items,"1,726","1,903",953,"1,452",LLY
+Total Extraordinary Items,0,--,--,--,LLY
+Total Net Income,"1,726","1,903",953,"1,452",LLY
+Income Available to Common Excl. Extra. Items,"1,726","1,903",953,"1,452",LLY
+Income Available to Common Incl. Extra. Items,"1,726","1,903",953,"1,452",LLY
+Basic/Primary Weighted Average Shares,905,904,900,901,LLY
+Basic/Primary EPS Excl. Extra. Items,1.91,2.11,1.06,1.61,LLY
+Basic/Primary EPS Incl. Extra. Items,1.91,2.11,1.06,1.61,LLY
+Diluted Weighted Average Shares,912,906,903,904,LLY
+Diluted EPS Excl. Extra. Items,1.89,2.10,1.05,1.61,LLY
+Diluted EPS Incl. Extra. Items,1.89,2.10,1.05,1.61,LLY
+Div/Share-ComStockPrimIssue,0.85,0.98,0.98,0.00,LLY
+Gross Divid - Common Stock,"1,659",--,"1,766",0,LLY
+Pro Forma Net Income,--,--,--,--,LLY
+"Interest Expense, Suppl",81,85,81,82,LLY
+"Depreciat/Amort, Suppl",446,436,349,363,LLY
+Total Special Items,481,166,440,269,LLY
+Normalzd Income Before Tax,"2,321","2,219","1,531","1,834",LLY
+Efct/SpecItemsIncTxs (STEC),6,0,0,15,LLY
+IncTxsExcl ImpctofSpec Itms,120,151,138,129,LLY
+Normalized Income After Tax,"2,201","2,069","1,393","1,706",LLY
+Normalzd Inc Avail to Common,"2,201","2,069","1,393","1,706",LLY
+Basic Normalized EPS,2.43,2.29,1.55,1.89,LLY
+Diluted Normalized EPS,2.41,2.28,1.54,1.89,LLY

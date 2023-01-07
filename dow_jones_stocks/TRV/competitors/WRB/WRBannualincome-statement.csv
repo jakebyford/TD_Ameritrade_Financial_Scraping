@@ -1,0 +1,48 @@
+items,2017,2018,2019,2020,2021,ticker
+Gross Premiums Written,"7,477","7,702","8,262","8,848","10,700",WRB
+Other Insurance Revenue,462,491,503,481,587,WRB
+Reinsurance - Income,"(1,166)","(1,331)","(1,629)","(1,917)","(2,594)",WRB
+Total Premiums Earned,"6,773","6,863","7,136","7,412","8,693",WRB
+Net Investment Income,576,674,646,584,672,WRB
+Realized Gains (Losses),336,160,121,103,91,WRB
+Total Revenue,"7,685","7,697","7,902","8,099","9,455",WRB
+"Losses, Benies & Adjusts","4,002","3,975","4,131","4,298","4,896",WRB
+Underwriting & Commissions,"2,101","2,099","2,090","2,111","2,307",WRB
+"Losses,Benies& Adjmts,Total","6,103","6,074","6,221","6,409","7,203",WRB
+"Sell/Gen/AdminExpenses,Tot",130,118,145,130,130,WRB
+Impair-Assets Held for Sale,0,6,0,--,--,WRB
+Other Unusual Expnse (In),--,--,--,179,70,WRB
+Unusual Expense (Income),0,6,0,179,70,WRB
+"Other Operat Expse, Total",516,557,560,525,649,WRB
+Total Operating Expense,"6,749","6,755","6,927","7,243","8,051",WRB
+Total Operating Income,935,942,976,856,"1,404",WRB
+"Inter Expse,Net Non-Operat",(147),(157),(153),(151),(147),WRB
+"Inter/Invest Inc, Non-Oper",(15),27,31,0,26,WRB
+Income Before Tax,773,812,853,705,"1,283",WRB
+Income Tax - Total,240,185,169,172,252,WRB
+Income After Tax,533,627,684,533,"1,031",WRB
+Minority Interest,(4),(8),(2),(2),(9),WRB
+Net Inc Before Extra Items,528,619,682,531,"1,022",WRB
+Total Extraordinary Items,21,22,--,--,--,WRB
+Total Net Income,549,641,682,531,"1,022",WRB
+Income Available to Common Excl. Extra. Items,528,619,682,531,"1,022",WRB
+Income Available to Common Incl. Extra. Items,549,641,682,531,"1,022",WRB
+Basic/Primary Weighted Average Shares,421,428,429,421,416,WRB
+Basic/Primary EPS Excl. Extra. Items,1.25,1.45,1.59,1.26,2.46,WRB
+Basic/Primary EPS Incl. Extra. Items,1.30,1.50,1.59,1.26,2.46,WRB
+Diluted Weighted Average Shares,435,433,435,425,420,WRB
+Diluted EPS Excl. Extra. Items,1.21,1.43,1.57,1.25,2.44,WRB
+Diluted EPS Incl. Extra. Items,1.26,1.48,1.57,1.25,2.44,WRB
+Div/Share-ComStockPrimIssue,0.16,0.17,0.19,0.21,0.23,WRB
+Gross Divid - Common Stock,188,255,308,84,356,WRB
+Pro Forma Net Income,--,--,--,--,--,WRB
+"Interest Expense, Suppl",147,157,153,151,147,WRB
+"Depreciat/Amort, Suppl",113,131,113,135,130,WRB
+Total Special Items,0,6,0,179,70,WRB
+Normalzd Income Before Tax,773,818,853,884,"1,352",WRB
+Efct/SpecItemsIncTxs (STEC),0,1,0,44,14,WRB
+IncTxsExcl ImpctofSpec Itms,240,186,169,216,266,WRB
+Normalized Income After Tax,533,632,684,669,"1,087",WRB
+Normalzd Inc Avail to Common,528,623,682,666,"1,078",WRB
+Basic Normalized EPS,1.25,1.46,1.59,1.58,2.59,WRB
+Diluted Normalized EPS,1.21,1.44,1.57,1.57,2.57,WRB

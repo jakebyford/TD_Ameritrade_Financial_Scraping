@@ -1,0 +1,51 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash,"5,148","3,253","3,402","2,378",767,AXP
+Cash & Equivalents,"27,709","24,026","20,392","29,824","20,548",AXP
+Cash and Short Term Invs,"32,857","27,279","23,794","32,202","21,315",AXP
+"Trade Accts Recvble, Gross","54,047","55,893","57,413","43,701","53,645",AXP
+Prov. for Doubtful Accts,(521),(573),(619),(267),(64),AXP
+"Trade Accts Recvble, Net","53,526","55,320","56,794","43,434","53,581",AXP
+Other Receivables,"3,209","2,907",--,--,--,AXP
+"Total Receivables, Net","56,735","58,227","56,794","43,434","53,581",AXP
+Prepaid Expenses,684,"1,458",--,--,--,AXP
+Total Current Assets,--,--,--,--,--,AXP
+Prop./Plant/Equip. - Gross,"9,784","10,431","11,396","12,555","13,590",AXP
+Accumulated Depreciation,"(5,455)","(6,015)","(6,562)","(7,540)","(8,602)",AXP
+Prop./Plant/Equip. - Net,"4,329","4,416","4,834","5,015","4,988",AXP
+"Goodwill, Net","3,009","3,072","3,315","3,852","3,804",AXP
+Intangibles - Gross,"2,105",702,704,759,733,AXP
+Accum. Intangible Amort.,"(1,206)",(427),(437),(494),(532),AXP
+Intangibles - Net,899,275,267,265,201,AXP
+Long Term Investments,"4,252","5,856","9,698","22,935","3,903",AXP
+Note Rcvble - Long Term,"74,300","83,396","89,624","70,643","88,116",AXP
+Def. Inc. Tax - LT Asset,"1,637","1,480","1,461","2,700","2,385",AXP
+Restricted Cash - LT,336,363,514,606,525,AXP
+Other Assets,"2,158","2,780","8,020","9,715","9,730",AXP
+"Other Assets, Total","2,158","2,780","8,020","9,715","9,730",AXP
+Total Assets,"181,196","188,602","198,321","191,367","188,548",AXP
+Accounts Payable,"14,657","12,255","12,738","9,444","10,574",AXP
+Notes Payable/ST Debt,"70,567","74,088","79,729","88,753","86,625",AXP
+"Other Curr. Lblts, Total",--,--,"1,122",943,"1,576",AXP
+Total Current Liabilities,--,--,--,--,--,AXP
+Long Term Debt,"55,781","58,404","57,810","42,935","38,661",AXP
+Capital Lease Obligations,23,19,25,17,14,AXP
+Total Long Term Debt,"55,804","58,423","57,835","42,952","38,675",AXP
+Total Debt,"126,371","132,511","137,564","131,705","125,300",AXP
+Pension Benefits - Underfunded,--,--,"2,429","2,336","2,528",AXP
+Other Liabilities,"21,907","21,546","21,397","23,955","26,393",AXP
+"Other Liabilities, Total","21,907","21,546","23,826","26,291","28,921",AXP
+Total Liabilities,"162,935","166,312","175,250","168,383","166,371",AXP
+"Pref. Stock-Non Rdmbl, Net",0,0,0,--,0,AXP
+Common Stock,172,170,163,161,153,AXP
+Additional Paid-In Capital,"12,427","12,425","12,066","12,160","11,766",AXP
+Ret. Earn.(Accum. Deficit),"8,307","12,499","13,871","13,837","13,474",AXP
+Treasury Stock - Common,(217),(207),(292),(279),(271),AXP
+Unrealized Gain (Loss),0,(8),33,65,23,AXP
+Cum. Trans. Adjustment,"(1,961)","(2,133)","(2,189)","(2,229)","(2,392)",AXP
+Min. Pension Lblty Adj.,(467),(456),(581),(731),(576),AXP
+"Other Equity, Total","(2,428)","(2,589)","(2,770)","(2,960)","(2,968)",AXP
+Total Equity,"18,261","22,290","23,071","22,984","22,177",AXP
+Total Liabilities & Shareholders’ Equity,"181,196","188,602","198,321","191,367","188,548",AXP
+Ttl Comm. Shares Outs.,859,847,810,805,761,AXP
+Trsy. Shrs-Comm. Primary Iss.,3,3,3,3,3,AXP
+Trsry Shrs-Pref. Iss. 1,0,0,0,0,0,AXP

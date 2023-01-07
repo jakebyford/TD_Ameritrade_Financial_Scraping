@@ -1,0 +1,41 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,(46),92,(549),360,(60),UAA
+Depreciation/Depletion,182,186,165,141,35,UAA
+Deferred Taxes,(39),38,44,(3),(3),UAA
+Unusual Items,14,44,295,90,0,UAA
+Other Non-Cash Items,(179),22,55,54,(2),UAA
+Non-Cash Items,(165),65,350,144,(2),UAA
+"Cash Taxes Pd, Supplemental",(17),23,24,43,--,UAA
+"Cash Interest Pd, Suppl",29,18,29,25,--,UAA
+Accounts Receivable,187,(45),168,(31),(132),UAA
+Inventories,110,150,15,93,(6),UAA
+Prepaid Expenses,(108),24,19,10,(4),UAA
+Other Assets,--,20,(260),80,28,UAA
+Accounts Payable,26,59,(41),26,(55),UAA
+Accrued Expenses,135,(19),319,(115),(123),UAA
+Changes in Working Capital,696,127,203,23,(293),UAA
+Total Cash from Operations,628,509,213,665,(321),UAA
+Capital Expenditures,(175),(147),(92),(70),(40),UAA
+Acquisition of Business,--,--,(40),0,--,UAA
+Sale of Fixed Assets,11,0,199,1,0,UAA
+Sale/Maturity of Investment,0,0,0,--,--,UAA
+Purchase of Investments,(39),--,--,--,--,UAA
+"OtherInvestCashFlowItms,Tot",(28),0,159,1,0,UAA
+Total Cash from Investing,(203),(147),66,(68),(40),UAA
+Financing Cash Flow Items,(2),(7),(57),(8),(11),UAA
+Total Cash Dividends Paid,0,--,--,--,--,UAA
+"Common Stock, Net",--,--,--,--,(300),UAA
+Options Exercised,3,7,5,95,1,UAA
+"Iss (Retirmnt) of Stock,Net",3,7,5,95,(299),UAA
+Long Term Debt Issued,505,25,--,0,0,UAA
+Long Term Debt Reduction,(695),(163),--,(506),--,UAA
+"Long Term Debt, Net",(190),(138),--,(506),0,UAA
+Total Debt Issued,--,--,"1,289",--,--,UAA
+Total Debt Reduction,--,--,(800),--,--,UAA
+"Iss (Retirmnt) of Debt, Net",(190),(138),489,(506),0,UAA
+Total Cash From Financing,(190),(137),437,(419),(311),UAA
+Foreign Exchange Effects,12,5,16,(23),11,UAA
+Net Change in Cash,248,230,733,154,(661),UAA
+NetCash-BeginBal/RsvdforFutUse,318,566,796,"1,529","1,683",UAA
+NetCash-EndBal/RsrvforFutUse,566,796,"1,529","1,683","1,022",UAA
+"Depreciation, Supplemental",182,186,165,141,35,UAA

@@ -1,0 +1,59 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Cash & Equivalents,"3,394","4,477","5,386","3,145",HPQ
+Short Term Investments,5,--,--,--,HPQ
+Cash and Short Term Invs,"3,399","4,477","5,386","3,145",HPQ
+"Trade Accts Recvble, Gross","5,283","5,523","4,539","4,653",HPQ
+Prov. for Doubtful Accts,(103),(118),(112),(107),HPQ
+"Trade Accts Recvble, Net","5,180","5,405","4,427","4,546",HPQ
+Other Receivables,"3,495","2,850","3,116","2,345",HPQ
+"Total Receivables, Net","8,675","8,255","7,543","6,891",HPQ
+Invent. - Finished Goods,"5,695","5,324","5,334","4,885",HPQ
+Invent. - Raw Materials,"3,323","3,620","2,858","2,710",HPQ
+Total Inventory,"9,018","8,944","8,192","7,595",HPQ
+Prepaid Expenses,"1,340","1,839","1,875","2,170",HPQ
+Total Current Assets,"22,432","23,515","22,996","19,801",HPQ
+Land/Improvements,"2,169","2,182","2,178","2,255",HPQ
+Machinery/Equipment,"5,411","5,422","5,424","5,337",HPQ
+Other Prop./Plant/Equip.,"1,174","1,098","1,144","1,236",HPQ
+Prop./Plant/Equip. - Gross,"8,754","8,702","8,746","8,828",HPQ
+Accumulated Depreciation,"(4,961)","(4,991)","(4,976)","(4,818)",HPQ
+Prop./Plant/Equip. - Net,"3,793","3,711","3,770","4,010",HPQ
+"Goodwill, Net","6,821","6,801","6,809","8,541",HPQ
+Intangibles - Gross,--,--,--,"2,792",HPQ
+Accum. Intangible Amort.,--,--,--,(859),HPQ
+Intangibles - Net,716,651,595,"1,933",HPQ
+Pension Bene. - Overfunded,804,837,880,565,HPQ
+Def. Inc. Tax - LT Asset,"2,886","2,810","2,605","2,159",HPQ
+Other Long Term Assets,"1,460","1,576","1,592","1,578",HPQ
+Total Assets,"38,912","39,901","39,247","38,587",HPQ
+Accounts Payable,"18,070","17,004","15,514","15,284",HPQ
+Accrued Expenses,"9,929","9,597","8,975","6,009",HPQ
+Notes Payable/ST Debt,27,29,47,53,HPQ
+Curr. Port. LT Dbt/Cap Ls.,662,665,658,165,HPQ
+Customer Advances,"1,234","1,237","1,317","1,393",HPQ
+Income Taxes Payable,277,374,298,286,HPQ
+Other Current Liabilities,--,--,--,"2,963",HPQ
+"Other Curr. Lblts, Total","1,511","1,611","1,615","4,642",HPQ
+Total Current Liabilities,"30,199","28,906","26,809","26,153",HPQ
+Long Term Debt,"6,368","8,304","10,294","10,788",HPQ
+Capital Lease Obligations,--,--,--,8,HPQ
+Total Long Term Debt,"6,368","8,304","10,294","10,796",HPQ
+Total Debt,"7,057","8,998","10,999","11,014",HPQ
+Deferred Income Tax,64,92,30,121,HPQ
+Pension Benefits - Underfunded,993,957,935,600,HPQ
+Other LT Liabilities,"3,616","3,540","3,497","3,835",HPQ
+"Other Liabilities, Total","4,609","4,497","4,432","4,435",HPQ
+Total Liabilities,"41,240","41,799","41,565","41,505",HPQ
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,HPQ
+Common Stock,11,10,10,10,HPQ
+Additional Paid-In Capital,"1,046","1,081","1,130","1,172",HPQ
+Ret. Earn.(Accum. Deficit),"(3,369)","(3,336)","(3,695)","(4,413)",HPQ
+Unrealized Gain (Loss),13,10,10,6,HPQ
+Cum. Trans. Adjustment,20,(11),(25),(46),HPQ
+Min. Pension Lblty Adj.,(303),(299),(288),(295),HPQ
+Other Comprehensive Income,254,647,540,648,HPQ
+"Other Equity, Total",(29),337,227,307,HPQ
+Total Equity,"(2,328)","(1,898)","(2,318)","(2,918)",HPQ
+Total Liabilities & Shareholders’ Equity,"38,912","39,901","39,247","38,587",HPQ
+Ttl Comm. Shares Outs.,"1,060","1,033","1,006",980,HPQ
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,HPQ

@@ -1,0 +1,43 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"10,425","11,221","11,486","11,797","13,022",GWW
+"Cost of Revenue, Total","6,327","6,873","7,089","7,559","8,302",GWW
+"Sell/Gen/AdminExpenses,Tot","2,858","2,912","2,931","2,851","3,110",GWW
+Depreciation/Amortization,89,92,78,60,63,GWW
+Restructuring Charge,116,47,6,27,0,GWW
+Impair-Assets Held for Use,--,139,120,177,0,GWW
+Other Unusual Expnse (In),--,--,--,104,--,GWW
+Unusual Expense (Income),116,186,126,308,0,GWW
+Total Operating Expense,"9,390","10,063","10,224","10,778","11,475",GWW
+Total Operating Income,"1,035","1,158","1,262","1,019","1,547",GWW
+"Inter Expse,Net Non-Operat",(86),(82),(79),(93),(87),GWW
+OtherNon-OperatInc (Expnse),(13),5,26,21,25,GWW
+"Other, Net",(13),5,26,21,25,GWW
+Income Before Tax,936,"1,081","1,209",947,"1,485",GWW
+Income Tax - Total,316,258,314,192,371,GWW
+Income After Tax,620,823,895,755,"1,114",GWW
+Minority Interest,(37),(41),(46),(60),(71),GWW
+Net Inc Before Extra Items,583,782,849,695,"1,043",GWW
+Total Extraordinary Items,3,--,--,--,--,GWW
+Total Net Income,586,782,849,695,"1,043",GWW
+Income Available to Common Excl. Extra. Items,583,782,849,695,"1,043",GWW
+Income Available to Common Incl. Extra. Items,586,782,849,695,"1,043",GWW
+Basic/Primary Weighted Average Shares,58,56,55,54,52,GWW
+Basic/Primary EPS Excl. Extra. Items,10.10,13.94,15.52,12.99,20.10,GWW
+Basic/Primary EPS Incl. Extra. Items,10.16,13.94,15.52,12.99,20.10,GWW
+Diluted Weighted Average Shares,58,57,55,54,52,GWW
+Diluted EPS Excl. Extra. Items,10.05,13.84,15.52,12.94,19.98,GWW
+Diluted EPS Incl. Extra. Items,10.10,13.84,15.52,12.94,19.98,GWW
+Div/Share-ComStockPrimIssue,5.06,5.36,5.68,5.94,6.39,GWW
+Gross Divid - Common Stock,294,303,313,321,334,GWW
+Pro Forma Net Income,--,--,--,--,--,GWW
+"Interest Expense, Suppl",86,82,79,93,87,GWW
+"Interest Capitalized, Suppl",(2),(10),(9),(4),(1),GWW
+"Depreciat/Amort, Suppl",175,165,151,116,123,GWW
+Total Special Items,116,186,126,308,0,GWW
+Normalzd Income Before Tax,"1,052","1,267","1,335","1,255","1,485",GWW
+Efct/SpecItemsIncTxs (STEC),39,(16),(17),126,0,GWW
+IncTxsExcl ImpctofSpec Itms,355,242,297,318,371,GWW
+Normalized Income After Tax,697,"1,025","1,038",937,"1,114",GWW
+Normalzd Inc Avail to Common,660,984,992,877,"1,043",GWW
+Basic Normalized EPS,11.44,17.54,18.14,16.39,20.10,GWW
+Diluted Normalized EPS,11.38,17.42,18.14,16.33,19.98,GWW

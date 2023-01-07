@@ -1,0 +1,50 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash and Short Term Invs,"1,087",895,838,946,QSR
+"Trade Accts Recvble, Gross",565,620,572,624,QSR
+Prov. for Doubtful Accts,(18),(27),(21),(26),QSR
+"Total Receivables, Net",547,593,551,598,QSR
+Total Inventory,96,108,114,129,QSR
+Prepaid Expenses,84,90,65,251,QSR
+"Other Curr. Assets, Total",2,--,--,--,QSR
+Total Current Assets,"1,816","1,686","1,568","1,924",QSR
+Other Prop./Plant/Equip.,"3,014","3,037","3,011","2,935",QSR
+Prop./Plant/Equip. - Gross,"3,014","3,037","3,011","2,935",QSR
+Accumulated Depreciation,(979),"(1,014)","(1,027)","(1,022)",QSR
+Prop./Plant/Equip. - Net,"3,165","3,160","3,097","2,969",QSR
+"Goodwill, Net","6,006","6,050","5,866","5,605",QSR
+Intangibles - Gross,"11,770","11,808","11,651","11,185",QSR
+Accum. Intangible Amort.,(353),(357),(355),(354),QSR
+Intangibles - Net,"11,417","11,451","11,296","10,831",QSR
+Long Term Investments,80,82,82,83,QSR
+Other Long Term Assets,762,743,845,"1,145",QSR
+Total Assets,"23,246","23,172","22,754","22,557",QSR
+Accounts Payable,614,637,705,696,QSR
+Accrued Expenses,462,410,385,489,QSR
+Notes Payable/ST Debt,0,0,0,0,QSR
+Curr. Port. LT Dbt/Cap Ls.,96,105,112,117,QSR
+Dividends Payable,241,244,243,243,QSR
+Customer Advances,48,45,47,57,QSR
+Income Taxes Payable,106,127,88,150,QSR
+Other Current Liabilities,311,260,183,168,QSR
+"Other Curr. Lblts, Total",706,676,561,618,QSR
+Total Current Liabilities,"1,878","1,828","1,763","1,920",QSR
+Long Term Debt,"12,916","12,903","12,881","12,853",QSR
+Capital Lease Obligations,333,337,326,310,QSR
+Total Long Term Debt,"13,249","13,240","13,207","13,163",QSR
+Total Debt,"13,345","13,345","13,319","13,280",QSR
+Deferred Income Tax,"1,374","1,380","1,345","1,388",QSR
+Minority Interest,"1,616","1,671","1,695","1,726",QSR
+Pension Benefits - Underfunded,47,48,47,46,QSR
+Other LT Liabilities,"2,845","2,715","2,483","2,001",QSR
+"Other Liabilities, Total","2,892","2,763","2,530","2,047",QSR
+Total Liabilities,"21,009","20,882","20,540","20,244",QSR
+Common Stock,"2,156","2,059","1,929","1,964",QSR
+Ret. Earn.(Accum. Deficit),791,804,871,"1,062",QSR
+Cum. Trans. Adjustment,(825),(790),"(1,025)","(1,520)",QSR
+Min. Pension Lblty Adj.,(21),(20),(20),(19),QSR
+Other Comprehensive Income,136,237,459,826,QSR
+"Other Equity, Total",(710),(573),(586),(713),QSR
+Total Equity,"2,237","2,290","2,214","2,313",QSR
+Total Liabilities & Shareholders’ Equity,"23,246","23,172","22,754","22,557",QSR
+Ttl Comm. Shares Outs.,309,309,306,306,QSR
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,QSR

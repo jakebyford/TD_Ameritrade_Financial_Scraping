@@ -1,0 +1,43 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"8,657","8,376","8,953","8,951",HON
+"Cost of Revenue, Total","5,936","5,674","6,046","5,981",HON
+Selling/Gen/Admin Expense,"1,158","1,371","1,253","1,178",HON
+Labor & Related Expense,45,60,53,50,HON
+"Sell/Gen/AdminExpenses,Tot","1,203","1,431","1,306","1,228",HON
+"Inter Expense,Net Operatng",80,85,87,98,HON
+"Interest Income, Operating",(32),(20),(20),(37),HON
+"Invest Income, Operating",(11),(16),12,(7),HON
+"Inter/Invest Inc, Operating",(43),(36),(8),(44),HON
+Litigation,0,--,--,--,HON
+Other Unusual Expnse (In),(8),0,107,(19),HON
+Unusual Expense (Income),(8),0,107,(19),HON
+"Other Operat Expse, Total",(304),(283),(289),(274),HON
+Total Operating Expense,"6,864","6,871","7,249","6,970",HON
+Total Operating Income,"1,793","1,505","1,704","1,981",HON
+Income Before Tax,"1,793","1,505","1,704","1,981",HON
+Income Tax - Total,351,371,441,432,HON
+Income After Tax,"1,442","1,134","1,263","1,549",HON
+Minority Interest,(14),0,(2),3,HON
+Net Inc Before Extra Items,"1,428","1,134","1,261","1,552",HON
+Total Net Income,"1,428","1,134","1,261","1,552",HON
+Income Available to Common Excl. Extra. Items,"1,428","1,134","1,261","1,552",HON
+Income Available to Common Incl. Extra. Items,"1,428","1,134","1,261","1,552",HON
+Basic/Primary Weighted Average Shares,688,685,679,674,HON
+Basic/Primary EPS Excl. Extra. Items,2.07,1.66,1.86,2.30,HON
+Basic/Primary EPS Incl. Extra. Items,2.07,1.66,1.86,2.30,HON
+Diluted Weighted Average Shares,696,691,685,680,HON
+Diluted EPS Excl. Extra. Items,2.05,1.64,1.84,2.28,HON
+Diluted EPS Incl. Extra. Items,2.05,1.64,1.84,2.28,HON
+Div/Share-ComStockPrimIssue,0.98,0.98,0.98,0.98,HON
+Gross Divid - Common Stock,680,673,666,668,HON
+Pro Forma Net Income,--,--,--,--,HON
+"Interest Expense, Suppl",80,85,87,98,HON
+"Depreciat/Amort, Suppl",168,167,161,166,HON
+Total Special Items,223,387,334,81,HON
+Normalzd Income Before Tax,"2,016","1,892","2,038","2,062",HON
+Efct/SpecItemsIncTxs (STEC),44,95,86,18,HON
+IncTxsExcl ImpctofSpec Itms,395,466,527,450,HON
+Normalized Income After Tax,"1,621","1,426","1,511","1,612",HON
+Normalzd Inc Avail to Common,"1,607","1,426","1,509","1,615",HON
+Basic Normalized EPS,2.33,2.08,2.22,2.40,HON
+Diluted Normalized EPS,2.31,2.06,2.20,2.38,HON

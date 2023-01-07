@@ -1,0 +1,38 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Net Income,904,"3,001","4,886","7,130",DE
+Depreciation/Depletion,486,933,"1,443","1,895",DE
+Deferred Taxes,210,37,(6),(66),DE
+Unusual Items,--,77,81,88,DE
+Equity in Net Earnings/Loss,(2),(328),(327),(326),DE
+Other Non-Cash Items,18,89,126,277,DE
+Non-Cash Items,16,(162),(120),39,DE
+Accounts Receivable,(106),"(1,535)","(2,357)","(2,483)",DE
+Inventories,"(1,297)","(2,265)","(2,526)","(2,091)",DE
+Payable/Accrued,"(1,554)",(443),(15),"1,133",DE
+Changes in Working Capital,"(4,169)","(5,571)","(5,785)","(4,299)",DE
+Total Cash from Operations,"(2,553)","(1,762)",418,"4,699",DE
+Capital Expenditures,(584),"(1,350)","(2,313)","(3,788)",DE
+Acquisition of Business,(24),(473),(488),(498),DE
+Sale of Fixed Assets,479,"1,035","1,501","2,093",DE
+Sale/Maturity of Investment,21,--,--,--,DE
+"Investment, Net",(13),(248),(193),(642),DE
+Purchase of Investments,(48),--,--,--,DE
+Other Investing Cash Flow,817,(852),"(2,937)","(5,650)",DE
+"OtherInvestCashFlowItms,Tot","1,232",(538),"(2,117)","(4,697)",DE
+Total Cash from Investing,648,"(1,888)","(4,430)","(8,485)",DE
+Financing Cash Flow Items,(33),(46),(62),(92),DE
+Total Cash Dividends Paid,(327),(649),(971),"(1,313)",DE
+Sale/Issuance of Common,11,50,55,63,DE
+Repurch/Retirement Common,(623),"(1,226)","(2,477)","(3,597)",DE
+"Iss (Retirmnt) of Stock,Net",(612),"(1,176)","(2,422)","(3,534)",DE
+"Short Term Debt, Net","(1,018)",812,"4,267","3,852",DE
+Long Term Debt Issued,"2,353","4,298","6,281","10,358",DE
+Long Term Debt Reduction,"(1,940)","(3,625)","(6,578)","(8,445)",DE
+"Long Term Debt, Net",413,673,(297),"1,913",DE
+"Iss (Retirmnt) of Debt, Net",(605),"1,485","3,970","5,765",DE
+Total Cash From Financing,"(1,577)",(386),515,826,DE
+Foreign Exchange Effects,(74),(110),(143),(224),DE
+Net Change in Cash,"(3,556)","(4,146)","(3,640)","(3,184)",DE
+NetCash-BeginBal/RsvdforFutUse,"8,125","8,125","8,125","8,125",DE
+NetCash-EndBal/RsrvforFutUse,"4,569","3,979","4,485","4,941",DE
+"Depreciation, Supplemental",486,933,"1,443","1,895",DE

@@ -1,0 +1,47 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Cash and Short Term Invs,193,263,232,188,TTC
+"Trade Accts Recvble, Net",366,439,351,290,TTC
+Other Receivables,--,--,--,43,TTC
+"Total Receivables, Net",366,439,351,333,TTC
+Invent. - Finished Goods,584,606,672,738,TTC
+Invent. - Raw Materials,383,421,403,483,TTC
+LIFO Reserve,(135),(135),(135),(170),TTC
+Total Inventory,832,892,939,"1,051",TTC
+Prepaid Expenses,46,69,83,103,TTC
+Total Current Assets,"1,437","1,664","1,604","1,675",TTC
+Buildings,326,326,326,324,TTC
+Land/Improvements,58,57,57,60,TTC
+Machinery/Equipment,627,632,632,662,TTC
+Construction in Progress,95,110,142,144,TTC
+Other Prop./Plant/Equip.,300,297,295,302,TTC
+Prop./Plant/Equip. - Gross,"1,406","1,423","1,452","1,493",TTC
+Accumulated Depreciation,(821),(835),(846),(845),TTC
+Prop./Plant/Equip. - Net,586,588,605,648,TTC
+"Goodwill, Net",577,581,584,583,TTC
+Intangibles - Gross,742,740,754,754,TTC
+Accum. Intangible Amort.,(141),(150),(159),(168),TTC
+Intangibles - Net,601,590,595,586,TTC
+Long Term Investments,24,31,31,39,TTC
+Other Long Term Assets,24,24,19,19,TTC
+Total Assets,"3,253","3,479","3,440","3,556",TTC
+Accounts Payable,474,567,487,579,TTC
+Accrued Expenses,412,444,459,485,TTC
+Notes Payable/ST Debt,0,0,0,0,TTC
+Curr. Port. LT Dbt/Cap Ls.,100,100,65,--,TTC
+Total Current Liabilities,986,"1,111","1,011","1,064",TTC
+Total Long Term Debt,991,991,991,991,TTC
+Total Debt,"1,091","1,091","1,056",991,TTC
+Deferred Income Tax,50,50,50,44,TTC
+"Other Liabilities, Total",106,104,101,106,TTC
+Total Liabilities,"2,133","2,256","2,153","2,204",TTC
+"Pref. Stock-Non Rdmbl, Net",0,--,--,0,TTC
+Common Stock,105,105,104,104,TTC
+Ret. Earn.(Accum. Deficit),"1,041","1,147","1,214","1,281",TTC
+Cum. Trans. Adjustment,(26),(35),(41),(51),TTC
+Min. Pension Lblty Adj.,(4),(4),(4),(4),TTC
+Other Comprehensive Income,4,11,13,22,TTC
+"Other Equity, Total",(26),(28),(31),(33),TTC
+Total Equity,"1,120","1,224","1,287","1,352",TTC
+Total Liabilities & Shareholders’ Equity,"3,253","3,479","3,440","3,556",TTC
+Ttl Comm. Shares Outs.,105,105,104,104,TTC
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,TTC

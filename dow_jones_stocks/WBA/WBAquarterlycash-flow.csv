@@ -1,0 +1,40 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Net Income,"4,337","4,566","4,065","(3,816)",WBA
+Depreciation/Depletion,"1,024","1,502","1,990",495,WBA
+Deferred Taxes,94,(168),(366),"(1,602)",WBA
+Unusual Items,"(2,386)","(2,339)","(1,503)",0,WBA
+Equity in Net Earnings/Loss,(226),(780),"(1,027)","(1,030)",WBA
+Other Non-Cash Items,110,67,245,93,WBA
+Non-Cash Items,"(2,502)","(3,052)","(2,285)",(937),WBA
+"Cash Taxes Pd, Supplemental",201,291,387,--,WBA
+"Cash Interest Pd, Suppl",211,336,420,--,WBA
+Accounts Receivable,495,725,808,151,WBA
+Inventories,(803),(510),(433),(918),WBA
+Other Assets,(37),(58),(72),(68),WBA
+Accounts Payable,46,767,244,867,WBA
+Accrued Expenses,(476),(362),(138),"6,225",WBA
+Changes in Working Capital,(769),964,494,"6,353",WBA
+Total Cash from Operations,"2,184","3,812","3,898",493,WBA
+Capital Expenditures,(870),"(1,241)","(1,734)",(610),WBA
+Acquisition of Business,"(1,918)","(2,040)","(2,189)",(80),WBA
+Sale of Business,--,--,0,--,WBA
+Sale of Fixed Assets,508,"1,785","2,642","2,477",WBA
+Other Investing Cash Flow,99,234,217,71,WBA
+"OtherInvestCashFlowItms,Tot","(1,311)",(21),670,"2,468",WBA
+Total Cash from Investing,"(2,181)","(1,262)","(1,064)","1,858",WBA
+Financing Cash Flow Items,"(2,129)","(1,948)","(1,676)",(68),WBA
+Total Cash Dividends Paid,(833),"(1,251)","(1,659)",(415),WBA
+"Common Stock, Net",(187),(187),(187),(150),WBA
+Options Exercised,32,13,27,6,WBA
+"Iss (Retirmnt) of Stock,Net",(155),(174),(160),(144),WBA
+"Short Term Debt, Net","1,289",(10),(11),22,WBA
+Long Term Debt Issued,"9,928","11,944","11,958",17,WBA
+Long Term Debt Reduction,"(7,331)","(7,808)","(9,951)",(11),WBA
+"Long Term Debt, Net","2,597","4,136","2,007",6,WBA
+"Iss (Retirmnt) of Debt, Net","3,886","4,126","1,996",28,WBA
+Total Cash From Financing,769,753,"(1,499)",(599),WBA
+Foreign Exchange Effects,(16),(33),(47),4,WBA
+Net Change in Cash,756,"3,270","1,288","1,756",WBA
+NetCash-BeginBal/RsvdforFutUse,"1,270","1,270","1,270","2,558",WBA
+NetCash-EndBal/RsrvforFutUse,"2,027","4,541","2,558","4,314",WBA
+"Depreciation, Supplemental","1,024","1,502","1,990",495,WBA

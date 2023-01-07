@@ -1,0 +1,39 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"1,247","4,381","2,285","2,501","3,826",LIN
+Depreciation/Depletion,"1,184","1,830","4,675","4,626","4,635",LIN
+Deferred Taxes,136,(187),(303),(369),(254),LIN
+Discontinued Operations,--,"(2,983)",(141),(4),(5),LIN
+Extraordinary Item,394,(61),0,0,--,LIN
+Unusual Items,26,40,(236),258,98,LIN
+Other Non-Cash Items,163,620,69,410,244,LIN
+Non-Cash Items,583,"(2,384)",(308),664,337,LIN
+"Cash Taxes Pd, Supplemental",565,757,"1,357","1,066","1,710",LIN
+"Cash Interest Pd, Suppl",184,214,275,322,233,LIN
+Accounts Receivable,(92),(124),80,19,(553),LIN
+Inventories,(22),(4),(81),18,(129),LIN
+Prepaid Expenses,(66),43,(72),128,76,LIN
+Payable/Accrued,22,287,(174),109,447,LIN
+Changes in Working Capital,(109),62,(161),7,"1,181",LIN
+Total Cash from Operations,"3,041","3,702","6,188","7,429","9,725",LIN
+Capital Expenditures,"(1,311)","(1,883)","(3,682)","(3,400)","(3,086)",LIN
+Acquisition of Business,(33),(25),(225),(68),(88),LIN
+Sale of Business,30,"7,271","5,096",482,167,LIN
+Other Investing Cash Flow,--,(23),(60),0,0,LIN
+"OtherInvestCashFlowItms,Tot",(3),"7,223","4,811",414,79,LIN
+Total Cash from Investing,"(1,314)","5,340","1,129","(2,986)","(3,007)",LIN
+Financing Cash Flow Items,(92),(400),"(3,255)",(220),(323),LIN
+Total Cash Dividends Paid,(901),"(1,166)","(1,891)","(2,028)","(2,189)",LIN
+Sale/Issuance of Common,120,77,72,47,50,LIN
+Repurch/Retirement Common,(12),(599),"(2,658)","(2,457)","(4,612)",LIN
+"Iss (Retirmnt) of Stock,Net",108,(522),"(2,586)","(2,410)","(4,562)",LIN
+"Short Term Debt, Net",(199),208,224,"1,198","(1,329)",LIN
+Long Term Debt Issued,11,8,99,"2,796","2,283",LIN
+Long Term Debt Reduction,(583),"(3,124)","(1,583)","(2,681)","(1,468)",LIN
+"Long Term Debt, Net",(572),"(3,116)","(1,484)",115,815,LIN
+"Iss (Retirmnt) of Debt, Net",(771),"(2,908)","(1,260)","1,313",(514),LIN
+Total Cash From Financing,"(1,656)","(4,996)","(8,992)","(3,345)","(7,588)",LIN
+Foreign Exchange Effects,22,(60),(77),(44),(61),LIN
+Net Change in Cash,93,"3,986","(1,752)","1,054",(931),LIN
+NetCash-BeginBal/RsvdforFutUse,524,617,"4,466","2,700","3,754",LIN
+NetCash-EndBal/RsrvforFutUse,617,"4,603","2,714","3,754","2,823",LIN
+"Depreciation, Supplemental","1,184","1,830","4,675","4,626","4,635",LIN

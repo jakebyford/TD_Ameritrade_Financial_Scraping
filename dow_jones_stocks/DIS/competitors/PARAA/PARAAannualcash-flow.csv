@@ -1,0 +1,44 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"3,320","3,460","3,301","2,701","4,631",PARAA
+Depreciation/Depletion,443,433,443,430,390,PARAA
+Deferred Taxes,(367),58,(769),122,90,PARAA
+Discontinued Operations,94,1,0,(38),(44),PARAA
+Unusual Items,(377),61,(611),(294),"(2,262)",PARAA
+Equity in Net Earnings/Loss,15,54,58,34,96,PARAA
+Other Non-Cash Items,"11,143","11,786","12,845","11,319","13,544",PARAA
+Non-Cash Items,"10,875","11,902","12,292","11,021","11,334",PARAA
+"Cash Taxes Pd, Supplemental",827,161,598,466,334,PARAA
+"Cash Interest Pd, Suppl","1,056","1,012",922,965,970,PARAA
+Accounts Receivable,(147),(368),(256),(68),179,PARAA
+Inventories,"(11,544)","(12,185)","(14,215)","(12,170)","(16,584)",PARAA
+Accounts Payable,(248),(158),297,188,760,PARAA
+Changes in Working Capital,"(11,832)","(12,389)","(14,037)","(11,980)","(15,492)",PARAA
+Total Cash from Operations,"2,439","3,464","1,230","2,294",953,PARAA
+Capital Expenditures,(356),(352),(353),(324),(354),PARAA
+Acquisition of Business,(289),(118),(399),(147),(54),PARAA
+Sale of Business,892,39,756,593,"3,028",PARAA
+Purchase of Investments,(128),(161),(171),(59),(193),PARAA
+Other Investing Cash Flow,7,(19),12,(7),(32),PARAA
+"OtherInvestCashFlowItms,Tot",482,(259),198,380,"2,749",PARAA
+Total Cash from Investing,126,(611),(155),56,"2,395",PARAA
+Financing Cash Flow Items,(202),(268),(186),(205),(338),PARAA
+Cash Divids Paid - Common,(616),(599),(595),(600),(617),PARAA
+Cash Divs Paid - Preferred,--,--,--,--,(30),PARAA
+Total Cash Dividends Paid,(616),(599),(595),(600),(647),PARAA
+Sale/Issuance of Common,--,--,--,--,"1,672",PARAA
+Repurch/Retirement Common,"(1,111)",(586),(57),(58),0,PARAA
+"Common Stock, Net","(1,111)",(586),(57),(58),"1,672",PARAA
+"Preferred Stock, Net",--,--,--,--,983,PARAA
+Options Exercised,263,29,15,5,408,PARAA
+"Iss (Retirmnt) of Stock,Net",(848),(557),(42),(53),"3,063",PARAA
+"Short Term Debt, Net",229,(5),25,(706),0,PARAA
+Long Term Debt Issued,"3,157",0,492,"4,375",0,PARAA
+Long Term Debt Reduction,"(4,729)","(1,102)",(910),"(2,901)","(2,230)",PARAA
+"Long Term Debt, Net","(1,572)","(1,102)",(418),"1,474","(2,230)",PARAA
+"Iss (Retirmnt) of Debt, Net","(1,343)","(1,107)",(393),768,"(2,230)",PARAA
+Total Cash From Financing,"(3,009)","(2,531)","(1,216)",(90),(152),PARAA
+Foreign Exchange Effects,58,(25),(1),25,(48),PARAA
+Net Change in Cash,(386),297,(142),"2,285","3,148",PARAA
+NetCash-BeginBal/RsvdforFutUse,"1,065",679,976,834,"3,119",PARAA
+NetCash-EndBal/RsrvforFutUse,679,976,834,"3,119","6,267",PARAA
+"Depreciation, Supplemental",443,433,443,430,390,PARAA

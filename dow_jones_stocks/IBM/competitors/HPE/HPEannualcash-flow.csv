@@ -1,0 +1,40 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"1,908","1,049",(322),"3,427",868,HPE
+Depreciation/Depletion,"2,576","2,535","2,625","2,597","2,480",HPE
+Deferred Taxes,"2,229","1,079",(294),(167),(249),HPE
+Unusual Items,638,221,"1,634",620,"1,119",HPE
+Equity in Net Earnings/Loss,(38),(20),(67),(180),(215),HPE
+Other Non-Cash Items,326,712,745,760,963,HPE
+Non-Cash Items,926,913,"2,312","1,200","1,867",HPE
+"Cash Taxes Pd, Supplemental",538,518,297,398,107,HPE
+"Cash Interest Pd, Suppl",609,593,574,486,453,HPE
+Accounts Receivable,(586),(36),(948),(756),508,HPE
+Inventories,(260),46,(527),"(1,959)",(713),HPE
+Accounts Payable,(27),(525),(225),"1,608","1,707",HPE
+Changes in Working Capital,"(4,675)","(1,579)","(2,081)","(1,186)",(373),HPE
+Total Cash from Operations,"2,964","3,997","2,240","5,871","4,593",HPE
+Capital Expenditures,"(2,956)","(2,856)","(2,383)","(2,502)","(3,122)",HPE
+Acquisition of Business,(207),"(1,526)",(866),(505),0,HPE
+Sale of Business,13,0,0,--,--,HPE
+Sale of Fixed Assets,"1,094",597,703,354,602,HPE
+Sale/Maturity of Investment,98,26,48,15,262,HPE
+Purchase of Investments,(33),(39),(101),(60),(55),HPE
+Other Investing Cash Flow,(80),341,21,(98),226,HPE
+"OtherInvestCashFlowItms,Tot",885,(601),(195),(294),"1,035",HPE
+Total Cash from Investing,"(2,071)","(3,457)","(2,578)","(2,796)","(2,087)",HPE
+Financing Cash Flow Items,106,0,(7),(18),(14),HPE
+Total Cash Dividends Paid,(570),(608),(618),(625),(621),HPE
+"Common Stock, Net","(3,568)","(2,249)",(355),(213),(512),HPE
+Options Exercised,116,48,(36),(29),(53),HPE
+"Iss (Retirmnt) of Stock,Net","(3,452)","(2,201)",(391),(242),(565),HPE
+"Short Term Debt, Net",5,(53),(9),(36),100,HPE
+Long Term Debt Issued,"2,457","3,517","7,007","3,022","3,296",HPE
+Long Term Debt Reduction,"(4,138)","(2,203)","(5,099)","(5,465)","(3,992)",HPE
+"Long Term Debt, Net","(1,681)","1,314","1,908","(2,443)",(696),HPE
+"Iss (Retirmnt) of Debt, Net","(1,676)","1,261","1,899","(2,479)",(596),HPE
+Total Cash From Financing,"(5,592)","(1,548)",883,"(3,364)","(1,796)",HPE
+Foreign Exchange Effects,--,--,--,--,(279),HPE
+Net Change in Cash,"(4,699)","(1,008)",545,(289),431,HPE
+NetCash-BeginBal/RsvdforFutUse,"9,579","5,084","4,076","4,621","4,332",HPE
+NetCash-EndBal/RsrvforFutUse,"4,880","4,076","4,621","4,332","4,763",HPE
+"Depreciation, Supplemental","2,576","2,535","2,625","2,597","2,480",HPE

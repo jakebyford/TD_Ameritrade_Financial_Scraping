@@ -1,0 +1,51 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash & Equivalents,"6,848","5,048","2,873","3,027",MRNA
+Short Term Investments,"3,879","5,067","5,024","5,321",MRNA
+Cash and Short Term Invs,"10,727","10,115","7,897","8,348",MRNA
+"Trade Accts Recvble, Net","3,175","3,173","2,691","2,695",MRNA
+Other Receivables,121,191,153,126,MRNA
+"Total Receivables, Net","3,296","3,364","2,844","2,821",MRNA
+Invent. - Finished Goods,233,357,142,170,MRNA
+Invent. - Work In Progress,338,513,379,366,MRNA
+Invent. - Raw Materials,870,"1,072","1,400","1,541",MRNA
+Total Inventory,"1,441","1,942","1,921","2,077",MRNA
+Prepaid Expenses,531,858,767,889,MRNA
+"Other Curr. Assets, Total",76,71,134,162,MRNA
+Total Current Assets,"16,071","16,350","13,563","14,297",MRNA
+Buildings,313,353,365,388,MRNA
+Machinery/Equipment,200,205,226,270,MRNA
+Construction in Progress,212,247,284,338,MRNA
+Other Prop./Plant/Equip.,"1,010","1,099","1,037","1,716",MRNA
+Prop./Plant/Equip. - Gross,"1,735","1,904","1,912","2,712",MRNA
+Accumulated Depreciation,(352),(431),(466),(580),MRNA
+Prop./Plant/Equip. - Net,"1,383","1,473","1,446","2,132",MRNA
+Long Term Investments,"6,843","9,171","10,162","8,655",MRNA
+Def. Inc. Tax - LT Asset,326,521,785,920,MRNA
+Restricted Cash - LT,12,12,12,14,MRNA
+Other Long Term Assets,34,82,75,38,MRNA
+Total Assets,"24,669","27,609","26,043","26,056",MRNA
+Accounts Payable,302,199,181,330,MRNA
+Accrued Expenses,"1,518","1,654","1,818","1,892",MRNA
+Notes Payable/ST Debt,0,0,0,0,MRNA
+Curr. Port. LT Dbt/Cap Ls.,165,160,121,224,MRNA
+Customer Advances,"6,253","5,599","4,093","4,002",MRNA
+Income Taxes Payable,876,"1,592",349,66,MRNA
+Other Current Liabilities,14,34,250,293,MRNA
+"Other Curr. Lblts, Total","7,143","7,225","4,692","4,361",MRNA
+Total Current Liabilities,"9,128","9,238","6,812","6,807",MRNA
+Total Long Term Debt,599,646,641,922,MRNA
+Total Debt,764,806,762,"1,146",MRNA
+"Other Liabilities, Total",797,650,605,335,MRNA
+Total Liabilities,"10,524","10,534","8,058","8,064",MRNA
+Redeemable Preferred Stock,0,0,0,0,MRNA
+Common Stock,0,0,0,0,MRNA
+Additional Paid-In Capital,"4,211","3,644","2,413","1,488",MRNA
+Ret. Earn.(Accum. Deficit),"9,958","13,615","15,812","16,855",MRNA
+Unrealized Gain (Loss),--,(211),(283),(406),MRNA
+Other Equity,--,0,0,0,MRNA
+Other Comprehensive Income,(24),27,43,55,MRNA
+"Other Equity, Total",(24),27,43,55,MRNA
+Total Equity,"14,145","17,075","17,985","17,992",MRNA
+Total Liabilities & Shareholders’ Equity,"24,669","27,609","26,043","26,056",MRNA
+Ttl Comm. Shares Outs.,403,400,392,387,MRNA
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,MRNA

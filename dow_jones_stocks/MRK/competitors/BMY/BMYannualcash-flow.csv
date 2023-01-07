@@ -1,0 +1,35 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,975,"4,947","3,460","(8,995)","7,014",BMY
+Depreciation/Depletion,789,637,"1,746","10,380","10,686",BMY
+Deferred Taxes,"1,010",86,(924),983,"(1,393)",BMY
+Unusual Items,622,(83),301,"10,099",428,BMY
+Other Non-Cash Items,291,177,419,602,725,BMY
+Non-Cash Items,913,94,720,"10,701","1,153",BMY
+"Cash Taxes Pd, Supplemental",546,747,"1,503","3,400","3,500",BMY
+"Cash Interest Pd, Suppl",215,212,414,"1,600","1,500",BMY
+Accounts Receivable,(431),(429),752,(646),"(1,054)",BMY
+Inventories,(29),(216),463,"2,672",13,BMY
+Accounts Payable,320,(59),229,188,245,BMY
+Changes in Working Capital,"1,588",176,"3,065",983,"(1,253)",BMY
+Total Cash from Operations,"5,275","5,940","8,067","14,052","16,207",BMY
+Capital Expenditures,"(1,055)",(951),(836),(753),(973),BMY
+Acquisition of Business,(708),"(1,246)","(24,634)","(13,084)","(1,610)",BMY
+Sale of Business,722,"1,249","15,852",870,748,BMY
+Sale/Maturity of Investment,"6,412","2,379","3,809","6,280","6,775",BMY
+Purchase of Investments,"(5,437)","(2,305)","(3,961)","(4,172)","(5,478)",BMY
+"OtherInvestCashFlowItms,Tot",989,77,"(8,934)","(10,106)",435,BMY
+Total Cash from Investing,(66),(874),"(9,770)","(10,859)",(538),BMY
+Financing Cash Flow Items,(22),(54),(53),542,641,BMY
+Total Cash Dividends Paid,"(2,577)","(2,613)","(2,679)","(4,075)","(4,396)",BMY
+"Iss (Retirmnt) of Stock,Net","(2,469)",(320),"(7,300)","(1,546)","(6,287)",BMY
+"Short Term Debt, Net",727,(543),131,(267),(160),BMY
+Long Term Debt Issued,"1,488",0,"26,778","6,945",0,BMY
+Long Term Debt Reduction,"(1,224)",(5),"(9,256)","(2,750)","(6,022)",BMY
+"Long Term Debt, Net",264,(5),"17,522","4,195","(6,022)",BMY
+"Iss (Retirmnt) of Debt, Net",991,(548),"17,653","3,928","(6,182)",BMY
+Total Cash From Financing,"(4,077)","(3,535)","7,621","(1,151)","(16,224)",BMY
+Foreign Exchange Effects,52,(41),(9),111,(102),BMY
+Net Change in Cash,"1,184","1,490","5,909","2,153",(657),BMY
+NetCash-BeginBal/RsvdforFutUse,"4,237","5,421","6,911","12,820","14,973",BMY
+NetCash-EndBal/RsrvforFutUse,"5,421","6,911","12,820","14,973","14,316",BMY
+"Depreciation, Supplemental",789,637,"1,746","10,380","10,686",BMY

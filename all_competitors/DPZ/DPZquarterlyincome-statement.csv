@@ -1,0 +1,38 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"1,343","1,011","1,065","1,069",DPZ
+"Cost of Revenue, Total",837,643,679,687,DPZ
+Selling/Gen/Admin Expense,140,97,97,91,DPZ
+Advertising Expense,143,107,111,114,DPZ
+"Sell/Gen/AdminExpenses,Tot",284,204,208,205,DPZ
+Total Operating Expense,"1,121",847,887,892,DPZ
+Total Operating Income,223,165,178,176,DPZ
+"Inter Expse,Net Non-Operat",(61),(47),(45),(45),DPZ
+"Inter Income, Non-Operating",0,0,0,1,DPZ
+"Invest Income, Non-Operat",34,0,0,0,DPZ
+"Inter/Invest Inc, Non-Oper",34,0,0,1,DPZ
+Income Before Tax,196,118,133,132,DPZ
+Income Tax - Total,40,27,31,31,DPZ
+Income After Tax,156,91,102,101,DPZ
+Net Inc Before Extra Items,156,91,102,101,DPZ
+Total Net Income,156,91,102,101,DPZ
+Income Available to Common Excl. Extra. Items,156,91,102,101,DPZ
+Income Available to Common Incl. Extra. Items,156,91,102,101,DPZ
+Basic/Primary Weighted Average Shares,36,36,36,36,DPZ
+Basic/Primary EPS Excl. Extra. Items,4.34,2.53,2.85,2.82,DPZ
+Basic/Primary EPS Incl. Extra. Items,4.34,2.53,2.85,2.82,DPZ
+Diluted Weighted Average Shares,36,36,36,36,DPZ
+Diluted EPS Excl. Extra. Items,4.29,2.50,2.82,2.79,DPZ
+Diluted EPS Incl. Extra. Items,4.29,2.50,2.82,2.79,DPZ
+Div/Share-ComStockPrimIssue,1.88,1.10,1.10,0.00,DPZ
+Gross Divid - Common Stock,34,40,40,39,DPZ
+Pro Forma Net Income,--,--,--,--,DPZ
+"Interest Expense, Suppl",61,47,45,45,DPZ
+"Depreciat/Amort, Suppl",23,19,18,19,DPZ
+Total Special Items,1,0,0,0,DPZ
+Normalzd Income Before Tax,197,118,134,132,DPZ
+Efct/SpecItemsIncTxs (STEC),0,0,0,0,DPZ
+IncTxsExcl ImpctofSpec Itms,41,27,31,31,DPZ
+Normalized Income After Tax,157,91,103,101,DPZ
+Normalzd Inc Avail to Common,157,91,103,101,DPZ
+Basic Normalized EPS,4.37,2.53,2.86,2.82,DPZ
+Diluted Normalized EPS,4.31,2.50,2.83,2.79,DPZ

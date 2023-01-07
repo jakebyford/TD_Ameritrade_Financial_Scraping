@@ -1,0 +1,60 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash and Short Term Invs,3,126,200,55,109,JACK
+"Trade Accts Recvble, Gross",36,37,77,75,90,JACK
+Prov. for Doubtful Accts,(2),(3),(6),(6),(6),JACK
+"Trade Accts Recvble, Net",34,34,72,69,84,JACK
+Notes Recvble - Short Term,11,0,1,1,9,JACK
+Other Receivables,12,11,6,4,11,JACK
+"Total Receivables, Net",57,45,78,74,104,JACK
+Total Inventory,2,2,2,2,5,JACK
+Prepaid Expenses,14,9,10,13,16,JACK
+Restricted Cash - Current,--,26,37,18,27,JACK
+Discont. Ops.-Curr. Assets,14,17,5,2,17,JACK
+Other Current Assets,5,3,4,4,5,JACK
+"Other Curr. Assets, Total",19,46,46,24,49,JACK
+Total Current Assets,95,227,336,169,283,JACK
+Buildings,"1,064","1,053","1,027","1,021","1,125",JACK
+Land/Improvements,105,116,100,105,86,JACK
+Construction in Progress,21,8,5,7,18,JACK
+Other Prop./Plant/Equip.,--,--,905,934,"1,332",JACK
+Prop./Plant/Equip. - Gross,"1,190","1,176","2,037","2,067","2,561",JACK
+Accumulated Depreciation,(770),(784),(796),(810),(811),JACK
+Prop./Plant/Equip. - Net,420,392,"1,241","1,257","1,750",JACK
+"Goodwill, Net",47,47,47,48,367,JACK
+Intangibles - Gross,7,7,--,--,296,JACK
+Accum. Intangible Amort.,(6),(6),--,--,(1),JACK
+Intangibles - Net,1,0,0,0,296,JACK
+Note Rcvble - Long Term,--,--,--,5,12,JACK
+Def. Inc. Tax - LT Asset,62,86,72,52,0,JACK
+Disct. Ops. - LT Asset,0,--,--,--,--,JACK
+Other Long Term Assets,199,207,211,220,215,JACK
+Total Assets,823,958,"1,906","1,750","2,923",JACK
+Accounts Payable,45,37,31,29,66,JACK
+Accrued Expenses,106,119,308,281,407,JACK
+Notes Payable/ST Debt,0,0,0,0,0,JACK
+Curr. Port. LT Dbt/Cap Ls.,32,1,1,1,30,JACK
+Customer Advances,1,1,--,18,19,JACK
+Discontinued Operations,0,--,--,--,--,JACK
+Other Current Liabilities,0,0,--,--,--,JACK
+"Other Curr. Lblts, Total",1,1,--,18,19,JACK
+Total Current Liabilities,184,158,340,329,522,JACK
+Long Term Debt,"1,034","1,272","1,375","1,272","1,799",JACK
+Capital Lease Obligations,4,3,2,1,0,JACK
+Total Long Term Debt,"1,038","1,274","1,377","1,273","1,800",JACK
+Total Debt,"1,070","1,275","1,378","1,274","1,830",JACK
+Deferred Income Tax,--,--,--,--,38,JACK
+Pension Benefits - Underfunded,69,120,121,70,52,JACK
+Other LT Liabilities,124,144,862,895,"1,248",JACK
+Discont. Ops. - Lblts,0,--,--,--,--,JACK
+"Other Liabilities, Total",193,264,983,966,"1,300",JACK
+Total Liabilities,"1,415","1,696","2,700","2,568","3,659",JACK
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,0,JACK
+Common Stock,1,1,1,1,1,JACK
+Additional Paid-In Capital,471,480,490,500,508,JACK
+Ret. Earn.(Accum. Deficit),"1,561","1,577","1,636","1,764","1,843",JACK
+Treasury Stock - Common,"(2,530)","(2,656)","(2,809)","(3,009)","(3,034)",JACK
+"Other Equity, Total",(94),(140),(111),(74),(54),JACK
+Total Equity,(592),(738),(793),(818),(736),JACK
+Total Liabilities & Shareholders’ Equity,823,958,"1,906","1,750","2,923",JACK
+Ttl Comm. Shares Outs.,26,24,23,21,21,JACK
+Trsy. Shrs-Comm. Primary Iss.,56,58,60,62,62,JACK

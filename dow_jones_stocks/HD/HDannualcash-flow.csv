@@ -1,0 +1,39 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"8,630","11,121","11,242","12,866","16,433",HD
+Depreciation/Depletion,"2,062","2,152","2,296","2,519","2,862",HD
+Deferred Taxes,92,26,202,(569),(276),HD
+Unusual Items,0,247,0,0,--,HD
+Other Non-Cash Items,273,282,251,310,399,HD
+Non-Cash Items,273,529,251,310,399,HD
+"Cash Taxes Pd, Supplemental","4,732","3,774","3,220","4,654","5,504",HD
+"Cash Interest Pd, Suppl",991,"1,035","1,112","1,241","1,269",HD
+Accounts Receivable,139,33,(170),(465),(435),HD
+Inventories,(84),"(1,244)",(593),"(1,657)","(5,403)",HD
+Other Assets,(10),(257),(135),43,(330),HD
+Accounts Payable,352,870,32,"5,118",--,HD
+Payable/Accrued,--,--,--,--,"2,401",HD
+Changes in Working Capital,974,(663),(304),"3,713","(2,847)",HD
+Total Cash from Operations,"12,031","13,165","13,687","18,839","16,571",HD
+Capital Expenditures,"(1,897)","(2,442)","(2,678)","(2,463)","(2,566)",HD
+Acquisition of Business,(374),(21),0,"(7,780)",(421),HD
+Sale of Fixed Assets,47,--,--,--,--,HD
+Sale/Maturity of Investment,0,--,--,--,--,HD
+Other Investing Cash Flow,(4),47,25,73,18,HD
+"OtherInvestCashFlowItms,Tot",(331),26,25,"(7,707)",(403),HD
+Total Cash from Investing,"(2,228)","(2,416)","(2,653)","(10,170)","(2,969)",HD
+Financing Cash Flow Items,(211),(153),(140),(154),(145),HD
+Total Cash Dividends Paid,"(4,212)","(4,704)","(5,958)","(6,451)","(6,985)",HD
+Sale/Issuance of Common,255,236,280,326,337,HD
+Repurch/Retirement Common,"(8,000)","(9,963)","(6,965)",(791),"(14,809)",HD
+"Iss (Retirmnt) of Stock,Net","(7,745)","(9,727)","(6,685)",(465),"(14,472)",HD
+"Short Term Debt, Net",850,(220),(365),(974),"1,035",HD
+Long Term Debt Issued,"2,991","3,466","3,420","7,933","2,979",HD
+Long Term Debt Reduction,(543),"(1,209)","(1,070)","(2,872)","(1,532)",HD
+"Long Term Debt, Net","2,448","2,257","2,350","5,061","1,447",HD
+"Iss (Retirmnt) of Debt, Net","3,298","2,037","1,985","4,087","2,482",HD
+Total Cash From Financing,"(8,870)","(12,547)","(10,798)","(2,983)","(19,120)",HD
+Foreign Exchange Effects,124,(19),119,76,(34),HD
+Net Change in Cash,"1,057","(1,817)",355,"5,762","(5,552)",HD
+NetCash-BeginBal/RsvdforFutUse,"2,538","3,595","1,778","2,133","7,895",HD
+NetCash-EndBal/RsrvforFutUse,"3,595","1,778","2,133","7,895","2,343",HD
+"Depreciation, Supplemental","2,062","2,152","2,296","2,519","2,862",HD

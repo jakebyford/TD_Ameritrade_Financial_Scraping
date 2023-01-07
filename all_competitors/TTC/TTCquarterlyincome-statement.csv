@@ -1,0 +1,36 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Total Revenue,933,"1,249","1,161","1,172",TTC
+"Cost of Revenue, Total",632,844,761,773,TTC
+"Sell/Gen/AdminExpenses,Tot",209,235,237,248,TTC
+Unusual Expense (Income),0,--,--,--,TTC
+Total Operating Expense,841,"1,079",998,"1,022",TTC
+Total Operating Income,92,171,163,150,TTC
+"Inter Expse,Net Non-Operat",(7),(8),(9),(12),TTC
+OtherNon-OperatInc (Expnse),3,3,3,4,TTC
+"Other, Net",3,3,3,4,TTC
+Income Before Tax,87,165,157,143,TTC
+Income Tax - Total,18,34,32,26,TTC
+Income After Tax,70,131,125,118,TTC
+Net Inc Before Extra Items,70,131,125,118,TTC
+Total Net Income,70,131,125,118,TTC
+Income Available to Common Excl. Extra. Items,70,131,125,118,TTC
+Income Available to Common Incl. Extra. Items,70,131,125,118,TTC
+Basic/Primary Weighted Average Shares,105,105,105,104,TTC
+Basic/Primary EPS Excl. Extra. Items,0.66,1.25,1.19,1.13,TTC
+Basic/Primary EPS Incl. Extra. Items,0.66,1.25,1.19,1.13,TTC
+Diluted Weighted Average Shares,106,106,105,105,TTC
+Diluted EPS Excl. Extra. Items,0.66,1.24,1.19,1.12,TTC
+Diluted EPS Incl. Extra. Items,0.66,1.24,1.19,1.12,TTC
+Div/Share-ComStockPrimIssue,0.30,0.30,0.30,--,TTC
+Gross Divid - Common Stock,31,31,31,31,TTC
+Pro Forma Net Income,--,--,--,--,TTC
+"Interest Expense, Suppl",7,8,9,12,TTC
+"Depreciat/Amort, Suppl",18,19,17,21,TTC
+Total Special Items,1,2,1,1,TTC
+Normalzd Income Before Tax,88,167,158,144,TTC
+Efct/SpecItemsIncTxs (STEC),0,0,0,0,TTC
+IncTxsExcl ImpctofSpec Itms,18,34,32,26,TTC
+Normalized Income After Tax,70,133,126,118,TTC
+Normalzd Inc Avail to Common,70,133,126,118,TTC
+Basic Normalized EPS,0.67,1.26,1.20,1.13,TTC
+Diluted Normalized EPS,0.66,1.25,1.19,1.12,TTC

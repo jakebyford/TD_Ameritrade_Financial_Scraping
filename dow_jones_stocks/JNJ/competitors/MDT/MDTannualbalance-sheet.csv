@@ -1,0 +1,68 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash & Equivalents,"3,669","4,393","4,140","3,593","3,714",MDT
+Short Term Investments,"7,558","5,455","6,808","7,224","6,859",MDT
+Cash and Short Term Invs,"11,227","9,848","10,948","10,817","10,573",MDT
+"Trade Accts Recvble, Gross","6,180","6,412","4,853","5,703","5,781",MDT
+Prov. for Doubtful Accts,(193),(190),(208),(241),(230),MDT
+"Total Receivables, Net","5,987","6,222","4,645","5,462","5,551",MDT
+Invent. - Finished Goods,"2,407","2,476","2,874","2,906","3,070",MDT
+Invent. - Work In Progress,496,572,608,611,682,MDT
+Invent. - Raw Materials,676,705,747,796,864,MDT
+Total Inventory,"3,579","3,753","4,229","4,313","4,616",MDT
+Discont. Ops.-Curr. Assets,0,--,--,--,--,MDT
+Other Current Assets,"2,187","2,144","2,209","1,956","2,319",MDT
+"Other Curr. Assets, Total","2,187","2,144","2,209","1,956","2,319",MDT
+Total Current Assets,"22,980","21,967","22,031","22,548","23,059",MDT
+Buildings,"2,265","2,267","2,277","2,370","2,351",MDT
+Land/Improvements,187,181,175,178,170,MDT
+Machinery/Equipment,"6,749","7,361","7,990","8,654","9,106",MDT
+Construction in Progress,"1,058","1,111","1,202","1,498","1,737",MDT
+Other Prop./Plant/Equip.,--,--,927,998,855,MDT
+Prop./Plant/Equip. - Gross,"10,259","10,920","12,571","13,698","14,219",MDT
+Accumulated Depreciation,"(5,655)","(6,245)","(6,816)","(7,479)","(7,952)",MDT
+Prop./Plant/Equip. - Net,"4,604","4,675","5,755","6,219","6,267",MDT
+"Goodwill, Net","39,543","39,959","39,841","41,961","40,502",MDT
+Intangibles - Gross,"29,924","29,608","28,767","29,273","28,601",MDT
+Accum. Intangible Amort.,"(8,201)","(9,048)","(9,704)","(11,533)","(13,006)",MDT
+Intangibles - Net,"21,723","20,560","19,063","17,740","15,595",MDT
+LT Invt. - Affiliate Comp.,353,64,71,76,85,MDT
+LT Investments - Other,162,308,409,611,796,MDT
+Long Term Investments,515,372,480,687,881,MDT
+Def. Inc. Tax - LT Asset,"1,465","1,519","2,832","3,169","3,403",MDT
+Disct. Ops. - LT Asset,0,--,--,--,--,MDT
+Other Long Term Assets,563,642,687,759,"1,274",MDT
+Total Assets,"91,393","89,694","90,689","93,083","90,981",MDT
+Accounts Payable,"1,628","1,953","1,996","2,106","2,276",MDT
+Accrued Expenses,"5,232","4,885","4,839","5,681","5,367",MDT
+Notes Payable/ST Debt,0,0,0,0,0,MDT
+Curr. Port. LT Dbt/Cap Ls.,"2,058",838,"2,776",11,"3,742",MDT
+Customer Advances,--,211,213,276,305,MDT
+Income Taxes Payable,979,567,502,435,704,MDT
+Discontinued Operations,0,--,--,--,--,MDT
+Other Current Liabilities,187,18,40,--,--,MDT
+"Other Curr. Lblts, Total","1,166",796,755,711,"1,009",MDT
+Total Current Liabilities,"10,084","8,472","10,366","8,509","12,394",MDT
+Long Term Debt,"23,678","24,476","21,976","26,316","20,316",MDT
+Capital Lease Obligations,21,10,45,62,56,MDT
+Total Long Term Debt,"23,699","24,486","22,021","26,378","20,372",MDT
+Total Debt,"25,757","25,324","24,797","26,389","24,114",MDT
+Deferred Income Tax,"1,423","1,278","1,174","1,028",884,MDT
+Minority Interest,102,121,135,174,171,MDT
+Pension Benefits - Underfunded,"1,425","1,651","1,910","1,557","1,113",MDT
+Other LT Liabilities,"3,940","3,595","4,346","4,009","3,496",MDT
+Discont. Ops. - Lblts,0,--,--,--,--,MDT
+"Other Liabilities, Total","5,365","5,246","6,256","5,566","4,609",MDT
+Total Liabilities,"40,673","39,603","39,952","41,655","38,430",MDT
+Common Stock,0,0,0,0,0,MDT
+Additional Paid-In Capital,"28,127","26,532","26,165","26,319","24,566",MDT
+Ret. Earn.(Accum. Deficit),"24,379","26,270","28,132","28,594","30,250",MDT
+Unrealized Gain (Loss),(194),(45),0,92,(209),MDT
+Cum. Trans. Adjustment,(268),"(1,383)","(2,210)",(519),"(2,599)",MDT
+Other Equity,--,0,0,0,0,MDT
+Min. Pension Lblty Adj.,"(1,117)","(1,308)","(1,852)","(1,347)",(773),MDT
+Other Comprehensive Income,(207),25,502,"(1,711)","1,316",MDT
+"Other Equity, Total","(1,592)","(2,666)","(3,560)","(3,577)","(2,056)",MDT
+Total Equity,"50,720","50,091","50,737","51,428","52,551",MDT
+Total Liabilities & Shareholders’ Equity,"91,393","89,694","90,689","93,083","90,981",MDT
+Ttl Comm. Shares Outs.,"1,354","1,341","1,341","1,345","1,331",MDT
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,MDT

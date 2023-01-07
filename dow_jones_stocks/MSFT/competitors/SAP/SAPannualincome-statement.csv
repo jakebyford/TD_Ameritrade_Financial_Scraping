@@ -1,0 +1,49 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"23,461","24,708","27,553","27,338","27,842",SAP
+"Cost of Revenue, Total","6,736","7,189","8,038","7,633","7,724",SAP
+Selling/Gen/Admin Expense,"7,161","7,184","7,935","7,561","7,661",SAP
+Labor & Related Expense,577,400,"1,023",517,"1,885",SAP
+"Sell/Gen/AdminExpenses,Tot","7,738","7,584","8,958","8,078","9,546",SAP
+Research & Development,"3,341","3,615","4,283","4,447","5,180",SAP
+Restructuring Charge,182,19,"1,130",(3),157,SAP
+Other Unusual Expnse (In),587,577,637,644,545,SAP
+Unusual Expense (Income),769,596,"1,767",641,702,SAP
+Other Operating Expense,--,--,(1),(1),(1),SAP
+"Other, Net",0,21,35,(83),35,SAP
+"Other Operat Expse, Total",0,21,34,(84),34,SAP
+Total Operating Expense,"18,584","19,005","23,080","20,715","23,186",SAP
+Total Operating Income,"4,877","5,703","4,473","6,623","4,656",SAP
+"Inter Expse,Net Non-Operat",(89),(106),(207),(179),(160),SAP
+"Inter Income, Non-Operating",--,--,75,--,--,SAP
+"Invest Income, Non-Operat",370,196,366,939,"2,413",SAP
+"Inter/Invest Inc, Non-Oper",370,196,441,939,"2,413",SAP
+OtherNon-OperatInc (Expnse),(129),(193),(111),(163),(62),SAP
+"Other, Net",(129),(193),(111),(163),(62),SAP
+Income Before Tax,"5,029","5,600","4,596","7,220","6,847",SAP
+Income Tax - Total,983,"1,511","1,226","1,938","1,471",SAP
+Income After Tax,"4,046","4,089","3,370","5,282","5,376",SAP
+Minority Interest,(38),(6),(50),(138),(121),SAP
+Net Inc Before Extra Items,"4,008","4,083","3,320","5,144","5,255",SAP
+Total Net Income,"4,008","4,083","3,320","5,144","5,255",SAP
+Total Adjust to Net Income,--,0,1,1,1,SAP
+Income Available to Common Excl. Extra. Items,"4,008","4,083","3,321","5,145","5,256",SAP
+Income Available to Common Incl. Extra. Items,"4,008","4,083","3,321","5,145","5,256",SAP
+Basic/Primary Weighted Average Shares,"1,197","1,194","1,194","1,182","1,180",SAP
+Basic/Primary EPS Excl. Extra. Items,3.35,3.42,2.78,4.35,4.45,SAP
+Basic/Primary EPS Incl. Extra. Items,3.35,3.42,2.78,4.35,4.45,SAP
+Diluted Weighted Average Shares,"1,198","1,194","1,194","1,182","1,180",SAP
+Diluted EPS Excl. Extra. Items,3.35,3.42,2.78,4.35,4.45,SAP
+Diluted EPS Incl. Extra. Items,3.35,3.42,2.78,4.35,4.45,SAP
+Div/Share-ComStockPrimIssue,1.14,1.44,1.49,1.42,1.99,SAP
+Gross Divid - Common Stock,"1,671","1,790","1,886","2,182","2,890",SAP
+Pro Forma Net Income,--,--,--,--,--,SAP
+"Interest Expense, Suppl",89,106,207,179,160,SAP
+"Depreciat/Amort, Suppl",612,714,"1,112","1,112","1,097",SAP
+Total Special Items,769,596,"1,767",641,702,SAP
+Normalzd Income Before Tax,"5,798","6,196","6,363","7,861","7,549",SAP
+Efct/SpecItemsIncTxs (STEC),150,161,471,172,151,SAP
+IncTxsExcl ImpctofSpec Itms,"1,133","1,672","1,697","2,110","1,622",SAP
+Normalized Income After Tax,"4,665","4,524","4,666","5,751","5,927",SAP
+Normalzd Inc Avail to Common,"4,627","4,518","4,617","5,614","5,807",SAP
+Basic Normalized EPS,3.87,3.78,3.87,4.75,4.92,SAP
+Diluted Normalized EPS,3.86,3.78,3.87,4.75,4.92,SAP

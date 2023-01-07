@@ -1,0 +1,45 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"25,248","16,200","20,225","21,971",PEP
+"Cost of Revenue, Total","12,114","7,288","9,414","10,296",PEP
+Selling/Gen/Admin Expense,"10,368","6,406","7,306","8,057",PEP
+Labor & Related Expense,86,81,75,77,PEP
+"Sell/Gen/AdminExpenses,Tot","10,454","6,487","7,381","8,134",PEP
+"Inter/Invest Inc, Operating",20,(79),(76),112,PEP
+Restructuring Charge,118,27,45,51,PEP
+Impair-Assets Held for Use,--,241,"1,421",10,PEP
+Impair-Assets Held for Sale,(16),--,--,--,PEP
+Other Unusual Expnse (In),12,"(3,041)",94,74,PEP
+Unusual Expense (Income),114,"(2,773)","1,560",135,PEP
+Total Operating Expense,"22,702","10,923","18,279","18,677",PEP
+Total Operating Income,"2,546","5,277","1,946","3,294",PEP
+"Inter Expse,Net Non-Operat","(1,132)",(240),(236),(190),PEP
+OtherNon-OperatInc (Expnse),174,124,129,95,PEP
+"Other, Net",174,124,129,95,PEP
+Income Before Tax,"1,588","5,161","1,839","3,199",PEP
+Income Tax - Total,247,888,393,389,PEP
+Income After Tax,"1,341","4,273","1,446","2,810",PEP
+Minority Interest,(19),(12),(17),(22),PEP
+Net Inc Before Extra Items,"1,322","4,261","1,429","2,788",PEP
+Total Extraordinary Items,0,--,--,(86),PEP
+Total Net Income,"1,322","4,261","1,429","2,702",PEP
+Income Available to Common Excl. Extra. Items,"1,322","4,261","1,429","2,788",PEP
+Income Available to Common Incl. Extra. Items,"1,322","4,261","1,429","2,702",PEP
+Basic/Primary Weighted Average Shares,"1,385","1,383","1,382","1,380",PEP
+Basic/Primary EPS Excl. Extra. Items,0.95,3.08,1.03,2.02,PEP
+Basic/Primary EPS Incl. Extra. Items,0.95,3.08,1.03,1.96,PEP
+Diluted Weighted Average Shares,"1,392","1,391","1,389","1,387",PEP
+Diluted EPS Excl. Extra. Items,0.95,3.06,1.03,2.01,PEP
+Diluted EPS Incl. Extra. Items,0.95,3.06,1.03,1.95,PEP
+Div/Share-ComStockPrimIssue,2.15,1.08,0.00,1.15,PEP
+Gross Divid - Common Stock,"1,493","1,492","1,600","1,593",PEP
+Pro Forma Net Income,--,--,--,--,PEP
+"Interest Expense, Suppl","1,132",240,236,190,PEP
+"Depreciat/Amort, Suppl",847,555,640,659,PEP
+Total Special Items,148,"(2,737)","1,584",155,PEP
+Normalzd Income Before Tax,"1,736","2,424","3,423","3,354",PEP
+Efct/SpecItemsIncTxs (STEC),63,419,(310),(270),PEP
+IncTxsExcl ImpctofSpec Itms,310,"1,307",83,119,PEP
+Normalized Income After Tax,"1,426","1,117","3,340","3,235",PEP
+Normalzd Inc Avail to Common,"1,407","1,105","3,323","3,213",PEP
+Basic Normalized EPS,1.02,0.80,2.40,2.33,PEP
+Diluted Normalized EPS,1.01,0.79,2.39,2.32,PEP

@@ -1,0 +1,44 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Premiums Earned,"10,342","10,356","10,426","9,586",CI
+Other Insurance Revenue,"34,966","33,235","34,729","35,490",CI
+Total Premiums Earned,"45,308","43,591","45,155","45,076",CI
+Net Investment Income,380,414,325,204,CI
+Realized Gains (Losses),68,(319),(95),(81),CI
+Total Revenue,"45,756","43,686","45,385","45,199",CI
+"Losses,Benies& Adjmts,Total","8,743","8,268","8,192","7,754",CI
+"Sell/Gen/AdminExpenses,Tot","3,383","3,247","3,226","3,124",CI
+Depreciation/Amortization,499,458,501,460,CI
+Litigation,0,0,(28),0,CI
+Other Unusual Expnse (In),279,52,58,"(1,711)",CI
+Unusual Expense (Income),279,52,30,"(1,711)",CI
+"Other Operat Expse, Total","31,247","29,813","31,150","31,777",CI
+Total Operating Expense,"44,151","41,838","43,099","41,404",CI
+Total Operating Income,"1,605","1,848","2,286","3,795",CI
+"Inter Expse,Net Non-Operat",(293),(299),(301),(304),CI
+Income Before Tax,"1,312","1,549","1,985","3,491",CI
+Income Tax - Total,179,351,413,713,CI
+Income After Tax,"1,133","1,198","1,572","2,778",CI
+Minority Interest,(17),(15),(13),(21),CI
+Net Inc Before Extra Items,"1,116","1,183","1,559","2,757",CI
+Total Net Income,"1,116","1,183","1,559","2,757",CI
+Income Available to Common Excl. Extra. Items,"1,116","1,183","1,559","2,757",CI
+Income Available to Common Incl. Extra. Items,"1,116","1,183","1,559","2,757",CI
+Basic/Primary Weighted Average Shares,327,318,315,304,CI
+Basic/Primary EPS Excl. Extra. Items,3.41,3.71,4.95,9.07,CI
+Basic/Primary EPS Incl. Extra. Items,3.41,3.71,4.95,9.07,CI
+Diluted Weighted Average Shares,330,321,318,308,CI
+Diluted EPS Excl. Extra. Items,3.39,3.68,4.90,8.97,CI
+Diluted EPS Incl. Extra. Items,3.39,3.68,4.90,8.97,CI
+Div/Share-ComStockPrimIssue,1.00,1.12,1.12,1.12,CI
+Gross Divid - Common Stock,326,356,353,342,CI
+Pro Forma Net Income,--,--,--,--,CI
+"Interest Expense, Suppl",293,299,301,304,CI
+"Depreciat/Amort, Suppl",669,259,258,266,CI
+Total Special Items,279,52,30,"(1,711)",CI
+Normalzd Income Before Tax,"1,591","1,601","2,015","1,780",CI
+Efct/SpecItemsIncTxs (STEC),90,15,7,(346),CI
+IncTxsExcl ImpctofSpec Itms,269,366,420,367,CI
+Normalized Income After Tax,"1,322","1,235","1,595","1,413",CI
+Normalzd Inc Avail to Common,"1,305","1,220","1,582","1,392",CI
+Basic Normalized EPS,3.99,3.83,5.02,4.58,CI
+Diluted Normalized EPS,3.96,3.80,4.97,4.53,CI

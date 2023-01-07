@@ -1,0 +1,63 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Cash & Equivalents,"9,116","9,157","8,262","9,574",MU
+Short Term Investments,"1,006","1,070","1,069","1,007",MU
+Cash and Short Term Invs,"10,122","10,227","9,331","10,581",MU
+"Trade Accts Recvble, Net","5,061","5,896","4,765","2,875",MU
+Other Receivables,323,333,365,443,MU
+"Total Receivables, Net","5,384","6,229","5,130","3,318",MU
+Invent. - Finished Goods,540,620,"1,028","1,649",MU
+Invent. - Work In Progress,"4,222","4,325","4,830","5,839",MU
+Invent. - Raw Materials,621,684,805,871,MU
+Total Inventory,"5,383","5,629","6,663","8,359",MU
+Discont. Ops.-Curr. Assets,13,15,13,--,MU
+Other Current Assets,600,608,644,663,MU
+"Other Curr. Assets, Total",613,623,657,663,MU
+Total Current Assets,"21,502","22,708","21,781","22,921",MU
+Buildings,"15,701","16,181","16,676","17,133",MU
+Land/Improvements,280,280,280,280,MU
+Machinery/Equipment,"57,693","59,464","62,478","64,620",MU
+Construction in Progress,"1,740","1,664","1,897","1,828",MU
+Other Prop./Plant/Equip.,587,690,678,693,MU
+Prop./Plant/Equip. - Gross,"76,001","78,279","82,009","84,554",MU
+Accumulated Depreciation,"(39,243)","(40,924)","(42,782)","(44,526)",MU
+Prop./Plant/Equip. - Net,"36,758","37,355","39,227","40,028",MU
+"Goodwill, Net","1,228","1,228","1,228","1,228",MU
+Intangibles - Gross,718,727,742,763,MU
+Accum. Intangible Amort.,(304),(312),(321),(335),MU
+Intangibles - Net,414,415,421,428,MU
+LT Invt. - Affiliate Comp.,196,210,222,218,MU
+LT Investments - Other,"1,717","1,646","1,647","1,426",MU
+Long Term Investments,"1,913","1,856","1,869","1,644",MU
+Def. Inc. Tax - LT Asset,762,682,702,672,MU
+Restricted Cash - LT,108,104,77,68,MU
+Other Long Term Assets,"1,011",948,978,885,MU
+Total Assets,"63,696","65,296","66,283","67,874",MU
+Accounts Payable,"1,924","2,019","2,142","1,789",MU
+Payable/Accrued,296,434,421,281,MU
+Accrued Expenses,763,933,937,655,MU
+Notes Payable/ST Debt,0,0,0,0,MU
+Curr. Port. LT Dbt/Cap Ls.,123,107,103,171,MU
+Income Taxes Payable,367,382,420,419,MU
+Other Payables,"2,300","2,020","2,170","2,294",MU
+Other Current Liabilities,"1,145","1,114","1,346",916,MU
+"Other Curr. Lblts, Total","3,812","3,516","3,936","3,629",MU
+Total Current Liabilities,"6,918","7,009","7,539","6,525",MU
+Long Term Debt,"6,081","6,034","6,020","9,289",MU
+Capital Lease Obligations,872,822,783,805,MU
+Total Long Term Debt,"6,953","6,856","6,803","10,094",MU
+Total Debt,"7,076","6,963","6,906","10,265",MU
+"Other Liabilities, Total","1,980","2,150","2,034","1,949",MU
+Total Liabilities,"15,851","16,015","16,376","18,568",MU
+Common Stock,122,122,123,123,MU
+Additional Paid-In Capital,"9,816","9,950","10,197","10,335",MU
+Ret. Earn.(Accum. Deficit),"43,407","45,916","47,274","46,873",MU
+Treasury Stock - Common,"(5,362)","(6,343)","(7,127)","(7,552)",MU
+Unrealized Gain (Loss),(19),(37),(47),(66),MU
+Cum. Trans. Adjustment,2,2,0,(3),MU
+Min. Pension Lblty Adj.,21,23,25,26,MU
+Other Comprehensive Income,(142),(352),(538),(430),MU
+"Other Equity, Total",(119),(327),(513),(407),MU
+Total Equity,"47,845","49,281","49,907","49,306",MU
+Total Liabilities & Shareholders’ Equity,"63,696","65,296","66,283","67,874",MU
+Ttl Comm. Shares Outs.,"1,118","1,105","1,094","1,091",MU
+Trsy. Shrs-Comm. Primary Iss.,105,118,132,141,MU

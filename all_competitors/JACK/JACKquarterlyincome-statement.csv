@@ -1,0 +1,46 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Total Revenue,"344,711","322,294","398,305","402,773",JACK
+"Cost of Revenue, Total","144,481","152,054","193,287","193,535",JACK
+Selling/Gen/Admin Expense,"104,099","99,794","123,311","122,331",JACK
+Advertising Expense,"6,100","7,100","9,800","9,700",JACK
+"Sell/Gen/AdminExpenses,Tot","110,199","106,894","133,111","132,031",JACK
+Depreciation/Amortization,"12,496","11,545","16,713","15,346",JACK
+Restructuring Charge,--,--,--,"20,081",JACK
+Impair-Assets Held for Use,--,--,"1,653","(14,590)",JACK
+Other Unusual Expnse (In),"4,037","12,938","2,788",623,JACK
+Unusual Expense (Income),"3,420","13,269","2,981","(22,673)",JACK
+Loss(Gain)/Sale Asts (Oper),(617),331,"(1,460)","(28,787)",JACK
+"Other, Net",375,288,346,115,JACK
+"Other Operat Expse, Total",375,288,346,115,JACK
+Total Operating Expense,"270,971","284,050","346,438","318,354",JACK
+Total Operating Income,"73,740","38,244","51,867","84,419",JACK
+"Inter Expse,Net Non-Operat","(20,273)","(26,562)","(19,792)","(19,897)",JACK
+"Inter/Invest Inc, Non-Oper",86,81,89,193,JACK
+OtherNon-OperatInc (Expnse),(93),(70),(70),(70),JACK
+"Other, Net",(93),(70),(70),(70),JACK
+Income Before Tax,"53,460","11,693","32,094","64,645",JACK
+Income Tax - Total,"14,190","3,897","9,237","18,787",JACK
+Income After Tax,"39,270","7,796","22,857","45,858",JACK
+Net Inc Before Extra Items,"39,270","7,796","22,857","45,858",JACK
+Total Net Income,"39,270","7,796","22,857","45,858",JACK
+Income Available to Common Excl. Extra. Items,"39,270","7,796","22,857","45,858",JACK
+Income Available to Common Incl. Extra. Items,"39,270","7,796","22,857","45,858",JACK
+Basic/Primary Weighted Average Shares,"21,205","21,227","21,236","21,117",JACK
+Basic/Primary EPS Excl. Extra. Items,1.85,0.37,1.08,2.17,JACK
+Basic/Primary EPS Incl. Extra. Items,1.85,0.37,1.08,2.17,JACK
+Diluted Weighted Average Shares,"21,247","21,262","21,260","21,188",JACK
+Diluted EPS Excl. Extra. Items,1.85,0.37,1.08,2.16,JACK
+Diluted EPS Incl. Extra. Items,1.85,0.37,1.08,2.16,JACK
+Div/Share-ComStockPrimIssue,0.44,0.44,0.44,0.44,JACK
+Gross Divid - Common Stock,"9,320","9,334","9,329","9,263",JACK
+Pro Forma Net Income,--,--,--,--,JACK
+"Interest Expense, Suppl","20,273","26,562","19,792","19,897",JACK
+"Depreciat/Amort, Suppl","12,496","11,545","16,713","15,346",JACK
+Total Special Items,"3,420","13,269","2,981","(22,673)",JACK
+Normalzd Income Before Tax,"56,880","24,962","35,075","41,972",JACK
+Efct/SpecItemsIncTxs (STEC),908,"4,422",858,"(6,589)",JACK
+IncTxsExcl ImpctofSpec Itms,"15,098","8,319","10,095","12,198",JACK
+Normalized Income After Tax,"41,782","16,643","24,980","29,774",JACK
+Normalzd Inc Avail to Common,"41,782","16,643","24,980","29,774",JACK
+Basic Normalized EPS,1.97,0.78,1.18,1.41,JACK
+Diluted Normalized EPS,1.97,0.78,1.17,1.41,JACK

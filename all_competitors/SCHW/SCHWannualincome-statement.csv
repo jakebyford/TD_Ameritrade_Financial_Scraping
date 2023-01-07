@@ -1,0 +1,44 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"8,960","10,989","11,785","12,109","18,996",SCHW
+"Cost of Revenue, Total",342,857,"1,064",418,476,SCHW
+Selling/Gen/Admin Expense,"1,247","1,392","1,514","1,741","2,386",SCHW
+Labor & Related Expense,"2,737","3,057","3,320","3,719","5,167",SCHW
+Advertising Expense,268,313,307,326,485,SCHW
+"Sell/Gen/AdminExpenses,Tot","4,252","4,762","5,141","5,786","8,038",SCHW
+Depreciation,269,306,349,414,549,SCHW
+Amortiz of Intangibles,--,--,--,190,615,SCHW
+Depreciation/Amortization,269,306,349,604,"1,164",SCHW
+Unusual Expense (Income),--,--,--,423,454,SCHW
+Other Operating Expense,447,502,383,578,"1,151",SCHW
+"Other, Net",0,--,--,--,--,SCHW
+"Other Operat Expse, Total",447,502,383,578,"1,151",SCHW
+Total Operating Expense,"5,310","6,427","6,937","7,809","11,283",SCHW
+Total Operating Income,"3,650","4,562","4,848","4,300","7,713",SCHW
+Income Before Tax,"3,650","4,562","4,848","4,300","7,713",SCHW
+Income Tax - Total,"1,250","1,055","1,144","1,001","1,858",SCHW
+Income After Tax,"2,400","3,507","3,704","3,299","5,855",SCHW
+Net Inc Before Extra Items,"2,400","3,507","3,704","3,299","5,855",SCHW
+Total Extraordinary Items,(46),--,--,--,--,SCHW
+Total Net Income,"2,354","3,507","3,704","3,299","5,855",SCHW
+Total Adjust to Net Income,(174),(178),(178),(256),(495),SCHW
+Income Available to Common Excl. Extra. Items,"2,226","3,329","3,526","3,043","5,360",SCHW
+Income Available to Common Incl. Extra. Items,"2,180","3,329","3,526","3,043","5,360",SCHW
+Basic/Primary Weighted Average Shares,"1,339","1,348","1,311","1,429","1,887",SCHW
+Basic/Primary EPS Excl. Extra. Items,1.66,2.47,2.69,2.13,2.84,SCHW
+Basic/Primary EPS Incl. Extra. Items,1.63,2.47,2.69,2.13,2.84,SCHW
+Diluted Weighted Average Shares,"1,353","1,361","1,320","1,435","1,897",SCHW
+Diluted EPS Excl. Extra. Items,1.65,2.45,2.67,2.12,2.83,SCHW
+Diluted EPS Incl. Extra. Items,1.61,2.45,2.67,2.12,2.83,SCHW
+Div/Share-ComStockPrimIssue,0.32,0.46,0.68,0.72,0.72,SCHW
+Gross Divid - Common Stock,431,624,899,"1,040","1,367",SCHW
+Pro Forma Net Income,--,--,--,--,--,SCHW
+"Interest Expense, Suppl",342,857,"1,064",418,476,SCHW
+"Depreciat/Amort, Suppl",232,277,322,414,549,SCHW
+Total Special Items,--,--,--,442,468,SCHW
+Normalzd Income Before Tax,"3,650","4,562","4,848","4,742","8,181",SCHW
+Efct/SpecItemsIncTxs (STEC),--,--,--,(154),268,SCHW
+IncTxsExcl ImpctofSpec Itms,"1,250","1,055","1,144",847,"2,126",SCHW
+Normalized Income After Tax,"2,400","3,507","3,704","3,895","6,055",SCHW
+Normalzd Inc Avail to Common,"2,226","3,329","3,526","3,639","5,560",SCHW
+Basic Normalized EPS,1.66,2.47,2.69,2.55,2.95,SCHW
+Diluted Normalized EPS,1.65,2.45,2.67,2.54,2.93,SCHW

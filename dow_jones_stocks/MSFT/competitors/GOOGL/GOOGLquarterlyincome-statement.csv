@@ -1,0 +1,44 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"75,325","68,011","69,685","69,092",GOOGL
+"Cost of Revenue, Total","32,988","29,599","30,104","31,158",GOOGL
+"Sell/Gen/AdminExpenses,Tot","11,744","9,199","10,287","10,526",GOOGL
+Research & Development,"8,708","9,119","9,841","10,273",GOOGL
+Unusual Expense (Income),0,--,--,--,GOOGL
+Total Operating Expense,"53,440","47,917","50,232","51,957",GOOGL
+Total Operating Income,"21,885","20,094","19,453","17,135",GOOGL
+"Inter Expse, Non-Operating",(148),(117),(120),(129),GOOGL
+"Inter Capital, Non-Operat",31,34,37,28,GOOGL
+"Inter Expse,Net Non-Operat",(117),(83),(83),(101),GOOGL
+"Inter Income, Non-Operating",378,414,486,615,GOOGL
+"Invest Income, Non-Operat","2,364","(1,599)","(1,419)","(1,613)",GOOGL
+"Inter/Invest Inc, Non-Oper","2,742","(1,185)",(933),(998),GOOGL
+OtherNon-OperatInc (Expnse),(108),108,577,197,GOOGL
+"Other, Net",(108),108,577,197,GOOGL
+Income Before Tax,"24,402","18,934","19,014","16,233",GOOGL
+Income Tax - Total,"3,760","2,498","3,012","2,323",GOOGL
+Income After Tax,"20,642","16,436","16,002","13,910",GOOGL
+Net Inc Before Extra Items,"20,642","16,436","16,002","13,910",GOOGL
+Total Net Income,"20,642","16,436","16,002","13,910",GOOGL
+Income Available to Common Excl. Extra. Items,"20,642","16,436","16,002","13,910",GOOGL
+Income Available to Common Incl. Extra. Items,"20,642","16,436","16,002","13,910",GOOGL
+Basic/Primary Weighted Average Shares,"13,253","13,203","13,133","13,018",GOOGL
+Basic/Primary EPS Excl. Extra. Items,1.56,1.24,1.22,1.07,GOOGL
+Basic/Primary EPS Incl. Extra. Items,1.56,1.24,1.22,1.07,GOOGL
+Dilution Adjustment,0,0,0,0,GOOGL
+Diluted Weighted Average Shares,"14,347","13,351","13,239","13,097",GOOGL
+Diluted EPS Excl. Extra. Items,1.44,1.23,1.21,1.06,GOOGL
+Diluted EPS Incl. Extra. Items,1.44,1.23,1.21,1.06,GOOGL
+Div/Share-ComStockPrimIssue,--,0.00,0.00,0.00,GOOGL
+Gross Divid - Common Stock,0,--,--,--,GOOGL
+Pro Forma Net Income,--,--,--,--,GOOGL
+"Interest Expense, Suppl",117,83,83,101,GOOGL
+"Interest Capitalized, Suppl",(31),(34),(37),(28),GOOGL
+"Depreciat/Amort, Suppl","3,215","3,591","3,698","3,933",GOOGL
+Total Special Items,0,--,--,--,GOOGL
+Normalzd Income Before Tax,"24,402","18,934","19,014","16,233",GOOGL
+Efct/SpecItemsIncTxs (STEC),0,--,--,--,GOOGL
+IncTxsExcl ImpctofSpec Itms,"3,760","2,498","3,012","2,323",GOOGL
+Normalized Income After Tax,"20,642","16,436","16,002","13,910",GOOGL
+Normalzd Inc Avail to Common,"20,642","16,436","16,002","13,910",GOOGL
+Basic Normalized EPS,1.56,1.24,1.22,1.07,GOOGL
+Diluted Normalized EPS,1.44,1.23,1.21,1.06,GOOGL

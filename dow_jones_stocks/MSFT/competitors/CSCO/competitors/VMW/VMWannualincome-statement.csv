@@ -1,0 +1,44 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"7,862","9,613","10,811","11,767","12,851",VMW
+"Cost of Revenue, Total","1,141","1,552","1,799","2,043","2,271",VMW
+Selling/Gen/Admin Expense,"2,654","3,422","4,155","3,562","4,185",VMW
+Labor & Related Expense,276,343,461,479,433,VMW
+"Sell/Gen/AdminExpenses,Tot","2,930","3,765","4,616","4,041","4,618",VMW
+Research & Development,"1,755","2,173","2,522","2,816","3,057",VMW
+Restructuring Charge,104,9,79,42,1,VMW
+Other Unusual Expnse (In),--,--,--,--,21,VMW
+Unusual Expense (Income),104,9,79,42,22,VMW
+"Other Operat Expse, Total",230,311,354,437,517,VMW
+Total Operating Expense,"6,160","7,810","9,370","9,379","10,485",VMW
+Total Operating Income,"1,702","1,803","1,441","2,388","2,366",VMW
+"Inter Expse,Net Non-Operat",(74),(134),(149),(204),(252),VMW
+"Inter/Invest Inc, Non-Oper",120,161,60,7,(39),VMW
+OtherNon-OperatInc (Expnse),66,(1),86,191,10,VMW
+"Other, Net",66,(1),86,191,10,VMW
+Income Before Tax,"1,814","1,829","1,438","2,382","2,085",VMW
+Income Tax - Total,255,239,"(4,918)",324,265,VMW
+Income After Tax,"1,559","1,590","6,356","2,058","1,820",VMW
+Minority Interest,--,60,56,0,0,VMW
+Net Inc Before Extra Items,"1,559","1,650","6,412","2,058","1,820",VMW
+Total Extraordinary Items,(900),--,--,--,--,VMW
+Total Net Income,659,"1,650","6,412","2,058","1,820",VMW
+Income Available to Common Excl. Extra. Items,"1,559","1,650","6,412","2,058","1,820",VMW
+Income Available to Common Incl. Extra. Items,659,"1,650","6,412","2,058","1,820",VMW
+Basic/Primary Weighted Average Shares,407,414,417,420,420,VMW
+Basic/Primary EPS Excl. Extra. Items,3.83,3.99,15.37,4.90,4.34,VMW
+Basic/Primary EPS Incl. Extra. Items,1.62,3.99,15.37,4.90,4.34,VMW
+Diluted Weighted Average Shares,413,421,425,423,422,VMW
+Diluted EPS Excl. Extra. Items,3.77,3.92,15.08,4.86,4.31,VMW
+Diluted EPS Incl. Extra. Items,1.59,3.92,15.08,4.86,4.31,VMW
+Gross Divid - Common Stock,0,"11,000",0,0,"11,499",VMW
+Pro Forma Net Income,--,--,--,--,--,VMW
+"Interest Expense, Suppl",74,134,149,204,252,VMW
+"Depreciat/Amort, Suppl",198,211,234,253,290,VMW
+Total Special Items,104,9,79,42,22,VMW
+Normalzd Income Before Tax,"1,918","1,838","1,517","2,424","2,107",VMW
+Efct/SpecItemsIncTxs (STEC),15,1,28,6,3,VMW
+IncTxsExcl ImpctofSpec Itms,270,240,"(4,890)",330,268,VMW
+Normalized Income After Tax,"1,648","1,598","6,407","2,094","1,839",VMW
+Normalzd Inc Avail to Common,"1,648","1,658","6,463","2,094","1,839",VMW
+Basic Normalized EPS,4.05,4.01,15.50,4.99,4.38,VMW
+Diluted Normalized EPS,3.99,3.94,15.20,4.95,4.35,VMW

@@ -1,0 +1,39 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"5,327","3,152","2,844","6,503","3,203",HPQ
+Depreciation/Depletion,528,744,789,785,780,HPQ
+Deferred Taxes,"(3,653)",133,70,(605),574,HPQ
+Unusual Items,132,275,676,208,233,HPQ
+Other Non-Cash Items,587,551,603,770,818,HPQ
+Non-Cash Items,719,826,"1,279",978,"1,051",HPQ
+"Cash Taxes Pd, Supplemental",951,89,464,"1,548",749,HPQ
+"Cash Interest Pd, Suppl",329,240,227,261,305,HPQ
+Accounts Receivable,(491),(761),575,(80),"1,260",HPQ
+Inventories,(136),(68),(386),"(2,164)",233,HPQ
+Other Assets,--,--,(152),(111),(155),HPQ
+Accounts Payable,"1,429",(53),(35),"1,257",(928),HPQ
+Changes in Working Capital,"1,607",(201),(666),"(1,252)","(1,145)",HPQ
+Total Cash from Operations,"4,528","4,654","4,316","6,409","4,463",HPQ
+Capital Expenditures,(546),(671),(580),(582),(791),HPQ
+Acquisition of Business,"(1,036)",(458),0,(854),"(2,755)",HPQ
+Sale of Business,0,0,--,--,--,HPQ
+Sale of Fixed Assets,172,0,3,0,26,HPQ
+Sale/Maturity of Investment,847,771,417,304,9,HPQ
+"Investment, Net",214,0,(163),148,14,HPQ
+Purchase of Investments,(367),(80),(693),(28),(52),HPQ
+"OtherInvestCashFlowItms,Tot",(170),233,(436),(430),"(2,758)",HPQ
+Total Cash from Investing,(716),(438),"(1,016)","(1,012)","(3,549)",HPQ
+Financing Cash Flow Items,52,(61),(128),(51),184,HPQ
+Total Cash Dividends Paid,(899),(970),(997),(938),"(1,037)",HPQ
+"Iss (Retirmnt) of Stock,Net","(2,557)","(2,405)","(3,107)","(6,249)","(4,297)",HPQ
+Short Term Debt Issued,712,0,27,422,--,HPQ
+Short Term Debt Reduction,"(1,596)",0,0,--,--,HPQ
+"Short Term Debt, Net",(141),(856),27,422,(400),HPQ
+Long Term Debt Issued,0,127,"3,081","2,099","4,175",HPQ
+Long Term Debt Reduction,"(2,098)",(680),"(1,849)","(1,245)",(693),HPQ
+"Long Term Debt, Net","(2,098)",(553),"1,232",854,"3,482",HPQ
+"Iss (Retirmnt) of Debt, Net","(2,239)","(1,409)","1,259","1,276","3,082",HPQ
+Total Cash From Financing,"(5,643)","(4,845)","(2,973)","(5,962)","(2,068)",HPQ
+Net Change in Cash,"(1,831)",(629),327,(565),"(1,154)",HPQ
+NetCash-BeginBal/RsvdforFutUse,"6,997","5,166","4,537","4,864","4,299",HPQ
+NetCash-EndBal/RsrvforFutUse,"5,166","4,537","4,864","4,299","3,145",HPQ
+"Depreciation, Supplemental",528,744,789,785,780,HPQ

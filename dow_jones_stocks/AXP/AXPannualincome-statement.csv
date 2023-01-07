@@ -1,0 +1,45 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"37,657","41,625","45,115","37,030","42,838",AXP
+"Cost of Revenue, Total","10,858","12,771","14,220","10,214","13,458",AXP
+Selling/Gen/Admin Expense,"9,780","10,628","11,373","10,870","13,442",AXP
+Labor & Related Expense,"5,258","5,250","5,911","5,718","6,240",AXP
+"Sell/Gen/AdminExpenses,Tot","15,038","15,878","17,284","16,588","19,682",AXP
+Depreciation/Amortization,--,--,--,54,--,AXP
+"Inter/Invest Inc, Operating",29,(71),(64),--,(746),AXP
+Other Unusual Expnse (In),0,0,--,--,--,AXP
+Unusual Expense (Income),0,0,--,--,--,AXP
+Other Operating Expense,"1,518","1,589","1,677","1,148","1,174",AXP
+"Other, Net","2,789","3,336","3,569","4,730","(1,419)",AXP
+"Other Operat Expse, Total","4,307","4,925","5,246","5,878",(245),AXP
+Total Operating Expense,"30,232","33,503","36,686","32,734","32,149",AXP
+Total Operating Income,"7,425","8,122","8,429","4,296","10,689",AXP
+Income Before Tax,"7,425","8,122","8,429","4,296","10,689",AXP
+Income Tax - Total,"2,077","1,697","1,670","1,161","2,629",AXP
+Income After Tax,"5,348","6,425","6,759","3,135","8,060",AXP
+Net Inc Before Extra Items,"5,348","6,425","6,759","3,135","8,060",AXP
+Total Extraordinary Items,"(2,600)",496,--,--,--,AXP
+Total Net Income,"2,748","6,921","6,759","3,135","8,060",AXP
+Preferred Dividends,(81),(80),(81),(79),(87),AXP
+Misc Earnings Adjustment,(21),(54),(47),(20),(56),AXP
+Total Adjust to Net Income,(102),(134),(128),(99),(143),AXP
+Income Available to Common Excl. Extra. Items,"5,246","6,291","6,631","3,036","7,917",AXP
+Income Available to Common Incl. Extra. Items,"2,646","6,787","6,631","3,036","7,917",AXP
+Basic/Primary Weighted Average Shares,883,856,828,805,789,AXP
+Basic/Primary EPS Excl. Extra. Items,5.94,7.35,8.01,3.77,10.03,AXP
+Basic/Primary EPS Incl. Extra. Items,3.00,7.93,8.01,3.77,10.03,AXP
+Diluted Weighted Average Shares,886,859,830,806,790,AXP
+Diluted EPS Excl. Extra. Items,5.92,7.32,7.99,3.77,10.02,AXP
+Diluted EPS Incl. Extra. Items,2.99,7.90,7.99,3.77,10.02,AXP
+Div/Share-ComStockPrimIssue,1.31,1.44,1.60,1.72,1.72,AXP
+Gross Divid - Common Stock,"1,183","1,273","1,358","1,392","1,359",AXP
+Pro Forma Net Income,--,--,--,--,--,AXP
+"Interest Expense, Suppl","2,112","2,943","3,464","2,098","1,283",AXP
+"Depreciat/Amort, Suppl","1,114","1,081","1,139","1,489","1,638",AXP
+Total Special Items,0,0,--,--,--,AXP
+Normalzd Income Before Tax,"7,425","8,122","8,429","4,296","10,689",AXP
+Efct/SpecItemsIncTxs (STEC),0,0,--,--,--,AXP
+IncTxsExcl ImpctofSpec Itms,"2,077","1,697","1,670","1,161","2,629",AXP
+Normalized Income After Tax,"5,348","6,425","6,759","3,135","8,060",AXP
+Normalzd Inc Avail to Common,"5,246","6,291","6,631","3,036","7,917",AXP
+Basic Normalized EPS,5.94,7.35,8.01,3.77,10.03,AXP
+Diluted Normalized EPS,5.92,7.32,7.99,3.77,10.02,AXP

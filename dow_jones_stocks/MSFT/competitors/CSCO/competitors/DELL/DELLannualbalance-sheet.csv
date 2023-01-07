@@ -1,0 +1,74 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash & Equivalents,"13,942","9,676","9,302","9,508","9,477",DELL
+Short Term Investments,"2,187",0,--,--,--,DELL
+Cash and Short Term Invs,"16,129","9,676","9,302","9,508","9,477",DELL
+"Trade Accts Recvble, Gross","11,824","12,456","12,578","10,830","13,002",DELL
+Prov. for Doubtful Accts,(103),(85),(94),(99),(90),DELL
+"Trade Accts Recvble, Net","11,721","12,371","12,484","10,731","12,912",DELL
+Notes Recvble - Short Term,"3,919","4,398","4,895","5,148","5,089",DELL
+"Total Receivables, Net","15,640","16,769","17,379","15,879","18,001",DELL
+Invent. - Finished Goods,"1,197","1,153","1,128","1,008","1,390",DELL
+Invent. - Work In Progress,514,702,563,677,855,DELL
+Invent. - Raw Materials,967,"1,794","1,590","1,718","3,653",DELL
+Total Inventory,"2,678","3,649","3,281","3,403","5,898",DELL
+Restricted Cash - Current,--,--,--,836,534,DELL
+Discont. Ops.-Curr. Assets,--,--,--,"4,852",0,DELL
+Other Current Assets,"5,881","6,044","6,906","9,089","11,123",DELL
+"Other Curr. Assets, Total","5,881","6,044","6,906","14,777","11,657",DELL
+Total Current Assets,"40,328","36,138","36,868","43,567","45,033",DELL
+Land/Improvements,--,"4,559","4,700","3,169","3,095",DELL
+Machinery/Equipment,--,"9,048","9,927","8,715","9,211",DELL
+Other Prop./Plant/Equip.,--,--,"1,780","1,121",871,DELL
+Prop./Plant/Equip. - Gross,--,"13,607","16,407","13,005","13,177",DELL
+Accumulated Depreciation,--,"(8,348)","(8,572)","(7,051)","(6,891)",DELL
+Prop./Plant/Equip. - Net,"5,390","5,259","7,835","5,954","6,286",DELL
+"Goodwill, Net","39,920","40,089","41,691","20,028","19,770",DELL
+Intangibles - Gross,"43,511","43,625","43,718","30,593","30,561",DELL
+Accum. Intangible Amort.,"(15,246)","(21,355)","(25,611)","(21,478)","(23,100)",DELL
+Intangibles - Net,"28,265","22,270","18,107","9,115","7,461",DELL
+Long Term Investments,"4,163","1,005",864,"1,334","1,839",DELL
+Note Rcvble - Long Term,"3,724","4,224","4,848","5,339","5,522",DELL
+Disct. Ops. - LT Asset,--,--,--,"32,015",0,DELL
+Restricted Cash - LT,--,--,--,70,71,DELL
+Other Long Term Assets,"2,403","2,835","8,648","5,993","6,753",DELL
+Total Assets,"124,193","111,820","118,861","123,415","92,735",DELL
+Accounts Payable,"18,334","19,213","20,065","21,572","27,143",DELL
+Accrued Expenses,"7,843","6,695","5,536","7,166","7,578",DELL
+Notes Payable/ST Debt,0,0,0,0,0,DELL
+Curr. Port. LT Dbt/Cap Ls.,"7,873","4,320","7,737","6,357","5,823",DELL
+Customer Advances,"11,606","12,944","14,881","13,201","14,261",DELL
+Income Taxes Payable,--,"1,396","1,767",--,--,DELL
+Other Payables,--,--,--,"1,461","1,414",DELL
+Discontinued Operations,--,--,--,"4,375",0,DELL
+Other Current Liabilities,183,404,"2,470",--,--,DELL
+"Other Curr. Lblts, Total","11,789","14,744","19,118","19,037","15,675",DELL
+Total Current Liabilities,"45,839","44,972","52,456","54,132","56,219",DELL
+Total Long Term Debt,"43,998","49,201","44,319","32,865","21,131",DELL
+Total Debt,"51,871","53,521","52,056","39,222","26,954",DELL
+Deferred Income Tax,"6,590","5,527","3,110",--,--,DELL
+Minority Interest,"5,766","4,823","4,729","5,074",105,DELL
+Other LT Liabilities,"9,897","11,866","15,192","16,314","16,965",DELL
+Discont. Ops. - Lblts,--,--,--,"12,079",0,DELL
+"Other Liabilities, Total","9,897","11,866","15,192","28,393","16,965",DELL
+Total Liabilities,"112,090","116,389","119,806","120,464","94,420",DELL
+Redeemable Preferred Stock,384,"1,196",629,472,0,DELL
+Common Stock,8,7,7,8,8,DELL
+Additional Paid-In Capital,"19,881","16,107","16,084","16,841","7,890",DELL
+Ret. Earn.(Accum. Deficit),"(6,860)","(21,349)","(16,891)","(13,751)","(8,188)",DELL
+Treasury Stock - Common,"(1,440)",(63),(65),(305),(964),DELL
+Unrealized Gain (Loss),22,0,0,--,--,DELL
+Cum. Trans. Adjustment,179,(452),(678),(150),(526),DELL
+Min. Pension Lblty Adj.,32,14,(45),(78),(34),DELL
+Other Comprehensive Income,(103),(29),14,(86),129,DELL
+"Other Equity, Total",108,(467),(709),(314),(431),DELL
+Total Equity,"12,103","(4,569)",(945),"2,951","(1,685)",DELL
+Total Liabilities & Shareholders’ Equity,"124,193","111,820","118,861","123,415","92,735",DELL
+Shr Outs.-Com. Primary Iss.,360,172,256,283,283,DELL
+Shr Outs.-Com. Stk. Iss. 2,410,410,385,385,379,DELL
+Shr Outs.-Com. Stk. Iss. 3,137,137,102,102,95,DELL
+Shr Outs.-Com. Stk. Iss. 4,23,--,--,--,--,DELL
+Ttl Comm. Shares Outs.,930,719,743,770,757,DELL
+Trsy. Shrs-Comm. Primary Iss.,43,2,2,20,20,DELL
+Trsy. Shrs-Comm. Iss. 2,0,--,0,0,0,DELL
+Trsy. Shrs-Comm. Iss. 3,0,--,0,0,0,DELL
+Trsy. Shrs-Comm. Iss. 4,1,--,--,--,--,DELL

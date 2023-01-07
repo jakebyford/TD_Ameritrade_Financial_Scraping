@@ -1,0 +1,35 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,424,736,743,813,"1,023",YUMC
+Depreciation/Depletion,409,445,428,450,516,YUMC
+Deferred Taxes,62,33,16,111,160,YUMC
+Unusual Items,47,(30),(27),(49),87,YUMC
+Equity in Net Earnings/Loss,(65),(65),(69),(301),(672),YUMC
+Other Non-Cash Items,26,24,365,404,465,YUMC
+Non-Cash Items,8,(71),269,54,(120),YUMC
+"Cash Taxes Pd, Supplemental",232,208,255,170,255,YUMC
+Accounts Receivable,1,(13),(9),(15),(5),YUMC
+Inventories,(11),(23),(77),17,(16),YUMC
+Prepaid Expenses,(15),(22),(3),(15),(28),YUMC
+Accrued Expenses,--,--,(381),(394),(461),YUMC
+Payable/Accrued,(56),254,171,65,118,YUMC
+Changes in Working Capital,(19),190,(271),(314),(448),YUMC
+Total Cash from Operations,884,"1,333","1,185","1,114","1,131",YUMC
+Capital Expenditures,(415),(470),(435),(419),(689),YUMC
+Acquisition of Business,(25),(91),0,(288),(115),YUMC
+Sale of Fixed Assets,0,0,--,--,--,YUMC
+Sale/Maturity of Investment,479,680,534,"2,115","6,383",YUMC
+Purchase of Investments,(596),(678),"(1,024)","(4,499)","(6,439)",YUMC
+Other Investing Cash Flow,0,7,15,(18),5,YUMC
+"OtherInvestCashFlowItms,Tot",(142),(82),(475),"(2,690)",(166),YUMC
+Total Cash from Investing,(557),(552),(910),"(3,109)",(855),YUMC
+Financing Cash Flow Items,(19),(50),(34),(34),(35),YUMC
+Total Cash Dividends Paid,(38),(161),(181),(95),(203),YUMC
+Sale/Issuance of Common,0,0,--,"2,195",0,YUMC
+Repurch/Retirement Common,(128),(307),(265),(8),(75),YUMC
+"Iss (Retirmnt) of Stock,Net",(128),(307),(265),"2,187",(75),YUMC
+Total Cash From Financing,(185),(518),(480),"2,058",(313),YUMC
+Foreign Exchange Effects,32,(56),(6),40,15,YUMC
+Net Change in Cash,174,207,(211),103,(22),YUMC
+NetCash-BeginBal/RsvdforFutUse,885,"1,059","1,266","1,055","1,158",YUMC
+NetCash-EndBal/RsrvforFutUse,"1,059","1,266","1,055","1,158","1,136",YUMC
+"Depreciation, Supplemental",409,445,428,450,516,YUMC

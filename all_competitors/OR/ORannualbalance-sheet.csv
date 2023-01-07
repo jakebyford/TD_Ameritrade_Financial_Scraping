@@ -1,0 +1,55 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash,267,174,108,303,116,OR
+Cash & Equivalents,67,0,--,--,--,OR
+Short Term Investments,0,10,21,4,0,OR
+Cash and Short Term Invs,334,184,129,306,116,OR
+"Total Receivables, Net",8,12,6,13,15,OR
+Invent. - Finished Goods,--,--,--,--,10,OR
+Invent. - Raw Materials,--,--,--,8,4,OR
+Inventories - Other,--,--,--,2,5,OR
+Total Inventory,10,0,2,10,19,OR
+Prepaid Expenses,--,--,4,6,4,OR
+"Other Curr. Assets, Total",1,1,--,--,--,OR
+Total Current Assets,353,198,140,335,153,OR
+Machinery/Equipment,--,--,26,38,105,OR
+Natural Resources,--,--,421,"2,324","1,914",OR
+Prop./Plant/Equip. - Gross,--,--,447,"2,362","2,019",OR
+Accumulated Depreciation,--,--,(60),(714),(225),OR
+Prop./Plant/Equip. - Net,"1,678","1,510","1,517","1,648","1,794",OR
+"Goodwill, Net",111,111,111,111,111,OR
+LT Invt. - Affiliate Comp.,257,305,104,119,125,OR
+LT Investments - Other,115,110,68,158,169,OR
+Long Term Investments,373,415,172,277,294,OR
+Note Rcvble - Long Term,--,--,--,7,12,OR
+Deferred Charges,--,--,--,1,2,OR
+Def. Inc. Tax - LT Asset,0,--,--,--,--,OR
+Other Long Term Assets,2,2,7,18,5,OR
+Total Assets,"2,516","2,235","1,947","2,397","2,371",OR
+Accounts Payable,0,0,7,13,10,OR
+Accrued Expenses,4,1,6,9,7,OR
+Notes Payable/ST Debt,0,0,0,0,0,OR
+Curr. Port. LT Dbt/Cap Ls.,0,--,--,51,304,OR
+Dividends Payable,8,8,8,8,9,OR
+Income Taxes Payable,--,--,--,6,0,OR
+Other Payables,11,10,6,19,14,OR
+Other Current Liabilities,6,3,1,3,3,OR
+"Other Curr. Lblts, Total",24,22,15,37,26,OR
+Total Current Liabilities,29,23,28,110,346,OR
+Long Term Debt,464,353,349,351,116,OR
+Capital Lease Obligations,--,--,--,10,9,OR
+Total Long Term Debt,464,353,349,361,125,OR
+Total Debt,464,353,349,412,429,OR
+Deferred Income Tax,127,87,47,54,68,OR
+Minority Interest,0,--,--,113,145,OR
+"Other Liabilities, Total",2,0,29,32,51,OR
+Total Liabilities,622,463,454,669,736,OR
+Common Stock,"1,633","1,609","1,656","1,777","1,784",OR
+Additional Paid-In Capital,13,21,38,42,43,OR
+Ret. Earn.(Accum. Deficit),233,100,(232),(156),(265),OR
+Other Equity,18,18,18,18,15,OR
+Other Comprehensive Income,(3),23,13,49,59,OR
+"Other Equity, Total",15,41,31,67,73,OR
+Total Equity,"1,894","1,772","1,493","1,728","1,635",OR
+Total Liabilities & Shareholders’ Equity,"2,516","2,235","1,947","2,397","2,371",OR
+Ttl Comm. Shares Outs.,158,155,157,167,166,OR
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,OR

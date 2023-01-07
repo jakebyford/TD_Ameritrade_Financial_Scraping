@@ -1,0 +1,40 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,520,251,383,442,"1,372",AIZ
+Depreciation/Depletion,116,127,126,144,172,AIZ
+Deferred Taxes,(4),20,90,192,132,AIZ
+Discontinued Operations,--,--,--,--,(608),AIZ
+Unusual Items,(13),22,228,142,22,AIZ
+Other Non-Cash Items,(61),0,42,47,67,AIZ
+Non-Cash Items,(74),22,269,189,(519),AIZ
+"Cash Taxes Pd, Supplemental",19,94,93,99,221,AIZ
+Other Assets,(10),(220),(64),186,(424),AIZ
+Accounts Payable,"1,388",550,"1,783","1,157","1,411",AIZ
+Payable/Accrued,(35),--,--,--,--,AIZ
+Changes in Working Capital,(27),236,546,375,(375),AIZ
+Total Cash from Operations,530,657,"1,413","1,342",782,AIZ
+Capital Expenditures,(62),(83),(110),(121),(187),AIZ
+Acquisition of Business,(129),"(1,111)",(8),(459),(17),AIZ
+Sale of Business,0,61,0,0,"1,316",AIZ
+Sale of Fixed Assets,26,0,3,--,--,AIZ
+Sale/Maturity of Investment,"3,934","5,250","3,873","2,269","2,363",AIZ
+"Investment, Net",(54),(52),(24),42,(65),AIZ
+Purchase of Investments,"(4,235)","(6,211)","(4,359)","(2,557)","(3,065)",AIZ
+Other Investing Cash Flow,(21),(57),5,91,(187),AIZ
+"OtherInvestCashFlowItms,Tot",(479),"(2,120)",(510),(614),345,AIZ
+Total Cash from Investing,(541),"(2,203)",(620),(735),158,AIZ
+Financing Cash Flow Items,30,25,27,(37),(16),AIZ
+Cash Divids Paid - Common,(119),(134),(151),(155),(158),AIZ
+Cash Divs Paid - Preferred,--,(14),(19),(19),(5),AIZ
+Total Cash Dividends Paid,(119),(148),(170),(173),(162),AIZ
+"Common Stock, Net",(389),(139),(272),(297),(839),AIZ
+"Preferred Stock, Net",--,276,0,0,--,AIZ
+"Iss (Retirmnt) of Stock,Net",(389),137,(272),(297),(839),AIZ
+Long Term Debt Issued,672,"2,766",934,444,347,AIZ
+Long Term Debt Reduction,(221),(942),(699),(201),(420),AIZ
+"Iss (Retirmnt) of Debt, Net",451,"1,824",236,243,(73),AIZ
+Total Cash From Financing,(27),"1,838",(179),(265),"(1,090)",AIZ
+Foreign Exchange Effects,2,(35),(1),20,(23),AIZ
+Net Change in Cash,(35),257,613,362,(174),AIZ
+NetCash-BeginBal/RsvdforFutUse,"1,032",997,"1,254","1,867","2,229",AIZ
+NetCash-EndBal/RsrvforFutUse,997,"1,254","1,867","2,229","2,055",AIZ
+"Depreciation, Supplemental",116,127,126,144,172,AIZ

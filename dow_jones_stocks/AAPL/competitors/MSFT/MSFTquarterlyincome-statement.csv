@@ -1,0 +1,38 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Total Revenue,"51,728","49,360","51,865","50,122",MSFT
+"Cost of Revenue, Total","16,960","15,615","16,429","15,452",MSFT
+"Sell/Gen/AdminExpenses,Tot","6,763","7,075","8,053","6,524",MSFT
+Research & Development,"5,758","6,306","6,849","6,628",MSFT
+Unusual Expense (Income),5,50,43,25,MSFT
+Total Operating Expense,"29,486","29,046","31,374","28,629",MSFT
+Total Operating Income,"22,242","20,314","20,491","21,493",MSFT
+"Inter Expse,Net Non-Operat",(525),(503),(496),(500),MSFT
+"Inter/Invest Inc, Non-Oper",788,390,515,610,MSFT
+OtherNon-OperatInc (Expnse),10,(11),(23),(31),MSFT
+"Other, Net",10,(11),(23),(31),MSFT
+Income Before Tax,"22,515","20,190","20,487","21,572",MSFT
+Income Tax - Total,"3,750","3,462","3,747","4,016",MSFT
+Income After Tax,"18,765","16,728","16,740","17,556",MSFT
+Net Inc Before Extra Items,"18,765","16,728","16,740","17,556",MSFT
+Total Net Income,"18,765","16,728","16,740","17,556",MSFT
+Income Available to Common Excl. Extra. Items,"18,765","16,728","16,740","17,556",MSFT
+Income Available to Common Incl. Extra. Items,"18,765","16,728","16,740","17,556",MSFT
+Basic/Primary Weighted Average Shares,"7,505","7,493","7,472","7,457",MSFT
+Basic/Primary EPS Excl. Extra. Items,2.50,2.23,2.24,2.35,MSFT
+Basic/Primary EPS Incl. Extra. Items,2.50,2.23,2.24,2.35,MSFT
+Diluted Weighted Average Shares,"7,555","7,534","7,504","7,485",MSFT
+Diluted EPS Excl. Extra. Items,2.48,2.22,2.23,2.35,MSFT
+Diluted EPS Incl. Extra. Items,2.48,2.22,2.23,2.35,MSFT
+Div/Share-ComStockPrimIssue,0.62,0.62,0.62,0.62,MSFT
+Gross Divid - Common Stock,"4,646","4,634","4,621","5,064",MSFT
+Pro Forma Net Income,--,--,--,--,MSFT
+"Interest Expense, Suppl",525,503,496,500,MSFT
+"Depreciat/Amort, Suppl","3,050","3,271","3,379","2,157",MSFT
+Total Special Items,5,50,43,25,MSFT
+Normalzd Income Before Tax,"22,520","20,240","20,530","21,597",MSFT
+Efct/SpecItemsIncTxs (STEC),1,9,8,5,MSFT
+IncTxsExcl ImpctofSpec Itms,"3,751","3,471","3,755","4,021",MSFT
+Normalized Income After Tax,"18,769","16,769","16,775","17,576",MSFT
+Normalzd Inc Avail to Common,"18,769","16,769","16,775","17,576",MSFT
+Basic Normalized EPS,2.50,2.24,2.25,2.36,MSFT
+Diluted Normalized EPS,2.48,2.23,2.24,2.35,MSFT

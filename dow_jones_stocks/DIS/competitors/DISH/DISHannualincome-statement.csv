@@ -1,0 +1,53 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"14,391","13,621","12,808","15,493","17,881",DISH
+"Cost of Revenue, Total","10,327","9,610","8,985","10,034","11,738",DISH
+Selling/Gen/Admin Expense,660,691,780,"1,208","1,633",DISH
+Labor & Related Expense,27,35,13,58,47,DISH
+Advertising Expense,551,426,520,528,535,DISH
+"Sell/Gen/AdminExpenses,Tot","1,238","1,152","1,313","1,793","2,215",DISH
+Depreciation,818,712,631,622,561,DISH
+Amortiz of Intangibles,--,--,--,93,164,DISH
+Depreciation/Amortization,818,712,631,715,725,DISH
+Litigation,296,0,0,--,--,DISH
+Impair-Assets Held for Use,146,0,0,356,0,DISH
+Other Unusual Expnse (In),1,(4),0,13,4,DISH
+Unusual Expense (Income),443,(4),0,369,4,DISH
+Total Operating Expense,"12,825","11,470","10,929","12,911","14,682",DISH
+Total Operating Income,"1,566","2,151","1,878","2,583","3,199",DISH
+"Inter Expse, Non-Operating","(1,079)","(1,027)","(1,004)",(938),(838),DISH
+"Inter Capital, Non-Operat","1,016","1,012",980,925,821,DISH
+"Inter Expse,Net Non-Operat",(63),(15),(24),(13),(16),DISH
+"Inter Income, Non-Operating",41,45,77,23,11,DISH
+"Invest Income, Non-Operat",104,6,1,(21),(17),DISH
+"Inter/Invest Inc, Non-Oper",145,51,78,1,(6),DISH
+OtherNon-OperatInc (Expnse),2,2,11,1,41,DISH
+"Other, Net",2,2,11,1,41,DISH
+Income Before Tax,"1,650","2,189","1,944","2,572","3,219",DISH
+Income Tax - Total,685,534,451,698,763,DISH
+Income After Tax,965,"1,655","1,493","1,874","2,456",DISH
+Minority Interest,(67),(80),(93),(111),(45),DISH
+Net Inc Before Extra Items,899,"1,575","1,400","1,763","2,411",DISH
+Total Extraordinary Items,"1,200",--,--,--,--,DISH
+Total Net Income,"2,099","1,575","1,400","1,763","2,411",DISH
+Income Available to Common Excl. Extra. Items,899,"1,575","1,400","1,763","2,411",DISH
+Income Available to Common Incl. Extra. Items,"2,099","1,575","1,400","1,763","2,411",DISH
+Basic/Primary Weighted Average Shares,468,469,480,525,528,DISH
+Basic/Primary EPS Excl. Extra. Items,1.92,3.36,2.92,3.36,4.57,DISH
+Basic/Primary EPS Incl. Extra. Items,4.49,3.36,2.92,3.36,4.57,DISH
+Dilution Adjustment,30,--,--,--,--,DISH
+Diluted Weighted Average Shares,525,528,538,584,636,DISH
+Diluted EPS Excl. Extra. Items,1.77,2.98,2.60,3.02,3.79,DISH
+Diluted EPS Incl. Extra. Items,4.06,2.98,2.60,3.02,3.79,DISH
+Gross Divid - Common Stock,0,0,0,0,0,DISH
+Pro Forma Net Income,--,--,--,--,--,DISH
+"Interest Expense, Suppl",63,15,24,13,16,DISH
+"Interest Capitalized, Suppl","(1,016)","(1,012)",(980),(925),(821),DISH
+"Depreciat/Amort, Suppl",818,712,631,622,627,DISH
+Total Special Items,443,(4),0,369,4,DISH
+Normalzd Income Before Tax,"2,093","2,185","1,944","2,942","3,222",DISH
+Efct/SpecItemsIncTxs (STEC),184,(1),0,100,1,DISH
+IncTxsExcl ImpctofSpec Itms,869,533,451,799,764,DISH
+Normalized Income After Tax,"1,225","1,653","1,493","2,143","2,459",DISH
+Normalzd Inc Avail to Common,"1,158","1,572","1,400","2,032","2,413",DISH
+Basic Normalized EPS,2.47,3.35,2.92,3.87,4.57,DISH
+Diluted Normalized EPS,2.26,2.98,2.60,3.48,3.79,DISH

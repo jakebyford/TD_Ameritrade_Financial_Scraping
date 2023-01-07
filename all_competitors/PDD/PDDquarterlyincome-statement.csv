@@ -1,0 +1,38 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"27,231","23,794","31,440","35,504",PDD
+"Cost of Revenue, Total","6,516","7,160","7,962","7,414",PDD
+Selling/Gen/Admin Expense,"11,017","10,927","10,995","13,667",PDD
+Labor & Related Expense,769,884,"1,175","1,289",PDD
+"Sell/Gen/AdminExpenses,Tot","11,786","11,811","12,169","14,955",PDD
+Research & Development,"2,023","2,669","2,611","2,698",PDD
+Total Operating Expense,"20,324","21,639","22,742","25,068",PDD
+Total Operating Income,"6,907","2,154","8,697","10,437",PDD
+"Inter Expse,Net Non-Operat",(303),(13),(13),(14),PDD
+"Inter Income, Non-Operating",915,796,757,"1,092",PDD
+"Invest Income, Non-Operat",65,(14),(253),64,PDD
+"Inter/Invest Inc, Non-Oper",979,783,504,"1,156",PDD
+OtherNon-OperatInc (Expnse),115,240,"1,266",547,PDD
+"Other, Net",115,240,"1,266",547,PDD
+Income Before Tax,"7,698","3,164","10,454","12,126",PDD
+Income Tax - Total,"1,079",565,"1,558","1,537",PDD
+Income After Tax,"6,620","2,599","8,896","10,589",PDD
+Net Inc Before Extra Items,"6,620","2,599","8,896","10,589",PDD
+Total Net Income,"6,620","2,599","8,896","10,589",PDD
+Income Available to Common Excl. Extra. Items,"6,620","2,599","8,896","10,589",PDD
+Income Available to Common Incl. Extra. Items,"6,620","2,599","8,896","10,589",PDD
+Basic/Primary Weighted Average Shares,"5,032","5,037","5,042","5,051",PDD
+Basic/Primary EPS Excl. Extra. Items,1.32,0.52,1.76,2.10,PDD
+Basic/Primary EPS Incl. Extra. Items,1.32,0.52,1.76,2.10,PDD
+Diluted Weighted Average Shares,"5,707","5,688","5,717","5,776",PDD
+Diluted EPS Excl. Extra. Items,1.16,0.46,1.56,1.83,PDD
+Diluted EPS Incl. Extra. Items,1.16,0.46,1.56,1.83,PDD
+Div/Share-ComStockPrimIssue,--,0.00,0.00,0.00,PDD
+Gross Divid - Common Stock,--,0,--,--,PDD
+Pro Forma Net Income,--,--,--,--,PDD
+"Interest Expense, Suppl",303,13,13,14,PDD
+Normalzd Income Before Tax,"7,698","3,164","10,454","12,126",PDD
+IncTxsExcl ImpctofSpec Itms,"1,079",565,"1,558","1,537",PDD
+Normalized Income After Tax,"6,620","2,599","8,896","10,589",PDD
+Normalzd Inc Avail to Common,"6,620","2,599","8,896","10,589",PDD
+Basic Normalized EPS,1.32,0.52,1.76,2.10,PDD
+Diluted Normalized EPS,1.16,0.46,1.56,1.83,PDD

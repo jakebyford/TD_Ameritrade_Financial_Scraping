@@ -1,0 +1,45 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"94,005","101,127","84,818","58,656","62,286",BA
+"Cost of Revenue, Total","76,612","81,490","72,093","63,843","59,269",BA
+"Sell/Gen/AdminExpenses,Tot","4,095","4,567","3,909","4,817","4,157",BA
+Research & Development,"3,179","3,269","3,219","2,476","2,249",BA
+"Inter/Invest Inc, Operating",(204),(111),4,(9),(210),BA
+Other Unusual Expnse (In),--,--,"8,259",498,--,BA
+Unusual Expense (Income),(21),(75),"7,568",296,(277),BA
+Loss(Gain)/Sale Asts (Oper),(21),(75),(691),(202),(277),BA
+Total Operating Expense,"83,661","89,140","86,793","71,423","65,188",BA
+Total Operating Income,"10,344","11,987","(1,975)","(12,767)","(2,902)",BA
+"Inter Expse,Net Non-Operat",(360),(475),(722),"(2,156)","(2,682)",BA
+"Inter/Invest Inc, Non-Oper",16,1,--,--,--,BA
+OtherNon-OperatInc (Expnse),107,91,438,447,551,BA
+"Other, Net",107,91,438,447,551,BA
+Income Before Tax,"10,107","11,604","(2,259)","(14,476)","(5,033)",BA
+Income Tax - Total,"2,920","1,144","(1,623)","(2,535)",(743),BA
+Income After Tax,"7,187","10,460",(636),"(11,941)","(4,290)",BA
+Minority Interest,--,--,--,68,88,BA
+Net Inc Before Extra Items,"7,187","10,460",(636),"(11,873)","(4,202)",BA
+Total Extraordinary Items,"1,271",--,--,--,--,BA
+Total Net Income,"8,458","10,460",(636),"(11,873)","(4,202)",BA
+Total Adjust to Net Income,(6),(7),0,--,--,BA
+Income Available to Common Excl. Extra. Items,"7,181","10,453",(636),"(11,873)","(4,202)",BA
+Income Available to Common Incl. Extra. Items,"8,452","10,453",(636),"(11,873)","(4,202)",BA
+Basic/Primary Weighted Average Shares,603,579,566,569,588,BA
+Basic/Primary EPS Excl. Extra. Items,11.92,18.05,(1.12),(20.88),(7.15),BA
+Basic/Primary EPS Incl. Extra. Items,14.03,18.05,(1.12),(20.88),(7.15),BA
+Diluted Weighted Average Shares,610,586,566,569,588,BA
+Diluted EPS Excl. Extra. Items,11.77,17.85,(1.12),(20.88),(7.15),BA
+Diluted EPS Incl. Extra. Items,13.86,17.85,(1.12),(20.88),(7.15),BA
+Div/Share-ComStockPrimIssue,5.68,6.84,8.22,2.06,--,BA
+Gross Divid - Common Stock,"3,556","4,101","4,628","1,200",0,BA
+Pro Forma Net Income,--,--,--,--,--,BA
+"Interest Expense, Suppl",360,475,722,"2,156","2,682",BA
+"Interest Capitalized, Suppl",(110),(81),(83),(81),(76),BA
+"Depreciat/Amort, Suppl","1,807","1,842","1,940","1,929","1,860",BA
+Total Special Items,(21),(75),"8,220","6,289","1,883",BA
+Normalzd Income Before Tax,"10,086","11,529","5,961","(8,187)","(3,150)",BA
+Efct/SpecItemsIncTxs (STEC),(6),(7),"2,877","2,201",659,BA
+IncTxsExcl ImpctofSpec Itms,"2,914","1,137","1,254",(334),(84),BA
+Normalized Income After Tax,"7,172","10,392","4,707","(7,853)","(3,066)",BA
+Normalzd Inc Avail to Common,"7,166","10,385","4,707","(7,785)","(2,978)",BA
+Basic Normalized EPS,11.89,17.93,8.32,(13.69),(5.07),BA
+Diluted Normalized EPS,11.75,17.74,8.32,(13.69),(5.07),BA

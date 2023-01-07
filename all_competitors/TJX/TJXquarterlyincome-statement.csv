@@ -1,0 +1,41 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Total Revenue,"13,854","11,406","11,843","12,166",TJX
+"Cost of Revenue, Total","10,095","8,223","8,572","8,623",TJX
+"Sell/Gen/AdminExpenses,Tot","2,496","2,095","2,175","2,185",TJX
+Impair-Assets Held for Sale,--,218,0,0,TJX
+Other Unusual Expnse (In),0,--,0,0,TJX
+Unusual Expense (Income),0,218,0,0,TJX
+Total Operating Expense,"12,590","10,535","10,746","10,808",TJX
+Total Operating Income,"1,264",871,"1,097","1,359",TJX
+"Inter Expse, Non-Operating",(23),(23),(23),(23),TJX
+"Inter Capital, Non-Operat",1,2,2,2,TJX
+"Inter Expse,Net Non-Operat",(21),(21),(21),(21),TJX
+"Inter/Invest Inc, Non-Oper",0,3,10,21,TJX
+"Inter Inc(Exp),Net Non-Oper",0,0,0,0,TJX
+Income Before Tax,"1,243",852,"1,086","1,359",TJX
+Income Tax - Total,303,265,276,296,TJX
+Income After Tax,940,587,809,"1,063",TJX
+Net Inc Before Extra Items,940,587,809,"1,063",TJX
+Total Net Income,940,587,809,"1,063",TJX
+Income Available to Common Excl. Extra. Items,940,587,809,"1,063",TJX
+Income Available to Common Incl. Extra. Items,940,587,809,"1,063",TJX
+Basic/Primary Weighted Average Shares,"1,189","1,177","1,168","1,161",TJX
+Basic/Primary EPS Excl. Extra. Items,0.79,0.50,0.69,0.92,TJX
+Basic/Primary EPS Incl. Extra. Items,0.79,0.50,0.69,0.92,TJX
+Diluted Weighted Average Shares,"1,205","1,189","1,178","1,172",TJX
+Diluted EPS Excl. Extra. Items,0.78,0.49,0.69,0.91,TJX
+Diluted EPS Incl. Extra. Items,0.78,0.49,0.69,0.91,TJX
+Div/Share-ComStockPrimIssue,0.26,0.26,0.30,0.30,TJX
+Gross Divid - Common Stock,308,347,343,342,TJX
+Pro Forma Net Income,--,--,--,--,TJX
+"Interest Expense, Suppl",21,21,21,21,TJX
+"Interest Capitalized, Suppl",(1),(2),(2),(2),TJX
+"Depreciat/Amort, Suppl",220,220,218,218,TJX
+Total Special Items,0,218,0,0,TJX
+Normalzd Income Before Tax,"1,243","1,070","1,086","1,359",TJX
+Efct/SpecItemsIncTxs (STEC),0,68,0,0,TJX
+IncTxsExcl ImpctofSpec Itms,303,332,276,296,TJX
+Normalized Income After Tax,940,737,809,"1,063",TJX
+Normalzd Inc Avail to Common,940,737,809,"1,063",TJX
+Basic Normalized EPS,0.79,0.63,0.69,0.92,TJX
+Diluted Normalized EPS,0.78,0.62,0.69,0.91,TJX

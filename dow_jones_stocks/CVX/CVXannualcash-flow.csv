@@ -1,0 +1,42 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"9,269","14,860","2,845","(5,561)","15,689",CVX
+Depreciation/Depletion,"19,349","19,419","29,218","19,508","17,925",CVX
+Deferred Taxes,"(3,203)","1,050","(1,966)","(3,604)",700,CVX
+Unusual Items,"(2,195)",(619),"(1,367)",(760),"(1,021)",CVX
+Equity in Net Earnings/Loss,"(2,380)","(3,580)","(2,073)","2,015","(1,998)",CVX
+Other Non-Cash Items,(39),"1,228",946,"1,951",132,CVX
+Non-Cash Items,"(4,614)","(2,971)","(2,494)","3,206","(2,887)",CVX
+"Cash Taxes Pd, Supplemental","3,132","4,748","4,817","2,987","4,355",CVX
+"Cash Interest Pd, Suppl",265,736,810,720,699,CVX
+Accounts Receivable,(915),437,"1,852","2,423","(7,548)",CVX
+Inventories,(267),(424),7,284,(530),CVX
+Prepaid Expenses,173,(149),(323),(87),19,CVX
+Other Assets,(254),0,(69),(248),(320),CVX
+Payable/Accrued,998,(494),(109),"(3,576)","5,475",CVX
+Changes in Working Capital,(463),"(1,740)",(289),"(2,972)","(2,240)",CVX
+Total Cash from Operations,"20,338","30,618","27,314","10,577","29,187",CVX
+Capital Expenditures,"(13,404)","(13,792)","(14,116)","(8,922)","(8,056)",CVX
+Sale of Business,--,--,--,373,0,CVX
+Sale of Fixed Assets,"5,096","2,392","2,951","2,968","1,791",CVX
+Sale/Maturity of Investment,7,0,3,35,3,CVX
+"Investment, Net",0,(950),950,0,0,CVX
+Purchase of Investments,(3),(51),(1),0,(4),CVX
+Other Investing Cash Flow,(16),111,"(1,245)","(1,419)",401,CVX
+"OtherInvestCashFlowItms,Tot","5,084","1,502","2,658","1,957","2,191",CVX
+Total Cash from Investing,"(8,320)","(12,290)","(11,458)","(6,965)","(5,865)",CVX
+Financing Cash Flow Items,(78),(91),(18),(24),(36),CVX
+Total Cash Dividends Paid,"(8,132)","(8,502)","(8,959)","(9,651)","(10,179)",CVX
+"Iss (Retirmnt) of Stock,Net","1,117",(604),"(2,935)","(1,531)",38,CVX
+Short Term Debt Issued,--,--,--,"10,846","4,448",CVX
+Short Term Debt Reduction,--,--,--,"(9,771)","(6,906)",CVX
+"Short Term Debt, Net","(5,142)","2,021","(2,821)",651,"(5,572)",CVX
+Long Term Debt Issued,"3,991",218,0,"12,308",0,CVX
+Long Term Debt Reduction,"(6,310)","(6,741)","(5,025)","(5,489)","(7,364)",CVX
+"Long Term Debt, Net","(2,319)","(6,523)","(5,025)","6,819","(7,364)",CVX
+"Iss (Retirmnt) of Debt, Net","(7,461)","(4,502)","(7,846)","7,470","(12,936)",CVX
+Total Cash From Financing,"(14,554)","(13,699)","(19,758)","(3,736)","(23,113)",CVX
+Foreign Exchange Effects,65,(91),332,(50),(151),CVX
+Net Change in Cash,"(2,471)","4,538","(3,570)",(174),58,CVX
+NetCash-BeginBal/RsvdforFutUse,"8,414","5,943","10,481","6,911","6,737",CVX
+NetCash-EndBal/RsrvforFutUse,"5,943","10,481","6,911","6,737","6,795",CVX
+"Depreciation, Supplemental","19,349","19,419","29,218","19,508","17,925",CVX

@@ -1,0 +1,34 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Cash and Short Term Invs,40,56,47,103,RAD
+"Total Receivables, Net","1,343","1,450","1,564","1,474",RAD
+Inventories - Other,"2,447","1,488","1,529","2,494",RAD
+LIFO Reserve,(487),487,497,(513),RAD
+Total Inventory,"1,959","1,975","2,026","1,981",RAD
+Prepaid Expenses,107,89,103,120,RAD
+Total Current Assets,"3,449","3,569","3,741","3,678",RAD
+Prop./Plant/Equip. - Net,"3,803","3,709","3,630","3,563",RAD
+"Goodwill, Net",879,879,627,627,RAD
+Intangibles - Gross,"1,758","1,756","1,758",--,RAD
+Accum. Intangible Amort.,"(1,467)","(1,473)","(1,490)",--,RAD
+Intangibles - Net,291,283,268,260,RAD
+Other Long Term Assets,87,90,87,68,RAD
+Total Assets,"8,529","8,550","8,367","8,210",RAD
+Accounts Payable,"1,571","1,461","1,512","1,455",RAD
+Accrued Expenses,"1,356","1,362","1,302","1,363",RAD
+Notes Payable/ST Debt,0,0,0,--,RAD
+Curr. Port. LT Dbt/Cap Ls.,6,5,6,6,RAD
+Total Current Liabilities,"2,933","2,828","2,819","2,824",RAD
+Long Term Debt,"2,733","3,026","3,223","3,189",RAD
+Capital Lease Obligations,15,14,14,13,RAD
+Total Long Term Debt,"2,748","3,041","3,237","3,202",RAD
+Total Debt,"2,753","3,046","3,242","3,208",RAD
+"Other Liabilities, Total","2,749","2,689","2,648","2,587",RAD
+Total Liabilities,"8,430","8,558","8,704","8,614",RAD
+Common Stock,56,56,57,57,RAD
+Additional Paid-In Capital,"5,910","5,913","5,916","5,915",RAD
+Ret. Earn.(Accum. Deficit),"(5,852)","(5,962)","(6,293)","(6,360)",RAD
+"Other Equity, Total",(15),(15),(15),(15),RAD
+Total Equity,99,(8),(336),(404),RAD
+Total Liabilities & Shareholders’ Equity,"8,529","8,550","8,367","8,210",RAD
+Ttl Comm. Shares Outs.,56,56,57,57,RAD
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,RAD

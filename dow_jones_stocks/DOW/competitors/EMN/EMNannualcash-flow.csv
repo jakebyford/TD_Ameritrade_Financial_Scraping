@@ -1,0 +1,36 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"1,388","1,084",762,489,867,EMN
+Depreciation/Depletion,587,604,611,574,538,EMN
+Deferred Taxes,(394),(51),23,(111),(38),EMN
+Unusual Items,(20),76,215,387,302,EMN
+Equity in Net Earnings/Loss,(3),--,0,0,--,EMN
+Non-Cash Items,(23),76,215,387,302,EMN
+"Cash Taxes Pd, Supplemental",97,202,217,179,122,EMN
+"Cash Interest Pd, Suppl",263,239,235,191,170,EMN
+Accounts Receivable,(53),16,170,(31),(281),EMN
+Inventories,(71),(224),(80),291,(389),EMN
+Accounts Payable,123,90,(27),(100),554,EMN
+Changes in Working Capital,99,(170),(107),116,(50),EMN
+Total Cash from Operations,"1,657","1,543","1,504","1,455","1,619",EMN
+Capital Expenditures,(649),(528),(425),(383),(555),EMN
+Acquisition of Business,(4),(3),(48),(1),(114),EMN
+Sale of Fixed Assets,14,5,0,0,667,EMN
+Other Investing Cash Flow,(4),63,(7),(10),(27),EMN
+"OtherInvestCashFlowItms,Tot",6,65,(55),(11),526,EMN
+Total Cash from Investing,(643),(463),(480),(394),(29),EMN
+Financing Cash Flow Items,(7),(4),--,--,--,EMN
+Total Cash Dividends Paid,(296),(318),(343),(358),(375),EMN
+"Common Stock, Net",(350),(400),(325),(60),"(1,000)",EMN
+Options Exercised,16,(2),(5),21,35,EMN
+"Iss (Retirmnt) of Stock,Net",(334),(402),(330),(39),(965),EMN
+"Short Term Debt, Net",(19),(146),(70),(121),(50),EMN
+Long Term Debt Issued,675,"1,604",460,249,0,EMN
+Long Term Debt Reduction,"(1,025)","(1,774)",(760),(435),(300),EMN
+"Long Term Debt, Net",(350),(170),(300),(186),(300),EMN
+"Iss (Retirmnt) of Debt, Net",(369),(316),(370),(307),(350),EMN
+Total Cash From Financing,"(1,006)","(1,040)","(1,043)",(704),"(1,690)",EMN
+Foreign Exchange Effects,2,(5),(3),3,(5),EMN
+Net Change in Cash,10,35,(22),360,(105),EMN
+NetCash-BeginBal/RsvdforFutUse,181,191,226,204,564,EMN
+NetCash-EndBal/RsrvforFutUse,191,226,204,564,459,EMN
+"Depreciation, Supplemental",587,604,611,574,538,EMN

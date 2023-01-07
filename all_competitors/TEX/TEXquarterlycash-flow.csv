@@ -1,0 +1,34 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,221,52,126,208,TEX
+Depreciation/Depletion,50,12,24,35,TEX
+Deferred Taxes,1,--,--,--,TEX
+Discontinued Operations,(3),0,--,--,TEX
+Unusual Items,28,--,0,0,TEX
+Other Non-Cash Items,48,12,26,42,TEX
+Non-Cash Items,73,13,27,42,TEX
+Accounts Receivable,(139),(21),(69),(56),TEX
+Inventories,(230),(118),(193),(234),TEX
+Accounts Payable,173,42,90,92,TEX
+Changes in Working Capital,(52),(128),(157),(181),TEX
+Total Cash from Operations,293,(52),19,104,TEX
+Capital Expenditures,(60),(20),(47),(79),TEX
+Acquisition of Business,(43),--,(8),(50),TEX
+Sale of Business,0,--,--,--,TEX
+Sale of Fixed Assets,2,0,0,5,TEX
+Purchase of Investments,(2),--,--,--,TEX
+Other Investing Cash Flow,--,(3),--,--,TEX
+"OtherInvestCashFlowItms,Tot",(43),(3),(8),(46),TEX
+Total Cash from Investing,(102),(23),(55),(124),TEX
+Financing Cash Flow Items,(23),(10),(13),(14),TEX
+Total Cash Dividends Paid,(34),(9),(18),(27),TEX
+"Iss (Retirmnt) of Stock,Net",(3),(18),(83),(97),TEX
+"Long Term Debt, Net",(17),--,0,0,TEX
+Total Debt Issued,600,65,185,254,TEX
+Total Debt Reduction,"(1,104)",0,(33),(104),TEX
+"Iss (Retirmnt) of Debt, Net",(520),65,152,151,TEX
+Total Cash From Financing,(580),28,38,13,TEX
+Foreign Exchange Effects,(14),(2),(16),(28),TEX
+Net Change in Cash,(403),(49),(14),(35),TEX
+NetCash-BeginBal/RsvdforFutUse,670,267,267,267,TEX
+NetCash-EndBal/RsrvforFutUse,267,218,253,232,TEX
+"Depreciation, Supplemental",50,12,24,35,TEX

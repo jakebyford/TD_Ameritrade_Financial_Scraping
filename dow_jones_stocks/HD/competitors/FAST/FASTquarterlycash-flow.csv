@@ -1,0 +1,36 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,925,270,557,841,FAST
+Depreciation/Depletion,160,41,82,124,FAST
+Amortization,11,3,5,8,FAST
+Deferred Taxes,(14),1,1,4,FAST
+Unusual Items,(1),4,2,1,FAST
+Other Non-Cash Items,8,1,3,4,FAST
+Non-Cash Items,7,5,6,5,FAST
+"Cash Taxes Pd, Supplemental",294,15,175,257,FAST
+"Cash Interest Pd, Suppl",10,2,5,9,FAST
+Accounts Receivable,(135),(170),(209),(223),FAST
+Inventories,(190),(76),(151),(177),FAST
+Other Assets,(48),61,59,16,FAST
+Accounts Payable,26,57,59,44,FAST
+Accrued Expenses,26,(30),(30),(16),FAST
+Changes in Working Capital,(319),(89),(270),(343),FAST
+Total Cash from Operations,770,230,381,639,FAST
+Capital Expenditures,(157),(36),(83),(131),FAST
+Acquisition of Business,0,--,--,--,FAST
+Sale of Fixed Assets,8,2,7,10,FAST
+Other Investing Cash Flow,0,0,(1),(1),FAST
+"OtherInvestCashFlowItms,Tot",8,2,6,9,FAST
+Total Cash from Investing,(149),(33),(77),(122),FAST
+Total Cash Dividends Paid,(644),(178),(357),(534),FAST
+"Common Stock, Net",0,--,(49),(145),FAST
+Options Exercised,32,4,6,8,FAST
+"Iss (Retirmnt) of Stock,Net",32,4,(44),(137),FAST
+Long Term Debt Issued,525,235,695,"1,390",FAST
+Long Term Debt Reduction,(540),(260),(580),"(1,225)",FAST
+"Iss (Retirmnt) of Debt, Net",(15),(25),115,165,FAST
+Total Cash From Financing,(627),(200),(285),(506),FAST
+Foreign Exchange Effects,(4),1,(7),(16),FAST
+Net Change in Cash,(10),(2),12,(5),FAST
+NetCash-BeginBal/RsvdforFutUse,246,236,236,236,FAST
+NetCash-EndBal/RsrvforFutUse,236,234,248,232,FAST
+"Depreciation, Supplemental",160,41,82,124,FAST

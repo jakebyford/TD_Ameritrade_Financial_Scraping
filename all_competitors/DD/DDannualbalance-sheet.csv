@@ -1,0 +1,77 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"13,438","8,548","1,540","2,544","1,972",DD
+Short Term Investments,956,29,--,--,--,DD
+Cash and Short Term Invs,"14,394","8,577","1,540","2,544","1,972",DD
+"Trade Accts Recvble, Gross","11,441","3,401","3,811","2,453","2,187",DD
+Prov. for Doubtful Accts,(127),(10),(9),(32),(28),DD
+"Trade Accts Recvble, Net","11,314","3,439","3,837","2,421","2,159",DD
+Other Receivables,"5,579",--,--,--,--,DD
+"Total Receivables, Net","16,893","3,439","3,837","2,421","2,159",DD
+Invent. - Finished Goods,"9,701","2,599","2,621","1,503","1,201",DD
+Invent. - Work In Progress,"4,512",833,855,515,446,DD
+Invent. - Raw Materials,"1,267",560,599,251,323,DD
+Inventories - Other,"1,296",115,244,124,116,DD
+LIFO Reserve,216,--,--,--,--,DD
+Total Inventory,"16,992","4,107","4,319","2,393","2,086",DD
+Prepaid Expenses,"1,522",220,266,164,165,DD
+Restricted Cash - Current,--,--,37,17,12,DD
+Discont. Ops.-Curr. Assets,--,"110,275",0,"21,469","7,909",DD
+Other Current Assets,92,37,--,--,--,DD
+"Other Curr. Assets, Total",92,"110,312",37,"21,486","7,921",DD
+Total Current Assets,"49,893","126,655","9,999","29,008","14,303",DD
+Buildings,"8,667",--,"2,806","2,031","1,954",DD
+Land/Improvements,"3,448",--,791,682,440,DD
+Machinery/Equipment,"51,312",--,"9,863","7,127","6,467",DD
+Construction in Progress,"4,600",--,"1,652","1,283","1,034",DD
+Other Prop./Plant/Equip.,"5,277","14,116",556,423,422,DD
+Prop./Plant/Equip. - Gross,"73,304","14,116","15,668","11,546","10,317",DD
+Accumulated Depreciation,"(37,057)","(4,199)","(4,969)","(4,256)","(4,142)",DD
+Prop./Plant/Equip. - Net,"36,247","9,917","10,699","7,290","6,175",DD
+"Goodwill, Net","59,527","34,496","33,151","18,702","16,981",DD
+Intangibles - Gross,"38,824","17,827","17,736","12,174","10,222",DD
+Accum. Intangible Amort.,"(5,550)","(3,172)","(4,143)","(4,102)","(4,000)",DD
+Intangibles - Net,"33,274","14,655","13,593","8,072","6,222",DD
+LT Invt. - Affiliate Comp.,"5,336","1,745","1,204",889,817,DD
+LT Investments - Other,"2,564",28,24,158,102,DD
+Long Term Investments,"7,900","1,773","1,228","1,047",919,DD
+Note Rcvble - Long Term,680,47,32,--,--,DD
+Deferred Charges,"2,705",134,458,389,938,DD
+Def. Inc. Tax - LT Asset,"1,869",178,189,190,116,DD
+Restricted Cash - LT,--,--,0,"6,206",53,DD
+Other Long Term Assets,69,--,--,--,--,DD
+Total Assets,"192,164","187,855","69,349","70,904","45,707",DD
+Accounts Payable,"9,134","2,619","2,934","2,222","2,102",DD
+Accrued Expenses,"5,524","1,052","1,322","1,068","1,015",DD
+Notes Payable/ST Debt,"1,948",4,"1,829",0,150,DD
+Curr. Port. LT Dbt/Cap Ls.,"2,067",11,"2,001",1,0,DD
+Customer Advances,"2,606",71,20,16,25,DD
+Income Taxes Payable,843,115,240,169,201,DD
+Other Payables,"3,727",--,--,--,--,DD
+Discontinued Operations,--,"69,434",0,"8,750","1,438",DD
+Other Current Liabilities,279,6,--,--,--,DD
+"Other Curr. Lblts, Total","7,455","69,626",260,"8,935","1,664",DD
+Total Current Liabilities,"26,128","73,312","8,346","12,226","4,931",DD
+Long Term Debt,"30,056","12,624","13,615","15,609","10,630",DD
+Capital Lease Obligations,--,--,2,2,2,DD
+Total Long Term Debt,"30,056","12,624","13,617","15,611","10,632",DD
+Total Debt,"34,071","12,639","17,447","15,612","10,782",DD
+Deferred Income Tax,"6,266","3,912","3,467","2,053","1,459",DD
+Minority Interest,"1,597","1,608",569,566,617,DD
+Pension Benefits - Underfunded,"18,581","1,343","1,172","1,110",762,DD
+Other LT Liabilities,"9,206",764,"1,191",834,873,DD
+"Other Liabilities, Total","27,787","2,107","2,363","1,944","1,635",DD
+Total Liabilities,"91,834","93,563","28,362","32,400","19,274",DD
+Common Stock,23,8,7,7,5,DD
+Additional Paid-In Capital,"81,257","81,976","50,796","50,039","49,574",DD
+Ret. Earn.(Accum. Deficit),"29,211","30,257","(8,400)","(11,586)","(23,187)",DD
+Treasury Stock - Common,"(1,000)","(5,421)",--,--,--,DD
+ESOP Debt Guarantee,(189),(134),--,--,--,DD
+Unrealized Gain (Loss),(3),(51),0,--,--,DD
+Cum. Trans. Adjustment,"(1,935)","(3,785)","(1,070)",470,(88),DD
+Min. Pension Lblty Adj.,"(6,923)","(8,476)",(345),(425),73,DD
+Other Comprehensive Income,(111),(82),(1),(1),56,DD
+"Other Equity, Total","(8,969)","(12,343)","(1,416)",44,41,DD
+Total Equity,"100,330","94,292","40,987","38,504","26,433",DD
+Total Liabilities & Shareholders’ Equity,"192,164","187,855","69,349","70,904","45,707",DD
+Ttl Comm. Shares Outs.,776,756,739,734,512,DD
+Trsy. Shrs-Comm. Primary Iss.,5,28,0,0,0,DD

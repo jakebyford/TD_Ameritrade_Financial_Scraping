@@ -1,0 +1,42 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,477,"2,368","3,687","4,495","7,071",ABT
+Depreciation/Depletion,"1,046","1,100","1,078","1,195","1,491",ABT
+Amortization,"1,975","2,178","1,936","2,132","2,047",ABT
+Discontinued Operations,"(1,163)",0,0,--,--,ABT
+Unusual Items,2,293,247,425,55,ABT
+Equity in Net Earnings/Loss,0,0,--,--,--,ABT
+Other Non-Cash Items,"1,318",509,519,546,640,ABT
+Non-Cash Items,157,802,766,971,695,ABT
+"Cash Taxes Pd, Supplemental",570,740,930,970,"1,941",ABT
+"Cash Interest Pd, Suppl",917,845,677,549,544,ABT
+Accounts Receivable,(207),(190),(275),(924),(383),ABT
+Inventories,249,(514),(593),(493),(456),ABT
+Prepaid Expenses,109,23,(138),(627),(312),ABT
+Payable/Accrued,615,747,220,"1,766","1,288",ABT
+Changes in Working Capital,"1,915",(148),"(1,331)",(892),(771),ABT
+Total Cash from Operations,"5,570","6,300","6,136","7,901","10,533",ABT
+Capital Expenditures,"(1,135)","(1,394)","(1,638)","(2,177)","(1,885)",ABT
+Acquisition of Business,"(17,183)",0,(170),(42),(187),ABT
+Sale of Business,"6,042",48,48,58,134,ABT
+Sale/Maturity of Investment,"2,833",73,21,10,77,ABT
+Purchase of Investments,(210),(131),(103),(83),(173),ABT
+Other Investing Cash Flow,35,48,27,19,26,ABT
+"OtherInvestCashFlowItms,Tot","(8,483)",38,(177),(38),(123),ABT
+Total Cash from Investing,"(9,618)","(1,356)","(1,815)","(2,215)","(2,008)",ABT
+Financing Cash Flow Items,(13),0,0,(11),0,ABT
+Total Cash Dividends Paid,"(1,849)","(1,974)","(2,270)","(2,560)","(3,202)",ABT
+"Common Stock, Net",(117),(238),(718),(403),"(2,299)",ABT
+"Preferred Stock, Net",(710),0,0,--,--,ABT
+Options Exercised,350,271,298,245,255,ABT
+"Iss (Retirmnt) of Stock,Net",(477),33,(420),(158),"(2,044)",ABT
+"Short Term Debt, Net","(1,034)",(26),0,2,(204),ABT
+Long Term Debt Issued,"6,742","4,009","1,842","1,281",4,ABT
+Long Term Debt Reduction,"(8,650)","(12,433)","(3,441)","(1,333)",(48),ABT
+"Long Term Debt, Net","(1,908)","(8,424)","(1,599)",(52),(44),ABT
+"Iss (Retirmnt) of Debt, Net","(2,942)","(8,450)","(1,599)",(50),(248),ABT
+Total Cash From Financing,"(5,281)","(10,391)","(4,289)","(2,779)","(5,494)",ABT
+Foreign Exchange Effects,116,(116),(16),71,(70),ABT
+Net Change in Cash,"(9,213)","(5,563)",16,"2,978","2,961",ABT
+NetCash-BeginBal/RsvdforFutUse,"18,620","9,407","3,844","3,860","6,838",ABT
+NetCash-EndBal/RsrvforFutUse,"9,407","3,844","3,860","6,838","9,799",ABT
+"Depreciation, Supplemental","1,046","1,100","1,078","1,195","1,491",ABT

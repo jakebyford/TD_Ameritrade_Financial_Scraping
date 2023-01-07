@@ -1,0 +1,37 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Net Income,"1,820",242,589,820,VMW
+Depreciation/Depletion,"1,110",288,590,906,VMW
+Deferred Taxes,(80),(43),(80),(181),VMW
+Unusual Items,54,(9),(12),(11),VMW
+Other Non-Cash Items,"1,085",286,596,947,VMW
+Non-Cash Items,"1,139",277,584,936,VMW
+"Cash Taxes Pd, Supplemental",331,69,184,278,VMW
+"Cash Interest Pd, Suppl",200,80,140,226,VMW
+Accounts Receivable,(284),"1,476",402,"1,011",VMW
+Other Assets,(852),(244),(418),(512),VMW
+Accounts Payable,81,(43),(69),12,VMW
+Accrued Expenses,487,(665),(319),(527),VMW
+Changes in Working Capital,368,241,(281),186,VMW
+Total Cash from Operations,"4,357","1,005","1,402","2,667",VMW
+Capital Expenditures,(386),(106),(219),(327),VMW
+Acquisition of Business,(23),(3),(4),(4),VMW
+Sale of Business,0,--,--,--,VMW
+Sale of Fixed Assets,14,6,90,91,VMW
+Sale/Maturity of Investment,77,20,20,20,VMW
+Purchase of Investments,(11),(8),(8),(11),VMW
+"OtherInvestCashFlowItms,Tot",57,15,98,96,VMW
+Total Cash from Investing,(329),(91),(121),(231),VMW
+Financing Cash Flow Items,0,--,--,--,VMW
+Total Cash Dividends Paid,"(11,499)",--,--,--,VMW
+Sale/Issuance of Common,270,119,124,248,VMW
+Repurch/Retirement Common,"(1,554)",(183),(294),(342),VMW
+"Iss (Retirmnt) of Stock,Net","(1,284)",(64),(170),(94),VMW
+Long Term Debt Issued,"5,944",--,--,0,VMW
+Long Term Debt Reduction,"(2,294)",(751),"(1,502)","(2,004)",VMW
+"Iss (Retirmnt) of Debt, Net","7,648",(751),"(1,502)","(2,004)",VMW
+Total Cash From Financing,"(5,135)",(815),"(1,672)","(2,098)",VMW
+Foreign Exchange Effects,0,--,--,--,VMW
+Net Change in Cash,"(1,107)",99,(391),338,VMW
+NetCash-BeginBal/RsvdforFutUse,"4,770","3,663","3,663","3,663",VMW
+NetCash-EndBal/RsrvforFutUse,"3,663","3,762","3,272","4,001",VMW
+"Depreciation, Supplemental","1,110",288,590,906,VMW

@@ -1,0 +1,43 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"216,490","218,491","228,907","231,034",AM
+Selling/Gen/Admin Expense,"13,644","15,099","10,438","8,034",AM
+Labor & Related Expense,"3,203","2,832","5,641","5,553",AM
+"Sell/Gen/AdminExpenses,Tot","16,847","17,931","16,079","13,587",AM
+Depreciation/Amortization,"27,834","28,300","35,675","34,206",AM
+Impair-Assets Held for Use,"3,460",0,"3,702",0,AM
+Other Unusual Expnse (In),"1,056",--,0,--,AM
+Unusual Expense (Income),"4,516",(118),"3,670","(2,092)",AM
+Loss(Gain)/Sale Asts (Oper),0,(118),(32),"(2,092)",AM
+Other Operating Expense,"39,829","43,224","45,087","47,563",AM
+"Other Operat Expse, Total","39,829","43,224","45,087","47,563",AM
+Total Operating Expense,"89,026","89,337","100,511","93,264",AM
+Total Operating Income,"127,464","129,154","128,396","137,770",AM
+"Inter Expse,Net Non-Operat","(44,366)","(44,279)","(45,426)","(47,835)",AM
+"Inter/Invest Inc, Non-Oper","24,104","23,232","22,824","24,411",AM
+Income Before Tax,"107,202","108,107","105,794","114,346",AM
+Income Tax - Total,"28,576","28,067","26,399","30,332",AM
+Income After Tax,"78,626","80,040","79,395","84,014",AM
+Net Inc Before Extra Items,"78,626","80,040","79,395","84,014",AM
+Total Net Income,"78,626","80,040","79,395","84,014",AM
+Total Adjust to Net Income,(137),(138),(137),(138),AM
+Income Available to Common Excl. Extra. Items,"78,489","79,902","79,258","83,876",AM
+Income Available to Common Incl. Extra. Items,"78,489","79,902","79,258","83,876",AM
+Basic/Primary Weighted Average Shares,"477,492","477,646","478,317","478,460",AM
+Basic/Primary EPS Excl. Extra. Items,0.16,0.17,0.17,0.18,AM
+Basic/Primary EPS Incl. Extra. Items,0.16,0.17,0.17,0.18,AM
+Diluted Weighted Average Shares,"480,441","480,173","480,270","480,318",AM
+Diluted EPS Excl. Extra. Items,0.16,0.17,0.17,0.17,AM
+Diluted EPS Incl. Extra. Items,0.16,0.17,0.17,0.17,AM
+Div/Share-ComStockPrimIssue,0.23,0.23,0.23,0.23,AM
+Gross Divid - Common Stock,"107,596","108,287","109,433","107,813",AM
+Pro Forma Net Income,--,--,--,--,AM
+"Interest Expense, Suppl","44,366","44,279","45,426","47,835",AM
+"Depreciat/Amort, Suppl","27,834","28,300","35,675","34,206",AM
+Total Special Items,"4,516",(118),"3,670","(2,092)",AM
+Normalzd Income Before Tax,"111,718","107,989","109,464","112,254",AM
+Efct/SpecItemsIncTxs (STEC),"1,204",(31),916,(555),AM
+IncTxsExcl ImpctofSpec Itms,"29,780","28,036","27,315","29,777",AM
+Normalized Income After Tax,"81,938","79,953","82,149","82,477",AM
+Normalzd Inc Avail to Common,"81,801","79,815","82,012","82,339",AM
+Basic Normalized EPS,0.17,0.17,0.17,0.17,AM
+Diluted Normalized EPS,0.17,0.17,0.17,0.17,AM

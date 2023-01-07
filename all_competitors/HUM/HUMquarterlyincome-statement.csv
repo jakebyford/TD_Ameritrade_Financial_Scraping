@@ -1,0 +1,45 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Premiums Earned,"19,835","22,703","22,266","21,468",HUM
+Other Insurance Revenue,"1,253","1,264","1,349","1,159",HUM
+Total Premiums Earned,"21,088","23,967","23,615","22,627",HUM
+Net Investment Income,(34),3,47,172,HUM
+Total Revenue,"21,054","23,970","23,662","22,799",HUM
+"Losses,Benies& Adjmts,Total","17,438","19,625","19,099","18,384",HUM
+Depreciation/Amortization,160,170,175,182,HUM
+Impair-Assets Held for Use,--,--,140,4,HUM
+Other Unusual Expnse (In),35,17,36,(223),HUM
+Unusual Expense (Income),35,17,176,(219),HUM
+"Other Operat Expse, Total","3,360","2,869","2,997","3,040",HUM
+Total Operating Expense,"20,993","22,681","22,447","21,387",HUM
+Total Operating Income,61,"1,289","1,215","1,412",HUM
+"Inter Expse,Net Non-Operat",(91),(90),(101),(102),HUM
+OtherNon-OperatInc (Expnse),(30),21,8,(13),HUM
+"Other, Net",(30),21,8,(13),HUM
+Income Before Tax,(60),"1,220","1,122","1,297",HUM
+Income Tax - Total,(51),286,427,107,HUM
+Income After Tax,(9),934,695,"1,190",HUM
+Minority Interest,(1),0,(1),2,HUM
+Equity In Affiliates,(4),(4),2,3,HUM
+Net Inc Before Extra Items,(14),930,696,"1,195",HUM
+Total Net Income,(14),930,696,"1,195",HUM
+Income Available to Common Excl. Extra. Items,(14),930,696,"1,195",HUM
+Income Available to Common Incl. Extra. Items,(14),930,696,"1,195",HUM
+Basic/Primary Weighted Average Shares,129,127,127,127,HUM
+Basic/Primary EPS Excl. Extra. Items,(0.11),7.33,5.50,9.44,HUM
+Basic/Primary EPS Incl. Extra. Items,(0.11),7.33,5.50,9.44,HUM
+Diluted Weighted Average Shares,129,127,127,127,HUM
+Diluted EPS Excl. Extra. Items,(0.11),7.30,5.48,9.38,HUM
+Diluted EPS Incl. Extra. Items,(0.11),7.30,5.48,9.38,HUM
+Div/Share-ComStockPrimIssue,0.70,0.79,0.79,0.79,HUM
+Gross Divid - Common Stock,78,101,100,100,HUM
+Pro Forma Net Income,--,--,--,--,HUM
+"Interest Expense, Suppl",91,90,101,102,HUM
+"Depreciat/Amort, Suppl",172,181,188,186,HUM
+Total Special Items,35,17,176,(219),HUM
+Normalzd Income Before Tax,(25),"1,237","1,298","1,078",HUM
+Efct/SpecItemsIncTxs (STEC),12,4,67,(18),HUM
+IncTxsExcl ImpctofSpec Itms,(39),290,494,89,HUM
+Normalized Income After Tax,14,947,804,989,HUM
+Normalzd Inc Avail to Common,9,943,805,994,HUM
+Basic Normalized EPS,0.07,7.43,6.36,7.85,HUM
+Diluted Normalized EPS,0.07,7.40,6.33,7.81,HUM

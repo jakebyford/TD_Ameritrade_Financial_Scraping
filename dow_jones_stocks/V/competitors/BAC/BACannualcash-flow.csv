@@ -1,0 +1,44 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"18,232","28,147","27,430","17,894","31,978",BAC
+Depreciation/Depletion,"1,482","1,525","1,729","1,843","1,898",BAC
+Amortization,621,538,--,--,--,BAC
+Deferred Taxes,"8,175","3,041","2,435","(1,737)",(838),BAC
+Unusual Items,--,--,"2,072",0,0,BAC
+Other Non-Cash Items,"3,900","3,553","4,040","6,132","8,605",BAC
+Non-Cash Items,"3,900","3,553","6,112","6,132","8,605",BAC
+"Cash Taxes Pd, Supplemental","3,235","2,470","4,359","2,894","2,760",BAC
+"Cash Interest Pd, Suppl","12,852","19,087","22,196","8,662","4,506",BAC
+Loan Loss Provision,"3,396","3,282","3,590","11,320","(4,594)",BAC
+Other Assets,"(34,753)","(11,753)","(3,193)","4,059","(56,559)",BAC
+Changes in Working Capital,"(22,546)","2,716","24,071","13,861","(48,836)",BAC
+Total Cash from Operations,"9,864","39,520","61,777","37,993","(7,193)",BAC
+Sale/Maturity of Investment,"183,880","102,419","165,890","262,443","291,389",BAC
+"Investment, Net","(1,292)","3,659",387,561,(598),BAC
+Purchase of Investments,"(192,063)","(112,620)","(189,897)","(452,412)","(601,134)",BAC
+Loans,"(47,950)","(35,921)","(52,771)","31,342","(63,203)",BAC
+Loans Origination - Invest,"11,996","21,365","12,201","13,351","10,396",BAC
+Other Investing Cash Flow,"(6,112)","(50,370)","(16,440)","(32,950)","49,859",BAC
+Total Cash from Investing,"(51,541)","(71,468)","(80,630)","(177,665)","(313,291)",BAC
+Deposits,"48,611","71,931","53,327","360,677","268,966",BAC
+Fed. Funds/REPOs,"7,024","10,070","(21,879)","5,214","22,006",BAC
+Other Financing Cash Flow,(397),(651),(698),(601),(620),BAC
+Financing Cash Flow Items,"55,238","81,350","30,750","365,290","290,352",BAC
+Cash Divids Paid - Common,--,--,"(4,502)","(6,306)","(6,634)",BAC
+Cash Divs Paid - Preferred,--,--,"(1,432)","(1,421)","(1,421)",BAC
+Total Cash Dividends Paid,"(5,700)","(6,895)","(5,934)","(7,727)","(8,055)",BAC
+"Common Stock, Net","(12,814)","(20,094)","(28,144)","(7,025)","(25,126)",BAC
+Sale/Issuance of Preferred,0,"4,515","3,643","2,181","2,169",BAC
+Repurch/Retirement Preferd,0,"(4,512)","(2,568)","(1,072)","(1,971)",BAC
+"Preferred Stock, Net",0,3,"1,075","1,109",198,BAC
+"Iss (Retirmnt) of Stock,Net","(12,814)","(20,091)","(27,069)","(5,916)","(24,928)",BAC
+"Short Term Debt, Net","8,538","(12,478)","4,004","(4,893)","4,432",BAC
+Long Term Debt Issued,"53,486","64,278","52,420","57,013","76,675",BAC
+Long Term Debt Reduction,"(49,480)","(53,046)","(50,794)","(47,948)","(46,826)",BAC
+"Long Term Debt, Net","4,006","11,232","1,626","9,065","29,849",BAC
+"Iss (Retirmnt) of Debt, Net","12,544","(1,246)","5,630","4,172","34,281",BAC
+Total Cash From Financing,"49,268","53,118","3,377","355,819","291,650",BAC
+Foreign Exchange Effects,"2,105","(1,200)",(368),"2,756","(3,408)",BAC
+Net Change in Cash,"9,696","19,970","(15,844)","218,903","(32,242)",BAC
+NetCash-BeginBal/RsvdforFutUse,"147,738","157,434","177,404","161,560","380,463",BAC
+NetCash-EndBal/RsrvforFutUse,"157,434","177,404","161,560","380,463","348,221",BAC
+"Depreciation, Supplemental","1,482","1,525","1,729","1,843","1,898",BAC

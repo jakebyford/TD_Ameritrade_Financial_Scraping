@@ -1,0 +1,19 @@
+items,2011,2012,2013,2014,ticker
+Net Income,(1),(31),(301),(306),ROSN
+Unusual Items,--,(8),--,--,ROSN
+Other Non-Cash Items,--,--,--,24,ROSN
+Non-Cash Items,--,(8),--,24,ROSN
+"Cash Taxes Pd, Supplemental",0,0,0,0,ROSN
+"Cash Interest Pd, Suppl",0,0,1,0,ROSN
+Accounts Receivable,--,0,--,--,ROSN
+Payable/Accrued,0,7,(2),0,ROSN
+Changes in Working Capital,0,7,(2),10,ROSN
+Total Cash from Operations,(1),(32),(303),(272),ROSN
+Total Cash from Investing,0,0,0,--,ROSN
+Financing Cash Flow Items,0,(2),21,(10),ROSN
+"Iss (Retirmnt) of Stock,Net",23,0,188,263,ROSN
+"Iss (Retirmnt) of Debt, Net",--,50,58,60,ROSN
+Total Cash From Financing,23,48,266,313,ROSN
+Net Change in Cash,23,16,(37),41,ROSN
+NetCash-BeginBal/RsvdforFutUse,0,23,39,2,ROSN
+NetCash-EndBal/RsrvforFutUse,23,39,2,43,ROSN

@@ -1,0 +1,43 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"177,866","232,887","280,522","386,064","469,822",AMZN
+"Cost of Revenue, Total","111,934","139,156","165,536","233,307","272,344",AMZN
+Selling/Gen/Admin Expense,"37,129","49,720","61,323","83,329","110,913",AMZN
+Labor & Related Expense,"1,863","2,457","2,990","3,864","5,572",AMZN
+"Sell/Gen/AdminExpenses,Tot","38,992","52,177","64,313","87,193","116,485",AMZN
+Research & Development,"22,620","28,837","35,931","42,740","56,052",AMZN
+Depreciation/Amortization,366,475,565,509,512,AMZN
+"Other Operat Expse, Total",(152),(179),(364),(584),(450),AMZN
+Total Operating Expense,"173,760","220,466","265,981","363,165","444,943",AMZN
+Total Operating Income,"4,106","12,421","14,541","22,899","24,879",AMZN
+"Inter Expse,Net Non-Operat",(848),"(1,417)","(1,600)","(1,647)","(1,809)",AMZN
+"Inter Income, Non-Operating",202,440,832,555,448,AMZN
+"Invest Income, Non-Operat",240,--,211,868,"11,471",AMZN
+"Inter/Invest Inc, Non-Oper",442,440,"1,043","1,423","11,919",AMZN
+OtherNon-OperatInc (Expnse),106,(183),(8),"1,503","3,162",AMZN
+"Other, Net",106,(183),(8),"1,503","3,162",AMZN
+Income Before Tax,"3,806","11,261","13,976","24,178","38,151",AMZN
+Income Tax - Total,"1,558","1,354","2,374","2,863","4,791",AMZN
+Income After Tax,"2,248","9,907","11,602","21,315","33,360",AMZN
+Equity In Affiliates,(4),9,(14),16,4,AMZN
+Net Inc Before Extra Items,"2,244","9,916","11,588","21,331","33,364",AMZN
+Total Extraordinary Items,789,157,0,0,--,AMZN
+Total Net Income,"3,033","10,073","11,588","21,331","33,364",AMZN
+Income Available to Common Excl. Extra. Items,"2,244","9,916","11,588","21,331","33,364",AMZN
+Income Available to Common Incl. Extra. Items,"3,033","10,073","11,588","21,331","33,364",AMZN
+Basic/Primary Weighted Average Shares,"9,600","9,740","9,880","10,000","10,120",AMZN
+Basic/Primary EPS Excl. Extra. Items,0.23,1.02,1.17,2.13,3.30,AMZN
+Basic/Primary EPS Incl. Extra. Items,0.32,1.03,1.17,2.13,3.30,AMZN
+Diluted Weighted Average Shares,"9,860","10,000","10,080","10,200","10,300",AMZN
+Diluted EPS Excl. Extra. Items,0.23,0.99,1.15,2.09,3.24,AMZN
+Diluted EPS Incl. Extra. Items,0.31,1.01,1.15,2.09,3.24,AMZN
+Pro Forma Net Income,--,--,--,--,--,AMZN
+"Interest Expense, Suppl",848,"1,417","1,600","1,647","1,809",AMZN
+"Depreciat/Amort, Suppl","2,312","12,138","15,150","16,200","22,900",AMZN
+Total Special Items,--,--,--,"11,500",--,AMZN
+Normalzd Income Before Tax,"3,806","11,261","13,976","35,678","38,151",AMZN
+Efct/SpecItemsIncTxs (STEC),--,--,--,"1,362",--,AMZN
+IncTxsExcl ImpctofSpec Itms,"1,558","1,354","2,374","4,225","4,791",AMZN
+Normalized Income After Tax,"2,248","9,907","11,602","31,453","33,360",AMZN
+Normalzd Inc Avail to Common,"2,244","9,916","11,588","31,469","33,364",AMZN
+Basic Normalized EPS,0.23,1.02,1.17,3.15,3.30,AMZN
+Diluted Normalized EPS,0.23,0.99,1.15,3.09,3.24,AMZN

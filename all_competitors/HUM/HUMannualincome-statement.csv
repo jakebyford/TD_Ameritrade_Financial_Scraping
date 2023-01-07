@@ -1,0 +1,45 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Premiums Earned,"52,380","54,941","62,948","74,186","79,822",HUM
+Other Insurance Revenue,982,"1,457","1,439","1,815","3,055",HUM
+Total Premiums Earned,"53,362","56,398","64,387","76,001","82,877",HUM
+Net Investment Income,405,514,501,"1,154",187,HUM
+Total Revenue,"53,767","56,912","64,888","77,155","83,064",HUM
+"Losses,Benies& Adjmts,Total","43,496","45,882","53,857","61,628","69,199",HUM
+"Sell/Gen/AdminExpenses,Tot",--,--,236,--,--,HUM
+Depreciation/Amortization,378,405,458,489,596,HUM
+Unusual Expense (Income),(936),786,0,0,128,HUM
+"Other Operat Expse, Total","6,567","7,525","7,145","10,052","9,993",HUM
+Total Operating Expense,"49,505","54,598","61,696","72,169","79,916",HUM
+Total Operating Income,"4,262","2,314","3,192","4,986","3,148",HUM
+"Inter Expse,Net Non-Operat",(242),(218),(242),(283),(326),HUM
+OtherNon-OperatInc (Expnse),--,(33),506,(103),532,HUM
+"Other, Net",--,(33),506,(103),532,HUM
+Income Before Tax,"4,020","2,063","3,456","4,600","3,354",HUM
+Income Tax - Total,"1,439",352,763,"1,307",485,HUM
+Income After Tax,"2,581","1,711","2,693","3,293","2,869",HUM
+Minority Interest,--,--,--,--,(1),HUM
+Equity In Affiliates,--,11,14,74,65,HUM
+Net Inc Before Extra Items,"2,581","1,722","2,707","3,367","2,933",HUM
+Total Extraordinary Items,(133),(39),0,--,--,HUM
+Total Net Income,"2,448","1,683","2,707","3,367","2,933",HUM
+Income Available to Common Excl. Extra. Items,"2,581","1,722","2,707","3,367","2,933",HUM
+Income Available to Common Incl. Extra. Items,"2,448","1,683","2,707","3,367","2,933",HUM
+Basic/Primary Weighted Average Shares,144,137,134,132,129,HUM
+Basic/Primary EPS Excl. Extra. Items,17.86,12.52,20.19,25.47,22.79,HUM
+Basic/Primary EPS Incl. Extra. Items,16.94,12.24,20.19,25.47,22.79,HUM
+Diluted Weighted Average Shares,146,138,135,133,129,HUM
+Diluted EPS Excl. Extra. Items,17.73,12.44,20.09,25.31,22.67,HUM
+Diluted EPS Incl. Extra. Items,16.81,12.16,20.09,25.31,22.67,HUM
+Div/Share-ComStockPrimIssue,1.49,1.90,2.15,3.05,2.80,HUM
+Gross Divid - Common Stock,232,277,289,322,351,HUM
+Pro Forma Net Income,--,--,--,--,--,HUM
+"Interest Expense, Suppl",242,218,242,283,326,HUM
+"Depreciat/Amort, Suppl",410,444,505,528,640,HUM
+Total Special Items,(936),786,0,0,128,HUM
+Normalzd Income Before Tax,"3,084","2,849","3,456","4,600","3,482",HUM
+Efct/SpecItemsIncTxs (STEC),(335),134,0,0,19,HUM
+IncTxsExcl ImpctofSpec Itms,"1,104",486,763,"1,307",504,HUM
+Normalized Income After Tax,"1,980","2,363","2,693","3,293","2,978",HUM
+Normalzd Inc Avail to Common,"1,980","2,374","2,707","3,367","3,042",HUM
+Basic Normalized EPS,13.70,17.27,20.19,25.47,23.64,HUM
+Diluted Normalized EPS,13.60,17.15,20.09,25.31,23.51,HUM

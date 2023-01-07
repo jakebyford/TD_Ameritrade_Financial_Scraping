@@ -1,0 +1,45 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Gross Premiums Written,"10,749","13,181","12,422","13,018",PGR
+Other Insurance Revenue,244,242,257,264,PGR
+Reinsurance - Income,852,"(1,378)",(274),(619),PGR
+Total Premiums Earned,"11,846","12,045","12,405","12,663",PGR
+Net Investment Income,214,237,287,328,PGR
+Realized Gains (Losses),425,(445),"(1,178)",(216),PGR
+Total Revenue,"12,485","11,836","11,513","12,774",PGR
+"Losses, Benies & Adjusts","8,860","8,858","9,421","10,019",PGR
+Underwriting & Commissions,"1,349","1,506","1,431","1,496",PGR
+"Losses,Benies& Adjmts,Total","10,209","10,365","10,852","11,515",PGR
+Amort. Of Policy Acquisition Costs,958,963,934,971,PGR
+Unusual Expense (Income),--,--,225,0,PGR
+"Other Operat Expse, Total",63,63,76,83,PGR
+Total Operating Expense,"11,230","11,391","12,086","12,569",PGR
+Total Operating Income,"1,256",445,(573),206,PGR
+"Inter Expse,Net Non-Operat",(52),(54),(63),(63),PGR
+Income Before Tax,"1,204",390,(636),143,PGR
+Income Tax - Total,242,76,(93),18,PGR
+Income After Tax,962,314,(543),124,PGR
+Minority Interest,0,--,--,--,PGR
+Net Inc Before Extra Items,962,314,(543),124,PGR
+Total Net Income,962,314,(543),124,PGR
+Total Adjust to Net Income,(7),(7),(7),(7),PGR
+Income Available to Common Excl. Extra. Items,956,307,(550),117,PGR
+Income Available to Common Incl. Extra. Items,956,307,(550),117,PGR
+Basic/Primary Weighted Average Shares,584,584,584,585,PGR
+Basic/Primary EPS Excl. Extra. Items,1.64,0.53,(0.94),0.20,PGR
+Basic/Primary EPS Incl. Extra. Items,1.64,0.53,(0.94),0.20,PGR
+Diluted Weighted Average Shares,587,586,584,587,PGR
+Diluted EPS Excl. Extra. Items,1.63,0.52,(0.94),0.20,PGR
+Diluted EPS Incl. Extra. Items,1.63,0.52,(0.94),0.20,PGR
+Div/Share-ComStockPrimIssue,0.10,0.10,0.10,0.10,PGR
+Gross Divid - Common Stock,934,58,58,58,PGR
+Pro Forma Net Income,--,--,--,--,PGR
+"Interest Expense, Suppl",52,54,63,63,PGR
+"Depreciat/Amort, Suppl",76,71,79,78,PGR
+Total Special Items,--,--,225,0,PGR
+Normalzd Income Before Tax,"1,204",390,(411),143,PGR
+Efct/SpecItemsIncTxs (STEC),--,--,79,0,PGR
+IncTxsExcl ImpctofSpec Itms,242,76,(14),18,PGR
+Normalized Income After Tax,962,314,(397),124,PGR
+Normalzd Inc Avail to Common,956,307,(403),117,PGR
+Basic Normalized EPS,1.64,0.53,(0.69),0.20,PGR
+Diluted Normalized EPS,1.63,0.52,(0.69),0.20,PGR

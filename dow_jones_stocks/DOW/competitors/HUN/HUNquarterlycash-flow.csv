@@ -1,0 +1,43 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"1,104",240,482,597,HUN
+Depreciation/Depletion,296,71,143,207,HUN
+Deferred Taxes,(37),13,55,81,HUN
+Discontinued Operations,(1),(1),(1),(21),HUN
+Unusual Items,46,2,2,8,HUN
+Equity in Net Earnings/Loss,(143),(15),(34),(55),HUN
+Other Non-Cash Items,148,28,101,119,HUN
+Non-Cash Items,50,14,68,51,HUN
+"Cash Taxes Pd, Supplemental",106,32,154,171,HUN
+"Cash Interest Pd, Suppl",82,9,33,41,HUN
+Accounts Receivable,(648),(134),(142),(60),HUN
+Inventories,(367),(187),(239),(128),HUN
+Other Assets,(150),15,344,343,HUN
+Accounts Payable,342,120,(9),(113),HUN
+Accrued Expenses,293,(41),(336),(292),HUN
+Changes in Working Capital,(461),(253),(432),(332),HUN
+Total Cash from Operations,952,85,316,604,HUN
+Capital Expenditures,(342),(69),(138),(186),HUN
+Acquisition of Business,(245),0,0,0,HUN
+Sale of Business,43,--,0,0,HUN
+Sale of Fixed Assets,0,0,--,--,HUN
+Other Investing Cash Flow,20,4,9,(2),HUN
+"OtherInvestCashFlowItms,Tot",(182),4,9,(2),HUN
+Total Cash from Investing,(524),(65),(129),(188),HUN
+Financing Cash Flow Items,(44),--,0,(2),HUN
+Total Cash Dividends Paid,(159),(46),(91),(132),HUN
+Sale/Issuance of Common,10,5,6,6,HUN
+Repurch/Retirement Common,(200),(203),(504),(755),HUN
+"Iss (Retirmnt) of Stock,Net",(197),(211),(512),(763),HUN
+Short Term Debt Issued,0,--,--,--,HUN
+Short Term Debt Reduction,0,--,--,--,HUN
+"Short Term Debt, Net",(8),8,0,0,HUN
+Long Term Debt Issued,447,--,0,--,HUN
+Long Term Debt Reduction,"(1,016)",(3),(6),(8),HUN
+"Long Term Debt, Net",(569),(3),(6),(8),HUN
+"Iss (Retirmnt) of Debt, Net",(577),5,(6),(8),HUN
+Total Cash From Financing,(977),(252),(609),(905),HUN
+Foreign Exchange Effects,(3),(2),(11),(37),HUN
+Net Change in Cash,(552),(234),(433),(526),HUN
+NetCash-BeginBal/RsvdforFutUse,"1,593","1,041","1,041","1,041",HUN
+NetCash-EndBal/RsrvforFutUse,"1,041",807,608,515,HUN
+"Depreciation, Supplemental",296,71,143,207,HUN

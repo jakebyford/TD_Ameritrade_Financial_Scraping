@@ -1,0 +1,38 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"13,066","10,913","(2,442)","2,536","3,553",DIS
+Depreciation/Depletion,"3,011","4,160","5,345","5,111","5,163",DIS
+Deferred Taxes,"(1,573)",117,(392),"(1,241)",200,DIS
+Discontinued Operations,--,622,2,1,8,DIS
+Unusual Items,(560),"(4,794)","4,033",(332),714,DIS
+Equity in Net Earnings/Loss,877,857,123,(7),(37),DIS
+Other Non-Cash Items,311,375,"1,594","(2,695)","(4,079)",DIS
+Non-Cash Items,628,"(2,940)","5,752","(3,033)","(3,394)",DIS
+"Cash Taxes Pd, Supplemental","2,503","9,259",738,"1,638","1,097",DIS
+"Cash Interest Pd, Suppl",631,"1,142","1,559","1,892","1,685",DIS
+Accounts Receivable,(720),55,"1,943",(357),605,DIS
+Inventories,(17),(223),14,252,(420),DIS
+Other Assets,(927),932,(157),171,(707),DIS
+Payable/Accrued,235,191,"(2,293)","2,410",964,DIS
+Changes in Working Capital,(837),"(5,644)",(645),"2,194",488,DIS
+Total Cash from Operations,"14,295","6,606","7,618","5,567","6,010",DIS
+Capital Expenditures,"(4,465)","(4,876)","(4,022)","(3,578)","(4,943)",DIS
+Acquisition of Business,"(1,581)","(9,901)",0,0,--,DIS
+Other Investing Cash Flow,710,"10,659",385,415,(65),DIS
+"OtherInvestCashFlowItms,Tot",(871),758,385,415,(65),DIS
+Total Cash from Investing,"(5,336)","(4,118)","(3,637)","(3,163)","(5,008)",DIS
+Financing Cash Flow Items,(378),"(2,190)","(1,471)","(1,121)",(851),DIS
+Total Cash Dividends Paid,"(2,515)","(2,895)","(1,587)",0,0,DIS
+"Common Stock, Net","(3,577)",0,0,--,--,DIS
+Options Exercised,210,318,305,435,127,DIS
+"Iss (Retirmnt) of Stock,Net","(3,367)",318,305,435,127,DIS
+"Short Term Debt, Net","(1,768)","4,318","(3,354)",(26),(334),DIS
+Long Term Debt Issued,"1,056","38,240","18,120",64,333,DIS
+Long Term Debt Reduction,"(1,871)","(38,881)","(3,533)","(3,737)","(4,016)",DIS
+"Long Term Debt, Net",(815),(641),"14,587","(3,673)","(3,683)",DIS
+"Iss (Retirmnt) of Debt, Net","(2,583)","3,677","11,233","(3,699)","(4,017)",DIS
+Total Cash From Financing,"(8,843)","(1,090)","8,480","(4,385)","(4,741)",DIS
+Foreign Exchange Effects,(25),(98),38,30,(603),DIS
+Net Change in Cash,91,"1,300","12,499","(1,951)","(4,342)",DIS
+NetCash-BeginBal/RsvdforFutUse,"4,064","4,155","5,455","17,954","16,003",DIS
+NetCash-EndBal/RsrvforFutUse,"4,155","5,455","17,954","16,003","11,661",DIS
+"Depreciation, Supplemental","3,011","4,160","5,345","5,111","5,163",DIS

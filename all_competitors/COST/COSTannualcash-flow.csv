@@ -1,0 +1,36 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"3,179","3,704","4,059","5,079","5,915",COST
+Depreciation/Depletion,"1,437","1,492","1,645","1,781","1,900",COST
+Deferred Taxes,(49),147,104,59,(37),COST
+Non-Cash Items,538,604,855,"1,036","1,177",COST
+"Cash Taxes Pd, Supplemental","1,204","1,187","1,052","1,527","1,940",COST
+"Cash Interest Pd, Suppl",143,141,124,149,145,COST
+Inventories,"(1,313)",(536),(791),"(1,892)","(4,003)",COST
+Accounts Payable,"1,561",322,"2,261","1,838","1,891",COST
+Changes in Working Capital,669,409,"2,198","1,003","(1,563)",COST
+Total Cash from Operations,"5,774","6,356","8,861","8,958","7,392",COST
+Capital Expenditures,"(2,969)","(2,998)","(2,810)","(3,588)","(3,891)",COST
+Acquisition of Business,--,--,"(1,163)",--,0,COST
+Sale/Maturity of Investment,"1,078","1,231","1,678","1,446","1,145",COST
+Purchase of Investments,"(1,060)","(1,094)","(1,626)","(1,331)","(1,121)",COST
+Other Investing Cash Flow,4,(4),30,(62),(48),COST
+"OtherInvestCashFlowItms,Tot",22,133,"(1,081)",53,(24),COST
+Total Cash from Investing,"(2,947)","(2,865)","(3,891)","(3,535)","(3,915)",COST
+Financing Cash Flow Items,(41),(9),(71),(379),"(1,546)",COST
+Total Cash Dividends Paid,(689),"(1,038)","(1,479)","(5,748)","(1,498)",COST
+"Common Stock, Net",(328),(247),(196),(496),(439),COST
+Options Exercised,(217),(272),(330),--,--,COST
+"Iss (Retirmnt) of Stock,Net",(545),(519),(526),(496),(439),COST
+Short Term Debt Issued,0,--,--,41,--,COST
+Short Term Debt Reduction,0,--,--,--,--,COST
+"Short Term Debt, Net",80,210,137,229,--,COST
+Long Term Debt Issued,0,298,"3,992",0,0,COST
+Long Term Debt Reduction,(86),(89),"(3,200)",(94),(800),COST
+"Long Term Debt, Net",(86),209,792,(94),(800),COST
+"Iss (Retirmnt) of Debt, Net",(6),419,929,135,(800),COST
+Total Cash From Financing,"(1,281)","(1,147)","(1,147)","(6,488)","(4,283)",COST
+Foreign Exchange Effects,(37),(15),70,46,(249),COST
+Net Change in Cash,"1,509","2,329","3,893","(1,019)","(1,055)",COST
+NetCash-BeginBal/RsvdforFutUse,"4,546","6,055","8,384","12,277","11,258",COST
+NetCash-EndBal/RsrvforFutUse,"6,055","8,384","12,277","11,258","10,203",COST
+"Depreciation, Supplemental","1,437","1,492","1,645","1,781","1,900",COST

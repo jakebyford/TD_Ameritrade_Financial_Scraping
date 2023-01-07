@@ -1,0 +1,40 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,253,"1,260",679,408,"1,387",VFC
+Depreciation/Depletion,72,301,268,269,267,VFC
+Deferred Taxes,--,(63),(74),(40),(157),VFC
+Discontinued Operations,--,--,24,27,(165),VFC
+Unusual Items,18,28,383,20,4,VFC
+Other Non-Cash Items,23,94,581,508,447,VFC
+Non-Cash Items,41,123,987,555,287,VFC
+"Cash Taxes Pd, Supplemental",--,360,287,188,264,VFC
+"Cash Interest Pd, Suppl",--,103,77,90,123,VFC
+Accounts Receivable,39,(373),(6),70,(203),VFC
+Inventories,(156),(135),(141),314,(381),VFC
+Accounts Payable,(188),112,(74),20,105,VFC
+Accrued Expenses,(172),485,(328),101,88,VFC
+Changes in Working Capital,(608),44,(985),121,(919),VFC
+Total Cash from Operations,(243),"1,664",875,"1,313",864,VFC
+Purchase of Fixed Assets,(54),(251),(288),(199),(245),VFC
+Purchase/Acq of Intangibles,(19),(56),(46),(76),(83),VFC
+Capital Expenditures,(74),(307),(334),(274),(328),VFC
+Acquisition of Business,--,(320),0,"(2,009)",--,VFC
+Sale of Business,--,430,0,0,621,VFC
+Sale/Maturity of Investment,--,--,--,200,599,VFC
+Purchase of Investments,--,--,--,(800),0,VFC
+Other Investing Cash Flow,18,(24),32,(12),13,VFC
+"OtherInvestCashFlowItms,Tot",18,86,32,"(2,621)","1,232",VFC
+Total Cash from Investing,(56),(221),(302),"(2,896)",904,VFC
+Financing Cash Flow Items,--,(2),899,(21),(2),VFC
+Total Cash Dividends Paid,(181),(767),(749),(757),(773),VFC
+"Iss (Retirmnt) of Stock,Net",(206),49,(845),54,(313),VFC
+"Short Term Debt, Net",796,(864),577,"(1,218)",324,VFC
+Long Term Debt Issued,--,0,"1,077","2,996",0,VFC
+Long Term Debt Reduction,(1),(6),(649),(2),(504),VFC
+"Long Term Debt, Net",(1),(6),428,"2,994",(504),VFC
+"Iss (Retirmnt) of Debt, Net",794,(870),"1,004","1,777",(180),VFC
+Total Cash From Financing,407,"(1,591)",310,"1,053","(1,269)",VFC
+Foreign Exchange Effects,12,15,(27),(31),(73),VFC
+Net Change in Cash,120,(133),855,(560),426,VFC
+NetCash-BeginBal/RsvdforFutUse,569,689,557,"1,411",851,VFC
+NetCash-EndBal/RsrvforFutUse,689,557,"1,411",851,"1,277",VFC
+"Depreciation, Supplemental",72,301,268,269,267,VFC

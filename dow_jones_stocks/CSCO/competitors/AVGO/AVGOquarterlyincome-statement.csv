@@ -1,0 +1,42 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Total Revenue,"7,706","8,103","8,464","8,930",AVGO
+"Cost of Revenue, Total","2,655","2,663","2,782","3,003",AVGO
+Selling/Gen/Admin Expense,238,279,246,281,AVGO
+Labor & Related Expense,83,89,77,89,AVGO
+"Sell/Gen/AdminExpenses,Tot",321,368,323,370,AVGO
+Research & Development,"1,206","1,261","1,255","1,197",AVGO
+Depreciation/Amortization,397,398,359,358,AVGO
+Unusual Expense (Income),19,19,8,16,AVGO
+Total Operating Expense,"4,598","4,709","4,727","4,944",AVGO
+Total Operating Income,"3,108","3,394","3,737","3,986",AVGO
+"Inter Expse,Net Non-Operat",(407),(518),(406),(406),AVGO
+OtherNon-OperatInc (Expnse),(14),(86),6,40,AVGO
+"Other, Net",(14),(86),6,40,AVGO
+Income Before Tax,"2,687","2,790","3,337","3,620",AVGO
+Income Tax - Total,215,200,263,261,AVGO
+Income After Tax,"2,472","2,590","3,074","3,359",AVGO
+Net Inc Before Extra Items,"2,472","2,590","3,074","3,359",AVGO
+Total Extraordinary Items,--,--,--,0,AVGO
+Total Net Income,"2,472","2,590","3,074","3,359",AVGO
+Total Adjust to Net Income,(74),(75),(75),(48),AVGO
+Income Available to Common Excl. Extra. Items,"2,398","2,515","2,999","3,311",AVGO
+Income Available to Common Incl. Extra. Items,"2,398","2,515","2,999","3,311",AVGO
+Basic/Primary Weighted Average Shares,412,408,405,412,AVGO
+Basic/Primary EPS Excl. Extra. Items,5.82,6.16,7.40,8.04,AVGO
+Basic/Primary EPS Incl. Extra. Items,5.82,6.16,7.40,8.04,AVGO
+Diluted Weighted Average Shares,429,424,430,412,AVGO
+Diluted EPS Excl. Extra. Items,5.59,5.93,6.97,8.04,AVGO
+Diluted EPS Incl. Extra. Items,5.59,5.93,6.97,8.04,AVGO
+Div/Share-ComStockPrimIssue,4.10,4.10,4.10,4.10,AVGO
+Gross Divid - Common Stock,"1,689","1,676","1,661","1,657",AVGO
+Pro Forma Net Income,--,--,--,--,AVGO
+"Interest Expense, Suppl",407,518,406,406,AVGO
+"Depreciat/Amort, Suppl",136,135,129,129,AVGO
+Total Special Items,19,19,8,16,AVGO
+Normalzd Income Before Tax,"2,706","2,809","3,345","3,636",AVGO
+Efct/SpecItemsIncTxs (STEC),2,1,1,1,AVGO
+IncTxsExcl ImpctofSpec Itms,217,201,264,262,AVGO
+Normalized Income After Tax,"2,489","2,608","3,081","3,374",AVGO
+Normalzd Inc Avail to Common,"2,415","2,533","3,006","3,326",AVGO
+Basic Normalized EPS,5.86,6.21,7.42,8.07,AVGO
+Diluted Normalized EPS,5.63,5.97,6.99,8.07,AVGO

@@ -1,0 +1,48 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash and Short Term Invs,190,156,305,194,48,FIZZ
+"Trade Accts Recvble, Gross",85,85,86,88,94,FIZZ
+Prov. for Doubtful Accts,0,(1),(1),(1),(1),FIZZ
+"Total Receivables, Net",84,85,85,86,94,FIZZ
+Invent. - Finished Goods,38,49,39,43,59,FIZZ
+Invent. - Raw Materials,23,22,24,28,45,FIZZ
+Inventories - Other,0,0,0,0,0,FIZZ
+Total Inventory,61,71,63,71,103,FIZZ
+Prepaid Expenses,12,10,8,13,30,FIZZ
+"Other Curr. Assets, Total",6,--,--,--,--,FIZZ
+Total Current Assets,353,321,461,365,275,FIZZ
+Buildings,57,58,60,62,66,FIZZ
+Land/Improvements,10,10,10,10,10,FIZZ
+Machinery/Equipment,194,222,238,257,277,FIZZ
+Other Prop./Plant/Equip.,--,--,48,42,29,FIZZ
+Prop./Plant/Equip. - Gross,261,290,356,371,382,FIZZ
+Accumulated Depreciation,(175),(179),(187),(198),(208),FIZZ
+Prop./Plant/Equip. - Net,86,111,169,173,174,FIZZ
+"Goodwill, Net",13,13,13,13,13,FIZZ
+Intangibles - Net,2,2,2,2,2,FIZZ
+Other Long Term Assets,5,5,5,5,5,FIZZ
+Total Assets,459,452,649,557,468,FIZZ
+Accounts Payable,75,66,74,89,95,FIZZ
+Accrued Expenses,30,28,53,58,50,FIZZ
+Notes Payable/ST Debt,0,0,0,0,0,FIZZ
+Income Taxes Payable,0,0,8,0,0,FIZZ
+Other Current Liabilities,--,2,7,--,--,FIZZ
+"Other Curr. Lblts, Total",0,2,15,0,0,FIZZ
+Total Current Liabilities,105,97,142,147,145,FIZZ
+Total Long Term Debt,0,0,0,0,30,FIZZ
+Total Debt,0,0,0,0,30,FIZZ
+Deferred Income Tax,15,16,15,17,24,FIZZ
+"Other Liabilities, Total",8,8,40,37,29,FIZZ
+Total Liabilities,127,121,196,201,228,FIZZ
+Conv. Pref. Stk-Non Rdmbl.,0,0,0,0,0,FIZZ
+Treasury Stock - Preferred,(5),(5),(5),(5),(5),FIZZ
+"Pref. Stock-Non Rdmbl, Net",(5),(5),(5),(5),(5),FIZZ
+Common Stock,1,1,1,1,1,FIZZ
+Additional Paid-In Capital,36,37,38,38,39,FIZZ
+Ret. Earn.(Accum. Deficit),308,313,443,338,216,FIZZ
+Treasury Stock - Common,(13),(13),(19),(19),(19),FIZZ
+"Other Equity, Total",5,(2),(5),3,7,FIZZ
+Total Equity,331,332,452,356,239,FIZZ
+Total Liabilities & Shareholders’ Equity,459,452,649,557,468,FIZZ
+Ttl Comm. Shares Outs.,93,93,93,93,93,FIZZ
+Trsy. Shrs-Comm. Primary Iss.,8,8,8,8,8,FIZZ
+Trsry Shrs-Pref. Iss. 1,0,0,0,0,0,FIZZ

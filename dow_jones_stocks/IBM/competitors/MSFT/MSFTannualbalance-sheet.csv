@@ -1,0 +1,57 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash & Equivalents,"11,946","11,356","13,576","14,224","13,931",MSFT
+Short Term Investments,"121,704","122,463","122,951","116,110","90,826",MSFT
+Cash and Short Term Invs,"133,650","133,819","136,527","130,334","104,757",MSFT
+"Trade Accts Recvble, Gross","26,858","29,935","32,799","38,794","44,894",MSFT
+Prov. for Doubtful Accts,(377),(411),(788),(751),(633),MSFT
+"Total Receivables, Net","26,481","29,524","32,011","38,043","44,261",MSFT
+Invent. - Finished Goods,"1,953","1,611","1,112","1,367","2,516",MSFT
+Invent. - Work In Progress,54,53,83,79,82,MSFT
+Invent. - Raw Materials,655,399,700,"1,190","1,144",MSFT
+Total Inventory,"2,662","2,063","1,895","2,636","3,742",MSFT
+"Other Curr. Assets, Total","6,869","10,146","11,482","13,393","16,924",MSFT
+Total Current Assets,"169,662","175,552","181,915","184,406","169,684",MSFT
+Buildings,"25,339","31,604","39,482","50,812","62,833",MSFT
+Land/Improvements,"1,254","1,540","1,823","3,660","4,734",MSFT
+Machinery/Equipment,"27,633","33,823","41,261","51,250","60,631",MSFT
+Other Prop./Plant/Equip.,"11,143","12,219","13,535","16,432","19,008",MSFT
+Prop./Plant/Equip. - Gross,"65,369","79,186","96,101","122,154","147,206",MSFT
+Accumulated Depreciation,"(29,223)","(35,330)","(43,197)","(51,351)","(59,660)",MSFT
+Prop./Plant/Equip. - Net,"36,146","43,856","52,904","70,803","87,546",MSFT
+"Goodwill, Gross",--,--,--,--,"78,824",MSFT
+Accum. Goodwill Amort.,--,--,--,--,"(11,300)",MSFT
+"Goodwill, Net","35,683","42,026","43,351","49,711","67,524",MSFT
+Intangibles - Gross,"15,936","17,139","17,759","19,975","23,577",MSFT
+Accum. Intangible Amort.,"(7,883)","(9,389)","(10,721)","(12,175)","(12,279)",MSFT
+Intangibles - Net,"8,053","7,750","7,038","7,800","11,298",MSFT
+Long Term Investments,"1,862","2,649","2,965","5,984","6,891",MSFT
+Note Rcvble - Long Term,"1,800","2,200","2,700","3,400","3,800",MSFT
+Other Long Term Assets,"4,273","4,987","4,033","4,494","4,582",MSFT
+Total Assets,"258,848","286,556","301,311","333,779","364,840",MSFT
+Accounts Payable,"8,617","9,382","12,530","15,163","19,000",MSFT
+Accrued Expenses,"7,502","8,345","9,490","12,019","12,889",MSFT
+Notes Payable/ST Debt,0,0,0,0,0,MSFT
+Curr. Port. LT Dbt/Cap Ls.,"4,174","5,833","4,289","8,863","3,809",MSFT
+Customer Advances,"28,905","32,676","36,000","41,525","45,538",MSFT
+Income Taxes Payable,"2,121","5,665","2,130","2,174","4,067",MSFT
+Other Current Liabilities,"7,169","7,519","7,871","8,913","9,779",MSFT
+"Other Curr. Lblts, Total","38,195","45,860","46,001","52,612","59,384",MSFT
+Total Current Liabilities,"58,488","69,420","72,310","88,657","95,082",MSFT
+Long Term Debt,"72,242","66,662","59,578","50,074","47,032",MSFT
+Capital Lease Obligations,"4,125","6,257","8,956","11,750","13,842",MSFT
+Total Long Term Debt,"76,367","72,919","68,534","61,824","60,874",MSFT
+Total Debt,"80,541","78,752","72,823","70,687","64,683",MSFT
+Deferred Income Tax,541,233,204,198,230,MSFT
+"Other Liabilities, Total","40,734","41,654","41,959","41,112","42,112",MSFT
+Total Liabilities,"176,130","184,226","183,007","191,791","198,298",MSFT
+Common Stock,"47,981","49,680","47,319","46,994","46,650",MSFT
+Additional Paid-In Capital,"23,242","28,841","33,233","36,117","40,289",MSFT
+Ret. Earn.(Accum. Deficit),"13,682","24,150","34,566","57,055","84,281",MSFT
+Unrealized Gain (Loss),(892),"1,488","5,478","3,222","(2,138)",MSFT
+Cum. Trans. Adjustment,"(1,510)","(1,828)","(2,254)","(1,381)","(2,527)",MSFT
+Other Comprehensive Income,215,0,(38),(19),(13),MSFT
+"Other Equity, Total","(1,295)","(1,828)","(2,292)","(1,400)","(2,540)",MSFT
+Total Equity,"82,718","102,330","118,304","141,988","166,542",MSFT
+Total Liabilities & Shareholders’ Equity,"258,848","286,556","301,311","333,779","364,840",MSFT
+Ttl Comm. Shares Outs.,"7,677","7,643","7,571","7,519","7,464",MSFT
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,MSFT

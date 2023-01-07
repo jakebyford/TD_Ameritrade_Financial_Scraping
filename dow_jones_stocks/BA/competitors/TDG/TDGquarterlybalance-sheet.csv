@@ -1,0 +1,44 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Cash and Short Term Invs,"4,813","4,216","3,808","3,001",TDG
+"Total Receivables, Net",751,890,990,"1,086",TDG
+Invent. - Finished Goods,206,197,209,210,TDG
+Invent. - Work In Progress,335,357,369,359,TDG
+Invent. - Raw Materials,871,886,939,959,TDG
+LIFO Reserve,(197),(198),(197),(196),TDG
+Total Inventory,"1,215","1,242","1,320","1,332",TDG
+Prepaid Expenses,192,216,190,230,TDG
+Total Current Assets,"6,971","6,564","6,308","5,649",TDG
+Prop./Plant/Equip. - Net,883,898,903,892,TDG
+"Goodwill, Net","8,568","8,544","8,728","8,641",TDG
+Intangibles - Gross,"3,568","3,558","3,634","3,640",TDG
+Accum. Intangible Amort.,(816),(849),(863),(890),TDG
+Intangibles - Net,"2,752","2,709","2,771","2,750",TDG
+Note Rcvble - Long Term,1,1,1,1,TDG
+Other Long Term Assets,67,125,108,174,TDG
+Total Assets,"19,242","18,841","18,819","18,107",TDG
+Accounts Payable,212,238,248,279,TDG
+Accrued Expenses,700,598,621,674,TDG
+Notes Payable/ST Debt,350,350,350,350,TDG
+Curr. Port. LT Dbt/Cap Ls.,78,79,79,78,TDG
+"Other Curr. Lblts, Total",38,36,46,45,TDG
+Total Current Liabilities,"1,378","1,301","1,344","1,426",TDG
+Long Term Debt,"19,388","19,250","19,382","19,369",TDG
+Capital Lease Obligations,126,144,144,144,TDG
+Total Long Term Debt,"19,514","19,394","19,526","19,513",TDG
+Total Debt,"19,942","19,823","19,955","19,941",TDG
+Deferred Income Tax,503,552,588,596,TDG
+Minority Interest,7,6,8,7,TDG
+"Other Liabilities, Total",473,487,329,338,TDG
+Total Liabilities,"21,875","21,740","21,795","21,880",TDG
+Common Stock,1,1,1,1,TDG
+Additional Paid-In Capital,"1,905","1,984","2,041","2,113",TDG
+Ret. Earn.(Accum. Deficit),"(3,545)","(3,350)","(3,114)","(3,914)",TDG
+Treasury Stock - Common,(794),"(1,461)","(1,706)","(1,706)",TDG
+Cum. Trans. Adjustment,(11),(54),(209),(380),TDG
+Min. Pension Lblty Adj.,(18),(18),(12),(10),TDG
+Other Comprehensive Income,(171),(1),23,123,TDG
+"Other Equity, Total",(200),(73),(198),(267),TDG
+Total Equity,"(2,633)","(2,899)","(2,976)","(3,773)",TDG
+Total Liabilities & Shareholders’ Equity,"19,242","18,841","18,819","18,107",TDG
+Ttl Comm. Shares Outs.,55,55,54,54,TDG
+Trsy. Shrs-Comm. Primary Iss.,4,5,6,6,TDG

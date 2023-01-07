@@ -1,0 +1,39 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"5,753","8,728","9,431","5,590","5,743",IBM
+Depreciation/Depletion,"3,021","3,127","4,209","4,227","3,888",IBM
+Amortization,"1,520","1,353","1,850","2,468","2,529",IBM
+Deferred Taxes,(931),853,"(1,527)","(3,203)","(2,001)",IBM
+Unusual Items,14,123,"(1,096)",(70),(307),IBM
+Other Non-Cash Items,534,510,679,937,982,IBM
+Non-Cash Items,548,633,(417),867,675,IBM
+"Cash Taxes Pd, Supplemental","1,597","1,745","2,091","2,253","2,103",IBM
+"Cash Interest Pd, Suppl","1,208","1,423","1,685","1,830","1,512",IBM
+Accounts Receivable,"1,297","1,006",502,"5,297","1,372",IBM
+Inventories,18,(127),67,(209),138,IBM
+Accounts Payable,47,126,(503),138,85,IBM
+Changes in Working Capital,"6,812",553,"1,225","8,248","1,962",IBM
+Total Cash from Operations,"16,723","15,247","14,771","18,197","12,796",IBM
+Purchase of Fixed Assets,"(3,229)","(3,395)","(2,286)","(2,618)","(2,062)",IBM
+Software Development Costs,(544),(569),(621),(612),(706),IBM
+Capital Expenditures,"(3,773)","(3,964)","(2,907)","(3,230)","(2,768)",IBM
+Acquisition of Business,(701),(139),"(32,630)",(336),"(3,293)",IBM
+Sale of Business,--,--,"1,076",503,114,IBM
+Sale of Fixed Assets,460,248,537,188,387,IBM
+Sale/Maturity of Investment,"3,910","6,487","3,961","5,618","3,147",IBM
+Purchase of Investments,"(4,949)","(7,041)","(3,693)","(6,246)","(3,561)",IBM
+Other Investing Cash Flow,"(2,028)",(504),"6,720",475,(1),IBM
+"OtherInvestCashFlowItms,Tot","(3,308)",(949),"(24,029)",202,"(3,207)",IBM
+Total Cash from Investing,"(7,081)","(4,913)","(26,936)","(3,028)","(5,975)",IBM
+Financing Cash Flow Items,174,112,98,92,949,IBM
+Total Cash Dividends Paid,"(5,506)","(5,666)","(5,707)","(5,797)","(5,869)",IBM
+"Iss (Retirmnt) of Stock,Net","(4,533)","(4,614)","(1,633)",(302),(319),IBM
+"Short Term Debt, Net",620,"1,341","(2,597)",(853),(40),IBM
+Total Debt Issued,"9,643","6,891","31,825","10,504",522,IBM
+Total Debt Reduction,"(6,816)","(8,533)","(12,944)","(13,365)","(8,597)",IBM
+"Iss (Retirmnt) of Debt, Net","3,447",(301),"16,284","(3,714)","(8,115)",IBM
+Total Cash From Financing,"(6,418)","(10,469)","9,042","(9,721)","(13,354)",IBM
+Foreign Exchange Effects,937,(495),(167),(87),(185),IBM
+Net Change in Cash,"4,161",(630),"(3,290)","5,361","(6,718)",IBM
+NetCash-BeginBal/RsvdforFutUse,"8,073","12,234","11,604","8,314","13,675",IBM
+NetCash-EndBal/RsrvforFutUse,"12,234","11,604","8,314","13,675","6,957",IBM
+"Depreciation, Supplemental","3,021","3,127","4,209","4,227","3,888",IBM

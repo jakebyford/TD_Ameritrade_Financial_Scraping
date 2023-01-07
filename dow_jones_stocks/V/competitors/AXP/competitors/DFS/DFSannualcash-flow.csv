@@ -1,0 +1,39 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"2,099","2,742","2,957","1,141","5,449",DFS
+Depreciation/Depletion,393,435,436,485,531,DFS
+Deferred Taxes,--,--,--,(672),327,DFS
+Non-Cash Items,(38),(510),(472),(120),(38),DFS
+"Cash Taxes Pd, Supplemental","1,424",650,"1,088",901,"1,305",DFS
+"Cash Interest Pd, Suppl","1,396","1,847","2,407","1,799","1,077",DFS
+Loan Loss Provision,"2,579","3,035","3,231","5,134",218,DFS
+Other Assets,(502),(7),(202),118,(496),DFS
+Changes in Working Capital,"2,754","2,524","3,275","5,362",(250),DFS
+Total Cash from Operations,"5,208","5,191","6,196","6,196","6,019",DFS
+Capital Expenditures,(218),(254),(284),(261),(194),DFS
+Sale/Maturity of Investment,216,856,"1,171","7,005","5,015",DFS
+"Investment, Net",17,0,0,--,--,DFS
+Purchase of Investments,(105),"(2,701)","(8,317)","(8,275)",(207),DFS
+Loans,"(8,701)","(8,480)","(7,844)","3,045","(4,574)",DFS
+"OtherInvestCashFlowItms,Tot","(8,573)","(10,325)","(14,990)","1,775",234,DFS
+Total Cash from Investing,"(8,791)","(10,579)","(15,274)","1,514",40,DFS
+Financing Cash Flow Items,"6,753","8,961","4,945","4,128","(4,533)",DFS
+Cash Divids Paid - Common,--,(521),(542),(545),(569),DFS
+Cash Divs Paid - Preferred,--,(31),(31),(31),(67),DFS
+Total Cash Dividends Paid,(527),(552),(573),(576),(636),DFS
+Sale/Issuance of Common,5,6,7,10,9,DFS
+Repurch/Retirement Common,"(2,081)","(2,065)","(1,768)",(348),"(2,260)",DFS
+"Common Stock, Net","(2,076)","(2,059)","(1,761)",(338),"(2,251)",DFS
+Sale/Issuance of Preferred,563,0,0,493,0,DFS
+Repurch/Retirement Preferd,(575),0,0,--,--,DFS
+"Preferred Stock, Net",(12),0,0,493,0,DFS
+"Iss (Retirmnt) of Stock,Net","(2,088)","(2,059)","(1,761)",155,"(2,251)",DFS
+"Short Term Debt, Net",--,--,--,--,"1,750",DFS
+Long Term Debt Issued,"6,186","6,999","4,859",494,"1,727",DFS
+Long Term Debt Reduction,"(5,363)","(6,203)","(6,573)","(5,286)","(4,373)",DFS
+"Long Term Debt, Net",823,796,"(1,714)","(4,792)","(2,646)",DFS
+"Iss (Retirmnt) of Debt, Net",823,796,"(1,714)","(4,792)",(896),DFS
+Total Cash From Financing,"4,961","7,146",897,"(1,085)","(8,316)",DFS
+Net Change in Cash,"1,378","1,758","(8,181)","6,625","(2,257)",DFS
+NetCash-BeginBal/RsvdforFutUse,"12,009","13,387","15,145","6,964","13,589",DFS
+NetCash-EndBal/RsrvforFutUse,"13,387","15,145","6,964","13,589","11,332",DFS
+"Depreciation, Supplemental",393,435,436,485,531,DFS

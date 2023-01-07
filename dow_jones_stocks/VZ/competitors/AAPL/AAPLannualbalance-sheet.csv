@@ -1,0 +1,47 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash,"11,575","12,204","17,773","17,305","18,546",AAPL
+Cash & Equivalents,"14,338","36,640","20,243","17,635","5,100",AAPL
+Short Term Investments,"40,388","51,713","52,927","27,699","24,658",AAPL
+Cash and Short Term Invs,"66,301","100,557","90,943","62,639","48,304",AAPL
+"Trade Accts Recvble, Net","23,186","22,926","16,120","26,278","28,184",AAPL
+Other Receivables,"25,809","22,878","21,325","25,228","32,748",AAPL
+"Total Receivables, Net","48,995","45,804","37,445","51,506","60,932",AAPL
+Total Inventory,"3,956","4,106","4,061","6,580","4,946",AAPL
+Restricted Cash - Current,--,23,36,--,--,AAPL
+Other Current Assets,"12,087","12,329","11,228","14,111","21,223",AAPL
+"Other Curr. Assets, Total","12,087","12,352","11,264","14,111","21,223",AAPL
+Total Current Assets,"131,339","162,819","143,713","134,836","135,405",AAPL
+Buildings,"8,205","9,075","10,283","11,023","11,271",AAPL
+Land/Improvements,"16,216","17,085","17,952","20,041","22,126",AAPL
+Machinery/Equipment,"65,982","69,797","75,291","78,659","81,060",AAPL
+Other Prop./Plant/Equip.,--,--,"8,570","10,087","10,417",AAPL
+Prop./Plant/Equip. - Gross,"90,403","95,957","112,096","119,810","124,874",AAPL
+Accumulated Depreciation,"(49,099)","(58,579)","(66,760)","(70,283)","(72,340)",AAPL
+Prop./Plant/Equip. - Net,"41,304","37,378","45,336","49,527","52,534",AAPL
+Long Term Investments,"170,799","105,341","100,887","127,877","120,805",AAPL
+Other Long Term Assets,"22,283","31,621","32,215","38,762","44,011",AAPL
+Total Assets,"365,725","338,516","323,888","351,002","352,755",AAPL
+Accounts Payable,"55,888","46,236","42,296","54,763","64,115",AAPL
+Accrued Expenses,--,--,"1,436","1,449","1,534",AAPL
+Notes Payable/ST Debt,"11,964","5,980","4,996","6,000","9,982",AAPL
+Curr. Port. LT Dbt/Cap Ls.,"8,784","10,260","8,797","9,692","11,257",AAPL
+Customer Advances,"5,966","5,522","6,643","7,612","7,912",AAPL
+Other Current Liabilities,"33,327","37,720","41,224","45,965","59,182",AAPL
+"Other Curr. Lblts, Total","39,293","43,242","47,867","53,577","67,094",AAPL
+Total Current Liabilities,"115,929","105,718","105,392","125,481","153,982",AAPL
+Long Term Debt,"93,735","91,807","98,667","109,106","98,959",AAPL
+Capital Lease Obligations,--,--,637,769,812,AAPL
+Total Long Term Debt,"93,735","91,807","99,304","109,875","99,771",AAPL
+Total Debt,"114,483","108,047","113,097","125,567","121,010",AAPL
+"Other Liabilities, Total","48,914","50,503","53,853","52,556","48,330",AAPL
+Total Liabilities,"258,578","248,028","258,549","287,912","302,083",AAPL
+Common Stock,"40,201","45,174","50,779","57,365","64,849",AAPL
+Ret. Earn.(Accum. Deficit),"70,400","45,898","14,966","5,562","(3,068)",AAPL
+Unrealized Gain (Loss),"(3,209)",707,"1,846",--,--,AAPL
+Cum. Trans. Adjustment,"(1,055)","(1,463)","(1,375)",--,--,AAPL
+Other Comprehensive Income,810,172,(877),163,"(11,109)",AAPL
+"Other Equity, Total",(245),"(1,291)","(2,252)",163,"(11,109)",AAPL
+Total Equity,"107,147","90,488","65,339","63,090","50,672",AAPL
+Total Liabilities & Shareholders’ Equity,"365,725","338,516","323,888","351,002","352,755",AAPL
+Ttl Comm. Shares Outs.,"19,020","17,773","16,977","16,427","15,943",AAPL
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,AAPL

@@ -1,0 +1,58 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"131,537","120,074","121,982","132,509","132,703",WBA
+"Cost of Revenue, Total","100,745","91,915","95,905","104,442","104,437",WBA
+Selling/Gen/Admin Expense,"22,800","21,466","21,217","22,864","23,313",WBA
+Advertising Expense,665,582,532,772,862,WBA
+"Sell/Gen/AdminExpenses,Tot","23,465","22,048","21,749","23,636","24,175",WBA
+"Inter/Invest Inc, Operating",(208),(164),(302),"1,156",(451),WBA
+Restructuring Charge,81,327,719,417,763,WBA
+Litigation,284,31,--,75,768,WBA
+Impair-Assets Held for Use,--,236,"2,417",231,"1,163",WBA
+Impair-Assets Held for Sale,178,0,71,0,190,WBA
+Other Unusual Expnse (In),881,915,819,701,553,WBA
+Unusual Expense (Income),"1,424","1,509","3,718","1,057","2,818",WBA
+Loss(Gain)/Sale Asts (Oper),--,--,(308),(367),(619),WBA
+Other Operating Expense,--,--,(1),--,1,WBA
+"Other, Net",--,--,1,--,1,WBA
+"Other Operat Expse, Total",--,--,0,--,2,WBA
+Total Operating Expense,"125,426","115,308","121,070","130,291","130,981",WBA
+Total Operating Income,"6,111","4,766",912,"2,218","1,722",WBA
+"Inter Expse, Non-Operating",(616),(650),(613),(491),(404),WBA
+"Inter Capital, Non-Operat",0,--,--,--,--,WBA
+"Inter Expse,Net Non-Operat",(616),(650),(613),(491),(404),WBA
+"Inter/Invest Inc, Non-Oper",21,155,11,(8),"2,577",WBA
+OtherNon-OperatInc (Expnse),459,88,136,276,90,WBA
+"Other, Net",459,88,136,276,90,WBA
+Income Before Tax,"5,975","4,359",446,"1,995","3,985",WBA
+Income Tax - Total,"1,123",577,339,667,(30),WBA
+Income After Tax,"4,852","3,782",107,"1,328","4,015",WBA
+Minority Interest,(7),26,42,39,271,WBA
+Equity In Affiliates,54,8,31,627,50,WBA
+Net Inc Before Extra Items,"4,899","3,816",180,"1,994","4,336",WBA
+Discontinued Operations,--,166,277,548,0,WBA
+Extraordinary Item,125,--,--,--,--,WBA
+Total Extraordinary Items,125,166,277,548,0,WBA
+Total Net Income,"5,024","3,982",457,"2,542","4,336",WBA
+Total Adjust to Net Income,--,--,(1),--,1,WBA
+Income Available to Common Excl. Extra. Items,"4,899","3,816",179,"1,994","4,337",WBA
+Income Available to Common Incl. Extra. Items,"5,024","3,982",456,"2,542","4,337",WBA
+Basic/Primary Weighted Average Shares,991,922,879,865,864,WBA
+Basic/Primary EPS Excl. Extra. Items,4.94,4.14,0.20,2.31,5.02,WBA
+Basic/Primary EPS Incl. Extra. Items,5.07,4.32,0.52,2.94,5.02,WBA
+Diluted Weighted Average Shares,995,924,880,866,866,WBA
+Diluted EPS Excl. Extra. Items,4.92,4.13,0.20,2.30,5.01,WBA
+Diluted EPS Incl. Extra. Items,5.05,4.31,0.52,2.93,5.01,WBA
+Div/Share-ComStockPrimIssue,1.60,1.76,1.83,1.87,1.91,WBA
+Gross Divid - Common Stock,"1,610","1,629","1,618","1,629","1,657",WBA
+Pro Forma Net Income,--,--,--,--,--,WBA
+"Interest Expense, Suppl",616,650,613,491,404,WBA
+"Interest Capitalized, Suppl",0,--,--,--,--,WBA
+"Depreciat/Amort, Suppl","1,400","1,565","1,543","1,450","1,400",WBA
+Total Special Items,976,"1,509","3,813","1,057","2,818",WBA
+Normalzd Income Before Tax,"6,951","5,868","4,259","3,052","6,803",WBA
+Efct/SpecItemsIncTxs (STEC),183,200,"1,335",353,986,WBA
+IncTxsExcl ImpctofSpec Itms,"1,306",777,"1,674","1,020",956,WBA
+Normalized Income After Tax,"5,645","5,091","2,585","2,032","5,847",WBA
+Normalzd Inc Avail to Common,"5,692","5,125","2,657","2,698","6,169",WBA
+Basic Normalized EPS,5.74,5.56,3.02,3.12,7.14,WBA
+Diluted Normalized EPS,5.72,5.55,3.02,3.11,7.12,WBA

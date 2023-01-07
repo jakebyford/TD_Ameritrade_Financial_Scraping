@@ -1,0 +1,50 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash & Equivalents,"1,326","1,015","1,132","1,303",MNST
+Short Term Investments,"1,750","1,718","1,338","1,347",MNST
+Cash and Short Term Invs,"3,076","2,732","2,470","2,650",MNST
+"Total Receivables, Net",897,"1,040","1,176","1,052",MNST
+Invent. - Finished Goods,243,364,405,411,MNST
+Invent. - Work In Progress,--,1,2,2,MNST
+Invent. - Raw Materials,350,455,479,450,MNST
+Total Inventory,593,821,886,863,MNST
+Prepaid Expenses,116,150,165,132,MNST
+Total Current Assets,"4,682","4,744","4,697","4,697",MNST
+Buildings,179,218,229,193,MNST
+Land/Improvements,85,87,137,139,MNST
+Machinery/Equipment,244,307,303,306,MNST
+Construction in Progress,--,--,--,59,MNST
+Other Prop./Plant/Equip.,53,66,70,69,MNST
+Prop./Plant/Equip. - Gross,562,677,739,766,MNST
+Accumulated Depreciation,(225),(236),(237),(243),MNST
+Prop./Plant/Equip. - Net,337,442,502,523,MNST
+"Goodwill, Net","1,332","1,412","1,413","1,413",MNST
+Intangibles - Gross,"1,134","1,295","1,288","1,293",MNST
+Accum. Intangible Amort.,(61),(63),(65),(67),MNST
+Intangibles - Net,"1,072","1,232","1,223","1,226",MNST
+LT Invt. - Affiliate Comp.,1,1,1,--,MNST
+LT Investments - Other,99,66,64,72,MNST
+Long Term Investments,101,67,65,72,MNST
+Other Long Term Assets,56,66,72,79,MNST
+Total Assets,"7,805","8,187","8,175","8,205",MNST
+Accounts Payable,404,438,493,520,MNST
+Accrued Expenses,487,541,539,541,MNST
+Notes Payable/ST Debt,0,0,0,0,MNST
+Curr. Port. LT Dbt/Cap Ls.,1,1,1,1,MNST
+Customer Advances,43,43,44,43,MNST
+Income Taxes Payable,30,21,16,17,MNST
+"Other Curr. Lblts, Total",73,64,60,60,MNST
+Total Current Liabilities,965,"1,044","1,094","1,122",MNST
+Total Long Term Debt,0,0,0,0,MNST
+Total Debt,1,1,1,1,MNST
+"Other Liabilities, Total",273,276,272,267,MNST
+Total Liabilities,"1,238","1,321","1,366","1,389",MNST
+Common Stock,3,3,3,3,MNST
+Additional Paid-In Capital,"4,653","4,673","4,708","4,736",MNST
+Ret. Earn.(Accum. Deficit),"7,810","8,104","8,377","8,699",MNST
+Treasury Stock - Common,"(5,829)","(5,841)","(6,126)","(6,399)",MNST
+Unrealized Gain (Loss),(1),(5),(6),(9),MNST
+"Other Equity, Total",(68),(67),(147),(216),MNST
+Total Equity,"6,567","6,867","6,809","6,816",MNST
+Total Liabilities & Shareholders’ Equity,"7,805","8,187","8,175","8,205",MNST
+Ttl Comm. Shares Outs.,529,530,527,524,MNST
+Trsy. Shrs-Comm. Primary Iss.,111,111,114,117,MNST

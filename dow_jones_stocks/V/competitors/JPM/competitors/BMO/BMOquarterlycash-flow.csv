@@ -1,0 +1,43 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Net Income,"2,933","7,689","9,054","13,537",BMO
+Depreciation/Depletion,195,387,579,780,BMO
+Amortization,178,347,522,700,BMO
+Deferred Taxes,221,434,399,475,BMO
+Unusual Items,29,29,29,29,BMO
+Other Non-Cash Items,(11),269,132,484,BMO
+Non-Cash Items,18,298,161,513,BMO
+"Cash Taxes Pd, Supplemental",545,991,"1,779","2,374",BMO
+"Cash Interest Pd, Suppl","1,228","2,641","5,086","9,557",BMO
+Loan Loss Provision,(99),(49),87,313,BMO
+Other Assets,"(8,494)","1,800",(254),"(2,124)",BMO
+Changes in Working Capital,"(27,058)","(20,091)","(23,617)","(11,048)",BMO
+Total Cash from Operations,"(23,513)","(10,936)","(12,902)","4,957",BMO
+Purchase of Fixed Assets,(135),(301),(476),(777),BMO
+Purchase/Acq of Intangibles,(134),(296),(484),(671),BMO
+Capital Expenditures,(269),(597),(960),"(1,448)",BMO
+Sale of Business,"1,218","1,226","1,226","1,226",BMO
+Sale/Maturity of Investment,"25,591","39,398","50,387","64,033",BMO
+Purchase of Investments,"(53,325)","(65,923)","(78,054)","(96,598)",BMO
+Other Investing Cash Flow,(72),905,"1,281","3,316",BMO
+"OtherInvestCashFlowItms,Tot","(26,588)","(24,394)","(25,160)","(28,023)",BMO
+Total Cash from Investing,"(26,857)","(24,991)","(26,120)","(29,471)",BMO
+Financing Cash Flow Items,"3,795","3,766","6,927","6,927",BMO
+Cash Divids Paid - Common,(691),"(1,256)","(1,808)","(2,364)",BMO
+Cash Divs Paid - Preferred,(55),(107),(154),(231),BMO
+Total Cash Dividends Paid,(746),"(1,363)","(1,962)","(2,595)",BMO
+Sale/Issuance of Common,21,"3,835","3,097","3,113",BMO
+Repurch/Retirement Common,--,--,--,(17),BMO
+"Common Stock, Net",21,"3,835","3,097","3,096",BMO
+Sale/Issuance of Preferred,--,--,"1,247","2,245",BMO
+Repurch/Retirement Preferd,0,(600),"(1,100)","(1,500)",BMO
+"Preferred Stock, Net",0,(600),147,745,BMO
+"Iss (Retirmnt) of Stock,Net",21,"3,235","3,244","3,841",BMO
+Long Term Debt Issued,"5,512","8,870","12,073","14,780",BMO
+Long Term Debt Reduction,"(2,279)","(2,358)","(4,689)","(6,123)",BMO
+"Iss (Retirmnt) of Debt, Net","3,233","6,512","6,534","7,807",BMO
+Total Cash From Financing,"6,303","12,150","14,743","15,980",BMO
+Foreign Exchange Effects,929,802,604,"2,739",BMO
+Net Change in Cash,"(43,138)","(22,975)","(23,675)","(5,795)",BMO
+NetCash-BeginBal/RsvdforFutUse,"93,261","93,261","93,261","93,261",BMO
+NetCash-EndBal/RsrvforFutUse,"50,123","70,286","69,586","87,466",BMO
+"Depreciation, Supplemental",195,387,579,780,BMO

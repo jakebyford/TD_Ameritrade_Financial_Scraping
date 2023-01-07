@@ -1,0 +1,39 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"7,244","6,590","6,260","7,042",GILD
+"Cost of Revenue, Total","2,627","1,424","1,442","1,395",GILD
+"Sell/Gen/AdminExpenses,Tot","1,650","1,083","1,357","1,213",GILD
+Research & Development,"2,027","1,186","1,432","1,597",GILD
+Unusual Expense (Income),--,"2,700",0,0,GILD
+Total Operating Expense,"6,304","6,393","4,231","4,205",GILD
+Total Operating Income,940,197,"2,029","2,837",GILD
+"Inter Expse,Net Non-Operat",(238),(238),(242),(229),GILD
+"Inter/Invest Inc, Non-Oper",57,(96),(303),(197),GILD
+OtherNon-OperatInc (Expnse),--,(15),19,21,GILD
+"Other, Net",--,(15),19,21,GILD
+Income Before Tax,759,(152),"1,503","2,432",GILD
+Income Tax - Total,383,(164),368,646,GILD
+Income After Tax,376,12,"1,135","1,786",GILD
+Minority Interest,6,7,9,3,GILD
+Net Inc Before Extra Items,382,19,"1,144","1,789",GILD
+Total Net Income,382,19,"1,144","1,789",GILD
+Income Available to Common Excl. Extra. Items,382,19,"1,144","1,789",GILD
+Income Available to Common Incl. Extra. Items,382,19,"1,144","1,789",GILD
+Basic/Primary Weighted Average Shares,"1,256","1,255","1,256","1,255",GILD
+Basic/Primary EPS Excl. Extra. Items,0.30,0.02,0.91,1.43,GILD
+Basic/Primary EPS Incl. Extra. Items,0.30,0.02,0.91,1.43,GILD
+Diluted Weighted Average Shares,"1,262","1,262","1,260","1,261",GILD
+Diluted EPS Excl. Extra. Items,0.30,0.02,0.91,1.42,GILD
+Diluted EPS Incl. Extra. Items,0.30,0.02,0.91,1.42,GILD
+Div/Share-ComStockPrimIssue,0.71,0.73,0.73,0.73,GILD
+Gross Divid - Common Stock,904,932,932,933,GILD
+Pro Forma Net Income,--,--,--,--,GILD
+"Interest Expense, Suppl",238,238,242,229,GILD
+"Depreciat/Amort, Suppl",90,80,80,80,GILD
+Total Special Items,--,"2,700",0,0,GILD
+Normalzd Income Before Tax,759,"2,548","1,503","2,432",GILD
+Efct/SpecItemsIncTxs (STEC),--,945,0,0,GILD
+IncTxsExcl ImpctofSpec Itms,383,781,368,646,GILD
+Normalized Income After Tax,376,"1,767","1,135","1,786",GILD
+Normalzd Inc Avail to Common,382,"1,774","1,144","1,789",GILD
+Basic Normalized EPS,0.30,1.41,0.91,1.43,GILD
+Diluted Normalized EPS,0.30,1.41,0.91,1.42,GILD

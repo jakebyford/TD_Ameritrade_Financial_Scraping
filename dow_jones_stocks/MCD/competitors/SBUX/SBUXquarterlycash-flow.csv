@@ -1,0 +1,42 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Net Income,816,"1,491","2,405","3,283",SBUX
+Depreciation/Depletion,386,778,"1,169","1,529",SBUX
+Deferred Taxes,0,28,35,(38),SBUX
+Unusual Items,51,77,90,91,SBUX
+Equity in Net Earnings/Loss,(47),(119),(175),(269),SBUX
+Other Non-Cash Items,421,802,"1,252","1,701",SBUX
+Non-Cash Items,425,761,"1,167","1,524",SBUX
+"Cash Taxes Pd, Supplemental",161,783,911,"1,158",SBUX
+"Cash Interest Pd, Suppl",108,236,345,475,SBUX
+Accounts Receivable,(92),(62),(246),(326),SBUX
+Inventories,(36),(325),(557),(641),SBUX
+Prepaid Expenses,65,(121),--,--,SBUX
+Accounts Payable,84,133,342,346,SBUX
+Accrued Expenses,(363),(766),"(1,201)","(1,626)",SBUX
+Changes in Working Capital,243,"(1,025)","(1,478)","(1,902)",SBUX
+Total Cash from Operations,"1,871","2,033","3,298","4,397",SBUX
+Capital Expenditures,(417),(872),"(1,295)","(1,841)",SBUX
+Sale of Business,--,--,--,59,SBUX
+Sale/Maturity of Investment,118,128,132,140,SBUX
+Purchase of Investments,(61),(68),(117),(378),SBUX
+Other Investing Cash Flow,(41),(70),(96),(126),SBUX
+"OtherInvestCashFlowItms,Tot",16,(9),(81),(305),SBUX
+Total Cash from Investing,(401),(881),"(1,376)","(2,146)",SBUX
+Financing Cash Flow Items,(114),(131),(133),(136),SBUX
+Total Cash Dividends Paid,(576),"(1,139)","(1,701)","(2,263)",SBUX
+Sale/Issuance of Common,41,56,76,102,SBUX
+Repurch/Retirement Common,"(3,521)","(3,998)","(4,013)","(4,013)",SBUX
+"Iss (Retirmnt) of Stock,Net","(3,480)","(3,941)","(3,938)","(3,911)",SBUX
+Short Term Debt Issued,200,17,39,37,SBUX
+Short Term Debt Reduction,0,(13),(39),(37),SBUX
+"Short Term Debt, Net",200,5,200,175,SBUX
+Long Term Debt Issued,--,"1,498","1,498","1,498",SBUX
+Long Term Debt Reduction,0,0,"(1,000)","(1,000)",SBUX
+"Long Term Debt, Net",0,"1,498",498,498,SBUX
+"Iss (Retirmnt) of Debt, Net",200,"1,503",698,673,SBUX
+Total Cash From Financing,"(3,969)","(3,709)","(5,073)","(5,638)",SBUX
+Foreign Exchange Effects,13,15,(126),(250),SBUX
+Net Change in Cash,"(2,486)","(2,542)","(3,278)","(3,637)",SBUX
+NetCash-BeginBal/RsvdforFutUse,"6,456","6,456","6,456","6,456",SBUX
+NetCash-EndBal/RsrvforFutUse,"3,969","3,913","3,178","2,818",SBUX
+"Depreciation, Supplemental",386,778,"1,169","1,529",SBUX

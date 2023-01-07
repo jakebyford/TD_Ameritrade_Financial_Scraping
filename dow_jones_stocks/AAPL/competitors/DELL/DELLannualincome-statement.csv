@@ -1,0 +1,48 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"79,040","90,621","84,815","86,670","101,197",DELL
+"Cost of Revenue, Total","58,503","65,568","64,176","66,530","79,306",DELL
+Selling/Gen/Admin Expense,"17,478","19,161","14,597","12,738","13,257",DELL
+Advertising Expense,"1,045","1,143","1,100","1,000","1,300",DELL
+"Sell/Gen/AdminExpenses,Tot","18,523","20,304","15,697","13,738","14,557",DELL
+Research & Development,"4,317","4,552","2,426","2,407","2,570",DELL
+Restructuring Charge,113,198,150,310,105,DELL
+Impair-Assets Held for Use,--,190,--,--,--,DELL
+Other Unusual Expnse (In),--,--,83,(300),"(2,396)",DELL
+Unusual Expense (Income),113,388,233,10,"(2,291)",DELL
+Total Operating Expense,"81,456","90,812","82,532","82,685","94,142",DELL
+Total Operating Income,"(2,416)",(191),"2,283","3,985","7,055",DELL
+"Inter Expse,Net Non-Operat","(2,406)","(2,488)","(2,334)","(2,052)","(1,542)",DELL
+"Inter Income, Non-Operating",207,313,99,47,42,DELL
+"Invest Income, Non-Operat",61,211,(37),265,348,DELL
+"Inter/Invest Inc, Non-Oper",268,524,62,312,390,DELL
+OtherNon-OperatInc (Expnse),(215),(206),(62),101,20,DELL
+"Other, Net",(215),(206),(62),101,20,DELL
+Income Before Tax,"(4,769)","(2,361)",(51),"2,346","5,923",DELL
+Income Tax - Total,"(1,343)",(180),(572),101,981,DELL
+Income After Tax,"(3,426)","(2,181)",521,"2,245","4,942",DELL
+Minority Interest,77,(129),4,4,6,DELL
+Net Inc Before Extra Items,"(3,349)","(2,310)",525,"2,249","4,948",DELL
+Discontinued Operations,0,0,"4,091","1,001",615,DELL
+Extraordinary Item,500,--,--,--,--,DELL
+Total Extraordinary Items,500,0,"4,091","1,001",615,DELL
+Total Net Income,"(2,849)","(2,310)","4,616","3,250","5,563",DELL
+Income Available to Common Excl. Extra. Items,"(3,349)","(2,310)",525,"2,249","4,948",DELL
+Income Available to Common Incl. Extra. Items,"(2,849)","(2,310)","4,616","3,250","5,563",DELL
+Basic/Primary Weighted Average Shares,770,781,724,744,762,DELL
+Basic/Primary EPS Excl. Extra. Items,(4.35),(2.96),0.73,3.02,6.49,DELL
+Basic/Primary EPS Incl. Extra. Items,(3.70),(2.96),6.38,4.37,7.30,DELL
+Diluted Weighted Average Shares,770,781,751,767,791,DELL
+Diluted EPS Excl. Extra. Items,(4.35),(2.96),0.70,2.93,6.26,DELL
+Diluted EPS Incl. Extra. Items,(3.70),(2.96),6.15,4.24,7.03,DELL
+Gross Divid - Common Stock,0,0,0,0,0,DELL
+Pro Forma Net Income,--,--,--,--,--,DELL
+"Interest Expense, Suppl","2,406","2,488","2,334","2,052","1,542",DELL
+"Depreciat/Amort, Suppl","1,572","1,397","3,143","3,290","3,953",DELL
+Total Special Items,"3,095","3,168","1,491",148,"(4,001)",DELL
+Normalzd Income Before Tax,"(1,674)",807,"1,440","2,494","1,922",DELL
+Efct/SpecItemsIncTxs (STEC),"1,083","1,109",522,6,(663),DELL
+IncTxsExcl ImpctofSpec Itms,(260),929,(50),107,318,DELL
+Normalized Income After Tax,"(1,414)",(122),"1,490","2,387","1,604",DELL
+Normalzd Inc Avail to Common,"(1,337)",(251),"1,494","2,391","1,610",DELL
+Basic Normalized EPS,(1.74),(0.32),2.06,3.21,2.11,DELL
+Diluted Normalized EPS,(1.74),(0.32),1.99,3.12,2.03,DELL

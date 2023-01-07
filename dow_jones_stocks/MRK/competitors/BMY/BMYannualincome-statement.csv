@@ -1,0 +1,54 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"20,776","22,561","26,145","42,518","46,385",BMY
+"Cost of Revenue, Total","5,917","6,436","7,804","11,133","9,601",BMY
+Selling/Gen/Admin Expense,"3,947","3,878","4,237","6,411","6,147",BMY
+Labor & Related Expense,--,--,--,332,241,BMY
+Advertising Expense,740,672,633,990,"1,300",BMY
+"Sell/Gen/AdminExpenses,Tot","4,687","4,550","4,870","7,733","7,688",BMY
+Research & Development,"4,823","5,052","5,845","9,519","9,532",BMY
+Depreciation,3,41,71,--,--,BMY
+Amortiz of Intangibles,--,--,"1,135","9,688","10,023",BMY
+Depreciation/Amortization,3,41,"1,206","9,688","10,023",BMY
+Purchased R&D Written-Off,75,0,32,470,840,BMY
+Restructuring Charge,293,268,561,562,169,BMY
+Litigation,(487),76,77,(194),82,BMY
+Impair-Assets Held for Use,146,81,141,596,315,BMY
+Impair-Assets Held for Sale,5,--,--,36,1,BMY
+Other Unusual Expnse (In),"1,421","1,024",582,"11,349","1,252",BMY
+Unusual Expense (Income),"1,453","1,449","1,393","12,819","2,659",BMY
+"Other Operat Expse, Total","(1,351)","(1,353)","(1,360)","(1,527)","(1,733)",BMY
+Total Operating Expense,"15,532","16,175","19,758","49,365","37,770",BMY
+Total Operating Income,"5,244","6,386","6,387","(6,847)","8,615",BMY
+"Inter Expse,Net Non-Operat",(196),(183),(656),"(1,420)","(1,334)",BMY
+"Inter/Invest Inc, Non-Oper",229,(197),587,"1,349",784,BMY
+OtherNon-OperatInc (Expnse),(146),(38),"(1,343)",47,33,BMY
+"Other, Net",(146),(38),"(1,343)",47,33,BMY
+Income Before Tax,"5,131","5,968","4,975","(6,871)","8,098",BMY
+Income Tax - Total,"1,260",965,"1,515","2,124","1,084",BMY
+Income After Tax,"3,871","5,003","3,460","(8,995)","7,014",BMY
+Minority Interest,32,(27),(21),(20),(20),BMY
+Net Inc Before Extra Items,"3,903","4,976","3,439","(9,015)","6,994",BMY
+Total Extraordinary Items,"(2,896)",(56),0,--,--,BMY
+Total Net Income,"1,007","4,920","3,439","(9,015)","6,994",BMY
+Income Available to Common Excl. Extra. Items,"3,903","4,976","3,439","(9,015)","6,994",BMY
+Income Available to Common Incl. Extra. Items,"1,007","4,920","3,439","(9,015)","6,994",BMY
+Basic/Primary Weighted Average Shares,"1,645","1,633","1,705","2,258","2,221",BMY
+Basic/Primary EPS Excl. Extra. Items,2.37,3.05,2.02,(3.99),3.15,BMY
+Basic/Primary EPS Incl. Extra. Items,0.61,3.01,2.02,(3.99),3.15,BMY
+Diluted Weighted Average Shares,"1,652","1,637","1,712","2,258","2,245",BMY
+Diluted EPS Excl. Extra. Items,2.36,3.04,2.01,(3.99),3.12,BMY
+Diluted EPS Incl. Extra. Items,0.61,3.01,2.01,(3.99),3.12,BMY
+Div/Share-ComStockPrimIssue,1.56,1.60,1.64,1.80,1.96,BMY
+Gross Divid - Common Stock,"2,573","2,630","3,035","4,178","4,455",BMY
+Pro Forma Net Income,--,--,--,--,--,BMY
+"Interest Expense, Suppl",196,183,656,"1,420","1,334",BMY
+"Interest Capitalized, Suppl",(15),--,--,--,--,BMY
+"Depreciat/Amort, Suppl",682,505,554,586,663,BMY
+Total Special Items,"1,453","1,449","1,393","12,922","2,683",BMY
+Normalzd Income Before Tax,"6,584","7,417","6,368","6,051","10,781",BMY
+Efct/SpecItemsIncTxs (STEC),338,234,414,"4,358","1,122",BMY
+IncTxsExcl ImpctofSpec Itms,"1,598","1,199","1,929","6,482","2,206",BMY
+Normalized Income After Tax,"4,986","6,218","4,439",(431),"8,575",BMY
+Normalzd Inc Avail to Common,"5,018","6,191","4,418",(451),"8,555",BMY
+Basic Normalized EPS,3.05,3.79,2.59,(0.20),3.85,BMY
+Diluted Normalized EPS,3.04,3.78,2.58,(0.20),3.81,BMY

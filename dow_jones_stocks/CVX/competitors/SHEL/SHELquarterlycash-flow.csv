@@ -1,0 +1,35 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"29,829","10,776","36,936","48,371",SHEL
+Depreciation/Depletion,"26,921","6,295","5,947","12,071",SHEL
+Unusual Items,"(5,356)",(114),(259),(135),SHEL
+Equity in Net Earnings/Loss,"(4,097)",303,"(1,728)","(4,240)",SHEL
+Other Non-Cash Items,"7,025","1,525","3,321","4,524",SHEL
+Non-Cash Items,"(2,428)","1,714","1,334",149,SHEL
+"Cash Taxes Pd, Supplemental","5,476","2,155","5,310","8,748",SHEL
+"Cash Interest Pd, Suppl","4,014",657,"1,747","2,494",SHEL
+Accounts Receivable,"(20,567)","(10,005)","(14,071)","(14,168)",SHEL
+Inventories,"(7,319)","(4,914)","(11,747)","(11,263)",SHEL
+Payable/Accrued,"17,519","7,495","14,150","9,606",SHEL
+Changes in Working Capital,"(9,218)","(3,970)","(10,747)","(14,582)",SHEL
+Total Cash from Operations,"45,104","14,815","33,470","46,009",SHEL
+Capital Expenditures,"(19,000)","(4,237)","(10,914)","(16,182)",SHEL
+Sale of Fixed Assets,"14,233",557,"1,340","1,379",SHEL
+Sale/Maturity of Investment,880,150,206,444,SHEL
+Purchase of Investments,(697),(827),"(1,175)","(1,332)",SHEL
+Other Investing Cash Flow,(177),84,62,161,SHEL
+"OtherInvestCashFlowItms,Tot","14,239",(36),433,652,SHEL
+Total Cash from Investing,"(4,761)","(4,273)","(10,481)","(15,530)",SHEL
+Financing Cash Flow Items,"(5,793)","(1,288)","(3,188)","(4,855)",SHEL
+Total Cash Dividends Paid,"(6,253)","(1,950)","(3,802)","(5,620)",SHEL
+"Iss (Retirmnt) of Stock,Net","(2,889)","(3,472)","(9,013)","(13,963)",SHEL
+"Short Term Debt, Net",14,131,772,566,SHEL
+Long Term Debt Issued,"1,791",101,135,239,SHEL
+Long Term Debt Reduction,"(21,534)","(2,541)","(5,072)","(6,243)",SHEL
+"Long Term Debt, Net","(19,743)","(2,440)","(4,937)","(6,004)",SHEL
+"Iss (Retirmnt) of Debt, Net","(19,729)","(2,309)","(4,165)","(5,438)",SHEL
+Total Cash From Financing,"(34,664)","(9,019)","(20,168)","(29,876)",SHEL
+Foreign Exchange Effects,(539),(134),(822),"(1,596)",SHEL
+Net Change in Cash,"5,140","1,389","1,999",(993),SHEL
+NetCash-BeginBal/RsvdforFutUse,"31,830","36,970","36,970","36,970",SHEL
+NetCash-EndBal/RsrvforFutUse,"36,970","38,360","38,970","35,978",SHEL
+"Depreciation, Supplemental","26,921","6,295","5,947","12,071",SHEL

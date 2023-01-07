@@ -1,0 +1,52 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"7,588","17,940","11,631","5,997","5,338",GILD
+Short Term Investments,"17,922","12,149","12,721","1,411","1,182",GILD
+Cash and Short Term Invs,"25,510","30,089","24,352","7,408","6,520",GILD
+"Trade Accts Recvble, Gross","4,306","3,910","4,340","4,936","4,540",GILD
+Prov. for Doubtful Accts,(455),(583),(758),(44),(47),GILD
+"Total Receivables, Net","3,851","3,327","3,582","4,892","4,493",GILD
+Total Inventory,801,814,922,"1,683","1,618",GILD
+Prepaid Expenses,"1,649","1,533","1,403","2,013","2,141",GILD
+"Other Curr. Assets, Total",12,73,37,--,--,GILD
+Total Current Assets,"31,823","35,836","30,296","15,996","14,772",GILD
+Buildings,"2,176","2,344","3,358","3,678","3,794",GILD
+Land/Improvements,396,404,404,404,404,GILD
+Machinery/Equipment,"1,027","1,255","1,439","1,697","1,759",GILD
+Construction in Progress,690,"1,194",723,856,"1,057",GILD
+Other Prop./Plant/Equip.,--,--,668,646,542,GILD
+Prop./Plant/Equip. - Gross,"4,289","5,197","6,592","7,281","7,556",GILD
+Accumulated Depreciation,(994),"(1,191)","(1,422)","(1,668)","(1,893)",GILD
+Prop./Plant/Equip. - Net,"3,295","4,006","5,170","5,613","5,663",GILD
+"Goodwill, Net","4,159","4,117","4,117","8,108","8,332",GILD
+Intangibles - Gross,"20,904","20,748","19,948","39,787","41,836",GILD
+Accum. Intangible Amort.,"(3,804)","(5,010)","(6,162)","(6,661)","(8,381)",GILD
+Intangibles - Net,"17,100","15,738","13,786","33,126","33,455",GILD
+Long Term Investments,"11,194","1,423","1,488",502,"1,309",GILD
+Other Long Term Assets,"2,712","2,555","6,770","5,062","4,421",GILD
+Total Assets,"70,283","63,675","61,627","68,407","67,952",GILD
+Accounts Payable,814,790,713,844,705,GILD
+Accrued Expenses,"7,271","6,876","6,254","7,198","7,600",GILD
+Notes Payable/ST Debt,0,0,0,0,0,GILD
+Curr. Port. LT Dbt/Cap Ls.,"2,747","2,748","2,499","2,757","1,516",GILD
+Income Taxes Payable,713,190,287,598,539,GILD
+Other Current Liabilities,90,1,6,--,"1,250",GILD
+"Other Curr. Lblts, Total",803,191,293,598,"1,789",GILD
+Total Current Liabilities,"11,635","10,605","9,759","11,397","11,610",GILD
+Total Long Term Debt,"30,795","24,574","22,094","28,645","25,179",GILD
+Total Debt,"33,542","27,322","24,593","31,402","26,695",GILD
+Deferred Income Tax,--,--,--,--,"4,356",GILD
+Minority Interest,59,147,125,19,(5),GILD
+"Other Liabilities, Total","7,352","6,962","7,124","10,144","5,743",GILD
+Total Liabilities,"49,841","42,288","39,102","50,205","46,883",GILD
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,0,GILD
+Common Stock,1,1,1,1,1,GILD
+Additional Paid-In Capital,"1,264","2,282","3,051","3,880","4,661",GILD
+Ret. Earn.(Accum. Deficit),"19,012","19,024","19,388","14,381","16,324",GILD
+Unrealized Gain (Loss),194,(52),1,2,(4),GILD
+Cum. Trans. Adjustment,85,47,53,51,13,GILD
+Other Comprehensive Income,(114),85,31,(113),74,GILD
+"Other Equity, Total",(29),132,84,(62),87,GILD
+Total Equity,"20,442","21,387","22,525","18,202","21,069",GILD
+Total Liabilities & Shareholders’ Equity,"70,283","63,675","61,627","68,407","67,952",GILD
+Ttl Comm. Shares Outs.,"1,308","1,282","1,266","1,254","1,254",GILD
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,GILD

@@ -1,0 +1,43 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash and Short Term Invs,"3,595","1,778","2,133","7,895","2,343",HD
+"Total Receivables, Net","1,952","1,936","2,106","2,992","3,426",HD
+Total Inventory,"12,748","13,925","14,531","16,627","22,068",HD
+"Other Curr. Assets, Total",638,890,"1,040",963,"1,218",HD
+Total Current Assets,"18,933","18,529","19,810","28,477","29,055",HD
+Buildings,"19,710","19,904","20,221","20,763","21,189",HD
+Land/Improvements,"8,352","8,363","8,390","8,543","8,617",HD
+Construction in Progress,538,820,"1,005","1,068","1,139",HD
+Other Prop./Plant/Equip.,"12,814","13,852","20,839","24,389","26,352",HD
+Prop./Plant/Equip. - Gross,"41,414","42,939","50,455","54,763","57,297",HD
+Accumulated Depreciation,"(19,339)","(20,564)","(22,090)","(24,096)","(26,130)",HD
+Prop./Plant/Equip. - Net,"22,075","22,375","28,365","30,667","31,167",HD
+"Goodwill, Net","2,275","2,252","2,254","7,126","7,449",HD
+Intangibles - Gross,--,--,--,--,"3,846",HD
+Accum. Intangible Amort.,--,--,--,--,(343),HD
+Intangibles - Net,--,--,--,--,"3,503",HD
+Other Long Term Assets,"1,127",726,807,"4,311",702,HD
+Total Assets,"44,529","44,003","51,236","70,581","71,876",HD
+Accounts Payable,"7,244","7,755","7,787","11,606","13,462",HD
+Accrued Expenses,"4,330","4,773","5,604","7,128","7,995",HD
+Notes Payable/ST Debt,"1,559","1,339",974,0,"1,035",HD
+Curr. Port. LT Dbt/Cap Ls.,"1,202","1,056","1,839","1,416","2,447",HD
+Customer Advances,"1,805","1,782","2,116","2,823","3,596",HD
+Income Taxes Payable,54,11,55,193,158,HD
+"Other Curr. Lblts, Total","1,859","1,793","2,171","3,016","3,754",HD
+Total Current Liabilities,"16,194","16,716","18,375","23,166","28,693",HD
+Long Term Debt,"24,267","26,807","27,589","33,122","33,566",HD
+Capital Lease Obligations,--,--,"1,081","2,700","3,038",HD
+Total Long Term Debt,"24,267","26,807","28,670","35,822","36,604",HD
+Total Debt,"27,028","29,202","31,483","37,238","40,086",HD
+Deferred Income Tax,440,491,706,"1,131",909,HD
+"Other Liabilities, Total","2,174","1,867","6,601","7,163","7,366",HD
+Total Liabilities,"43,075","45,881","54,352","67,282","73,572",HD
+Common Stock,89,89,89,89,90,HD
+Additional Paid-In Capital,"10,192","10,578","11,001","11,540","12,132",HD
+Ret. Earn.(Accum. Deficit),"39,935","46,423","51,729","58,134","67,580",HD
+Treasury Stock - Common,"(48,196)","(58,196)","(65,196)","(65,793)","(80,794)",HD
+"Other Equity, Total",(566),(772),(739),(671),(704),HD
+Total Equity,"1,454","(1,878)","(3,116)","3,299","(1,696)",HD
+Total Liabilities & Shareholders’ Equity,"44,529","44,003","51,236","70,581","71,876",HD
+Ttl Comm. Shares Outs.,"1,158","1,105","1,077","1,077","1,035",HD
+Trsy. Shrs-Comm. Primary Iss.,622,677,709,712,757,HD

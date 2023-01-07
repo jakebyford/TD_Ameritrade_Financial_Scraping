@@ -1,0 +1,37 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"8,079","5,759","10,904","15,431",COP
+Depreciation/Depletion,"7,208","1,823","3,633","5,505",COP
+Deferred Taxes,"1,346",373,868,"1,594",COP
+Unusual Items,(852),"(1,066)","(1,326)","(1,284)",COP
+Equity in Net Earnings/Loss,446,220,591,569,COP
+Other Non-Cash Items,(502),(84),189,280,COP
+Non-Cash Items,(908),(930),(546),(435),COP
+"Cash Taxes Pd, Supplemental",856,"1,640","3,942","5,602",COP
+"Cash Interest Pd, Suppl",924,287,486,706,COP
+Accounts Receivable,"(2,500)","(1,535)","(1,861)","(1,317)",COP
+Inventories,(160),27,(53),(64),COP
+Prepaid Expenses,(649),58,(283),(469),COP
+Accounts Payable,"1,399",(204),635,"1,098",COP
+Accrued Expenses,"3,181",(303),(315),379,COP
+Changes in Working Capital,"1,271","(1,957)","(1,877)",(373),COP
+Total Cash from Operations,"16,996","5,068","12,982","21,722",COP
+Capital Expenditures,"(5,324)","(3,161)","(5,129)","(7,626)",COP
+Sale of Fixed Assets,"1,653","2,332","2,951","3,354",COP
+"Investment, Net","3,091",(263),"(1,104)","(2,235)",COP
+Other Investing Cash Flow,"(7,964)",481,580,700,COP
+"OtherInvestCashFlowItms,Tot","(3,220)","2,550","2,427","1,819",COP
+Total Cash from Investing,"(8,544)",(611),"(2,702)","(5,807)",COP
+Financing Cash Flow Items,7,(52),(56),(53),COP
+Total Cash Dividends Paid,"(2,359)",(864),"(1,852)","(3,336)",COP
+"Iss (Retirmnt) of Stock,Net","(3,478)","(1,154)","(3,375)","(6,179)",COP
+"Short Term Debt, Net",0,--,--,--,COP
+Long Term Debt Issued,--,"2,897","2,897","2,897",COP
+Long Term Debt Reduction,(505),"(3,964)","(5,829)","(5,874)",COP
+"Long Term Debt, Net",(505),"(1,067)","(2,932)","(2,977)",COP
+"Iss (Retirmnt) of Debt, Net",(505),"(1,067)","(2,932)","(2,977)",COP
+Total Cash From Financing,"(6,335)","(3,137)","(8,215)","(12,545)",COP
+Foreign Exchange Effects,(34),21,(237),(452),COP
+Net Change in Cash,"2,083","1,341","1,828","2,918",COP
+NetCash-BeginBal/RsvdforFutUse,"3,315","5,398","5,398","5,398",COP
+NetCash-EndBal/RsrvforFutUse,"5,398","6,739","7,226","8,316",COP
+"Depreciation, Supplemental","7,208","1,823","3,633","5,505",COP

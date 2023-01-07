@@ -1,0 +1,56 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Cash & Equivalents,"3,969","3,913","3,178","2,818",SBUX
+Short Term Investments,87,82,77,365,SBUX
+Cash and Short Term Invs,"4,057","3,996","3,254","3,183",SBUX
+"Trade Accts Recvble, Net","1,031","1,002","1,146","1,176",SBUX
+Other Receivables,120,280,154,97,SBUX
+"Total Receivables, Net","1,152","1,282","1,300","1,273",SBUX
+Invent. - Finished Goods,273,294,295,310,SBUX
+Invent. - Raw Materials,676,929,"1,047","1,019",SBUX
+Inventories - Other,688,697,791,848,SBUX
+Total Inventory,"1,637","1,920","2,133","2,177",SBUX
+Prepaid Expenses,410,343,380,387,SBUX
+Total Current Assets,"7,255","7,541","7,068","7,019",SBUX
+Buildings,"9,322","9,434","9,445","9,622",SBUX
+Land/Improvements,46,46,46,46,SBUX
+Machinery/Equipment,"3,875","3,828","3,846","3,857",SBUX
+Construction in Progress,420,540,579,559,SBUX
+Other Prop./Plant/Equip.,"9,626","9,636","9,501","9,542",SBUX
+Prop./Plant/Equip. - Gross,"23,290","23,483","23,417","23,625",SBUX
+Accumulated Depreciation,"(8,688)","(8,852)","(8,972)","(9,049)",SBUX
+Prop./Plant/Equip. - Net,"14,601","14,631","14,445","14,576",SBUX
+"Goodwill, Net","3,676","3,646","3,451","3,284",SBUX
+Intangibles - Gross,"1,435","1,423","1,348","1,280",SBUX
+Accum. Intangible Amort.,"(1,132)","(1,169)","(1,145)","(1,124)",SBUX
+Intangibles - Net,303,255,203,156,SBUX
+LT Invt. - Affiliate Comp.,252,271,303,311,SBUX
+LT Investments - Other,300,286,293,279,SBUX
+Long Term Investments,552,556,595,590,SBUX
+Other Long Term Assets,588,583,641,554,SBUX
+Total Assets,"28,834","29,022","28,156","27,978",SBUX
+Accounts Payable,"1,289","1,330","1,490","1,441",SBUX
+Accrued Expenses,"2,990","2,889","2,875","2,970",SBUX
+Notes Payable/ST Debt,200,0,200,175,SBUX
+Curr. Port. LT Dbt/Cap Ls.,999,"1,999",999,"1,749",SBUX
+Dividends Payable,565,562,562,608,SBUX
+Customer Advances,"2,071","1,782","1,723","1,642",SBUX
+Income Taxes Payable,576,292,324,334,SBUX
+Other Current Liabilities,231,252,229,232,SBUX
+"Other Curr. Lblts, Total","3,442","2,887","2,839","2,816",SBUX
+Total Current Liabilities,"8,921","9,104","8,402","9,152",SBUX
+Total Long Term Debt,"13,586","14,014","13,931","13,120",SBUX
+Total Debt,"14,786","16,013","15,130","15,044",SBUX
+Minority Interest,7,7,8,8,SBUX
+"Other Liabilities, Total","14,777","14,664","14,482","14,405",SBUX
+Total Liabilities,"37,291","37,790","36,823","36,685",SBUX
+Common Stock,1,1,1,1,SBUX
+Additional Paid-In Capital,41,41,117,205,SBUX
+Ret. Earn.(Accum. Deficit),"(8,753)","(9,071)","(8,720)","(8,450)",SBUX
+Unrealized Gain (Loss),(1),(9),(11),(16),SBUX
+Cum. Trans. Adjustment,(47),(85),(482),(856),SBUX
+Other Comprehensive Income,302,355,428,408,SBUX
+"Other Equity, Total",255,269,(55),(448),SBUX
+Total Equity,"(8,457)","(8,768)","(8,667)","(8,707)",SBUX
+Total Liabilities & Shareholders’ Equity,"28,834","29,022","28,156","27,978",SBUX
+Ttl Comm. Shares Outs.,"1,152","1,147","1,147","1,148",SBUX
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,SBUX

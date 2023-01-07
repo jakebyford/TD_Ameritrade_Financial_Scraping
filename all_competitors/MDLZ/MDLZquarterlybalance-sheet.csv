@@ -1,0 +1,58 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash and Short Term Invs,"3,546","1,946","1,924","2,177",MDLZ
+"Trade Accts Recvble, Gross","2,386","2,991","2,515","2,861",MDLZ
+Prov. for Doubtful Accts,(49),(48),(48),(42),MDLZ
+"Trade Accts Recvble, Net","2,337","2,943","2,467","2,819",MDLZ
+Other Receivables,851,749,715,684,MDLZ
+"Total Receivables, Net","3,188","3,692","3,182","3,503",MDLZ
+Invent. - Finished Goods,"2,054","2,093","2,156","2,492",MDLZ
+Invent. - Raw Materials,770,891,"1,028","1,037",MDLZ
+Inventories - Other,(116),(146),(146),(136),MDLZ
+Total Inventory,"2,708","2,838","3,038","3,393",MDLZ
+Restricted Cash - Current,7,7,11,18,MDLZ
+Other Current Assets,893,"1,136","1,055",819,MDLZ
+"Other Curr. Assets, Total",900,"1,143","1,066",837,MDLZ
+Total Current Assets,"10,342","9,619","9,210","9,910",MDLZ
+Buildings,"3,139","3,322","3,235","3,123",MDLZ
+Land/Improvements,379,405,381,349,MDLZ
+Machinery/Equipment,"11,842","12,043","11,746","11,474",MDLZ
+Construction in Progress,732,669,728,783,MDLZ
+Other Prop./Plant/Equip.,613,653,626,668,MDLZ
+Prop./Plant/Equip. - Gross,"16,705","17,092","16,716","16,397",MDLZ
+Accumulated Depreciation,"(7,434)","(7,424)","(7,337)","(7,097)",MDLZ
+Prop./Plant/Equip. - Net,"9,271","9,668","9,379","9,300",MDLZ
+"Goodwill, Net","21,978","22,618","22,103","22,387",MDLZ
+Intangibles - Gross,"20,290","20,852","20,342","21,274",MDLZ
+Accum. Intangible Amort.,"(1,999)","(2,023)","(2,003)","(1,961)",MDLZ
+Intangibles - Net,"18,291","18,829","18,339","19,313",MDLZ
+Long Term Investments,"5,289","5,255","4,655","4,498",MDLZ
+Pension Bene. - Overfunded,"1,009","1,046","1,141","1,078",MDLZ
+Def. Inc. Tax - LT Asset,541,561,551,482,MDLZ
+Other Long Term Assets,371,398,636,"1,068",MDLZ
+Total Assets,"67,092","67,994","66,014","68,036",MDLZ
+Accounts Payable,"6,730","7,241","6,787","6,726",MDLZ
+Accrued Expenses,"2,919","2,993","2,880","3,087",MDLZ
+Notes Payable/ST Debt,216,606,605,"1,753",MDLZ
+Curr. Port. LT Dbt/Cap Ls.,"1,746",754,746,100,MDLZ
+"Other Curr. Lblts, Total","2,397","2,509","2,560","2,655",MDLZ
+Total Current Liabilities,"14,008","14,103","13,578","14,321",MDLZ
+Total Long Term Debt,"17,550","18,344","17,861","19,811",MDLZ
+Total Debt,"19,512","19,704","19,212","21,664",MDLZ
+Deferred Income Tax,"3,444","3,521","3,580","3,401",MDLZ
+Minority Interest,54,55,42,29,MDLZ
+Pension Benefits - Underfunded,982,949,890,828,MDLZ
+Other LT Liabilities,"2,785","2,861","2,552","3,005",MDLZ
+"Other Liabilities, Total","3,767","3,810","3,442","3,833",MDLZ
+Total Liabilities,"38,823","39,833","38,503","41,395",MDLZ
+Common Stock,0,0,--,--,MDLZ
+Additional Paid-In Capital,"32,097","32,053","32,086","32,116",MDLZ
+Ret. Earn.(Accum. Deficit),"30,806","31,163","31,431","31,437",MDLZ
+Treasury Stock - Common,"(24,010)","(24,630)","(25,368)","(25,681)",MDLZ
+Cum. Trans. Adjustment,"(9,097)","(9,043)","(9,431)","(10,086)",MDLZ
+Min. Pension Lblty Adj.,"(1,379)","(1,286)","(1,119)","(1,062)",MDLZ
+Other Comprehensive Income,(148),(96),(88),(83),MDLZ
+"Other Equity, Total","(10,624)","(10,425)","(10,638)","(11,231)",MDLZ
+Total Equity,"28,269","28,161","27,511","26,641",MDLZ
+Total Liabilities & Shareholders’ Equity,"67,092","67,994","66,014","68,036",MDLZ
+Ttl Comm. Shares Outs.,"1,392","1,384","1,372","1,367",MDLZ
+Trsy. Shrs-Comm. Primary Iss.,605,613,624,629,MDLZ

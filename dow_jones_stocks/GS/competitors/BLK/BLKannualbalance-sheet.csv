@@ -1,0 +1,50 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash and Short Term Invs,"7,038","6,488","4,829","8,664","9,323",BLK
+"Total Receivables, Net","2,699","2,657","3,179","3,535","3,789",BLK
+Total Current Assets,--,--,--,--,--,BLK
+Buildings,--,597,628,656,678,BLK
+Land/Improvements,--,6,6,6,6,BLK
+Machinery/Equipment,--,676,808,"1,001","1,105",BLK
+Construction in Progress,--,48,83,46,159,BLK
+Other Prop./Plant/Equip.,"1,250",66,739,719,"1,691",BLK
+Prop./Plant/Equip. - Gross,"1,250","1,393","2,264","2,428","3,639",BLK
+Accumulated Depreciation,(658),(750),(880),"(1,098)","(1,256)",BLK
+Prop./Plant/Equip. - Net,592,643,"1,384","1,330","2,383",BLK
+"Goodwill, Net","13,220","13,526","14,562","14,551","15,351",BLK
+Intangibles - Gross,"17,608","18,083","18,554","2,385","2,683",BLK
+Accum. Intangible Amort.,(219),(244),(185),(291),(399),BLK
+Intangibles - Net,"17,389","17,839","18,369","18,263","18,453",BLK
+Long Term Investments,"3,474","4,476","5,489","6,919","7,262",BLK
+Restricted Cash - LT,--,--,17,17,17,BLK
+Other Assets,"175,829","113,944","120,793","123,703","96,070",BLK
+"Other Assets, Total","175,829","113,944","120,793","123,703","96,070",BLK
+Total Assets,"220,241","159,573","168,622","176,982","152,648",BLK
+Payable/Accrued,"1,161","1,292","1,167","1,028","1,397",BLK
+Accrued Expenses,"2,153","1,988","2,833","3,254","4,823",BLK
+Notes Payable/ST Debt,0,0,0,0,0,BLK
+Total Current Liabilities,--,--,--,--,--,BLK
+Total Long Term Debt,"5,014","4,979","4,955","7,264","7,446",BLK
+Total Debt,"5,014","4,979","4,955","7,264","7,446",BLK
+Deferred Income Tax,"3,527","3,571","3,734","3,673","2,758",BLK
+Minority Interest,466,"1,166","1,382","2,373","1,200",BLK
+"Other Liabilities, Total","176,122","114,203","121,004","124,107","97,331",BLK
+Total Liabilities,"188,443","127,199","135,075","141,699","114,955",BLK
+"Pref. Stock-Non Rdmbl, Net",0,0,--,0,--,BLK
+Common Stock,2,2,2,2,2,BLK
+Additional Paid-In Capital,"19,256","19,168","19,186","19,293","19,640",BLK
+Ret. Earn.(Accum. Deficit),"16,939","19,282","21,662","24,334","27,688",BLK
+Treasury Stock - Common,"(3,967)","(5,387)","(6,732)","(8,009)","(9,087)",BLK
+Cum. Trans. Adjustment,(436),(695),(571),(337),(550),BLK
+Min. Pension Lblty Adj.,4,4,--,--,--,BLK
+"Other Equity, Total",(432),(691),(571),(337),(550),BLK
+Total Equity,"31,798","32,374","33,547","35,283","37,693",BLK
+Total Liabilities & Shareholders’ Equity,"220,241","159,573","168,622","176,982","152,648",BLK
+Ttl Comm. Shares Outs.,160,158,154,153,152,BLK
+Trsy. Shrs-Comm. Primary Iss.,11,14,17,20,20,BLK
+Shrs Out-Pref Primary Iss.,--,--,--,0,0,BLK
+Shrs Out-Pref Stk Iss. 2,--,--,--,20,--,BLK
+Shrs Out-Pref Stk Iss. 3,0,0,0,0,0,BLK
+Shrs Out-Pref Stk Iss. 4,1,1,1,0,0,BLK
+Trsry Shrs-Pref. Iss. 1,--,--,--,0,0,BLK
+Trsry Shrs-Pref. Iss. 3,0,0,0,0,0,BLK
+Trsry Shrs-Pref. Iss. 4,0,0,0,0,0,BLK

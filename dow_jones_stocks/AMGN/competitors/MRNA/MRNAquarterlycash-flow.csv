@@ -1,0 +1,30 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"12,202","3,657","5,854","6,897",MRNA
+Depreciation/Depletion,232,79,155,268,MRNA
+Deferred Taxes,(318),(146),(376),(473),MRNA
+Unusual Items,0,--,--,--,MRNA
+Other Non-Cash Items,196,62,138,235,MRNA
+Non-Cash Items,196,62,138,235,MRNA
+Accounts Receivable,"(1,784)",1,484,480,MRNA
+Inventories,"(1,394)",(501),(480),(636),MRNA
+Prepaid Expenses,(489),(414),(324),(669),MRNA
+Accounts Payable,204,(35),(56),89,MRNA
+Accrued Expenses,948,114,306,356,MRNA
+Changes in Working Capital,"1,308",(889),"(2,704)","(3,608)",MRNA
+Total Cash from Operations,"13,620","2,763","3,067","3,319",MRNA
+Capital Expenditures,(284),(132),(219),(308),MRNA
+Sale/Maturity of Investment,"4,443","1,818","3,915","5,140",MRNA
+Purchase of Investments,"(12,682)","(5,607)","(8,769)","(8,960)",MRNA
+"OtherInvestCashFlowItms,Tot","(8,239)","(3,789)","(4,854)","(3,820)",MRNA
+Total Cash from Investing,"(8,523)","(3,921)","(5,073)","(4,128)",MRNA
+Sale/Issuance of Common,0,--,--,--,MRNA
+Repurch/Retirement Common,(857),(623),"(1,921)","(2,927)",MRNA
+"Common Stock, Net",(857),(623),"(1,921)","(2,927)",MRNA
+Options Exercised,124,12,29,40,MRNA
+"Iss (Retirmnt) of Stock,Net",(733),(611),"(1,892)","(2,887)",MRNA
+"Iss (Retirmnt) of Debt, Net",(140),(31),(77),(123),MRNA
+Total Cash From Financing,(873),(642),"(1,969)","(3,010)",MRNA
+Net Change in Cash,"4,224","(1,800)","(3,975)","(3,819)",MRNA
+NetCash-BeginBal/RsvdforFutUse,"2,636","6,860","6,860","6,860",MRNA
+NetCash-EndBal/RsrvforFutUse,"6,860","5,060","2,885","3,041",MRNA
+"Depreciation, Supplemental",232,79,155,268,MRNA

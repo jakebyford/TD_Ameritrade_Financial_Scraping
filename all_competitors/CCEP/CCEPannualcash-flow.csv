@@ -1,0 +1,43 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"1,159","1,205","1,454",695,"1,382",CCEP
+Depreciation/Depletion,443,461,587,665,693,CCEP
+Amortization,47,51,52,62,89,CCEP
+Non-Cash Items,114,110,111,125,145,CCEP
+"Cash Taxes Pd, Supplemental",247,263,270,273,306,CCEP
+"Cash Interest Pd, Suppl",94,81,86,91,97,CCEP
+Accounts Receivable,108,72,5,208,(242),CCEP
+Inventories,16,(45),(25),34,(1),CCEP
+Accounts Payable,--,--,--,(112),8,CCEP
+Payable/Accrued,142,297,(63),53,507,CCEP
+Changes in Working Capital,(140),(21),(300),(57),(192),CCEP
+Total Cash from Operations,"1,623","1,806","1,904","1,490","2,117",CCEP
+Purchase of Fixed Assets,(484),(525),(506),(348),(349),CCEP
+Purchase/Acq of Intangibles,(36),(75),(96),(60),(97),CCEP
+Capital Expenditures,(520),(600),(602),(408),(446),CCEP
+Acquisition of Business,--,--,--,--,"(5,401)",CCEP
+Sale of Business,0,0,--,--,--,CCEP
+Sale of Fixed Assets,32,4,11,49,25,CCEP
+Sale/Maturity of Investment,--,--,--,--,223,CCEP
+"Investment, Net",0,0,--,--,--,CCEP
+Purchase of Investments,--,--,(8),(11),(4),CCEP
+Other Investing Cash Flow,--,--,--,--,(2),CCEP
+"OtherInvestCashFlowItms,Tot",32,4,3,38,"(5,159)",CCEP
+Total Cash from Investing,(488),(596),(599),(370),"(5,605)",CCEP
+Financing Cash Flow Items,(96),(92),(84),(91),(165),CCEP
+Total Cash Dividends Paid,(489),(513),(574),(386),(638),CCEP
+"Common Stock, Net",0,(502),"(1,005)",(129),--,CCEP
+Options Exercised,13,25,26,14,28,CCEP
+"Iss (Retirmnt) of Stock,Net",13,(477),(979),(115),28,CCEP
+"Short Term Debt, Net",250,(131),101,(221),276,CCEP
+Long Term Debt Issued,--,--,987,"1,598","4,877",CCEP
+Long Term Debt Reduction,0,0,(753),(685),"(1,089)",CCEP
+"Long Term Debt, Net",0,0,234,913,"3,788",CCEP
+Total Debt Issued,350,398,--,--,--,CCEP
+Total Debt Reduction,"(1,180)",(444),--,--,--,CCEP
+"Iss (Retirmnt) of Debt, Net",(580),(177),335,692,"4,064",CCEP
+Total Cash From Financing,"(1,152)","(1,259)","(1,302)",100,"3,289",CCEP
+Foreign Exchange Effects,(9),(2),4,(13),83,CCEP
+Net Change in Cash,(26),(51),7,"1,207",(116),CCEP
+NetCash-BeginBal/RsvdforFutUse,386,360,309,316,"1,523",CCEP
+NetCash-EndBal/RsrvforFutUse,360,309,316,"1,523","1,407",CCEP
+"Depreciation, Supplemental",443,461,587,665,693,CCEP

@@ -1,0 +1,61 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Cash & Equivalents,"5,264","3,331","2,956","1,995",AMAT
+Short Term Investments,473,591,592,586,AMAT
+Cash and Short Term Invs,"5,737","3,922","3,548","2,581",AMAT
+"Trade Accts Recvble, Gross","4,434","4,912","4,985","6,097",AMAT
+Prov. for Doubtful Accts,(29),(29),(29),(29),AMAT
+"Trade Accts Recvble, Net","4,579","5,056","5,117","6,241",AMAT
+Other Receivables,384,633,576,461,AMAT
+"Total Receivables, Net","4,963","5,689","5,693","6,702",AMAT
+Invent. - Finished Goods,973,"1,117","1,314","1,687",AMAT
+Invent. - Work In Progress,974,"1,019","1,090","1,029",AMAT
+Invent. - Raw Materials,"1,351","1,585","1,752","1,807",AMAT
+Inventories - Other,"1,228","1,288","1,350","1,409",AMAT
+Total Inventory,"4,526","5,009","5,506","5,932",AMAT
+Prepaid Expenses,481,624,687,710,AMAT
+Total Current Assets,"15,707","15,244","15,434","15,925",AMAT
+Buildings,"1,847","1,963","2,007","2,027",AMAT
+Land/Improvements,334,381,389,387,AMAT
+Machinery/Equipment,"1,914","1,958","2,048","2,083",AMAT
+Construction in Progress,308,271,333,389,AMAT
+Other Prop./Plant/Equip.,994,"1,100","1,119","1,132",AMAT
+Prop./Plant/Equip. - Gross,"5,397","5,673","5,896","6,018",AMAT
+Accumulated Depreciation,"(3,127)","(3,210)","(3,301)","(3,322)",AMAT
+Prop./Plant/Equip. - Net,"2,270","2,463","2,595","2,696",AMAT
+"Goodwill, Net","3,479","3,479","3,713","3,700",AMAT
+Intangibles - Gross,"2,041","2,041","2,299","2,311",AMAT
+Accum. Intangible Amort.,"(1,947)","(1,956)","(1,962)","(1,972)",AMAT
+Intangibles - Net,94,85,337,339,AMAT
+Long Term Investments,"2,026","2,102","2,047","1,980",AMAT
+Note Rcvble - Long Term,262,588,561,691,AMAT
+Def. Inc. Tax - LT Asset,"1,590","1,498","1,474","1,395",AMAT
+Total Assets,"25,428","25,459","26,161","26,726",AMAT
+Accounts Payable,"1,502","1,558","1,686","1,755",AMAT
+Accrued Expenses,"1,178","1,319","1,550","1,657",AMAT
+Notes Payable/ST Debt,0,0,0,0,AMAT
+Dividends Payable,212,226,224,220,AMAT
+Customer Advances,"2,397","2,590","2,828","3,142",AMAT
+Income Taxes Payable,721,695,272,319,AMAT
+Other Current Liabilities,254,262,273,286,AMAT
+"Other Curr. Lblts, Total","3,584","3,773","3,597","3,967",AMAT
+Total Current Liabilities,"6,264","6,650","6,833","7,379",AMAT
+Total Long Term Debt,"5,454","5,455","5,456","5,457",AMAT
+Total Debt,"5,454","5,455","5,456","5,457",AMAT
+Pension Benefits - Underfunded,191,178,173,107,AMAT
+Other LT Liabilities,"1,629","1,597","1,629","1,589",AMAT
+"Other Liabilities, Total","1,820","1,775","1,802","1,696",AMAT
+Total Liabilities,"13,538","13,880","14,091","14,532",AMAT
+"Pref. Stock-Non Rdmbl, Net",--,--,--,0,AMAT
+Common Stock,9,9,9,8,AMAT
+Additional Paid-In Capital,"8,130","8,306","8,398","8,593",AMAT
+Ret. Earn.(Accum. Deficit),"33,827","35,137","36,520","37,892",AMAT
+Treasury Stock - Common,"(29,798)","(31,598)","(32,598)","(34,097)",AMAT
+Unrealized Gain (Loss),(16),(49),(46),(75),AMAT
+Cum. Trans. Adjustment,13,13,13,13,AMAT
+Min. Pension Lblty Adj.,(169),(169),(169),(88),AMAT
+Other Comprehensive Income,(106),(70),(57),(52),AMAT
+"Other Equity, Total",(262),(226),(213),(127),AMAT
+Total Equity,"11,890","11,579","12,070","12,194",AMAT
+Total Liabilities & Shareholders’ Equity,"25,428","25,459","26,161","26,726",AMAT
+Ttl Comm. Shares Outs.,883,869,860,844,AMAT
+Trsy. Shrs-Comm. Primary Iss.,"1,131","1,146","1,156","1,173",AMAT

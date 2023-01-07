@@ -1,0 +1,45 @@
+items,Q3 2022,Q4 2022,Q1 2023,Q2 2023,ticker
+Total Revenue,"10,513","11,840","11,445","12,275",ORCL
+"Cost of Revenue, Total","2,218","2,397","3,037","3,358",ORCL
+Selling/Gen/Admin Expense,"2,162","2,414","2,380","2,336",ORCL
+Labor & Related Expense,177,186,208,246,ORCL
+"Sell/Gen/AdminExpenses,Tot","2,339","2,600","2,588","2,582",ORCL
+Research & Development,"1,816","1,965","2,093","2,158",ORCL
+Depreciation/Amortization,279,268,919,907,ORCL
+Restructuring Charge,19,102,144,137,ORCL
+Other Unusual Expnse (In),20,6,41,62,ORCL
+Unusual Expense (Income),39,108,185,199,ORCL
+Total Operating Expense,"6,691","7,338","8,822","9,204",ORCL
+Total Operating Income,"3,822","4,502","2,623","3,071",ORCL
+"Inter Expse,Net Non-Operat",(667),(704),(787),(856),ORCL
+"Inter Income, Non-Operating",16,38,38,52,ORCL
+"Invest Income, Non-Operat",(71),(143),(195),(136),ORCL
+"Inter/Invest Inc, Non-Oper",(55),(105),(157),(84),ORCL
+OtherNon-OperatInc (Expnse),(260),(69),(23),13,ORCL
+"Other, Net",(260),(69),(23),13,ORCL
+Income Before Tax,"2,840","3,624","1,656","2,144",ORCL
+Income Tax - Total,521,435,108,403,ORCL
+Income After Tax,"2,319","3,189","1,548","1,741",ORCL
+Net Inc Before Extra Items,"2,319","3,189","1,548","1,741",ORCL
+Total Net Income,"2,319","3,189","1,548","1,741",ORCL
+Income Available to Common Excl. Extra. Items,"2,319","3,189","1,548","1,741",ORCL
+Income Available to Common Incl. Extra. Items,"2,319","3,189","1,548","1,741",ORCL
+Basic/Primary Weighted Average Shares,"2,670","2,667","2,685","2,695",ORCL
+Basic/Primary EPS Excl. Extra. Items,0.87,1.20,0.58,0.65,ORCL
+Basic/Primary EPS Incl. Extra. Items,0.87,1.20,0.58,0.65,ORCL
+Diluted Weighted Average Shares,"2,754","2,744","2,747","2,746",ORCL
+Diluted EPS Excl. Extra. Items,0.84,1.16,0.56,0.63,ORCL
+Diluted EPS Incl. Extra. Items,0.84,1.16,0.56,0.63,ORCL
+Div/Share-ComStockPrimIssue,0.32,0.32,0.32,0.32,ORCL
+Gross Divid - Common Stock,855,854,860,863,ORCL
+Pro Forma Net Income,--,--,--,--,ORCL
+"Interest Expense, Suppl",667,704,787,856,ORCL
+"Depreciat/Amort, Suppl",496,563,547,591,ORCL
+Total Special Items,39,108,185,199,ORCL
+Normalzd Income Before Tax,"2,879","3,732","1,841","2,343",ORCL
+Efct/SpecItemsIncTxs (STEC),7,13,12,37,ORCL
+IncTxsExcl ImpctofSpec Itms,528,448,120,440,ORCL
+Normalized Income After Tax,"2,351","3,284","1,721","1,903",ORCL
+Normalzd Inc Avail to Common,"2,351","3,284","1,721","1,903",ORCL
+Basic Normalized EPS,0.88,1.23,0.64,0.71,ORCL
+Diluted Normalized EPS,0.85,1.20,0.63,0.69,ORCL

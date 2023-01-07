@@ -1,0 +1,72 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash and Short Term Invs,617,"4,466","2,700","3,754","2,823",LIN
+"Trade Accts Recvble, Gross","1,814","4,368","4,628","4,638","4,904",LIN
+Prov. for Doubtful Accts,(138),(113),(306),(471),(405),LIN
+"Trade Accts Recvble, Net","1,676","4,538","4,690","4,329","4,633",LIN
+Other Receivables,34,42,--,--,--,LIN
+"Total Receivables, Net","1,710","4,580","4,690","4,329","4,633",LIN
+Invent. - Finished Goods,333,991,970,981,"1,000",LIN
+Invent. - Work In Progress,57,321,331,337,334,LIN
+Invent. - Raw Materials,224,339,396,411,399,LIN
+Total Inventory,614,"1,651","1,697","1,729","1,733",LIN
+Prepaid Expenses,185,367,516,520,527,LIN
+Discont. Ops.-Curr. Assets,0,"5,498",125,--,--,LIN
+Other Current Assets,159,710,624,592,443,LIN
+"Other Curr. Assets, Total",159,"6,208",749,592,443,LIN
+Total Current Assets,"3,285","17,272","10,352","10,924","10,159",LIN
+Buildings,"1,202","3,083","3,162","3,327","3,265",LIN
+Land/Improvements,589,"1,162","1,229","1,259","1,121",LIN
+Machinery/Equipment,"22,341","35,396","36,781","40,156","41,008",LIN
+Construction in Progress,"1,159","2,296","3,146","3,257","3,062",LIN
+Other Prop./Plant/Equip.,--,--,"1,025","1,090","1,016",LIN
+Prop./Plant/Equip. - Gross,"25,291","41,937","45,343","49,089","49,472",LIN
+Accumulated Depreciation,"(13,466)","(12,220)","(15,254)","(19,288)","(22,453)",LIN
+Prop./Plant/Equip. - Net,"11,825","29,717","30,089","29,801","27,019",LIN
+"Goodwill, Net","3,233","26,874","27,019","28,201","27,038",LIN
+Intangibles - Gross,"1,437","16,942","17,581","18,368","16,173",LIN
+Accum. Intangible Amort.,(652),(719),"(1,444)","(2,184)","(2,371)",LIN
+Intangibles - Net,785,"16,223","16,137","16,184","13,802",LIN
+LT Invt. - Affiliate Comp.,727,"1,838","2,027","2,061","2,619",LIN
+LT Investments - Other,12,76,40,23,18,LIN
+Long Term Investments,739,"1,914","2,067","2,084","2,637",LIN
+Note Rcvble - Long Term,54,135,150,201,105,LIN
+Deferred Charges,47,148,90,96,62,LIN
+Pension Bene. - Overfunded,17,140,78,55,139,LIN
+Def. Inc. Tax - LT Asset,198,510,243,268,242,LIN
+Other Long Term Assets,253,453,387,415,402,LIN
+Total Assets,"20,436","93,386","86,612","88,229","81,605",LIN
+Accounts Payable,922,"3,219","3,266","3,095","3,503",LIN
+Accrued Expenses,623,"2,203","2,200","2,522","2,560",LIN
+Notes Payable/ST Debt,238,"1,485","1,732","3,251","1,163",LIN
+Curr. Port. LT Dbt/Cap Ls.,979,"1,523","1,531",751,"1,709",LIN
+Customer Advances,9,"1,788","1,758","1,769","2,940",LIN
+Income Taxes Payable,242,657,370,542,429,LIN
+Other Payables,50,235,268,336,295,LIN
+Discontinued Operations,0,768,2,--,--,LIN
+Other Current Liabilities,244,"1,078","1,033","1,474","1,044",LIN
+"Other Curr. Lblts, Total",545,"4,526","3,431","4,121","4,708",LIN
+Total Current Liabilities,"3,307","12,956","12,160","13,740","13,643",LIN
+Long Term Debt,"7,783","12,288","10,576","12,027","11,206",LIN
+Capital Lease Obligations,--,--,117,125,129,LIN
+Total Long Term Debt,"7,783","12,288","10,693","12,152","11,335",LIN
+Total Debt,"9,000","15,296","13,956","16,154","14,207",LIN
+Deferred Income Tax,"1,236","7,611","7,236","7,236","6,998",LIN
+Minority Interest,504,"5,500","2,561","2,265","1,406",LIN
+Reserves,23,24,28,33,56,LIN
+Pension Benefits - Underfunded,851,"2,004","2,841","3,265","2,107",LIN
+Other LT Liabilities,714,"1,407","2,019","2,221","2,025",LIN
+"Other Liabilities, Total","1,588","3,435","4,888","5,519","4,188",LIN
+Total Liabilities,"14,418","41,790","37,538","40,912","37,570",LIN
+Common Stock,4,1,1,1,1,LIN
+Additional Paid-In Capital,"4,084","40,151","40,201","40,202","40,180",LIN
+Ret. Earn.(Accum. Deficit),"13,224","16,529","16,842","17,178","18,710",LIN
+Treasury Stock - Common,"(7,196)",(629),"(3,156)","(5,374)","(9,808)",LIN
+Unrealized Gain (Loss),0,(1),0,--,--,LIN
+Cum. Trans. Adjustment,"(3,455)","(3,590)","(3,380)","(2,818)","(3,993)",LIN
+Min. Pension Lblty Adj.,(642),(863),"(1,407)","(1,876)","(1,130)",LIN
+Other Comprehensive Income,(1),(2),(27),4,75,LIN
+"Other Equity, Total","(4,098)","(4,455)","(4,814)","(4,690)","(5,048)",LIN
+Total Equity,"6,018","51,596","49,074","47,317","44,035",LIN
+Total Liabilities & Shareholders’ Equity,"20,436","93,386","86,612","88,229","81,605",LIN
+Ttl Comm. Shares Outs.,287,547,534,523,509,LIN
+Trsy. Shrs-Comm. Primary Iss.,96,4,18,29,43,LIN

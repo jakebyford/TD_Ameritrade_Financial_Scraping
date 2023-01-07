@@ -1,0 +1,43 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,964,955,"1,030","1,150",FTNT
+"Cost of Revenue, Total",228,254,251,283,FTNT
+Selling/Gen/Admin Expense,374,392,427,435,FTNT
+Labor & Related Expense,35,34,34,33,FTNT
+"Sell/Gen/AdminExpenses,Tot",409,426,461,468,FTNT
+Research & Development,113,125,124,134,FTNT
+Unusual Expense (Income),(1),(1),(1),(1),FTNT
+Loss(Gain)/Sale Asts (Oper),(1),(1),(1),(1),FTNT
+Total Operating Expense,749,804,835,884,FTNT
+Total Operating Income,215,151,195,266,FTNT
+"Inter Expse,Net Non-Operat",(5),(5),(5),(5),FTNT
+"Inter/Invest Inc, Non-Oper",1,1,2,5,FTNT
+OtherNon-OperatInc (Expnse),(4),(9),(9),(1),FTNT
+"Other, Net",(4),(9),(9),(1),FTNT
+Income Before Tax,207,139,184,265,FTNT
+Income Tax - Total,4,(8),2,27,FTNT
+Income After Tax,204,147,182,237,FTNT
+Minority Interest,0,0,0,1,FTNT
+Equity In Affiliates,(5),(9),(8),(6),FTNT
+Net Inc Before Extra Items,199,138,174,232,FTNT
+Total Net Income,199,138,174,232,FTNT
+Income Available to Common Excl. Extra. Items,199,138,174,232,FTNT
+Income Available to Common Incl. Extra. Items,199,138,174,232,FTNT
+Basic/Primary Weighted Average Shares,815,804,795,786,FTNT
+Basic/Primary EPS Excl. Extra. Items,0.24,0.17,0.22,0.29,FTNT
+Basic/Primary EPS Incl. Extra. Items,0.24,0.17,0.22,0.29,FTNT
+Diluted Weighted Average Shares,836,821,810,799,FTNT
+Diluted EPS Excl. Extra. Items,0.24,0.17,0.21,0.29,FTNT
+Diluted EPS Incl. Extra. Items,0.24,0.17,0.21,0.29,FTNT
+Div/Share-ComStockPrimIssue,--,0.00,0.00,0.00,FTNT
+Gross Divid - Common Stock,0,0,0,0,FTNT
+Pro Forma Net Income,--,--,--,--,FTNT
+"Interest Expense, Suppl",5,5,5,5,FTNT
+"Depreciat/Amort, Suppl",19,19,19,21,FTNT
+Total Special Items,(1),(1),(1),(1),FTNT
+Normalzd Income Before Tax,206,138,183,264,FTNT
+Efct/SpecItemsIncTxs (STEC),0,0,0,0,FTNT
+IncTxsExcl ImpctofSpec Itms,4,(8),2,27,FTNT
+Normalized Income After Tax,202,146,180,236,FTNT
+Normalzd Inc Avail to Common,198,138,172,231,FTNT
+Basic Normalized EPS,0.24,0.17,0.22,0.29,FTNT
+Diluted Normalized EPS,0.24,0.17,0.21,0.29,FTNT

@@ -1,0 +1,41 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"1,864",371,949,"1,634",SHW
+Depreciation/Depletion,263,66,130,195,SHW
+Amortization,310,78,157,238,SHW
+Deferred Taxes,(80),(12),(24),(109),SHW
+Unusual Items,104,0,0,0,SHW
+Other Non-Cash Items,555,158,306,459,SHW
+Non-Cash Items,659,158,306,459,SHW
+"Cash Taxes Pd, Supplemental",466,39,177,430,SHW
+"Cash Interest Pd, Suppl",339,76,178,267,SHW
+Accounts Receivable,(288),--,--,--,SHW
+Inventories,(228),--,--,--,SHW
+Accounts Payable,346,--,--,--,SHW
+Accrued Expenses,(412),(110),(209),(313),SHW
+Changes in Working Capital,(771),(634),(877),"(1,138)",SHW
+Total Cash from Operations,"2,245",26,640,"1,279",SHW
+Capital Expenditures,(372),(106),(236),(411),SHW
+Acquisition of Business,(211),0,(212),(627),SHW
+Sale of Business,123,0,0,0,SHW
+Sale of Fixed Assets,15,11,15,33,SHW
+"Investment, Net",(31),(100),(41),(46),SHW
+"OtherInvestCashFlowItms,Tot",(104),(89),(238),(640),SHW
+Total Cash from Investing,(476),(196),(474),"(1,051)",SHW
+Financing Cash Flow Items,(35),(32),(34),(34),SHW
+Total Cash Dividends Paid,(587),(151),(307),(463),SHW
+Sale/Issuance of Common,12,22,22,22,SHW
+Repurch/Retirement Common,"(2,752)",(407),(704),(751),SHW
+"Common Stock, Net","(2,741)",(385),(682),(729),SHW
+Options Exercised,193,12,26,39,SHW
+"Iss (Retirmnt) of Stock,Net","(2,548)",(374),(655),(690),SHW
+"Short Term Debt, Net",764,972,"1,249",185,SHW
+Long Term Debt Issued,995,--,--,"1,000",SHW
+Long Term Debt Reduction,(423),--,(260),(260),SHW
+"Long Term Debt, Net",572,--,(260),739,SHW
+"Iss (Retirmnt) of Debt, Net","1,336",972,988,924,SHW
+Total Cash From Financing,"(1,834)",416,(8),(264),SHW
+Foreign Exchange Effects,5,(11),(11),0,SHW
+Net Change in Cash,(61),235,147,(35),SHW
+NetCash-BeginBal/RsvdforFutUse,227,166,166,166,SHW
+NetCash-EndBal/RsrvforFutUse,166,401,313,131,SHW
+"Depreciation, Supplemental",263,66,130,195,SHW

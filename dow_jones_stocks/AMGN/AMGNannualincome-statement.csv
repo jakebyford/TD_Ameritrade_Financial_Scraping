@@ -1,0 +1,45 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"22,849","23,747","23,362","25,424","25,979",AMGN
+"Cost of Revenue, Total","4,069","4,101","4,356","6,159","6,454",AMGN
+Selling/Gen/Admin Expense,"4,250","4,658","4,361","4,768","6,030",AMGN
+Advertising Expense,620,674,789,962,843,AMGN
+"Sell/Gen/AdminExpenses,Tot","4,870","5,332","5,150","5,730","6,873",AMGN
+Research & Development,"3,562","3,737","4,116","4,207","4,819",AMGN
+Restructuring Charge,83,--,47,--,--,AMGN
+Impair-Assets Held for Use,284,330,--,--,--,AMGN
+Other Unusual Expnse (In),--,(38),--,--,--,AMGN
+Unusual Expense (Income),367,292,47,--,--,AMGN
+"Other Operat Expse, Total",8,(58),19,189,194,AMGN
+Total Operating Expense,"12,876","13,404","13,688","16,285","18,340",AMGN
+Total Operating Income,"9,973","10,343","9,674","9,139","7,639",AMGN
+"Inter Expse,Net Non-Operat","(1,304)","(1,392)","(1,289)","(1,262)","(1,197)",AMGN
+"Inter/Invest Inc, Non-Oper",24,(207),110,--,--,AMGN
+"Inter Inc(Exp),Net Non-Oper",904,801,643,256,--,AMGN
+"Other, Net",--,--,--,--,259,AMGN
+Income Before Tax,"9,597","9,545","9,138","8,133","6,701",AMGN
+Income Tax - Total,"1,518","1,151","1,296",869,808,AMGN
+Income After Tax,"8,079","8,394","7,842","7,264","5,893",AMGN
+Net Inc Before Extra Items,"8,079","8,394","7,842","7,264","5,893",AMGN
+Total Extraordinary Items,"(6,100)",--,--,--,--,AMGN
+Total Net Income,"1,979","8,394","7,842","7,264","5,893",AMGN
+Income Available to Common Excl. Extra. Items,"8,079","8,394","7,842","7,264","5,893",AMGN
+Income Available to Common Incl. Extra. Items,"1,979","8,394","7,842","7,264","5,893",AMGN
+Basic/Primary Weighted Average Shares,731,661,605,586,570,AMGN
+Basic/Primary EPS Excl. Extra. Items,11.05,12.70,12.96,12.40,10.34,AMGN
+Basic/Primary EPS Incl. Extra. Items,2.71,12.70,12.96,12.40,10.34,AMGN
+Diluted Weighted Average Shares,735,665,609,590,573,AMGN
+Diluted EPS Excl. Extra. Items,10.99,12.62,12.88,12.31,10.28,AMGN
+Diluted EPS Incl. Extra. Items,2.69,12.62,12.88,12.31,10.28,AMGN
+Div/Share-ComStockPrimIssue,4.60,5.28,5.80,6.40,7.04,AMGN
+Gross Divid - Common Stock,"3,487","3,482","3,555","3,843","4,098",AMGN
+Pro Forma Net Income,--,--,--,--,--,AMGN
+"Interest Expense, Suppl","1,304","1,392","1,289","1,262","1,197",AMGN
+"Depreciat/Amort, Suppl",655,646,806,801,798,AMGN
+Total Special Items,367,292,47,--,--,AMGN
+Normalzd Income Before Tax,"9,964","9,837","9,185","8,133","6,701",AMGN
+Efct/SpecItemsIncTxs (STEC),58,35,7,--,--,AMGN
+IncTxsExcl ImpctofSpec Itms,"1,576","1,186","1,303",869,808,AMGN
+Normalized Income After Tax,"8,388","8,651","7,882","7,264","5,893",AMGN
+Normalzd Inc Avail to Common,"8,388","8,651","7,882","7,264","5,893",AMGN
+Basic Normalized EPS,11.47,13.09,13.03,12.40,10.34,AMGN
+Diluted Normalized EPS,11.41,13.01,12.94,12.31,10.28,AMGN

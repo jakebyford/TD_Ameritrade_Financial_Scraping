@@ -1,0 +1,38 @@
+items,Q4 2020,Q2 2021,Q4 2021,Q2 2022,ticker
+Total Revenue,"5,769","5,918","7,845","8,280",CCEP
+"Cost of Revenue, Total","3,641","3,836","4,824","5,288",CCEP
+"Sell/Gen/AdminExpenses,Tot","1,521","1,558","2,012","2,025",CCEP
+Unusual Expense (Income),62,4,13,--,CCEP
+Total Operating Expense,"5,224","5,398","6,849","7,313",CCEP
+Total Operating Income,545,520,996,967,CCEP
+"Inter Income, Non-Operating",16,14,29,30,CCEP
+"Invest Income, Non-Operat",(72),(78),(94),(93),CCEP
+"Inter/Invest Inc, Non-Oper",(56),(64),(65),(63),CCEP
+OtherNon-OperatInc (Expnse),(5),(1),(4),(6),CCEP
+"Other, Net",(5),(1),(4),(6),CCEP
+Income Before Tax,484,455,927,898,CCEP
+Income Tax - Total,112,209,185,223,CCEP
+Income After Tax,372,246,742,675,CCEP
+Minority Interest,--,(2),(4),(8),CCEP
+Net Inc Before Extra Items,372,244,738,667,CCEP
+Total Net Income,372,244,738,667,CCEP
+Income Available to Common Excl. Extra. Items,372,244,738,667,CCEP
+Income Available to Common Incl. Extra. Items,372,244,738,667,CCEP
+Basic/Primary Weighted Average Shares,456,455,457,457,CCEP
+Basic/Primary EPS Excl. Extra. Items,0.82,0.54,1.61,1.46,CCEP
+Basic/Primary EPS Incl. Extra. Items,0.82,0.54,1.61,1.46,CCEP
+Diluted Weighted Average Shares,458,457,457,458,CCEP
+Diluted EPS Excl. Extra. Items,0.81,0.53,1.61,1.46,CCEP
+Diluted EPS Incl. Extra. Items,0.81,0.53,1.61,1.46,CCEP
+Div/Share-ComStockPrimIssue,0.82,0.00,1.43,0.57,CCEP
+Gross Divid - Common Stock,387,0,639,257,CCEP
+Pro Forma Net Income,--,--,--,--,CCEP
+"Depreciat/Amort, Suppl",362,300,393,336,CCEP
+Total Special Items,258,92,61,(106),CCEP
+Normalzd Income Before Tax,742,547,988,792,CCEP
+Efct/SpecItemsIncTxs (STEC),72,28,15,19,CCEP
+IncTxsExcl ImpctofSpec Itms,184,237,200,242,CCEP
+Normalized Income After Tax,558,310,788,550,CCEP
+Normalzd Inc Avail to Common,558,308,784,542,CCEP
+Basic Normalized EPS,1.22,0.68,1.72,1.19,CCEP
+Diluted Normalized EPS,1.22,0.67,1.72,1.18,CCEP

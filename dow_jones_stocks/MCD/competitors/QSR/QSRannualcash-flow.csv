@@ -1,0 +1,39 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"1,235","1,144","1,111",750,"1,253",QSR
+Depreciation/Depletion,182,180,185,189,201,QSR
+Deferred Taxes,(742),29,58,(208),(5),QSR
+Unusual Items,150,(40),(33),129,98,QSR
+Equity in Net Earnings/Loss,(12),(22),(11),39,4,QSR
+Other Non-Cash Items,176,49,89,228,37,QSR
+Non-Cash Items,314,(13),45,396,139,QSR
+"Cash Taxes Pd, Supplemental",200,433,248,267,256,QSR
+"Cash Interest Pd, Suppl",447,561,584,463,404,QSR
+Accounts Receivable,(30),19,(53),(30),8,QSR
+Inventories,19,(7),(15),(10),12,QSR
+Accounts Payable,14,41,112,(183),149,QSR
+Accrued Expenses,360,(219),(51),16,67,QSR
+Changes in Working Capital,402,(175),77,(206),138,QSR
+Total Cash from Operations,"1,391","1,165","1,476",921,"1,726",QSR
+Capital Expenditures,(37),(86),(62),(117),(106),QSR
+Acquisition of Business,"(1,636)",0,0,--,"(1,004)",QSR
+Sale of Fixed Assets,26,8,8,12,16,QSR
+Sale/Maturity of Investment,--,16,--,--,--,QSR
+"Investment, Net",772,17,24,33,5,QSR
+Other Investing Cash Flow,17,1,0,(7),(14),QSR
+"OtherInvestCashFlowItms,Tot",(821),42,32,38,(997),QSR
+Total Cash from Investing,(858),(44),(30),(79),"(1,103)",QSR
+Financing Cash Flow Items,(73),2,(27),(91),(74),QSR
+Total Cash Dividends Paid,(664),(728),(901),(959),(974),QSR
+"Common Stock, Net",--,--,--,--,(551),QSR
+"Preferred Stock, Net","(3,336)",(621),0,(380),0,QSR
+Options Exercised,29,61,102,82,60,QSR
+"Iss (Retirmnt) of Stock,Net","(3,307)",(560),102,(298),(491),QSR
+Long Term Debt Issued,"5,850",75,"2,250","5,235","1,335",QSR
+Long Term Debt Reduction,"(2,742)",(74),"(2,266)","(4,708)",(889),QSR
+"Iss (Retirmnt) of Debt, Net","3,108",1,(16),527,446,QSR
+Total Cash From Financing,(936),"(1,285)",(842),(821),"(1,093)",QSR
+Foreign Exchange Effects,24,(20),16,6,(3),QSR
+Net Change in Cash,(379),(184),620,27,(473),QSR
+NetCash-BeginBal/RsvdforFutUse,"1,476","1,097",913,"1,533","1,560",QSR
+NetCash-EndBal/RsrvforFutUse,"1,097",913,"1,533","1,560","1,087",QSR
+"Depreciation, Supplemental",182,180,185,189,201,QSR

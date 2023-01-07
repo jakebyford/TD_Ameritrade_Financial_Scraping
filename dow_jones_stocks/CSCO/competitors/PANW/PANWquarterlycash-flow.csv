@@ -1,0 +1,32 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Net Income,(197),(270),(267),20,PANW
+Depreciation/Depletion,139,210,283,71,PANW
+Unusual Items,--,--,0,--,PANW
+Other Non-Cash Items,732,"1,086","1,448",379,PANW
+Non-Cash Items,732,"1,086","1,448",379,PANW
+Accounts Receivable,288,0,(902),904,PANW
+Prepaid Expenses,(73),(99),(141),(41),PANW
+Other Assets,(151),(257),(459),(60),PANW
+Accounts Payable,60,52,69,(1),PANW
+Accrued Expenses,(152),(96),(17),(220),PANW
+Changes in Working Capital,398,435,521,767,PANW
+Total Cash from Operations,"1,072","1,461","1,985","1,237",PANW
+Capital Expenditures,(115),(154),(193),(40),PANW
+Acquisition of Business,(17),(17),(37),0,PANW
+Sale/Maturity of Investment,684,"1,006","1,568",833,PANW
+Purchase of Investments,"(1,055)","(1,296)","(2,272)","(2,113)",PANW
+"OtherInvestCashFlowItms,Tot",(389),(308),(741),"(1,280)",PANW
+Total Cash from Investing,(504),(461),(933),"(1,320)",PANW
+Financing Cash Flow Items,(29),(40),(50),(14),PANW
+"Common Stock, Net",(550),(550),(892),(23),PANW
+Options Exercised,59,136,137,68,PANW
+Warrants Converted,--,--,0,--,PANW
+"Iss (Retirmnt) of Stock,Net",(491),(414),(756),45,PANW
+"Long Term Debt, Net",--,--,(1),--,PANW
+Total Debt Issued,--,--,0,--,PANW
+"Iss (Retirmnt) of Debt, Net",--,--,(1),--,PANW
+Total Cash From Financing,(520),(454),(807),31,PANW
+Net Change in Cash,48,546,245,(52),PANW
+NetCash-BeginBal/RsvdforFutUse,"1,880","1,880","1,880","2,125",PANW
+NetCash-EndBal/RsrvforFutUse,"1,928","2,426","2,125","2,073",PANW
+"Depreciation, Supplemental",139,210,283,71,PANW

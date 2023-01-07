@@ -1,0 +1,64 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash and Short Term Invs,"4,150","5,418","17,914","15,959","11,615",DIS
+"Trade Accts Recvble, Gross","8,268","12,882","11,299","11,177",--,DIS
+Prov. for Doubtful Accts,(192),(295),(426),(170),--,DIS
+"Trade Accts Recvble, Net","8,076","12,587","10,873","11,007","12,652",DIS
+Other Receivables,"1,258","2,894","1,835","2,360",--,DIS
+"Total Receivables, Net","9,334","15,481","12,708","13,367","12,652",DIS
+Total Inventory,"1,392","1,649","1,583","1,331","1,742",DIS
+Prepaid Expenses,476,--,--,--,--,DIS
+Restricted Cash - Current,--,26,3,3,--,DIS
+Other Current Assets,"1,473","5,550","3,043","2,997","3,089",DIS
+"Other Curr. Assets, Total","1,473","5,576","3,046","3,000","3,089",DIS
+Total Current Assets,"16,825","28,124","35,251","33,657","29,098",DIS
+Buildings,"29,927","30,675","32,307","33,823",--,DIS
+Land/Improvements,"7,035","7,814","7,863","8,192","1,140",DIS
+Construction in Progress,"3,942","4,264","4,449","4,521","4,814",DIS
+Other Prop./Plant/Equip.,"19,400","21,265","27,024","28,239","66,998",DIS
+Prop./Plant/Equip. - Gross,"60,304","64,018","71,643","74,775","72,952",DIS
+Accumulated Depreciation,"(30,764)","(32,415)","(35,517)","(37,920)","(39,356)",DIS
+Prop./Plant/Equip. - Net,"29,540","31,603","36,126","36,855","33,596",DIS
+"Goodwill, Net","31,269","80,293","77,689","78,071","77,897",DIS
+Intangibles - Gross,"8,882","26,608","24,771","24,756",--,DIS
+Accum. Intangible Amort.,"(2,070)","(3,393)","(5,598)","(7,641)",--,DIS
+Intangibles - Net,"14,700","46,025","44,195","46,664","50,614",DIS
+LT Invt. - Affiliate Comp.,"2,768","2,922","2,632","2,638",--,DIS
+LT Investments - Other,131,302,"1,271","1,297","3,218",DIS
+Long Term Investments,"2,899","3,224","3,903","3,935","3,218",DIS
+Note Rcvble - Long Term,"1,928",--,--,--,--,DIS
+Deferred Charges,919,--,--,--,--,DIS
+Restricted Cash - LT,--,11,37,41,--,DIS
+Other Long Term Assets,518,"4,704","4,348","4,386","9,208",DIS
+Total Assets,"98,598","193,984","201,549","203,609","203,631",DIS
+Accounts Payable,"6,503","13,778","12,663","16,357",--,DIS
+Payable/Accrued,--,--,--,--,"20,213",DIS
+Accrued Expenses,"2,189","3,010","3,672","4,119",--,DIS
+Notes Payable/ST Debt,0,0,0,0,--,DIS
+Curr. Port. LT Dbt/Cap Ls.,"3,790","8,857","5,748","5,907","3,070",DIS
+Customer Advances,"4,591","4,722","4,116","4,317","5,790",DIS
+Other Current Liabilities,787,974,429,377,--,DIS
+"Other Curr. Lblts, Total","5,378","5,696","4,545","4,694","5,790",DIS
+Total Current Liabilities,"17,860","31,341","26,628","31,077","29,073",DIS
+Long Term Debt,"17,084","38,129","52,917","48,540","45,299",DIS
+Capital Lease Obligations,--,--,271,246,--,DIS
+Total Long Term Debt,"17,084","38,129","53,188","48,786","45,299",DIS
+Total Debt,"20,874","46,986","58,936","54,693","48,369",DIS
+Deferred Income Tax,"3,109","7,902","7,288","7,246","8,363",DIS
+Minority Interest,"5,182","13,975","13,929","13,671","13,370",DIS
+Pension Benefits - Underfunded,--,"4,783","6,451","4,132",--,DIS
+Other LT Liabilities,"6,590","8,977","10,482","10,144","12,518",DIS
+"Other Liabilities, Total","6,590","13,760","16,933","14,276","12,518",DIS
+Total Liabilities,"49,825","105,107","117,966","115,056","108,623",DIS
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,0,DIS
+Common Stock,"36,779","53,907","54,497","55,471","56,398",DIS
+Ret. Earn.(Accum. Deficit),"82,679","42,494","38,315","40,429","43,636",DIS
+Treasury Stock - Common,"(67,588)",(907),(907),(907),(907),DIS
+Unrealized Gain (Loss),15,(2),--,--,--,DIS
+Cum. Trans. Adjustment,(624),(971),(949),(958),--,DIS
+Min. Pension Lblty Adj.,"(2,633)","(5,746)","(7,222)","(5,372)",--,DIS
+Other Comprehensive Income,145,102,(151),(110),"(4,119)",DIS
+"Other Equity, Total","(3,112)","(6,615)","(8,322)","(6,440)","(4,119)",DIS
+Total Equity,"48,773","88,877","83,583","88,553","95,008",DIS
+Total Liabilities & Shareholders’ Equity,"98,598","193,984","201,549","203,609","203,631",DIS
+Ttl Comm. Shares Outs.,"1,500","1,781","1,781","1,781","1,781",DIS
+Trsy. Shrs-Comm. Primary Iss.,"1,400",19,19,19,19,DIS

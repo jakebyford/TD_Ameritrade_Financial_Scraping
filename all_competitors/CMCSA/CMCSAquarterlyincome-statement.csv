@@ -1,0 +1,49 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"30,336","31,010","30,016","29,849",CMCSA
+"Cost of Revenue, Total","9,880","10,570","8,887","8,949",CMCSA
+Selling/Gen/Admin Expense,"9,812","9,227","9,107","9,353",CMCSA
+Advertising Expense,"2,233","2,062","2,196","2,066",CMCSA
+"Sell/Gen/AdminExpenses,Tot","12,045","11,289","11,303","11,419",CMCSA
+Depreciation,"2,221","2,213","2,162","2,150",CMCSA
+Amortiz of Intangibles,"1,361","1,335","1,306","1,183",CMCSA
+Depreciation/Amortization,"3,582","3,548","3,468","3,333",CMCSA
+Impair-Assets Held for Use,--,--,--,"8,583",CMCSA
+Other Unusual Expnse (In),8,33,(9),(9),CMCSA
+Unusual Expense (Income),8,33,(9),"8,574",CMCSA
+Other Operating Expense,--,--,--,(1),CMCSA
+"Other, Net",--,1,--,--,CMCSA
+"Other Operat Expse, Total",--,1,--,(1),CMCSA
+Total Operating Expense,"25,515","25,441","23,649","32,274",CMCSA
+Total Operating Income,"4,821","5,569","6,367","(2,425)",CMCSA
+"Inter Expse,Net Non-Operat","(1,120)",(993),(968),(960),CMCSA
+"Inter/Invest Inc, Non-Oper",118,250,(735),(245),CMCSA
+OtherNon-OperatInc (Expnse),66,(62),(162),(22),CMCSA
+"Other, Net",66,(62),(162),(22),CMCSA
+Income Before Tax,"3,885","4,764","4,502","(3,652)",CMCSA
+Income Tax - Total,905,"1,288","1,261","1,014",CMCSA
+Income After Tax,"2,980","3,476","3,241","(4,666)",CMCSA
+Minority Interest,76,73,155,68,CMCSA
+Net Inc Before Extra Items,"3,056","3,549","3,396","(4,598)",CMCSA
+Total Net Income,"3,056","3,549","3,396","(4,598)",CMCSA
+Total Adjust to Net Income,1,--,--,0,CMCSA
+Income Available to Common Excl. Extra. Items,"3,057","3,549","3,396","(4,598)",CMCSA
+Income Available to Common Incl. Extra. Items,"3,057","3,549","3,396","(4,598)",CMCSA
+Basic/Primary Weighted Average Shares,"4,557","4,512","4,457","4,377",CMCSA
+Basic/Primary EPS Excl. Extra. Items,0.67,0.79,0.76,(1.05),CMCSA
+Basic/Primary EPS Incl. Extra. Items,0.67,0.79,0.76,(1.05),CMCSA
+Diluted Weighted Average Shares,"4,612","4,558","4,482","4,377",CMCSA
+Diluted EPS Excl. Extra. Items,0.66,0.78,0.76,(1.05),CMCSA
+Diluted EPS Incl. Extra. Items,0.66,0.78,0.76,(1.05),CMCSA
+Div/Share-ComStockPrimIssue,0.25,0.27,0.27,0.27,CMCSA
+Gross Divid - Common Stock,"1,143","1,225","1,203","1,179",CMCSA
+Pro Forma Net Income,--,--,--,--,CMCSA
+"Interest Expense, Suppl","1,120",993,968,960,CMCSA
+"Depreciat/Amort, Suppl","2,221","2,213","2,162","2,150",CMCSA
+Total Special Items,134,33,(9),"8,574",CMCSA
+Normalzd Income Before Tax,"4,019","4,797","4,493","4,922",CMCSA
+Efct/SpecItemsIncTxs (STEC),0,9,(3),"3,001",CMCSA
+IncTxsExcl ImpctofSpec Itms,905,"1,297","1,258","4,015",CMCSA
+Normalized Income After Tax,"3,114","3,500","3,235",907,CMCSA
+Normalzd Inc Avail to Common,"3,191","3,573","3,390",975,CMCSA
+Basic Normalized EPS,0.70,0.79,0.76,0.22,CMCSA
+Diluted Normalized EPS,0.69,0.78,0.76,0.22,CMCSA

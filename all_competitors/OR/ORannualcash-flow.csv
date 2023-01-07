@@ -1,0 +1,42 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,(43),(106),(234),16,(57),OR
+Depreciation/Depletion,28,53,48,47,52,OR
+Deferred Taxes,(24),(36),(41),4,12,OR
+Unusual Items,58,155,284,12,111,OR
+Equity in Net Earnings/Loss,6,9,22,8,4,OR
+Other Non-Cash Items,29,13,18,19,9,OR
+Non-Cash Items,93,177,324,39,124,OR
+"Cash Taxes Pd, Supplemental",--,1,1,1,7,OR
+"Cash Interest Pd, Suppl",4,21,16,17,16,OR
+Accounts Receivable,(1),(9),5,(5),0,OR
+Inventories,(9),10,--,--,(13),OR
+Other Assets,0,0,(1),(1),(5),OR
+Payable/Accrued,10,(4),(8),8,(7),OR
+Changes in Working Capital,(6),(6),(5),2,(25),OR
+Total Cash from Operations,49,82,92,108,106,OR
+Capital Expenditures,(81),(141),(84),(138),(279),OR
+Acquisition of Business,(621),--,(2),(52),0,OR
+Sale of Business,--,0,8,0,--,OR
+Sale of Fixed Assets,--,159,57,0,--,OR
+Sale/Maturity of Investment,71,27,130,11,51,OR
+"Investment, Net",2,(10),(40),0,4,OR
+Purchase of Investments,(227),(105),(63),(49),(47),OR
+Other Investing Cash Flow,(21),4,--,5,0,OR
+"OtherInvestCashFlowItms,Tot",(796),76,92,(85),7,OR
+Total Cash from Investing,(878),(66),8,(223),(272),OR
+Financing Cash Flow Items,(12),(1),(3),204,32,OR
+Total Cash Dividends Paid,(19),(28),(27),(29),(32),OR
+Sale/Issuance of Common,--,--,--,85,0,OR
+Repurch/Retirement Common,(2),(31),(143),(4),(31),OR
+"Common Stock, Net",(2),(31),(143),81,(31),OR
+Options Exercised,264,0,22,8,15,OR
+"Iss (Retirmnt) of Stock,Net",262,(31),(121),89,(16),OR
+Long Term Debt Issued,447,0,20,72,54,OR
+Long Term Debt Reduction,--,(123),(30),(19),(57),OR
+"Iss (Retirmnt) of Debt, Net",447,(123),(10),52,(3),OR
+Total Cash From Financing,679,(183),(162),317,(20),OR
+Foreign Exchange Effects,(16),7,(3),(7),(1),OR
+Net Change in Cash,(166),(159),(66),194,(187),OR
+NetCash-BeginBal/RsvdforFutUse,499,334,174,108,303,OR
+NetCash-EndBal/RsrvforFutUse,334,174,108,303,116,OR
+"Depreciation, Supplemental",28,53,48,47,52,OR

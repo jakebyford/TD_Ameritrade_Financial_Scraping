@@ -1,0 +1,35 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"10,115","1,506","1,992","3,676","5,320",CHTR
+Depreciation/Depletion,"10,588","10,318","9,926","9,704","9,345",CHTR
+Deferred Taxes,"(9,116)",110,320,465,826,CHTR
+Unusual Items,(29),110,79,158,--,CHTR
+Other Non-Cash Items,(45),(34),436,366,588,CHTR
+Non-Cash Items,(74),76,515,524,588,CHTR
+"Cash Taxes Pd, Supplemental",41,45,71,123,157,CHTR
+"Cash Interest Pd, Suppl","3,421","3,865","3,963","3,866","4,043",CHTR
+Accounts Receivable,(84),(98),(505),26,(35),CHTR
+Prepaid Expenses,76,(270),(397),(124),(167),CHTR
+Payable/Accrued,449,125,(103),291,362,CHTR
+Changes in Working Capital,441,(243),"(1,005)",193,160,CHTR
+Total Cash from Operations,"11,954","11,767","11,748","14,562","16,239",CHTR
+Capital Expenditures,"(8,681)","(9,125)","(7,195)","(7,415)","(7,635)",CHTR
+Acquisition of Business,(9),0,--,--,--,CHTR
+"Investment, Net",--,--,--,--,(128),CHTR
+Purchase of Investments,(105),(21),(148),(183),--,CHTR
+Other Investing Cash Flow,697,(590),12,(559),9,CHTR
+"OtherInvestCashFlowItms,Tot",583,(611),(136),(742),(119),CHTR
+Total Cash from Investing,"(8,098)","(9,736)","(7,331)","(8,157)","(7,754)",CHTR
+Financing Cash Flow Items,"(1,940)",(608),"(1,254)","(1,603)","(2,328)",CHTR
+Sale/Issuance of Common,0,0,--,23,0,CHTR
+Repurch/Retirement Common,"(11,715)","(4,399)","(6,873)","(11,217)","(15,431)",CHTR
+"Common Stock, Net","(11,715)","(4,399)","(6,873)","(11,194)","(15,431)",CHTR
+Options Exercised,116,69,118,184,44,CHTR
+"Iss (Retirmnt) of Stock,Net","(11,599)","(4,330)","(6,755)","(11,010)","(15,387)",CHTR
+Long Term Debt Issued,"25,276","13,820","19,685","15,754","20,976",CHTR
+Long Term Debt Reduction,"(16,507)","(10,769)","(13,309)","(12,094)","(12,146)",CHTR
+"Iss (Retirmnt) of Debt, Net","8,769","3,051","6,376","3,660","8,830",CHTR
+Total Cash From Financing,"(4,770)","(1,887)","(1,633)","(8,953)","(8,885)",CHTR
+Net Change in Cash,(914),144,"2,784","(2,548)",(400),CHTR
+NetCash-BeginBal/RsvdforFutUse,"1,535",621,765,"3,549","1,001",CHTR
+NetCash-EndBal/RsrvforFutUse,621,765,"3,549","1,001",601,CHTR
+"Depreciation, Supplemental","10,588","10,318","9,926","9,704","9,345",CHTR

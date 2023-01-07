@@ -1,0 +1,48 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Interest & Fees on Loans,"7,450","7,358","8,242","10,278",WFC
+Inter & Divs/ Invest Securs,"2,581","2,733","2,895","3,199",WFC
+Other Interest Income,90,90,419,"1,017",WFC
+"Interest Income, Bank","10,121","10,181","11,556","14,494",WFC
+Interest on Deposit,85,83,158,513,WFC
+Inter on Other Borrowings,774,877,"1,200","1,883",WFC
+Total Interest Expense,859,960,"1,358","2,396",WFC
+Net Interest Income,"9,262","9,221","10,198","12,098",WFC
+Loan Loss Provision,(452),(787),580,784,WFC
+NetInterIn after Loan Loss Provision,"9,714","10,008","9,618","11,314",WFC
+Fees & Commish from Operat,"5,625","5,297","4,903","4,695",WFC
+Commish & Fees/Secur Act,"1,035",693,287,324,WFC
+Credit Card Fees,"1,071","1,029","1,112","1,119",WFC
+Dealer Trading Acct Profit,"2,412",796,(26),872,WFC
+Other Revenue,"1,451",556,554,397,WFC
+"Non-Interest Income, Bank","11,594","8,371","6,830","7,407",WFC
+Labor & Related Expenses,"(8,475)","(9,271)","(8,442)","(8,212)",WFC
+Restructuring Charge,(66),(5),0,0,WFC
+Other Expense,"(4,657)","(4,594)","(4,441)","(6,115)",WFC
+"Non-Interest Expense, Bank","(13,198)","(13,870)","(12,883)","(14,327)",WFC
+Income Before Tax,"8,110","4,509","3,565","4,394",WFC
+Income Tax - Total,"1,711",707,613,894,WFC
+Income After Tax,"6,399","3,802","2,952","3,500",WFC
+Minority Interest,(649),(131),167,28,WFC
+Net Inc Before Extra Items,"5,750","3,671","3,119","3,528",WFC
+Total Net Income,"5,750","3,671","3,119","3,528",WFC
+Total Adjust to Net Income,(280),(278),(280),(278),WFC
+Income Available to Common Excl. Extra. Items,"5,470","3,393","2,839","3,250",WFC
+Income Available to Common Incl. Extra. Items,"5,470","3,393","2,839","3,250",WFC
+Basic/Primary Weighted Average Shares,"3,928","3,831","3,794","3,797",WFC
+Basic/Primary EPS Excl. Extra. Items,1.39,0.89,0.75,0.86,WFC
+Basic/Primary EPS Incl. Extra. Items,1.39,0.89,0.75,0.86,WFC
+Diluted Weighted Average Shares,"3,965","3,869","3,820","3,825",WFC
+Diluted EPS Excl. Extra. Items,1.38,0.88,0.74,0.85,WFC
+Diluted EPS Incl. Extra. Items,1.38,0.88,0.74,0.85,WFC
+Div/Share-ComStockPrimIssue,0.20,0.25,0.25,0.30,WFC
+Gross Divid - Common Stock,769,975,961,"1,153",WFC
+Pro Forma Net Income,--,--,--,--,WFC
+"Depreciat/Amort, Suppl","1,715","1,717","1,693","1,614",WFC
+Total Special Items,187,5,0,0,WFC
+Normalzd Income Before Tax,"8,297","4,514","3,565","4,394",WFC
+Efct/SpecItemsIncTxs (STEC),39,1,0,0,WFC
+IncTxsExcl ImpctofSpec Itms,"1,750",708,613,894,WFC
+Normalized Income After Tax,"6,547","3,806","2,952","3,500",WFC
+Normalzd Inc Avail to Common,"5,618","3,397","2,839","3,250",WFC
+Basic Normalized EPS,1.43,0.89,0.75,0.86,WFC
+Diluted Normalized EPS,1.42,0.88,0.74,0.85,WFC

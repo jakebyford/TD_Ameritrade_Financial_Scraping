@@ -1,0 +1,37 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"4,391","4,965","5,334","5,647","6,011",FAST
+"Cost of Revenue, Total","2,227","2,566","2,818","3,080","3,234",FAST
+"Sell/Gen/AdminExpenses,Tot","1,283","1,400","1,459","1,427","1,560",FAST
+Unusual Expense (Income),(1),(1),(1),(1),--,FAST
+Loss(Gain)/Sale Asts (Oper),(1),(1),(1),(1),--,FAST
+Total Operating Expense,"3,509","3,966","4,277","4,506","4,794",FAST
+Total Operating Income,882,999,"1,057","1,142","1,217",FAST
+"Inter Expse,Net Non-Operat",(9),(13),(14),(10),(10),FAST
+"Inter/Invest Inc, Non-Oper",0,0,0,1,0,FAST
+Income Before Tax,873,987,"1,044","1,133","1,208",FAST
+Income Tax - Total,319,245,253,274,283,FAST
+Income After Tax,554,742,791,859,925,FAST
+Net Inc Before Extra Items,554,742,791,859,925,FAST
+Total Extraordinary Items,24,10,0,--,--,FAST
+Total Net Income,579,752,791,859,925,FAST
+Income Available to Common Excl. Extra. Items,554,742,791,859,925,FAST
+Income Available to Common Incl. Extra. Items,579,752,791,859,925,FAST
+Basic/Primary Weighted Average Shares,576,574,573,574,575,FAST
+Basic/Primary EPS Excl. Extra. Items,0.96,1.29,1.38,1.50,1.61,FAST
+Basic/Primary EPS Incl. Extra. Items,1.00,1.31,1.38,1.50,1.61,FAST
+Diluted Weighted Average Shares,577,574,574,576,577,FAST
+Diluted EPS Excl. Extra. Items,0.96,1.29,1.38,1.49,1.60,FAST
+Diluted EPS Incl. Extra. Items,1.00,1.31,1.38,1.49,1.60,FAST
+Div/Share-ComStockPrimIssue,0.64,0.77,0.87,1.00,1.12,FAST
+Gross Divid - Common Stock,369,442,499,803,644,FAST
+Pro Forma Net Income,--,--,--,--,--,FAST
+"Interest Expense, Suppl",9,13,14,10,10,FAST
+"Depreciat/Amort, Suppl",124,134,145,153,160,FAST
+Total Special Items,(1),(1),(1),(1),--,FAST
+Normalzd Income Before Tax,872,987,"1,043","1,131","1,208",FAST
+Efct/SpecItemsIncTxs (STEC),0,0,0,0,--,FAST
+IncTxsExcl ImpctofSpec Itms,318,245,253,273,283,FAST
+Normalized Income After Tax,554,741,790,858,925,FAST
+Normalzd Inc Avail to Common,554,741,790,858,925,FAST
+Basic Normalized EPS,0.96,1.29,1.38,1.50,1.61,FAST
+Diluted Normalized EPS,0.96,1.29,1.38,1.49,1.60,FAST

@@ -1,0 +1,73 @@
+items,2018,2019,2020,2021,ticker
+Cash & Equivalents,"2,724","2,367","5,104","2,988",DOW
+Short Term Investments,100,21,--,--,DOW
+Cash and Short Term Invs,"2,824","2,388","5,104","2,988",DOW
+"Trade Accts Recvble, Gross","5,688","4,889","4,890","6,895",DOW
+Prov. for Doubtful Accts,(42),(45),(51),(54),DOW
+"Trade Accts Recvble, Net","5,665","4,885","4,901","6,920",DOW
+Other Receivables,"3,389","2,711","2,551","2,713",DOW
+"Total Receivables, Net","9,054","7,596","7,452","9,633",DOW
+Invent. - Finished Goods,"4,313","3,505","3,140","4,554",DOW
+Invent. - Work In Progress,"1,335","1,122",996,"1,615",DOW
+Invent. - Raw Materials,"1,500","1,473","1,531","1,688",DOW
+LIFO Reserve,(249),114,34,(485),DOW
+Total Inventory,"6,899","6,214","5,701","7,372",DOW
+Discont. Ops.-Curr. Assets,"19,900",0,--,--,DOW
+Other Current Assets,693,617,827,855,DOW
+"Other Curr. Assets, Total","20,593",617,827,855,DOW
+Total Current Assets,"39,370","16,815","19,084","20,848",DOW
+Buildings,--,"4,742","4,976","5,108",DOW
+Land/Improvements,--,"2,177","2,011","2,045",DOW
+Machinery/Equipment,--,"40,651","42,108","42,627",DOW
+Construction in Progress,--,"1,986","1,604","1,538",DOW
+Other Prop./Plant/Equip.,"53,984","7,426","7,482","7,698",DOW
+Prop./Plant/Equip. - Gross,"53,984","56,982","58,181","59,016",DOW
+Accumulated Depreciation,"(32,566)","(33,914)","(36,086)","(37,049)",DOW
+Prop./Plant/Equip. - Net,"21,418","23,068","22,095","21,967",DOW
+"Goodwill, Net","9,846","8,796","8,908","8,764",DOW
+Intangibles - Gross,"7,604","7,645","7,780","7,606",DOW
+Accum. Intangible Amort.,"(3,379)","(3,886)","(4,428)","(4,725)",DOW
+Intangibles - Net,"4,225","3,759","3,352","2,881",DOW
+LT Invt. - Affiliate Comp.,"3,320","1,404","1,327","2,045",DOW
+LT Investments - Other,"2,646","2,588","2,775","3,193",DOW
+Long Term Investments,"5,966","3,992","4,102","5,238",DOW
+Note Rcvble - Long Term,361,"1,067",476,504,DOW
+Deferred Charges,739,814,"1,174","1,430",DOW
+Def. Inc. Tax - LT Asset,"1,779","2,213","2,215","1,358",DOW
+Other Long Term Assets,(5),0,64,--,DOW
+Total Assets,"83,699","60,524","61,470","62,990",DOW
+Accounts Payable,"4,456","3,889","3,763","5,577",DOW
+Accrued Expenses,"2,925","2,838","3,724","3,586",DOW
+Notes Payable/ST Debt,298,586,156,161,DOW
+Curr. Port. LT Dbt/Cap Ls.,338,435,460,231,DOW
+Customer Advances,134,193,349,209,DOW
+Income Taxes Payable,557,522,397,623,DOW
+Other Payables,"2,479","2,064","2,126","2,839",DOW
+Discontinued Operations,"4,488",0,--,--,DOW
+Other Current Liabilities,(128),152,133,--,DOW
+"Other Curr. Lblts, Total","7,530","2,931","3,005","3,671",DOW
+Total Current Liabilities,"15,547","10,679","11,108","13,226",DOW
+Long Term Debt,"19,253","15,612","16,027","13,517",DOW
+Capital Lease Obligations,--,363,464,763,DOW
+Total Long Term Debt,"19,253","15,975","16,491","14,280",DOW
+Total Debt,"19,889","16,996","17,107","14,672",DOW
+Deferred Income Tax,501,347,405,506,DOW
+Minority Interest,"1,138",553,570,574,DOW
+Pension Benefits - Underfunded,"8,926","10,083","11,648","7,557",DOW
+Other LT Liabilities,"5,851","9,346","8,813","8,682",DOW
+"Other Liabilities, Total","14,777","19,429","20,461","16,239",DOW
+Total Liabilities,"51,216","46,983","49,035","44,825",DOW
+Common Stock,0,8,8,8,DOW
+Additional Paid-In Capital,"7,042","7,325","7,595","8,151",DOW
+Ret. Earn.(Accum. Deficit),"35,460","17,045","16,361","20,623",DOW
+Treasury Stock - Common,0,(500),(625),"(1,625)",DOW
+ESOP Debt Guarantee,(134),(91),(49),(15),DOW
+Unrealized Gain (Loss),--,64,104,59,DOW
+Cum. Trans. Adjustment,--,"(1,135)",(930),"(1,355)",DOW
+Min. Pension Lblty Adj.,--,"(8,781)","(9,559)","(7,334)",DOW
+Other Comprehensive Income,"(9,885)",(394),(470),(347),DOW
+"Other Equity, Total","(9,885)","(10,310)","(10,959)","(9,036)",DOW
+Total Equity,"32,483","13,541","12,435","18,165",DOW
+Total Liabilities & Shareholders’ Equity,"83,699","60,524","61,470","62,990",DOW
+Ttl Comm. Shares Outs.,749,741,743,735,DOW
+Trsy. Shrs-Comm. Primary Iss.,0,10,13,29,DOW

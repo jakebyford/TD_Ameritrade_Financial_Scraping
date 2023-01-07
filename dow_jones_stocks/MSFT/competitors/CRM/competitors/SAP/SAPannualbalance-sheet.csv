@@ -1,0 +1,60 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash,"2,558","2,918","2,877","2,732","3,149",SAP
+Cash & Equivalents,"1,453","5,312","2,440","2,582","5,702",SAP
+Short Term Investments,842,723,102,"1,469","2,682",SAP
+Cash and Short Term Invs,"4,853","8,953","5,419","6,783","11,533",SAP
+"Trade Accts Recvble, Net","5,809","6,182","7,562","6,198","5,887",SAP
+Notes Recvble - Short Term,58,54,97,80,76,SAP
+Other Receivables,605,643,"1,077",814,"1,087",SAP
+"Total Receivables, Net","6,472","6,879","8,736","7,092","7,050",SAP
+Prepaid Expenses,264,305,427,495,588,SAP
+"Other Curr. Assets, Total",341,483,631,699,873,SAP
+Total Current Assets,"11,930","16,620","15,213","15,069","20,044",SAP
+Prop./Plant/Equip. - Net,"2,967","3,553","5,496","5,041","4,977",SAP
+"Goodwill, Gross","21,371","23,838","29,263","27,636","31,191",SAP
+Accum. Goodwill Amort.,(100),(102),(101),(98),(101),SAP
+"Goodwill, Net","21,271","23,736","29,162","27,538","31,090",SAP
+Intangibles - Gross,"7,418","8,386","10,096","9,396","10,564",SAP
+Accum. Intangible Amort.,"(4,451)","(5,159)","(5,605)","(5,612)","(6,598)",SAP
+Intangibles - Net,"2,967","3,227","4,491","3,784","3,966",SAP
+LT Invt. - Affiliate Comp.,32,26,16,14,155,SAP
+LT Investments - Other,"1,065","1,419","2,203","3,391","6,013",SAP
+Long Term Investments,"1,097","1,445","2,219","3,405","6,168",SAP
+Note Rcvble - Long Term,594,704,768,567,570,SAP
+Deferred Charges,123,"1,203","1,614","1,874","2,575",SAP
+Def. Inc. Tax - LT Asset,"1,037","1,014","1,251","1,188","1,779",SAP
+Other Long Term Assets,498,0,1,(2),--,SAP
+Total Assets,"42,484","51,502","60,215","58,464","71,169",SAP
+Accounts Payable,"1,151","1,491","1,581","1,213","1,580",SAP
+Accrued Expenses,"3,982","4,121","4,818","4,642","5,202",SAP
+Notes Payable/ST Debt,0,0,"1,100",931,931,SAP
+Curr. Port. LT Dbt/Cap Ls.,"1,298",768,"1,820",932,"3,236",SAP
+Customer Advances,"2,771","3,028","4,266","4,150","4,431",SAP
+Income Taxes Payable,597,611,255,414,304,SAP
+Other Current Liabilities,411,467,622,560,452,SAP
+"Other Curr. Lblts, Total","3,779","4,106","5,143","5,124","5,187",SAP
+Total Current Liabilities,"10,210","10,486","14,462","12,842","16,136",SAP
+Long Term Debt,"5,002","10,535","11,086","11,860","9,244",SAP
+Capital Lease Obligations,--,--,"1,814","1,740","1,736",SAP
+Total Long Term Debt,"5,002","10,535","12,900","13,600","10,980",SAP
+Total Debt,"6,300","11,303","15,820","15,463","15,147",SAP
+Deferred Income Tax,251,102,82,158,291,SAP
+Minority Interest,31,45,76,211,"2,670",SAP
+Reserves,287,216,429,296,290,SAP
+Pension Benefits - Underfunded,41,54,49,66,65,SAP
+Other LT Liabilities,"1,178","1,232","1,471","1,575","1,884",SAP
+"Other Liabilities, Total","1,506","1,502","1,949","1,937","2,239",SAP
+Total Liabilities,"17,000","22,670","29,469","28,748","32,316",SAP
+Common Stock,"1,229","1,229","1,229","1,229","1,229",SAP
+Additional Paid-In Capital,570,543,545,545,"1,918",SAP
+Ret. Earn.(Accum. Deficit),"24,769","27,407","28,783","32,026","37,022",SAP
+Treasury Stock - Common,"(1,591)","(1,580)","(1,580)","(3,072)","(3,072)",SAP
+Unrealized Gain (Loss),157,0,0,--,--,SAP
+Cum. Trans. Adjustment,330,"1,239","1,776","(1,016)","1,830",SAP
+Other Equity,(1),(1),(1),--,(1),SAP
+Other Comprehensive Income,21,(5),(6),4,(73),SAP
+"Other Equity, Total",350,"1,233","1,769","(1,012)","1,756",SAP
+Total Equity,"25,484","28,832","30,746","29,716","38,853",SAP
+Total Liabilities & Shareholders’ Equity,"42,484","51,502","60,215","58,464","71,169",SAP
+Ttl Comm. Shares Outs.,"1,193","1,194","1,194","1,180","1,180",SAP
+Trsy. Shrs-Comm. Primary Iss.,35,35,35,49,49,SAP

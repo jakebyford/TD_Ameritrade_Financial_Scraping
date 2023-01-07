@@ -1,0 +1,42 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"7,658","7,764","7,274","7,763",MDLZ
+"Cost of Revenue, Total","4,825","4,781","4,633","5,150",MDLZ
+"Sell/Gen/AdminExpenses,Tot","1,667","1,688","1,666","1,872",MDLZ
+Depreciation/Amortization,32,32,32,32,MDLZ
+Restructuring Charge,(96),11,4,(7),MDLZ
+Impair-Assets Held for Use,22,153,2,25,MDLZ
+Other Unusual Expnse (In),4,134,10,12,MDLZ
+Unusual Expense (Income),(70),298,16,30,MDLZ
+Total Operating Expense,"6,454","6,799","6,347","7,084",MDLZ
+Total Operating Income,"1,204",965,927,679,MDLZ
+"Inter Expse,Net Non-Operat",(90),(91),(89),(114),MDLZ
+OtherNon-OperatInc (Expnse),29,85,21,73,MDLZ
+"Other, Net",29,85,21,73,MDLZ
+Income Before Tax,"1,143",959,859,638,MDLZ
+Income Tax - Total,238,210,201,184,MDLZ
+Income After Tax,905,749,658,454,MDLZ
+Minority Interest,(2),(6),(1),(1),MDLZ
+Equity In Affiliates,100,112,90,79,MDLZ
+Net Inc Before Extra Items,"1,003",855,747,532,MDLZ
+Total Net Income,"1,003",855,747,532,MDLZ
+Income Available to Common Excl. Extra. Items,"1,003",855,747,532,MDLZ
+Income Available to Common Incl. Extra. Items,"1,003",855,747,532,MDLZ
+Basic/Primary Weighted Average Shares,"1,394","1,389","1,382","1,372",MDLZ
+Basic/Primary EPS Excl. Extra. Items,0.72,0.62,0.54,0.39,MDLZ
+Basic/Primary EPS Incl. Extra. Items,0.72,0.62,0.54,0.39,MDLZ
+Diluted Weighted Average Shares,"1,407","1,398","1,389","1,379",MDLZ
+Diluted EPS Excl. Extra. Items,0.71,0.61,0.54,0.39,MDLZ
+Diluted EPS Incl. Extra. Items,0.71,0.61,0.54,0.39,MDLZ
+Div/Share-ComStockPrimIssue,0.35,0.35,0.35,0.39,MDLZ
+Gross Divid - Common Stock,489,487,482,524,MDLZ
+Pro Forma Net Income,--,--,--,--,MDLZ
+"Interest Expense, Suppl",90,91,89,114,MDLZ
+"Depreciat/Amort, Suppl",244,243,241,239,MDLZ
+Total Special Items,33,538,94,400,MDLZ
+Normalzd Income Before Tax,"1,176","1,497",953,"1,038",MDLZ
+Efct/SpecItemsIncTxs (STEC),7,118,22,115,MDLZ
+IncTxsExcl ImpctofSpec Itms,245,328,223,299,MDLZ
+Normalized Income After Tax,931,"1,169",730,739,MDLZ
+Normalzd Inc Avail to Common,"1,029","1,275",819,817,MDLZ
+Basic Normalized EPS,0.74,0.92,0.59,0.60,MDLZ
+Diluted Normalized EPS,0.73,0.91,0.59,0.59,MDLZ

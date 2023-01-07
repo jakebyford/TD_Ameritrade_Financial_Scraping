@@ -1,0 +1,40 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"11,693","15,794","20,156","24,996","29,698",NFLX
+"Cost of Revenue, Total","7,660","9,968","12,440","14,175","17,333",NFLX
+Selling/Gen/Admin Expense,"2,142","3,000","1,688","1,858","3,675",NFLX
+Advertising Expense,--,--,"1,879","1,447",222,NFLX
+"Sell/Gen/AdminExpenses,Tot","2,142","3,000","3,567","3,305","3,897",NFLX
+Research & Development,"1,053","1,222","1,545","1,830","2,274",NFLX
+Unusual Expense (Income),--,--,--,"1,101",--,NFLX
+Total Operating Expense,"10,854","14,189","17,552","20,411","23,503",NFLX
+Total Operating Income,839,"1,605","2,604","4,585","6,195",NFLX
+"Inter Expse,Net Non-Operat",(238),(420),(626),(767),(766),NFLX
+"Inter Income, Non-Operating",13,43,91,42,8,NFLX
+"Invest Income, Non-Operat",(128),(1),(7),(660),403,NFLX
+"Inter/Invest Inc, Non-Oper",(115),42,84,(618),411,NFLX
+Income Before Tax,485,"1,226","2,062","3,199","5,840",NFLX
+Income Tax - Total,(153),44,323,525,979,NFLX
+Income After Tax,638,"1,182","1,739","2,674","4,861",NFLX
+Net Inc Before Extra Items,638,"1,182","1,739","2,674","4,861",NFLX
+Total Extraordinary Items,(79),29,128,87,255,NFLX
+Total Net Income,559,"1,211","1,867","2,761","5,116",NFLX
+Income Available to Common Excl. Extra. Items,638,"1,182","1,739","2,674","4,861",NFLX
+Income Available to Common Incl. Extra. Items,559,"1,211","1,867","2,761","5,116",NFLX
+Basic/Primary Weighted Average Shares,432,435,438,441,443,NFLX
+Basic/Primary EPS Excl. Extra. Items,1.48,2.72,3.97,6.07,10.97,NFLX
+Basic/Primary EPS Incl. Extra. Items,1.29,2.78,4.26,6.26,11.55,NFLX
+Diluted Weighted Average Shares,447,451,452,454,455,NFLX
+Diluted EPS Excl. Extra. Items,1.43,2.62,3.85,5.89,10.68,NFLX
+Diluted EPS Incl. Extra. Items,1.25,2.68,4.13,6.08,11.24,NFLX
+Gross Divid - Common Stock,0,0,0,0,0,NFLX
+Pro Forma Net Income,--,--,--,--,--,NFLX
+"Interest Expense, Suppl",238,420,626,767,766,NFLX
+"Depreciat/Amort, Suppl",72,83,104,116,208,NFLX
+Total Special Items,--,--,--,"1,101",--,NFLX
+Normalzd Income Before Tax,485,"1,226","2,062","4,300","5,840",NFLX
+Efct/SpecItemsIncTxs (STEC),--,--,--,181,--,NFLX
+IncTxsExcl ImpctofSpec Itms,(153),44,323,706,979,NFLX
+Normalized Income After Tax,638,"1,182","1,739","3,594","4,861",NFLX
+Normalzd Inc Avail to Common,638,"1,182","1,739","3,594","4,861",NFLX
+Basic Normalized EPS,1.48,2.72,3.97,8.15,10.97,NFLX
+Diluted Normalized EPS,1.43,2.62,3.85,7.91,10.68,NFLX

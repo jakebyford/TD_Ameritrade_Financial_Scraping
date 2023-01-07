@@ -1,0 +1,49 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"8,000","7,328","7,779","6,916",PARA
+"Cost of Revenue, Total","5,452","4,796","5,106","4,460",PARA
+"Sell/Gen/AdminExpenses,Tot","1,991","1,619","1,710","1,670",PARA
+Depreciation/Amortization,101,96,94,92,PARA
+Restructuring Charge,19,18,10,85,PARA
+Other Unusual Expnse (In),0,112,87,84,PARA
+Unusual Expense (Income),"(2,208)",115,97,128,PARA
+Loss(Gain)/Sale Asts (Oper),"(2,227)",(15),0,(41),PARA
+Total Operating Expense,"5,336","6,626","7,007","6,350",PARA
+Total Operating Income,"2,664",702,772,566,PARA
+"Inter Expse,Net Non-Operat",(241),(240),(230),(231),PARA
+"Inter Income, Non-Operating",16,21,19,33,PARA
+"Invest Income, Non-Operat",(12),1,(24),(30),PARA
+"Inter/Invest Inc, Non-Oper",4,22,(5),3,PARA
+OtherNon-OperatInc (Expnse),(10),(14),(18),(15),PARA
+"Other, Net",(10),(14),(18),(15),PARA
+Income Before Tax,"2,417",470,519,323,PARA
+Income Tax - Total,334,34,129,101,PARA
+Income After Tax,"2,083",436,390,222,PARA
+Minority Interest,(50),(8),(3),(11),PARA
+Equity In Affiliates,(11),(37),(29),(58),PARA
+Net Inc Before Extra Items,"2,022",391,358,153,PARA
+Discontinued Operations,46,54,80,105,PARA
+Tax on Extraordinary Items,(10),(12),(19),(27),PARA
+Total Extraordinary Items,36,42,61,78,PARA
+Total Net Income,"2,058",433,419,231,PARA
+Total Adjust to Net Income,(14),(14),(14),(14),PARA
+Income Available to Common Excl. Extra. Items,"2,008",377,344,139,PARA
+Income Available to Common Incl. Extra. Items,"2,044",419,405,217,PARA
+Basic/Primary Weighted Average Shares,650,649,649,649,PARA
+Basic/Primary EPS Excl. Extra. Items,3.09,0.58,0.53,0.21,PARA
+Basic/Primary EPS Incl. Extra. Items,3.14,0.65,0.62,0.33,PARA
+Diluted Weighted Average Shares,688,651,650,650,PARA
+Diluted EPS Excl. Extra. Items,2.92,0.58,0.53,0.21,PARA
+Diluted EPS Incl. Extra. Items,2.97,0.64,0.62,0.33,PARA
+Div/Share-ComStockPrimIssue,0.24,0.24,0.24,0.24,PARA
+Gross Divid - Common Stock,157,159,159,159,PARA
+Pro Forma Net Income,--,--,--,--,PARA
+"Interest Expense, Suppl",241,240,230,231,PARA
+"Depreciat/Amort, Suppl",101,96,94,92,PARA
+Total Special Items,"(2,208)",115,97,128,PARA
+Normalzd Income Before Tax,209,585,616,451,PARA
+Efct/SpecItemsIncTxs (STEC),(305),8,24,40,PARA
+IncTxsExcl ImpctofSpec Itms,29,42,153,141,PARA
+Normalized Income After Tax,180,543,463,310,PARA
+Normalzd Inc Avail to Common,105,484,417,227,PARA
+Basic Normalized EPS,0.16,0.75,0.64,0.35,PARA
+Diluted Normalized EPS,0.15,0.74,0.64,0.35,PARA

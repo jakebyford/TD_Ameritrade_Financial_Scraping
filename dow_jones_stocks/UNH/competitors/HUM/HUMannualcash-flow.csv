@@ -1,0 +1,41 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"2,448","1,683","2,707","3,367","2,934",HUM
+Depreciation/Depletion,410,444,505,528,640,HUM
+Amortization,75,90,70,88,73,HUM
+Deferred Taxes,132,194,162,195,15,HUM
+Unusual Items,0,786,0,0,--,HUM
+Equity in Net Earnings/Loss,--,(11),(14),(74),"(1,194)",HUM
+Other Non-Cash Items,177,173,163,181,180,HUM
+Non-Cash Items,177,948,149,107,"(1,014)",HUM
+"Cash Taxes Pd, Supplemental","1,498",631,518,"1,132",227,HUM
+"Cash Interest Pd, Suppl",216,195,212,258,285,HUM
+Other Assets,(582),(484),118,(581),(491),HUM
+Accounts Payable,105,252,"1,142","2,139",104,HUM
+Changes in Working Capital,809,"(1,186)","1,691","1,354",(386),HUM
+Total Cash from Operations,"4,051","2,173","5,284","5,639","2,262",HUM
+Capital Expenditures,(526),(612),(736),(964),"(1,316)",HUM
+Acquisition of Business,(31),"(1,449)",0,(709),"(4,187)",HUM
+Sale of Business,0,--,--,--,--,HUM
+Sale of Fixed Assets,2,--,--,--,--,HUM
+Sale/Maturity of Investment,"3,879","4,466","5,819","7,733","6,144",HUM
+Purchase of Investments,"(6,265)","(4,687)","(6,361)","(9,125)","(7,197)",HUM
+Other Investing Cash Flow,--,(805),0,0,--,HUM
+"OtherInvestCashFlowItms,Tot","(2,415)","(2,475)",(542),"(2,101)","(5,240)",HUM
+Total Cash from Investing,"(2,941)","(3,087)","(1,278)","(3,065)","(6,556)",HUM
+Financing Cash Flow Items,"1,823",(640),(623),(939),(337),HUM
+Total Cash Dividends Paid,(220),(265),(291),(323),(354),HUM
+"Common Stock, Net","(3,365)","(1,090)","(1,070)","(1,820)",(79),HUM
+Options Exercised,62,45,58,49,21,HUM
+"Iss (Retirmnt) of Stock,Net","(3,303)","(1,045)","(1,012)","(1,771)",(58),HUM
+Short Term Debt Issued,--,"1,000",0,"1,000","2,500",HUM
+Short Term Debt Reduction,--,(350),(650),"(1,000)","(2,078)",HUM
+"Short Term Debt, Net",(224),"1,165",(956),390,780,HUM
+Long Term Debt Issued,"1,779",0,987,"1,088","2,984",HUM
+Long Term Debt Reduction,(800),0,(400),(400),0,HUM
+"Long Term Debt, Net",979,0,587,688,"2,984",HUM
+"Iss (Retirmnt) of Debt, Net",755,"1,165",(369),"1,078","3,764",HUM
+Total Cash From Financing,(945),(785),"(2,295)","(1,955)","3,015",HUM
+Net Change in Cash,165,"(1,699)","1,711",619,"(1,279)",HUM
+NetCash-BeginBal/RsvdforFutUse,"3,877","4,042","2,343","4,054","4,673",HUM
+NetCash-EndBal/RsrvforFutUse,"4,042","2,343","4,054","4,673","3,394",HUM
+"Depreciation, Supplemental",410,444,505,528,640,HUM

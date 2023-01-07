@@ -1,0 +1,33 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Net Income,635,925,"1,233",613,FOX
+Depreciation/Depletion,172,264,363,99,FOX
+Deferred Taxes,143,195,342,104,FOX
+Unusual Items,0,0,0,--,FOX
+Other Non-Cash Items,198,464,629,87,FOX
+Non-Cash Items,198,464,629,87,FOX
+"Cash Taxes Pd, Supplemental",155,204,209,8,FOX
+"Cash Interest Pd, Suppl",200,363,383,151,FOX
+Accounts Receivable,(940),(309),(79),(260),FOX
+Inventories,(494),(156),(301),(333),FOX
+Payable/Accrued,(214),(205),(54),(127),FOX
+Changes in Working Capital,"(1,804)",(897),(683),(633),FOX
+Total Cash from Operations,(656),951,"1,884",270,FOX
+Capital Expenditures,(121),(191),(307),(74),FOX
+Acquisition of Business,(229),(243),(243),0,FOX
+Sale of Business,82,82,83,0,FOX
+Sale/Maturity of Investment,--,--,0,--,FOX
+Purchase of Investments,(28),(28),(28),(31),FOX
+Other Investing Cash Flow,0,(6),(18),(13),FOX
+"OtherInvestCashFlowItms,Tot",(175),(195),(206),(44),FOX
+Total Cash from Investing,(296),(386),(513),(118),FOX
+Financing Cash Flow Items,(32),(24),0,(5),FOX
+Total Cash Dividends Paid,(150),(295),(307),(147),FOX
+"Iss (Retirmnt) of Stock,Net",(497),(748),"(1,000)",(250),FOX
+Long Term Debt Issued,--,--,0,--,FOX
+Long Term Debt Reduction,--,(750),(750),--,FOX
+"Iss (Retirmnt) of Debt, Net",--,(750),(750),--,FOX
+Total Cash From Financing,(679),"(1,817)","(2,057)",(402),FOX
+Net Change in Cash,"(1,631)","(1,252)",(686),(250),FOX
+NetCash-BeginBal/RsvdforFutUse,"5,886","5,886","5,886","5,200",FOX
+NetCash-EndBal/RsrvforFutUse,"4,255","4,634","5,200","4,950",FOX
+"Depreciation, Supplemental",172,264,363,99,FOX

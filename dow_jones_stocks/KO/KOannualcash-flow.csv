@@ -1,0 +1,39 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"1,283","6,476","8,985","7,768","9,804",KO
+Depreciation/Depletion,"1,260","1,086","1,365","1,536","1,452",KO
+Deferred Taxes,"(1,252)",(413),(280),(18),894,KO
+Unusual Items,"1,459",743,(467),(914),"(1,365)",KO
+Equity in Net Earnings/Loss,(628),(457),(421),(511),(615),KO
+Other Non-Cash Items,"1,477","1,432",923,"1,293","1,130",KO
+Non-Cash Items,"2,308","1,718",35,(132),(850),KO
+"Cash Taxes Pd, Supplemental","1,950","2,120","2,126","1,268","2,168",KO
+"Cash Interest Pd, Suppl",803,903,921,935,738,KO
+Accounts Receivable,(108),27,(158),882,--,KO
+Inventories,(276),(203),(183),99,--,KO
+Prepaid Expenses,506,(221),(87),78,--,KO
+Payable/Accrued,(573),(251),"1,318",(860),--,KO
+Changes in Working Capital,"3,442","(1,240)",366,690,"1,325",KO
+Total Cash from Operations,"7,041","7,627","10,471","9,844","12,625",KO
+Capital Expenditures,"(1,750)","(1,548)","(2,054)","(1,177)","(1,367)",KO
+Acquisition of Business,"(3,809)","(1,263)","(5,542)","(1,052)","(4,766)",KO
+Sale of Business,"3,821","1,362",429,189,"2,180",KO
+Sale of Fixed Assets,108,248,978,189,108,KO
+Sale/Maturity of Investment,"16,694","14,977","6,973","13,835","7,059",KO
+Purchase of Investments,"(17,296)","(7,789)","(4,704)","(13,583)","(6,030)",KO
+Other Investing Cash Flow,(80),(60),(56),122,51,KO
+"OtherInvestCashFlowItms,Tot",(562),"7,475","(1,922)",(300),"(1,398)",KO
+Total Cash from Investing,"(2,312)","5,927","(3,976)","(1,477)","(2,765)",KO
+Financing Cash Flow Items,(95),(272),(227),310,(353),KO
+Total Cash Dividends Paid,"(6,320)","(6,644)","(6,845)","(7,047)","(7,252)",KO
+Sale/Issuance of Common,"1,595","1,476","1,012",647,702,KO
+Repurch/Retirement Common,"(3,682)","(1,912)","(1,103)",(118),(111),KO
+"Iss (Retirmnt) of Stock,Net","(2,087)",(436),(91),529,591,KO
+Total Debt Issued,"29,926","27,605","23,009","26,934","13,094",KO
+Total Debt Reduction,"(28,871)","(30,600)","(24,850)","(28,796)","(12,866)",KO
+"Iss (Retirmnt) of Debt, Net","1,055","(2,995)","(1,841)","(1,862)",228,KO
+Total Cash From Financing,"(7,447)","(10,347)","(9,004)","(8,070)","(6,786)",KO
+Foreign Exchange Effects,241,(262),(72),76,(159),KO
+Net Change in Cash,"(2,477)","2,945","(2,581)",373,"2,915",KO
+NetCash-BeginBal/RsvdforFutUse,"8,850","6,373","9,318","6,737","7,110",KO
+NetCash-EndBal/RsrvforFutUse,"6,373","9,318","6,737","7,110","10,025",KO
+"Depreciation, Supplemental","1,260","1,086","1,365","1,536","1,452",KO

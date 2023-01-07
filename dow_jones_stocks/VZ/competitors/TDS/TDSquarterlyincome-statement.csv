@@ -1,0 +1,46 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"1,372","1,315","1,349","1,392",TDS
+"Cost of Revenue, Total",670,580,620,703,TDS
+"Sell/Gen/AdminExpenses,Tot",445,410,427,462,TDS
+Depreciation/Amortization,225,229,229,234,TDS
+Impair-Assets Held for Use,--,--,3,0,TDS
+Other Unusual Expnse (In),(1),(1),0,0,TDS
+Unusual Expense (Income),8,1,10,4,TDS
+Loss(Gain)/Sale Asts (Oper),9,2,7,4,TDS
+Total Operating Expense,"1,348","1,220","1,286","1,403",TDS
+Total Operating Income,24,95,63,(11),TDS
+"Inter Expse,Net Non-Operat",(39),(33),(40),(46),TDS
+"Inter Income, Non-Operating",2,2,5,4,TDS
+"Invest Income, Non-Operat",44,45,38,40,TDS
+"Inter/Invest Inc, Non-Oper",46,47,43,44,TDS
+OtherNon-OperatInc (Expnse),0,--,0,0,TDS
+"Other, Net",0,--,0,0,TDS
+Income Before Tax,31,109,66,(13),TDS
+Income Tax - Total,(5),37,27,(3),TDS
+Income After Tax,36,72,39,(10),TDS
+Minority Interest,(6),(11),(4),2,TDS
+Net Inc Before Extra Items,30,61,35,(8),TDS
+Total Net Income,30,61,35,(8),TDS
+Total Adjust to Net Income,(18),(17),(17),(17),TDS
+Income Available to Common Excl. Extra. Items,12,44,18,(25),TDS
+Income Available to Common Incl. Extra. Items,12,44,18,(25),TDS
+Basic/Primary Weighted Average Shares,115,115,115,114,TDS
+Basic/Primary EPS Excl. Extra. Items,0.10,0.38,0.16,(0.22),TDS
+Basic/Primary EPS Incl. Extra. Items,0.10,0.38,0.16,(0.22),TDS
+Dilution Adjustment,1,--,0,0,TDS
+Diluted Weighted Average Shares,116,116,116,114,TDS
+Diluted EPS Excl. Extra. Items,0.11,0.38,0.16,(0.22),TDS
+Diluted EPS Incl. Extra. Items,0.11,0.38,0.16,(0.22),TDS
+Div/Share-ComStockPrimIssue,0.18,0.18,0.18,0.18,TDS
+Gross Divid - Common Stock,20,21,20,21,TDS
+Pro Forma Net Income,--,--,--,--,TDS
+"Interest Expense, Suppl",39,33,40,46,TDS
+"Depreciat/Amort, Suppl",225,229,229,235,TDS
+Total Special Items,8,1,10,4,TDS
+Normalzd Income Before Tax,39,110,76,(9),TDS
+Efct/SpecItemsIncTxs (STEC),3,0,4,1,TDS
+IncTxsExcl ImpctofSpec Itms,(2),37,31,(2),TDS
+Normalized Income After Tax,41,73,45,(7),TDS
+Normalzd Inc Avail to Common,17,45,24,(22),TDS
+Basic Normalized EPS,0.15,0.39,0.21,(0.20),TDS
+Diluted Normalized EPS,0.16,0.39,0.21,(0.20),TDS

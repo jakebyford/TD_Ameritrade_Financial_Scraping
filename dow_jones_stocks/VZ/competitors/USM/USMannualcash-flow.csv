@@ -1,0 +1,36 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,15,164,133,233,160,USM
+Depreciation/Depletion,615,640,702,683,678,USM
+Deferred Taxes,(365),(3),(4),130,41,USM
+Unusual Items,364,(8),18,18,21,USM
+Equity in Net Earnings/Loss,(137),(159),(166),(179),(179),USM
+Other Non-Cash Items,121,135,152,106,116,USM
+Non-Cash Items,348,(32),4,(55),(42),USM
+"Cash Taxes Pd, Supplemental",(55),90,78,(38),6,USM
+"Cash Interest Pd, Suppl",111,113,107,105,143,USM
+Accounts Receivable,(329),(188),(143),(62),(143),USM
+Inventories,0,(4),(20),16,(27),USM
+Accounts Payable,(14),3,(69),145,(57),USM
+Accrued Expenses,0,--,--,--,--,USM
+Changes in Working Capital,(144),(60),(111),246,(35),USM
+Total Cash from Operations,469,709,724,"1,237",802,USM
+Purchase of Fixed Assets,(465),(512),(650),(989),(724),USM
+Purchase/Acq of Intangibles,(189),(8),(266),(171),"(1,302)",USM
+Capital Expenditures,(654),(520),(916),"(1,160)","(2,026)",USM
+Acquisition of Business,--,--,--,(30),(20),USM
+Sale of Business,21,24,41,26,3,USM
+Sale/Maturity of Investment,--,50,29,1,3,USM
+Purchase of Investments,(50),(17),(11),(3),0,USM
+Other Investing Cash Flow,0,(1),(7),3,4,USM
+"OtherInvestCashFlowItms,Tot",(29),56,52,(3),(10),USM
+Total Cash from Investing,(683),(464),(864),"(1,163)","(2,036)",USM
+Financing Cash Flow Items,(7),(13),(6),(57),(35),USM
+"Iss (Retirmnt) of Stock,Net",1,18,(30),(34),(47),USM
+Long Term Debt Issued,0,--,--,"1,125","1,342",USM
+Long Term Debt Reduction,(14),(19),(116),(108),"(1,118)",USM
+"Iss (Retirmnt) of Debt, Net",(14),(19),(116),"1,017",224,USM
+Total Cash From Financing,(20),(14),(152),926,142,USM
+Net Change in Cash,(234),231,(292),"1,000","(1,092)",USM
+NetCash-BeginBal/RsvdforFutUse,586,352,583,291,"1,291",USM
+NetCash-EndBal/RsrvforFutUse,352,583,291,"1,291",199,USM
+"Depreciation, Supplemental",615,640,702,683,678,USM

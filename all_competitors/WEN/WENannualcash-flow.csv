@@ -1,0 +1,39 @@
+items,2017,2018,2019,2021,2022,ticker
+Net Income,"194,029","460,115","136,940","117,832","200,392",WEN
+Depreciation/Depletion,"125,687","128,879","131,693","132,775","125,540",WEN
+Deferred Taxes,"(119,330)","(6,568)",837,"10,266","(13,781)",WEN
+Unusual Items,"40,603","(445,766)","(18,780)","4,889","(31,357)",WEN
+Equity in Net Earnings/Loss,"4,140","5,314","4,727","2,280","5,134",WEN
+Other Non-Cash Items,"24,335","24,865","56,856","50,647","74,846",WEN
+Non-Cash Items,"69,078","(415,587)","42,803","57,816","48,623",WEN
+"Cash Taxes Pd, Supplemental","29,311","102,827","34,798","16,202","54,779",WEN
+"Cash Interest Pd, Suppl","128,989","137,607","138,270","136,228","133,284",WEN
+Accounts Receivable,"(17,340)","13,226","16,935","(16,243)","(5,613)",WEN
+Inventories,(305),(434),(163),(841),(872),WEN
+Prepaid Expenses,"(3,488)","6,824","(1,569)","(8,780)","(3,396)",WEN
+Accounts Payable,"(2,290)",(145),"1,054","1,620","7,586",WEN
+Accrued Expenses,"4,982","23,963","(36,877)","(59,136)","(24,226)",WEN
+Changes in Working Capital,"(30,671)","57,389","(23,340)","(34,328)","(15,002)",WEN
+Total Cash from Operations,"238,793","224,228","288,933","284,361","345,772",WEN
+Capital Expenditures,"(81,710)","(69,857)","(74,453)","(68,969)","(77,984)",WEN
+Acquisition of Business,"(86,788)","(21,401)","(5,052)","(4,879)","(123,069)",WEN
+Sale of Business,"81,516","3,223","3,448","6,091","55,118",WEN
+Sale/Maturity of Investment,"4,111","450,000","24,496",169,63,WEN
+Purchase of Investments,(375),(13),0,0,"(10,000)",WEN
+Other Investing Cash Flow,"(9,000)",959,"(3,370)",(662),"1,203",WEN
+"OtherInvestCashFlowItms,Tot","(10,536)","432,768","19,522",719,"(76,685)",WEN
+Total Cash from Investing,"(92,246)","362,911","(54,931)","(68,250)","(154,669)",WEN
+Financing Cash Flow Items,"(7,145)","(35,414)","(22,828)","(7,699)","(25,384)",WEN
+Total Cash Dividends Paid,"(68,322)","(80,532)","(96,364)","(64,866)","(94,846)",WEN
+"Common Stock, Net","(126,231)","(269,809)","(217,797)","(62,173)","(268,531)",WEN
+Options Exercised,"12,884","45,228","28,328","23,361","30,003",WEN
+"Iss (Retirmnt) of Stock,Net","(113,347)","(224,581)","(189,469)","(38,812)","(238,528)",WEN
+Long Term Debt Issued,"31,130","934,837","850,000","153,315","1,100,000",WEN
+Long Term Debt Reduction,"(58,113)","(900,072)","(906,635)","(199,845)","(983,984)",WEN
+"Iss (Retirmnt) of Debt, Net","(26,983)","34,765","(56,635)","(46,530)","116,016",WEN
+Total Cash From Financing,"(215,797)","(305,762)","(365,296)","(157,907)","(242,742)",WEN
+Foreign Exchange Effects,"6,125","(7,689)","3,489","1,330",364,WEN
+Net Change in Cash,"(63,125)","273,688","(127,805)","59,534","(51,275)",WEN
+NetCash-BeginBal/RsvdforFutUse,"275,949","212,824","486,512","358,707","418,241",WEN
+NetCash-EndBal/RsrvforFutUse,"212,824","486,512","358,707","418,241","366,966",WEN
+"Depreciation, Supplemental","125,687","128,879","131,693","132,775","125,540",WEN

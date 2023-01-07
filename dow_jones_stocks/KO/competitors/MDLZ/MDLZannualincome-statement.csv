@@ -1,0 +1,49 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"25,896","25,938","25,868","26,581","28,720",MDLZ
+"Cost of Revenue, Total","15,862","15,586","15,531","16,135","17,466",MDLZ
+Selling/Gen/Admin Expense,"4,061","4,614","4,309","4,174","4,339",MDLZ
+Advertising Expense,"1,248","1,173","1,208","1,376","1,564",MDLZ
+"Sell/Gen/AdminExpenses,Tot","5,309","5,787","5,517","5,550","5,903",MDLZ
+Research & Development,366,362,351,332,347,MDLZ
+Depreciation/Amortization,178,176,174,194,134,MDLZ
+"Inter/Invest Inc, Operating",3,--,--,--,--,MDLZ
+Restructuring Charge,535,316,176,156,154,MDLZ
+Impair-Assets Held for Use,109,73,57,145,58,MDLZ
+Other Unusual Expnse (In),85,466,219,401,142,MDLZ
+Unusual Expense (Income),729,855,452,702,354,MDLZ
+"Other Operat Expse, Total",(2),--,--,--,--,MDLZ
+Total Operating Expense,"22,445","22,766","22,025","22,913","24,204",MDLZ
+Total Operating Income,"3,451","3,172","3,843","3,668","4,516",MDLZ
+"Inter Expse,Net Non-Operat",(396),(462),(484),(423),(365),MDLZ
+"Inter/Invest Inc, Non-Oper",11,10,(111),(103),--,MDLZ
+OtherNon-OperatInc (Expnse),58,122,199,241,218,MDLZ
+"Other, Net",58,122,199,241,218,MDLZ
+Income Before Tax,"3,124","2,842","3,447","3,383","4,369",MDLZ
+Income Tax - Total,710,754,(3),"1,224","1,190",MDLZ
+Income After Tax,"2,414","2,088","3,450","2,159","3,179",MDLZ
+Minority Interest,(14),(14),(15),(14),(14),MDLZ
+Equity In Affiliates,384,"1,262",499,"1,410","1,135",MDLZ
+Net Inc Before Extra Items,"2,784","3,336","3,934","3,555","4,300",MDLZ
+Total Extraordinary Items,44,(19),(5),0,--,MDLZ
+Total Net Income,"2,828","3,317","3,929","3,555","4,300",MDLZ
+Income Available to Common Excl. Extra. Items,"2,784","3,336","3,934","3,555","4,300",MDLZ
+Income Available to Common Incl. Extra. Items,"2,828","3,317","3,929","3,555","4,300",MDLZ
+Basic/Primary Weighted Average Shares,"1,513","1,472","1,445","1,431","1,403",MDLZ
+Basic/Primary EPS Excl. Extra. Items,1.84,2.27,2.72,2.48,3.06,MDLZ
+Basic/Primary EPS Incl. Extra. Items,1.87,2.25,2.72,2.48,3.06,MDLZ
+Diluted Weighted Average Shares,"1,531","1,486","1,458","1,441","1,413",MDLZ
+Diluted EPS Excl. Extra. Items,1.82,2.24,2.70,2.47,3.04,MDLZ
+Diluted EPS Incl. Extra. Items,1.85,2.23,2.69,2.47,3.04,MDLZ
+Div/Share-ComStockPrimIssue,0.60,1.18,1.09,1.20,1.33,MDLZ
+Gross Divid - Common Stock,"1,239","1,409","1,576","1,718","1,867",MDLZ
+Pro Forma Net Income,--,--,--,--,--,MDLZ
+"Interest Expense, Suppl",396,462,484,423,365,MDLZ
+"Depreciat/Amort, Suppl",638,635,674,712,772,MDLZ
+Total Special Items,763,892,470,980,688,MDLZ
+Normalzd Income Before Tax,"3,887","3,734","3,917","4,363","5,057",MDLZ
+Efct/SpecItemsIncTxs (STEC),173,237,165,355,187,MDLZ
+IncTxsExcl ImpctofSpec Itms,883,991,162,"1,579","1,377",MDLZ
+Normalized Income After Tax,"3,004","2,743","3,756","2,784","3,680",MDLZ
+Normalzd Inc Avail to Common,"3,374","3,991","4,240","4,180","4,801",MDLZ
+Basic Normalized EPS,2.23,2.71,2.93,2.92,3.42,MDLZ
+Diluted Normalized EPS,2.20,2.69,2.91,2.90,3.40,MDLZ

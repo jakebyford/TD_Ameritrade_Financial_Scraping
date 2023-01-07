@@ -1,0 +1,40 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash and Short Term Invs,117,167,175,246,236,FAST
+"Trade Accts Recvble, Gross",620,727,753,782,912,FAST
+Prov. for Doubtful Accts,(12),(13),(11),(12),(12),FAST
+"Total Receivables, Net",608,714,742,769,900,FAST
+Total Inventory,"1,093","1,279","1,366","1,338","1,524",FAST
+Prepaid Expenses,0,9,17,7,9,FAST
+"Other Curr. Assets, Total",118,147,157,140,188,FAST
+Total Current Assets,"1,936","2,316","2,457","2,500","2,857",FAST
+Buildings,308,323,424,450,502,FAST
+Land/Improvements,38,36,42,52,58,FAST
+Machinery/Equipment,"1,109","1,235","1,369","1,483","1,564",FAST
+Construction in Progress,149,152,132,99,73,FAST
+Other Prop./Plant/Equip.,--,--,243,243,242,FAST
+Prop./Plant/Equip. - Gross,"1,605","1,746","2,210","2,328","2,440",FAST
+Accumulated Depreciation,(711),(821),(944),"(1,054)","(1,178)",FAST
+Prop./Plant/Equip. - Net,894,925,"1,266","1,274","1,262",FAST
+Intangibles - Net,--,--,--,124,--,FAST
+Other Long Term Assets,81,81,76,68,181,FAST
+Total Assets,"2,911","3,322","3,800","3,965","4,299",FAST
+Accounts Payable,148,194,193,207,233,FAST
+Accrued Expenses,194,241,349,366,389,FAST
+Notes Payable/ST Debt,0,0,0,0,0,FAST
+Curr. Port. LT Dbt/Cap Ls.,3,3,3,40,60,FAST
+"Other Curr. Lblts, Total",7,0,--,--,--,FAST
+Total Current Liabilities,351,437,545,613,682,FAST
+Total Long Term Debt,412,497,342,365,330,FAST
+Total Debt,415,500,345,405,390,FAST
+Deferred Income Tax,51,84,99,102,89,FAST
+"Other Liabilities, Total",--,--,148,152,156,FAST
+Total Liabilities,814,"1,019","1,134","1,232","1,257",FAST
+Redeemable Preferred Stock,0,0,0,0,0,FAST
+Common Stock,3,3,3,3,6,FAST
+Additional Paid-In Capital,9,3,67,62,96,FAST
+Ret. Earn.(Accum. Deficit),"2,111","2,342","2,634","2,690","2,971",FAST
+"Other Equity, Total",(25),(45),(38),(21),(31),FAST
+Total Equity,"2,097","2,303","2,666","2,733","3,042",FAST
+Total Liabilities & Shareholders’ Equity,"2,911","3,322","3,800","3,965","4,299",FAST
+Ttl Comm. Shares Outs.,575,572,574,574,575,FAST
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,FAST

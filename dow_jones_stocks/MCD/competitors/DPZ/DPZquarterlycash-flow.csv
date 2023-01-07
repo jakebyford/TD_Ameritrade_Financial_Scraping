@@ -1,0 +1,31 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,510,91,193,294,DPZ
+Depreciation/Depletion,73,19,37,56,DPZ
+Deferred Taxes,2,1,2,6,DPZ
+Unusual Items,(36),0,0,0,DPZ
+Other Non-Cash Items,18,10,21,27,DPZ
+Non-Cash Items,(18),10,21,28,DPZ
+Changes in Working Capital,86,(43),(101),(54),DPZ
+Total Cash from Operations,654,79,153,330,DPZ
+Capital Expenditures,(94),(12),(33),(51),DPZ
+Acquisition of Business,0,(7),(7),(7),DPZ
+Sale of Fixed Assets,0,--,--,--,DPZ
+Sale/Maturity of Investment,0,0,0,--,DPZ
+Purchase of Investments,(49),--,--,--,DPZ
+Other Investing Cash Flow,1,(1),0,(1),DPZ
+"OtherInvestCashFlowItms,Tot",(49),(8),(7),(8),DPZ
+Total Cash from Investing,(143),(21),(40),(59),DPZ
+Financing Cash Flow Items,(22),(1),(2),(11),DPZ
+Total Cash Dividends Paid,(139),0,(40),(80),DPZ
+"Common Stock, Net","(1,321)",(48),(98),(294),DPZ
+Options Exercised,20,0,1,1,DPZ
+"Iss (Retirmnt) of Stock,Net","(1,301)",(47),(97),(292),DPZ
+Long Term Debt Issued,"1,850",--,0,120,DPZ
+Long Term Debt Reduction,(910),(14),(28),(41),DPZ
+"Iss (Retirmnt) of Debt, Net",940,(14),(28),79,DPZ
+Total Cash From Financing,(523),(62),(167),(304),DPZ
+Foreign Exchange Effects,0,0,(1),(1),DPZ
+Net Change in Cash,(12),(4),(54),(33),DPZ
+NetCash-BeginBal/RsvdforFutUse,502,490,490,490,DPZ
+NetCash-EndBal/RsrvforFutUse,490,487,437,457,DPZ
+"Depreciation, Supplemental",73,19,37,56,DPZ

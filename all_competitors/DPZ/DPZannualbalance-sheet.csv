@@ -1,0 +1,55 @@
+items,2017,2018,2019,2021,2022,ticker
+Cash and Short Term Invs,36,25,191,285,310,DPZ
+"Trade Accts Recvble, Gross",175,192,213,246,257,DPZ
+Prov. for Doubtful Accts,(1),(2),(3),(2),(2),DPZ
+"Total Receivables, Net",174,190,210,272,270,DPZ
+Invent. - Finished Goods,37,43,49,57,62,DPZ
+Inventories - Other,3,3,4,10,6,DPZ
+Total Inventory,40,46,53,67,68,DPZ
+Prepaid Expenses,18,26,19,29,32,DPZ
+"Other Curr. Assets, Total",312,280,315,217,181,DPZ
+Total Current Assets,580,567,788,869,861,DPZ
+Buildings,129,170,164,186,194,DPZ
+Land/Improvements,29,41,45,88,108,DPZ
+Machinery/Equipment,217,244,244,292,313,DPZ
+Construction in Progress,32,32,43,13,28,DPZ
+Other Prop./Plant/Equip.,--,--,229,228,211,DPZ
+Prop./Plant/Equip. - Gross,407,487,724,808,853,DPZ
+Accumulated Depreciation,(237),(252),(252),(283),(318),DPZ
+Prop./Plant/Equip. - Net,170,235,472,526,535,DPZ
+"Goodwill, Net",15,15,15,15,15,DPZ
+Intangibles - Gross,132,153,177,205,--,DPZ
+Accum. Intangible Amort.,(79),(89),(104),(124),--,DPZ
+Intangibles - Net,53,64,73,81,96,DPZ
+Long Term Investments,8,9,12,13,141,DPZ
+Other Long Term Assets,8,13,13,61,23,DPZ
+Total Assets,837,907,"1,382","1,567","1,672",DPZ
+Accounts Payable,107,93,111,94,92,DPZ
+Accrued Expenses,118,118,169,202,232,DPZ
+Notes Payable/ST Debt,0,0,0,0,0,DPZ
+Curr. Port. LT Dbt/Cap Ls.,32,36,43,3,56,DPZ
+Customer Advances,--,4,4,4,5,DPZ
+Other Current Liabilities,141,129,126,168,206,DPZ
+"Other Curr. Lblts, Total",141,133,130,172,212,DPZ
+Total Current Liabilities,398,380,454,471,591,DPZ
+Long Term Debt,"3,121","3,496","4,053","4,058","4,942",DPZ
+Capital Lease Obligations,--,--,18,58,72,DPZ
+Total Long Term Debt,"3,121","3,496","4,071","4,116","5,015",DPZ
+Total Debt,"3,154","3,532","4,114","4,119","5,070",DPZ
+Deferred Income Tax,--,--,--,6,4,DPZ
+Reserves,31,31,35,37,37,DPZ
+Other LT Liabilities,22,41,238,238,235,DPZ
+"Other Liabilities, Total",52,72,273,275,272,DPZ
+Total Liabilities,"3,572","3,947","4,798","4,868","5,881",DPZ
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,0,DPZ
+Common Stock,0,0,0,0,0,DPZ
+Additional Paid-In Capital,6,1,0,5,1,DPZ
+Ret. Earn.(Accum. Deficit),"(2,739)","(3,036)","(3,413)","(3,303)","(4,208)",DPZ
+"Other Equity, Total",(2),(4),(4),(2),(3),DPZ
+Total Equity,"(2,735)","(3,040)","(3,416)","(3,300)","(4,210)",DPZ
+Total Liabilities & Shareholders’ Equity,837,907,"1,382","1,567","1,672",DPZ
+Shr Outs.-Com. Primary Iss.,43,41,39,39,36,DPZ
+Shr Outs.-Com. Stk. Iss. 2,0,0,0,0,0,DPZ
+Ttl Comm. Shares Outs.,43,41,39,39,36,DPZ
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,DPZ
+Trsy. Shrs-Comm. Iss. 2,0,0,0,0,0,DPZ

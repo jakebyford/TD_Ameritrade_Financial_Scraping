@@ -1,0 +1,44 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"110,360","125,843","143,015","168,088","198,270",MSFT
+"Cost of Revenue, Total","38,353","42,910","46,078","52,232","62,650",MSFT
+Selling/Gen/Admin Expense,"20,623","21,498","23,109","23,724","26,225",MSFT
+Advertising Expense,"1,600","1,600","1,600","1,500","1,500",MSFT
+"Sell/Gen/AdminExpenses,Tot","22,223","23,098","24,709","25,224","27,725",MSFT
+Research & Development,"14,726","16,876","19,269","20,716","24,512",MSFT
+Restructuring Charge,0,0,--,--,--,MSFT
+Impair-Assets Held for Sale,47,26,133,13,101,MSFT
+Unusual Expense (Income),47,26,133,13,101,MSFT
+Total Operating Expense,"75,349","82,910","90,189","98,185","114,988",MSFT
+Total Operating Income,"35,011","42,933","52,826","69,903","83,282",MSFT
+"Inter Expse,Net Non-Operat","(2,733)","(2,686)","(2,591)","(2,346)","(2,063)",MSFT
+"Inter/Invest Inc, Non-Oper","4,255","3,498","2,841","3,447","2,529",MSFT
+OtherNon-OperatInc (Expnse),(59),(57),(40),98,(32),MSFT
+"Other, Net",(59),(57),(40),98,(32),MSFT
+Income Before Tax,"36,474","43,688","53,036","71,102","83,716",MSFT
+Income Tax - Total,"6,203","4,291","8,755","9,831","10,978",MSFT
+Income After Tax,"30,271","39,397","44,281","61,271","72,738",MSFT
+Net Inc Before Extra Items,"30,271","39,397","44,281","61,271","72,738",MSFT
+Total Extraordinary Items,"(13,700)",(157),0,--,--,MSFT
+Total Net Income,"16,571","39,240","44,281","61,271","72,738",MSFT
+Income Available to Common Excl. Extra. Items,"30,271","39,397","44,281","61,271","72,738",MSFT
+Income Available to Common Incl. Extra. Items,"16,571","39,240","44,281","61,271","72,738",MSFT
+Basic/Primary Weighted Average Shares,"7,700","7,673","7,610","7,547","7,496",MSFT
+Basic/Primary EPS Excl. Extra. Items,3.93,5.13,5.82,8.12,9.70,MSFT
+Basic/Primary EPS Incl. Extra. Items,2.15,5.11,5.82,8.12,9.70,MSFT
+Diluted Weighted Average Shares,"7,794","7,753","7,683","7,608","7,540",MSFT
+Diluted EPS Excl. Extra. Items,3.88,5.08,5.76,8.05,9.65,MSFT
+Diluted EPS Incl. Extra. Items,2.13,5.06,5.76,8.05,9.65,MSFT
+Div/Share-ComStockPrimIssue,1.65,1.80,1.99,2.19,2.42,MSFT
+Gross Divid - Common Stock,"12,917","14,103","15,483","16,871","18,552",MSFT
+Pro Forma Net Income,--,--,--,--,--,MSFT
+"Interest Expense, Suppl","2,733","2,686","2,591","2,346","2,063",MSFT
+"Interest Capitalized, Suppl",(59),--,--,--,--,MSFT
+"Depreciat/Amort, Suppl","8,007","10,070","11,196","10,086","12,600",MSFT
+Total Special Items,47,26,319,13,101,MSFT
+Normalzd Income Before Tax,"36,521","43,714","53,355","71,115","83,817",MSFT
+Efct/SpecItemsIncTxs (STEC),8,3,53,2,13,MSFT
+IncTxsExcl ImpctofSpec Itms,"6,211","4,294","8,808","9,833","10,991",MSFT
+Normalized Income After Tax,"30,310","39,420","44,547","61,282","72,826",MSFT
+Normalzd Inc Avail to Common,"30,310","39,420","44,547","61,282","72,826",MSFT
+Basic Normalized EPS,3.94,5.14,5.85,8.12,9.72,MSFT
+Diluted Normalized EPS,3.89,5.08,5.80,8.05,9.66,MSFT

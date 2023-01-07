@@ -1,0 +1,52 @@
+items,2017,2018,2019,2020,2021,ticker
+Interest & Fees on Loans,"23,388","24,728","25,862","24,074","24,263",COF
+Inter & Divs/ Invest Securs,"1,711","2,211","2,411","1,877","1,446",COF
+Other Interest Income,123,237,240,82,60,COF
+"Interest Income, Bank","25,222","27,176","28,513","26,033","25,769",COF
+Interest on Deposit,"1,602","2,598","3,420","2,165",956,COF
+Inter on Other Borrowings,"1,160","1,703","1,753",955,642,COF
+Total Interest Expense,"2,762","4,301","5,173","3,120","1,598",COF
+Net Interest Income,"22,460","22,875","23,340","22,913","24,171",COF
+Loan Loss Provision,"7,551","5,856","6,236","6,264","(1,944)",COF
+NetInterIn after Loan Loss Provision,"14,909","17,019","17,104","16,649","26,115",COF
+Fees & Commish from Operat,"1,597","1,585","1,330","1,243","1,578",COF
+Fees for Other Cust Serv,"2,573","2,823","3,179","3,017","3,860",COF
+Invest Securities Gains,65,(209),26,25,2,COF
+Other Revenue,542,"1,002",718,"1,325",824,COF
+"Non-Interest Income, Bank","4,777","5,201","5,253","5,610","6,264",COF
+Labor & Related Expenses,"(5,899)","(5,727)","(6,388)","(6,805)","(7,421)",COF
+Amortization of Intangibles,(245),(174),(112),(60),(29),COF
+Other Unusual Expense,--,--,--,"(4,000)",--,COF
+Other Expense,"(8,050)","(9,001)","(8,983)","(8,191)","(9,120)",COF
+"Non-Interest Expense, Bank","(14,194)","(14,902)","(15,483)","(19,056)","(16,570)",COF
+Income Before Tax,"5,492","7,318","6,874","3,203","15,809",COF
+Income Tax - Total,"1,574","1,293","1,341",486,"3,415",COF
+Income After Tax,"3,918","6,025","5,533","2,717","12,394",COF
+Net Inc Before Extra Items,"3,918","6,025","5,533","2,717","12,394",COF
+Discontinued Operations,(135),(10),13,(3),(4),COF
+Extraordinary Item,"(1,801)",--,--,--,--,COF
+Total Extraordinary Items,"(1,936)",(10),13,(3),(4),COF
+Total Net Income,"1,982","6,015","5,546","2,714","12,390",COF
+Preferred Dividends,(265),(265),(313),(319),(320),COF
+Misc Earnings Adjustment,(13),(40),(41),(20),(105),COF
+Total Adjust to Net Income,(278),(305),(354),(339),(425),COF
+Income Available to Common Excl. Extra. Items,"3,640","5,720","5,179","2,378","11,969",COF
+Income Available to Common Incl. Extra. Items,"1,704","5,710","5,192","2,375","11,965",COF
+Basic/Primary Weighted Average Shares,484,480,468,458,443,COF
+Basic/Primary EPS Excl. Extra. Items,7.52,11.92,11.08,5.19,27.05,COF
+Basic/Primary EPS Incl. Extra. Items,3.52,11.90,11.10,5.19,27.04,COF
+Diluted Weighted Average Shares,489,483,470,459,444,COF
+Diluted EPS Excl. Extra. Items,7.45,11.84,11.02,5.18,26.95,COF
+Diluted EPS Incl. Extra. Items,3.49,11.82,11.05,5.18,26.94,COF
+Div/Share-ComStockPrimIssue,1.60,1.60,1.60,1.00,2.00,COF
+Gross Divid - Common Stock,783,776,757,463,"1,152",COF
+Pro Forma Net Income,--,--,--,--,--,COF
+"Depreciat/Amort, Suppl","2,195","2,222","3,227","3,441","3,452",COF
+Total Special Items,--,34,28,"4,000",--,COF
+Normalzd Income Before Tax,"5,492","7,352","6,902","7,203","15,809",COF
+Efct/SpecItemsIncTxs (STEC),--,6,5,607,--,COF
+IncTxsExcl ImpctofSpec Itms,"1,574","1,299","1,346","1,093","3,415",COF
+Normalized Income After Tax,"3,918","6,053","5,556","6,110","12,394",COF
+Normalzd Inc Avail to Common,"3,640","5,748","5,202","5,771","11,969",COF
+Basic Normalized EPS,7.52,11.98,11.12,12.61,27.05,COF
+Diluted Normalized EPS,7.45,11.90,11.07,12.58,26.95,COF

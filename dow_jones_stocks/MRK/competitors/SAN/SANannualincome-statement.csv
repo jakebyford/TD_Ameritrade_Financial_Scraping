@@ -1,0 +1,57 @@
+items,2017,2018,2019,2020,2021,ticker
+Interest & Fees on Loans,"43,640","43,489","46,180","38,788","38,649",SAN
+Inter & Divs/ Invest Securs,"7,141","6,429","6,378","5,022","5,724",SAN
+Interest on Deposits,"3,721","2,875","3,099","1,325","1,392",SAN
+Other Interest Income,"1,539","1,532","1,128",606,698,SAN
+"Interest Income, Bank","56,041","54,325","56,785","45,741","46,463",SAN
+Interest on Deposit,"19,020","17,383","19,215","12,165","11,120",SAN
+Inter on Other Borrowings,"2,725","2,601","2,287","1,582","1,973",SAN
+Total Interest Expense,"21,745","19,984","21,502","13,747","13,093",SAN
+Net Interest Income,"34,296","34,341","35,283","31,994","33,370",SAN
+Loan Loss Provision,"9,241","8,985","9,340","12,363","7,388",SAN
+NetInterIn after Loan Loss Provision,"25,055","25,356","25,943","19,631","25,982",SAN
+Fees & Commish from Operat,"14,579","14,664","15,349","13,024","13,812",SAN
+Insur Commish Fees& Premium,"2,546","3,175","2,534","1,452","1,516",SAN
+Fees for Other Cust Serv,170,97,28,12,--,SAN
+Dealer Trading Acct Profit,"1,252","1,515","1,349","3,211","1,141",SAN
+Invest Securities Gains,788,"1,305","1,961","1,580","1,273",SAN
+Foreign Currency Gains,105,--,--,--,--,SAN
+Unrealized Gains,--,--,--,--,270,SAN
+Other Unusual Income,522,105,"1,291",122,53,SAN
+Other Revenue,"1,850","2,096","1,742","1,609","2,687",SAN
+"Non-Interest Income, Bank","21,812","22,957","24,254","21,010","20,752",SAN
+Labor & Related Expenses,"(12,047)","(11,865)","(12,141)","(10,783)","(11,216)",SAN
+Depreciation Expense,"(1,190)","(1,172)","(2,035)","(1,914)","(1,743)",SAN
+Amortization of Intangibles,"(1,403)","(1,253)",(966),(896),"(1,013)",SAN
+Foreign Currency Losses,--,(679),(932),"(2,093)",(562),SAN
+Unrealized Losses,(85),(57),(286),(171),--,SAN
+Other Unusual Expense,"(1,494)",(341),"(1,867)","(10,606)",(293),SAN
+Restructuring Charge,--,--,--,--,"(2,814)",SAN
+Other Expense,"(18,557)","(18,745)","(19,427)","(16,254)","(14,546)",SAN
+"Non-Interest Expense, Bank","(34,776)","(34,112)","(37,654)","(42,717)","(32,187)",SAN
+Income Before Tax,"12,091","14,201","12,543","(2,076)","14,547",SAN
+Income Tax - Total,"3,884","4,886","4,427","5,632","4,894",SAN
+Income After Tax,"8,207","9,315","8,116","(7,708)","9,653",SAN
+Minority Interest,"(1,588)","(1,505)","(1,601)","(1,063)","(1,529)",SAN
+Net Inc Before Extra Items,"6,619","7,810","6,515","(8,771)","8,124",SAN
+Total Net Income,"6,619","7,810","6,515","(8,771)","8,124",SAN
+Income Available to Common Excl. Extra. Items,"6,619","7,810","6,515","(8,771)","8,124",SAN
+Income Available to Common Incl. Extra. Items,"6,619","7,810","6,515","(8,771)","8,124",SAN
+Basic/Primary Weighted Average Shares,"16,164","16,852","17,059","17,316","17,272",SAN
+Basic/Primary EPS Excl. Extra. Items,0.41,0.46,0.38,(0.51),0.47,SAN
+Basic/Primary EPS Incl. Extra. Items,0.41,0.46,0.38,(0.51),0.47,SAN
+Diluted Weighted Average Shares,"16,217","16,852","17,097","17,316","17,272",SAN
+Diluted EPS Excl. Extra. Items,0.41,0.46,0.38,(0.51),0.47,SAN
+Diluted EPS Incl. Extra. Items,0.41,0.46,0.38,(0.51),0.47,SAN
+Div/Share-ComStockPrimIssue,0.15,0.19,0.22,0.03,0.10,SAN
+Gross Divid - Common Stock,"2,898","1,049",--,--,--,SAN
+Pro Forma Net Income,--,--,--,--,--,SAN
+"Depreciat/Amort, Suppl","1,215","1,185","2,035","1,914","1,743",SAN
+Total Special Items,972,236,576,"10,484","3,054",SAN
+Normalzd Income Before Tax,"13,063","14,437","13,119","8,408","17,601",SAN
+Efct/SpecItemsIncTxs (STEC),312,81,203,"3,669","1,027",SAN
+IncTxsExcl ImpctofSpec Itms,"4,196","4,967","4,630","9,301","5,921",SAN
+Normalized Income After Tax,"8,867","9,470","8,489",(893),"11,680",SAN
+Normalzd Inc Avail to Common,"7,279","7,965","6,888","(1,956)","10,151",SAN
+Basic Normalized EPS,0.45,0.47,0.40,(0.11),0.59,SAN
+Diluted Normalized EPS,0.45,0.47,0.40,(0.11),0.59,SAN

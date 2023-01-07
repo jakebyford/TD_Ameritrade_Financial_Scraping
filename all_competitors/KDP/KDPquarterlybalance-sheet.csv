@@ -1,0 +1,60 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash and Short Term Invs,567,592,552,925,KDP
+"Trade Accts Recvble, Gross","1,155",--,--,--,KDP
+Prov. for Doubtful Accts,(7),--,--,--,KDP
+"Trade Accts Recvble, Net","1,148","1,214","1,326","1,472",KDP
+Other Receivables,126,144,145,159,KDP
+"Total Receivables, Net","1,274","1,358","1,471","1,631",KDP
+Invent. - Finished Goods,577,701,862,"1,026",KDP
+Invent. - Work In Progress,6,8,5,7,KDP
+Invent. - Raw Materials,330,363,395,432,KDP
+Inventories - Other,(19),(27),(23),(27),KDP
+Total Inventory,894,"1,045","1,239","1,438",KDP
+Prepaid Expenses,84,99,231,138,KDP
+Restricted Cash - Current,1,2,2,3,KDP
+Discont. Ops.-Curr. Assets,0,--,--,--,KDP
+Other Current Assets,237,394,276,190,KDP
+"Other Curr. Assets, Total",238,396,278,193,KDP
+Total Current Assets,"3,057","3,490","3,771","4,325",KDP
+Prop./Plant/Equip. - Net,"3,167","3,245","3,275","3,315",KDP
+"Goodwill, Net","20,182","20,243","20,163","20,024",KDP
+Intangibles - Gross,"24,539","24,607","24,523","24,082",KDP
+Accum. Intangible Amort.,(683),(718),(749),(783),KDP
+Intangibles - Net,"23,856","23,889","23,774","23,299",KDP
+LT Invt. - Affiliate Comp.,30,29,78,76,KDP
+LT Investments - Other,59,51,47,46,KDP
+Long Term Investments,89,80,125,122,KDP
+Other Long Term Assets,205,259,283,318,KDP
+Total Assets,"50,598","51,244","51,428","51,440",KDP
+Accounts Payable,"4,316","4,510","4,950","5,284",KDP
+Accrued Expenses,"1,153","1,076","1,150","1,164",KDP
+Notes Payable/ST Debt,291,143,145,145,KDP
+Curr. Port. LT Dbt/Cap Ls.,234,87,92,95,KDP
+Dividends Payable,265,266,265,284,KDP
+Income Taxes Payable,144,282,18,59,KDP
+Other Current Liabilities,82,84,141,202,KDP
+"Other Curr. Lblts, Total",491,632,424,545,KDP
+Total Current Liabilities,"6,485","6,448","6,761","7,233",KDP
+Long Term Debt,"11,578","11,584","11,555","11,561",KDP
+Capital Lease Obligations,621,615,632,624,KDP
+Total Long Term Debt,"12,199","12,199","12,187","12,185",KDP
+Total Debt,"12,724","12,429","12,424","12,425",KDP
+Deferred Income Tax,"5,986","6,054","6,007","5,745",KDP
+Minority Interest,0,0,0,(1),KDP
+Reserves,75,67,68,66,KDP
+Pension Benefits - Underfunded,40,41,42,41,KDP
+Other LT Liabilities,841,924,972,"1,069",KDP
+"Other Liabilities, Total",956,"1,032","1,082","1,176",KDP
+Total Liabilities,"25,626","25,733","26,037","26,338",KDP
+"Pref. Stock-Non Rdmbl, Net",--,0,--,--,KDP
+Common Stock,14,14,14,14,KDP
+Additional Paid-In Capital,"21,785","21,764","21,701","21,730",KDP
+Ret. Earn.(Accum. Deficit),"3,199","3,518","3,471","3,367",KDP
+Cum. Trans. Adjustment,81,180,47,(202),KDP
+Min. Pension Lblty Adj.,(4),(4),(7),(7),KDP
+Other Comprehensive Income,(103),39,165,200,KDP
+"Other Equity, Total",(26),215,205,(9),KDP
+Total Equity,"24,972","25,511","25,391","25,102",KDP
+Total Liabilities & Shareholders’ Equity,"50,598","51,244","51,428","51,440",KDP
+Ttl Comm. Shares Outs.,"1,418","1,418","1,416","1,416",KDP
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,KDP

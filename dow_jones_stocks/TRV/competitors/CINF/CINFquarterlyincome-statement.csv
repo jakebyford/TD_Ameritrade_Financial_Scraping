@@ -1,0 +1,39 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Gross Premiums Written,"1,761","1,772","1,861","1,996",CINF
+Other Insurance Revenue,6,7,8,10,CINF
+Reinsurance - Income,(85),(82),(88),(114),CINF
+Total Premiums Earned,"1,682","1,697","1,781","1,892",CINF
+Net Investment Income,186,184,193,190,CINF
+Realized Gains (Losses),"1,455",(666),"(1,154)",(674),CINF
+Total Revenue,"3,323","1,215",820,"1,408",CINF
+"Losses, Benies & Adjusts",946,"1,039","1,309","1,418",CINF
+Underwriting & Commissions,511,519,534,551,CINF
+"Losses,Benies& Adjmts,Total","1,457","1,558","1,843","1,969",CINF
+"Other Operat Expse, Total",6,4,5,4,CINF
+Total Operating Expense,"1,463","1,562","1,848","1,973",CINF
+Total Operating Income,"1,860",(347),"(1,028)",(565),CINF
+"Inter Expse,Net Non-Operat",(14),(13),(13),(14),CINF
+Income Before Tax,"1,846",(360),"(1,041)",(579),CINF
+Income Tax - Total,376,(87),(233),(161),CINF
+Income After Tax,"1,470",(273),(808),(418),CINF
+Net Inc Before Extra Items,"1,470",(273),(808),(418),CINF
+Total Net Income,"1,470",(273),(808),(418),CINF
+Income Available to Common Excl. Extra. Items,"1,470",(273),(808),(418),CINF
+Income Available to Common Incl. Extra. Items,"1,470",(273),(808),(418),CINF
+Basic/Primary Weighted Average Shares,161,160,160,158,CINF
+Basic/Primary EPS Excl. Extra. Items,9.15,(1.70),(5.06),(2.65),CINF
+Basic/Primary EPS Incl. Extra. Items,9.15,(1.70),(5.06),(2.65),CINF
+Diluted Weighted Average Shares,162,160,160,158,CINF
+Diluted EPS Excl. Extra. Items,9.05,(1.70),(5.06),(2.65),CINF
+Diluted EPS Incl. Extra. Items,9.05,(1.70),(5.06),(2.65),CINF
+Div/Share-ComStockPrimIssue,0.63,0.63,0.69,0.69,CINF
+Gross Divid - Common Stock,102,111,109,109,CINF
+Pro Forma Net Income,--,--,--,--,CINF
+"Interest Expense, Suppl",14,13,13,14,CINF
+"Depreciat/Amort, Suppl",24,29,26,26,CINF
+Normalzd Income Before Tax,"1,846",(360),"(1,041)",(579),CINF
+IncTxsExcl ImpctofSpec Itms,376,(87),(233),(161),CINF
+Normalized Income After Tax,"1,470",(273),(808),(418),CINF
+Normalzd Inc Avail to Common,"1,470",(273),(808),(418),CINF
+Basic Normalized EPS,9.15,(1.70),(5.06),(2.65),CINF
+Diluted Normalized EPS,9.05,(1.70),(5.06),(2.65),CINF

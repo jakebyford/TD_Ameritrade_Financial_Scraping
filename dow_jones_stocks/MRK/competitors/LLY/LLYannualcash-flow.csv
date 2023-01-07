@@ -1,0 +1,44 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,(204),"3,232","8,318","6,194","5,582",LLY
+Depreciation/Depletion,"1,567","1,609","1,233","1,324","1,548",LLY
+Deferred Taxes,(788),327,62,(135),(802),LLY
+Unusual Items,--,"1,984","(3,751)",(778),"1,102",LLY
+Purchased R&D,"1,113",--,--,--,--,LLY
+Other Non-Cash Items,723,752,661,642,854,LLY
+Non-Cash Items,"1,835","2,735","(3,090)",(136),"1,956",LLY
+"Cash Taxes Pd, Supplemental",247,"1,102","1,181",955,"1,599",LLY
+"Cash Interest Pd, Suppl",193,224,306,346,338,LLY
+Accounts Receivable,(357),(997),(127),"(1,350)","(1,278)",LLY
+Inventories,(254),8,(259),(533),(236),LLY
+Other Assets,(590),(980),(602),(457),"1,515",LLY
+Accounts Payable,916,(285),(478),"1,271",(664),LLY
+Changes in Working Capital,"3,205","(2,379)","(1,687)",(747),"(1,023)",LLY
+Total Cash from Operations,"5,616","5,525","4,837","6,500","7,261",LLY
+Purchase of Fixed Assets,"(1,077)","(1,211)","(1,034)","(1,388)","(1,310)",LLY
+Purchase/Acq of Intangibles,"(1,087)","(1,808)",(320),(641),(563),LLY
+Capital Expenditures,"(2,164)","(3,018)","(1,354)","(2,029)","(1,873)",LLY
+Acquisition of Business,(882),0,"(7,292)",(849),(747),LLY
+Sale of Business,--,--,355,--,0,LLY
+Sale of Fixed Assets,41,4,--,--,--,LLY
+Sale/Maturity of Investment,"7,439","6,062",746,887,847,LLY
+Purchase of Investments,"(8,001)",(950),(290),(370),"(1,013)",LLY
+Sale of Intangible,0,--,--,--,--,LLY
+Other Investing Cash Flow,(216),(191),(249),103,24,LLY
+"OtherInvestCashFlowItms,Tot","(1,620)","4,924","(6,729)",(230),(889),LLY
+Total Cash from Investing,"(3,784)","1,906","(8,083)","(2,259)","(2,762)",LLY
+Financing Cash Flow Items,(364),(373),(200),(242),(296),LLY
+Total Cash Dividends Paid,"(2,192)","(2,312)","(2,410)","(2,687)","(3,087)",LLY
+Sale/Issuance of Common,--,"1,660",0,--,--,LLY
+Repurch/Retirement Common,(300),"(4,151)","(4,400)",(500),"(1,250)",LLY
+"Iss (Retirmnt) of Stock,Net",(300),"(2,491)","(4,400)",(500),"(1,250)",LLY
+"Short Term Debt, Net","1,398","(2,198)",995,"(1,494)",(4),LLY
+Long Term Debt Issued,"2,232","2,478","6,556","2,062","2,411",LLY
+Long Term Debt Reduction,(631),"(1,009)","(2,866)",(277),"(1,905)",LLY
+"Long Term Debt, Net","1,601","1,469","3,690","1,786",505,LLY
+"Iss (Retirmnt) of Debt, Net","2,999",(729),"4,685",292,501,LLY
+Total Cash From Financing,143,"(5,905)","(2,325)","(3,137)","(4,131)",LLY
+Foreign Exchange Effects,(21),(64),(90),216,(206),LLY
+Net Change in Cash,"1,954","1,462","(5,661)","1,320",161,LLY
+NetCash-BeginBal/RsvdforFutUse,"4,582","6,536","7,998","2,338","3,657",LLY
+NetCash-EndBal/RsrvforFutUse,"6,536","7,998","2,338","3,657","3,819",LLY
+"Depreciation, Supplemental","1,567","1,609","1,233","1,324","1,548",LLY

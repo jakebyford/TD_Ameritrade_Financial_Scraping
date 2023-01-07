@@ -1,0 +1,47 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash & Equivalents,"6,055","8,384","12,277","11,258","10,203",COST
+Short Term Investments,"1,204","1,060","1,028",917,846,COST
+Cash and Short Term Invs,"7,259","9,444","13,305","12,175","11,049",COST
+"Total Receivables, Net","1,669","1,535","1,550","1,803","2,241",COST
+Total Inventory,"11,040","11,395","12,242","14,215","17,907",COST
+"Other Curr. Assets, Total",321,"1,111","1,023","1,312","1,499",COST
+Total Current Assets,"20,289","23,485","28,120","29,505","32,696",COST
+Buildings,"16,107","17,136","17,982","19,139","20,120",COST
+Land/Improvements,"6,193","6,417","6,696","7,507","7,955",COST
+Machinery/Equipment,"7,274","7,801","8,749","9,505","10,275",COST
+Construction in Progress,"1,140","1,272","1,276","1,507","1,582",COST
+Other Prop./Plant/Equip.,--,--,"3,380","3,890","4,394",COST
+Prop./Plant/Equip. - Gross,"30,714","32,626","38,083","41,548","44,326",COST
+Accumulated Depreciation,"(11,033)","(11,736)","(12,896)","(14,166)","(15,286)",COST
+Prop./Plant/Equip. - Net,"19,681","20,890","25,187","27,382","29,040",COST
+"Goodwill, Net",--,--,988,996,993,COST
+Intangibles - Net,--,--,283,294,--,COST
+Other Long Term Assets,860,627,572,647,992,COST
+Total Assets,"40,830","45,400","55,556","59,268","64,166",COST
+Accounts Payable,"11,237","11,679","14,172","16,278","17,848",COST
+Accrued Expenses,"4,051","4,356","5,229","5,983","6,531",COST
+Notes Payable/ST Debt,0,0,0,0,0,COST
+Curr. Port. LT Dbt/Cap Ls.,97,"1,725",126,871,318,COST
+Customer Advances,"1,624","1,711","1,851","2,042","2,174",COST
+Other Current Liabilities,"2,917","3,766","3,466","4,267","5,127",COST
+"Other Curr. Lblts, Total","4,541","5,477","5,317","6,309","7,301",COST
+Total Current Liabilities,"19,926","23,237","24,844","29,441","31,998",COST
+Long Term Debt,"6,487","5,124","7,514","6,692","6,484",COST
+Capital Lease Obligations,390,395,657,980,"1,383",COST
+Total Long Term Debt,"6,877","5,519","8,171","7,672","7,867",COST
+Total Debt,"6,974","7,244","8,297","8,543","8,185",COST
+Deferred Income Tax,--,543,665,754,724,COST
+Minority Interest,304,341,421,514,5,COST
+"Other Liabilities, Total",924,517,"3,171","3,323","2,930",COST
+Total Liabilities,"28,031","30,157","37,272","41,704","43,524",COST
+Redeemable Preferred Stock,0,0,0,--,0,COST
+Common Stock,4,4,4,4,2,COST
+Additional Paid-In Capital,"6,107","6,417","6,698","7,031","6,884",COST
+Ret. Earn.(Accum. Deficit),"7,887","10,258","12,879","11,666","15,585",COST
+Cum. Trans. Adjustment,--,--,--,"(1,137)","(1,829)",COST
+Other Comprehensive Income,"(1,199)","(1,436)","(1,297)",--,--,COST
+"Other Equity, Total","(1,199)","(1,436)","(1,297)","(1,137)","(1,829)",COST
+Total Equity,"12,799","15,243","18,284","17,564","20,642",COST
+Total Liabilities & Shareholders’ Equity,"40,830","45,400","55,556","59,268","64,166",COST
+Ttl Comm. Shares Outs.,438,440,441,442,443,COST
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,COST

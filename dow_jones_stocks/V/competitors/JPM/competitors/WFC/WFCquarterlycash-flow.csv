@@ -1,0 +1,39 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"23,238","3,802","6,754","10,254",WFC
+Depreciation/Depletion,"7,890","1,791","3,563","5,253",WFC
+Deferred Taxes,"(1,292)",(179),(292),410,WFC
+Unusual Items,"(1,188)",(891),"(1,236)","(1,550)",WFC
+Other Non-Cash Items,"(12,194)","(6,116)","(12,071)","(18,274)",WFC
+Non-Cash Items,"(13,382)","(7,007)","(13,307)","(19,824)",WFC
+"Cash Taxes Pd, Supplemental","3,166",76,"3,817","3,863",WFC
+"Cash Interest Pd, Suppl","4,384",661,"2,240","4,264",WFC
+Loan Loss Provision,"(4,155)",(787),(207),577,WFC
+Other Assets,"15,477","(5,815)","(13,763)","(10,673)",WFC
+Changes in Working Capital,"(27,979)","1,792","11,069","23,710",WFC
+Total Cash from Operations,"(11,525)",199,"7,787","19,803",WFC
+Sale/Maturity of Investment,"178,109","17,432","46,236","60,257",WFC
+Purchase of Investments,"(189,356)","(22,971)","(36,396)","(45,668)",WFC
+Loans,397,"(15,996)","(48,583)","(52,043)",WFC
+Other Investing Cash Flow,"3,231","(1,426)","11,274","10,904",WFC
+Total Cash from Investing,"(7,619)","(22,961)","(27,469)","(26,550)",WFC
+Deposits,"78,582","(1,125)","(57,326)","(84,324)",WFC
+Other Financing Cash Flow,(361),(472),(492),(559),WFC
+Financing Cash Flow Items,"78,221","(1,597)","(57,818)","(84,883)",WFC
+Cash Divids Paid - Common,"(2,422)",(958),"(1,904)","(3,040)",WFC
+Cash Divs Paid - Preferred,"(1,205)",(220),(558),(777),WFC
+Total Cash Dividends Paid,"(3,627)","(1,178)","(2,462)","(3,817)",WFC
+"Common Stock, Net","(14,464)","(6,018)","(6,022)","(6,027)",WFC
+Sale/Issuance of Preferred,"5,756",0,0,--,WFC
+Repurch/Retirement Preferd,"(6,675)",0,0,--,WFC
+"Preferred Stock, Net",(919),0,0,--,WFC
+"Iss (Retirmnt) of Stock,Net","(15,383)","(6,018)","(6,022)","(6,027)",WFC
+"Short Term Debt, Net","(24,590)",(980),"2,494","13,801",WFC
+Long Term Debt Issued,"1,275","8,089","16,378","36,090",WFC
+Long Term Debt Reduction,"(47,134)","(7,889)","(11,978)","(17,192)",WFC
+"Long Term Debt, Net","(45,859)",200,"4,400","18,898",WFC
+"Iss (Retirmnt) of Debt, Net","(70,449)",(780),"6,894","32,699",WFC
+Total Cash From Financing,"(11,238)","(9,573)","(59,408)","(62,028)",WFC
+Net Change in Cash,"(30,382)","(32,335)","(79,090)","(68,775)",WFC
+NetCash-BeginBal/RsvdforFutUse,"264,612","234,230","234,230","234,230",WFC
+NetCash-EndBal/RsrvforFutUse,"234,230","201,895","155,140","165,455",WFC
+"Depreciation, Supplemental","7,890","1,791","3,563","5,253",WFC

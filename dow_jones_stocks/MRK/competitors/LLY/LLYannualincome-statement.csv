@@ -1,0 +1,49 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"19,974","21,493","22,320","24,540","28,318",LLY
+"Cost of Revenue, Total","4,448","4,682","4,721","5,483","7,313",LLY
+Selling/Gen/Admin Expense,"5,982","5,975","5,114","5,021","5,232",LLY
+Advertising Expense,--,--,"1,100","1,100","1,200",LLY
+"Sell/Gen/AdminExpenses,Tot","5,982","5,975","6,214","6,121","6,432",LLY
+Research & Development,"5,096","5,051","5,595","6,086","7,026",LLY
+Purchased R&D Written-Off,"1,113","1,984",240,660,875,LLY
+Restructuring Charge,601,128,78,151,13,LLY
+Impair-Assets Held for Use,731,139,498,(20),303,LLY
+Other Unusual Expnse (In),0,0,(57),--,405,LLY
+Unusual Expense (Income),"2,444","2,251",758,792,"1,596",LLY
+Total Operating Expense,"17,971","17,959","17,288","18,482","22,367",LLY
+Total Operating Income,"2,003","3,535","5,032","6,058","5,952",LLY
+"Inter Expse,Net Non-Operat",(225),(243),(401),(360),(340),LLY
+"Inter Income, Non-Operating",166,159,80,33,25,LLY
+"Invest Income, Non-Operat",--,--,--,--,177,LLY
+"Inter/Invest Inc, Non-Oper",166,159,80,33,202,LLY
+OtherNon-OperatInc (Expnse),360,229,555,"1,499",341,LLY
+"Other, Net",360,229,555,"1,499",341,LLY
+Income Before Tax,"2,305","3,680","5,266","7,230","6,156",LLY
+Income Tax - Total,"(2,189)",354,628,"1,036",574,LLY
+Income After Tax,"4,494","3,326","4,638","6,194","5,582",LLY
+Net Inc Before Extra Items,"4,494","3,326","4,638","6,194","5,582",LLY
+Discontinued Operations,(118),81,"3,681",0,0,LLY
+Extraordinary Item,"(4,580)",(175),--,--,--,LLY
+Total Extraordinary Items,"(4,698)",(94),"3,681",0,0,LLY
+Total Net Income,(204),"3,232","8,318","6,194","5,582",LLY
+Income Available to Common Excl. Extra. Items,"4,494","3,326","4,638","6,194","5,582",LLY
+Income Available to Common Incl. Extra. Items,(204),"3,232","8,318","6,194","5,582",LLY
+Basic/Primary Weighted Average Shares,"1,052","1,028",931,908,907,LLY
+Basic/Primary EPS Excl. Extra. Items,4.27,3.24,4.98,6.82,6.15,LLY
+Basic/Primary EPS Incl. Extra. Items,(0.19),3.14,8.93,6.82,6.15,LLY
+Diluted Weighted Average Shares,"1,052","1,034",936,913,912,LLY
+Diluted EPS Excl. Extra. Items,4.27,3.22,4.96,6.79,6.12,LLY
+Diluted EPS Incl. Extra. Items,(0.19),3.13,8.89,6.79,6.12,LLY
+Div/Share-ComStockPrimIssue,2.08,2.25,2.58,2.96,3.40,LLY
+Gross Divid - Common Stock,"2,235","2,372","2,431","2,786","3,202",LLY
+Pro Forma Net Income,--,--,--,--,--,LLY
+"Interest Expense, Suppl",225,243,401,360,340,LLY
+"Depreciat/Amort, Suppl","1,105","1,248","1,007",896,919,LLY
+Total Special Items,"2,444","2,251",758,792,"1,596",LLY
+Normalzd Income Before Tax,"4,749","5,931","6,024","8,022","7,752",LLY
+Efct/SpecItemsIncTxs (STEC),466,26,62,19,67,LLY
+IncTxsExcl ImpctofSpec Itms,"(1,723)",380,690,"1,055",641,LLY
+Normalized Income After Tax,"6,472","5,551","5,334","6,966","7,111",LLY
+Normalzd Inc Avail to Common,"6,472","5,551","5,334","6,966","7,111",LLY
+Basic Normalized EPS,6.15,5.40,5.73,7.68,7.84,LLY
+Diluted Normalized EPS,6.15,5.37,5.70,7.63,7.80,LLY

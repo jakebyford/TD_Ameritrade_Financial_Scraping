@@ -1,0 +1,40 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Net Income,"3,399","6,333","10,063","12,986",QCOM
+Depreciation/Depletion,406,834,"1,272","1,762",QCOM
+Deferred Taxes,272,(403),(234),(138),QCOM
+Discontinued Operations,--,--,--,(170),QCOM
+Unusual Items,(103),213,374,479,QCOM
+Other Non-Cash Items,471,959,"1,510","1,977",QCOM
+Non-Cash Items,368,"1,172","1,884","2,286",QCOM
+Accounts Receivable,(454),(501),(216),"(2,066)",QCOM
+Inventories,(638),"(1,337)","(2,201)","(3,137)",QCOM
+Other Assets,"(1,504)","(1,812)","(2,360)","(2,266)",QCOM
+Accounts Payable,781,979,948,"1,036",QCOM
+Accrued Expenses,(495),(371),"(1,274)","(1,043)",QCOM
+Changes in Working Capital,"(2,388)","(3,181)","(5,335)","(7,800)",QCOM
+Total Cash from Operations,"2,057","4,755","7,650","9,096",QCOM
+Capital Expenditures,(583),"(1,074)","(1,628)","(2,262)",QCOM
+Acquisition of Business,(238),(288),"(4,743)","(4,912)",QCOM
+Sale/Maturity of Investment,"1,226","1,660","2,085","2,754",QCOM
+Purchase of Investments,(517),(936),"(1,269)","(1,414)",QCOM
+Other Investing Cash Flow,0,0,41,30,QCOM
+"OtherInvestCashFlowItms,Tot",471,436,"(3,886)","(3,542)",QCOM
+Total Cash from Investing,(112),(638),"(5,514)","(5,804)",QCOM
+Financing Cash Flow Items,(503),(573),(779),(796),QCOM
+Total Cash Dividends Paid,(765),"(1,529)","(2,371)","(3,212)",QCOM
+Sale/Issuance of Common,--,187,188,356,QCOM
+Repurch/Retirement Common,"(1,178)","(2,129)","(2,629)","(3,129)",QCOM
+"Iss (Retirmnt) of Stock,Net","(1,178)","(1,942)","(2,441)","(2,773)",QCOM
+Short Term Debt Issued,710,"1,462","3,065","7,000",QCOM
+Short Term Debt Reduction,(710),"(1,462)","(3,066)","(7,003)",QCOM
+"Short Term Debt, Net",0,0,(1),(3),QCOM
+Long Term Debt Issued,--,--,"1,477","1,477",QCOM
+Long Term Debt Reduction,--,--,"(1,889)","(1,889)",QCOM
+"Long Term Debt, Net",--,--,(412),(412),QCOM
+"Iss (Retirmnt) of Debt, Net",0,0,(413),(415),QCOM
+Total Cash From Financing,"(2,446)","(4,044)","(6,004)","(7,196)",QCOM
+Foreign Exchange Effects,(8),(16),(50),(113),QCOM
+Net Change in Cash,(509),57,"(3,918)","(4,017)",QCOM
+NetCash-BeginBal/RsvdforFutUse,"7,116","7,116","7,116","7,116",QCOM
+NetCash-EndBal/RsrvforFutUse,"6,607","7,173","3,198","3,099",QCOM
+"Depreciation, Supplemental",406,834,"1,272","1,762",QCOM

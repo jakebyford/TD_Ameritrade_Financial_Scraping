@@ -1,0 +1,37 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"4,314",861,"1,609","2,142",MDLZ
+Depreciation/Depletion,"1,113",275,548,819,MDLZ
+Deferred Taxes,205,(70),(32),41,MDLZ
+Extraordinary Item,0,--,--,--,MDLZ
+Unusual Items,230,193,201,216,MDLZ
+Equity in Net Earnings/Loss,(963),(5),(81),(112),MDLZ
+Other Non-Cash Items,(109),11,206,340,MDLZ
+Non-Cash Items,(842),199,326,444,MDLZ
+Accounts Receivable,(197),(517),(227),(625),MDLZ
+Inventories,(170),(81),(366),(745),MDLZ
+Other Assets,(169),(104),(142),(143),MDLZ
+Accounts Payable,702,397,183,332,MDLZ
+Changes in Working Capital,(649),(134),(484),(930),MDLZ
+Total Cash from Operations,"4,141","1,131","1,967","2,516",MDLZ
+Capital Expenditures,(965),(167),(385),(621),MDLZ
+Acquisition of Business,(833),"(1,418)","(1,402)","(3,978)",MDLZ
+Sale of Business,"1,539",66,595,604,MDLZ
+Other Investing Cash Flow,233,78,193,585,MDLZ
+"OtherInvestCashFlowItms,Tot",939,"(1,274)",(614),"(2,789)",MDLZ
+Total Cash from Investing,(26),"(1,441)",(999),"(3,410)",MDLZ
+Financing Cash Flow Items,(1),60,86,143,MDLZ
+Total Cash Dividends Paid,"(1,826)",(491),(977),"(1,457)",MDLZ
+"Iss (Retirmnt) of Stock,Net","(2,110)",(751),"(1,506)","(1,838)",MDLZ
+Short Term Debt Issued,0,0,--,--,MDLZ
+Short Term Debt Reduction,0,0,--,--,MDLZ
+"Short Term Debt, Net",194,217,219,"1,370",MDLZ
+Long Term Debt Issued,"5,921","1,991","1,991","4,490",MDLZ
+Long Term Debt Reduction,"(6,247)","(2,306)","(2,329)","(3,005)",MDLZ
+"Long Term Debt, Net",(326),(315),(338),"1,485",MDLZ
+"Iss (Retirmnt) of Debt, Net",(132),(98),(119),"2,855",MDLZ
+Total Cash From Financing,"(4,069)","(1,280)","(2,516)",(297),MDLZ
+Foreign Exchange Effects,(143),(10),(70),(167),MDLZ
+Net Change in Cash,(97),"(1,600)","(1,618)","(1,358)",MDLZ
+NetCash-BeginBal/RsvdforFutUse,"3,650","3,553","3,553","3,553",MDLZ
+NetCash-EndBal/RsrvforFutUse,"3,553","1,953","1,935","2,195",MDLZ
+"Depreciation, Supplemental","1,113",275,548,819,MDLZ

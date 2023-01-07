@@ -1,0 +1,40 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,180,260,240,209,172,WWD
+Depreciation/Depletion,116,142,131,130,121,WWD
+Deferred Taxes,(30),(10),1,(12),(23),WWD
+Unusual Items,(1),2,(16),(4),(2),WWD
+Other Non-Cash Items,20,18,23,21,20,WWD
+Non-Cash Items,18,20,7,17,18,WWD
+"Cash Taxes Pd, Supplemental",45,68,94,39,22,WWD
+"Cash Interest Pd, Suppl",30,40,27,28,27,WWD
+Accounts Receivable,(6),(31),30,25,(99),WWD
+Inventories,(8),(49),61,19,(110),WWD
+Payable/Accrued,(2),48,(153),62,123,WWD
+Changes in Working Capital,15,(21),(30),121,(94),WWD
+Total Cash from Operations,299,391,349,465,194,WWD
+Capital Expenditures,(127),(99),(47),(38),(53),WWD
+Acquisition of Business,(771),0,0,0,(22),WWD
+Sale of Business,--,--,10,--,6,WWD
+Sale of Fixed Assets,2,1,30,0,0,WWD
+Sale/Maturity of Investment,9,22,13,17,13,WWD
+Purchase of Investments,(9),(27),(13),(14),(10),WWD
+"OtherInvestCashFlowItms,Tot",(769),(3),40,2,(13),WWD
+Total Cash from Investing,(897),(103),(7),(35),(65),WWD
+Financing Cash Flow Items,(7),(2),0,--,--,WWD
+Total Cash Dividends Paid,(34),(39),(38),(36),(45),WWD
+Sale/Issuance of Common,9,36,25,35,22,WWD
+Repurch/Retirement Common,0,(110),(13),(33),(485),WWD
+"Iss (Retirmnt) of Stock,Net",9,(74),12,1,(463),WWD
+Short Term Debt Issued,"1,930","1,684","1,248",74,952,WWD
+Short Term Debt Reduction,"(1,692)","(1,690)","(1,511)",(74),(885),WWD
+"Short Term Debt, Net",238,(6),(263),0,67,WWD
+Long Term Debt Issued,400,0,0,--,--,WWD
+Long Term Debt Reduction,0,(144),(2),(102),(1),WWD
+"Long Term Debt, Net",400,(144),(2),(102),(1),WWD
+"Iss (Retirmnt) of Debt, Net",638,(150),(264),(102),66,WWD
+Total Cash From Financing,606,(266),(290),(136),(442),WWD
+Foreign Exchange Effects,(13),(7),2,2,(26),WWD
+Net Change in Cash,(4),15,54,295,(341),WWD
+NetCash-BeginBal/RsvdforFutUse,88,84,99,153,448,WWD
+NetCash-EndBal/RsrvforFutUse,84,99,153,448,108,WWD
+"Depreciation, Supplemental",116,142,131,130,121,WWD

@@ -1,0 +1,40 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"4,476","4,865","5,586","5,985","7,547",CMG
+"Cost of Revenue, Total","3,287","3,495","3,936","4,397","5,201",CMG
+Selling/Gen/Admin Expense,637,704,817,863,"1,040",CMG
+Advertising Expense,106,112,142,159,222,CMG
+"Sell/Gen/AdminExpenses,Tot",744,816,958,"1,022","1,262",CMG
+Depreciation/Amortization,163,202,213,239,255,CMG
+"Inter/Invest Inc, Operating",(2),--,--,--,--,CMG
+Restructuring Charge,--,27,12,6,5,CMG
+Impair-Assets Held for Use,--,16,2,17,5,CMG
+Unusual Expense (Income),13,94,36,37,25,CMG
+Loss(Gain)/Sale Asts (Oper),13,51,21,14,15,CMG
+Total Operating Expense,"4,206","4,607","5,142","5,694","6,742",CMG
+Total Operating Income,271,258,444,290,805,CMG
+"Inter/Invest Inc, Non-Oper",5,10,14,4,8,CMG
+Income Before Tax,276,268,458,294,813,CMG
+Income Tax - Total,99,98,108,(62),160,CMG
+Income After Tax,176,170,350,356,653,CMG
+Net Inc Before Extra Items,176,170,350,356,653,CMG
+Total Extraordinary Items,0,6,--,--,--,CMG
+Total Net Income,176,177,350,356,653,CMG
+Income Available to Common Excl. Extra. Items,176,170,350,356,653,CMG
+Income Available to Common Incl. Extra. Items,176,177,350,356,653,CMG
+Basic/Primary Weighted Average Shares,28,28,28,28,28,CMG
+Basic/Primary EPS Excl. Extra. Items,6.19,6.11,12.62,12.74,23.21,CMG
+Basic/Primary EPS Incl. Extra. Items,6.19,6.35,12.62,12.74,23.21,CMG
+Diluted Weighted Average Shares,29,28,28,28,29,CMG
+Diluted EPS Excl. Extra. Items,6.17,6.08,12.38,12.52,22.90,CMG
+Diluted EPS Incl. Extra. Items,6.17,6.31,12.38,12.52,22.90,CMG
+Gross Divid - Common Stock,0,0,0,0,0,CMG
+Pro Forma Net Income,--,--,--,--,--,CMG
+"Depreciat/Amort, Suppl",163,202,213,239,255,CMG
+Total Special Items,13,94,36,37,25,CMG
+Normalzd Income Before Tax,289,362,494,331,837,CMG
+Efct/SpecItemsIncTxs (STEC),5,34,8,13,5,CMG
+IncTxsExcl ImpctofSpec Itms,104,133,117,(49),165,CMG
+Normalized Income After Tax,185,229,377,380,673,CMG
+Normalzd Inc Avail to Common,185,229,377,380,673,CMG
+Basic Normalized EPS,6.49,8.25,13.60,13.60,23.92,CMG
+Diluted Normalized EPS,6.47,8.21,13.34,13.37,23.60,CMG

@@ -1,0 +1,47 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Total Revenue,"21,819","19,249","21,504","20,150",DIS
+"Cost of Revenue, Total","14,567","12,594","13,682","19,608",DIS
+"Sell/Gen/AdminExpenses,Tot","3,787","3,768","4,100",--,DIS
+Depreciation/Amortization,"1,269","1,287","1,290",--,DIS
+Restructuring Charge,0,195,42,0,DIS
+Other Unusual Expnse (In),--,--,0,--,DIS
+Unusual Expense (Income),0,195,42,0,DIS
+"Other Operat Expse, Total",4,--,0,(63),DIS
+Total Operating Expense,"19,627","17,844","19,114","19,545",DIS
+Total Operating Income,"2,192","1,405","2,390",605,DIS
+"Inter Expse,Net Non-Operat",(361),(374),(380),--,DIS
+"Inter Income, Non-Operating",34,3,--,--,DIS
+"Invest Income, Non-Operat",(193),52,89,142,DIS
+"Inter/Invest Inc, Non-Oper",(159),55,89,142,DIS
+"Inter Inc(Exp),Net Non-Oper",--,--,7,(371),DIS
+"Other, Net",16,16,13,--,DIS
+Income Before Tax,"1,688","1,102","2,119",376,DIS
+Income Tax - Total,488,505,617,122,DIS
+Income After Tax,"1,200",597,"1,502",254,DIS
+Minority Interest,(48),(127),(93),(92),DIS
+Net Inc Before Extra Items,"1,152",470,"1,409",162,DIS
+Discontinued Operations,(62),0,0,0,DIS
+Tax on Extraordinary Items,14,--,0,--,DIS
+Total Extraordinary Items,(48),0,0,0,DIS
+Total Net Income,"1,104",470,"1,409",162,DIS
+Income Available to Common Excl. Extra. Items,"1,152",470,"1,409",162,DIS
+Income Available to Common Incl. Extra. Items,"1,104",470,"1,409",162,DIS
+Basic/Primary Weighted Average Shares,"1,819","1,822","1,823","1,824",DIS
+Basic/Primary EPS Excl. Extra. Items,0.63,0.26,0.77,0.09,DIS
+Basic/Primary EPS Incl. Extra. Items,0.61,0.26,0.77,0.09,DIS
+Diluted Weighted Average Shares,"1,828","1,828","1,825","1,826",DIS
+Diluted EPS Excl. Extra. Items,0.63,0.26,0.77,0.09,DIS
+Diluted EPS Incl. Extra. Items,0.60,0.26,0.77,0.09,DIS
+Div/Share-ComStockPrimIssue,--,0.00,0.00,--,DIS
+Gross Divid - Common Stock,0,0,0,--,DIS
+Pro Forma Net Income,--,--,--,--,DIS
+"Interest Expense, Suppl",361,374,380,--,DIS
+"Depreciat/Amort, Suppl",767,786,805,825,DIS
+Total Special Items,0,195,42,0,DIS
+Normalzd Income Before Tax,"1,688","1,297","2,161",376,DIS
+Efct/SpecItemsIncTxs (STEC),(139),(138),(136),0,DIS
+IncTxsExcl ImpctofSpec Itms,349,367,481,122,DIS
+Normalized Income After Tax,"1,339",930,"1,680",254,DIS
+Normalzd Inc Avail to Common,"1,291",803,"1,587",162,DIS
+Basic Normalized EPS,0.71,0.44,0.87,0.09,DIS
+Diluted Normalized EPS,0.71,0.44,0.87,0.09,DIS

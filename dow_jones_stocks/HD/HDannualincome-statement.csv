@@ -1,0 +1,42 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"100,904","108,203","110,225","132,110","151,157",HD
+"Cost of Revenue, Total","66,548","71,043","72,653","87,257","100,325",HD
+"Sell/Gen/AdminExpenses,Tot","17,864","19,513","19,740","22,447","25,144",HD
+Depreciation/Amortization,"1,811","1,870","1,989","2,128","2,386",HD
+Impair-Assets Held for Use,--,247,0,0,--,HD
+Other Unusual Expnse (In),--,--,--,"2,000",262,HD
+Unusual Expense (Income),--,247,0,"2,000",262,HD
+Total Operating Expense,"86,223","92,673","94,382","113,832","128,117",HD
+Total Operating Income,"14,681","15,530","15,843","18,278","23,040",HD
+"Inter Expse,Net Non-Operat","(1,057)","(1,051)","(1,201)","(1,347)","(1,347)",HD
+"Inter/Invest Inc, Non-Oper",74,93,73,47,44,HD
+OtherNon-OperatInc (Expnse),--,(16),0,0,0,HD
+"Other, Net",--,(16),0,0,0,HD
+Income Before Tax,"13,698","14,556","14,715","16,978","21,737",HD
+Income Tax - Total,"4,941","3,520","3,473","4,112","5,304",HD
+Income After Tax,"8,757","11,036","11,242","12,866","16,433",HD
+Net Inc Before Extra Items,"8,757","11,036","11,242","12,866","16,433",HD
+Total Extraordinary Items,(127),85,0,--,--,HD
+Total Net Income,"8,630","11,121","11,242","12,866","16,433",HD
+Income Available to Common Excl. Extra. Items,"8,757","11,036","11,242","12,866","16,433",HD
+Income Available to Common Incl. Extra. Items,"8,630","11,121","11,242","12,866","16,433",HD
+Basic/Primary Weighted Average Shares,"1,178","1,137","1,093","1,074","1,054",HD
+Basic/Primary EPS Excl. Extra. Items,7.43,9.71,10.29,11.98,15.59,HD
+Basic/Primary EPS Incl. Extra. Items,7.33,9.78,10.29,11.98,15.59,HD
+Diluted Weighted Average Shares,"1,184","1,143","1,097","1,078","1,058",HD
+Diluted EPS Excl. Extra. Items,7.40,9.66,10.25,11.94,15.53,HD
+Diluted EPS Incl. Extra. Items,7.29,9.73,10.25,11.94,15.53,HD
+Div/Share-ComStockPrimIssue,3.56,4.12,5.44,6.00,6.60,HD
+Gross Divid - Common Stock,"4,212","4,704","5,958","6,451","6,985",HD
+Pro Forma Net Income,--,--,--,--,--,HD
+"Interest Expense, Suppl","1,057","1,051","1,201","1,347","1,347",HD
+"Interest Capitalized, Suppl",(2),--,--,--,--,HD
+"Depreciat/Amort, Suppl","2,062","2,152","2,296","2,519","2,862",HD
+Total Special Items,--,247,0,"2,000",262,HD
+Normalzd Income Before Tax,"13,698","14,803","14,715","18,978","21,999",HD
+Efct/SpecItemsIncTxs (STEC),--,60,0,484,64,HD
+IncTxsExcl ImpctofSpec Itms,"4,941","3,580","3,473","4,596","5,368",HD
+Normalized Income After Tax,"8,757","11,223","11,242","14,382","16,631",HD
+Normalzd Inc Avail to Common,"8,757","11,223","11,242","14,382","16,631",HD
+Basic Normalized EPS,7.43,9.87,10.29,13.39,15.78,HD
+Diluted Normalized EPS,7.40,9.82,10.25,13.34,15.72,HD

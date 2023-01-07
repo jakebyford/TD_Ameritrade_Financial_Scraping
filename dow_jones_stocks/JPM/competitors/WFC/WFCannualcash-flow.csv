@@ -1,0 +1,43 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"22,460","22,876","20,041","3,586","23,238",WFC
+Depreciation/Depletion,"5,406","5,593","7,075","8,736","7,890",WFC
+Deferred Taxes,666,"1,970","(3,246)","(3,314)","(1,292)",WFC
+Unusual Items,886,453,"3,702","4,321","(1,188)",WFC
+Other Non-Cash Items,528,"(5,375)","(3,226)","7,024","(12,194)",WFC
+Non-Cash Items,"1,414","(4,922)",476,"11,345","(13,382)",WFC
+"Cash Taxes Pd, Supplemental","6,592","1,977","7,557","1,175","3,166",WFC
+"Cash Interest Pd, Suppl","9,103","14,366","18,834","8,414","4,384",WFC
+Loan Loss Provision,"2,528","1,744","2,687","14,129","(4,155)",WFC
+Other Assets,"(1,214)","7,805","3,034","(12,304)","15,477",WFC
+Changes in Working Capital,"(11,327)","10,556","(17,616)","(18,302)","(27,979)",WFC
+Total Cash from Operations,"18,619","36,073","6,730","2,051","(11,525)",WFC
+Acquisition of Business,(320),(10),--,--,--,WFC
+Sale/Maturity of Investment,"103,879","61,221","75,755","175,640","178,109",WFC
+Purchase of Investments,"(107,391)","(66,500)","(72,529)","(146,977)","(189,356)",WFC
+Loans,"7,688","(4,104)","(15,055)","56,639",397,WFC
+Foreclosed Real Estate,"5,198","3,592","2,666","1,147",--,WFC
+Other Investing Cash Flow,"(22,206)","(1,953)","(20,468)","36,105","3,231",WFC
+Total Cash from Investing,"(13,152)","(7,754)","(29,631)","122,554","(7,619)",WFC
+Deposits,"29,912","(48,034)","36,137","81,755","78,582",WFC
+Other Financing Cash Flow,(496),"(1,041)","(1,091)",(802),(361),WFC
+Financing Cash Flow Items,"29,416","(49,075)","35,046","80,953","78,221",WFC
+Cash Divids Paid - Common,"(7,480)","(7,692)","(8,198)","(4,852)","(2,422)",WFC
+Cash Divs Paid - Preferred,"(1,629)","(1,622)","(1,391)","(1,290)","(1,205)",WFC
+Total Cash Dividends Paid,"(9,109)","(9,314)","(9,589)","(6,142)","(3,627)",WFC
+Sale/Issuance of Common,"1,211",632,380,571,--,WFC
+Repurch/Retirement Common,"(9,908)","(20,633)","(24,533)","(3,415)","(14,464)",WFC
+"Common Stock, Net","(8,697)","(20,001)","(24,153)","(2,844)","(14,464)",WFC
+Sale/Issuance of Preferred,677,0,0,"3,116","5,756",WFC
+Repurch/Retirement Preferd,0,"(2,150)","(1,550)","(3,602)","(6,675)",WFC
+"Preferred Stock, Net",677,"(2,150)","(1,550)",(486),(919),WFC
+"Iss (Retirmnt) of Stock,Net","(8,020)","(22,151)","(25,703)","(3,330)","(15,383)",WFC
+"Short Term Debt, Net","14,020","2,531","(1,275)","(45,513)","(24,590)",WFC
+Long Term Debt Issued,"43,575","47,595","53,381","38,136","1,275",WFC
+Long Term Debt Reduction,"(80,802)","(40,565)","(60,996)","(65,347)","(47,134)",WFC
+"Long Term Debt, Net","(37,227)","7,030","(7,615)","(27,211)","(45,859)",WFC
+"Iss (Retirmnt) of Debt, Net","(23,207)","9,561","(8,890)","(72,724)","(70,449)",WFC
+Total Cash From Financing,"(10,920)","(70,979)","(9,136)","(1,243)","(11,238)",WFC
+Net Change in Cash,"(5,453)","(42,660)","(32,037)","123,362","(30,382)",WFC
+NetCash-BeginBal/RsvdforFutUse,"221,400","215,947","173,287","141,250","264,612",WFC
+NetCash-EndBal/RsrvforFutUse,"215,947","173,287","141,250","264,612","234,230",WFC
+"Depreciation, Supplemental","5,406","5,593","7,075","8,736","7,890",WFC

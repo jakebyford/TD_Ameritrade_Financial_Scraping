@@ -1,0 +1,32 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Net Income,"2,665","4,037","5,915","1,364",COST
+Depreciation/Depletion,868,"1,306","1,900",447,COST
+Deferred Taxes,(15),(2),(37),(2),COST
+Non-Cash Items,765,895,"1,177",636,COST
+"Cash Taxes Pd, Supplemental",469,"1,121","1,940",214,COST
+"Cash Interest Pd, Suppl",76,102,145,52,COST
+Inventories,"(2,322)","(3,633)","(4,003)",(737),COST
+Accounts Payable,970,"1,766","1,891",487,COST
+Changes in Working Capital,(624),"(1,350)","(1,563)",165,COST
+Total Cash from Operations,"3,659","4,886","7,392","2,610",COST
+Capital Expenditures,"(1,778)","(2,632)","(3,891)","(1,057)",COST
+Acquisition of Business,--,--,0,--,COST
+Sale/Maturity of Investment,753,840,"1,145",274,COST
+Purchase of Investments,(325),(588),"(1,121)",(253),COST
+Other Investing Cash Flow,(43),(48),(48),(21),COST
+"OtherInvestCashFlowItms,Tot",385,204,(24),0,COST
+Total Cash from Investing,"(1,393)","(2,428)","(3,915)","(1,057)",COST
+Financing Cash Flow Items,(392),(489),"(1,546)",(322),COST
+Total Cash Dividends Paid,(350),(701),"(1,498)",(400),COST
+"Iss (Retirmnt) of Stock,Net",(115),(254),(439),(141),COST
+"Short Term Debt, Net",(10),(99),--,--,COST
+Long Term Debt Issued,--,--,0,--,COST
+Long Term Debt Reduction,(800),(800),(800),--,COST
+"Long Term Debt, Net",(800),(800),(800),--,COST
+"Iss (Retirmnt) of Debt, Net",(810),(899),(800),--,COST
+Total Cash From Financing,"(1,667)","(2,343)","(4,283)",(863),COST
+Foreign Exchange Effects,(38),(180),(249),(37),COST
+Net Change in Cash,561,(65),"(1,055)",653,COST
+NetCash-BeginBal/RsvdforFutUse,"11,258","11,258","11,258","10,203",COST
+NetCash-EndBal/RsrvforFutUse,"11,819","11,193","10,203","10,856",COST
+"Depreciation, Supplemental",868,"1,306","1,900",447,COST

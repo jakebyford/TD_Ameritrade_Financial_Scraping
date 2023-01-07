@@ -1,0 +1,30 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"15,934","22,112","18,485","29,146","39,370",META
+Depreciation/Depletion,"3,025","4,315","5,741","6,862","7,967",META
+Deferred Taxes,(377),286,(37),"(1,192)",609,META
+Non-Cash Items,"3,747","4,088","4,875","6,654","9,037",META
+"Cash Taxes Pd, Supplemental","2,117","3,762","5,182","4,229","8,525",META
+"Cash Interest Pd, Suppl",0,1,--,--,--,META
+Accounts Receivable,"(1,609)","(1,892)","(1,961)","(1,512)","(3,110)",META
+Prepaid Expenses,(192),(690),47,135,"(1,750)",META
+Other Assets,154,(159),41,(34),(349),META
+Accounts Payable,138,378,461,161,"1,424",META
+Accrued Expenses,309,"1,417","7,300","(1,054)","3,357",META
+Changes in Working Capital,"1,887","(1,527)","7,250","(2,723)",700,META
+Total Cash from Operations,"24,216","29,274","36,314","38,747","57,683",META
+Capital Expenditures,"(6,733)","(13,915)","(15,102)","(15,115)","(18,567)",META
+Acquisition of Business,(122),(137),(508),(388),(851),META
+Sale/Maturity of Investment,"12,432","17,130","19,717","25,771","42,586",META
+Purchase of Investments,"(25,682)","(14,656)","(23,910)","(40,291)","(30,454)",META
+Other Investing Cash Flow,(13),(25),(61),(36),(284),META
+"OtherInvestCashFlowItms,Tot","(13,385)","2,312","(4,762)","(14,944)","10,997",META
+Total Cash from Investing,"(20,118)","(11,603)","(19,864)","(30,059)","(7,570)",META
+Financing Cash Flow Items,"(3,259)","(2,693)","(2,545)","(3,416)","(5,514)",META
+"Iss (Retirmnt) of Stock,Net","(1,976)","(12,879)","(4,202)","(6,272)","(44,537)",META
+"Iss (Retirmnt) of Debt, Net",0,0,(552),(604),(677),META
+Total Cash From Financing,"(5,235)","(15,572)","(7,299)","(10,292)","(50,728)",META
+Foreign Exchange Effects,232,(179),4,279,(474),META
+Net Change in Cash,(905),"1,920","9,155","(1,325)","(1,089)",META
+NetCash-BeginBal/RsvdforFutUse,"9,109","8,204","10,124","19,279","17,954",META
+NetCash-EndBal/RsrvforFutUse,"8,204","10,124","19,279","17,954","16,865",META
+"Depreciation, Supplemental","3,025","4,315","5,741","6,862","7,967",META

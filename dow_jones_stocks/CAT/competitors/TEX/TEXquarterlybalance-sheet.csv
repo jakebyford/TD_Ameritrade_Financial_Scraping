@@ -1,0 +1,49 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash and Short Term Invs,267,218,253,232,TEX
+"Trade Accts Recvble, Gross",517,535,568,540,TEX
+Prov. for Doubtful Accts,(10),(10),(9),(9),TEX
+"Total Receivables, Net",508,526,559,531,TEX
+Invent. - Finished Goods,283,289,320,335,TEX
+Invent. - Work In Progress,106,153,167,161,TEX
+Invent. - Raw Materials,425,480,476,485,TEX
+Total Inventory,814,921,963,981,TEX
+Prepaid Expenses,180,170,134,123,TEX
+Total Current Assets,"1,768","1,835","1,909","1,867",TEX
+Buildings,103,100,101,101,TEX
+Machinery/Equipment,687,687,679,664,TEX
+Construction in Progress,27,37,54,71,TEX
+Other Prop./Plant/Equip.,99,--,--,--,TEX
+Prop./Plant/Equip. - Gross,916,824,833,836,TEX
+Accumulated Depreciation,(387),(390),(391),(386),TEX
+Prop./Plant/Equip. - Net,529,434,442,450,TEX
+"Goodwill, Gross",342,337,329,335,TEX
+Accum. Goodwill Amort.,(62),(62),(62),(62),TEX
+"Goodwill, Net",280,275,267,273,TEX
+Intangibles - Gross,72,72,71,76,TEX
+Accum. Intangible Amort.,(59),(59),(59),(58),TEX
+Intangibles - Net,13,13,12,18,TEX
+Other Long Term Assets,273,383,363,369,TEX
+Total Assets,"2,864","2,940","2,994","2,977",TEX
+Accounts Payable,538,572,605,589,TEX
+Accrued Expenses,168,--,52,47,TEX
+Notes Payable/ST Debt,0,0,0,0,TEX
+Curr. Port. LT Dbt/Cap Ls.,6,2,2,2,TEX
+"Other Curr. Lblts, Total",199,346,296,314,TEX
+Total Current Liabilities,910,920,955,953,TEX
+Total Long Term Debt,669,738,826,825,TEX
+Total Debt,674,740,828,827,TEX
+"Other Liabilities, Total",176,168,164,165,TEX
+Total Liabilities,"1,754","1,826","1,945","1,942",TEX
+Common Stock,1,1,1,1,TEX
+Additional Paid-In Capital,860,861,867,874,TEX
+Ret. Earn.(Accum. Deficit),937,980,"1,045","1,117",TEX
+Treasury Stock - Common,(460),(479),(543),(556),TEX
+Unrealized Gain (Loss),0,(2),(3),(4),TEX
+Cum. Trans. Adjustment,(188),(207),(279),(360),TEX
+Min. Pension Lblty Adj.,(45),(43),(40),(37),TEX
+Other Comprehensive Income,4,3,1,(1),TEX
+"Other Equity, Total",(229),(247),(318),(397),TEX
+Total Equity,"1,110","1,114","1,049","1,035",TEX
+Total Liabilities & Shareholders’ Equity,"2,864","2,940","2,994","2,977",TEX
+Ttl Comm. Shares Outs.,69,69,67,67,TEX
+Trsy. Shrs-Comm. Primary Iss.,14,15,17,17,TEX

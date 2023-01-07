@@ -1,0 +1,39 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Total Revenue,"30,996","25,170","26,037","26,518",TGT
+"Cost of Revenue, Total","22,761","18,461","20,142","19,680",TGT
+"Sell/Gen/AdminExpenses,Tot","5,551","4,739","4,975","5,214",TGT
+Depreciation/Amortization,605,601,572,597,TGT
+Impair-Assets Held for Use,--,23,27,5,TGT
+Other Unusual Expnse (In),0,--,--,--,TGT
+Unusual Expense (Income),0,23,27,5,TGT
+"Other Operat Expse, Total",(16),--,--,--,TGT
+Total Operating Expense,"28,901","23,824","25,716","25,496",TGT
+Total Operating Income,"2,095","1,346",321,"1,022",TGT
+"Inter Inc(Exp),Net Non-Oper",(104),(112),(112),(125),TGT
+"Other, Net",26,15,8,12,TGT
+Income Before Tax,"2,017","1,249",217,909,TGT
+Income Tax - Total,473,240,34,197,TGT
+Income After Tax,"1,544","1,009",183,712,TGT
+Net Inc Before Extra Items,"1,544","1,009",183,712,TGT
+Total Extraordinary Items,0,--,--,--,TGT
+Total Net Income,"1,544","1,009",183,712,TGT
+Income Available to Common Excl. Extra. Items,"1,544","1,009",183,712,TGT
+Income Available to Common Incl. Extra. Items,"1,544","1,009",183,712,TGT
+Basic/Primary Weighted Average Shares,476,464,462,460,TGT
+Basic/Primary EPS Excl. Extra. Items,3.25,2.17,0.40,1.55,TGT
+Basic/Primary EPS Incl. Extra. Items,3.25,2.17,0.40,1.55,TGT
+Diluted Weighted Average Shares,480,468,464,463,TGT
+Diluted EPS Excl. Extra. Items,3.21,2.16,0.39,1.54,TGT
+Diluted EPS Incl. Extra. Items,3.21,2.16,0.39,1.54,TGT
+Div/Share-ComStockPrimIssue,0.90,0.90,0.90,1.08,TGT
+Gross Divid - Common Stock,428,426,502,502,TGT
+Pro Forma Net Income,--,--,--,--,TGT
+"Depreciat/Amort, Suppl",690,679,650,675,TGT
+Total Special Items,0,23,27,5,TGT
+Normalzd Income Before Tax,"2,017","1,272",244,914,TGT
+Efct/SpecItemsIncTxs (STEC),0,4,4,1,TGT
+IncTxsExcl ImpctofSpec Itms,473,244,38,198,TGT
+Normalized Income After Tax,"1,544","1,028",206,716,TGT
+Normalzd Inc Avail to Common,"1,544","1,028",206,716,TGT
+Basic Normalized EPS,3.25,2.21,0.45,1.56,TGT
+Diluted Normalized EPS,3.21,2.20,0.44,1.55,TGT

@@ -1,0 +1,48 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"85,280","84,204","100,059","95,749",SHEL
+"Cost of Revenue, Total","63,096","61,686","73,017","76,594",SHEL
+"Sell/Gen/AdminExpenses,Tot","2,867","3,020","3,039","3,229",SHEL
+Research & Development,584,458,634,644,SHEL
+Depreciation/Amortization,"5,320","5,388","5,608","5,666",SHEL
+Impair-Assets Held for Use,"1,124",907,"(5,956)",458,SHEL
+Other Unusual Expnse (In),--,"1,152",(449),(93),SHEL
+Unusual Expense (Income),"1,124","2,059","(6,405)",365,SHEL
+Other Operating Expense,(1),(1),1,(1),SHEL
+"Other, Net",1,--,--,--,SHEL
+"Other Operat Expse, Total",0,(1),1,(1),SHEL
+Total Operating Expense,"72,991","72,610","75,894","86,497",SHEL
+Total Operating Income,"12,289","11,594","24,165","9,252",SHEL
+"Inter Expse,Net Non-Operat",(964),(711),(695),(734),SHEL
+"Inter Income, Non-Operating","3,969",111,144,346,SHEL
+"Invest Income, Non-Operat",975,(287),"2,395","2,502",SHEL
+"Inter/Invest Inc, Non-Oper","4,944",(176),"2,539","2,848",SHEL
+OtherNon-OperatInc (Expnse),--,69,151,69,SHEL
+"Other, Net",--,69,151,69,SHEL
+Income Before Tax,"16,269","10,776","26,160","11,435",SHEL
+Income Tax - Total,"4,664","3,457","7,922","4,587",SHEL
+Income After Tax,"11,605","7,319","18,238","6,848",SHEL
+Minority Interest,(144),(203),(198),(104),SHEL
+Net Inc Before Extra Items,"11,461","7,116","18,040","6,744",SHEL
+Total Net Income,"11,461","7,116","18,040","6,744",SHEL
+Total Adjust to Net Income,--,--,--,(1),SHEL
+Income Available to Common Excl. Extra. Items,"11,461","7,116","18,040","6,743",SHEL
+Income Available to Common Incl. Extra. Items,"11,461","7,116","18,040","6,743",SHEL
+Basic/Primary Weighted Average Shares,"7,701","7,603","7,453","7,277",SHEL
+Basic/Primary EPS Excl. Extra. Items,1.49,0.94,2.42,0.93,SHEL
+Basic/Primary EPS Incl. Extra. Items,1.49,0.94,2.42,0.93,SHEL
+Diluted Weighted Average Shares,"7,744","7,662","7,519","7,341",SHEL
+Diluted EPS Excl. Extra. Items,1.48,0.93,2.40,0.92,SHEL
+Diluted EPS Incl. Extra. Items,1.48,0.93,2.40,0.92,SHEL
+Div/Share-ComStockPrimIssue,0.24,0.25,0.25,0.25,SHEL
+Gross Divid - Common Stock,"1,778","1,829","1,851","1,817",SHEL
+Pro Forma Net Income,--,--,--,--,SHEL
+"Interest Expense, Suppl",964,711,695,734,SHEL
+"Depreciat/Amort, Suppl","5,320","5,388","5,608","5,665",SHEL
+Total Special Items,"(1,798)","3,825","(6,192)",(245),SHEL
+Normalzd Income Before Tax,"14,471","14,601","19,968","11,190",SHEL
+Efct/SpecItemsIncTxs (STEC),973,(944),"2,179",(601),SHEL
+IncTxsExcl ImpctofSpec Itms,"5,637","2,513","10,101","3,986",SHEL
+Normalized Income After Tax,"8,834","12,088","9,867","7,204",SHEL
+Normalzd Inc Avail to Common,"8,690","11,885","9,669","7,099",SHEL
+Basic Normalized EPS,1.13,1.56,1.30,0.98,SHEL
+Diluted Normalized EPS,1.12,1.55,1.29,0.97,SHEL

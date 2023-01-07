@@ -1,0 +1,47 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"5,878","5,688","5,597","5,652","6,584",YUM
+"Cost of Revenue, Total","2,279","3,030","2,783","2,965","3,418",YUM
+"Sell/Gen/AdminExpenses,Tot","1,889",887,917,"1,028","1,053",YUM
+Research & Development,22,--,--,--,--,YUM
+"Inter/Invest Inc, Operating",4,1,(1),(18),(14),YUM
+Impair-Assets Held for Use,--,--,--,156,16,YUM
+Other Unusual Expnse (In),"(1,078)",(526),(32),15,(27),YUM
+Unusual Expense (Income),"(1,078)",(526),(32),171,(11),YUM
+"Other Operat Expse, Total",1,--,--,5,--,YUM
+Total Operating Expense,"3,117","3,392","3,667","4,151","4,446",YUM
+Total Operating Income,"2,761","2,296","1,930","1,501","2,138",YUM
+"Inter Expse,Net Non-Operat",(473),(496),(519),(558),(551),YUM
+"Inter Income, Non-Operating",33,44,33,--,--,YUM
+"Invest Income, Non-Operat",--,9,(67),74,86,YUM
+"Inter/Invest Inc, Non-Oper",33,53,(34),74,86,YUM
+"Inter Inc(Exp),Net Non-Oper",--,--,--,15,7,YUM
+"Other, Net",(47),(14),(4),(12),(6),YUM
+Income Before Tax,"2,274","1,839","1,373","1,020","1,674",YUM
+Income Tax - Total,500,363,79,116,99,YUM
+Income After Tax,"1,774","1,476","1,294",904,"1,575",YUM
+Net Inc Before Extra Items,"1,774","1,476","1,294",904,"1,575",YUM
+Discontinued Operations,0,0,--,--,--,YUM
+Extraordinary Item,(434),66,0,--,--,YUM
+Total Extraordinary Items,(434),66,0,--,--,YUM
+Total Net Income,"1,340","1,542","1,294",904,"1,575",YUM
+Income Available to Common Excl. Extra. Items,"1,774","1,476","1,294",904,"1,575",YUM
+Income Available to Common Incl. Extra. Items,"1,340","1,542","1,294",904,"1,575",YUM
+Basic/Primary Weighted Average Shares,347,322,306,302,297,YUM
+Basic/Primary EPS Excl. Extra. Items,5.11,4.58,4.23,2.99,5.30,YUM
+Basic/Primary EPS Incl. Extra. Items,3.86,4.79,4.23,2.99,5.30,YUM
+Diluted Weighted Average Shares,355,329,313,307,302,YUM
+Diluted EPS Excl. Extra. Items,5.00,4.49,4.13,2.94,5.22,YUM
+Diluted EPS Incl. Extra. Items,3.77,4.69,4.13,2.94,5.22,YUM
+Div/Share-ComStockPrimIssue,1.20,1.44,1.68,1.88,2.00,YUM
+Gross Divid - Common Stock,311,464,514,569,594,YUM
+Pro Forma Net Income,--,--,--,--,--,YUM
+"Interest Expense, Suppl",473,496,519,558,551,YUM
+"Depreciat/Amort, Suppl",243,146,114,132,134,YUM
+Total Special Items,"(1,078)",(521),(9),253,(15),YUM
+Normalzd Income Before Tax,"1,196","1,318","1,364","1,273","1,659",YUM
+Efct/SpecItemsIncTxs (STEC),256,96,30,(65),(17),YUM
+IncTxsExcl ImpctofSpec Itms,756,459,109,51,82,YUM
+Normalized Income After Tax,440,859,"1,255","1,222","1,577",YUM
+Normalzd Inc Avail to Common,440,859,"1,255","1,222","1,577",YUM
+Basic Normalized EPS,1.27,2.67,4.10,4.05,5.31,YUM
+Diluted Normalized EPS,1.24,2.61,4.01,3.98,5.22,YUM

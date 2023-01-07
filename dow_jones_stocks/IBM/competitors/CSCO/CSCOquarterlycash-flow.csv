@@ -1,0 +1,39 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Net Income,"5,953","8,997","11,812","2,670",CSCO
+Depreciation/Depletion,"1,049","1,527","1,957",415,CSCO
+Deferred Taxes,(138),(167),(309),(366),CSCO
+Unusual Items,(323),(470),(453),131,CSCO
+Other Non-Cash Items,938,"1,456","1,941",503,CSCO
+Non-Cash Items,615,986,"1,488",634,CSCO
+"Cash Taxes Pd, Supplemental","2,320","2,960","3,663","1,150",CSCO
+"Cash Interest Pd, Suppl",184,292,355,114,CSCO
+Accounts Receivable,933,"1,297",232,"1,675",CSCO
+Inventories,(506),(683),"(1,030)",(108),CSCO
+Other Assets,(780),"(1,295)","(1,615)",(316),CSCO
+Accounts Payable,(250),(54),(55),42,CSCO
+Accrued Expenses,(437),(730),(427),(384),CSCO
+Changes in Working Capital,"(1,591)","(1,794)","(1,722)",609,CSCO
+Total Cash from Operations,"5,888","9,549","13,226","3,962",CSCO
+Capital Expenditures,(232),(338),(477),(176),CSCO
+Acquisition of Business,(361),(373),(373),0,CSCO
+Sale of Fixed Assets,5,6,91,0,CSCO
+Sale/Maturity of Investment,"4,691","6,945","8,583","1,388",CSCO
+Purchase of Investments,"(4,061)","(5,541)","(6,256)","(1,991)",CSCO
+Other Investing Cash Flow,(11),(15),(15),(20),CSCO
+"OtherInvestCashFlowItms,Tot",263,"1,022","2,030",(623),CSCO
+Total Cash from Investing,31,684,"1,553",(799),CSCO
+Financing Cash Flow Items,(65),(230),(122),(29),CSCO
+Total Cash Dividends Paid,"(3,102)","(4,657)","(6,224)","(1,560)",CSCO
+Sale/Issuance of Common,306,306,660,--,CSCO
+Repurch/Retirement Common,"(5,516)","(5,893)","(8,381)",(664),CSCO
+"Iss (Retirmnt) of Stock,Net","(5,210)","(5,587)","(7,721)",(664),CSCO
+"Short Term Debt, Net",959,9,606,(602),CSCO
+"Long Term Debt, Net","(2,000)","(3,050)","(3,550)",0,CSCO
+Total Debt Issued,"1,049","1,049","1,049",--,CSCO
+"Iss (Retirmnt) of Debt, Net",8,"(1,992)","(1,895)",(602),CSCO
+Total Cash From Financing,"(8,369)","(12,466)","(15,962)","(2,855)",CSCO
+Foreign Exchange Effects,--,--,(180),(95),CSCO
+Net Change in Cash,"(2,450)","(2,233)","(1,363)",213,CSCO
+NetCash-BeginBal/RsvdforFutUse,"9,942","9,942","9,942","8,579",CSCO
+NetCash-EndBal/RsrvforFutUse,"7,492","7,709","8,579","8,792",CSCO
+"Depreciation, Supplemental","1,049","1,527","1,957",415,CSCO

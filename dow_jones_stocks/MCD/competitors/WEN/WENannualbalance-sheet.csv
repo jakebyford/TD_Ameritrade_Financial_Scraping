@@ -1,0 +1,52 @@
+items,2017,2018,2019,2021,2022,ticker
+Cash,171,209,185,232,249,WEN
+Cash & Equivalents,0,222,115,75,0,WEN
+Cash and Short Term Invs,171,431,300,307,249,WEN
+"Trade Accts Recvble, Gross",119,115,127,119,128,WEN
+Prov. for Doubtful Accts,(5),(5),(10),(9),(8),WEN
+"Total Receivables, Net",114,110,117,110,120,WEN
+Total Inventory,3,4,4,5,6,WEN
+Prepaid Expenses,20,14,16,90,31,WEN
+"Other Curr. Assets, Total",95,106,117,176,187,WEN
+Total Current Assets,404,666,554,688,593,WEN
+Buildings,895,911,914,914,927,WEN
+Land/Improvements,379,377,375,372,371,WEN
+Other Prop./Plant/Equip.,479,489,"1,337","1,338","1,403",WEN
+Prop./Plant/Equip. - Gross,"1,753","1,778","2,626","2,625","2,701",WEN
+Accumulated Depreciation,(490),(564),(592),(681),(737),WEN
+Prop./Plant/Equip. - Net,"1,263","1,213","2,034","1,944","1,964",WEN
+"Goodwill, Net",743,748,756,751,775,WEN
+Intangibles - Gross,"1,631","1,652","1,610","1,632","1,738",WEN
+Accum. Intangible Amort.,(310),(358),(363),(407),(457),WEN
+Intangibles - Net,"1,322","1,294","1,247","1,225","1,281",WEN
+LT Invt. - Affiliate Comp.,55,47,45,45,40,WEN
+LT Investments - Other,230,227,257,268,310,WEN
+Long Term Investments,285,274,303,313,350,WEN
+Note Rcvble - Long Term,18,14,2,6,4,WEN
+Other Long Term Assets,62,83,99,114,135,WEN
+Total Assets,"4,097","4,292","4,995","5,040","5,101",WEN
+Accounts Payable,23,22,23,31,41,WEN
+Accrued Expenses,69,58,124,155,139,WEN
+Notes Payable/ST Debt,0,0,0,0,0,WEN
+Curr. Port. LT Dbt/Cap Ls.,30,32,34,41,40,WEN
+"Other Curr. Lblts, Total",105,172,170,186,207,WEN
+Total Current Liabilities,227,284,350,413,427,WEN
+Long Term Debt,"2,264","2,306","2,258","2,218","2,356",WEN
+Capital Lease Obligations,461,447,481,506,560,WEN
+Total Long Term Debt,"2,724","2,753","2,738","2,724","2,916",WEN
+Total Debt,"2,754","2,784","2,772","2,765","2,956",WEN
+Deferred Income Tax,299,269,271,281,268,WEN
+"Other Liabilities, Total",273,337,"1,119","1,072","1,054",WEN
+Total Liabilities,"3,524","3,644","4,478","4,490","4,665",WEN
+Common Stock,47,47,47,47,47,WEN
+Additional Paid-In Capital,"2,886","2,885","2,874","2,899","2,899",WEN
+Ret. Earn.(Accum. Deficit),(163),146,186,239,344,WEN
+Treasury Stock - Common,"(2,150)","(2,368)","(2,537)","(2,586)","(2,805)",WEN
+Cum. Trans. Adjustment,(45),(62),(54),(50),(48),WEN
+Min. Pension Lblty Adj.,(1),0,0,--,--,WEN
+Other Comprehensive Income,0,0,0,--,--,WEN
+"Other Equity, Total",(46),(62),(54),(50),(48),WEN
+Total Equity,573,648,516,550,436,WEN
+Total Liabilities & Shareholders’ Equity,"4,097","4,292","4,995","5,040","5,101",WEN
+Ttl Comm. Shares Outs.,241,231,225,224,216,WEN
+Trsy. Shrs-Comm. Primary Iss.,230,239,246,246,255,WEN

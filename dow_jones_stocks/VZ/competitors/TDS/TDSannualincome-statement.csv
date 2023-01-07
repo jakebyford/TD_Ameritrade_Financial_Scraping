@@ -1,0 +1,51 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"5,044","5,109","5,176","5,225","5,329",TDS
+"Cost of Revenue, Total","2,359","2,336","2,337","2,354","2,472",TDS
+Selling/Gen/Admin Expense,"1,686","1,694","1,663","1,633","1,633",TDS
+Labor & Related Expense,--,--,54,48,44,TDS
+"Sell/Gen/AdminExpenses,Tot","1,686","1,694","1,717","1,681","1,677",TDS
+Depreciation/Amortization,844,883,932,909,895,TDS
+Impair-Assets Held for Use,262,0,0,--,--,TDS
+Other Unusual Expnse (In),(1),0,(1),--,(2),TDS
+Unusual Expense (Income),260,(9),11,22,24,TDS
+Loss(Gain)/Sale Asts (Oper),(1),(9),12,22,26,TDS
+Total Operating Expense,"5,149","4,904","4,997","4,966","5,068",TDS
+Total Operating Income,(105),205,179,259,261,TDS
+"Inter Expse, Non-Operating",(172),(172),(165),(168),(232),TDS
+"Inter Capital, Non-Operat",2,--,--,--,--,TDS
+"Inter Expse,Net Non-Operat",(170),(172),(165),(168),(232),TDS
+"Inter Income, Non-Operating",15,26,29,15,11,TDS
+"Invest Income, Non-Operat",137,160,168,183,182,TDS
+"Inter/Invest Inc, Non-Oper",152,186,197,198,193,TDS
+OtherNon-OperatInc (Expnse),1,2,0,(1),(1),TDS
+"Other, Net",1,2,0,(1),(1),TDS
+Income Before Tax,(122),221,211,288,221,TDS
+Income Tax - Total,48,62,64,19,33,TDS
+Income After Tax,(170),159,147,269,188,TDS
+Minority Interest,(4),(40),(26),(43),(32),TDS
+Net Inc Before Extra Items,(174),119,121,226,156,TDS
+Total Extraordinary Items,327,16,--,--,--,TDS
+Total Net Income,153,135,121,226,156,TDS
+Total Adjust to Net Income,0,0,--,--,(39),TDS
+Income Available to Common Excl. Extra. Items,(174),119,121,226,117,TDS
+Income Available to Common Incl. Extra. Items,153,135,121,226,117,TDS
+Basic/Primary Weighted Average Shares,111,112,114,114,115,TDS
+Basic/Primary EPS Excl. Extra. Items,(1.57),1.06,1.06,1.98,1.02,TDS
+Basic/Primary EPS Incl. Extra. Items,1.38,1.21,1.06,1.98,1.02,TDS
+Diluted Weighted Average Shares,111,114,116,115,116,TDS
+Diluted EPS Excl. Extra. Items,(1.57),1.04,1.04,1.97,1.01,TDS
+Diluted EPS Incl. Extra. Items,1.38,1.18,1.04,1.97,1.01,TDS
+Div/Share-ComStockPrimIssue,0.62,0.64,0.66,0.68,0.70,TDS
+Gross Divid - Common Stock,69,72,75,78,80,TDS
+Pro Forma Net Income,--,--,--,--,--,TDS
+"Interest Expense, Suppl",170,172,165,168,232,TDS
+"Interest Capitalized, Suppl",(2),--,--,--,--,TDS
+"Depreciat/Amort, Suppl",844,883,932,883,874,TDS
+Total Special Items,260,(9),11,22,24,TDS
+Normalzd Income Before Tax,138,212,222,310,245,TDS
+Efct/SpecItemsIncTxs (STEC),91,(3),3,1,4,TDS
+IncTxsExcl ImpctofSpec Itms,139,59,67,20,37,TDS
+Normalized Income After Tax,(1),153,155,290,208,TDS
+Normalzd Inc Avail to Common,(5),113,129,247,137,TDS
+Basic Normalized EPS,(0.05),1.00,1.13,2.16,1.19,TDS
+Diluted Normalized EPS,(0.05),0.99,1.11,2.14,1.18,TDS

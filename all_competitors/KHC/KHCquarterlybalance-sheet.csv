@@ -1,0 +1,50 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash and Short Term Invs,"3,445","2,978","1,518",997,KHC
+"Trade Accts Recvble, Gross","2,005","2,117","2,194","2,107",KHC
+Prov. for Doubtful Accts,(48),(50),(49),(52),KHC
+"Total Receivables, Net","1,957","2,067","2,145","2,055",KHC
+Invent. - Finished Goods,"1,682","1,941","2,162","2,217",KHC
+Invent. - Work In Progress,268,270,262,306,KHC
+Invent. - Raw Materials,779,882,"1,009","1,012",KHC
+Total Inventory,"2,729","3,093","3,433","3,535",KHC
+Prepaid Expenses,136,179,191,224,KHC
+Discont. Ops.-Curr. Assets,11,89,91,95,KHC
+Other Current Assets,716,869,760,954,KHC
+"Other Curr. Assets, Total",727,958,851,"1,049",KHC
+Total Current Assets,"8,994","9,275","8,138","7,860",KHC
+Prop./Plant/Equip. - Net,"6,806","6,602","6,568","6,417",KHC
+"Goodwill, Net","31,296","31,440","31,176","30,574",KHC
+Intangibles - Gross,"5,725","5,904","5,951","5,849",KHC
+Accum. Intangible Amort.,"(1,602)","(1,663)","(1,709)","(1,736)",KHC
+Intangibles - Net,"43,542","43,640","42,960","42,354",KHC
+Other Long Term Assets,"2,756","2,907","2,834","2,787",KHC
+Total Assets,"93,394","93,864","91,676","89,992",KHC
+Accounts Payable,"4,753","4,610","4,778","4,733",KHC
+Accrued Expenses,"1,072","1,189","1,157","1,066",KHC
+Notes Payable/ST Debt,14,50,47,4,KHC
+Curr. Port. LT Dbt/Cap Ls.,740,730,"1,147",770,KHC
+Income Taxes Payable,541,--,--,--,KHC
+Discontinued Operations,0,--,--,--,KHC
+Other Current Liabilities,"1,944","2,485","1,990","2,113",KHC
+"Other Curr. Lblts, Total","2,485","2,485","1,990","2,113",KHC
+Total Current Liabilities,"9,064","9,064","9,119","8,686",KHC
+Total Long Term Debt,"21,061","20,970","19,724","19,296",KHC
+Total Debt,"21,815","21,750","20,918","20,070",KHC
+Deferred Income Tax,"10,536","10,609","10,465","10,285",KHC
+Minority Interest,154,200,206,195,KHC
+Pension Benefits - Underfunded,205,209,203,194,KHC
+Other LT Liabilities,"3,076","3,168","3,163","3,188",KHC
+"Other Liabilities, Total","3,281","3,377","3,366","3,382",KHC
+Total Liabilities,"44,096","44,220","42,880","41,844",KHC
+Common Stock,12,12,12,12,KHC
+Additional Paid-In Capital,"53,379","52,954","52,520","52,077",KHC
+Ret. Earn.(Accum. Deficit),"(1,682)",(905),(640),(208),KHC
+Treasury Stock - Common,(587),(605),(686),(729),KHC
+Unrealized Gain (Loss),97,92,82,102,KHC
+Cum. Trans. Adjustment,"(2,285)","(2,264)","(2,702)","(3,195)",KHC
+Min. Pension Lblty Adj.,364,360,210,89,KHC
+"Other Equity, Total","(1,921)","(1,904)","(2,492)","(3,106)",KHC
+Total Equity,"49,298","49,644","48,796","48,148",KHC
+Total Liabilities & Shareholders’ Equity,"93,394","93,864","91,676","89,992",KHC
+Ttl Comm. Shares Outs.,"1,224","1,225","1,225","1,227",KHC
+Trsy. Shrs-Comm. Primary Iss.,11,12,15,15,KHC

@@ -1,0 +1,42 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,(33),337,341,"2,490","3,162",AMD
+Depreciation/Depletion,144,170,222,312,407,AMD
+Deferred Taxes,0,(4),(4),"(1,223)",308,AMD
+Unusual Items,12,84,218,87,41,AMD
+Equity in Net Earnings/Loss,(3),0,--,--,(56),AMD
+Other Non-Cash Items,136,174,258,336,433,AMD
+Non-Cash Items,145,258,476,423,418,AMD
+"Cash Taxes Pd, Supplemental",20,(8),(4),8,35,AMD
+"Cash Interest Pd, Suppl",88,79,67,31,25,AMD
+Accounts Receivable,(103),(806),(623),(219),(640),AMD
+Inventories,(3),(151),(137),(417),(556),AMD
+Prepaid Expenses,(173),(98),(162),(221),(912),AMD
+Accounts Payable,29,121,7,(648),808,AMD
+Accrued Expenses,--,--,--,574,526,AMD
+Payable/Accrued,6,207,373,--,--,AMD
+Changes in Working Capital,(244),(727),(542),(931),(774),AMD
+Total Cash from Operations,12,34,493,"1,071","3,521",AMD
+Capital Expenditures,(113),(163),(217),(294),(301),AMD
+Sale/Maturity of Investment,223,45,325,192,"1,678",AMD
+Purchase of Investments,(222),(123),(284),(850),"(2,056)",AMD
+Other Investing Cash Flow,58,71,27,0,(7),AMD
+"OtherInvestCashFlowItms,Tot",59,(7),68,(658),(385),AMD
+Total Cash from Investing,(54),(170),(149),(952),(686),AMD
+Financing Cash Flow Items,(13),(1),(7),(79),(237),AMD
+Sale/Issuance of Common,20,70,74,85,104,AMD
+Repurch/Retirement Common,--,--,--,--,"(1,762)",AMD
+"Common Stock, Net",20,70,74,85,"(1,658)",AMD
+Warrants Converted,--,--,449,0,--,AMD
+"Iss (Retirmnt) of Stock,Net",20,70,523,85,"(1,658)",AMD
+Short Term Debt Issued,--,--,--,200,0,AMD
+Short Term Debt Reduction,--,--,(70),--,--,AMD
+"Short Term Debt, Net",--,--,(70),200,0,AMD
+Long Term Debt Issued,0,0,--,--,--,AMD
+Long Term Debt Reduction,(110),(41),(403),(200),0,AMD
+"Long Term Debt, Net",(40),(41),(403),(200),0,AMD
+"Iss (Retirmnt) of Debt, Net",(40),(41),(473),0,0,AMD
+Total Cash From Financing,(33),28,43,6,"(1,895)",AMD
+Net Change in Cash,(75),(108),387,125,940,AMD
+NetCash-BeginBal/RsvdforFutUse,"1,266","1,191","1,083","1,470","1,595",AMD
+NetCash-EndBal/RsrvforFutUse,"1,191","1,083","1,470","1,595","2,535",AMD
+"Depreciation, Supplemental",144,170,222,312,407,AMD

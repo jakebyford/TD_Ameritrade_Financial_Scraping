@@ -1,0 +1,35 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,31,332,327,489,607,FTNT
+Depreciation/Depletion,55,56,62,69,84,FTNT
+Deferred Taxes,36,(128),18,(11),(94),FTNT
+Equity in Net Earnings/Loss,--,--,--,--,8,FTNT
+Other Non-Cash Items,144,252,282,336,399,FTNT
+Non-Cash Items,144,252,282,336,406,FTNT
+"Cash Taxes Pd, Supplemental",32,41,59,40,127,FTNT
+Accounts Receivable,(38),(82),(97),(176),(73),FTNT
+Inventories,9,(33),(49),(42),(19),FTNT
+Prepaid Expenses,(7),4,(2),(3),(18),FTNT
+Other Assets,(1),(140),(164),(210),(314),FTNT
+Accounts Payable,13,15,8,37,(13),FTNT
+Accrued Expenses,27,18,(4),89,94,FTNT
+Changes in Working Capital,328,127,120,201,496,FTNT
+Total Cash from Operations,594,639,808,"1,084","1,500",FTNT
+Capital Expenditures,(135),(53),(92),(126),(296),FTNT
+Acquisition of Business,0,(22),(35),(40),(75),FTNT
+Sale/Maturity of Investment,728,622,957,"1,171","1,556",FTNT
+Purchase of Investments,(669),(682),"(1,332)","(1,079)","(2,468)",FTNT
+Other Investing Cash Flow,--,--,--,1,(42),FTNT
+"OtherInvestCashFlowItms,Tot",59,(82),(410),53,"(1,029)",FTNT
+Total Cash from Investing,(77),(135),(502),(73),"(1,325)",FTNT
+Financing Cash Flow Items,(45),(77),(100),(114),(191),FTNT
+Sale/Issuance of Common,76,87,50,22,26,FTNT
+Repurch/Retirement Common,(446),(212),(145),"(1,080)",(742),FTNT
+"Iss (Retirmnt) of Stock,Net",(370),(125),(96),"(1,058)",(716),FTNT
+Long Term Debt Issued,--,--,--,--,989,FTNT
+"Iss (Retirmnt) of Debt, Net",--,--,--,--,989,FTNT
+Total Cash From Financing,(416),(203),(196),"(1,172)",83,FTNT
+Foreign Exchange Effects,--,--,--,--,0,FTNT
+Net Change in Cash,102,301,110,(161),257,FTNT
+NetCash-BeginBal/RsvdforFutUse,709,811,"1,112","1,223","1,062",FTNT
+NetCash-EndBal/RsrvforFutUse,811,"1,112","1,223","1,062","1,319",FTNT
+"Depreciation, Supplemental",55,56,62,69,84,FTNT

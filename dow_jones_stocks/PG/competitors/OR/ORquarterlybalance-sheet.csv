@@ -1,0 +1,49 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash,116,449,449,301,OR
+Short Term Investments,0,3,--,--,OR
+Cash and Short Term Invs,116,452,449,301,OR
+"Total Receivables, Net",15,16,28,10,OR
+Invent. - Finished Goods,10,16,12,0,OR
+Invent. - Raw Materials,4,5,9,0,OR
+Inventories - Other,5,5,5,0,OR
+Total Inventory,19,25,26,0,OR
+Restricted Cash - Current,--,206,--,--,OR
+Other Current Assets,4,7,7,1,OR
+"Other Curr. Assets, Total",4,214,7,1,OR
+Total Current Assets,153,707,510,312,OR
+Machinery/Equipment,105,615,794,12,OR
+Natural Resources,"1,809","1,270","1,980","2,045",OR
+Prop./Plant/Equip. - Gross,"1,915","1,884","2,774","2,057",OR
+Accumulated Depreciation,(124),(93),(788),(741),OR
+Prop./Plant/Equip. - Net,"1,794","1,795","2,028","1,316",OR
+"Goodwill, Net",111,111,111,111,OR
+LT Invt. - Affiliate Comp.,125,130,127,322,OR
+LT Investments - Other,169,131,113,73,OR
+Long Term Investments,294,260,240,395,OR
+Other Long Term Assets,18,19,34,2,OR
+Total Assets,"2,371","2,893","2,923","2,136",OR
+Payable/Accrued,30,44,33,8,OR
+Notes Payable/ST Debt,0,0,0,0,OR
+Curr. Port. LT Dbt/Cap Ls.,304,301,303,299,OR
+Dividends Payable,9,10,10,10,OR
+Other Current Liabilities,3,211,10,--,OR
+"Other Curr. Lblts, Total",12,222,20,10,OR
+Total Current Liabilities,346,567,357,318,OR
+Long Term Debt,116,116,5,0,OR
+Capital Lease Obligations,9,8,8,7,OR
+Total Long Term Debt,125,124,12,7,OR
+Total Debt,429,426,316,306,OR
+Deferred Income Tax,68,67,96,84,OR
+Minority Interest,145,181,494,0,OR
+"Other Liabilities, Total",51,47,82,--,OR
+Total Liabilities,736,987,"1,041",408,OR
+Common Stock,"1,784","2,083","2,086","2,072",OR
+Additional Paid-In Capital,43,63,59,62,OR
+Ret. Earn.(Accum. Deficit),(265),(281),(305),(476),OR
+Other Equity,15,15,15,15,OR
+Other Comprehensive Income,59,26,28,55,OR
+"Other Equity, Total",73,41,43,70,OR
+Total Equity,"1,635","1,906","1,882","1,727",OR
+Total Liabilities & Shareholders’ Equity,"2,371","2,893","2,923","2,136",OR
+Ttl Comm. Shares Outs.,166,185,185,184,OR
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,OR

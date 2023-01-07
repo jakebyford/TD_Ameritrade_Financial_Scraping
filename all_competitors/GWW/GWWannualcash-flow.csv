@@ -1,0 +1,44 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,622,823,895,755,"1,114",GWW
+Depreciation/Depletion,264,257,229,182,185,GWW
+Deferred Taxes,(5),7,4,(5),27,GWW
+Unusual Items,19,131,117,293,(6),GWW
+Equity in Net Earnings/Loss,38,19,--,--,--,GWW
+Other Non-Cash Items,49,54,52,68,60,GWW
+Non-Cash Items,106,204,169,361,54,GWW
+"Cash Taxes Pd, Supplemental",335,229,322,180,377,GWW
+"Cash Interest Pd, Suppl",78,86,84,94,87,GWW
+Accounts Receivable,(103),(79),(42),(121),(324),GWW
+Inventories,(5),(129),(106),(158),(152),GWW
+Prepaid Expenses,(5),(2),(33),(23),(15),GWW
+Accounts Payable,72,(51),32,80,54,GWW
+Accrued Expenses,112,18,(84),15,43,GWW
+Changes in Working Capital,69,(234),(255),(170),(443),GWW
+Total Cash from Operations,"1,057","1,057","1,042","1,123",937,GWW
+Capital Expenditures,(237),(239),(221),(197),(255),GWW
+Acquisition of Business,0,--,--,--,--,GWW
+Sale of Business,--,--,--,20,29,GWW
+Sale of Fixed Assets,120,86,17,--,--,GWW
+Sale/Maturity of Investment,--,--,2,--,--,GWW
+Purchase of Investments,(35),(13),--,--,--,GWW
+Other Investing Cash Flow,6,0,0,(2),0,GWW
+"OtherInvestCashFlowItms,Tot",91,73,19,18,29,GWW
+Total Cash from Investing,(146),(166),(202),(179),(226),GWW
+Financing Cash Flow Items,(28),(9),(7),(18),(27),GWW
+Total Cash Dividends Paid,(304),(316),(328),(338),(357),GWW
+"Common Stock, Net",(605),(425),(700),(601),(695),GWW
+Options Exercised,47,181,49,70,48,GWW
+"Iss (Retirmnt) of Stock,Net",(558),(244),(651),(531),(647),GWW
+Short Term Debt Issued,74,26,20,12,0,GWW
+Short Term Debt Reduction,(43),(31),(15),(65),0,GWW
+"Short Term Debt, Net",(339),(5),5,(53),0,GWW
+Long Term Debt Issued,402,0,0,"1,584",0,GWW
+Long Term Debt Reduction,(39),(96),(42),"(1,370)",(8),GWW
+"Long Term Debt, Net",362,(96),(42),214,(8),GWW
+"Iss (Retirmnt) of Debt, Net",23,(101),(37),161,(8),GWW
+Total Cash From Financing,(867),(670),"(1,023)",(726),"(1,039)",GWW
+Foreign Exchange Effects,9,(10),5,7,(16),GWW
+Net Change in Cash,53,211,(178),225,(344),GWW
+NetCash-BeginBal/RsvdforFutUse,274,327,538,360,585,GWW
+NetCash-EndBal/RsrvforFutUse,327,538,360,585,241,GWW
+"Depreciation, Supplemental",264,257,229,182,185,GWW

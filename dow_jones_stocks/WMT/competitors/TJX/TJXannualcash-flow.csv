@@ -1,0 +1,39 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"2,608","3,060","3,272",90,"3,283",TJX
+Depreciation/Depletion,726,820,867,871,868,TJX
+Deferred Taxes,(137),(89),(6),(231),(44),TJX
+Unusual Items,108,54,16,396,251,TJX
+Other Non-Cash Items,101,104,125,59,189,TJX
+Non-Cash Items,209,157,141,455,440,TJX
+"Cash Taxes Pd, Supplemental","1,290","1,148","1,281",146,"1,119",TJX
+"Cash Interest Pd, Suppl",64,64,56,153,139,TJX
+Accounts Receivable,(62),(24),(43),(60),(140),TJX
+Inventories,(450),(465),(297),589,"(1,658)",TJX
+Prepaid Expenses,(318),236,(51),(57),33,TJX
+Accounts Payable,205,198,29,"2,111",(338),TJX
+Accrued Expenses,335,169,346,785,530,TJX
+Changes in Working Capital,(380),140,(208),"3,377","(1,489)",TJX
+Total Cash from Operations,"3,026","4,088","4,067","4,562","3,057",TJX
+Purchase of Fixed Assets,"(1,058)","(1,125)","(1,223)",(568),"(1,045)",TJX
+Purchase/Acq of Intangibles,0,--,--,--,--,TJX
+Capital Expenditures,"(1,058)","(1,125)","(1,223)",(568),"(1,045)",TJX
+Sale/Maturity of Investment,906,637,13,19,20,TJX
+"Investment, Net",--,--,(230),0,--,TJX
+Purchase of Investments,(861),(162),(29),(29),(22),TJX
+Other Investing Cash Flow,--,27,7,0,--,TJX
+"OtherInvestCashFlowItms,Tot",45,502,(239),(11),(2),TJX
+Total Cash from Investing,"(1,013)",(624),"(1,462)",(579),"(1,046)",TJX
+Financing Cash Flow Items,(22),(23),(23),"(1,490)",(26),TJX
+Total Cash Dividends Paid,(764),(923),"(1,072)",(278),"(1,252)",TJX
+Sale/Issuance of Common,134,255,232,211,229,TJX
+Repurch/Retirement Common,"(1,645)","(2,407)","(1,552)",(202),"(2,176)",TJX
+"Iss (Retirmnt) of Stock,Net","(1,511)","(2,152)","(1,320)",10,"(1,947)",TJX
+Long Term Debt Issued,0,0,--,"5,987",--,TJX
+Long Term Debt Reduction,0,0,--,"(1,000)","(2,976)",TJX
+"Iss (Retirmnt) of Debt, Net",0,0,--,"4,987","(2,976)",TJX
+Total Cash From Financing,"(2,297)","(3,097)","(2,415)","3,228","(6,200)",TJX
+Foreign Exchange Effects,113,(96),(3),41,(54),TJX
+Net Change in Cash,(171),272,187,"7,253","(4,243)",TJX
+NetCash-BeginBal/RsvdforFutUse,"2,930","2,758","3,030","3,217","10,470",TJX
+NetCash-EndBal/RsrvforFutUse,"2,758","3,030","3,217","10,470","6,227",TJX
+"Depreciation, Supplemental",726,820,867,871,868,TJX

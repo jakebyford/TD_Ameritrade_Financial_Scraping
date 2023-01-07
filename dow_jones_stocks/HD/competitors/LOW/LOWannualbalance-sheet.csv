@@ -1,0 +1,54 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash & Equivalents,588,511,716,"4,690","1,133",LOW
+Short Term Investments,16,--,--,--,--,LOW
+Cash and Short Term Invs,604,511,716,"4,690","1,133",LOW
+Total Inventory,"11,393","12,561","13,179","16,193","17,605",LOW
+Restricted Cash - Current,86,218,160,506,271,LOW
+Other Current Assets,689,938,"1,263",937,"1,051",LOW
+"Other Curr. Assets, Total",775,"1,156","1,423","1,443","1,322",LOW
+Total Current Assets,"12,772","14,228","15,318","22,326","20,060",LOW
+Buildings,"18,521","18,052","17,862","18,090","18,433",LOW
+Land/Improvements,"7,414","7,196","7,200","7,315","7,278",LOW
+Machinery/Equipment,"10,475","10,090","10,377","10,466","10,533",LOW
+Construction in Progress,530,525,506,831,715,LOW
+Other Prop./Plant/Equip.,--,--,"3,891","3,832","4,108",LOW
+Prop./Plant/Equip. - Gross,"36,940","35,863","39,836","40,534","41,067",LOW
+Accumulated Depreciation,"(17,219)","(17,431)","(17,276)","(17,547)","(17,888)",LOW
+Prop./Plant/Equip. - Net,"19,721","18,432","22,560","22,987","23,179",LOW
+"Goodwill, Gross",--,--,--,--,"1,310",LOW
+Accum. Goodwill Amort.,--,--,--,--,(999),LOW
+"Goodwill, Net","1,307",303,303,311,311,LOW
+Intangibles - Gross,--,--,--,--,742,LOW
+Accum. Intangible Amort.,--,--,--,--,(220),LOW
+Intangibles - Net,--,--,--,--,522,LOW
+Long Term Investments,27,--,--,--,--,LOW
+Def. Inc. Tax - LT Asset,168,294,216,340,164,LOW
+Restricted Cash - LT,381,256,372,200,199,LOW
+Other Long Term Assets,915,995,702,571,205,LOW
+Total Assets,"35,291","34,508","39,471","46,735","44,640",LOW
+Accounts Payable,"6,590","8,279","7,659","10,884","11,354",LOW
+Accrued Expenses,747,"1,717","2,431","3,136","3,801",LOW
+Notes Payable/ST Debt,"1,137",722,"1,941",0,0,LOW
+Curr. Port. LT Dbt/Cap Ls.,294,"1,110",597,"1,112",868,LOW
+Customer Advances,"1,378","1,299","1,219","1,608","1,914",LOW
+Income Taxes Payable,--,--,--,168,128,LOW
+Other Current Liabilities,"1,950","1,370","1,335","1,822","1,603",LOW
+"Other Curr. Lblts, Total","3,328","2,669","2,554","3,598","3,645",LOW
+Total Current Liabilities,"12,096","14,497","15,182","18,730","19,668",LOW
+Long Term Debt,"15,564","14,391","16,156","20,104","23,296",LOW
+Capital Lease Obligations,--,--,612,564,563,LOW
+Total Long Term Debt,"15,564","14,391","16,768","20,668","23,859",LOW
+Total Debt,"16,995","16,223","19,306","21,780","24,727",LOW
+"Other Liabilities, Total","1,758","1,976","5,549","5,900","5,929",LOW
+Total Liabilities,"29,418","30,864","37,499","45,298","49,456",LOW
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,0,LOW
+Common Stock,415,401,381,366,335,LOW
+Additional Paid-In Capital,22,0,0,90,0,LOW
+Ret. Earn.(Accum. Deficit),"5,425","3,452","1,727","1,117","(5,115)",LOW
+Cum. Trans. Adjustment,--,(209),(136),(136),--,LOW
+Other Comprehensive Income,11,--,--,--,(36),LOW
+"Other Equity, Total",11,(209),(136),(136),(36),LOW
+Total Equity,"5,873","3,644","1,972","1,437","(4,816)",LOW
+Total Liabilities & Shareholders’ Equity,"35,291","34,508","39,471","46,735","44,640",LOW
+Ttl Comm. Shares Outs.,830,801,763,731,670,LOW
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,LOW

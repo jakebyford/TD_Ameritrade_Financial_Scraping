@@ -1,0 +1,45 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,741,650,598,"1,066","1,104",HUN
+Depreciation/Depletion,319,343,270,283,296,HUN
+Deferred Taxes,(55),(116),(93),172,(37),HUN
+Discontinued Operations,219,439,72,(799),(1),HUN
+Unusual Items,49,47,(4),(186),46,HUN
+Equity in Net Earnings/Loss,(13),(55),(54),(42),(143),HUN
+Other Non-Cash Items,45,30,128,117,148,HUN
+Non-Cash Items,300,461,142,(910),50,HUN
+"Cash Taxes Pd, Supplemental",25,179,100,316,106,HUN
+"Cash Interest Pd, Suppl",175,163,111,90,82,HUN
+Accounts Receivable,(183),(13),138,100,(648),HUN
+Inventories,(104),(86),77,145,(367),HUN
+Prepaid Expenses,(11),(9),(27),(10),--,HUN
+Other Assets,(36),(16),(37),(110),(150),HUN
+Accounts Payable,154,8,21,32,342,HUN
+Accrued Expenses,63,43,(50),(126),293,HUN
+Changes in Working Capital,(86),(285),(20),(358),(461),HUN
+Total Cash from Operations,"1,219","1,053",897,253,952,HUN
+Capital Expenditures,(282),(313),(274),(249),(342),HUN
+Acquisition of Business,(14),(366),0,(650),(245),HUN
+Sale of Business,25,0,--,"2,280",43,HUN
+Sale of Fixed Assets,--,--,50,75,0,HUN
+Sale/Maturity of Investment,0,0,--,--,--,HUN
+Other Investing Cash Flow,(153),(294),(36),7,20,HUN
+"OtherInvestCashFlowItms,Tot",(142),(660),14,"1,712",(182),HUN
+Total Cash from Investing,(424),(973),(260),"1,463",(524),HUN
+Financing Cash Flow Items,(107),(74),(150),(45),(44),HUN
+Total Cash Dividends Paid,(120),(156),(150),(144),(159),HUN
+Sale/Issuance of Common,"1,047",61,2,3,10,HUN
+Repurch/Retirement Common,0,(277),(208),(96),(200),HUN
+"Iss (Retirmnt) of Stock,Net","1,035",(246),(218),(101),(197),HUN
+Short Term Debt Issued,8,6,102,0,0,HUN
+Short Term Debt Reduction,(15),(8),--,(109),0,HUN
+"Short Term Debt, Net",(47),122,13,(312),(8),HUN
+Long Term Debt Issued,805,27,779,0,447,HUN
+Long Term Debt Reduction,"(2,085)",(97),(724),(53),"(1,016)",HUN
+"Long Term Debt, Net","(1,280)",(70),55,(53),(569),HUN
+"Iss (Retirmnt) of Debt, Net","(1,327)",52,68,(365),(577),HUN
+Total Cash From Financing,(519),(424),(450),(655),(977),HUN
+Foreign Exchange Effects,18,(35),(2),7,(3),HUN
+Net Change in Cash,294,(379),185,"1,068",(552),HUN
+NetCash-BeginBal/RsvdforFutUse,414,719,340,525,"1,593",HUN
+NetCash-EndBal/RsrvforFutUse,708,340,525,"1,593","1,041",HUN
+"Depreciation, Supplemental",319,343,270,283,296,HUN

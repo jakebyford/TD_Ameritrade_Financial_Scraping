@@ -1,0 +1,36 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"1,575",399,623,954,YUM
+Depreciation/Depletion,164,37,71,104,YUM
+Deferred Taxes,(200),(77),0,3,YUM
+Unusual Items,(102),(11),(4),(34),YUM
+Other Non-Cash Items,75,26,45,64,YUM
+Non-Cash Items,(27),15,41,30,YUM
+"Cash Interest Pd, Suppl",474,90,239,341,YUM
+Accounts Receivable,(46),29,(4),(26),YUM
+Prepaid Expenses,(33),(13),(2),(3),YUM
+Payable/Accrued,122,(176),(213),(149),YUM
+Changes in Working Capital,194,(121),(213),(116),YUM
+Total Cash from Operations,"1,706",253,522,975,YUM
+Capital Expenditures,(230),(42),(97),(158),YUM
+Acquisition of Business,0,--,--,--,YUM
+Sale of Fixed Assets,85,24,41,51,YUM
+"Investment, Net",0,--,--,--,YUM
+Other Investing Cash Flow,(28),(11),(8),(5),YUM
+"OtherInvestCashFlowItms,Tot",57,13,33,46,YUM
+Total Cash from Investing,(173),(29),(64),(112),YUM
+Financing Cash Flow Items,(77),(28),(43),(46),YUM
+Total Cash Dividends Paid,(592),(165),(327),(489),YUM
+"Iss (Retirmnt) of Stock,Net","(1,591)",(343),(557),(714),YUM
+Short Term Debt Issued,0,--,--,--,YUM
+Short Term Debt Reduction,0,0,--,--,YUM
+"Short Term Debt, Net",0,174,0,--,YUM
+Long Term Debt Issued,"4,150",0,999,999,YUM
+Long Term Debt Reduction,"(3,657)",(15),(658),(678),YUM
+"Long Term Debt, Net",493,(15),341,321,YUM
+"Iss (Retirmnt) of Debt, Net",493,159,341,321,YUM
+Total Cash From Financing,"(1,767)",(377),(586),(928),YUM
+Foreign Exchange Effects,(19),0,(15),(43),YUM
+Net Change in Cash,(253),(153),(143),(108),YUM
+NetCash-BeginBal/RsvdforFutUse,"1,024",771,771,771,YUM
+NetCash-EndBal/RsrvforFutUse,771,618,628,663,YUM
+"Depreciation, Supplemental",164,37,71,104,YUM

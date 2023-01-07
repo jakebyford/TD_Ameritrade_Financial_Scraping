@@ -1,0 +1,43 @@
+items,Q3 2021,Q4 2021,Q1 2022,Q2 2022,ticker
+Cash and Short Term Invs,"59,960","47,085","35,492","37,302",NOVN
+"Total Receivables, Net",121,"4,473","16,013","18,217",NOVN
+Invent. - Finished Goods,--,--,"1,478","1,571",NOVN
+Inventories - Other,--,--,--,(12),NOVN
+Total Inventory,--,--,"1,478","1,559",NOVN
+Prepaid Expenses,"1,014","2,463","5,699","4,950",NOVN
+Discont. Ops.-Curr. Assets,0,0,--,--,NOVN
+Other Current Assets,419,109,--,27,NOVN
+"Other Curr. Assets, Total",419,109,--,27,NOVN
+Total Current Assets,"61,514","54,130","58,682","62,055",NOVN
+Buildings,"7,314","9,391","10,298","9,911",NOVN
+Machinery/Equipment,"4,149","4,192","4,566","5,806",NOVN
+Other Prop./Plant/Equip.,"1,549","1,893","2,348","2,247",NOVN
+Prop./Plant/Equip. - Gross,"13,012","15,476","17,212","17,964",NOVN
+Accumulated Depreciation,"(1,480)","(1,582)","(1,679)","(1,925)",NOVN
+Prop./Plant/Equip. - Net,"11,532","13,894","15,533","16,039",NOVN
+"Goodwill, Net",--,--,"4,002","3,033",NOVN
+Intangibles - Gross,--,--,"33,075","33,075",NOVN
+Accum. Intangible Amort.,--,--,(121),(669),NOVN
+Intangibles - Net,75,75,"32,954","32,406",NOVN
+Other Long Term Assets,294,278,295,276,NOVN
+Total Assets,"73,887","68,960","112,049","114,392",NOVN
+Accounts Payable,"2,919","2,170","4,753","6,756",NOVN
+Accrued Expenses,"5,603","4,988","34,847","33,658",NOVN
+Notes Payable/ST Debt,0,0,0,0,NOVN
+Curr. Port. LT Dbt/Cap Ls.,0,0,--,--,NOVN
+Customer Advances,"2,586","2,586","5,823","2,586",NOVN
+Other Current Liabilities,"1,558","1,406","1,552","1,257",NOVN
+"Other Curr. Lblts, Total","4,144","3,992","7,375","3,843",NOVN
+Total Current Liabilities,"12,666","11,150","46,975","44,257",NOVN
+Total Long Term Debt,0,0,"16,500","16,500",NOVN
+Total Debt,0,0,"16,500","16,500",NOVN
+"Other Liabilities, Total","35,036","39,491","42,692","41,386",NOVN
+Total Liabilities,"47,702","50,641","106,167","102,143",NOVN
+Common Stock,2,2,2,2,NOVN
+Additional Paid-In Capital,"297,074","297,441","298,384","313,629",NOVN
+Ret. Earn.(Accum. Deficit),"(270,736)","(278,969)","(292,349)","(301,227)",NOVN
+Treasury Stock - Common,(155),(155),(155),(155),NOVN
+Total Equity,"26,185","18,319","5,882","12,249",NOVN
+Total Liabilities & Shareholders’ Equity,"73,887","68,960","112,049","114,392",NOVN
+Ttl Comm. Shares Outs.,"18,815","18,816","18,980","21,282",NOVN
+Trsy. Shrs-Comm. Primary Iss.,1,1,1,1,NOVN

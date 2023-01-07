@@ -1,0 +1,31 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,726,73,233,402,CROX
+Depreciation/Depletion,32,8,17,26,CROX
+Deferred Taxes,(241),--,0,0,CROX
+Non-Cash Items,95,32,56,86,CROX
+Accounts Receivable,(35),(131),(181),(167),CROX
+Inventories,(43),(28),(121),(140),CROX
+Prepaid Expenses,(6),(15),(9),(21),CROX
+Accounts Payable,35,--,--,--,CROX
+Accrued Expenses,38,--,--,--,CROX
+Payable/Accrued,--,6,85,52,CROX
+Changes in Working Capital,(45),(182),(221),(268),CROX
+Total Cash from Operations,567,(69),85,247,CROX
+Purchase of Fixed Assets,(56),(40),(57),(90),CROX
+Purchase/Acq of Intangibles,--,"(2,032)","(2,040)","(2,047)",CROX
+Capital Expenditures,(56),"(2,072)","(2,097)","(2,136)",CROX
+Sale of Fixed Assets,0,--,--,--,CROX
+Other Investing Cash Flow,0,0,0,0,CROX
+"OtherInvestCashFlowItms,Tot",0,0,0,0,CROX
+Total Cash from Investing,(56),"(2,071)","(2,097)","(2,136)",CROX
+Financing Cash Flow Items,(15),0,0,0,CROX
+"Iss (Retirmnt) of Stock,Net","(1,020)",(6),(7),(11),CROX
+Long Term Debt Issued,"1,090","2,240","2,241","2,241",CROX
+Long Term Debt Reduction,(485),(85),(195),(350),CROX
+"Iss (Retirmnt) of Debt, Net",605,"2,106","1,994","1,839",CROX
+Total Cash From Financing,(430),"2,099","1,988","1,828",CROX
+Foreign Exchange Effects,(4),(1),(2),(9),CROX
+Net Change in Cash,78,(42),(26),(71),CROX
+NetCash-BeginBal/RsvdforFutUse,139,217,217,217,CROX
+NetCash-EndBal/RsrvforFutUse,217,175,191,146,CROX
+"Depreciation, Supplemental",32,8,17,26,CROX

@@ -1,0 +1,44 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"13,212","13,200","13,598","13,550",CHTR
+"Cost of Revenue, Total","7,140","7,308","7,387","7,386",CHTR
+"Sell/Gen/AdminExpenses,Tot",791,826,806,861,CHTR
+Depreciation/Amortization,"2,280","2,294","2,240","2,177",CHTR
+Litigation,0,--,--,--,CHTR
+Impair-Assets Held for Sale,(162),8,(64),51,CHTR
+Other Unusual Expnse (In),7,(1),(60),199,CHTR
+Unusual Expense (Income),(117),9,(123),253,CHTR
+Loss(Gain)/Sale Asts (Oper),38,2,1,3,CHTR
+Total Operating Expense,"10,094","10,437","10,310","10,677",CHTR
+Total Operating Income,"3,118","2,763","3,288","2,873",CHTR
+"Inter Expse,Net Non-Operat","(1,034)","(1,060)","(1,109)","(1,160)",CHTR
+"Inter/Invest Inc, Non-Oper",(155),14,1,(193),CHTR
+OtherNon-OperatInc (Expnse),129,17,17,207,CHTR
+"Other, Net",129,17,17,207,CHTR
+Income Before Tax,"2,058","1,734","2,197","1,727",CHTR
+Income Tax - Total,224,345,489,360,CHTR
+Income After Tax,"1,834","1,389","1,708","1,367",CHTR
+Minority Interest,(224),(186),(237),(182),CHTR
+Net Inc Before Extra Items,"1,610","1,203","1,471","1,185",CHTR
+Total Net Income,"1,610","1,203","1,471","1,185",CHTR
+Income Available to Common Excl. Extra. Items,"1,610","1,203","1,471","1,185",CHTR
+Income Available to Common Incl. Extra. Items,"1,610","1,203","1,471","1,185",CHTR
+Basic/Primary Weighted Average Shares,176,171,164,158,CHTR
+Basic/Primary EPS Excl. Extra. Items,9.17,7.05,8.97,7.50,CHTR
+Basic/Primary EPS Incl. Extra. Items,9.17,7.05,8.97,7.50,CHTR
+Dilution Adjustment,0,0,--,--,CHTR
+Diluted Weighted Average Shares,180,175,167,161,CHTR
+Diluted EPS Excl. Extra. Items,8.93,6.89,8.80,7.38,CHTR
+Diluted EPS Incl. Extra. Items,8.93,6.89,8.80,7.38,CHTR
+Div/Share-ComStockPrimIssue,--,0.00,0.00,0.00,CHTR
+Gross Divid - Common Stock,0,0,--,--,CHTR
+Pro Forma Net Income,--,--,--,--,CHTR
+"Interest Expense, Suppl","1,034","1,060","1,109","1,160",CHTR
+"Depreciat/Amort, Suppl","1,880","2,294","2,240","2,177",CHTR
+Total Special Items,(117),9,(123),253,CHTR
+Normalzd Income Before Tax,"1,941","1,743","2,074","1,980",CHTR
+Efct/SpecItemsIncTxs (STEC),(13),2,(27),53,CHTR
+IncTxsExcl ImpctofSpec Itms,211,347,462,413,CHTR
+Normalized Income After Tax,"1,730","1,396","1,612","1,567",CHTR
+Normalzd Inc Avail to Common,"1,506","1,210","1,375","1,385",CHTR
+Basic Normalized EPS,8.58,7.09,8.38,8.77,CHTR
+Diluted Normalized EPS,8.35,6.94,8.23,8.62,CHTR

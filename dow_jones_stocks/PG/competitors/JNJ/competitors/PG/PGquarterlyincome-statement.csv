@@ -1,0 +1,37 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Total Revenue,"20,953","19,381","19,515","20,612",PG
+"Cost of Revenue, Total","10,664","10,326","10,802","10,846",PG
+"Sell/Gen/AdminExpenses,Tot","5,121","5,031","5,115","4,827",PG
+Total Operating Expense,"15,785","15,357","15,917","15,673",PG
+Total Operating Income,"5,168","4,024","3,598","4,939",PG
+"Inter Expse,Net Non-Operat",(106),(109),(115),(123),PG
+"Inter/Invest Inc, Non-Oper",10,9,21,42,PG
+OtherNon-OperatInc (Expnse),167,147,146,139,PG
+"Other, Net",167,147,146,139,PG
+Income Before Tax,"5,239","4,071","3,650","4,997",PG
+Income Tax - Total,997,704,592,"1,034",PG
+Income After Tax,"4,242","3,367","3,058","3,963",PG
+Minority Interest,(19),(12),(6),(24),PG
+Net Inc Before Extra Items,"4,223","3,355","3,052","3,939",PG
+Total Net Income,"4,223","3,355","3,052","3,939",PG
+Total Adjust to Net Income,(70),(68),(73),(71),PG
+Income Available to Common Excl. Extra. Items,"4,153","3,287","2,979","3,868",PG
+Income Available to Common Incl. Extra. Items,"4,153","3,287","2,979","3,868",PG
+Basic/Primary Weighted Average Shares,"2,413","2,401","2,399","2,386",PG
+Basic/Primary EPS Excl. Extra. Items,1.72,1.37,1.24,1.62,PG
+Basic/Primary EPS Incl. Extra. Items,1.72,1.37,1.24,1.62,PG
+Dilution Adjustment,70,68,73,71,PG
+Diluted Weighted Average Shares,"2,544","2,530","2,523","2,504",PG
+Diluted EPS Excl. Extra. Items,1.66,1.33,1.21,1.57,PG
+Diluted EPS Incl. Extra. Items,1.66,1.33,1.21,1.57,PG
+Div/Share-ComStockPrimIssue,0.87,0.87,0.91,0.91,PG
+Gross Divid - Common Stock,"2,108","2,092","2,196","2,189",PG
+Pro Forma Net Income,--,--,--,--,PG
+"Interest Expense, Suppl",106,109,115,123,PG
+"Depreciat/Amort, Suppl",610,611,640,583,PG
+Normalzd Income Before Tax,"5,239","4,071","3,650","4,997",PG
+IncTxsExcl ImpctofSpec Itms,997,704,592,"1,034",PG
+Normalized Income After Tax,"4,242","3,367","3,058","3,963",PG
+Normalzd Inc Avail to Common,"4,153","3,287","2,979","3,868",PG
+Basic Normalized EPS,1.72,1.37,1.24,1.62,PG
+Diluted Normalized EPS,1.66,1.33,1.21,1.57,PG

@@ -1,0 +1,50 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"1,546","1,451","1,639","1,726",QSR
+"Cost of Revenue, Total",532,494,584,615,QSR
+Selling/Gen/Admin Expense,254,228,226,241,QSR
+Labor & Related Expense,31,27,32,34,QSR
+Advertising Expense,251,247,259,276,QSR
+"Sell/Gen/AdminExpenses,Tot",536,502,517,551,QSR
+Depreciation/Amortization,5,5,7,6,QSR
+"Inter/Invest Inc, Operating",(26),(8),(22),(22),QSR
+Restructuring Charge,8,3,6,12,QSR
+Litigation,74,1,2,0,QSR
+Other Unusual Expnse (In),0,--,--,--,QSR
+Unusual Expense (Income),83,6,7,13,QSR
+Loss(Gain)/Sale Asts (Oper),1,2,(1),1,QSR
+"Other, Net",0,2,5,2,QSR
+"Other Operat Expse, Total",0,2,5,2,QSR
+Total Operating Expense,"1,130","1,001","1,098","1,165",QSR
+Total Operating Income,416,450,541,561,QSR
+"Inter Expse,Net Non-Operat",(106),(109),(119),(144),QSR
+"Inter Income, Non-Operating",1,0,1,2,QSR
+"Invest Income, Non-Operat",(22),(18),(11),9,QSR
+"Inter/Invest Inc, Non-Oper",(21),(18),(10),11,QSR
+Income Before Tax,289,323,412,428,QSR
+Income Tax - Total,27,53,66,(102),QSR
+Income After Tax,262,270,346,530,QSR
+Minority Interest,(83),(87),(110),(170),QSR
+Net Inc Before Extra Items,179,183,236,360,QSR
+Total Net Income,179,183,236,360,QSR
+Income Available to Common Excl. Extra. Items,179,183,236,360,QSR
+Income Available to Common Incl. Extra. Items,179,183,236,360,QSR
+Basic/Primary Weighted Average Shares,316,309,308,306,QSR
+Basic/Primary EPS Excl. Extra. Items,0.57,0.59,0.77,1.18,QSR
+Basic/Primary EPS Incl. Extra. Items,0.57,0.59,0.77,1.18,QSR
+Dilution Adjustment,82,86,109,169,QSR
+Diluted Weighted Average Shares,461,458,455,454,QSR
+Diluted EPS Excl. Extra. Items,0.57,0.59,0.76,1.17,QSR
+Diluted EPS Incl. Extra. Items,0.57,0.59,0.76,1.17,QSR
+Div/Share-ComStockPrimIssue,0.53,0.00,0.54,0.54,QSR
+Gross Divid - Common Stock,164,167,166,165,QSR
+Pro Forma Net Income,--,--,--,--,QSR
+"Interest Expense, Suppl",106,109,119,144,QSR
+"Depreciat/Amort, Suppl",41,39,38,37,QSR
+Total Special Items,83,6,7,13,QSR
+Normalzd Income Before Tax,372,329,419,441,QSR
+Efct/SpecItemsIncTxs (STEC),8,1,1,5,QSR
+IncTxsExcl ImpctofSpec Itms,35,54,67,(97),QSR
+Normalized Income After Tax,337,275,352,538,QSR
+Normalzd Inc Avail to Common,254,188,242,368,QSR
+Basic Normalized EPS,0.80,0.61,0.79,1.20,QSR
+Diluted Normalized EPS,0.73,0.60,0.77,1.18,QSR

@@ -1,0 +1,29 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"2,456",449,989,"1,418",DISH
+Depreciation/Depletion,725,176,345,519,DISH
+Deferred Taxes,602,122,247,352,DISH
+Unusual Items,20,(43),(56),(117),DISH
+Other Non-Cash Items,18,11,21,55,DISH
+Non-Cash Items,38,(32),(35),(62),DISH
+"Cash Taxes Pd, Supplemental",212,4,34,50,DISH
+"Cash Interest Pd, Suppl",782,277,528,799,DISH
+Changes in Working Capital,211,(10),(79),(86),DISH
+Total Cash from Operations,"4,031",705,"1,466","2,142",DISH
+Purchase of Fixed Assets,"(1,186)",(629),"(1,286)","(1,831)",DISH
+Purchase/Acq of Intangibles,(123),"(7,207)","(7,207)","(7,207)",DISH
+Capital Expenditures,"(1,308)","(7,836)","(8,493)","(9,038)",DISH
+Sale/Maturity of Investment,"2,069","2,512","2,929","2,985",DISH
+Purchase of Investments,"(4,687)",(55),(58),(126),DISH
+Other Investing Cash Flow,(484),(264),(504),(751),DISH
+"OtherInvestCashFlowItms,Tot","(3,102)","2,194","2,367","2,108",DISH
+Total Cash from Investing,"(4,410)","(5,643)","(6,126)","(6,930)",DISH
+Financing Cash Flow Items,(59),4,(7),(10),DISH
+"Iss (Retirmnt) of Stock,Net",58,5,9,14,DISH
+Long Term Debt Issued,"6,750",--,0,0,DISH
+Long Term Debt Reduction,"(2,090)",(7),(344),"(2,065)",DISH
+"Iss (Retirmnt) of Debt, Net","4,660",(7),(344),"(2,065)",DISH
+Total Cash From Financing,"4,659",2,(342),"(2,061)",DISH
+Net Change in Cash,"4,280","(4,935)","(5,002)","(6,849)",DISH
+NetCash-BeginBal/RsvdforFutUse,"3,454","7,734","7,734","7,734",DISH
+NetCash-EndBal/RsrvforFutUse,"7,734","2,799","2,732",885,DISH
+"Depreciation, Supplemental",725,176,345,519,DISH

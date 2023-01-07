@@ -1,0 +1,59 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"2,883","7,575","7,349","4,794","5,197",PYPL
+Short Term Investments,"2,812","1,534","3,412","8,208","4,194",PYPL
+Cash and Short Term Invs,"5,695","9,109","10,761","13,002","9,391",PYPL
+"Trade Accts Recvble, Net",283,313,435,577,800,PYPL
+Notes Recvble - Short Term,"1,314","2,532","3,972","2,769","4,846",PYPL
+Other Receivables,"24,640","20,062","22,527","33,418","36,141",PYPL
+"Total Receivables, Net","26,237","22,907","26,934","36,764","41,787",PYPL
+Prepaid Expenses,647,638,666,"1,148","1,287",PYPL
+Restricted Cash - Current,--,--,--,81,109,PYPL
+Other Current Assets,66,309,134,--,--,PYPL
+"Other Curr. Assets, Total",66,309,134,81,109,PYPL
+Total Current Assets,"32,645","32,963","38,495","50,995","52,574",PYPL
+Buildings,388,420,460,410,379,PYPL
+Land/Improvements,364,408,430,307,380,PYPL
+Machinery/Equipment,"4,129","4,813","5,275","6,010","6,599",PYPL
+Construction in Progress,148,119,80,83,86,PYPL
+Other Prop./Plant/Equip.,129,147,650,906,805,PYPL
+Prop./Plant/Equip. - Gross,"5,158","5,907","6,895","7,716","8,249",PYPL
+Accumulated Depreciation,"(3,630)","(4,183)","(4,723)","(5,202)","(5,681)",PYPL
+Prop./Plant/Equip. - Net,"1,528","1,724","2,172","2,514","2,568",PYPL
+"Goodwill, Net","4,339","6,284","6,212","9,135","11,454",PYPL
+Intangibles - Gross,"1,330","2,133","2,289","2,975","3,694",PYPL
+Accum. Intangible Amort.,"(1,162)","(1,308)","(1,511)","(1,927)","(2,362)",PYPL
+Intangibles - Net,168,825,778,"1,048","1,332",PYPL
+LT Invt. - Affiliate Comp.,88,293,524,789,"1,300",PYPL
+LT Investments - Other,"1,873",678,"2,339","5,293","5,497",PYPL
+Long Term Investments,"1,961",971,"2,863","6,082","6,797",PYPL
+Def. Inc. Tax - LT Asset,95,224,396,142,--,PYPL
+Restricted Cash - LT,--,--,--,7,0,PYPL
+Other Long Term Assets,38,341,417,456,"1,078",PYPL
+Total Assets,"40,774","43,332","51,333","70,379","75,803",PYPL
+Accounts Payable,"19,999","21,843","24,759","35,670","39,038",PYPL
+Accrued Expenses,"1,563","1,935","1,978","2,648","2,756",PYPL
+Notes Payable/ST Debt,"1,000","1,998",0,0,0,PYPL
+Curr. Port. LT Dbt/Cap Ls.,--,--,--,--,999,PYPL
+Income Taxes Payable,83,61,73,129,236,PYPL
+Other Current Liabilities,218,67,109,--,--,PYPL
+"Other Curr. Lblts, Total",301,128,182,129,236,PYPL
+Total Current Liabilities,"22,863","25,904","26,919","38,447","43,029",PYPL
+Total Long Term Debt,0,0,"4,978","8,939","8,049",PYPL
+Total Debt,"1,000","1,998","4,978","8,939","9,048",PYPL
+Deferred Income Tax,--,109,89,75,186,PYPL
+Minority Interest,--,--,44,44,0,PYPL
+"Other Liabilities, Total","1,917","1,933","2,418","2,855","2,812",PYPL
+Total Liabilities,"24,780","27,946","34,448","50,360","54,076",PYPL
+Common Stock,0,0,0,0,0,PYPL
+Additional Paid-In Capital,"14,314","14,939","15,588","16,644","17,208",PYPL
+Ret. Earn.(Accum. Deficit),"3,823","5,880","8,342","12,366","16,535",PYPL
+Treasury Stock - Common,"(2,001)","(5,511)","(6,872)","(8,507)","(11,880)",PYPL
+Unrealized Gain (Loss),(12),(13),2,11,(87),PYPL
+Cum. Trans. Adjustment,(25),(93),(150),(198),(270),PYPL
+Other Equity,--,--,0,0,0,PYPL
+Other Comprehensive Income,(105),184,(25),(297),221,PYPL
+"Other Equity, Total",(130),91,(175),(495),(49),PYPL
+Total Equity,"15,994","15,386","16,885","20,019","21,727",PYPL
+Total Liabilities & Shareholders’ Equity,"40,774","43,332","51,333","70,379","75,803",PYPL
+Ttl Comm. Shares Outs.,"1,200","1,174","1,173","1,172","1,168",PYPL
+Trsy. Shrs-Comm. Primary Iss.,47,91,105,117,132,PYPL

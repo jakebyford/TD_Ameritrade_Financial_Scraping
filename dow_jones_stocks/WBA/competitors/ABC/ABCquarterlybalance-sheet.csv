@@ -1,0 +1,40 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Cash & Equivalents,"3,169","2,961","3,034","3,388",ABC
+Short Term Investments,373,391,0,0,ABC
+Cash and Short Term Invs,"3,542","3,352","3,034","3,388",ABC
+"Trade Accts Recvble, Gross","18,593","19,650","20,286","20,079",ABC
+Prov. for Doubtful Accts,"(1,447)","(1,539)","(1,662)","(1,627)",ABC
+"Trade Accts Recvble, Net","18,508","19,563","20,190","19,985",ABC
+Other Receivables,183,135,128,173,ABC
+"Total Receivables, Net","18,691","19,698","20,318","20,157",ABC
+Total Inventory,"16,294","15,515","15,823","15,556",ABC
+Prepaid Expenses,852,845,569,488,ABC
+Total Current Assets,"39,379","39,410","39,745","39,590",ABC
+Prop./Plant/Equip. - Net,"2,130","2,139","2,105","2,135",ABC
+"Goodwill, Net","8,922","8,798","8,632","8,504",ABC
+Intangibles - Gross,"6,012","5,893","5,657","5,437",ABC
+Accum. Intangible Amort.,(932),"(1,005)","(1,049)","(1,104)",ABC
+Intangibles - Net,"5,081","4,888","4,608","4,333",ABC
+Other Long Term Assets,"1,796","1,806","1,832","1,762",ABC
+Total Assets,"57,578","57,308","57,174","56,561",ABC
+Accounts Payable,"38,618","38,211","39,306","40,193",ABC
+Accrued Expenses,"2,542","2,578","2,427","2,215",ABC
+Notes Payable/ST Debt,0,0,0,0,ABC
+Curr. Port. LT Dbt/Cap Ls.,269,"1,810","1,422","1,070",ABC
+"Other Curr. Lblts, Total",185,199,0,0,ABC
+Total Current Liabilities,"41,614","42,798","43,154","43,478",ABC
+Total Long Term Debt,"6,413","4,647","4,640","4,632",ABC
+Total Debt,"6,681","6,456","6,062","5,703",ABC
+Deferred Income Tax,"1,689","1,692","1,612","1,620",ABC
+Minority Interest,360,356,294,283,ABC
+"Other Liabilities, Total","7,261","7,265","7,249","6,759",ABC
+Total Liabilities,"57,336","56,758","56,949","56,772",ABC
+Common Stock,3,3,3,3,ABC
+Additional Paid-In Capital,"5,547","5,600","5,628","5,659",ABC
+Ret. Earn.(Accum. Deficit),"2,019","2,470","2,779","2,978",ABC
+Treasury Stock - Common,"(6,504)","(6,516)","(6,765)","(7,020)",ABC
+"Other Equity, Total",(823),"(1,006)","(1,421)","(1,831)",ABC
+Total Equity,242,550,224,(212),ABC
+Total Liabilities & Shareholders’ Equity,"57,578","57,308","57,174","56,561",ABC
+Ttl Comm. Shares Outs.,209,209,208,206,ABC
+Trsy. Shrs-Comm. Primary Iss.,83,83,85,86,ABC

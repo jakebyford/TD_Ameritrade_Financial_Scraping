@@ -1,0 +1,61 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"9,303","7,289","39,924","8,449","9,746",ABBV
+Short Term Investments,486,772,0,30,84,ABBV
+Cash and Short Term Invs,"9,789","8,061","39,924","8,479","9,830",ABBV
+"Trade Accts Recvble, Gross","5,146","5,435","5,474",--,--,ABBV
+Prov. for Doubtful Accts,(58),(51),(46),--,--,ABBV
+"Total Receivables, Net","5,088","5,384","5,428","8,822","9,977",ABBV
+Invent. - Finished Goods,610,473,485,"1,318",932,ABBV
+Invent. - Work In Progress,822,862,942,"1,201","1,193",ABBV
+Invent. - Raw Materials,173,270,386,791,"1,003",ABBV
+Total Inventory,"1,605","1,605","1,813","3,310","3,128",ABBV
+Prepaid Expenses,"4,718","1,763","2,332","3,562","4,993",ABBV
+"Other Curr. Assets, Total",23,132,22,--,--,ABBV
+Total Current Assets,"21,223","16,945","49,519","24,173","27,928",ABBV
+Buildings,"1,428","1,603","1,613","2,555","2,791",ABBV
+Land/Improvements,48,73,72,288,287,ABBV
+Machinery/Equipment,"5,991","6,362","6,012","6,976","6,850",ABBV
+Construction in Progress,604,358,491,"1,040",799,ABBV
+Other Prop./Plant/Equip.,--,--,344,895,762,ABBV
+Prop./Plant/Equip. - Gross,"8,071","8,396","8,532","11,754","11,489",ABBV
+Accumulated Depreciation,"(5,268)","(5,513)","(5,226)","(5,611)","(5,617)",ABBV
+Prop./Plant/Equip. - Net,"2,803","2,883","3,306","6,143","5,872",ABBV
+"Goodwill, Net","15,785","15,663","15,604","33,124","32,379",ABBV
+Intangibles - Gross,"33,950","28,657","27,345","97,412","98,102",ABBV
+Accum. Intangible Amort.,"(6,391)","(7,424)","(8,696)","(14,536)","(22,151)",ABBV
+Intangibles - Net,"27,559","21,233","18,649","82,876","75,951",ABBV
+Long Term Investments,"2,090","1,420",93,293,277,ABBV
+Other Long Term Assets,"1,326","1,208","1,944","3,956","4,122",ABBV
+Total Assets,"70,786","59,352","89,115","150,565","146,529",ABBV
+Accounts Payable,"1,474","1,546","1,452","2,276","2,882",ABBV
+Payable/Accrued,"3,628","4,026","3,128","6,516","7,057",ABBV
+Accrued Expenses,"3,832","4,726","5,423","9,032","10,217",ABBV
+Notes Payable/ST Debt,400,"3,699",0,34,14,ABBV
+Curr. Port. LT Dbt/Cap Ls.,"6,015","1,609","3,753","8,468","12,481",ABBV
+Dividends Payable,"1,143","1,607","1,771","2,335","2,543",ABBV
+Other Current Liabilities,149,26,58,--,--,ABBV
+"Other Curr. Lblts, Total","1,292","1,633","1,829","2,335","2,543",ABBV
+Total Current Liabilities,"16,641","17,239","15,585","28,661","35,194",ABBV
+Long Term Debt,"30,953","35,002","62,955","77,533","64,164",ABBV
+Capital Lease Obligations,--,--,20,21,25,ABBV
+Total Long Term Debt,"30,953","35,002","62,975","77,554","64,189",ABBV
+Total Debt,"37,368","40,310","66,728","86,056","76,684",ABBV
+Deferred Income Tax,"2,490","1,067","1,130","3,646","3,009",ABBV
+Minority Interest,--,--,--,21,28,ABBV
+Pension Benefits - Underfunded,"2,740","1,840","2,949","3,413","3,153",ABBV
+Other LT Liabilities,"12,865","12,650","14,648","24,194","25,548",ABBV
+"Other Liabilities, Total","15,605","14,490","17,597","27,607","28,701",ABBV
+Total Liabilities,"65,689","67,798","97,287","137,489","131,121",ABBV
+Common Stock,18,18,18,18,18,ABBV
+Additional Paid-In Capital,"14,270","14,756","15,193","17,384","18,305",ABBV
+Ret. Earn.(Accum. Deficit),"5,459","3,368","4,717","1,055","3,127",ABBV
+Treasury Stock - Common,"(11,923)","(24,108)","(24,504)","(2,264)","(3,143)",ABBV
+Unrealized Gain (Loss),0,(10),0,0,--,ABBV
+Cum. Trans. Adjustment,(439),(830),(928),583,(570),ABBV
+Min. Pension Lblty Adj.,"(1,919)","(1,722)","(2,965)","(3,067)","(2,546)",ABBV
+Other Comprehensive Income,(369),82,297,(633),217,ABBV
+"Other Equity, Total","(2,727)","(2,470)","(3,596)","(3,117)","(2,899)",ABBV
+Total Equity,"5,097","(8,446)","(8,172)","13,076","15,408",ABBV
+Total Liabilities & Shareholders’ Equity,"70,786","59,352","89,115","150,565","146,529",ABBV
+Ttl Comm. Shares Outs.,"1,592","1,479","1,479","1,765","1,768",ABBV
+Trsy. Shrs-Comm. Primary Iss.,177,298,303,27,35,ABBV

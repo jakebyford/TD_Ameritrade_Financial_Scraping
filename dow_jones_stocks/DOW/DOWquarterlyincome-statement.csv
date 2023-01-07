@@ -1,0 +1,47 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"14,364","15,264","15,664","14,115",DOW
+"Cost of Revenue, Total","11,778","12,402","12,899","12,381",DOW
+"Sell/Gen/AdminExpenses,Tot",436,498,435,356,DOW
+Research & Development,225,218,217,191,DOW
+Depreciation/Amortization,87,88,85,83,DOW
+Restructuring Charge,(16),186,0,0,DOW
+Litigation,0,--,--,--,DOW
+Other Unusual Expnse (In),(51),(12),16,7,DOW
+Unusual Expense (Income),(67),174,16,7,DOW
+Total Operating Expense,"12,459","13,380","13,652","13,018",DOW
+Total Operating Income,"1,905","1,884","2,012","1,097",DOW
+"Inter Expse,Net Non-Operat",(170),(167),(165),(155),DOW
+"Inter Income, Non-Operating",20,28,36,41,DOW
+"Invest Income, Non-Operat",237,176,178,(89),DOW
+"Inter/Invest Inc, Non-Oper",257,204,214,(48),DOW
+Gain(Loss)on Sale of Assets,31,31,12,10,DOW
+"Other, Net",95,103,96,97,DOW
+Income Before Tax,"2,118","2,055","2,169","1,001",DOW
+Income Tax - Total,357,503,488,241,DOW
+Income After Tax,"1,761","1,552","1,681",760,DOW
+Minority Interest,(25),17,(20),(21),DOW
+Net Inc Before Extra Items,"1,736","1,569","1,661",739,DOW
+Total Extraordinary Items,0,--,--,--,DOW
+Total Net Income,"1,736","1,569","1,661",739,DOW
+Total Adjust to Net Income,(9),(8),(9),(4),DOW
+Income Available to Common Excl. Extra. Items,"1,727","1,561","1,652",735,DOW
+Income Available to Common Incl. Extra. Items,"1,727","1,561","1,652",735,DOW
+Basic/Primary Weighted Average Shares,738,735,726,714,DOW
+Basic/Primary EPS Excl. Extra. Items,2.34,2.12,2.28,1.03,DOW
+Basic/Primary EPS Incl. Extra. Items,2.34,2.12,2.28,1.03,DOW
+Diluted Weighted Average Shares,743,740,732,718,DOW
+Diluted EPS Excl. Extra. Items,2.32,2.11,2.26,1.02,DOW
+Diluted EPS Incl. Extra. Items,2.32,2.11,2.26,1.02,DOW
+Div/Share-ComStockPrimIssue,0.70,0.70,0.70,0.70,DOW
+Gross Divid - Common Stock,512,513,505,493,DOW
+Pro Forma Net Income,--,--,--,--,DOW
+"Interest Expense, Suppl",170,167,165,155,DOW
+"Depreciat/Amort, Suppl",545,644,579,565,DOW
+Total Special Items,(50),194,65,70,DOW
+Normalzd Income Before Tax,"2,068","2,249","2,234","1,071",DOW
+Efct/SpecItemsIncTxs (STEC),(8),47,15,17,DOW
+IncTxsExcl ImpctofSpec Itms,349,550,503,258,DOW
+Normalized Income After Tax,"1,719","1,699","1,731",813,DOW
+Normalzd Inc Avail to Common,"1,685","1,708","1,702",788,DOW
+Basic Normalized EPS,2.28,2.32,2.35,1.10,DOW
+Diluted Normalized EPS,2.27,2.31,2.33,1.10,DOW

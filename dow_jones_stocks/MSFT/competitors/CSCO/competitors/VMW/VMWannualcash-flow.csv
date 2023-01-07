@@ -1,0 +1,37 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,659,"1,590","6,356","2,058","1,820",VMW
+Depreciation/Depletion,565,727,873,"1,025","1,110",VMW
+Deferred Taxes,310,(110),"(5,284)",(152),(80),VMW
+Unusual Items,46,23,(35),(140),54,VMW
+Other Non-Cash Items,686,811,"1,026","1,121","1,085",VMW
+Non-Cash Items,732,834,991,981,"1,139",VMW
+"Cash Taxes Pd, Supplemental",177,399,369,543,331,VMW
+"Cash Interest Pd, Suppl",21,129,134,200,200,VMW
+Accounts Receivable,(542),(694),(493),(18),(284),VMW
+Other Assets,(446),(347),(668),(879),(852),VMW
+Accounts Payable,(35),105,35,(69),81,VMW
+Accrued Expenses,330,290,417,518,487,VMW
+Changes in Working Capital,952,616,936,497,368,VMW
+Total Cash from Operations,"3,218","3,657","3,872","4,409","4,357",VMW
+Capital Expenditures,(263),(254),(279),(329),(386),VMW
+Acquisition of Business,(724),(949),"(2,441)",(409),(23),VMW
+Sale of Business,--,--,--,0,0,VMW
+Sale of Fixed Assets,13,41,22,28,14,VMW
+Sale/Maturity of Investment,"3,768","6,392",0,26,77,VMW
+Purchase of Investments,"(4,306)",(788),(30),(29),(11),VMW
+"OtherInvestCashFlowItms,Tot","(1,249)","4,696","(2,449)",(384),57,VMW
+Total Cash from Investing,"(1,512)","4,442","(2,728)",(713),(329),VMW
+Financing Cash Flow Items,0,595,"(1,639)",(91),0,VMW
+Total Cash Dividends Paid,0,"(11,000)",0,0,"(11,499)",VMW
+Sale/Issuance of Common,122,259,308,273,270,VMW
+Repurch/Retirement Common,"(1,800)",(399),"(1,868)","(1,357)","(1,554)",VMW
+"Iss (Retirmnt) of Stock,Net","(1,678)",(140),"(1,560)","(1,084)","(1,284)",VMW
+Long Term Debt Issued,"3,961",0,0,"1,979","5,944",VMW
+Long Term Debt Reduction,"(1,225)",(35),"(1,901)","(2,761)","(2,294)",VMW
+"Iss (Retirmnt) of Debt, Net","2,736",(35),"1,492",(782),"7,648",VMW
+Total Cash From Financing,"1,058","(10,580)","(1,707)","(1,957)","(5,135)",VMW
+Foreign Exchange Effects,--,1,(2),0,0,VMW
+Net Change in Cash,"2,764","(2,480)",(565),"1,739","(1,107)",VMW
+NetCash-BeginBal/RsvdforFutUse,"3,239","6,076","3,596","3,031","4,770",VMW
+NetCash-EndBal/RsrvforFutUse,"6,003","3,596","3,031","4,770","3,663",VMW
+"Depreciation, Supplemental",565,727,873,"1,025","1,110",VMW

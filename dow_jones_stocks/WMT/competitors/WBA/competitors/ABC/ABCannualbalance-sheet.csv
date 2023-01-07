@@ -1,0 +1,51 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash & Equivalents,"2,493","3,374","4,598","2,547","3,388",ABC
+Short Term Investments,--,--,--,373,0,ABC
+Cash and Short Term Invs,"2,493","3,374","4,598","2,920","3,388",ABC
+"Trade Accts Recvble, Gross","12,351","13,610","15,264","19,524","20,079",ABC
+Prov. for Doubtful Accts,"(1,036)","(1,223)","(1,417)","(1,357)","(1,627)",ABC
+"Trade Accts Recvble, Net","11,314","13,534","15,191","19,439","19,985",ABC
+Other Receivables,--,--,488,222,173,ABC
+"Total Receivables, Net","11,314","13,534","15,679","19,661","20,157",ABC
+Total Inventory,"11,919","11,060","12,589","15,368","15,556",ABC
+Prepaid Expenses,169,163,189,854,488,ABC
+Total Current Assets,"25,894","28,132","33,056","38,803","39,590",ABC
+Buildings,"1,087",942,587,839,--,ABC
+Land/Improvements,40,44,40,130,--,ABC
+Machinery/Equipment,"2,281","2,363","2,618","3,113",--,ABC
+Other Prop./Plant/Equip.,--,--,444,"1,067",--,ABC
+Prop./Plant/Equip. - Gross,"3,408","3,349","3,688","5,149",--,ABC
+Accumulated Depreciation,"(1,515)","(1,579)","(1,760)","(1,919)",--,ABC
+Prop./Plant/Equip. - Net,"1,892","1,771","1,928","3,230","2,135",ABC
+"Goodwill, Net","6,664","6,706","6,707","9,031","8,504",ABC
+Intangibles - Gross,"3,633","2,888","2,568","6,116","5,437",ABC
+Accum. Intangible Amort.,(685),(593),(681),(859),"(1,104)",ABC
+Intangibles - Net,"2,948","2,295","1,886","5,257","4,333",ABC
+Other Long Term Assets,271,269,336,727,"1,762",ABC
+Total Assets,"37,670","39,172","44,275","57,338","56,561",ABC
+Accounts Payable,"26,837","28,385","31,705","38,010","40,193",ABC
+Accrued Expenses,881,"1,057","1,647","2,856","2,215",ABC
+Notes Payable/ST Debt,0,0,0,0,0,ABC
+Curr. Port. LT Dbt/Cap Ls.,152,139,501,300,"1,070",ABC
+"Other Curr. Lblts, Total",--,--,--,192,0,ABC
+Total Current Liabilities,"27,870","29,581","33,853","41,359","43,478",ABC
+Long Term Debt,"4,159","4,034","3,618","6,384","4,632",ABC
+Capital Lease Obligations,352,321,0,--,--,ABC
+Total Long Term Debt,"4,511","4,354","3,618","6,384","4,632",ABC
+Total Debt,"4,662","4,493","4,120","6,684","5,703",ABC
+Deferred Income Tax,"1,829","1,860",686,"1,685","1,620",ABC
+Minority Interest,117,114,179,361,283,ABC
+"Other Liabilities, Total",410,383,"6,957","7,326","6,759",ABC
+Total Liabilities,"34,737","36,293","45,294","57,114","56,772",ABC
+Common Stock,3,3,3,3,3,ABC
+Additional Paid-In Capital,"4,715","4,850","5,082","5,465","5,659",ABC
+Ret. Earn.(Accum. Deficit),"3,721","4,235",518,"1,671","2,978",ABC
+Treasury Stock - Common,"(5,427)","(6,098)","(6,513)","(6,470)","(7,020)",ABC
+Cum. Trans. Adjustment,(75),(107),(103),(440),"(1,820)",ABC
+Min. Pension Lblty Adj.,(5),(5),(6),(6),(9),ABC
+Other Comprehensive Income,1,1,0,0,(2),ABC
+"Other Equity, Total",(79),(112),(109),(445),"(1,831)",ABC
+Total Equity,"2,933","2,879","(1,019)",223,(212),ABC
+Total Liabilities & Shareholders’ Equity,"37,670","39,172","44,275","57,338","56,561",ABC
+Ttl Comm. Shares Outs.,213,207,204,288,206,ABC
+Trsy. Shrs-Comm. Primary Iss.,70,79,84,83,86,ABC

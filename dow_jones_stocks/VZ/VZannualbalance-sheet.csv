@@ -1,0 +1,66 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash and Short Term Invs,"2,079","2,745","2,594","22,171","2,921",VZ
+"Trade Accts Recvble, Gross","24,432","25,867","26,162","25,169","24,742",VZ
+Prov. for Doubtful Accts,(939),(765),(733),"(1,252)",(896),VZ
+"Total Receivables, Net","23,493","25,859","26,277","24,650","24,585",VZ
+Total Inventory,"1,034","1,336","1,422","1,796","3,055",VZ
+Prepaid Expenses,"2,614","3,649","5,959","2,310","2,641",VZ
+Restricted Cash - Current,693,"1,047","1,221","1,195","1,094",VZ
+Discont. Ops.-Curr. Assets,0,--,--,--,--,VZ
+Other Current Assets,--,--,--,"2,472","2,432",VZ
+"Other Curr. Assets, Total",693,"1,047","1,221","3,667","3,526",VZ
+Total Current Assets,"29,913","34,636","37,473","54,594","36,728",VZ
+Buildings,"37,308","39,048","40,288","42,430","42,948",VZ
+Land/Improvements,806,807,594,608,673,VZ
+Machinery/Equipment,"193,065","197,109","205,391","217,183","222,973",VZ
+Construction in Progress,"6,139","6,362","9,234","8,576","13,057",VZ
+Other Prop./Plant/Equip.,"9,180","9,509","32,921","33,471","38,129",VZ
+Prop./Plant/Equip. - Gross,"246,498","252,835","288,428","302,268","317,780",VZ
+Accumulated Depreciation,"(157,930)","(163,549)","(173,819)","(184,904)","(190,201)",VZ
+Prop./Plant/Equip. - Net,"88,568","89,286","114,609","117,364","127,579",VZ
+"Goodwill, Net","29,172","24,614","24,389","24,773","28,603",VZ
+Intangibles - Gross,"112,522","118,672","121,452","123,574","176,104",VZ
+Accum. Intangible Amort.,"(13,858)","(14,767)","(16,895)","(18,064)","(16,808)",VZ
+Intangibles - Net,"98,664","103,905","104,557","105,510","159,296",VZ
+Long Term Investments,"1,039",671,558,589,"1,061",VZ
+Note Rcvble - Long Term,--,246,302,204,195,VZ
+Deferred Charges,--,--,--,"2,070","2,259",VZ
+Disct. Ops. - LT Asset,0,--,--,--,--,VZ
+Restricted Cash - LT,116,124,102,132,146,VZ
+Other Long Term Assets,"9,671","11,347","9,737","11,245","10,729",VZ
+Total Assets,"257,143","264,829","291,727","316,481","366,596",VZ
+Accounts Payable,"7,063","7,232","7,725","6,667","8,040",VZ
+Accrued Expenses,"12,686","13,786","15,571","16,044","19,028",VZ
+Notes Payable/ST Debt,150,150,0,320,0,VZ
+Curr. Port. LT Dbt/Cap Ls.,"3,303","7,040","10,777","5,569","7,443",VZ
+Dividends Payable,"2,429","2,512","2,566","2,618","2,709",VZ
+Customer Advances,"3,084","4,207","4,651","4,843","6,053",VZ
+Income Taxes Payable,"1,483","1,483","1,771","1,432","1,624",VZ
+Other Current Liabilities,"2,839","1,520","1,807","2,167","2,263",VZ
+"Other Curr. Lblts, Total","9,835","9,722","10,795","11,060","12,649",VZ
+Total Current Liabilities,"33,037","37,930","44,868","39,660","47,160",VZ
+Long Term Debt,"113,004","105,284","99,932","122,257","142,500",VZ
+Capital Lease Obligations,638,589,780,916,925,VZ
+Total Long Term Debt,"113,642","105,873","100,712","123,173","143,425",VZ
+Total Debt,"117,095","113,063","111,489","129,062","150,868",VZ
+Deferred Income Tax,"31,232","33,795","34,703","35,711","40,685",VZ
+Minority Interest,"1,591","1,565","1,440","1,430","1,410",VZ
+Pension Benefits - Underfunded,"22,112","18,599","17,952","18,657","15,410",VZ
+Other LT Liabilities,"12,433","13,922","30,657","30,008","36,716",VZ
+"Other Liabilities, Total","34,545","32,521","48,609","48,665","52,126",VZ
+Total Liabilities,"214,047","211,684","230,332","248,639","284,806",VZ
+"Pref. Stock-Non Rdmbl, Net",--,0,0,0,0,VZ
+Common Stock,424,429,429,429,429,VZ
+Additional Paid-In Capital,"11,101","13,437","13,419","13,404","13,861",VZ
+Ret. Earn.(Accum. Deficit),"35,635","43,542","53,147","60,464","71,993",VZ
+Treasury Stock - Common,"(7,139)","(6,986)","(6,820)","(6,719)","(4,104)",VZ
+ESOP Debt Guarantee,416,353,222,335,538,VZ
+Unrealized Gain (Loss),32,20,27,25,16,VZ
+Cum. Trans. Adjustment,(468),(600),(584),(404),(545),VZ
+Min. Pension Lblty Adj.,"3,206","3,030","2,371","1,695","1,074",VZ
+Other Comprehensive Income,(111),(80),(816),"(1,387)","(1,472)",VZ
+"Other Equity, Total","2,627","2,350",971,(96),(943),VZ
+Total Equity,"43,096","53,145","61,395","67,842","81,790",VZ
+Total Liabilities & Shareholders’ Equity,"257,143","264,829","291,727","316,481","366,596",VZ
+Ttl Comm. Shares Outs.,"4,079","4,132","4,136","4,138","4,198",VZ
+Trsy. Shrs-Comm. Primary Iss.,163,159,156,153,94,VZ

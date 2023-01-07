@@ -1,0 +1,64 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Due from Banks,"90,045","108,370","107,068","158,231","192,817",UBS
+Interest-Earning Deposits,"1,371","1,312","1,293","1,418","1,526",UBS
+Fed. Fund/Resale,"152,268","151,072","148,819","154,045","148,923",UBS
+Trading Account Assets,"93,130","72,249","86,229","78,299","87,424",UBS
+Other Short Trm Invest.,"193,281","224,744","222,181","260,554","198,130",UBS
+Total Invest. Securities,"8,889","6,667","6,345","8,258","8,844",UBS
+Other Earning Assets,"25,684","22,865","23,849","30,689","27,620",UBS
+"Other Erng. Assets, Total","474,623","478,909","488,716","533,263","472,467",UBS
+Total Gross Loans,--,"321,124","327,550","380,588","398,611",UBS
+Loan Loss Allowances,--,(772),(764),"(1,060)",(850),UBS
+Net Loans,"340,840","337,220","339,233","394,972","413,241",UBS
+Land/Improvements,--,"7,679",--,"7,586","13,048",UBS
+Machinery/Equipment,--,799,--,843,--,UBS
+Construction in Progress,--,"1,157",--,"1,036","1,250",UBS
+Other Prop./Plant/Equip.,"19,522","10,331",--,"16,773","12,815",UBS
+Prop./Plant/Equip. - Gross,"19,522","19,966",--,"26,238","27,113",UBS
+Accumulated Depreciation,"(10,465)","(10,619)",--,"(13,129)","(14,225)",UBS
+Prop./Plant/Equip. - Net,"9,057","9,348","12,804","13,109","12,888",UBS
+"Goodwill, Gross",--,"6,392",--,"6,182","6,126",UBS
+Accum. Goodwill Amort.,--,0,--,0,0,UBS
+"Goodwill, Net",--,"6,392",--,"6,182","6,126",UBS
+Intangibles - Gross,--,"1,624",--,"1,682","1,612",UBS
+Accum. Intangible Amort.,--,"(1,370)",--,"(1,384)","(1,360)",UBS
+Intangibles - Net,"6,563",255,"6,469",298,252,UBS
+Long Term Investments,"1,045","1,099","1,051","1,557","1,243",UBS
+Def. Inc. Tax - LT Asset,"10,056","10,105","9,548","9,212","8,876",UBS
+Disct. Ops. - LT Asset,98,82,199,246,"1,125",UBS
+Other Assets,"6,952","6,709","7,106","8,695","8,147",UBS
+"Other Assets, Total","6,952","6,709","7,106","8,695","8,147",UBS
+Total Assets,"939,279","958,489","972,194","1,125,765","1,117,182",UBS
+Accounts Payable,"49,450","50,260","46,573","46,418","50,672",UBS
+Accrued Expenses,"9,857","9,126","8,625","8,965","9,090",UBS
+Total Deposits,"427,305","430,800","454,854","535,655","555,108",UBS
+Fed Funds Purch.,"31,029","28,906","31,415","37,312","31,798",UBS
+Other ST Borrowings,"52,270","39,025","21,837","46,666","43,098",UBS
+Total ST Borrowings,"83,299","67,931","53,252","83,978","74,896",UBS
+Curr. Port. LT Dbt/Cap Ls.,--,"24,643",--,"23,072","24,491",UBS
+"Other Curr. Lblts, Total",--,--,852,"1,009","1,398",UBS
+Long Term Debt,"141,672","125,634","155,469","131,391","146,065",UBS
+Capital Lease Obligations,--,--,"3,943","3,273","2,858",UBS
+Total Long Term Debt,"141,672","125,634","159,412","134,664","148,923",UBS
+Total Debt,"224,971","218,208","212,664","241,714","248,310",UBS
+Deferred Income Tax,935,"1,002",311,564,300,UBS
+Minority Interest,59,176,174,319,340,UBS
+Reserves,"3,214","3,424","2,974","2,828","3,518",UBS
+Pension Benefits - Underfunded,949,845,633,722,633,UBS
+Discont. Ops. - Lblts,--,--,--,--,"1,298",UBS
+Other Liabilities,"170,044","191,721","190,033","228,125","185,853",UBS
+"Other Liabilities, Total","174,207","195,990","193,640","231,675","191,302",UBS
+Total Liabilities,"886,784","905,562","917,693","1,066,319","1,056,520",UBS
+Common Stock,338,338,338,338,322,UBS
+Additional Paid-In Capital,"23,598","20,843","18,064","16,753","15,928",UBS
+Ret. Earn.(Accum. Deficit),"25,932","30,448","34,122","38,776","43,851",UBS
+Treasury Stock - Common,"(2,210)","(2,631)","(3,326)","(4,068)","(4,675)",UBS
+Unrealized Gain (Loss),13,(103),14,151,(7),UBS
+Cum. Trans. Adjustment,"4,466","3,924","4,028","5,188","4,653",UBS
+Other Equity,(1),(1),--,0,--,UBS
+Other Comprehensive Income,359,109,"1,261","2,308",590,UBS
+"Other Equity, Total","4,824","4,032","5,289","7,496","5,243",UBS
+Total Equity,"52,495","52,927","54,501","59,446","60,662",UBS
+Total Liabilities & Shareholders’ Equity,"939,279","958,489","972,194","1,125,765","1,117,182",UBS
+Ttl Comm. Shares Outs.,"3,721","3,689","3,616","3,552","3,400",UBS
+Trsy. Shrs-Comm. Primary Iss.,132,166,243,307,303,UBS

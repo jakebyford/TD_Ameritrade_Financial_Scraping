@@ -1,0 +1,47 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"5,253","6,475","6,731","9,763","16,434",AMD
+"Cost of Revenue, Total","3,466","4,028","3,863","5,416","8,505",AMD
+Selling/Gen/Admin Expense,322,344,471,586,742,AMD
+Labor & Related Expense,38,42,62,95,128,AMD
+Advertising Expense,156,176,217,314,578,AMD
+"Sell/Gen/AdminExpenses,Tot",516,562,750,995,"1,448",AMD
+Research & Development,"1,196","1,434","1,547","1,983","2,845",AMD
+Restructuring Charge,0,0,--,--,--,AMD
+Other Unusual Expnse (In),(40),12,116,54,(5),AMD
+Unusual Expense (Income),(40),12,116,54,(5),AMD
+Total Operating Expense,"5,138","6,036","6,276","8,448","12,793",AMD
+Total Operating Income,115,439,455,"1,315","3,641",AMD
+"Inter Expse,Net Non-Operat",(126),(121),(94),(47),(34),AMD
+"Inter Income, Non-Operating",6,18,15,8,8,AMD
+"Invest Income, Non-Operat",(3),(3),(1),--,56,AMD
+"Inter/Invest Inc, Non-Oper",3,15,14,8,64,AMD
+OtherNon-OperatInc (Expnse),0,(3),(3),(1),(2),AMD
+"Other, Net",0,(3),(3),(1),(2),AMD
+Income Before Tax,(8),330,372,"1,275","3,669",AMD
+Income Tax - Total,"1,148",(22),44,"(1,210)",513,AMD
+Income After Tax,"(1,156)",352,328,"2,485","3,156",AMD
+Equity In Affiliates,(7),(2),0,5,6,AMD
+Net Inc Before Extra Items,"(1,163)",350,328,"2,490","3,162",AMD
+Total Extraordinary Items,"1,130",(13),13,--,--,AMD
+Total Net Income,(33),337,341,"2,490","3,162",AMD
+Income Available to Common Excl. Extra. Items,"(1,163)",350,328,"2,490","3,162",AMD
+Income Available to Common Incl. Extra. Items,(33),337,341,"2,490","3,162",AMD
+Basic/Primary Weighted Average Shares,952,982,"1,091","1,184","1,213",AMD
+Basic/Primary EPS Excl. Extra. Items,(1.22),0.36,0.30,2.10,2.61,AMD
+Basic/Primary EPS Incl. Extra. Items,(0.03),0.34,0.31,2.10,2.61,AMD
+Dilution Adjustment,--,--,--,1,0,AMD
+Diluted Weighted Average Shares,952,"1,064","1,120","1,207","1,229",AMD
+Diluted EPS Excl. Extra. Items,(1.22),0.33,0.29,2.06,2.57,AMD
+Diluted EPS Incl. Extra. Items,(0.03),0.32,0.30,2.06,2.57,AMD
+Gross Divid - Common Stock,0,0,0,0,0,AMD
+Pro Forma Net Income,--,--,--,--,--,AMD
+"Interest Expense, Suppl",126,121,94,47,34,AMD
+"Depreciat/Amort, Suppl",144,170,222,312,407,AMD
+Total Special Items,(40),12,128,68,(5),AMD
+Normalzd Income Before Tax,(48),342,500,"1,343","3,664",AMD
+Efct/SpecItemsIncTxs (STEC),(14),4,15,24,(1),AMD
+IncTxsExcl ImpctofSpec Itms,"1,134",(18),59,"(1,186)",512,AMD
+Normalized Income After Tax,"(1,182)",360,441,"2,529","3,152",AMD
+Normalzd Inc Avail to Common,"(1,189)",358,441,"2,534","3,158",AMD
+Basic Normalized EPS,(1.25),0.36,0.40,2.14,2.60,AMD
+Diluted Normalized EPS,(1.25),0.34,0.39,2.10,2.57,AMD

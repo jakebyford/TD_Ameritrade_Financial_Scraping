@@ -1,0 +1,49 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"5,193","5,267","4,475","5,683","1,301",UAA
+"Cost of Revenue, Total","2,853","2,797","2,315","2,822",696,UAA
+Selling/Gen/Admin Expense,"2,176","2,228","1,605","1,679",594,UAA
+Advertising Expense,--,--,550,649,--,UAA
+"Sell/Gen/AdminExpenses,Tot","2,176","2,228","2,155","2,328",594,UAA
+Depreciation/Amortization,6,6,7,2,1,UAA
+Restructuring Charge,183,0,460,39,57,UAA
+Impair-Assets Held for Use,--,--,141,4,--,UAA
+Other Unusual Expnse (In),--,--,(169),(217),--,UAA
+Unusual Expense (Income),183,0,432,(174),57,UAA
+Total Operating Expense,"5,218","5,030","4,909","4,978","1,347",UAA
+Total Operating Income,(25),237,(434),706,(46),UAA
+"Inter Expse, Non-Operating",(35),(24),(49),(46),(6),UAA
+"Inter Capital, Non-Operat",2,2,1,1,--,UAA
+"Inter Expse,Net Non-Operat",(34),(23),(47),(44),(6),UAA
+"Inter/Invest Inc, Non-Oper",11,(4),--,--,--,UAA
+OtherNon-OperatInc (Expnse),(20),0,(11),(270),0,UAA
+"Other, Net",(20),0,(11),(270),0,UAA
+Income Before Tax,(68),210,(493),391,(52),UAA
+Income Tax - Total,(22),70,63,32,8,UAA
+Income After Tax,(46),140,(556),359,(60),UAA
+Equity In Affiliates,1,(48),(7),1,1,UAA
+Net Inc Before Extra Items,(45),92,(563),360,(60),UAA
+Total Extraordinary Items,(2),--,14,0,--,UAA
+Total Net Income,(46),92,(549),360,(60),UAA
+Total Adjust to Net Income,0,--,--,--,--,UAA
+Income Available to Common Excl. Extra. Items,(45),92,(563),360,(60),UAA
+Income Available to Common Incl. Extra. Items,(46),92,(549),360,(60),UAA
+Basic/Primary Weighted Average Shares,446,451,454,466,471,UAA
+Basic/Primary EPS Excl. Extra. Items,(0.10),0.20,(1.24),0.77,(0.13),UAA
+Basic/Primary EPS Incl. Extra. Items,(0.10),0.20,(1.21),0.77,(0.13),UAA
+Diluted Weighted Average Shares,446,454,454,469,471,UAA
+Diluted EPS Excl. Extra. Items,(0.10),0.20,(1.24),0.77,(0.13),UAA
+Diluted EPS Incl. Extra. Items,(0.10),0.20,(1.21),0.77,(0.13),UAA
+Div/Share-ComStockPrimIssue,--,--,--,--,0.00,UAA
+Gross Divid - Common Stock,0,0,0,0,0,UAA
+Pro Forma Net Income,--,--,--,--,--,UAA
+"Interest Expense, Suppl",34,23,47,44,6,UAA
+"Interest Capitalized, Suppl",(2),(2),(1),(1),--,UAA
+"Depreciat/Amort, Suppl",176,180,158,139,35,UAA
+Total Special Items,183,39,432,(174),57,UAA
+Normalzd Income Before Tax,115,249,(60),217,5,UAA
+Efct/SpecItemsIncTxs (STEC),64,13,151,(14),20,UAA
+IncTxsExcl ImpctofSpec Itms,42,83,215,18,28,UAA
+Normalized Income After Tax,73,166,(275),199,(24),UAA
+Normalzd Inc Avail to Common,74,118,(282),200,(23),UAA
+Basic Normalized EPS,0.17,0.26,(0.62),0.43,(0.05),UAA
+Diluted Normalized EPS,0.17,0.26,(0.62),0.43,(0.05),UAA

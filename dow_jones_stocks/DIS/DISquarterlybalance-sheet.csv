@@ -1,0 +1,42 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Cash and Short Term Invs,"14,444","13,272","12,959","11,615",DIS
+"Total Receivables, Net","14,882","13,746","13,685","12,652",DIS
+Total Inventory,"1,345","1,428","1,590","1,742",DIS
+Restricted Cash - Current,3,3,3,--,DIS
+Other Current Assets,"2,239","2,978","3,185","3,089",DIS
+"Other Curr. Assets, Total","2,242","2,981","3,188","3,089",DIS
+Total Current Assets,"32,913","31,427","31,422","29,098",DIS
+Land/Improvements,"1,121","1,126","1,117","1,140",DIS
+Construction in Progress,"4,808","5,327","5,956","4,814",DIS
+Other Prop./Plant/Equip.,"65,257","65,247","65,599","66,998",DIS
+Prop./Plant/Equip. - Gross,"71,186","71,700","72,672","72,952",DIS
+Accumulated Depreciation,"(38,505)","(38,783)","(39,089)","(39,356)",DIS
+Prop./Plant/Equip. - Net,"32,681","32,917","33,583","33,596",DIS
+"Goodwill, Net","78,052","78,019","77,945","77,897",DIS
+Intangibles - Net,"47,243","48,224","49,411","50,614",DIS
+Long Term Investments,"3,549","3,356","3,236","3,218",DIS
+Other Long Term Assets,"8,832","8,467","8,435","9,208",DIS
+Total Assets,"203,311","202,453","204,074","203,631",DIS
+Payable/Accrued,"18,709","19,669","20,858","20,213",DIS
+Notes Payable/ST Debt,0,0,0,--,DIS
+Curr. Port. LT Dbt/Cap Ls.,"6,783","5,399","5,580","3,070",DIS
+"Other Curr. Lblts, Total","4,545","4,533","4,266","5,790",DIS
+Total Current Liabilities,"30,037","29,601","30,704","29,073",DIS
+Total Long Term Debt,"47,349","46,624","46,022","45,299",DIS
+Total Debt,"54,132","52,023","51,602","48,369",DIS
+Deferred Income Tax,"8,124","8,407","8,034","8,363",DIS
+Minority Interest,"13,729","13,377","13,358","13,370",DIS
+"Other Liabilities, Total","14,208","13,808","13,456","12,518",DIS
+Total Liabilities,"113,447","111,817","111,574","108,623",DIS
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,DIS
+Common Stock,"55,500","55,823","56,087","56,398",DIS
+Ret. Earn.(Accum. Deficit),"41,547","42,032","43,462","43,636",DIS
+Treasury Stock - Common,(907),(907),(907),(907),DIS
+Cum. Trans. Adjustment,(999),"(1,182)","(1,559)",--,DIS
+Min. Pension Lblty Adj.,"(5,217)","(5,098)","(4,979)",--,DIS
+Other Comprehensive Income,(60),(32),396,"(4,119)",DIS
+"Other Equity, Total","(6,276)","(6,312)","(6,142)","(4,119)",DIS
+Total Equity,"89,864","90,636","92,500","95,008",DIS
+Total Liabilities & Shareholders’ Equity,"203,311","202,453","204,074","203,631",DIS
+Ttl Comm. Shares Outs.,"1,781","1,781","1,781","1,781",DIS
+Trsy. Shrs-Comm. Primary Iss.,19,19,19,19,DIS

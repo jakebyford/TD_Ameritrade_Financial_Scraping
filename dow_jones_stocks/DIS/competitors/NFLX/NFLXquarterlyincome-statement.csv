@@ -1,0 +1,37 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"7,709","7,868","7,970","7,926",NFLX
+"Cost of Revenue, Total","5,240","4,285","4,691","4,789",NFLX
+"Sell/Gen/AdminExpenses,Tot","1,191",954,984,941,NFLX
+Research & Development,647,658,717,663,NFLX
+Total Operating Expense,"7,078","5,896","6,392","6,393",NFLX
+Total Operating Income,632,"1,972","1,578","1,533",NFLX
+"Inter Expse,Net Non-Operat",(189),(188),(175),(173),NFLX
+"Inter Income, Non-Operating",7,4,--,12,NFLX
+"Invest Income, Non-Operat",102,192,239,249,NFLX
+"Inter/Invest Inc, Non-Oper",109,196,239,261,NFLX
+"Inter Inc(Exp),Net Non-Oper",--,--,(19),--,NFLX
+Income Before Tax,551,"1,980","1,623","1,622",NFLX
+Income Tax - Total,198,382,182,224,NFLX
+Income After Tax,353,"1,597","1,441","1,398",NFLX
+Net Inc Before Extra Items,353,"1,597","1,441","1,398",NFLX
+Total Extraordinary Items,255,--,--,--,NFLX
+Total Net Income,607,"1,597","1,441","1,398",NFLX
+Income Available to Common Excl. Extra. Items,353,"1,597","1,441","1,398",NFLX
+Income Available to Common Incl. Extra. Items,607,"1,597","1,441","1,398",NFLX
+Basic/Primary Weighted Average Shares,443,444,445,445,NFLX
+Basic/Primary EPS Excl. Extra. Items,0.80,3.60,3.24,3.14,NFLX
+Basic/Primary EPS Incl. Extra. Items,1.37,3.60,3.24,3.14,NFLX
+Diluted Weighted Average Shares,456,453,450,450,NFLX
+Diluted EPS Excl. Extra. Items,0.77,3.53,3.20,3.10,NFLX
+Diluted EPS Incl. Extra. Items,1.33,3.53,3.20,3.10,NFLX
+Div/Share-ComStockPrimIssue,--,0.00,0.00,0.00,NFLX
+Gross Divid - Common Stock,0,0,0,0,NFLX
+Pro Forma Net Income,--,--,--,--,NFLX
+"Interest Expense, Suppl",189,188,175,173,NFLX
+"Depreciat/Amort, Suppl",64,75,84,85,NFLX
+Normalzd Income Before Tax,551,"1,980","1,623","1,622",NFLX
+IncTxsExcl ImpctofSpec Itms,198,382,182,224,NFLX
+Normalized Income After Tax,353,"1,597","1,441","1,398",NFLX
+Normalzd Inc Avail to Common,353,"1,597","1,441","1,398",NFLX
+Basic Normalized EPS,0.80,3.60,3.24,3.14,NFLX
+Diluted Normalized EPS,0.77,3.53,3.20,3.10,NFLX

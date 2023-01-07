@@ -1,0 +1,38 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"6,846","6,238","6,594","6,652",AMGN
+"Cost of Revenue, Total","1,718","1,561","1,510","1,588",AMGN
+"Sell/Gen/AdminExpenses,Tot","1,425","1,228","1,327","1,287",AMGN
+Research & Development,"1,348",959,"1,039","1,112",AMGN
+Unusual Expense (Income),--,--,560,(73),AMGN
+"Other Operat Expse, Total",51,(10),(18),--,AMGN
+Total Operating Expense,"4,542","3,738","4,418","3,914",AMGN
+Total Operating Income,"2,304","2,500","2,176","2,738",AMGN
+"Inter Expse,Net Non-Operat",(335),(295),(328),(368),AMGN
+OtherNon-OperatInc (Expnse),162,(530),(317),22,AMGN
+"Other, Net",162,(530),(317),22,AMGN
+Income Before Tax,"2,131","1,675","1,531","2,392",AMGN
+Income Tax - Total,232,199,214,249,AMGN
+Income After Tax,"1,899","1,476","1,317","2,143",AMGN
+Net Inc Before Extra Items,"1,899","1,476","1,317","2,143",AMGN
+Total Net Income,"1,899","1,476","1,317","2,143",AMGN
+Income Available to Common Excl. Extra. Items,"1,899","1,476","1,317","2,143",AMGN
+Income Available to Common Incl. Extra. Items,"1,899","1,476","1,317","2,143",AMGN
+Basic/Primary Weighted Average Shares,564,548,535,535,AMGN
+Basic/Primary EPS Excl. Extra. Items,3.37,2.69,2.46,4.01,AMGN
+Basic/Primary EPS Incl. Extra. Items,3.37,2.69,2.46,4.01,AMGN
+Diluted Weighted Average Shares,564,551,537,538,AMGN
+Diluted EPS Excl. Extra. Items,3.37,2.68,2.45,3.98,AMGN
+Diluted EPS Incl. Extra. Items,3.37,2.68,2.45,3.98,AMGN
+Div/Share-ComStockPrimIssue,1.76,1.94,1.94,1.94,AMGN
+Gross Divid - Common Stock,"1,057","1,034","1,084","1,057",AMGN
+Pro Forma Net Income,--,--,--,--,AMGN
+"Interest Expense, Suppl",335,295,328,368,AMGN
+"Depreciat/Amort, Suppl",152,204,199,209,AMGN
+Total Special Items,--,--,560,(73),AMGN
+Normalzd Income Before Tax,"2,131","1,675","2,091","2,319",AMGN
+Efct/SpecItemsIncTxs (STEC),--,--,78,(8),AMGN
+IncTxsExcl ImpctofSpec Itms,232,199,292,241,AMGN
+Normalized Income After Tax,"1,899","1,476","1,799","2,078",AMGN
+Normalzd Inc Avail to Common,"1,899","1,476","1,799","2,078",AMGN
+Basic Normalized EPS,3.37,2.69,3.36,3.88,AMGN
+Diluted Normalized EPS,3.37,2.68,3.35,3.86,AMGN

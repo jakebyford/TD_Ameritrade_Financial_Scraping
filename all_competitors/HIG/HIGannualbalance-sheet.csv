@@ -1,0 +1,50 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash,180,121,185,151,205,HIG
+Prop./Plant/Equip. - Gross,"3,634","2,606","3,081","3,222","3,327",HIG
+Accumulated Depreciation,"(2,600)","(1,600)","(1,900)","(2,100)","(2,300)",HIG
+Prop./Plant/Equip. - Net,"1,034","1,006","1,181","1,122","1,027",HIG
+"Goodwill, Net","1,290","1,290","1,913","1,911","1,911",HIG
+Intangibles - Gross,722,789,"1,369","1,369","1,369",HIG
+Accum. Intangible Amort.,(63),(132),(299),(419),(511),HIG
+Intangibles - Net,659,657,"1,070",950,858,HIG
+LT Invt. - Affiliate Comp.,"1,588","1,723","1,758","2,082","3,353",HIG
+LT Investments - Other,"43,558","45,067","51,272","54,450","54,396",HIG
+Long Term Investments,"45,146","46,790","53,030","56,532","57,749",HIG
+Insurance Receivables,"3,910","3,995","4,384","4,268","4,445",HIG
+Def. Inc. Tax - LT Asset,"1,164","1,248",299,46,270,HIG
+Disct. Ops. - LT Asset,"164,936",0,--,177,0,HIG
+Restricted Cash - LT,--,--,77,88,132,HIG
+Def. Policy Acq. Costs,650,670,785,789,881,HIG
+Reinsurance - Asset,"4,061","4,357","5,527","6,011","6,523",HIG
+Other Assets,"2,230","2,173","2,366","2,066","2,577",HIG
+"Other Assets, Total","6,291","6,530","7,893","8,077","9,100",HIG
+Total Assets,"225,260","62,307","70,817","74,111","76,578",HIG
+Accrued Expenses,--,--,201,221,184,HIG
+Policy Liabilities,"32,287","33,029","36,517","37,855","39,659",HIG
+Insurance Reserves,713,642,635,638,596,HIG
+Unearned Prem. Or Rev.,"5,322","5,282","6,635","6,629","7,194",HIG
+Other Policyholders’ Funds,816,767,755,701,687,HIG
+Policy Liabilities,"39,138","39,720","44,542","45,823","48,136",HIG
+Notes Payable/ST Debt,0,0,0,0,0,HIG
+Curr. Port. LT Dbt/Cap Ls.,320,413,500,0,--,HIG
+Total Long Term Debt,"4,678","4,265","4,348","4,352","4,944",HIG
+Total Debt,"4,998","4,678","4,848","4,352","4,944",HIG
+Discont. Ops. - Lblts,"162,442",0,--,158,0,HIG
+Other Liabilities,"5,188","4,808","4,956","5,001","5,471",HIG
+"Other Liabilities, Total","167,630","4,808","4,956","5,159","5,471",HIG
+Total Liabilities,"211,766","49,206","54,547","55,555","58,735",HIG
+"Pref. Stock-Non Rdmbl, Net",--,334,334,334,334,HIG
+Common Stock,4,4,4,4,4,HIG
+Additional Paid-In Capital,"4,379","4,378","4,312","4,322","3,309",HIG
+Ret. Earn.(Accum. Deficit),"9,642","11,055","12,685","13,918","15,764",HIG
+Treasury Stock - Common,"(1,194)","(1,091)","(1,117)","(1,192)","(1,740)",HIG
+Unrealized Gain (Loss),"1,931",24,"1,684","2,834","1,616",HIG
+Cum. Trans. Adjustment,34,30,34,43,41,HIG
+Min. Pension Lblty Adj.,"(1,317)","(1,624)","(1,672)","(1,717)","(1,489)",HIG
+Other Comprehensive Income,15,(9),6,10,4,HIG
+"Other Equity, Total","(1,268)","(1,603)","(1,632)","(1,664)","(1,444)",HIG
+Total Equity,"13,494","13,101","16,270","18,556","17,843",HIG
+Total Liabilities & Shareholders’ Equity,"225,260","62,307","70,817","74,111","76,578",HIG
+Ttl Comm. Shares Outs.,357,359,360,358,335,HIG
+Trsy. Shrs-Comm. Primary Iss.,28,26,25,26,32,HIG
+Trsry Shrs-Pref. Iss. 1,--,0,0,0,0,HIG

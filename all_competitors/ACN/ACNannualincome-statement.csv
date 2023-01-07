@@ -1,0 +1,42 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"40,993","43,215","44,327","50,533","61,594",ACN
+"Cost of Revenue, Total","28,499","29,900","30,351","34,169","41,893",ACN
+"Sell/Gen/AdminExpenses,Tot","6,595","7,010","7,463","8,743","10,334",ACN
+Unusual Expense (Income),0,0,--,--,96,ACN
+Total Operating Expense,"35,094","36,910","37,813","42,912","52,323",ACN
+Total Operating Income,"5,899","6,305","6,514","7,622","9,271",ACN
+"Inter Expse,Net Non-Operat",(20),(23),(33),(59),(47),ACN
+"Inter Income, Non-Operating",56,88,69,33,45,ACN
+"Invest Income, Non-Operat",(114),(112),--,--,--,ACN
+"Inter/Invest Inc, Non-Oper",(58),(25),69,33,45,ACN
+OtherNon-OperatInc (Expnse),(13),(6),224,166,(73),ACN
+"Other, Net",(13),(6),224,166,(73),ACN
+Income Before Tax,"5,808","6,252","6,774","7,761","9,196",ACN
+Income Tax - Total,"1,416","1,406","1,589","1,771","2,207",ACN
+Income After Tax,"4,392","4,846","5,185","5,991","6,989",ACN
+Minority Interest,(155),(67),(77),(84),(112),ACN
+Net Inc Before Extra Items,"4,238","4,779","5,108","5,907","6,877",ACN
+Total Extraordinary Items,(178),--,--,--,--,ACN
+Total Net Income,"4,060","4,779","5,108","5,907","6,877",ACN
+Income Available to Common Excl. Extra. Items,"4,238","4,779","5,108","5,907","6,877",ACN
+Income Available to Common Incl. Extra. Items,"4,060","4,779","5,108","5,907","6,877",ACN
+Basic/Primary Weighted Average Shares,628,638,636,635,633,ACN
+Basic/Primary EPS Excl. Extra. Items,6.74,7.49,8.03,9.31,10.87,ACN
+Basic/Primary EPS Incl. Extra. Items,6.46,7.49,8.03,9.31,10.87,ACN
+Dilution Adjustment,95,7,6,7,7,ACN
+Diluted Weighted Average Shares,655,650,648,646,643,ACN
+Diluted EPS Excl. Extra. Items,6.61,7.36,7.89,9.16,10.71,ACN
+Diluted EPS Incl. Extra. Items,6.34,7.36,7.89,9.16,10.71,ACN
+Div/Share-ComStockPrimIssue,2.66,2.92,3.20,3.52,3.88,ACN
+Gross Divid - Common Stock,"1,671","1,862","2,035","2,234","2,455",ACN
+Pro Forma Net Income,--,--,--,--,--,ACN
+"Interest Expense, Suppl",20,23,33,59,47,ACN
+"Depreciat/Amort, Suppl",423,441,482,512,592,ACN
+Total Special Items,0,0,--,--,96,ACN
+Normalzd Income Before Tax,"5,808","6,252","6,774","7,761","9,292",ACN
+Efct/SpecItemsIncTxs (STEC),0,0,--,--,23,ACN
+IncTxsExcl ImpctofSpec Itms,"1,416","1,406","1,589","1,771","2,230",ACN
+Normalized Income After Tax,"4,392","4,846","5,185","5,991","7,062",ACN
+Normalzd Inc Avail to Common,"4,238","4,779","5,108","5,907","6,950",ACN
+Basic Normalized EPS,6.74,7.49,8.03,9.31,10.98,ACN
+Diluted Normalized EPS,6.61,7.36,7.89,9.16,10.82,ACN

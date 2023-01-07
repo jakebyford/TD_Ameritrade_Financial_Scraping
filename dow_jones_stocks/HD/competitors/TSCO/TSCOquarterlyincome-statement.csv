@@ -1,0 +1,35 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"3,319","3,024","3,903","3,271",TSCO
+"Cost of Revenue, Total","2,199","1,968","2,517","2,105",TSCO
+"Sell/Gen/AdminExpenses,Tot",752,735,778,772,TSCO
+Depreciation/Amortization,75,78,83,87,TSCO
+Unusual Expense (Income),0,--,--,--,TSCO
+Total Operating Expense,"3,026","2,780","3,378","2,964",TSCO
+Total Operating Income,293,244,525,306,TSCO
+"Inter Expse,Net Non-Operat",(7),(7),(7),(6),TSCO
+Income Before Tax,287,237,518,300,TSCO
+Income Tax - Total,65,50,121,66,TSCO
+Income After Tax,221,187,396,234,TSCO
+Net Inc Before Extra Items,221,187,396,234,TSCO
+Total Net Income,221,187,396,234,TSCO
+Income Available to Common Excl. Extra. Items,221,187,396,234,TSCO
+Income Available to Common Incl. Extra. Items,221,187,396,234,TSCO
+Basic/Primary Weighted Average Shares,114,113,112,111,TSCO
+Basic/Primary EPS Excl. Extra. Items,1.95,1.66,3.55,2.11,TSCO
+Basic/Primary EPS Incl. Extra. Items,1.95,1.66,3.55,2.11,TSCO
+Diluted Weighted Average Shares,115,114,112,112,TSCO
+Diluted EPS Excl. Extra. Items,1.93,1.65,3.53,2.10,TSCO
+Diluted EPS Incl. Extra. Items,1.93,1.65,3.53,2.10,TSCO
+Div/Share-ComStockPrimIssue,0.52,0.92,0.92,0.92,TSCO
+Gross Divid - Common Stock,59,103,103,156,TSCO
+Pro Forma Net Income,--,--,--,--,TSCO
+"Interest Expense, Suppl",7,7,7,6,TSCO
+"Depreciat/Amort, Suppl",75,78,83,87,TSCO
+Total Special Items,11,10,--,--,TSCO
+Normalzd Income Before Tax,297,248,518,300,TSCO
+Efct/SpecItemsIncTxs (STEC),2,2,--,--,TSCO
+IncTxsExcl ImpctofSpec Itms,68,52,121,66,TSCO
+Normalized Income After Tax,230,195,396,234,TSCO
+Normalzd Inc Avail to Common,230,195,396,234,TSCO
+Basic Normalized EPS,2.02,1.74,3.55,2.11,TSCO
+Diluted Normalized EPS,2.00,1.72,3.53,2.10,TSCO

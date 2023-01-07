@@ -1,0 +1,33 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Net Income,635,925,"1,233",613,FOXA
+Depreciation/Depletion,172,264,363,99,FOXA
+Deferred Taxes,143,195,342,104,FOXA
+Unusual Items,0,0,0,--,FOXA
+Other Non-Cash Items,198,464,629,87,FOXA
+Non-Cash Items,198,464,629,87,FOXA
+"Cash Taxes Pd, Supplemental",155,204,209,8,FOXA
+"Cash Interest Pd, Suppl",200,363,383,151,FOXA
+Accounts Receivable,(940),(309),(79),(260),FOXA
+Inventories,(494),(156),(301),(333),FOXA
+Payable/Accrued,(214),(205),(54),(127),FOXA
+Changes in Working Capital,"(1,804)",(897),(683),(633),FOXA
+Total Cash from Operations,(656),951,"1,884",270,FOXA
+Capital Expenditures,(121),(191),(307),(74),FOXA
+Acquisition of Business,(229),(243),(243),0,FOXA
+Sale of Business,82,82,83,0,FOXA
+Sale/Maturity of Investment,--,--,0,--,FOXA
+Purchase of Investments,(28),(28),(28),(31),FOXA
+Other Investing Cash Flow,0,(6),(18),(13),FOXA
+"OtherInvestCashFlowItms,Tot",(175),(195),(206),(44),FOXA
+Total Cash from Investing,(296),(386),(513),(118),FOXA
+Financing Cash Flow Items,(32),(24),0,(5),FOXA
+Total Cash Dividends Paid,(150),(295),(307),(147),FOXA
+"Iss (Retirmnt) of Stock,Net",(497),(748),"(1,000)",(250),FOXA
+Long Term Debt Issued,--,--,0,--,FOXA
+Long Term Debt Reduction,--,(750),(750),--,FOXA
+"Iss (Retirmnt) of Debt, Net",--,(750),(750),--,FOXA
+Total Cash From Financing,(679),"(1,817)","(2,057)",(402),FOXA
+Net Change in Cash,"(1,631)","(1,252)",(686),(250),FOXA
+NetCash-BeginBal/RsvdforFutUse,"5,886","5,886","5,886","5,200",FOXA
+NetCash-EndBal/RsrvforFutUse,"4,255","4,634","5,200","4,950",FOXA
+"Depreciation, Supplemental",172,264,363,99,FOXA

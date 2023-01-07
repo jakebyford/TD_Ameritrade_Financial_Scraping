@@ -1,0 +1,49 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"36,397","39,117","37,403","44,538","46,710",NKE
+"Cost of Revenue, Total","20,441","21,643","21,162","24,541","25,231",NKE
+Selling/Gen/Admin Expense,"7,716","8,949","9,534","9,697","10,954",NKE
+Labor & Related Expense,218,--,--,--,--,NKE
+Advertising Expense,"3,577","3,753","3,592","3,114","3,850",NKE
+"Sell/Gen/AdminExpenses,Tot","11,511","12,702","13,126","12,811","14,804",NKE
+Restructuring Charge,--,--,--,249,--,NKE
+Impair-Assets Held for Use,--,--,405,--,--,NKE
+Other Unusual Expnse (In),--,--,--,50,--,NKE
+Unusual Expense (Income),--,--,405,299,--,NKE
+Total Operating Expense,"31,952","34,345","34,693","37,651","40,035",NKE
+Total Operating Income,"4,445","4,772","2,710","6,887","6,675",NKE
+"Inter Expse, Non-Operating",(149),(131),(151),(296),(299),NKE
+"Inter Capital, Non-Operat",25,--,--,--,--,NKE
+"Inter Expse,Net Non-Operat",(124),(131),(151),(296),(299),NKE
+"Inter Income, Non-Operating",70,82,62,34,94,NKE
+"Invest Income, Non-Operat",(61),173,75,--,--,NKE
+"Inter/Invest Inc, Non-Oper",9,255,137,34,94,NKE
+OtherNon-OperatInc (Expnse),(5),(95),191,36,181,NKE
+"Other, Net",(5),(95),191,36,181,NKE
+Income Before Tax,"4,325","4,801","2,887","6,661","6,651",NKE
+Income Tax - Total,359,772,348,934,605,NKE
+Income After Tax,"3,966","4,029","2,539","5,727","6,046",NKE
+Net Inc Before Extra Items,"3,966","4,029","2,539","5,727","6,046",NKE
+Total Extraordinary Items,"(2,033)",--,--,--,--,NKE
+Total Net Income,"1,933","4,029","2,539","5,727","6,046",NKE
+Income Available to Common Excl. Extra. Items,"3,966","4,029","2,539","5,727","6,046",NKE
+Income Available to Common Incl. Extra. Items,"1,933","4,029","2,539","5,727","6,046",NKE
+Basic/Primary Weighted Average Shares,"1,624","1,580","1,559","1,573","1,579",NKE
+Basic/Primary EPS Excl. Extra. Items,2.44,2.55,1.63,3.64,3.83,NKE
+Basic/Primary EPS Incl. Extra. Items,1.19,2.55,1.63,3.64,3.83,NKE
+Diluted Weighted Average Shares,"1,659","1,618","1,592","1,609","1,611",NKE
+Diluted EPS Excl. Extra. Items,2.39,2.49,1.60,3.56,3.75,NKE
+Diluted EPS Incl. Extra. Items,1.17,2.49,1.60,3.56,3.75,NKE
+Div/Share-ComStockPrimIssue,0.76,0.84,0.93,1.04,1.16,NKE
+Gross Divid - Common Stock,"1,265","1,360","1,491","1,692","1,886",NKE
+Pro Forma Net Income,--,--,--,--,--,NKE
+"Interest Expense, Suppl",124,131,151,296,299,NKE
+"Interest Capitalized, Suppl",(25),--,--,--,--,NKE
+"Depreciat/Amort, Suppl",747,705,721,744,717,NKE
+Total Special Items,--,--,405,299,--,NKE
+Normalzd Income Before Tax,"4,325","4,801","3,292","6,960","6,651",NKE
+Efct/SpecItemsIncTxs (STEC),--,--,49,42,--,NKE
+IncTxsExcl ImpctofSpec Itms,359,772,397,976,605,NKE
+Normalized Income After Tax,"3,966","4,029","2,895","5,984","6,046",NKE
+Normalzd Inc Avail to Common,"3,966","4,029","2,895","5,984","6,046",NKE
+Basic Normalized EPS,2.44,2.55,1.86,3.80,3.83,NKE
+Diluted Normalized EPS,2.39,2.49,1.82,3.72,3.75,NKE

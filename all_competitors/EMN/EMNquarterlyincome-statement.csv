@@ -1,0 +1,49 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"2,694","2,714","2,784","2,709",EMN
+"Cost of Revenue, Total","2,135","2,164","2,114","2,168",EMN
+Selling/Gen/Admin Expense,198,162,166,157,EMN
+Labor & Related Expense,10,25,17,12,EMN
+"Sell/Gen/AdminExpenses,Tot",208,187,183,169,EMN
+Research & Development,67,65,67,68,EMN
+"Inter/Invest Inc, Operating",(1),(11),4,5,EMN
+Restructuring Charge,7,2,4,2,EMN
+Impair-Assets Held for Use,11,0,0,--,EMN
+Other Unusual Expnse (In),(2),6,(5),7,EMN
+Unusual Expense (Income),16,8,14,9,EMN
+Loss(Gain)/Sale Asts (Oper),--,--,15,--,EMN
+"Other, Net",(308),(32),(24),(34),EMN
+"Other Operat Expse, Total",(308),(32),(24),(34),EMN
+Total Operating Expense,"2,117","2,381","2,358","2,385",EMN
+Total Operating Income,577,333,426,324,EMN
+"Inter Expse, Non-Operating",(51),(49),(47),(47),EMN
+"Inter Capital, Non-Operat",2,2,2,2,EMN
+"Inter Expse,Net Non-Operat",(49),(47),(45),(45),EMN
+"Inter/Invest Inc, Non-Oper",1,1,0,2,EMN
+Income Before Tax,529,287,381,281,EMN
+Income Tax - Total,149,51,124,(20),EMN
+Income After Tax,380,236,257,301,EMN
+Minority Interest,(2),(1),(1),0,EMN
+Net Inc Before Extra Items,378,235,256,301,EMN
+Total Net Income,378,235,256,301,EMN
+Income Available to Common Excl. Extra. Items,378,235,256,301,EMN
+Income Available to Common Incl. Extra. Items,378,235,256,301,EMN
+Basic/Primary Weighted Average Shares,132,129,125,121,EMN
+Basic/Primary EPS Excl. Extra. Items,2.86,1.82,2.05,2.49,EMN
+Basic/Primary EPS Incl. Extra. Items,2.86,1.82,2.05,2.49,EMN
+Diluted Weighted Average Shares,136,131,126,122,EMN
+Diluted EPS Excl. Extra. Items,2.79,1.80,2.03,2.46,EMN
+Diluted EPS Incl. Extra. Items,2.79,1.80,2.03,2.46,EMN
+Div/Share-ComStockPrimIssue,0.69,0.76,0.76,0.76,EMN
+Gross Divid - Common Stock,99,98,93,93,EMN
+Pro Forma Net Income,--,--,--,--,EMN
+"Interest Expense, Suppl",49,47,45,45,EMN
+"Interest Capitalized, Suppl",(2),(2),(2),(2),EMN
+"Depreciat/Amort, Suppl",122,121,122,117,EMN
+Total Special Items,16,33,31,9,EMN
+Normalzd Income Before Tax,545,320,412,290,EMN
+Efct/SpecItemsIncTxs (STEC),5,6,10,3,EMN
+IncTxsExcl ImpctofSpec Itms,154,57,134,(17),EMN
+Normalized Income After Tax,391,263,278,307,EMN
+Normalzd Inc Avail to Common,389,262,277,307,EMN
+Basic Normalized EPS,2.95,2.03,2.22,2.54,EMN
+Diluted Normalized EPS,2.87,2.01,2.19,2.51,EMN

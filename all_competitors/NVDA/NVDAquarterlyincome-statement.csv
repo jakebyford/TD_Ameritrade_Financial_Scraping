@@ -1,0 +1,42 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Total Revenue,"7,643","8,288","6,704","5,931",NVDA
+"Cost of Revenue, Total","2,644","2,857","3,789","2,754",NVDA
+Selling/Gen/Admin Expense,414,436,433,448,NVDA
+Labor & Related Expense,149,156,159,183,NVDA
+"Sell/Gen/AdminExpenses,Tot",563,592,592,631,NVDA
+Research & Development,"1,466","1,618","1,824","1,945",NVDA
+Unusual Expense (Income),--,"1,353",0,0,NVDA
+Total Operating Expense,"4,673","6,420","6,205","5,330",NVDA
+Total Operating Income,"2,970","1,868",499,601,NVDA
+"Inter Expse,Net Non-Operat",(61),(68),(65),(65),NVDA
+"Inter Income, Non-Operating",9,18,46,88,NVDA
+"Invest Income, Non-Operat",(78),(24),(7),(11),NVDA
+"Inter/Invest Inc, Non-Oper",(69),(6),39,77,NVDA
+OtherNon-OperatInc (Expnse),25,11,2,--,NVDA
+"Other, Net",25,11,2,--,NVDA
+Income Before Tax,"2,865","1,805",475,613,NVDA
+Income Tax - Total,(138),187,(181),(67),NVDA
+Income After Tax,"3,003","1,618",656,680,NVDA
+Net Inc Before Extra Items,"3,003","1,618",656,680,NVDA
+Total Net Income,"3,003","1,618",656,680,NVDA
+Income Available to Common Excl. Extra. Items,"3,003","1,618",656,680,NVDA
+Income Available to Common Incl. Extra. Items,"3,003","1,618",656,680,NVDA
+Basic/Primary Weighted Average Shares,"2,505","2,506","2,495","2,483",NVDA
+Basic/Primary EPS Excl. Extra. Items,1.20,0.65,0.26,0.27,NVDA
+Basic/Primary EPS Incl. Extra. Items,1.20,0.65,0.26,0.27,NVDA
+Diluted Weighted Average Shares,"2,544","2,537","2,516","2,499",NVDA
+Diluted EPS Excl. Extra. Items,1.18,0.64,0.26,0.27,NVDA
+Diluted EPS Incl. Extra. Items,1.18,0.64,0.26,0.27,NVDA
+Div/Share-ComStockPrimIssue,0.04,0.04,0.04,0.04,NVDA
+Gross Divid - Common Stock,101,100,100,100,NVDA
+Pro Forma Net Income,--,--,--,--,NVDA
+"Interest Expense, Suppl",61,68,65,65,NVDA
+"Depreciat/Amort, Suppl",164,179,196,225,NVDA
+Total Special Items,2,"1,509",175,190,NVDA
+Normalzd Income Before Tax,"2,867","3,314",650,803,NVDA
+Efct/SpecItemsIncTxs (STEC),1,156,61,67,NVDA
+IncTxsExcl ImpctofSpec Itms,(137),343,(120),(1),NVDA
+Normalized Income After Tax,"3,004","2,971",770,804,NVDA
+Normalzd Inc Avail to Common,"3,004","2,971",770,804,NVDA
+Basic Normalized EPS,1.20,1.19,0.31,0.32,NVDA
+Diluted Normalized EPS,1.18,1.17,0.31,0.32,NVDA

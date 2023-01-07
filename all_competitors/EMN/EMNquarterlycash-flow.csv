@@ -1,0 +1,35 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,867,236,493,794,EMN
+Depreciation/Depletion,538,121,243,360,EMN
+Deferred Taxes,(38),(24),(81),(54),EMN
+Unusual Items,302,(3),5,8,EMN
+Other Non-Cash Items,--,--,(3),(3),EMN
+Non-Cash Items,302,(3),2,5,EMN
+Accounts Receivable,(281),(127),(163),(111),EMN
+Inventories,(389),(184),(372),(549),EMN
+Other Assets,--,4,(55),(37),EMN
+Accounts Payable,554,152,179,187,EMN
+Payable/Accrued,--,17,179,45,EMN
+Changes in Working Capital,(50),(313),(395),(587),EMN
+Total Cash from Operations,"1,619",17,262,518,EMN
+Capital Expenditures,(555),(115),(254),(418),EMN
+Acquisition of Business,(114),--,(1),(1),EMN
+Sale of Fixed Assets,667,--,998,998,EMN
+Other Investing Cash Flow,(27),(2),13,19,EMN
+"OtherInvestCashFlowItms,Tot",526,(2),"1,010","1,016",EMN
+Total Cash from Investing,(29),(117),756,598,EMN
+Total Cash Dividends Paid,(375),(98),(196),(290),EMN
+"Common Stock, Net","(1,000)",0,(752),(902),EMN
+Options Exercised,35,(9),(12),(11),EMN
+"Iss (Retirmnt) of Stock,Net",(965),(9),(764),(913),EMN
+"Short Term Debt, Net",(50),236,0,355,EMN
+Long Term Debt Issued,0,--,500,500,EMN
+Long Term Debt Reduction,(300),--,(550),(750),EMN
+"Long Term Debt, Net",(300),--,(50),(250),EMN
+"Iss (Retirmnt) of Debt, Net",(350),236,(50),105,EMN
+Total Cash From Financing,"(1,690)",129,"(1,010)","(1,098)",EMN
+Foreign Exchange Effects,(5),(1),(11),(16),EMN
+Net Change in Cash,(105),28,(3),2,EMN
+NetCash-BeginBal/RsvdforFutUse,564,459,459,459,EMN
+NetCash-EndBal/RsrvforFutUse,459,487,456,461,EMN
+"Depreciation, Supplemental",538,121,243,360,EMN

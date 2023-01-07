@@ -1,0 +1,43 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"4,762","4,999","5,872","6,047",SHW
+"Cost of Revenue, Total","2,882","2,946","3,423","3,458",SHW
+"Sell/Gen/AdminExpenses,Tot","1,440","1,408","1,519","1,529",SHW
+Depreciation/Amortization,76,78,79,81,SHW
+"Inter Expense,Net Operatng",85,88,93,101,SHW
+"Inter/Invest Inc, Operating",(3),(1),(1),(3),SHW
+Impair-Assets Held for Use,0,--,--,--,SHW
+Other Unusual Expnse (In),(1),0,0,0,SHW
+Unusual Expense (Income),(1),2,0,(21),SHW
+Loss(Gain)/Sale Asts (Oper),0,2,0,(21),SHW
+Other Operating Expense,(10),1,4,6,SHW
+"Other Operat Expse, Total",(10),1,4,6,SHW
+Total Operating Expense,"4,470","4,521","5,117","5,152",SHW
+Total Operating Income,292,477,755,895,SHW
+"Inter Inc(Exp),Net Non-Oper",(3),(3),(3),(3),SHW
+"Other, Net",9,(3),2,5,SHW
+Income Before Tax,309,461,740,877,SHW
+Income Tax - Total,5,90,162,192,SHW
+Income After Tax,304,371,578,685,SHW
+Net Inc Before Extra Items,304,371,578,685,SHW
+Total Net Income,304,371,578,685,SHW
+Income Available to Common Excl. Extra. Items,304,371,578,685,SHW
+Income Available to Common Incl. Extra. Items,304,371,578,685,SHW
+Basic/Primary Weighted Average Shares,260,259,258,258,SHW
+Basic/Primary EPS Excl. Extra. Items,1.17,1.43,2.24,2.66,SHW
+Basic/Primary EPS Incl. Extra. Items,1.17,1.43,2.24,2.66,SHW
+Diluted Weighted Average Shares,264,263,262,261,SHW
+Diluted EPS Excl. Extra. Items,1.15,1.41,2.21,2.62,SHW
+Diluted EPS Incl. Extra. Items,1.15,1.41,2.21,2.62,SHW
+Div/Share-ComStockPrimIssue,0.55,0.60,0.60,0.60,SHW
+Gross Divid - Common Stock,144,151,156,156,SHW
+Pro Forma Net Income,--,--,--,--,SHW
+"Interest Expense, Suppl",85,88,93,101,SHW
+"Depreciat/Amort, Suppl",63,66,65,65,SHW
+Total Special Items,(1),2,0,(21),SHW
+Normalzd Income Before Tax,308,463,740,856,SHW
+Efct/SpecItemsIncTxs (STEC),0,0,0,(5),SHW
+IncTxsExcl ImpctofSpec Itms,5,91,162,188,SHW
+Normalized Income After Tax,303,372,578,669,SHW
+Normalzd Inc Avail to Common,303,372,578,669,SHW
+Basic Normalized EPS,1.17,1.44,2.24,2.60,SHW
+Diluted Normalized EPS,1.15,1.42,2.21,2.56,SHW

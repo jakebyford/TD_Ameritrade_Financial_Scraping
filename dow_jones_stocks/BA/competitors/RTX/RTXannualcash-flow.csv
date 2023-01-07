@@ -1,0 +1,41 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"4,920","1,406","3,731","(2,928)","4,145",RTX
+Depreciation/Depletion,"2,140","1,896","2,708","4,156","4,557",RTX
+Deferred Taxes,62,763,38,(99),(88),RTX
+Discontinued Operations,0,"3,652","3,062",(728),(71),RTX
+Unusual Items,--,0,0,"3,183",649,RTX
+Other Non-Cash Items,192,(223),(298),(83),(972),RTX
+Non-Cash Items,192,"3,429","2,764","2,372",(394),RTX
+"Cash Taxes Pd, Supplemental","1,326","1,714","1,768","1,716","1,124",RTX
+"Cash Interest Pd, Suppl",974,"1,027","1,801","1,628","1,339",RTX
+Accounts Receivable,(448),"(1,798)",(591),"1,381","(2,164)",RTX
+Inventories,"(1,074)",(417),"(1,267)",412,163,RTX
+Other Assets,(101),(645),(984),(445),(566),RTX
+Payable/Accrued,"1,571","2,738","1,111","(1,666)",917,RTX
+Changes in Working Capital,"(1,683)","(1,172)",(358),105,"(1,149)",RTX
+Total Cash from Operations,"5,631","6,322","8,883","3,606","7,071",RTX
+Purchase of Fixed Assets,"(2,014)","(1,467)","(1,868)","(1,795)","(2,134)",RTX
+Purchase/Acq of Intangibles,(380),(400),(351),(172),(188),RTX
+Capital Expenditures,"(2,394)","(1,867)","(2,219)","(1,967)","(2,322)",RTX
+Acquisition of Business,(231),"(15,039)",(9),(419),"(1,088)",RTX
+Sale of Business,70,74,134,"2,556","1,879",RTX
+Sale/Maturity of Investment,596,--,--,--,--,RTX
+Other Investing Cash Flow,"(1,060)",(141),(998),"2,932",167,RTX
+"OtherInvestCashFlowItms,Tot",(625),"(15,106)",(873),"5,069",958,RTX
+Total Cash from Investing,"(3,019)","(16,973)","(3,092)","3,102","(1,364)",RTX
+Financing Cash Flow Items,(576),(23),(182),"13,609","(1,103)",RTX
+Total Cash Dividends Paid,"(2,074)","(2,170)","(2,442)","(2,732)","(2,957)",RTX
+Sale/Issuance of Common,31,36,27,15,7,RTX
+Repurch/Retirement Common,"(1,453)",(325),(151),(47),"(2,327)",RTX
+"Iss (Retirmnt) of Stock,Net","(1,422)",(289),(124),(32),"(2,320)",RTX
+"Short Term Debt, Net",(271),(370),896,"(2,041)",(113),RTX
+Long Term Debt Issued,--,"13,337",--,"2,004","4,062",RTX
+Long Term Debt Reduction,"(1,604)","(2,520)","(2,712)","(16,082)","(4,254)",RTX
+"Long Term Debt, Net","3,350","10,817","(2,712)","(14,078)",(192),RTX
+"Iss (Retirmnt) of Debt, Net","3,079","10,447","(1,816)","(16,119)",(305),RTX
+Total Cash From Financing,(993),"7,965","(4,564)","(5,274)","(6,685)",RTX
+Foreign Exchange Effects,210,(120),(19),(22),(1),RTX
+Net Change in Cash,"1,829","(2,806)","1,208","1,412",(979),RTX
+NetCash-BeginBal/RsvdforFutUse,"7,189","6,499","3,729","7,390","8,832",RTX
+NetCash-EndBal/RsrvforFutUse,"9,018","3,693","4,937","8,802","7,853",RTX
+"Depreciation, Supplemental","2,140","1,896","2,708","4,156","4,557",RTX

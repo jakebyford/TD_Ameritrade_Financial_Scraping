@@ -1,0 +1,55 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash and Short Term Invs,204,156,162,227,166,SHW
+"Trade Accts Recvble, Gross","2,158","2,065","2,125","2,132","2,401",SHW
+Prov. for Doubtful Accts,(53),(46),(37),(54),(49),SHW
+"Total Receivables, Net","2,105","2,075","2,139","2,130","2,413",SHW
+Invent. - Finished Goods,"1,645","1,862","1,849","1,740","1,972",SHW
+Invent. - Work In Progress,386,389,380,377,548,SHW
+LIFO Reserve,(288),(436),(340),(312),(593),SHW
+Total Inventory,"1,742","1,815","1,890","1,804","1,927",SHW
+"Other Curr. Assets, Total",356,298,441,431,548,SHW
+Total Current Assets,"4,407","4,344","4,632","4,591","5,054",SHW
+Buildings,962,979,"1,044","1,098","1,158",SHW
+Land/Improvements,255,245,242,284,258,SHW
+Machinery/Equipment,"2,573","2,668","2,952","3,027","3,044",SHW
+Construction in Progress,177,148,144,141,205,SHW
+Other Prop./Plant/Equip.,--,--,"1,686","1,761","1,821",SHW
+Prop./Plant/Equip. - Gross,"3,967","4,040","6,068","6,310","6,485",SHW
+Accumulated Depreciation,"(2,090)","(2,263)","(2,547)","(2,714)","(2,797)",SHW
+Prop./Plant/Equip. - Net,"1,877","1,777","3,521","3,596","3,688",SHW
+"Goodwill, Net","6,814","6,957","7,005","7,049","7,135",SHW
+Intangibles - Gross,"6,558","6,048","5,881","6,002","5,789",SHW
+Accum. Intangible Amort.,(555),(847),"(1,146)","(1,531)","(1,787)",SHW
+Intangibles - Net,"6,002","5,202","4,735","4,471","4,002",SHW
+Note Rcvble - Long Term,--,214,178,171,131,SHW
+Other Long Term Assets,502,370,383,471,658,SHW
+Total Assets,"19,900","19,134","20,496","20,402","20,667",SHW
+Accounts Payable,"1,792","1,799","1,876","2,118","2,403",SHW
+Accrued Expenses,"1,481","1,509","1,683","2,002","1,872",SHW
+Notes Payable/ST Debt,634,328,205,0,764,SHW
+Curr. Port. LT Dbt/Cap Ls.,1,307,430,25,261,SHW
+Customer Advances,--,273,243,266,260,SHW
+Income Taxes Payable,80,81,86,184,160,SHW
+"Other Curr. Lblts, Total",80,354,329,450,420,SHW
+Total Current Liabilities,"3,987","4,298","4,522","4,594","5,720",SHW
+Total Long Term Debt,"9,886","8,708","8,051","8,267","8,591",SHW
+Total Debt,"10,521","9,344","8,685","8,292","9,615",SHW
+Deferred Income Tax,"1,420","1,131",970,846,768,SHW
+Reserves,180,322,315,301,277,SHW
+Pension Benefits - Underfunded,275,258,263,276,259,SHW
+Other LT Liabilities,505,687,"2,253","2,507","2,614",SHW
+"Other Liabilities, Total",959,"1,267","2,830","3,083","3,151",SHW
+Total Liabilities,"16,252","15,404","16,373","16,791","18,230",SHW
+Common Stock,118,118,119,90,91,SHW
+Ret. Earn.(Accum. Deficit),"5,458","6,247","7,367",844,"2,122",SHW
+Treasury Stock - Common,"(4,266)","(4,901)","(5,837)",(97),"(2,870)",SHW
+Unrealized Gain (Loss),2,45,47,40,36,SHW
+Cum. Trans. Adjustment,(353),(608),(657),(672),(702),SHW
+Other Equity,"2,723","2,896","3,153","3,491","3,793",SHW
+Min. Pension Lblty Adj.,(85),(67),(69),(87),(32),SHW
+Other Comprehensive Income,51,--,--,--,--,SHW
+"Other Equity, Total","2,336","2,222","2,426","2,733","3,059",SHW
+Total Equity,"3,648","3,731","4,123","3,611","2,437",SHW
+Total Liabilities & Shareholders’ Equity,"19,900","19,134","20,496","20,402","20,667",SHW
+Ttl Comm. Shares Outs.,282,279,276,269,261,SHW
+Trsy. Shrs-Comm. Primary Iss.,71,76,82,1,11,SHW

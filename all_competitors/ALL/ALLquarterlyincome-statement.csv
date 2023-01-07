@@ -1,0 +1,48 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Gross Premiums Written,"11,311","11,450","11,828","12,124",ALL
+Other Insurance Revenue,587,560,563,561,ALL
+Total Premiums Earned,"11,898","12,010","12,391","12,685",ALL
+Net Investment Income,847,594,562,690,ALL
+Realized Gains (Losses),266,(267),(733),(167),ALL
+Total Revenue,"13,011","12,337","12,220","13,208",ALL
+"Losses,Benies& Adjmts,Total","8,082","8,091","9,636","10,336",ALL
+Amort. Of Policy Acquisition Costs,"1,602","1,612","1,619","1,682",ALL
+Depreciation/Amortization,109,87,87,90,ALL
+"Inter Expense,Net Operatng",84,83,83,85,ALL
+Restructuring Charge,25,12,1,14,ALL
+Other Unusual Expnse (In),0,--,0,0,ALL
+Unusual Expense (Income),25,12,1,14,ALL
+"Other Operat Expse, Total","1,716","1,655","2,109","1,921",ALL
+Total Operating Expense,"11,618","11,540","13,535","14,128",ALL
+Total Operating Income,"1,393",797,"(1,315)",(920),ALL
+Income Before Tax,"1,393",797,"(1,315)",(920),ALL
+Income Tax - Total,281,151,(291),(237),ALL
+Income After Tax,"1,112",646,"(1,024)",(683),ALL
+Minority Interest,26,10,9,15,ALL
+Net Inc Before Extra Items,"1,138",656,"(1,015)",(668),ALL
+Discontinued Operations,(246),0,0,0,ALL
+Tax on Extraordinary Items,(75),--,--,--,ALL
+Total Extraordinary Items,(321),0,0,0,ALL
+Total Net Income,817,656,"(1,015)",(668),ALL
+Total Adjust to Net Income,(27),(26),(27),(26),ALL
+Income Available to Common Excl. Extra. Items,"1,111",630,"(1,042)",(694),ALL
+Income Available to Common Incl. Extra. Items,790,630,"(1,042)",(694),ALL
+Basic/Primary Weighted Average Shares,292,278,274,269,ALL
+Basic/Primary EPS Excl. Extra. Items,3.81,2.27,(3.81),(2.58),ALL
+Basic/Primary EPS Incl. Extra. Items,2.71,2.27,(3.81),(2.58),ALL
+Diluted Weighted Average Shares,297,282,274,269,ALL
+Diluted EPS Excl. Extra. Items,3.74,2.24,(3.81),(2.58),ALL
+Diluted EPS Incl. Extra. Items,2.66,2.24,(3.81),(2.58),ALL
+Div/Share-ComStockPrimIssue,0.81,0.81,0.85,0.85,ALL
+Gross Divid - Common Stock,232,236,234,228,ALL
+Pro Forma Net Income,--,--,--,--,ALL
+"Interest Expense, Suppl",84,83,83,85,ALL
+"Depreciat/Amort, Suppl",67,149,129,104,ALL
+Total Special Items,25,12,1,14,ALL
+Normalzd Income Before Tax,"1,418",809,"(1,314)",(906),ALL
+Efct/SpecItemsIncTxs (STEC),5,2,0,5,ALL
+IncTxsExcl ImpctofSpec Itms,286,153,(291),(232),ALL
+Normalized Income After Tax,"1,132",656,"(1,023)",(674),ALL
+Normalzd Inc Avail to Common,"1,131",640,"(1,041)",(685),ALL
+Basic Normalized EPS,3.88,2.30,(3.80),(2.55),ALL
+Diluted Normalized EPS,3.81,2.27,(3.80),(2.55),ALL

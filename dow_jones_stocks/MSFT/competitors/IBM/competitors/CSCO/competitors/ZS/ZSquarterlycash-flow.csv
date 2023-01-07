@@ -1,0 +1,35 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Net Income,(191),(293),(390),(68),ZS
+Depreciation/Depletion,19,29,40,12,ZS
+Amortization,4,7,9,3,ZS
+Deferred Taxes,(1),(1),(1),0,ZS
+Unusual Items,0,0,0,--,ZS
+Other Non-Cash Items,264,410,566,136,ZS
+Non-Cash Items,264,410,566,136,ZS
+"Cash Taxes Pd, Supplemental",4,4,6,3,ZS
+"Cash Interest Pd, Suppl",1,1,1,--,ZS
+Accounts Receivable,(13),(15),(143),131,ZS
+Prepaid Expenses,5,(10),(10),(8),ZS
+Other Assets,(59),(99),(159),(27),ZS
+Accounts Payable,0,3,14,3,ZS
+Accrued Expenses,(18),(1),4,(37),ZS
+Changes in Working Capital,45,66,97,46,ZS
+Total Cash from Operations,142,219,322,128,ZS
+Purchase of Fixed Assets,(20),(48),(69),(25),ZS
+Software Development Costs,(8),(14),(21),(8),ZS
+Capital Expenditures,(29),(62),(91),(33),ZS
+Acquisition of Business,0,0,(25),--,ZS
+Sale/Maturity of Investment,629,955,"1,335",186,ZS
+Purchase of Investments,(624),(810),(845),(211),ZS
+"OtherInvestCashFlowItms,Tot",5,145,465,(25),ZS
+Total Cash from Investing,(24),83,374,(58),ZS
+Financing Cash Flow Items,0,0,0,0,ZS
+"Iss (Retirmnt) of Stock,Net",16,18,42,1,ZS
+Long Term Debt Issued,--,--,0,--,ZS
+Long Term Debt Reduction,--,--,0,--,ZS
+"Iss (Retirmnt) of Debt, Net",--,--,0,--,ZS
+Total Cash From Financing,16,18,41,1,ZS
+Net Change in Cash,134,319,737,72,ZS
+NetCash-BeginBal/RsvdforFutUse,276,276,276,"1,013",ZS
+NetCash-EndBal/RsrvforFutUse,410,595,"1,013","1,085",ZS
+"Depreciation, Supplemental",19,29,40,12,ZS

@@ -1,0 +1,36 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"8,060","2,099","4,063","5,942",AXP
+Depreciation/Depletion,"1,695",398,795,"1,208",AXP
+Deferred Taxes,294,(69),(402),(749),AXP
+Non-Cash Items,"(1,861)",42,703,"1,972",AXP
+Other Assets,"1,068",323,246,409,AXP
+Accounts Payable,"5,389","1,087","2,736","3,870",AXP
+Changes in Working Capital,"6,457","1,410","2,980","4,274",AXP
+Total Cash from Operations,"14,645","3,880","8,139","12,647",AXP
+Capital Expenditures,"(1,550)",(447),(899),"(1,342)",AXP
+Sale of Business,1,--,--,--,AXP
+Sale/Maturity of Investment,"20,094",783,"1,112","1,763",AXP
+Purchase of Investments,"(1,517)","(2,328)","(2,674)","(3,890)",AXP
+Other Investing Cash Flow,"(27,557)",(785),"(12,931)","(19,446)",AXP
+"OtherInvestCashFlowItms,Tot","(8,979)","(2,330)","(14,493)","(21,573)",AXP
+Total Cash from Investing,"(10,529)","(2,777)","(15,392)","(22,915)",AXP
+Financing Cash Flow Items,"(2,468)","6,541","12,060","19,148",AXP
+Cash Divids Paid - Common,--,(331),(724),"(1,117)",AXP
+Cash Divs Paid - Preferred,--,(14),(29),(43),AXP
+Total Cash Dividends Paid,"(1,448)",(345),(753),"(1,160)",AXP
+Sale/Issuance of Common,64,49,54,54,AXP
+Repurch/Retirement Common,"(7,652)","(1,570)","(2,261)","(2,862)",AXP
+"Common Stock, Net","(7,588)","(1,521)","(2,207)","(2,808)",AXP
+"Preferred Stock, Net",(16),--,--,0,AXP
+"Iss (Retirmnt) of Stock,Net","(7,604)","(1,521)","(2,207)","(2,808)",AXP
+"Short Term Debt, Net",461,(59),(63),(438),AXP
+Long Term Debt Issued,"7,788","6,231","14,710","20,740",AXP
+Long Term Debt Reduction,"(11,662)","(6,314)","(12,529)","(16,549)",AXP
+"Long Term Debt, Net","(3,874)",(83),"2,181","4,191",AXP
+"Iss (Retirmnt) of Debt, Net","(3,413)",(142),"2,118","3,753",AXP
+Total Cash From Financing,"(14,933)","4,533","11,218","18,933",AXP
+Foreign Exchange Effects,(120),14,284,489,AXP
+Net Change in Cash,"(10,937)","5,650","4,249","9,154",AXP
+NetCash-BeginBal/RsvdforFutUse,"32,965","22,028","22,028","22,028",AXP
+NetCash-EndBal/RsrvforFutUse,"22,028","27,678","26,277","31,182",AXP
+"Depreciation, Supplemental","1,695",398,795,"1,208",AXP

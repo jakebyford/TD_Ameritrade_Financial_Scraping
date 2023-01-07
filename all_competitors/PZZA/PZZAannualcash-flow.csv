@@ -1,0 +1,43 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"106,525","4,073","5,657","60,614","124,955",PZZA
+Depreciation/Depletion,"43,668","46,403","47,281","49,705","48,816",PZZA
+Deferred Taxes,498,"1,620","(3,764)","(9,268)","3,753",PZZA
+Unusual Items,"1,674",289,"(4,739)",--,--,PZZA
+Other Non-Cash Items,"13,817","22,462","27,559","13,833","16,648",PZZA
+Non-Cash Items,"15,491","22,751","22,820","13,833","16,648",PZZA
+"Cash Taxes Pd, Supplemental","37,200","14,000","(6,200)","19,300","32,600",PZZA
+"Cash Interest Pd, Suppl","10,800","23,500","18,100","15,800","13,400",PZZA
+Accounts Receivable,"(8,889)","(10,000)","6,793","(18,660)","(4,090)",PZZA
+Inventories,"(5,485)","3,093",(326),"(2,736)","(4,708)",PZZA
+Prepaid Expenses,"(4,414)","(1,039)",792,"2,884","2,866",PZZA
+Other Assets,"(1,158)","4,834",(277),--,--,PZZA
+Accounts Payable,"(8,743)",(400),"2,035","8,229","(9,278)",PZZA
+Accrued Expenses,"(3,012)","21,753","(11,331)","59,353","15,875",PZZA
+Changes in Working Capital,"(31,207)","17,607","(10,245)","71,555","(9,497)",PZZA
+Total Cash from Operations,"134,975","92,454","61,749","186,439","184,675",PZZA
+Capital Expenditures,"(52,593)","(42,028)","(37,711)","(35,652)","(68,559)",PZZA
+Acquisition of Business,(21),0,0,--,(699),PZZA
+Sale of Business,0,"7,707","13,495",--,--,PZZA
+Other Investing Cash Flow,"(3,884)","(4,478)","(8,359)","(5,419)","5,746",PZZA
+"OtherInvestCashFlowItms,Tot","(3,905)","3,229","5,136","(5,419)","5,047",PZZA
+Total Cash from Investing,"(56,498)","(38,799)","(32,575)","(41,071)","(63,512)",PZZA
+Financing Cash Flow Items,"(7,439)","(7,347)","(9,516)","(8,371)","(24,599)",PZZA
+Cash Divids Paid - Common,"(30,720)","(28,985)","(28,552)","(29,362)","(40,356)",PZZA
+Cash Divs Paid - Preferred,--,--,"(10,020)","(13,649)","(6,394)",PZZA
+Total Cash Dividends Paid,"(30,720)","(28,985)","(38,572)","(43,011)","(46,750)",PZZA
+Sale/Issuance of Common,"400,000",--,--,--,--,PZZA
+Repurch/Retirement Common,"(209,586)","(158,049)",--,"(2,701)","(72,499)",PZZA
+"Common Stock, Net","190,414","(158,049)",--,"(2,701)","(72,499)",PZZA
+"Preferred Stock, Net",--,0,"252,530",--,0,PZZA
+Repurch/Retirmnt Common/Preferred,--,--,--,--,"(188,647)",PZZA
+Options Exercised,"6,260","2,699","16,010","30,622","11,969",PZZA
+"Iss (Retirmnt) of Stock,Net","196,674","(155,350)","268,540","27,921","(249,177)",PZZA
+Long Term Debt Issued,--,--,--,--,"400,000",PZZA
+Long Term Debt Reduction,"(5,000)","(20,000)","(15,000)","(20,000)","(340,000)",PZZA
+"Iss (Retirmnt) of Debt, Net","(230,575)","143,585","(255,026)","(20,000)","140,000",PZZA
+Total Cash From Financing,"(72,060)","(48,097)","(34,574)","(43,461)","(180,526)",PZZA
+Foreign Exchange Effects,365,(191),53,386,(231),PZZA
+Net Change in Cash,"6,782","5,367","(5,347)","102,293","(59,594)",PZZA
+NetCash-BeginBal/RsvdforFutUse,"15,563","27,891","33,258","27,911","130,204",PZZA
+NetCash-EndBal/RsrvforFutUse,"22,345","33,258","27,911","130,204","70,610",PZZA
+"Depreciation, Supplemental","43,668","46,403","47,281","49,705","48,816",PZZA

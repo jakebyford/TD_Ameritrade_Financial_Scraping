@@ -1,0 +1,49 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"4,447","4,331","4,210","4,095",DISH
+"Cost of Revenue, Total","2,943","2,985","2,738","2,835",DISH
+Selling/Gen/Admin Expense,619,619,483,483,DISH
+Advertising Expense,--,--,128,176,DISH
+"Sell/Gen/AdminExpenses,Tot",619,619,611,659,DISH
+Depreciation,133,139,133,137,DISH
+Amortiz of Intangibles,38,37,35,38,DISH
+Depreciation/Amortization,171,176,168,175,DISH
+Impair-Assets Held for Use,0,--,--,--,DISH
+Other Unusual Expnse (In),0,0,1,0,DISH
+Unusual Expense (Income),0,0,1,0,DISH
+Total Operating Expense,"3,733","3,780","3,518","3,668",DISH
+Total Operating Income,714,550,692,427,DISH
+"Inter Expse, Non-Operating",(227),(272),(271),(246),DISH
+"Inter Capital, Non-Operat",222,267,265,241,DISH
+"Inter Expse,Net Non-Operat",(4),(5),(6),(5),DISH
+"Inter Income, Non-Operating",4,5,9,8,DISH
+"Invest Income, Non-Operat",1,43,16,60,DISH
+"Inter/Invest Inc, Non-Oper",4,48,25,68,DISH
+OtherNon-OperatInc (Expnse),1,0,(1),(2),DISH
+"Other, Net",1,0,(1),(2),DISH
+Income Before Tax,716,593,710,488,DISH
+Income Tax - Total,150,144,170,58,DISH
+Income After Tax,565,449,540,430,DISH
+Minority Interest,(13),(16),(17),(17),DISH
+Net Inc Before Extra Items,552,433,523,412,DISH
+Total Net Income,552,433,523,412,DISH
+Income Available to Common Excl. Extra. Items,552,433,523,412,DISH
+Income Available to Common Incl. Extra. Items,552,433,523,412,DISH
+Basic/Primary Weighted Average Shares,529,529,530,530,DISH
+Basic/Primary EPS Excl. Extra. Items,1.04,0.82,0.99,0.78,DISH
+Basic/Primary EPS Incl. Extra. Items,1.04,0.82,0.99,0.78,DISH
+Diluted Weighted Average Shares,639,636,637,637,DISH
+Diluted EPS Excl. Extra. Items,0.86,0.68,0.82,0.65,DISH
+Diluted EPS Incl. Extra. Items,0.86,0.68,0.82,0.65,DISH
+Div/Share-ComStockPrimIssue,--,0.00,0.00,0.00,DISH
+Pro Forma Net Income,--,--,--,--,DISH
+"Interest Expense, Suppl",4,5,6,5,DISH
+"Interest Capitalized, Suppl",(222),(267),(265),(241),DISH
+"Depreciat/Amort, Suppl",133,139,133,137,DISH
+Total Special Items,0,0,1,0,DISH
+Normalzd Income Before Tax,716,593,712,488,DISH
+Efct/SpecItemsIncTxs (STEC),0,0,0,0,DISH
+IncTxsExcl ImpctofSpec Itms,150,144,171,58,DISH
+Normalized Income After Tax,565,449,541,430,DISH
+Normalzd Inc Avail to Common,552,433,524,412,DISH
+Basic Normalized EPS,1.04,0.82,0.99,0.78,DISH
+Diluted Normalized EPS,0.86,0.68,0.82,0.65,DISH

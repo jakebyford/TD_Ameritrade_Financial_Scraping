@@ -1,0 +1,30 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,176,177,350,356,653,CMG
+Depreciation/Depletion,163,202,213,239,255,CMG
+Deferred Taxes,(18),11,30,108,(12),CMG
+Unusual Items,13,62,15,29,17,CMG
+Other Non-Cash Items,65,66,245,271,172,CMG
+Non-Cash Items,79,128,260,300,189,CMG
+"Cash Taxes Pd, Supplemental",120,67,110,85,(18),CMG
+Accounts Receivable,0,(8),(3),3,(2),CMG
+Inventories,(5),(2),(5),0,(6),CMG
+Prepaid Expenses,(7),(4),(23),(11),(27),CMG
+Other Assets,(1),(2),3,(27),228,CMG
+Accounts Payable,11,32,(1),(4),21,CMG
+Accrued Expenses,34,44,(103),(83),(241),CMG
+Changes in Working Capital,68,104,(131),(339),197,CMG
+Total Cash from Operations,468,622,722,664,"1,282",CMG
+Capital Expenditures,(217),(287),(334),(373),(442),CMG
+Sale of Fixed Assets,0,--,14,--,4,CMG
+Sale/Maturity of Investment,330,385,477,419,346,CMG
+Purchase of Investments,(200),(485),(449),(478),(429),CMG
+"OtherInvestCashFlowItms,Tot",130,(100),42,(59),(80),CMG
+Total Cash from Investing,(87),(388),(292),(433),(522),CMG
+Financing Cash Flow Items,(1),(6),(11),(50),(82),CMG
+"Iss (Retirmnt) of Stock,Net",(285),(161),(191),(54),(466),CMG
+Total Cash From Financing,(286),(167),(202),(105),(549),CMG
+Foreign Exchange Effects,2,(1),0,1,(1),CMG
+Net Change in Cash,98,66,228,127,210,CMG
+NetCash-BeginBal/RsvdforFutUse,116,214,280,508,636,CMG
+NetCash-EndBal/RsrvforFutUse,214,280,508,636,846,CMG
+"Depreciation, Supplemental",163,202,213,239,255,CMG

@@ -1,0 +1,41 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"8,458","10,460",(636),"(11,941)","(4,290)",BA
+Depreciation/Depletion,"2,047","2,114","2,271","2,246","2,144",BA
+Discontinued Operations,--,--,--,0,--,BA
+Unusual Items,92,18,(248),"6,701","3,281",BA
+Other Non-Cash Items,497,446,796,"1,919","2,426",BA
+Non-Cash Items,589,464,548,"8,620","5,707",BA
+"Cash Taxes Pd, Supplemental",896,"1,326",837,37,"1,480",BA
+"Cash Interest Pd, Suppl",527,616,973,"1,925","2,583",BA
+Accounts Receivable,(743),"(2,681)",(472),(575),(356),BA
+Inventories,"(1,403)",568,"(12,391)","(11,002)","(1,127)",BA
+Other Assets,(19),98,(682),372,345,BA
+Accounts Payable,130,2,"1,600","(5,363)","(3,783)",BA
+Accrued Expenses,335,"1,117","7,781","1,074","(3,687)",BA
+Changes in Working Capital,"2,252","2,284","(4,629)","(17,335)","(6,977)",BA
+Total Cash from Operations,"13,346","15,322","(2,446)","(18,410)","(3,416)",BA
+Purchase of Fixed Assets,"(1,739)","(1,722)","(1,834)","(1,303)",(980),BA
+Purchase/Acq of Intangibles,(131),(69),(127),--,--,BA
+Capital Expenditures,"(1,870)","(1,791)","(1,961)","(1,303)",(980),BA
+Acquisition of Business,(324),"(3,230)",(455),--,(6),BA
+Sale of Business,--,--,464,--,--,BA
+Sale of Fixed Assets,92,120,334,296,529,BA
+Sale/Maturity of Investment,"3,607","2,898","1,759","20,275","45,489",BA
+Purchase of Investments,"(3,569)","(2,607)","(1,658)","(37,616)","(35,713)",BA
+Other Investing Cash Flow,6,(11),(13),(18),5,BA
+"OtherInvestCashFlowItms,Tot",(188),"(2,830)",431,"(17,063)","10,304",BA
+Total Cash from Investing,"(2,058)","(4,621)","(1,530)","(18,366)","9,324",BA
+Financing Cash Flow Items,(132),(222),(256),(173),(66),BA
+Total Cash Dividends Paid,"(3,417)","(3,946)","(4,630)","(1,158)",--,BA
+"Common Stock, Net","(9,236)","(9,000)","(2,651)",--,--,BA
+Options Exercised,311,81,58,36,42,BA
+"Iss (Retirmnt) of Stock,Net","(8,925)","(8,919)","(2,593)",36,42,BA
+Total Debt Issued,"2,077","8,548","25,389","47,248","9,795",BA
+Total Debt Reduction,(953),"(7,183)","(12,171)","(10,998)","(15,371)",BA
+"Iss (Retirmnt) of Debt, Net","1,124","1,365","13,218","36,250","(5,576)",BA
+Total Cash From Financing,"(11,350)","(11,722)","5,739","34,955","(5,600)",BA
+Foreign Exchange Effects,80,(53),(5),85,(39),BA
+Net Change in Cash,18,"(1,074)","1,758","(1,736)",269,BA
+NetCash-BeginBal/RsvdforFutUse,"8,869","8,887","7,813","9,571","7,835",BA
+NetCash-EndBal/RsrvforFutUse,"8,887","7,813","9,571","7,835","8,104",BA
+"Depreciation, Supplemental","2,047","2,114","2,271","2,246","2,144",BA

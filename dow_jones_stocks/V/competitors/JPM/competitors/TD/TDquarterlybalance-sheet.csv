@@ -1,0 +1,57 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Cash & Due from Banks,"7,001","5,633","5,674","8,556",TD
+Interest-Earning Deposits,"165,209","127,957","131,325","137,294",TD
+Fed. Fund/Resale,"461,764","489,082","491,361","502,941",TD
+Other Short Trm Invest.,"69,206","114,911","92,064","119,858",TD
+Total Invest. Securities,"228,267","213,551","219,373","213,401",TD
+Other Earning Assets,"11,644","15,313","12,441","12,777",TD
+Customer Acceptances,"17,346","19,515","20,136","19,733",TD
+"Other Erng. Assets, Total","953,436","980,329","966,700","1,006,004",TD
+Total Gross Loans,"749,854","771,048","796,885","837,475",TD
+Loan Loss Allowances,"(6,239)","(6,076)","(6,040)","(6,432)",TD
+Net Loans,"743,615","764,972","790,845","831,043",TD
+Prop./Plant/Equip. - Net,"9,289","9,235","9,098","9,400",TD
+"Goodwill, Net","16,615","16,753","16,730","17,656",TD
+Intangibles - Net,"2,152","2,181","2,194","2,303",TD
+Long Term Investments,"11,186","9,726","9,504","8,088",TD
+Pension Bene. - Overfunded,988,"1,676","2,038","1,406",TD
+Def. Inc. Tax - LT Asset,"2,228","1,857","2,105","2,193",TD
+Interest Receivable,"2,197","2,396","2,973","3,765",TD
+Other Assets,"29,881","30,518","32,950","27,114",TD
+"Other Assets, Total","32,078","32,914","35,923","30,879",TD
+Total Assets,"1,778,588","1,825,276","1,840,811","1,917,528",TD
+Accounts Payable,"27,557","28,103","31,226","27,065",TD
+Payable/Accrued,"5,137","6,946","7,180","5,040",TD
+Accrued Expenses,"2,851","3,369","3,419","4,100",TD
+Interest Bearing Deposits,"1,159,538","1,183,738","1,201,736","1,229,970",TD
+Other Deposits,"20,549","19,553","18,604","23,805",TD
+Total Deposits,"1,180,087","1,203,291","1,220,340","1,253,775",TD
+"Other Bearing Lblts, Total","17,346","19,515","20,136","19,733",TD
+Total ST Borrowings,"148,376","137,000","130,319","130,933",TD
+Curr. Port. LT Dbt/Cap Ls.,"135,150","128,899","139,805","162,786",TD
+"Other Curr. Lblts, Total",58,54,115,151,TD
+Long Term Debt,"55,790","58,654","57,961","53,886",TD
+Capital Lease Obligations,"5,499","5,408","5,243","5,313",TD
+Total Long Term Debt,"61,289","64,062","63,204","59,199",TD
+Total Debt,"344,815","329,961","333,328","352,918",TD
+Deferred Income Tax,224,223,209,236,TD
+Reserves,"1,362","1,289","1,254","1,320",TD
+Pension Benefits - Underfunded,"1,581","1,518","1,525","1,286",TD
+Other Liabilities,"95,593","131,595","119,487","140,521",TD
+"Other Liabilities, Total","98,536","134,402","122,266","143,127",TD
+Total Liabilities,"1,676,611","1,725,864","1,738,219","1,806,145",TD
+Redeemable Preferred Stock,"5,700","6,550","7,350","11,253",TD
+"Pref. Stock-Non Rdmbl, Net",(6),(13),(16),(7),TD
+Common Stock,"23,170","23,127","23,744","24,363",TD
+Additional Paid-In Capital,148,154,169,179,TD
+Ret. Earn.(Accum. Deficit),"65,621","67,046","69,090","73,698",TD
+Treasury Stock - Common,(188),(243),(104),(91),TD
+Unrealized Gain (Loss),(613),"(2,753)","(3,413)","(4,343)",TD
+Cum. Trans. Adjustment,"6,821","7,824","7,713","12,048",TD
+Other Comprehensive Income,"1,324","(2,280)","(1,941)","(5,717)",TD
+"Other Equity, Total","8,145","5,544","5,772","6,331",TD
+Total Equity,"101,977","99,412","102,592","111,383",TD
+Total Liabilities & Shareholders’ Equity,"1,778,588","1,825,276","1,840,811","1,917,528",TD
+Ttl Comm. Shares Outs.,"1,819","1,807","1,814","1,822",TD
+Trsy. Shrs-Comm. Primary Iss.,2,3,1,1,TD
+Trsry Shrs-Pref. Iss. 2,0,0,0,0,TD

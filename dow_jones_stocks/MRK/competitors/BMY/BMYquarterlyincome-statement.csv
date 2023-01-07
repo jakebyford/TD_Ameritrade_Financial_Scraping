@@ -1,0 +1,48 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"11,985","11,648","11,887","11,218",BMY
+"Cost of Revenue, Total","2,356","2,471","2,677","2,353",BMY
+Selling/Gen/Admin Expense,"2,295","1,781","1,735","1,882",BMY
+Labor & Related Expense,57,48,48,48,BMY
+"Sell/Gen/AdminExpenses,Tot","2,352","1,829","1,783","1,930",BMY
+Research & Development,"2,607","2,220","2,321","2,360",BMY
+Depreciation/Amortization,"2,417","2,417","2,417","2,418",BMY
+Purchased R&D Written-Off,0,40,0,58,BMY
+Restructuring Charge,19,23,20,17,BMY
+Litigation,33,(37),25,44,BMY
+Impair-Assets Held for Use,0,0,0,0,BMY
+Other Unusual Expnse (In),94,504,562,144,BMY
+Unusual Expense (Income),146,530,607,263,BMY
+"Other Operat Expse, Total",(536),(477),(508),(579),BMY
+Total Operating Expense,"9,342","8,990","9,297","8,745",BMY
+Total Operating Income,"2,643","2,658","2,590","2,473",BMY
+"Inter Expse,Net Non-Operat",(323),(326),(313),(299),BMY
+"Inter/Invest Inc, Non-Oper",(463),(634),(281),(14),BMY
+OtherNon-OperatInc (Expnse),1,(11),(38),49,BMY
+"Other, Net",1,(11),(38),49,BMY
+Income Before Tax,"1,858","1,687","1,958","2,209",BMY
+Income Tax - Total,(514),404,529,601,BMY
+Income After Tax,"2,372","1,283","1,429","1,608",BMY
+Minority Interest,0,(5),(8),(2),BMY
+Net Inc Before Extra Items,"2,372","1,278","1,421","1,606",BMY
+Total Net Income,"2,372","1,278","1,421","1,606",BMY
+Income Available to Common Excl. Extra. Items,"2,372","1,278","1,421","1,606",BMY
+Income Available to Common Incl. Extra. Items,"2,372","1,278","1,421","1,606",BMY
+Basic/Primary Weighted Average Shares,"2,203","2,146","2,133","2,133",BMY
+Basic/Primary EPS Excl. Extra. Items,1.08,0.60,0.67,0.75,BMY
+Basic/Primary EPS Incl. Extra. Items,1.08,0.60,0.67,0.75,BMY
+Diluted Weighted Average Shares,"2,221","2,164","2,149","2,148",BMY
+Diluted EPS Excl. Extra. Items,1.07,0.59,0.66,0.75,BMY
+Diluted EPS Incl. Extra. Items,1.07,0.59,0.66,0.75,BMY
+Div/Share-ComStockPrimIssue,0.49,0.54,0.54,0.54,BMY
+Gross Divid - Common Stock,"1,177","1,150","1,152","1,148",BMY
+Pro Forma Net Income,--,--,--,--,BMY
+"Interest Expense, Suppl",323,326,313,299,BMY
+"Depreciat/Amort, Suppl",162,167,166,170,BMY
+Total Special Items,146,530,607,263,BMY
+Normalzd Income Before Tax,"2,004","2,217","2,565","2,472",BMY
+Efct/SpecItemsIncTxs (STEC),251,117,(321),(268),BMY
+IncTxsExcl ImpctofSpec Itms,(263),521,208,333,BMY
+Normalized Income After Tax,"2,267","1,696","2,357","2,139",BMY
+Normalzd Inc Avail to Common,"2,267","1,691","2,349","2,137",BMY
+Basic Normalized EPS,1.03,0.79,1.10,1.00,BMY
+Diluted Normalized EPS,1.02,0.78,1.09,0.99,BMY

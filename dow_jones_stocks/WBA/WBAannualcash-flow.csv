@@ -1,0 +1,40 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"5,031","3,962",424,"2,512","4,065",WBA
+Depreciation/Depletion,"1,770","2,038","1,927","1,973","1,990",WBA
+Deferred Taxes,(322),100,(43),233,(366),WBA
+Unusual Items,1,--,"2,016",141,"(1,503)",WBA
+Equity in Net Earnings/Loss,(581),(187),(382),177,"(1,027)",WBA
+Other Non-Cash Items,426,421,601,91,245,WBA
+Non-Cash Items,(154),234,"2,235",409,"(2,285)",WBA
+"Cash Taxes Pd, Supplemental",600,900,600,336,387,WBA
+"Cash Interest Pd, Suppl",577,676,584,916,420,WBA
+Accounts Receivable,(391),(789),163,"(1,451)",808,WBA
+Inventories,331,141,63,165,(433),WBA
+Other Assets,(22),(112),(31),(46),(72),WBA
+Accounts Payable,"1,352",954,(25),842,244,WBA
+Accrued Expenses,287,(374),"1,008","1,046",(138),WBA
+Changes in Working Capital,"1,938",(739),942,428,494,WBA
+Total Cash from Operations,"8,263","5,595","5,485","5,555","3,898",WBA
+Capital Expenditures,"(1,367)","(1,702)","(1,374)","(1,379)","(1,734)",WBA
+Acquisition of Business,"(4,793)",(741),(718),"(1,431)","(2,189)",WBA
+Sale of Business,--,--,--,"5,527",0,WBA
+Sale of Fixed Assets,655,120,814,"1,309","2,642",WBA
+Other Investing Cash Flow,4,16,(19),46,217,WBA
+"OtherInvestCashFlowItms,Tot","(4,134)",(605),77,"5,451",670,WBA
+Total Cash from Investing,"(5,501)","(2,307)","(1,297)","4,072","(1,064)",WBA
+Financing Cash Flow Items,(98),74,(158),(241),"(1,676)",WBA
+Total Cash Dividends Paid,"(1,739)","(1,643)","(1,747)","(1,617)","(1,659)",WBA
+"Common Stock, Net","(5,228)","(4,160)","(1,589)",(110),(187),WBA
+Options Exercised,174,174,55,59,27,WBA
+"Iss (Retirmnt) of Stock,Net","(5,054)","(3,986)","(1,534)",(51),(160),WBA
+"Short Term Debt, Net",586,536,(161),(909),(11),WBA
+Long Term Debt Issued,"5,900","12,433","20,367","12,726","11,958",WBA
+Long Term Debt Reduction,"(4,890)","(10,461)","(21,414)","(18,944)","(9,951)",WBA
+"Long Term Debt, Net","1,010","1,972","(1,047)","(6,218)","2,007",WBA
+"Iss (Retirmnt) of Debt, Net","1,596","2,508","(1,208)","(7,127)","1,996",WBA
+Total Cash From Financing,"(5,295)","(3,047)","(4,647)","(9,036)","(1,499)",WBA
+Foreign Exchange Effects,11,(9),(1),(66),(47),WBA
+Net Change in Cash,"(2,522)",232,(460),525,"1,288",WBA
+NetCash-BeginBal/RsvdforFutUse,"3,496",975,"1,207",746,"1,270",WBA
+NetCash-EndBal/RsrvforFutUse,975,"1,207",746,"1,270","2,558",WBA
+"Depreciation, Supplemental","1,770","2,038","1,927","1,973","1,990",WBA

@@ -1,0 +1,45 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"7,981","7,077","7,517","7,841",SAP
+"Cost of Revenue, Total","2,097","2,044","2,143","2,207",SAP
+Selling/Gen/Admin Expense,"2,223","2,075","2,354","2,245",SAP
+Labor & Related Expense,603,309,414,421,SAP
+"Sell/Gen/AdminExpenses,Tot","2,826","2,384","2,768","2,666",SAP
+Research & Development,"1,408","1,423","1,542","1,571",SAP
+Restructuring Charge,6,(10),129,(8),SAP
+Other Unusual Expnse (In),165,164,164,174,SAP
+Unusual Expense (Income),171,154,293,166,SAP
+Other Operating Expense,(1),(1),1,--,SAP
+"Other, Net",17,20,97,(8),SAP
+"Other Operat Expse, Total",16,19,98,(8),SAP
+Total Operating Expense,"6,518","6,024","6,844","6,602",SAP
+Total Operating Income,"1,463","1,053",673,"1,239",SAP
+"Inter/Invest Inc, Non-Oper",593,(1),"1,007",(306),SAP
+OtherNon-OperatInc (Expnse),(99),(107),"(1,142)",(83),SAP
+"Other, Net",(99),(107),"(1,142)",(83),SAP
+Income Before Tax,"1,957",945,538,850,SAP
+Income Tax - Total,517,313,335,304,SAP
+Income After Tax,"1,440",632,203,546,SAP
+Minority Interest,13,108,131,123,SAP
+Net Inc Before Extra Items,"1,453",740,334,669,SAP
+Total Net Income,"1,453",740,334,669,SAP
+Total Adjust to Net Income,1,--,--,0,SAP
+Income Available to Common Excl. Extra. Items,"1,454",740,334,669,SAP
+Income Available to Common Incl. Extra. Items,"1,454",740,334,669,SAP
+Basic/Primary Weighted Average Shares,"1,180","1,177","1,171","1,168",SAP
+Basic/Primary EPS Excl. Extra. Items,1.23,0.63,0.29,0.57,SAP
+Basic/Primary EPS Incl. Extra. Items,1.23,0.63,0.29,0.57,SAP
+Diluted Weighted Average Shares,"1,180","1,178","1,171","1,173",SAP
+Diluted EPS Excl. Extra. Items,1.23,0.63,0.29,0.57,SAP
+Diluted EPS Incl. Extra. Items,1.23,0.63,0.29,0.57,SAP
+Div/Share-ComStockPrimIssue,1.99,0.00,0.00,0.00,SAP
+Gross Divid - Common Stock,"2,890",--,--,--,SAP
+Pro Forma Net Income,--,--,--,--,SAP
+"Depreciat/Amort, Suppl",467,460,473,492,SAP
+Total Special Items,171,154,293,166,SAP
+Normalzd Income Before Tax,"2,128","1,099",831,"1,016",SAP
+Efct/SpecItemsIncTxs (STEC),45,51,103,59,SAP
+IncTxsExcl ImpctofSpec Itms,562,364,438,363,SAP
+Normalized Income After Tax,"1,566",735,393,653,SAP
+Normalzd Inc Avail to Common,"1,580",843,524,776,SAP
+Basic Normalized EPS,1.34,0.72,0.45,0.66,SAP
+Diluted Normalized EPS,1.34,0.72,0.45,0.66,SAP

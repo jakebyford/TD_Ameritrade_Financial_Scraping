@@ -1,0 +1,42 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"5,106","4,699","4,526","4,311",BLK
+"Cost of Revenue, Total",906,903,876,854,BLK
+Selling/Gen/Admin Expense,411,396,412,412,BLK
+Labor & Related Expense,"1,616","1,538","1,456","1,386",BLK
+Advertising Expense,96,60,76,95,BLK
+"Sell/Gen/AdminExpenses,Tot","2,123","1,994","1,944","1,893",BLK
+Depreciation/Amortization,38,38,38,38,BLK
+Unusual Expense (Income),0,0,0,--,BLK
+Total Operating Expense,"3,067","2,935","2,858","2,785",BLK
+Total Operating Income,"2,039","1,764","1,668","1,526",BLK
+"Inter Expse,Net Non-Operat",(50),(54),(54),(50),BLK
+"Inter Income, Non-Operating",46,18,21,41,BLK
+"Invest Income, Non-Operat",75,(102),(314),174,BLK
+"Inter/Invest Inc, Non-Oper",121,(84),(293),215,BLK
+Income Before Tax,"2,110","1,626","1,321","1,691",BLK
+Income Tax - Total,478,263,358,330,BLK
+Income After Tax,"1,632","1,363",963,"1,361",BLK
+Minority Interest,11,73,114,45,BLK
+Net Inc Before Extra Items,"1,643","1,436","1,077","1,406",BLK
+Total Net Income,"1,643","1,436","1,077","1,406",BLK
+Income Available to Common Excl. Extra. Items,"1,643","1,436","1,077","1,406",BLK
+Income Available to Common Incl. Extra. Items,"1,643","1,436","1,077","1,406",BLK
+Basic/Primary Weighted Average Shares,152,152,151,151,BLK
+Basic/Primary EPS Excl. Extra. Items,10.82,9.46,7.12,9.34,BLK
+Basic/Primary EPS Incl. Extra. Items,10.82,9.46,7.12,9.34,BLK
+Diluted Weighted Average Shares,155,154,152,152,BLK
+Diluted EPS Excl. Extra. Items,10.63,9.35,7.06,9.25,BLK
+Diluted EPS Incl. Extra. Items,10.63,9.35,7.06,9.25,BLK
+Div/Share-ComStockPrimIssue,4.13,4.88,4.88,4.88,BLK
+Gross Divid - Common Stock,627,786,630,843,BLK
+Pro Forma Net Income,--,--,--,--,BLK
+"Interest Expense, Suppl",50,54,54,50,BLK
+"Depreciat/Amort, Suppl",72,62,61,71,BLK
+Total Special Items,0,7,6,5,BLK
+Normalzd Income Before Tax,"2,110","1,633","1,327","1,696",BLK
+Efct/SpecItemsIncTxs (STEC),0,1,2,1,BLK
+IncTxsExcl ImpctofSpec Itms,478,264,360,331,BLK
+Normalized Income After Tax,"1,632","1,369",967,"1,365",BLK
+Normalzd Inc Avail to Common,"1,643","1,442","1,081","1,410",BLK
+Basic Normalized EPS,10.82,9.50,7.15,9.36,BLK
+Diluted Normalized EPS,10.63,9.39,7.09,9.28,BLK

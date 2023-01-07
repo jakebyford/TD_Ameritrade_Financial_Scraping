@@ -1,0 +1,46 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"230,452","248,266","251,970","247,231",ROG
+"Cost of Revenue, Total","152,299","162,872","165,452","169,167",ROG
+"Sell/Gen/AdminExpenses,Tot","57,895","57,705","56,138","50,653",ROG
+Research & Development,"7,709","8,260","8,050","9,140",ROG
+Restructuring Charge,310,69,465,373,ROG
+Impair-Assets Held for Use,--,0,212,0,ROG
+Other Unusual Expnse (In),0,--,--,0,ROG
+Unusual Expense (Income),103,54,674,376,ROG
+Loss(Gain)/Sale Asts (Oper),(207),(15),(3),3,ROG
+"Other, Net","2,001",(516),"(1,740)",(581),ROG
+"Other Operat Expse, Total","2,001",(516),"(1,740)",(581),ROG
+Total Operating Expense,"220,007","228,375","228,574","228,755",ROG
+Total Operating Income,"10,445","19,891","23,396","18,476",ROG
+"Inter Expse,Net Non-Operat",(982),"(1,018)","(1,523)","(3,009)",ROG
+"Inter Income, Non-Operating",--,108,179,175,ROG
+"Invest Income, Non-Operat","1,148","1,275","1,800","1,162",ROG
+"Inter/Invest Inc, Non-Oper","1,148","1,383","1,979","1,337",ROG
+"Inter Inc(Exp),Net Non-Oper",132,--,--,--,ROG
+"Other, Net","1,164",108,115,869,ROG
+Income Before Tax,"11,907","20,364","23,967","17,673",ROG
+Income Tax - Total,"(11,224)","3,764","6,084","2,835",ROG
+Income After Tax,"23,131","16,600","17,883","14,838",ROG
+Net Inc Before Extra Items,"23,131","16,600","17,883","14,838",ROG
+Total Net Income,"23,131","16,600","17,883","14,838",ROG
+Income Available to Common Excl. Extra. Items,"23,131","16,600","17,883","14,838",ROG
+Income Available to Common Incl. Extra. Items,"23,131","16,600","17,883","14,838",ROG
+Basic/Primary Weighted Average Shares,"18,743","18,780","18,813","18,818",ROG
+Basic/Primary EPS Excl. Extra. Items,1.23,0.88,0.95,0.79,ROG
+Basic/Primary EPS Incl. Extra. Items,1.23,0.88,0.95,0.79,ROG
+Diluted Weighted Average Shares,"18,959","18,999","18,992","18,999",ROG
+Diluted EPS Excl. Extra. Items,1.22,0.87,0.94,0.78,ROG
+Diluted EPS Incl. Extra. Items,1.22,0.87,0.94,0.78,ROG
+Div/Share-ComStockPrimIssue,--,0.00,0.00,0.00,ROG
+Gross Divid - Common Stock,0,0,0,0,ROG
+Pro Forma Net Income,--,--,--,--,ROG
+"Interest Expense, Suppl",982,"1,018","1,523","3,009",ROG
+"Depreciat/Amort, Suppl","7,263","6,424","8,056","7,272",ROG
+Total Special Items,503,54,674,376,ROG
+Normalzd Income Before Tax,"12,410","20,418","24,641","18,049",ROG
+Efct/SpecItemsIncTxs (STEC),176,10,171,60,ROG
+IncTxsExcl ImpctofSpec Itms,"(11,048)","3,774","6,255","2,895",ROG
+Normalized Income After Tax,"23,458","16,644","18,386","15,154",ROG
+Normalzd Inc Avail to Common,"23,458","16,644","18,386","15,154",ROG
+Basic Normalized EPS,1.25,0.89,0.98,0.81,ROG
+Diluted Normalized EPS,1.24,0.88,0.97,0.80,ROG

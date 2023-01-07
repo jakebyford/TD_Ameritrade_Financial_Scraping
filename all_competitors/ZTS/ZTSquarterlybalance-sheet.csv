@@ -1,0 +1,52 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash and Short Term Invs,"3,482","3,132","2,648","2,503",ZTS
+"Trade Accts Recvble, Gross","1,150","1,247","1,315","1,210",ZTS
+Prov. for Doubtful Accts,(17),(25),(24),(21),ZTS
+"Total Receivables, Net","1,133","1,222","1,291","1,189",ZTS
+Invent. - Finished Goods,888,920,971,"1,026",ZTS
+Invent. - Work In Progress,696,764,791,830,ZTS
+Invent. - Raw Materials,339,373,443,447,ZTS
+Total Inventory,"1,923","2,057","2,205","2,303",ZTS
+Restricted Cash - Current,3,3,4,4,ZTS
+Other Current Assets,389,423,503,552,ZTS
+"Other Curr. Assets, Total",392,426,507,556,ZTS
+Total Current Assets,"6,930","6,837","6,651","6,551",ZTS
+Prop./Plant/Equip. - Gross,"4,494","4,628","4,752","4,855",ZTS
+Accumulated Depreciation,"(2,072)","(2,141)","(2,193)","(2,232)",ZTS
+Prop./Plant/Equip. - Net,"2,603","2,676","2,752","2,840",ZTS
+"Goodwill, Gross","3,218","3,221","3,256","3,228",ZTS
+Accum. Goodwill Amort.,(536),(536),(536),(536),ZTS
+"Goodwill, Net","2,682","2,685","2,720","2,692",ZTS
+Intangibles - Gross,"3,018","3,023","3,011","2,791",ZTS
+Accum. Intangible Amort.,"(1,544)","(1,593)","(1,621)","(1,472)",ZTS
+Intangibles - Net,"1,474","1,430","1,390","1,319",ZTS
+Other Long Term Assets,111,129,147,161,ZTS
+Total Assets,"13,900","13,860","13,770","13,674",ZTS
+Accounts Payable,436,402,430,373,ZTS
+Accrued Expenses,"1,143",888,933,936,ZTS
+Notes Payable/ST Debt,0,0,2,3,ZTS
+Curr. Port. LT Dbt/Cap Ls.,0,"1,350","1,350","1,350",ZTS
+Dividends Payable,154,153,153,0,ZTS
+Customer Advances,12,14,14,16,ZTS
+Income Taxes Payable,38,142,68,84,ZTS
+Other Current Liabilities,14,85,101,118,ZTS
+"Other Curr. Lblts, Total",218,394,336,218,ZTS
+Total Current Liabilities,"1,797","3,034","3,051","2,880",ZTS
+Total Long Term Debt,"6,592","5,228","5,221","5,210",ZTS
+Total Debt,"6,592","6,578","6,573","6,563",ZTS
+Deferred Income Tax,320,287,274,256,ZTS
+Minority Interest,1,0,0,(1),ZTS
+"Other Liabilities, Total",647,653,644,666,ZTS
+Total Liabilities,"9,357","9,202","9,190","9,011",ZTS
+Common Stock,5,5,5,5,ZTS
+Additional Paid-In Capital,"1,068","1,046","1,059","1,073",ZTS
+Ret. Earn.(Accum. Deficit),"7,186","7,628","8,004","8,533",ZTS
+Treasury Stock - Common,"(2,952)","(3,317)","(3,766)","(4,139)",ZTS
+Cum. Trans. Adjustment,(756),(735),(808),(964),ZTS
+Min. Pension Lblty Adj.,(17),(16),(16),(16),ZTS
+Other Comprehensive Income,9,47,102,171,ZTS
+"Other Equity, Total",(764),(704),(722),(809),ZTS
+Total Equity,"4,543","4,658","4,580","4,663",ZTS
+Total Liabilities & Shareholders’ Equity,"13,900","13,860","13,770","13,674",ZTS
+Ttl Comm. Shares Outs.,473,471,469,466,ZTS
+Trsy. Shrs-Comm. Primary Iss.,29,31,33,35,ZTS

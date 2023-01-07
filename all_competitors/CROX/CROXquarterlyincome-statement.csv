@@ -1,0 +1,41 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,587,660,965,985,CROX
+"Cost of Revenue, Total",215,335,467,444,CROX
+Selling/Gen/Admin Expense,204,177,241,269,CROX
+Labor & Related Expense,8,8,9,8,CROX
+"Sell/Gen/AdminExpenses,Tot",212,186,250,277,CROX
+Unusual Expense (Income),0,21,--,--,CROX
+Total Operating Expense,427,541,717,721,CROX
+Total Operating Income,160,119,248,264,CROX
+"Inter Expse,Net Non-Operat",(9),(19),(33),(34),CROX
+"Inter Income, Non-Operating",0,0,0,0,CROX
+"Invest Income, Non-Operat",0,0,(1),0,CROX
+"Inter/Invest Inc, Non-Oper",0,1,(1),0,CROX
+OtherNon-OperatInc (Expnse),2,(1),0,0,CROX
+"Other, Net",2,(1),0,0,CROX
+Income Before Tax,153,99,214,230,CROX
+Income Tax - Total,(2),26,54,60,CROX
+Income After Tax,155,73,160,169,CROX
+Net Inc Before Extra Items,155,73,160,169,CROX
+Total Net Income,155,73,160,169,CROX
+Income Available to Common Excl. Extra. Items,155,73,160,169,CROX
+Income Available to Common Incl. Extra. Items,155,73,160,169,CROX
+Basic/Primary Weighted Average Shares,59,60,62,62,CROX
+Basic/Primary EPS Excl. Extra. Items,2.63,1.22,2.60,2.75,CROX
+Basic/Primary EPS Incl. Extra. Items,2.63,1.22,2.60,2.75,CROX
+Diluted Weighted Average Shares,60,61,62,62,CROX
+Diluted EPS Excl. Extra. Items,2.58,1.19,2.58,2.72,CROX
+Diluted EPS Incl. Extra. Items,2.58,1.19,2.58,2.72,CROX
+Div/Share-ComStockPrimIssue,--,0.00,0.00,0.00,CROX
+Gross Divid - Common Stock,0,0,0,0,CROX
+Pro Forma Net Income,--,--,--,--,CROX
+"Interest Expense, Suppl",9,19,33,34,CROX
+"Depreciat/Amort, Suppl",8,8,9,10,CROX
+Total Special Items,0,21,--,--,CROX
+Normalzd Income Before Tax,153,120,214,230,CROX
+Efct/SpecItemsIncTxs (STEC),0,5,--,--,CROX
+IncTxsExcl ImpctofSpec Itms,(2),32,54,60,CROX
+Normalized Income After Tax,155,88,160,169,CROX
+Normalzd Inc Avail to Common,155,88,160,169,CROX
+Basic Normalized EPS,2.64,1.47,2.60,2.75,CROX
+Diluted Normalized EPS,2.58,1.44,2.58,2.72,CROX

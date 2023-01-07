@@ -1,0 +1,45 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"2,274","2,900","3,408","4,256","5,502",PANW
+"Cost of Revenue, Total",645,808,"1,000","1,275","1,719",PANW
+Selling/Gen/Admin Expense,181,153,205,262,287,PANW
+Labor & Related Expense,285,324,307,399,423,PANW
+Advertising Expense,716,898,"1,051","1,186","1,844",PANW
+"Sell/Gen/AdminExpenses,Tot","1,182","1,375","1,562","1,847","2,554",PANW
+Research & Development,401,540,768,"1,140","1,418",PANW
+Unusual Expense (Income),--,10,3,--,--,PANW
+Loss(Gain)/Sale Asts (Oper),--,--,3,--,--,PANW
+Other Operating Expense,150,224,254,298,--,PANW
+"Other Operat Expse, Total",150,224,254,298,--,PANW
+Total Operating Expense,"2,378","2,956","3,587","4,560","5,690",PANW
+Total Operating Income,(104),(57),(179),(304),(189),PANW
+"Inter Expse,Net Non-Operat",(30),(84),(89),(163),(27),PANW
+"Inter Income, Non-Operating",27,70,41,9,16,PANW
+"Invest Income, Non-Operat",2,(4),(7),(5),2,PANW
+"Inter/Invest Inc, Non-Oper",29,66,35,3,17,PANW
+OtherNon-OperatInc (Expnse),0,0,1,(1),(8),PANW
+"Other, Net",0,0,1,(1),(8),PANW
+Income Before Tax,(105),(75),(232),(465),(207),PANW
+Income Tax - Total,17,7,35,34,60,PANW
+Income After Tax,(122),(82),(267),(499),(267),PANW
+Net Inc Before Extra Items,(122),(82),(267),(499),(267),PANW
+Total Net Income,(122),(82),(267),(499),(267),PANW
+Income Available to Common Excl. Extra. Items,(122),(82),(267),(499),(267),PANW
+Income Available to Common Incl. Extra. Items,(122),(82),(267),(499),(267),PANW
+Basic/Primary Weighted Average Shares,275,284,291,289,296,PANW
+Basic/Primary EPS Excl. Extra. Items,(0.44),(0.29),(0.92),(1.73),(0.90),PANW
+Basic/Primary EPS Incl. Extra. Items,(0.44),(0.29),(0.92),(1.73),(0.90),PANW
+Diluted Weighted Average Shares,275,284,291,289,296,PANW
+Diluted EPS Excl. Extra. Items,(0.44),(0.29),(0.92),(1.73),(0.90),PANW
+Diluted EPS Incl. Extra. Items,(0.44),(0.29),(0.92),(1.73),(0.90),PANW
+Gross Divid - Common Stock,0,0,0,0,0,PANW
+Pro Forma Net Income,--,--,--,--,--,PANW
+"Interest Expense, Suppl",30,84,89,163,27,PANW
+"Depreciat/Amort, Suppl",80,100,129,143,156,PANW
+Total Special Items,--,10,3,--,--,PANW
+Normalzd Income Before Tax,(105),(65),(229),(465),(207),PANW
+Efct/SpecItemsIncTxs (STEC),--,3,1,--,--,PANW
+IncTxsExcl ImpctofSpec Itms,17,11,36,34,60,PANW
+Normalized Income After Tax,(122),(76),(265),(499),(267),PANW
+Normalzd Inc Avail to Common,(122),(76),(265),(499),(267),PANW
+Basic Normalized EPS,(0.44),(0.27),(0.91),(1.73),(0.90),PANW
+Diluted Normalized EPS,(0.44),(0.27),(0.91),(1.73),(0.90),PANW

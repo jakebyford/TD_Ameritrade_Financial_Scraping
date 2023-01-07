@@ -1,0 +1,37 @@
+items,2017,2018,2020,2021,2022,ticker
+Net Income,307,"1,222",815,309,747,TXT
+Depreciation/Depletion,447,437,416,391,390,TXT
+Deferred Taxes,346,49,89,(7),23,TXT
+Discontinued Operations,(28),(2),(2),(1),(1),TXT
+Unusual Items,47,(396),15,116,(4),TXT
+Other Non-Cash Items,90,102,79,79,88,TXT
+Non-Cash Items,109,(296),92,194,83,TXT
+"Cash Taxes Pd, Supplemental",32,146,121,42,93,TXT
+"Cash Interest Pd, Suppl",162,157,161,159,145,TXT
+Accounts Receivable,(169),72,144,60,73,TXT
+Inventories,412,41,(292),434,45,TXT
+Other Assets,(44),(88),(37),66,(112),TXT
+Accounts Payable,(156),(63),280,(613),13,TXT
+Changes in Working Capital,(273),(305),(398),(119),355,TXT
+Total Cash from Operations,936,"1,107","1,014",768,"1,598",TXT
+Capital Expenditures,(423),(369),(339),(317),(375),TXT
+Acquisition of Business,(331),(23),(2),(15),0,TXT
+Sale of Business,0,807,0,0,38,TXT
+Sale of Fixed Assets,--,--,--,33,3,TXT
+Other Investing Cash Flow,109,205,75,51,53,TXT
+"OtherInvestCashFlowItms,Tot",(222),989,73,69,94,TXT
+Total Cash from Investing,(645),620,(266),(248),(281),TXT
+Financing Cash Flow Items,(4),(4),(3),(5),(2),TXT
+Total Cash Dividends Paid,(21),(20),(18),(18),(18),TXT
+"Common Stock, Net",(582),"(1,783)",(503),(183),(921),TXT
+Options Exercised,52,74,24,22,116,TXT
+"Iss (Retirmnt) of Stock,Net",(530),"(1,709)",(479),(161),(805),TXT
+Long Term Debt Issued,"1,036",0,301,"1,514",0,TXT
+Long Term Debt Reduction,(841),(131),(303),(970),(621),TXT
+"Iss (Retirmnt) of Debt, Net",195,(131),(2),544,(621),TXT
+Total Cash From Financing,(360),"(1,864)",(502),360,"(1,446)",TXT
+Foreign Exchange Effects,33,(18),4,17,(8),TXT
+Net Change in Cash,(36),(155),250,897,(137),TXT
+NetCash-BeginBal/RsvdforFutUse,"1,298","1,262","1,107","1,357","2,254",TXT
+NetCash-EndBal/RsrvforFutUse,"1,262","1,107","1,357","2,254","2,117",TXT
+"Depreciation, Supplemental",447,437,416,391,390,TXT

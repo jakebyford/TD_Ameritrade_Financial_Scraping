@@ -1,0 +1,64 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash & Equivalents,681,402,"1,369",816,"1,276",VFC
+Short Term Investments,--,--,--,599,0,VFC
+Cash and Short Term Invs,681,402,"1,369","1,415","1,276",VFC
+"Trade Accts Recvble, Gross","1,434","1,392","1,345","1,332","1,496",VFC
+Prov. for Doubtful Accts,(25),(19),(37),(34),(28),VFC
+"Total Receivables, Net","1,409","1,375","1,309","1,299","1,469",VFC
+Invent. - Finished Goods,"1,654","1,088","1,202",983,"1,353",VFC
+Invent. - Work In Progress,104,59,68,54,51,VFC
+Invent. - Raw Materials,104,26,25,24,14,VFC
+Total Inventory,"1,861","1,173","1,294","1,062","1,419",VFC
+Discont. Ops.-Curr. Assets,374,"1,300",611,588,0,VFC
+Other Current Assets,359,423,444,423,425,VFC
+"Other Curr. Assets, Total",733,"1,723","1,055","1,011",425,VFC
+Total Current Assets,"4,683","4,673","5,027","4,786","4,588",VFC
+Buildings,--,891,859,949,966,VFC
+Land/Improvements,--,85,84,78,91,VFC
+Machinery/Equipment,--,859,982,"1,009","1,072",VFC
+Other Prop./Plant/Equip.,--,0,"1,274","1,474","1,247",VFC
+Prop./Plant/Equip. - Gross,--,"1,835","3,198","3,510","3,376",VFC
+Accumulated Depreciation,--,(958),(970),"(1,060)","(1,087)",VFC
+Prop./Plant/Equip. - Net,"1,012",876,"2,228","2,450","2,289",VFC
+"Goodwill, Net","1,693","1,492","1,156","2,425","2,394",VFC
+Intangibles - Gross,"2,289","2,579","2,560","3,827","3,889",VFC
+Accum. Intangible Amort.,(169),(426),(471),(500),(541),VFC
+Intangibles - Net,"2,120","2,154","2,089","3,328","3,349",VFC
+Long Term Investments,--,168,133,181,166,VFC
+Pension Bene. - Overfunded,--,117,167,197,214,VFC
+Def. Inc. Tax - LT Asset,--,95,183,201,101,VFC
+Disct. Ops. - LT Asset,0,640,0,--,--,VFC
+Other Long Term Assets,803,141,151,185,242,VFC
+Total Assets,"10,311","10,357","11,133","13,754","13,342",VFC
+Accounts Payable,583,490,407,463,563,VFC
+Accrued Expenses,842,"1,014","1,115","1,378","1,396",VFC
+Notes Payable/ST Debt,"1,525",659,"1,229",11,335,VFC
+Curr. Port. LT Dbt/Cap Ls.,6,5,1,1,501,VFC
+Customer Advances,--,29,37,50,71,VFC
+Income Taxes Payable,--,64,96,115,424,VFC
+Discontinued Operations,86,382,127,125,0,VFC
+Other Current Liabilities,96,19,11,66,24,VFC
+"Other Curr. Lblts, Total",182,494,272,357,519,VFC
+Total Current Liabilities,"3,139","2,662","3,024","2,210","3,315",VFC
+Long Term Debt,"2,213","2,116","2,586","5,691","4,567",VFC
+Capital Lease Obligations,--,--,23,18,17,VFC
+Total Long Term Debt,"2,213","2,116","2,608","5,709","4,584",VFC
+Total Debt,"3,744","2,780","3,838","5,721","5,421",VFC
+Deferred Income Tax,--,108,161,343,150,VFC
+Pension Benefits - Underfunded,--,164,171,167,111,VFC
+Other LT Liabilities,"1,272",963,"1,812","2,269","1,651",VFC
+Discont. Ops. - Lblts,0,46,0,--,--,VFC
+"Other Liabilities, Total","1,272","1,173","1,982","2,436","1,762",VFC
+Total Liabilities,"6,623","6,058","7,776","10,698","9,812",VFC
+"Pref. Stock-Non Rdmbl, Net",0,--,--,0,0,VFC
+Common Stock,99,99,97,98,97,VFC
+Additional Paid-In Capital,"3,607","3,922","4,184","3,778","3,916",VFC
+Ret. Earn.(Accum. Deficit),846,"1,180",7,190,443,VFC
+Cum. Trans. Adjustment,(477),(726),(738),(700),(752),VFC
+Min. Pension Lblty Adj.,(290),(243),(262),(258),(230),VFC
+Other Comprehensive Income,(98),67,69,(51),55,VFC
+"Other Equity, Total",(864),(902),(931),"(1,009)",(927),VFC
+Total Equity,"3,688","4,299","3,357","3,056","3,530",VFC
+Total Liabilities & Shareholders’ Equity,"10,311","10,357","11,133","13,754","13,342",VFC
+Ttl Comm. Shares Outs.,394,397,389,392,388,VFC
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,VFC

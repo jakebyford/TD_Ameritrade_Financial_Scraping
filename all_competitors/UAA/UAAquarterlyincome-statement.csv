@@ -1,0 +1,41 @@
+items,Q4 2021,Q4 2022,Q1 2023,Q2 2023,ticker
+Total Revenue,"1,529","1,301","1,349","1,574",UAA
+"Cost of Revenue, Total",753,696,719,860,UAA
+"Sell/Gen/AdminExpenses,Tot",674,594,595,594,UAA
+Depreciation/Amortization,--,1,1,1,UAA
+Restructuring Charge,15,57,0,0,UAA
+Impair-Assets Held for Use,2,--,--,--,UAA
+Other Unusual Expnse (In),(1),--,--,--,UAA
+Unusual Expense (Income),16,57,0,0,UAA
+Total Operating Expense,"1,443","1,347","1,315","1,454",UAA
+Total Operating Income,86,(46),34,119,UAA
+"Inter Expse,Net Non-Operat",(8),(6),(6),(4),UAA
+OtherNon-OperatInc (Expnse),24,0,(14),(6),UAA
+"Other, Net",24,0,(14),(6),UAA
+Income Before Tax,103,(52),14,110,UAA
+Income Tax - Total,(7),8,6,22,UAA
+Income After Tax,109,(60),9,88,UAA
+Equity In Affiliates,0,1,(1),(1),UAA
+Net Inc Before Extra Items,110,(60),8,87,UAA
+Total Net Income,110,(60),8,87,UAA
+Income Available to Common Excl. Extra. Items,110,(60),8,87,UAA
+Income Available to Common Incl. Extra. Items,110,(60),8,87,UAA
+Basic/Primary Weighted Average Shares,476,471,458,454,UAA
+Basic/Primary EPS Excl. Extra. Items,0.23,(0.13),0.02,0.19,UAA
+Basic/Primary EPS Incl. Extra. Items,0.23,(0.13),0.02,0.19,UAA
+Diluted Weighted Average Shares,480,471,468,464,UAA
+Diluted EPS Excl. Extra. Items,0.23,(0.13),0.02,0.19,UAA
+Diluted EPS Incl. Extra. Items,0.23,(0.13),0.02,0.19,UAA
+Div/Share-ComStockPrimIssue,--,--,0.00,0.00,UAA
+Gross Divid - Common Stock,0,0,--,0,UAA
+Pro Forma Net Income,--,--,--,--,UAA
+"Interest Expense, Suppl",8,6,6,4,UAA
+"Depreciat/Amort, Suppl",33,35,34,33,UAA
+Total Special Items,16,57,0,0,UAA
+Normalzd Income Before Tax,119,5,14,110,UAA
+Efct/SpecItemsIncTxs (STEC),6,20,0,0,UAA
+IncTxsExcl ImpctofSpec Itms,(1),28,6,22,UAA
+Normalized Income After Tax,120,(24),9,88,UAA
+Normalzd Inc Avail to Common,120,(23),8,87,UAA
+Basic Normalized EPS,0.25,(0.05),0.02,0.19,UAA
+Diluted Normalized EPS,0.25,(0.05),0.02,0.19,UAA

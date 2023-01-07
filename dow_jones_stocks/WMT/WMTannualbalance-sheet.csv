@@ -1,0 +1,46 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash and Short Term Invs,"6,456","7,722","9,465","17,741","14,760",WMT
+"Total Receivables, Net","5,614","6,283","6,284","6,516","8,280",WMT
+Total Inventory,"43,783","44,269","44,435","44,949","56,511",WMT
+Prepaid Expenses,"3,511","3,589","1,622","20,861","1,519",WMT
+"Other Curr. Assets, Total",300,34,--,--,--,WMT
+Total Current Assets,"59,664","61,897","61,806","90,067","81,070",WMT
+Buildings,"101,155","101,006","105,674","97,582","100,376",WMT
+Land/Improvements,"25,298","24,526","24,619","19,308","19,204",WMT
+Machinery/Equipment,"2,387","2,316","2,377","2,301","2,263",WMT
+Construction in Progress,"3,619","3,474","3,751","4,741","7,199",WMT
+Other Prop./Plant/Equip.,"65,398","67,248","80,448","74,286","78,391",WMT
+Prop./Plant/Equip. - Gross,"197,857","198,570","216,869","198,218","207,433",WMT
+Accumulated Depreciation,"(83,039)","(87,175)","(89,820)","(88,370)","(94,809)",WMT
+Prop./Plant/Equip. - Net,"114,818","111,395","127,049","109,848","112,624",WMT
+"Goodwill, Net","18,242","31,181","31,073","28,983","29,014",WMT
+Other Long Term Assets,"11,798","14,822","16,567","23,598","22,152",WMT
+Total Assets,"204,522","219,295","236,495","252,496","244,860",WMT
+Accounts Payable,"46,092","47,060","46,973","49,141","55,261",WMT
+Accrued Expenses,"22,122","22,159","24,089","26,698","27,522",WMT
+Notes Payable/ST Debt,"5,257","5,225",575,224,410,WMT
+Curr. Port. LT Dbt/Cap Ls.,"4,405","2,605","5,873","3,606","3,314",WMT
+Income Taxes Payable,645,428,280,242,851,WMT
+Discontinued Operations,--,--,--,"12,734",21,WMT
+"Other Curr. Lblts, Total",645,428,280,"12,976",872,WMT
+Total Current Liabilities,"78,521","77,477","77,790","92,645","87,379",WMT
+Long Term Debt,"26,004","39,657","43,714","41,194","34,864",WMT
+Capital Lease Obligations,"6,780","6,683","4,307","3,847","4,243",WMT
+Total Long Term Debt,"32,784","46,340","48,021","45,041","39,107",WMT
+Total Debt,"42,446","54,170","54,469","48,871","42,831",WMT
+Deferred Income Tax,"8,168","11,553","12,265","14,370","13,474",WMT
+Minority Interest,"2,953","7,138","6,883","6,606","8,638",WMT
+"Other Liabilities, Total","4,227","4,291","16,867","12,909","13,009",WMT
+Total Liabilities,"126,653","146,799","161,826","171,571","161,607",WMT
+Common Stock,295,288,284,282,276,WMT
+Additional Paid-In Capital,"2,648","2,965","3,247","3,646","4,839",WMT
+Ret. Earn.(Accum. Deficit),"85,107","80,785","83,943","88,763","86,904",WMT
+Unrealized Gain (Loss),"1,646",0,--,--,--,WMT
+Cum. Trans. Adjustment,"(12,136)","(12,085)","(11,827)","(10,772)","(8,100)",WMT
+Min. Pension Lblty Adj.,(843),(712),"(1,956)","(1,986)",(12),WMT
+Other Comprehensive Income,"1,152","1,255",978,992,(654),WMT
+"Other Equity, Total","(11,827)","(11,542)","(12,805)","(11,766)","(8,766)",WMT
+Total Equity,"77,869","72,496","74,669","80,925","83,253",WMT
+Total Liabilities & Shareholders’ Equity,"204,522","219,295","236,495","252,496","244,860",WMT
+Ttl Comm. Shares Outs.,"2,952","2,878","2,832","2,821","2,761",WMT
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,WMT

@@ -1,0 +1,48 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash,71,80,46,125,91,RNG
+Cash & Equivalents,110,486,297,515,176,RNG
+Cash and Short Term Invs,181,566,344,640,267,RNG
+"Trade Accts Recvble, Gross",47,97,132,181,241,RNG
+Prov. for Doubtful Accts,(1),(3),(2),(5),(8),RNG
+"Total Receivables, Net",47,94,130,176,233,RNG
+Total Inventory,0,0,0,1,6,RNG
+Prepaid Expenses,14,15,16,18,26,RNG
+"Other Curr. Assets, Total",23,32,45,91,119,RNG
+Total Current Assets,265,708,536,926,651,RNG
+Buildings,4,7,11,13,14,RNG
+Machinery/Equipment,93,134,169,259,338,RNG
+Other Prop./Plant/Equip.,6,6,47,59,56,RNG
+Prop./Plant/Equip. - Gross,103,146,228,332,407,RNG
+Accumulated Depreciation,(60),(76),(99),(138),(193),RNG
+Prop./Plant/Equip. - Net,43,70,128,193,214,RNG
+"Goodwill, Net",9,31,55,57,55,RNG
+Intangibles - Gross,4,26,145,172,836,RNG
+Accum. Intangible Amort.,(2),(7),(17),(54),(120),RNG
+Intangibles - Net,1,19,127,118,717,RNG
+Long Term Investments,--,--,132,213,210,RNG
+Other Long Term Assets,3,10,10,9,8,RNG
+Total Assets,360,894,"1,451","2,185","2,579",RNG
+Accounts Payable,7,10,35,54,70,RNG
+Accrued Expenses,55,101,139,211,280,RNG
+Notes Payable/ST Debt,0,0,0,0,0,RNG
+Curr. Port. LT Dbt/Cap Ls.,--,--,0,31,0,RNG
+"Other Curr. Lblts, Total",63,89,107,142,176,RNG
+Total Current Liabilities,125,199,281,438,526,RNG
+Total Long Term Debt,0,367,387,"1,375","1,398",RNG
+Total Debt,0,367,387,"1,406","1,398",RNG
+"Other Liabilities, Total",6,11,37,59,116,RNG
+Total Liabilities,131,577,705,"1,872","2,041",RNG
+Redeemable Preferred Stock,--,--,--,--,199,RNG
+Common Stock,0,0,0,0,0,RNG
+Additional Paid-In Capital,435,551,"1,033",674,"1,087",RNG
+Ret. Earn.(Accum. Deficit),(210),(236),(289),(372),(749),RNG
+Other Equity,--,--,--,4,0,RNG
+Other Comprehensive Income,3,2,2,7,1,RNG
+"Other Equity, Total",3,2,2,11,1,RNG
+Total Equity,228,318,746,312,538,RNG
+Total Liabilities & Shareholders’ Equity,360,894,"1,451","2,185","2,579",RNG
+Shr Outs.-Com. Primary Iss.,66,69,76,80,84,RNG
+Shr Outs.-Com. Stk. Iss. 2,12,12,11,10,10,RNG
+Ttl Comm. Shares Outs.,78,81,87,90,94,RNG
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,RNG
+Trsy. Shrs-Comm. Iss. 2,0,0,0,0,0,RNG

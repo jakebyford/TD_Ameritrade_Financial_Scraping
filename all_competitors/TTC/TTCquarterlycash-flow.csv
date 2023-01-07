@@ -1,0 +1,33 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Net Income,70,201,326,443,TTC
+Depreciation/Depletion,18,37,54,75,TTC
+Amortization,6,16,25,34,TTC
+Deferred Taxes,0,0,0,(12),TTC
+Unusual Items,(2),(7),(5),(10),TTC
+Equity in Net Earnings/Loss,(1),(3),(6),(9),TTC
+Other Non-Cash Items,5,12,21,22,TTC
+Non-Cash Items,2,2,10,3,TTC
+Accounts Receivable,(51),(126),(38),(19),TTC
+Inventories,(59),(123),(173),(286),TTC
+Prepaid Expenses,(4),(20),(32),(30),TTC
+Payable/Accrued,(72),57,(17),89,TTC
+Changes in Working Capital,(186),(213),(261),(246),TTC
+Total Cash from Operations,(90),43,155,297,TTC
+Capital Expenditures,(12),(36),(83),(151),TTC
+Acquisition of Business,(401),(403),(402),(402),TTC
+Sale of Business,0,0,5,5,TTC
+Sale of Fixed Assets,0,0,0,0,TTC
+"OtherInvestCashFlowItms,Tot",(401),(403),(398),(398),TTC
+Total Cash from Investing,(413),(439),(481),(548),TTC
+Financing Cash Flow Items,(1),(2),(2),(2),TTC
+Total Cash Dividends Paid,(31),(63),(94),(126),TTC
+"Common Stock, Net",(75),(75),(110),(140),TTC
+Options Exercised,1,2,4,10,TTC
+"Iss (Retirmnt) of Stock,Net",(74),(73),(106),(130),TTC
+"Iss (Retirmnt) of Debt, Net",400,400,365,300,TTC
+Total Cash From Financing,293,262,163,42,TTC
+Foreign Exchange Effects,(3),(9),(11),(9),TTC
+Net Change in Cash,(213),(142),(174),(217),TTC
+NetCash-BeginBal/RsvdforFutUse,406,406,406,406,TTC
+NetCash-EndBal/RsrvforFutUse,193,263,232,188,TTC
+"Depreciation, Supplemental",18,37,54,75,TTC

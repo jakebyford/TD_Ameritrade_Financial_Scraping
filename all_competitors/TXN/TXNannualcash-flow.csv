@@ -1,0 +1,38 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"3,682","5,580","5,017","5,595","7,769",TXN
+Depreciation/Depletion,539,590,708,733,755,TXN
+Amortization,365,364,342,259,199,TXN
+Deferred Taxes,112,(105),81,(137),15,TXN
+Unusual Items,0,(3),(23),(4),(57),TXN
+Other Non-Cash Items,242,232,217,224,230,TXN
+Non-Cash Items,242,229,194,220,173,TXN
+"Cash Taxes Pd, Supplemental","1,800",(705),570,720,"1,200",TXN
+Accounts Receivable,(7),71,133,(340),(287),TXN
+Inventories,(167),(282),216,46,45,TXN
+Prepaid Expenses,76,669,265,(79),57,TXN
+Accrued Expenses,(3),(7),(15),63,7,TXN
+Payable/Accrued,51,(7),(93),63,33,TXN
+Changes in Working Capital,423,531,307,(531),(155),TXN
+Total Cash from Operations,"5,363","7,189","6,649","6,139","8,756",TXN
+Capital Expenditures,(695),"(1,131)",(847),(649),"(2,462)",TXN
+Sale of Fixed Assets,40,9,30,4,75,TXN
+Sale/Maturity of Investment,"4,095","6,708","2,309","5,545","8,478",TXN
+Purchase of Investments,"(4,555)","(5,641)","(3,444)","(5,786)","(10,124)",TXN
+Other Investing Cash Flow,(12),(23),32,(36),(62),TXN
+"OtherInvestCashFlowItms,Tot",(432),"1,053","(1,073)",(273),"(1,633)",TXN
+Total Cash from Investing,"(1,127)",(78),"(1,920)",(922),"(4,095)",TXN
+Financing Cash Flow Items,(31),(47),(42),(36),(46),TXN
+Total Cash Dividends Paid,"(2,104)","(2,555)","(3,008)","(3,426)","(3,886)",TXN
+Sale/Issuance of Common,483,373,539,470,377,TXN
+Repurch/Retirement Common,"(2,556)","(5,100)","(2,960)","(2,553)",(527),TXN
+"Iss (Retirmnt) of Stock,Net","(2,073)","(4,727)","(2,421)","(2,083)",(150),TXN
+Long Term Debt Issued,"1,099","1,500","1,491","1,498","1,495",TXN
+Long Term Debt Reduction,--,(500),(750),(500),(550),TXN
+"Long Term Debt, Net","1,099","1,000",741,998,945,TXN
+Total Debt Reduction,(625),--,--,--,--,TXN
+"Iss (Retirmnt) of Debt, Net",474,"1,000",741,998,945,TXN
+Total Cash From Financing,"(3,734)","(6,329)","(4,730)","(4,547)","(3,137)",TXN
+Net Change in Cash,502,782,(1),670,"1,524",TXN
+NetCash-BeginBal/RsvdforFutUse,"1,154","1,656","2,438","2,437","3,107",TXN
+NetCash-EndBal/RsrvforFutUse,"1,656","2,438","2,437","3,107","4,631",TXN
+"Depreciation, Supplemental",539,590,708,733,755,TXN

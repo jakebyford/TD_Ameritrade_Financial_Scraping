@@ -1,0 +1,33 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,549,641,682,531,"1,022",WRB
+Depreciation/Depletion,113,131,113,135,130,WRB
+Deferred Taxes,(17),(75),7,(34),8,WRB
+Equity in Net Earnings/Loss,(69),(109),(69),(54),(220),WRB
+Other Non-Cash Items,45,45,51,52,55,WRB
+Non-Cash Items,(25),(64),(18),(2),(165),WRB
+"Cash Taxes Pd, Supplemental",207,186,125,103,244,WRB
+"Cash Interest Pd, Suppl",145,155,160,155,141,WRB
+Changes in Working Capital,90,(12),359,987,"1,189",WRB
+Total Cash from Operations,711,620,"1,144","1,617","2,184",WRB
+Capital Expenditures,(352),(564),(207),(38),(67),WRB
+Acquisition of Business,(71),(7),0,--,--,WRB
+Sale of Business,0,9,0,--,--,WRB
+Sale of Fixed Assets,--,--,--,179,167,WRB
+Sale/Maturity of Investment,"7,787","6,700","5,107","7,812","8,036",WRB
+"Investment, Net",247,(80),195,(3),101,WRB
+Purchase of Investments,"(7,968)","(6,763)","(5,526)","(7,805)","(11,181)",WRB
+Other Investing Cash Flow,23,(9),6,(25),(45),WRB
+"OtherInvestCashFlowItms,Tot",18,(150),(218),158,"(2,923)",WRB
+Total Cash from Investing,(333),(714),(425),120,"(2,989)",WRB
+Financing Cash Flow Items,(6),(18),(21),(56),(45),WRB
+Total Cash Dividends Paid,(188),(255),(308),(84),(356),WRB
+"Iss (Retirmnt) of Stock,Net",(48),(25),(18),(346),(122),WRB
+Long Term Debt Issued,7,295,291,742,"1,034",WRB
+Long Term Debt Reduction,0,(5),(456),(653),(505),WRB
+"Iss (Retirmnt) of Debt, Net",7,290,(165),89,529,WRB
+Total Cash From Financing,(235),(7),(513),(398),6,WRB
+Foreign Exchange Effects,13,(31),0,10,(4),WRB
+Net Change in Cash,155,(133),206,"1,349",(804),WRB
+NetCash-BeginBal/RsvdforFutUse,795,950,818,"1,024","2,372",WRB
+NetCash-EndBal/RsrvforFutUse,950,818,"1,024","2,372","1,569",WRB
+"Depreciation, Supplemental",113,131,113,135,130,WRB

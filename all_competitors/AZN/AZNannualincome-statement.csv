@@ -1,0 +1,52 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"22,465","22,090","24,384","26,617","37,417",AZN
+"Cost of Revenue, Total","4,180","4,246","4,824","5,270","9,542",AZN
+"Sell/Gen/AdminExpenses,Tot","7,650","8,479","8,964","9,338","11,519",AZN
+Research & Development,"5,412","5,266","5,320","6,094","8,519",AZN
+Depreciation/Amortization,"1,637","1,945","1,812","1,897","3,044",AZN
+"Inter/Invest Inc, Operating",(161),0,0,--,--,AZN
+Restructuring Charge,729,707,347,251,940,AZN
+Litigation,(77),(697),775,(197),(48),AZN
+Impair-Assets Held for Use,569,974,"1,089",252,"2,428",AZN
+Other Unusual Expnse (In),641,(60),(126),93,"1,910",AZN
+Unusual Expense (Income),320,(953),863,(763),"3,846",AZN
+Loss(Gain)/Sale Asts (Oper),"(1,542)","(1,877)","(1,222)","(1,162)","(1,384)",AZN
+Other Operating Expense,168,93,108,67,308,AZN
+"Other, Net",(418),(373),(431),(448),(417),AZN
+"Other Operat Expse, Total",(250),(280),(323),(381),(109),AZN
+Total Operating Expense,"18,788","18,703","21,460","21,455","36,361",AZN
+Total Operating Income,"3,677","3,387","2,924","5,162","1,056",AZN
+"Inter Expse,Net Non-Operat",(664),(741),(772),(736),(774),AZN
+"Inter Income, Non-Operating",99,228,145,77,43,AZN
+"Invest Income, Non-Operat",(199),(262),(139),(57),(88),AZN
+"Inter/Invest Inc, Non-Oper",(100),(34),6,20,(45),AZN
+OtherNon-OperatInc (Expnse),(686),(619),(610),(530),(502),AZN
+"Other, Net",(686),(619),(610),(530),(502),AZN
+Income Before Tax,"2,227","1,993","1,548","3,916",(265),AZN
+Income Tax - Total,(25),(57),321,772,(380),AZN
+Income After Tax,"2,252","2,050","1,227","3,144",115,AZN
+Minority Interest,133,105,108,52,(3),AZN
+Net Inc Before Extra Items,"2,385","2,155","1,335","3,196",112,AZN
+Total Extraordinary Items,616,--,--,--,--,AZN
+Total Net Income,"3,001","2,155","1,335","3,196",112,AZN
+Income Available to Common Excl. Extra. Items,"2,385","2,155","1,335","3,196",112,AZN
+Income Available to Common Incl. Extra. Items,"3,001","2,155","1,335","3,196",112,AZN
+Basic/Primary Weighted Average Shares,"1,266","1,267","1,301","1,312","1,418",AZN
+Basic/Primary EPS Excl. Extra. Items,1.88,1.70,1.03,2.44,0.08,AZN
+Basic/Primary EPS Incl. Extra. Items,2.37,1.70,1.03,2.44,0.08,AZN
+Dilution Adjustment,--,0,--,0,--,AZN
+Diluted Weighted Average Shares,"1,267","1,267","1,301","1,313","1,427",AZN
+Diluted EPS Excl. Extra. Items,1.88,1.70,1.03,2.43,0.08,AZN
+Diluted EPS Incl. Extra. Items,2.37,1.70,1.03,2.43,0.08,AZN
+Gross Divid - Common Stock,"3,519","3,484","3,592","3,572","3,856",AZN
+Pro Forma Net Income,--,--,--,--,--,AZN
+"Interest Expense, Suppl",664,741,772,736,774,AZN
+"Depreciat/Amort, Suppl",624,614,854,904,959,AZN
+Total Special Items,398,(963),866,(553),"3,846",AZN
+Normalzd Income Before Tax,"2,625","1,030","2,414","3,363","3,581",AZN
+Efct/SpecItemsIncTxs (STEC),"1,048",110,269,164,780,AZN
+IncTxsExcl ImpctofSpec Itms,"1,023",53,590,936,400,AZN
+Normalized Income After Tax,"1,602",977,"1,824","2,427","3,181",AZN
+Normalzd Inc Avail to Common,"1,735","1,082","1,932","2,479","3,178",AZN
+Basic Normalized EPS,1.37,0.85,1.49,1.89,2.24,AZN
+Diluted Normalized EPS,1.37,0.85,1.49,1.89,2.23,AZN

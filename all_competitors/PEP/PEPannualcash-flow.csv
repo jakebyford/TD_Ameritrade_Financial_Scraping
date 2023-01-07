@@ -1,0 +1,45 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"4,908","12,559","7,353","7,175","7,679",PEP
+Depreciation/Depletion,"2,369","2,399","2,432","2,548","2,710",PEP
+Deferred Taxes,619,(531),453,361,298,PEP
+Extraordinary Item,"2,451",(28),(431),(78),(119),PEP
+Unusual Items,182,53,20,158,(189),PEP
+Other Non-Cash Items,293,"(5,578)",38,110,144,PEP
+Non-Cash Items,"2,926","(5,553)",(373),190,(164),PEP
+"Cash Taxes Pd, Supplemental","1,962","1,203","2,226","1,770","1,933",PEP
+"Cash Interest Pd, Suppl","1,123","1,388","1,076","1,156","1,184",PEP
+Accounts Receivable,(202),(253),(650),(420),(651),PEP
+Inventories,(168),(174),(190),(516),(582),PEP
+Prepaid Expenses,20,9,(87),26,159,PEP
+Payable/Accrued,201,882,735,766,"1,762",PEP
+Changes in Working Capital,(792),541,(216),339,"1,093",PEP
+Total Cash from Operations,"10,030","9,415","9,649","10,613","11,616",PEP
+Capital Expenditures,"(2,969)","(3,282)","(4,232)","(4,240)","(4,625)",PEP
+Acquisition of Business,0,"(1,197)","(1,939)",--,--,PEP
+Sale of Business,267,505,253,4,169,PEP
+Sale of Fixed Assets,180,134,170,55,166,PEP
+Sale/Maturity of Investment,"16,534","14,322",78,0,"1,135",PEP
+"Investment, Net",2,16,19,27,(58),PEP
+Purchase of Investments,"(18,446)","(5,936)",(778),"(7,507)",(61),PEP
+Other Investing Cash Flow,29,2,(8),42,5,PEP
+"OtherInvestCashFlowItms,Tot","(1,434)","7,846","(2,205)","(7,379)","1,356",PEP
+Total Cash from Investing,"(4,403)","4,564","(6,437)","(11,619)","(3,269)",PEP
+Financing Cash Flow Items,(221),(156),(159),(144),(912),PEP
+Total Cash Dividends Paid,"(4,472)","(4,930)","(5,304)","(5,509)","(5,815)",PEP
+"Common Stock, Net","(2,000)","(2,000)","(3,000)","(2,000)",(106),PEP
+"Preferred Stock, Net",(5),(2),0,--,--,PEP
+Options Exercised,462,281,329,179,185,PEP
+"Iss (Retirmnt) of Stock,Net","(1,543)","(1,721)","(2,671)","(1,821)",79,PEP
+Short Term Debt Issued,91,3,6,"4,077",8,PEP
+Short Term Debt Reduction,(128),(17),(2),"(3,554)",(397),PEP
+"Short Term Debt, Net","(1,053)","(1,366)",1,414,45,PEP
+Long Term Debt Issued,"7,509",0,"4,621","13,809","4,122",PEP
+Long Term Debt Reduction,"(4,406)","(5,596)","(4,977)","(2,930)","(8,299)",PEP
+"Long Term Debt, Net","3,103","(5,596)",(356),"10,879","(4,177)",PEP
+"Iss (Retirmnt) of Debt, Net","2,050","(6,962)",(355),"11,293","(4,132)",PEP
+Total Cash From Financing,"(4,186)","(13,769)","(8,489)","3,819","(10,780)",PEP
+Foreign Exchange Effects,47,(98),78,(129),(114),PEP
+Net Change in Cash,"1,488",112,"(5,199)","2,684","(2,547)",PEP
+NetCash-BeginBal/RsvdforFutUse,"9,169","10,657","10,769","5,570","8,254",PEP
+NetCash-EndBal/RsrvforFutUse,"10,657","10,769","5,570","8,254","5,707",PEP
+"Depreciation, Supplemental","2,369","2,399","2,432","2,548","2,710",PEP

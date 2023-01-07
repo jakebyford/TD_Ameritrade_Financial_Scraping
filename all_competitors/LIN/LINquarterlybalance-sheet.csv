@@ -1,0 +1,46 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash and Short Term Invs,"2,823","4,464","3,655","3,756",LIN
+"Total Receivables, Net","4,633","4,945","4,881","4,703",LIN
+Invent. - Finished Goods,"1,000","1,008","1,005","1,057",LIN
+Invent. - Work In Progress,334,318,321,321,LIN
+Invent. - Raw Materials,399,440,460,477,LIN
+Total Inventory,"1,733","1,766","1,786","1,855",LIN
+Prepaid Expenses,869,"1,082",950,889,LIN
+"Other Curr. Assets, Total",101,--,--,--,LIN
+Total Current Assets,"10,159","12,257","11,272","11,203",LIN
+Prop./Plant/Equip. - Net,"27,019","25,595","23,993","22,586",LIN
+"Goodwill, Net","27,038","26,822","25,678","24,565",LIN
+Intangibles - Gross,"16,173",--,--,--,LIN
+Accum. Intangible Amort.,"(2,371)",--,--,--,LIN
+Intangibles - Net,"13,802","13,506","12,634","11,810",LIN
+Long Term Investments,"2,619",--,--,--,LIN
+Other Long Term Assets,968,"4,587","4,308","4,159",LIN
+Total Assets,"81,605","82,767","77,885","74,323",LIN
+Accounts Payable,"3,503","3,387","3,360","3,067",LIN
+Notes Payable/ST Debt,"1,163","2,549","3,215","3,179",LIN
+Curr. Port. LT Dbt/Cap Ls.,"1,709","1,074","1,651","1,551",LIN
+Customer Advances,"2,940","3,035","2,933","2,902",LIN
+Income Taxes Payable,429,--,--,--,LIN
+Other Current Liabilities,"3,899","4,461","4,136","4,362",LIN
+"Other Curr. Lblts, Total","7,268","7,496","7,069","7,264",LIN
+Total Current Liabilities,"13,643","14,506","15,295","15,061",LIN
+Long Term Debt,"11,206","12,833","11,177","10,608",LIN
+Capital Lease Obligations,129,--,--,--,LIN
+Total Long Term Debt,"11,335","12,833","11,177","10,608",LIN
+Total Debt,"14,207","16,456","16,043","15,338",LIN
+Deferred Income Tax,"6,998",--,--,--,LIN
+Minority Interest,"1,406","1,427","1,366","1,311",LIN
+"Other Liabilities, Total","4,188","11,038","10,373","9,715",LIN
+Total Liabilities,"37,570","39,804","38,211","36,695",LIN
+Common Stock,1,1,1,1,LIN
+Additional Paid-In Capital,"40,180","39,972","39,978","40,011",LIN
+Ret. Earn.(Accum. Deficit),"18,710","19,387","19,159","19,845",LIN
+Treasury Stock - Common,"(9,808)","(11,459)","(12,998)","(14,135)",LIN
+Cum. Trans. Adjustment,"(3,993)","(3,933)","(5,615)","(7,318)",LIN
+Min. Pension Lblty Adj.,"(1,130)","(1,077)",(998),(927),LIN
+Other Comprehensive Income,75,72,147,151,LIN
+"Other Equity, Total","(5,048)","(4,938)","(6,466)","(8,094)",LIN
+Total Equity,"44,035","42,963","39,674","37,628",LIN
+Total Liabilities & Shareholders’ Equity,"81,605","82,767","77,885","74,323",LIN
+Ttl Comm. Shares Outs.,509,503,498,494,LIN
+Trsy. Shrs-Comm. Primary Iss.,43,49,54,58,LIN

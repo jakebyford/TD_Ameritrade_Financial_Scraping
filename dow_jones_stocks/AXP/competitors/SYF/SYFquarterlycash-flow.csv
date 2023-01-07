@@ -1,0 +1,30 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"4,221",932,"1,736","2,439",SYF
+Depreciation/Depletion,390,107,213,318,SYF
+Deferred Taxes,219,49,(74),(185),SYF
+Loan Loss Provision,726,521,"1,245","2,174",SYF
+Other Assets,461,53,294,48,SYF
+Changes in Working Capital,"2,269",308,"1,338","2,275",SYF
+Total Cash from Operations,"7,099","1,396","3,213","4,847",SYF
+Sale/Maturity of Investment,"5,080","1,998","2,807","3,659",SYF
+Purchase of Investments,"(2,990)","(1,478)","(2,660)","(3,624)",SYF
+Loans,"(6,355)","1,415",885,"(3,069)",SYF
+Other Investing Cash Flow,(549),(117),(266),(342),SYF
+Total Cash from Investing,"(4,814)","1,818",766,"(3,376)",SYF
+Deposits,(534),"1,302","2,434","6,125",SYF
+Other Financing Cash Flow,29,(36),(40),(44),SYF
+Financing Cash Flow Items,(505),"1,266","2,394","6,081",SYF
+Cash Divids Paid - Common,(500),(114),(222),(331),SYF
+Cash Divs Paid - Preferred,(42),(10),(21),(32),SYF
+Total Cash Dividends Paid,(542),(124),(243),(363),SYF
+"Common Stock, Net","(2,876)",(968),"(1,669)","(2,619)",SYF
+"Preferred Stock, Net",0,--,--,--,SYF
+"Iss (Retirmnt) of Stock,Net","(2,876)",(968),"(1,669)","(2,619)",SYF
+Long Term Debt Issued,"3,105",0,"1,743","3,905",SYF
+Long Term Debt Reduction,"(4,386)","(1,150)","(4,100)","(4,100)",SYF
+"Iss (Retirmnt) of Debt, Net","(1,281)","(1,150)","(2,357)",(195),SYF
+Total Cash From Financing,"(5,204)",(976),"(1,875)","2,904",SYF
+Net Change in Cash,"(2,919)","2,238","2,104","4,375",SYF
+NetCash-BeginBal/RsvdforFutUse,"11,605","8,686","8,686","8,686",SYF
+NetCash-EndBal/RsrvforFutUse,"8,686","10,924","10,790","13,061",SYF
+"Depreciation, Supplemental",390,107,213,318,SYF

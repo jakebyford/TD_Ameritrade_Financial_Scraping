@@ -1,0 +1,36 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"(6,056)",61,"4,169","(5,829)","9,923",AIG
+Depreciation/Depletion,"3,874","5,362","5,006","4,120","4,633",AIG
+Deferred Taxes,"6,981",0,912,"(2,434)","1,314",AIG
+Discontinued Operations,129,42,(111),(4),0,AIG
+Unusual Items,691,837,613,"7,900","(4,498)",AIG
+Equity in Net Earnings/Loss,350,363,260,246,3,AIG
+Non-Cash Items,"1,170","1,242",762,"8,142","(4,495)",AIG
+"Cash Taxes Pd, Supplemental",544,154,262,975,862,AIG
+"Cash Interest Pd, Suppl","1,282","1,312","1,326","1,147","1,348",AIG
+Changes in Working Capital,"(13,654)","(6,604)","(11,840)","(2,961)","(5,096)",AIG
+Total Cash from Operations,"(7,685)",61,(991),"1,038","6,279",AIG
+Acquisition of Business,0,"(5,717)",0,0,--,AIG
+Sale of Business,792,10,2,"2,173","4,683",AIG
+Sale of Fixed Assets,"6,913","4,365","4,185","3,896","6,258",AIG
+Sale/Maturity of Investment,"63,885","53,675","55,551","53,256","61,838",AIG
+"Investment, Net","2,098","1,524","(3,633)","(4,925)","5,088",AIG
+Purchase of Investments,"(51,003)","(45,427)","(56,048)","(58,901)","(76,238)",AIG
+Other Investing Cash Flow,"(8,644)","(8,653)","(5,532)","(1,701)","(4,909)",AIG
+Total Cash from Investing,"14,041",(223),"(5,475)","(6,202)","(3,280)",AIG
+Financing Cash Flow Items,"2,092","2,609","6,351","5,072","4,165",AIG
+Cash Divids Paid - Common,"(1,172)","(1,138)","(1,114)","(1,103)","(1,083)",AIG
+Cash Divs Paid - Preferred,--,--,(22),(29),(29),AIG
+Total Cash Dividends Paid,"(1,172)","(1,138)","(1,136)","(1,132)","(1,112)",AIG
+"Common Stock, Net","(6,275)","(1,739)",0,(500),"(2,592)",AIG
+"Preferred Stock, Net",--,--,485,0,0,AIG
+"Iss (Retirmnt) of Stock,Net","(6,275)","(1,739)",485,(500),"(2,592)",AIG
+Long Term Debt Issued,"3,356","4,734","3,881","6,324","4,445",AIG
+Long Term Debt Reduction,"(3,698)","(3,672)","(3,202)","(4,706)","(8,641)",AIG
+"Iss (Retirmnt) of Debt, Net",(342),"1,062",679,"1,618","(4,196)",AIG
+Total Cash From Financing,"(5,697)",794,"6,379","5,058","(3,735)",AIG
+Foreign Exchange Effects,(29),(11),16,49,(67),AIG
+Net Change in Cash,630,621,(71),(57),(803),AIG
+NetCash-BeginBal/RsvdforFutUse,"2,107","2,737","3,358","3,287","3,230",AIG
+NetCash-EndBal/RsrvforFutUse,"2,737","3,358","3,287","3,230","2,427",AIG
+"Depreciation, Supplemental","3,874","5,362","5,006","4,120","4,633",AIG

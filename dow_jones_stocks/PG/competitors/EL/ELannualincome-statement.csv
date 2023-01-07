@@ -1,0 +1,46 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"13,683","14,863","14,294","16,215","17,737",EL
+"Cost of Revenue, Total","2,844","3,387","3,552","3,834","4,305",EL
+"Sell/Gen/AdminExpenses,Tot","8,369","8,649","8,402","9,107","9,581",EL
+Research & Development,181,202,228,243,307,EL
+"Inter/Invest Inc, Operating",6,6,--,--,--,EL
+Restructuring Charge,231,216,73,204,133,EL
+Impair-Assets Held for Use,0,90,"1,426",188,241,EL
+Other Unusual Expnse (In),--,--,7,21,--,EL
+Unusual Expense (Income),231,306,"1,506",413,374,EL
+Total Operating Expense,"11,631","12,550","13,688","13,597","14,567",EL
+Total Operating Income,"2,052","2,313",606,"2,618","3,170",EL
+"Inter Expse,Net Non-Operat",(128),(133),(161),(173),(167),EL
+"Inter Income, Non-Operating",56,58,48,51,30,EL
+"Invest Income, Non-Operat",--,--,557,847,1,EL
+"Inter/Invest Inc, Non-Oper",56,58,605,898,31,EL
+OtherNon-OperatInc (Expnse),--,69,(4),(12),2,EL
+"Other, Net",--,69,(4),(12),2,EL
+Income Before Tax,"1,980","2,307","1,046","3,331","3,036",EL
+Income Tax - Total,436,508,350,456,628,EL
+Income After Tax,"1,544","1,799",696,"2,875","2,408",EL
+Minority Interest,(9),(9),(12),(5),(18),EL
+Net Inc Before Extra Items,"1,535","1,790",684,"2,870","2,390",EL
+Total Extraordinary Items,(427),(5),--,--,--,EL
+Total Net Income,"1,108","1,785",684,"2,870","2,390",EL
+Income Available to Common Excl. Extra. Items,"1,535","1,790",684,"2,870","2,390",EL
+Income Available to Common Incl. Extra. Items,"1,108","1,785",684,"2,870","2,390",EL
+Basic/Primary Weighted Average Shares,368,364,361,363,360,EL
+Basic/Primary EPS Excl. Extra. Items,4.17,4.92,1.90,7.91,6.64,EL
+Basic/Primary EPS Incl. Extra. Items,3.01,4.91,1.90,7.91,6.64,EL
+Diluted Weighted Average Shares,376,370,367,368,365,EL
+Diluted EPS Excl. Extra. Items,4.09,4.83,1.86,7.79,6.55,EL
+Diluted EPS Incl. Extra. Items,2.95,4.82,1.86,7.79,6.55,EL
+Div/Share-ComStockPrimIssue,1.48,1.67,1.39,2.07,--,EL
+Gross Divid - Common Stock,552,612,505,757,843,EL
+Pro Forma Net Income,--,--,--,--,--,EL
+"Interest Expense, Suppl",128,133,161,173,167,EL
+"Depreciat/Amort, Suppl",480,506,538,541,567,EL
+Total Special Items,231,306,"1,506",413,374,EL
+Normalzd Income Before Tax,"2,211","2,613","2,552","3,744","3,410",EL
+Efct/SpecItemsIncTxs (STEC),51,67,504,57,77,EL
+IncTxsExcl ImpctofSpec Itms,487,575,854,513,705,EL
+Normalized Income After Tax,"1,724","2,038","1,698","3,231","2,705",EL
+Normalzd Inc Avail to Common,"1,715","2,029","1,686","3,226","2,687",EL
+Basic Normalized EPS,4.66,5.58,4.68,8.89,7.46,EL
+Diluted Normalized EPS,4.57,5.48,4.60,8.76,7.36,EL

@@ -1,0 +1,35 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"9,923","4,656","8,048","11,089",AIG
+Depreciation/Depletion,"4,633","1,447","2,698","3,918",AIG
+Deferred Taxes,"1,314","1,123","1,842","2,424",AIG
+Discontinued Operations,0,--,1,1,AIG
+Unusual Items,"(4,498)","(2,046)","(2,977)","(2,472)",AIG
+Equity in Net Earnings/Loss,3,(91),(180),(159),AIG
+Non-Cash Items,"(4,495)","(2,137)","(3,156)","(2,630)",AIG
+"Cash Taxes Pd, Supplemental",862,56,265,489,AIG
+"Cash Interest Pd, Suppl","1,348",243,574,734,AIG
+Changes in Working Capital,"(5,096)","(5,032)","(8,800)","(10,783)",AIG
+Total Cash from Operations,"6,279",57,632,"4,018",AIG
+Sale of Business,"4,683",--,--,0,AIG
+Sale of Fixed Assets,"6,258",795,"1,565","2,239",AIG
+Sale/Maturity of Investment,"61,838","12,182","25,845","33,286",AIG
+"Investment, Net","5,088","3,645","3,787","(1,599)",AIG
+Purchase of Investments,"(76,238)","(13,324)","(23,975)","(32,094)",AIG
+Other Investing Cash Flow,"(4,909)","(2,445)","(4,688)","(4,097)",AIG
+Total Cash from Investing,"(3,280)",853,"2,534","(2,265)",AIG
+Financing Cash Flow Items,"4,165","1,100","2,090","2,532",AIG
+Cash Divids Paid - Common,"(1,083)",(258),(506),(746),AIG
+Cash Divs Paid - Preferred,(29),(7),(15),(22),AIG
+Total Cash Dividends Paid,"(1,112)",(265),(521),(768),AIG
+"Common Stock, Net","(2,592)","(1,394)","(3,105)","(4,398)",AIG
+"Preferred Stock, Net",0,--,--,--,AIG
+"Iss (Retirmnt) of Stock,Net","(2,592)","(1,394)","(3,105)","(4,398)",AIG
+Long Term Debt Issued,"4,445",708,"7,284","9,824",AIG
+Long Term Debt Reduction,"(8,641)",(744),"(8,541)","(8,761)",AIG
+"Iss (Retirmnt) of Debt, Net","(4,196)",(36),"(1,257)","1,063",AIG
+Total Cash From Financing,"(3,735)",(595),"(2,793)","(1,571)",AIG
+Foreign Exchange Effects,(67),(13),(72),(69),AIG
+Net Change in Cash,(803),302,301,113,AIG
+NetCash-BeginBal/RsvdforFutUse,"3,230","2,427","2,427","2,427",AIG
+NetCash-EndBal/RsrvforFutUse,"2,427","2,729","2,728","2,540",AIG
+"Depreciation, Supplemental","4,633","1,447","2,698","3,918",AIG

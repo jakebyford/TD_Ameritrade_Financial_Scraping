@@ -1,0 +1,41 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"275,907","239,655","267,600","243,535",JD
+"Cost of Revenue, Total","238,785","206,209","231,706","207,339",JD
+Selling/Gen/Admin Expense,"30,524","24,895","26,527","22,693",JD
+Labor & Related Expense,"2,552","1,404","1,224","1,528",JD
+"Sell/Gen/AdminExpenses,Tot","33,076","26,299","27,751","24,221",JD
+Research & Development,"4,079","4,346","3,967","4,033",JD
+Depreciation/Amortization,377,392,418,443,JD
+Unusual Expense (Income),(18),"3,549",(31),"(1,256)",JD
+Total Operating Expense,"276,299","240,795","263,811","234,780",JD
+Total Operating Income,(392),"(1,140)","3,789","8,755",JD
+"Inter Expse,Net Non-Operat",(447),(345),(484),(579),JD
+"Inter/Invest Inc, Non-Oper","(4,272)","(2,315)",(535),"(2,402)",JD
+OtherNon-OperatInc (Expnse),(22),885,"2,486","1,936",JD
+"Other, Net",(22),885,"2,486","1,936",JD
+Income Before Tax,"(5,133)","(2,915)","5,256","7,710",JD
+Income Tax - Total,186,603,"1,227","1,751",JD
+Income After Tax,"(5,318)","(3,518)","4,029","5,959",JD
+Minority Interest,153,527,347,4,JD
+Net Inc Before Extra Items,"(5,165)","(2,991)","4,376","5,963",JD
+Total Net Income,"(5,165)","(2,991)","4,376","5,963",JD
+Income Available to Common Excl. Extra. Items,"(5,165)","(2,991)","4,376","5,963",JD
+Income Available to Common Incl. Extra. Items,"(5,165)","(2,991)","4,376","5,963",JD
+Basic/Primary Weighted Average Shares,"3,111","3,116","3,121","3,129",JD
+Basic/Primary EPS Excl. Extra. Items,(1.66),(0.96),1.40,1.91,JD
+Basic/Primary EPS Incl. Extra. Items,(1.66),(0.96),1.40,1.91,JD
+Diluted Weighted Average Shares,"3,111","3,116","3,176","3,181",JD
+Diluted EPS Excl. Extra. Items,(1.66),(0.96),1.38,1.87,JD
+Diluted EPS Incl. Extra. Items,(1.66),(0.96),1.38,1.87,JD
+Div/Share-ComStockPrimIssue,--,0.00,0.00,0.00,JD
+Pro Forma Net Income,--,--,--,--,JD
+"Interest Expense, Suppl",447,345,484,579,JD
+"Depreciat/Amort, Suppl","1,190","1,280","1,295","1,424",JD
+Total Special Items,(90),"3,672","1,353",(782),JD
+Normalzd Income Before Tax,"(5,222)",757,"6,609","6,928",JD
+Efct/SpecItemsIncTxs (STEC),(31),(63),(127),(109),JD
+IncTxsExcl ImpctofSpec Itms,154,540,"1,100","1,642",JD
+Normalized Income After Tax,"(5,377)",217,"5,509","5,286",JD
+Normalzd Inc Avail to Common,"(5,223)",744,"5,856","5,290",JD
+Basic Normalized EPS,(1.68),0.24,1.88,1.69,JD
+Diluted Normalized EPS,(1.68),0.24,1.84,1.66,JD

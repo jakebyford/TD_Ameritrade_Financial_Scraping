@@ -1,0 +1,61 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash and Short Term Invs,"2,988","3,143","2,367","2,216",DOW
+"Trade Accts Recvble, Gross","6,895","7,638","7,686","6,619",DOW
+Prov. for Doubtful Accts,(54),(215),(212),(212),DOW
+"Trade Accts Recvble, Net","6,920","7,523","7,612","6,548",DOW
+Other Receivables,"2,713","2,536","2,243","2,123",DOW
+"Total Receivables, Net","9,633","10,059","9,855","8,671",DOW
+Invent. - Finished Goods,"4,554","4,755","5,174","4,745",DOW
+Invent. - Work In Progress,"1,615","1,857","1,994","1,626",DOW
+Invent. - Raw Materials,"1,688","1,787","1,895","1,890",DOW
+LIFO Reserve,(485),(639),(838),(690),DOW
+Total Inventory,"7,372","7,760","8,225","7,571",DOW
+"Other Curr. Assets, Total",855,"1,203","1,322","1,319",DOW
+Total Current Assets,"20,848","22,165","21,769","19,777",DOW
+Prop./Plant/Equip. - Gross,"57,604","57,707","57,180","56,931",DOW
+Accumulated Depreciation,"(37,049)","(37,360)","(37,020)","(36,899)",DOW
+Prop./Plant/Equip. - Net,"21,967","21,686","21,432","21,263",DOW
+"Goodwill, Net","8,764","8,716","8,605","8,524",DOW
+Intangibles - Gross,"7,606","7,551","7,449","7,371",DOW
+Accum. Intangible Amort.,"(4,725)","(4,790)","(4,833)","(4,888)",DOW
+Intangibles - Net,"2,881","2,761","2,616","2,483",DOW
+LT Invt. - Affiliate Comp.,"2,045","1,821","1,862","1,785",DOW
+LT Investments - Other,"3,193","3,067","2,782","2,732",DOW
+Long Term Investments,"5,238","4,888","4,644","4,517",DOW
+Note Rcvble - Long Term,504,478,562,518,DOW
+Deferred Charges,"1,430","1,481","1,397","1,339",DOW
+Def. Inc. Tax - LT Asset,"1,358","1,160","1,118","1,136",DOW
+Total Assets,"62,990","63,335","62,143","59,557",DOW
+Accounts Payable,"5,577","5,769","5,693","5,008",DOW
+Accrued Expenses,"3,586","3,358","3,415","3,265",DOW
+Notes Payable/ST Debt,161,92,295,185,DOW
+Curr. Port. LT Dbt/Cap Ls.,231,355,361,364,DOW
+Customer Advances,209,181,259,315,DOW
+Income Taxes Payable,623,527,462,579,DOW
+Other Payables,"2,839","2,772","2,824","2,599",DOW
+"Other Curr. Lblts, Total","3,671","3,480","3,545","3,493",DOW
+Total Current Liabilities,"13,226","13,054","13,309","12,315",DOW
+Long Term Debt,"13,517","13,356","12,346","12,227",DOW
+Capital Lease Obligations,763,752,719,694,DOW
+Total Long Term Debt,"14,280","14,108","13,065","12,921",DOW
+Total Debt,"14,672","14,555","13,721","13,470",DOW
+Deferred Income Tax,506,654,752,716,DOW
+Minority Interest,574,545,534,512,DOW
+Pension Benefits - Underfunded,"7,557","7,320","6,934","6,541",DOW
+Other LT Liabilities,"8,682","8,774","8,576","8,435",DOW
+"Other Liabilities, Total","16,239","16,094","15,510","14,976",DOW
+Total Liabilities,"44,825","44,455","43,170","41,440",DOW
+Common Stock,8,8,8,8,DOW
+Additional Paid-In Capital,"8,151","8,217","8,343","8,396",DOW
+Ret. Earn.(Accum. Deficit),"20,623","21,672","22,827","23,068",DOW
+Treasury Stock - Common,"(1,625)","(2,221)","(3,001)","(3,773)",DOW
+ESOP Debt Guarantee,(15),0,0,0,DOW
+Unrealized Gain (Loss),59,(37),(190),(312),DOW
+Cum. Trans. Adjustment,"(1,355)","(1,519)","(2,033)","(2,436)",DOW
+Min. Pension Lblty Adj.,"(7,334)","(7,225)","(7,103)","(6,978)",DOW
+Other Comprehensive Income,(347),(15),122,144,DOW
+"Other Equity, Total","(9,036)","(8,759)","(9,014)","(9,270)",DOW
+Total Equity,"18,165","18,880","18,973","18,117",DOW
+Total Liabilities & Shareholders’ Equity,"62,990","63,335","62,143","59,557",DOW
+Ttl Comm. Shares Outs.,735,728,718,704,DOW
+Trsy. Shrs-Comm. Primary Iss.,29,39,50,65,DOW

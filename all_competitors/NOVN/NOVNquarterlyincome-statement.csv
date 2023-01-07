@@ -1,0 +1,45 @@
+items,Q3 2021,Q4 2021,Q1 2022,Q2 2022,ticker
+Total Revenue,737,655,"1,928","6,158",NOVN
+"Cost of Revenue, Total",--,--,206,"2,612",NOVN
+Selling/Gen/Admin Expense,"2,779","3,973","5,665","8,261",NOVN
+Labor & Related Expense,190,284,308,333,NOVN
+"Sell/Gen/AdminExpenses,Tot","2,969","4,257","5,973","8,594",NOVN
+Research & Development,"4,251","4,490","4,833","3,144",NOVN
+Depreciation/Amortization,--,--,121,548,NOVN
+Impair-Assets Held for Use,0,0,--,0,NOVN
+Other Unusual Expnse (In),0,0,"4,021",0,NOVN
+Unusual Expense (Income),0,0,"4,021",0,NOVN
+Loss(Gain)/Sale Asts (Oper),0,0,--,--,NOVN
+"Other, Net",--,--,--,(454),NOVN
+"Other Operat Expse, Total",--,--,--,(454),NOVN
+Total Operating Expense,"7,220","8,747","15,154","14,444",NOVN
+Total Operating Income,"(6,483)","(8,092)","(13,226)","(8,286)",NOVN
+"Inter Expse,Net Non-Operat",--,--,(132),(608),NOVN
+"Inter/Invest Inc, Non-Oper",4,3,3,14,NOVN
+OtherNon-OperatInc (Expnse),(5),(144),(25),2,NOVN
+"Other, Net",(5),(144),(25),2,NOVN
+Income Before Tax,"(6,484)","(8,233)","(13,380)","(8,878)",NOVN
+Income After Tax,"(6,484)","(8,233)","(13,380)","(8,878)",NOVN
+Net Inc Before Extra Items,"(6,484)","(8,233)","(13,380)","(8,878)",NOVN
+Total Net Income,"(6,484)","(8,233)","(13,380)","(8,878)",NOVN
+Income Available to Common Excl. Extra. Items,"(6,484)","(8,233)","(13,380)","(8,878)",NOVN
+Income Available to Common Incl. Extra. Items,"(6,484)","(8,233)","(13,380)","(8,878)",NOVN
+Basic/Primary Weighted Average Shares,"18,814","18,835","18,830","20,216",NOVN
+Basic/Primary EPS Excl. Extra. Items,(0.34),(0.44),(0.71),(0.44),NOVN
+Basic/Primary EPS Incl. Extra. Items,(0.34),(0.44),(0.71),(0.44),NOVN
+Diluted Weighted Average Shares,"18,814","18,835","18,830","20,216",NOVN
+Diluted EPS Excl. Extra. Items,(0.34),(0.44),(0.71),(0.44),NOVN
+Diluted EPS Incl. Extra. Items,(0.34),(0.44),(0.71),(0.44),NOVN
+Div/Share-ComStockPrimIssue,0.00,--,0.00,0.00,NOVN
+Gross Divid - Common Stock,0,0,0,0,NOVN
+Pro Forma Net Income,--,--,--,--,NOVN
+"Interest Expense, Suppl",--,--,132,608,NOVN
+"Depreciat/Amort, Suppl",104,102,97,247,NOVN
+Total Special Items,0,0,"4,021",0,NOVN
+Normalzd Income Before Tax,"(6,484)","(8,233)","(9,359)","(8,878)",NOVN
+Efct/SpecItemsIncTxs (STEC),0,0,0,0,NOVN
+IncTxsExcl ImpctofSpec Itms,0,0,0,0,NOVN
+Normalized Income After Tax,"(6,484)","(8,233)","(9,359)","(8,878)",NOVN
+Normalzd Inc Avail to Common,"(6,484)","(8,233)","(9,359)","(8,878)",NOVN
+Basic Normalized EPS,(0.34),(0.44),(0.50),(0.44),NOVN
+Diluted Normalized EPS,(0.34),(0.44),(0.50),(0.44),NOVN

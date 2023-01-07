@@ -1,0 +1,39 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"12,610","2,724","2,960","6,736","11,495",AVGO
+Depreciation/Depletion,515,569,570,539,529,AVGO
+Amortization,"3,566","5,239","6,335","5,502","4,455",AVGO
+Deferred Taxes,"(8,270)",(934),"(1,142)",(809),(34),AVGO
+Unusual Items,127,133,213,236,113,AVGO
+Other Non-Cash Items,"1,288","2,150","2,032","1,687","1,832",AVGO
+Non-Cash Items,"1,415","2,283","2,245","1,923","1,945",AVGO
+"Cash Taxes Pd, Supplemental",512,741,501,775,908,AVGO
+"Cash Interest Pd, Suppl",547,"1,287","1,408","1,565","1,386",AVGO
+Accounts Receivable,(652),486,981,210,(870),AVGO
+Inventories,417,250,(31),(294),(627),AVGO
+Accounts Payable,(325),(42),(3),243,(79),AVGO
+Changes in Working Capital,(956),(184),"1,093",(127),"(1,654)",AVGO
+Total Cash from Operations,"8,880","9,697","12,061","13,764","16,736",AVGO
+Capital Expenditures,(635),(432),(463),(443),(424),AVGO
+Acquisition of Business,"(4,800)","(16,033)","(10,872)",(8),(246),AVGO
+Sale of Business,773,957,218,45,0,AVGO
+Sale of Fixed Assets,239,88,12,4,--,AVGO
+Sale/Maturity of Investment,54,5,--,169,200,AVGO
+Purchase of Investments,(249),(5),--,--,(200),AVGO
+Other Investing Cash Flow,(56),(2),(4),(12),3,AVGO
+"OtherInvestCashFlowItms,Tot","(4,039)","(14,990)","(10,646)",198,(243),AVGO
+Total Cash from Investing,"(4,674)","(15,422)","(11,109)",(245),(667),AVGO
+Financing Cash Flow Items,(24),(36),(69),(42),(17),AVGO
+Total Cash Dividends Paid,"(2,998)","(4,235)","(5,534)","(6,212)","(7,032)",AVGO
+Sale/Issuance of Common,156,253,276,170,114,AVGO
+Repurch/Retirement Common,"(7,258)","(6,407)",(765),"(1,299)","(8,455)",AVGO
+"Common Stock, Net","(7,102)","(6,154)",(489),"(1,129)","(8,341)",AVGO
+"Preferred Stock, Net",--,"3,679",--,--,--,AVGO
+"Iss (Retirmnt) of Stock,Net","(7,102)","(2,475)",(489),"(1,129)","(8,341)",AVGO
+Long Term Debt Issued,0,"28,793","27,802","9,904","1,935",AVGO
+Long Term Debt Reduction,(994),"(16,800)","(18,814)","(11,495)","(2,361)",AVGO
+"Iss (Retirmnt) of Debt, Net",(994),"13,234","7,703","(1,591)",(426),AVGO
+Total Cash From Financing,"(11,118)","6,488","1,611","(8,974)","(15,816)",AVGO
+Net Change in Cash,"(6,912)",763,"2,563","4,545",253,AVGO
+NetCash-BeginBal/RsvdforFutUse,"11,204","4,292","5,055","7,618","12,163",AVGO
+NetCash-EndBal/RsrvforFutUse,"4,292","5,055","7,618","12,163","12,416",AVGO
+"Depreciation, Supplemental",515,569,570,539,529,AVGO

@@ -1,0 +1,56 @@
+items,2018,2019,2020,2021,2022,ticker
+Cash and Short Term Invs,"4,292","5,055","7,618","12,163","12,416",AVGO
+"Trade Accts Recvble, Net","3,325","3,259","2,297","2,071","2,958",AVGO
+Other Receivables,65,--,--,--,--,AVGO
+"Total Receivables, Net","3,390","3,259","2,297","2,071","2,958",AVGO
+Invent. - Finished Goods,483,339,323,423,780,AVGO
+Invent. - Work In Progress,505,414,558,680,966,AVGO
+Invent. - Raw Materials,136,121,122,194,179,AVGO
+Total Inventory,"1,124",874,"1,003","1,297","1,925",AVGO
+Prepaid Expenses,243,302,387,539,864,AVGO
+"Other Curr. Assets, Total",58,427,590,516,341,AVGO
+Total Current Assets,"9,107","9,917","11,895","16,586","18,504",AVGO
+Buildings,"1,016","1,078","1,133","1,150","1,156",AVGO
+Land/Improvements,189,189,194,195,195,AVGO
+Machinery/Equipment,"3,257","3,544","3,891","4,161","4,413",AVGO
+Construction in Progress,67,85,113,38,63,AVGO
+Other Prop./Plant/Equip.,--,--,589,588,517,AVGO
+Prop./Plant/Equip. - Gross,"4,529","4,896","5,920","6,132","6,344",AVGO
+Accumulated Depreciation,"(1,894)","(2,331)","(2,822)","(3,196)","(3,604)",AVGO
+Prop./Plant/Equip. - Net,"2,635","2,565","3,098","2,936","2,740",AVGO
+"Goodwill, Net","26,913","36,714","43,447","43,450","43,614",AVGO
+Intangibles - Gross,"18,679","30,698","36,161","35,920","27,903",AVGO
+Accum. Intangible Amort.,"(7,917)","(13,144)","(19,379)","(24,546)","(20,792)",AVGO
+Intangibles - Net,"10,762","17,554","16,782","11,374","7,111",AVGO
+Other Long Term Assets,707,743,711,"1,224","1,280",AVGO
+Total Assets,"50,124","67,493","75,933","75,570","73,249",AVGO
+Accounts Payable,811,855,836,"1,086",998,AVGO
+Accrued Expenses,"1,041",950,"1,281","1,149","1,669",AVGO
+Notes Payable/ST Debt,0,"1,000",0,0,0,AVGO
+Curr. Port. LT Dbt/Cap Ls.,0,"1,787",827,290,440,AVGO
+Customer Advances,164,"1,501","2,620","2,619","2,931",AVGO
+Income Taxes Payable,162,229,440,541,680,AVGO
+Other Current Liabilities,160,577,367,596,334,AVGO
+"Other Curr. Lblts, Total",486,"2,307","3,427","3,756","3,945",AVGO
+Total Current Liabilities,"2,338","6,899","6,371","6,281","7,052",AVGO
+Long Term Debt,"17,493","30,040","40,214","39,428","39,053",AVGO
+Capital Lease Obligations,--,--,48,39,22,AVGO
+Total Long Term Debt,"17,493","30,040","40,262","39,467","39,075",AVGO
+Total Debt,"17,493","32,827","41,089","39,757","39,515",AVGO
+Deferred Income Tax,169,--,--,--,--,AVGO
+Minority Interest,0,--,--,--,--,AVGO
+"Other Liabilities, Total","3,467","5,613","5,426","4,860","4,413",AVGO
+Total Liabilities,"23,467","42,552","52,059","50,608","50,540",AVGO
+Redeemable Preferred Stock,0,0,"3,738","3,737",0,AVGO
+"Pref. Stock-Non Rdmbl, Net",--,--,"(3,738)","(3,737)",--,AVGO
+Common Stock,"23,285",0,0,0,0,AVGO
+Additional Paid-In Capital,--,"25,081","23,982","24,330","21,159",AVGO
+Ret. Earn.(Accum. Deficit),"3,487",0,0,748,"1,604",AVGO
+Other Equity,--,0,0,0,0,AVGO
+Other Comprehensive Income,(115),(140),(108),(116),(54),AVGO
+"Other Equity, Total",(115),(140),(108),(116),(54),AVGO
+Total Equity,"26,657","24,941","23,874","24,962","22,709",AVGO
+Total Liabilities & Shareholders’ Equity,"50,124","67,493","75,933","75,570","73,249",AVGO
+Ttl Comm. Shares Outs.,408,398,407,413,418,AVGO
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,AVGO
+Trsry Shrs-Pref. Iss. 1,--,--,0,0,0,AVGO

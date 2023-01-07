@@ -1,0 +1,33 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Net Income,"1,792","3,328","4,934","6,525",AMAT
+Depreciation/Depletion,102,213,321,444,AMAT
+Deferred Taxes,1,(256),(209),(223),AMAT
+Unusual Items,(4),(4),(4),(4),AMAT
+Other Non-Cash Items,134,211,328,449,AMAT
+Non-Cash Items,130,207,324,445,AMAT
+"Cash Taxes Pd, Supplemental",(43),"1,159","1,756","2,025",AMAT
+"Cash Interest Pd, Suppl",34,102,137,205,AMAT
+Accounts Receivable,548,70,3,"(1,109)",AMAT
+Inventories,(217),(700),"(1,164)","(1,590)",AMAT
+Other Assets,347,(30),(19),(16),AMAT
+Payable/Accrued,(393),(140),195,390,AMAT
+Changes in Working Capital,633,(419),(828),"(1,792)",AMAT
+Total Cash from Operations,"2,658","3,073","4,542","5,399",AMAT
+Capital Expenditures,(144),(354),(564),(787),AMAT
+Acquisition of Business,0,0,(441),(441),AMAT
+Sale/Maturity of Investment,318,639,"1,013","1,363",AMAT
+Purchase of Investments,(312),(836),"(1,175)","(1,492)",AMAT
+"OtherInvestCashFlowItms,Tot",6,(197),(603),(570),AMAT
+Total Cash from Investing,(138),(551),"(1,167)","(1,357)",AMAT
+Financing Cash Flow Items,(235),(256),(259),(266),AMAT
+Total Cash Dividends Paid,(214),(425),(650),(873),AMAT
+Sale/Issuance of Common,--,96,96,199,AMAT
+Repurch/Retirement Common,"(1,803)","(3,603)","(4,603)","(6,103)",AMAT
+"Iss (Retirmnt) of Stock,Net","(1,803)","(3,507)","(4,507)","(5,904)",AMAT
+Long Term Debt Issued,--,--,--,0,AMAT
+"Iss (Retirmnt) of Debt, Net",--,--,--,0,AMAT
+Total Cash From Financing,"(2,252)","(4,188)","(5,416)","(7,043)",AMAT
+Net Change in Cash,268,"(1,666)","(2,041)","(3,001)",AMAT
+NetCash-BeginBal/RsvdforFutUse,"5,101","5,101","5,101","5,101",AMAT
+NetCash-EndBal/RsrvforFutUse,"5,369","3,435","3,060","2,100",AMAT
+"Depreciation, Supplemental",102,213,321,444,AMAT

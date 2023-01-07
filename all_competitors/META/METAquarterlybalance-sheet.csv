@@ -1,0 +1,52 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Cash,"7,308","7,090","6,322","6,160",META
+Cash & Equivalents,"9,293","7,796","6,359","8,148",META
+Short Term Investments,"31,397","29,004","27,808","27,468",META
+Cash and Short Term Invs,"47,998","43,890","40,489","41,776",META
+"Total Receivables, Net","14,039","11,390","11,525","11,227",META
+Prepaid Expenses,"4,480","3,691","3,745","5,080",META
+"Other Curr. Assets, Total",149,294,228,232,META
+Total Current Assets,"66,666","59,265","55,987","58,315",META
+Buildings,"28,326","29,197","30,072","31,938",META
+Land/Improvements,"1,688","1,713","1,703","1,762",META
+Machinery/Equipment,"25,584","27,094","28,996","31,438",META
+Construction in Progress,"14,687","17,031","21,100","23,623",META
+Other Prop./Plant/Equip.,"19,759","20,241","22,281","22,011",META
+Prop./Plant/Equip. - Gross,"90,044","95,276","104,152","110,772",META
+Accumulated Depreciation,"(20,080)","(21,453)","(22,434)","(23,393)",META
+Prop./Plant/Equip. - Net,"69,964","73,823","81,718","87,379",META
+"Goodwill, Net","19,197","19,923","20,229","20,268",META
+Intangibles - Gross,"5,382","3,536","1,512","1,451",META
+Accum. Intangible Amort.,"(4,748)","(2,626)",(547),(576),META
+Intangibles - Net,634,910,965,875,META
+Long Term Investments,"6,775","6,775","6,536","6,528",META
+Other Long Term Assets,"2,636","3,349","3,775","4,818",META
+Total Assets,"165,987","164,218","169,779","178,894",META
+Accounts Payable,"5,135","4,181","4,990","4,846",META
+Accrued Expenses,"8,925","16,304","16,617","17,263",META
+Notes Payable/ST Debt,0,0,0,0,META
+Curr. Port. LT Dbt/Cap Ls.,75,81,78,64,META
+Customer Advances,561,520,532,514,META
+Income Taxes Payable,"1,256",--,--,--,META
+Other Current Liabilities,"5,183",--,--,--,META
+"Other Curr. Lblts, Total","7,000",520,532,514,META
+Total Current Liabilities,"21,135","21,086","22,217","22,687",META
+Long Term Debt,--,--,--,"9,922",META
+Capital Lease Obligations,506,524,534,517,META
+Total Long Term Debt,506,524,534,"10,439",META
+Total Debt,581,605,612,"10,503",META
+"Other Liabilities, Total","19,467","19,380","21,261","21,674",META
+Total Liabilities,"41,108","40,990","44,012","54,800",META
+Common Stock,0,0,0,0,META
+Additional Paid-In Capital,"55,811","57,512","59,929","62,092",META
+Ret. Earn.(Accum. Deficit),"69,761","67,712","69,249","67,056",META
+Other Equity,0,0,0,0,META
+Other Comprehensive Income,(693),"(1,996)","(3,411)","(5,054)",META
+"Other Equity, Total",(693),"(1,996)","(3,411)","(5,054)",META
+Total Equity,"124,879","123,228","125,767","124,094",META
+Total Liabilities & Shareholders’ Equity,"165,987","164,218","169,779","178,894",META
+Shr Outs.-Com. Primary Iss.,"2,328","2,301","2,290","2,262",META
+Shr Outs.-Com. Stk. Iss. 2,413,413,407,403,META
+Ttl Comm. Shares Outs.,"2,741","2,714","2,697","2,665",META
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,META
+Trsy. Shrs-Comm. Iss. 2,0,0,0,0,META

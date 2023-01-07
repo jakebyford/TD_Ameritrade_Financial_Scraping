@@ -1,0 +1,48 @@
+items,2018,2019,2020,2021,2022,ticker
+Total Revenue,"22,611","19,573","21,731","33,566","44,200",QCOM
+"Cost of Revenue, Total","10,244","8,599","9,255","14,262","18,635",QCOM
+Selling/Gen/Admin Expense,"2,735","1,918","1,768","1,950","2,107",QCOM
+Labor & Related Expense,251,277,306,389,463,QCOM
+"Sell/Gen/AdminExpenses,Tot","2,986","2,195","2,074","2,339","2,570",QCOM
+Research & Development,"5,625","5,398","5,975","7,176","8,194",QCOM
+Restructuring Charge,629,213,--,--,--,QCOM
+Litigation,--,(31),(28),--,"(1,059)",QCOM
+Impair-Assets Held for Use,--,--,405,--,--,QCOM
+Impair-Assets Held for Sale,75,135,--,33,47,QCOM
+Other Unusual Expnse (In),"2,524","(4,468)","(1,800)",--,--,QCOM
+Unusual Expense (Income),"3,228","(4,151)","(1,423)",33,"(1,012)",QCOM
+"Other Operat Expse, Total",(18),--,--,0,--,QCOM
+Total Operating Expense,"22,065","12,041","15,881","23,810","28,387",QCOM
+Total Operating Income,546,"7,532","5,850","9,756","15,813",QCOM
+"Inter Expse,Net Non-Operat",(768),(627),(602),(559),(490),QCOM
+"Inter/Invest Inc, Non-Oper",614,576,471,"1,077",(325),QCOM
+Income Before Tax,392,"7,481","5,719","10,274","14,998",QCOM
+Income Tax - Total,"4,913","3,095",521,"1,231","2,012",QCOM
+Income After Tax,"(4,521)","4,386","5,198","9,043","12,986",QCOM
+Minority Interest,0,0,--,--,--,QCOM
+Net Inc Before Extra Items,"(4,521)","4,386","5,198","9,043","12,986",QCOM
+Discontinued Operations,--,--,--,--,(50),QCOM
+Extraordinary Item,(443),0,0,--,--,QCOM
+Total Extraordinary Items,(443),0,0,--,(50),QCOM
+Total Net Income,"(4,964)","4,386","5,198","9,043","12,936",QCOM
+Income Available to Common Excl. Extra. Items,"(4,521)","4,386","5,198","9,043","12,986",QCOM
+Income Available to Common Incl. Extra. Items,"(4,964)","4,386","5,198","9,043","12,936",QCOM
+Basic/Primary Weighted Average Shares,"1,463","1,210","1,135","1,131","1,123",QCOM
+Basic/Primary EPS Excl. Extra. Items,(3.09),3.62,4.58,8.00,11.56,QCOM
+Basic/Primary EPS Incl. Extra. Items,(3.39),3.62,4.58,8.00,11.52,QCOM
+Diluted Weighted Average Shares,"1,463","1,220","1,149","1,149","1,137",QCOM
+Diluted EPS Excl. Extra. Items,(3.09),3.60,4.52,7.87,11.42,QCOM
+Diluted EPS Incl. Extra. Items,(3.39),3.60,4.52,7.87,11.38,QCOM
+Div/Share-ComStockPrimIssue,2.43,2.48,2.57,2.66,2.86,QCOM
+Gross Divid - Common Stock,"3,517","3,034","2,972","3,097","3,303",QCOM
+Pro Forma Net Income,--,--,--,--,--,QCOM
+"Interest Expense, Suppl",768,627,602,559,490,QCOM
+"Depreciat/Amort, Suppl",776,674,772,"1,045","1,300",QCOM
+Total Special Items,"3,228","(4,151)","(1,423)",33,"(1,012)",QCOM
+Normalzd Income Before Tax,"3,620","3,330","4,296","10,307","13,986",QCOM
+Efct/SpecItemsIncTxs (STEC),"1,130","(1,717)",(130),4,(136),QCOM
+IncTxsExcl ImpctofSpec Itms,"6,043","1,378",391,"1,235","1,876",QCOM
+Normalized Income After Tax,"(2,423)","1,952","3,905","9,072","12,110",QCOM
+Normalzd Inc Avail to Common,"(2,423)","1,952","3,905","9,072","12,110",QCOM
+Basic Normalized EPS,(1.66),1.61,3.44,8.02,10.78,QCOM
+Diluted Normalized EPS,(1.66),1.60,3.40,7.90,10.65,QCOM

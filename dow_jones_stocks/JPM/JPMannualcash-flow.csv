@@ -1,0 +1,40 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"24,441","32,474","36,431","29,131","48,334",JPM
+Depreciation/Depletion,"6,179","7,791","8,368","8,614","7,932",JPM
+Deferred Taxes,"2,312","1,721",949,"(3,981)","3,748",JPM
+Non-Cash Items,"2,136","2,717","1,996","1,649","3,274",JPM
+"Cash Taxes Pd, Supplemental","4,325","3,542","5,624","7,661","18,737",JPM
+"Cash Interest Pd, Suppl","14,153","21,152","29,918","13,077","5,142",JPM
+Loan Loss Provision,"5,290","4,871","5,585","17,480","(9,256)",JPM
+Other Assets,"(6,213)","(49,695)","(11,097)","(209,195)","61,564",JPM
+Payable/Accrued,"(16,508)","14,630",(352),"7,827","43,162",JPM
+Changes in Working Capital,"(45,895)","(29,089)","(43,652)","(115,323)","14,796",JPM
+Total Cash from Operations,"(10,827)","15,614","4,092","(79,910)","78,084",JPM
+Sale/Maturity of Investment,"150,881","86,413","125,804","228,793","263,720",JPM
+Purchase of Investments,"(107,658)","(104,459)","(255,576)","(409,545)","(360,541)",JPM
+Loans,"(45,859)","(53,187)","10,352","(26,704)","(55,952)",JPM
+Other Investing Cash Flow,"30,885","(128,187)","67,361","(54,456)","23,429",JPM
+Total Cash from Investing,"28,249","(199,420)","(52,059)","(261,912)","(129,344)",JPM
+Deposits,"57,022","26,728","101,002","602,765","293,764",JPM
+Fed. Funds/REPOs,"(6,739)","23,415","1,347","31,528","(20,799)",JPM
+Other Financing Cash Flow,407,"(1,430)","(1,146)",(927),"(1,477)",JPM
+Financing Cash Flow Items,"50,690","48,713","101,203","633,366","271,488",JPM
+Cash Divids Paid - Common,--,--,"(10,756)","(11,107)","(11,258)",JPM
+Cash Divs Paid - Preferred,--,--,"(1,587)","(1,583)","(1,600)",JPM
+Total Cash Dividends Paid,"(8,993)","(10,109)","(12,343)","(12,690)","(12,858)",JPM
+"Common Stock, Net","(15,410)","(19,983)","(24,001)","(6,517)","(18,408)",JPM
+Sale/Issuance of Preferred,"1,258","1,696","5,000","4,500","7,350",JPM
+Repurch/Retirement Preferd,"(1,258)","(1,696)","(4,075)","(1,430)","(2,575)",JPM
+"Preferred Stock, Net",0,0,925,"3,070","4,775",JPM
+"Iss (Retirmnt) of Stock,Net","(15,410)","(19,983)","(23,076)","(3,447)","(13,633)",JPM
+"Short Term Debt, Net","16,540","18,476","(28,561)","4,438","7,773",JPM
+Long Term Debt Issued,"56,271","71,662","61,085","78,686","82,409",JPM
+Long Term Debt Reduction,"(83,079)","(76,313)","(69,610)","(105,055)","(54,932)",JPM
+"Long Term Debt, Net","(28,185)","(2,939)","(4,236)","(25,022)","23,223",JPM
+"Iss (Retirmnt) of Debt, Net","(11,645)","15,537","(32,797)","(20,584)","30,996",JPM
+Total Cash From Financing,"14,642","34,158","32,987","596,645","275,993",JPM
+Foreign Exchange Effects,"8,086","(2,863)",(182),"9,155","(11,508)",JPM
+Net Change in Cash,"40,150","(152,511)","(15,162)","263,978","213,225",JPM
+NetCash-BeginBal/RsvdforFutUse,"391,154","431,304","278,793","263,631","527,609",JPM
+NetCash-EndBal/RsrvforFutUse,"431,304","278,793","263,631","527,609","740,834",JPM
+"Depreciation, Supplemental","6,179","7,791","8,368","8,614","7,932",JPM

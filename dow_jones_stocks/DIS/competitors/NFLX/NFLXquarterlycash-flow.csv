@@ -1,0 +1,28 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"5,116","1,597","3,038","4,437",NFLX
+Depreciation/Depletion,208,75,158,243,NFLX
+Amortization,"12,230","3,166","6,428","10,081",NFLX
+Deferred Taxes,200,(69),(185),(243),NFLX
+Non-Cash Items,"(17,120)","(3,872)","(8,316)","(12,932)",NFLX
+Other Assets,(370),41,165,44,NFLX
+Accounts Payable,145,(215),(337),(284),NFLX
+Accrued Expenses,180,351,112,324,NFLX
+Changes in Working Capital,(242),25,(97),(4),NFLX
+Total Cash from Operations,393,923,"1,026","1,582",NFLX
+Capital Expenditures,(525),(121),(211),(296),NFLX
+Acquisition of Business,(788),(125),(193),(193),NFLX
+Other Investing Cash Flow,(27),0,0,0,NFLX
+"OtherInvestCashFlowItms,Tot",(815),(125),(193),(193),NFLX
+Total Cash from Investing,"(1,340)",(246),(405),(490),NFLX
+Financing Cash Flow Items,(224),--,--,--,NFLX
+Sale/Issuance of Common,174,14,25,29,NFLX
+Repurch/Retirement Common,(600),--,0,0,NFLX
+"Iss (Retirmnt) of Stock,Net",(426),14,25,29,NFLX
+Long Term Debt Reduction,(500),(700),(700),(700),NFLX
+"Iss (Retirmnt) of Debt, Net",(500),(700),(700),(700),NFLX
+Total Cash From Financing,"(1,150)",(686),(675),(671),NFLX
+Foreign Exchange Effects,(87),(11),(157),(337),NFLX
+Net Change in Cash,"(2,184)",(21),(211),85,NFLX
+NetCash-BeginBal/RsvdforFutUse,"8,239","6,055","6,055","6,055",NFLX
+NetCash-EndBal/RsrvforFutUse,"6,055","6,035","5,844","6,140",NFLX
+"Depreciation, Supplemental",208,75,158,243,NFLX

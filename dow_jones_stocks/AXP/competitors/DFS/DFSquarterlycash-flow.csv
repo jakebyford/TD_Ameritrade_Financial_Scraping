@@ -1,0 +1,34 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"5,449","1,242","2,353","3,359",DFS
+Depreciation/Depletion,531,139,279,424,DFS
+Deferred Taxes,327,(10),(140),(314),DFS
+Non-Cash Items,(38),(56),(114),(188),DFS
+Loan Loss Provision,218,154,703,"1,476",DFS
+Other Assets,(496),(127),(262),(350),DFS
+Changes in Working Capital,(250),419,968,"1,684",DFS
+Total Cash from Operations,"6,019","1,734","3,346","4,965",DFS
+Capital Expenditures,(194),(51),(99),(178),DFS
+Sale/Maturity of Investment,"5,015",852,"1,398","2,028",DFS
+Purchase of Investments,(207),(37),(142),"(2,176)",DFS
+Loans,"(4,574)",(103),"(6,290)","(12,297)",DFS
+"OtherInvestCashFlowItms,Tot",234,712,"(5,034)","(12,445)",DFS
+Total Cash from Investing,40,661,"(5,133)","(12,623)",DFS
+Financing Cash Flow Items,"(4,533)",82,"4,007","10,482",DFS
+Cash Divids Paid - Common,(569),(129),(312),(478),DFS
+Cash Divs Paid - Preferred,(67),(31),(31),(46),DFS
+Total Cash Dividends Paid,(636),(160),(343),(524),DFS
+Sale/Issuance of Common,9,2,5,7,DFS
+Repurch/Retirement Common,"(2,260)",(944),"(1,545)","(1,757)",DFS
+"Common Stock, Net","(2,251)",(942),"(1,540)","(1,750)",DFS
+"Preferred Stock, Net",0,--,--,--,DFS
+"Iss (Retirmnt) of Stock,Net","(2,251)",(942),"(1,540)","(1,750)",DFS
+"Short Term Debt, Net","1,750","(1,750)",50,"(1,750)",DFS
+Long Term Debt Issued,"1,727","1,242","2,635","4,626",DFS
+Long Term Debt Reduction,"(4,373)","(2,556)","(2,883)","(2,888)",DFS
+"Long Term Debt, Net","(2,646)","(1,314)",(248),"1,738",DFS
+"Iss (Retirmnt) of Debt, Net",(896),"(3,064)",(198),(12),DFS
+Total Cash From Financing,"(8,316)","(4,084)","1,926","8,196",DFS
+Net Change in Cash,"(2,257)","(1,689)",139,538,DFS
+NetCash-BeginBal/RsvdforFutUse,"13,589","11,332","11,332","11,332",DFS
+NetCash-EndBal/RsrvforFutUse,"11,332","9,643","11,471","11,870",DFS
+"Depreciation, Supplemental",531,139,279,424,DFS

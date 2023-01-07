@@ -1,0 +1,35 @@
+items,Q4 2022,Q1 2023,Q2 2023,Q3 2023,ticker
+Net Income,(538),(110),(441),(509),RAD
+Depreciation/Depletion,296,70,139,208,RAD
+Deferred Taxes,(7),--,6,6,RAD
+Discontinued Operations,0,--,--,--,RAD
+Unusual Items,423,37,265,285,RAD
+Other Non-Cash Items,36,7,17,41,RAD
+Non-Cash Items,460,44,282,326,RAD
+"Cash Taxes Pd, Supplemental",6,13,(10),--,RAD
+"Cash Interest Pd, Suppl",181,11,95,--,RAD
+Accounts Receivable,54,(104),(212),(150),RAD
+Inventories,(97),(16),(77),(48),RAD
+Other Assets,34,1,(11),(9),RAD
+Accounts Payable,139,(138),(43),(99),RAD
+Accrued Expenses,(29),(15),(32),(55),RAD
+Changes in Working Capital,169,(257),(436),(350),RAD
+Total Cash from Operations,379,(252),(451),(319),RAD
+Purchase of Fixed Assets,(194),(73),(122),(173),RAD
+Purchase/Acq of Intangibles,(27),(12),(15),(25),RAD
+Capital Expenditures,(221),(85),(138),(198),RAD
+Acquisition of Business,0,--,--,--,RAD
+Sale of Fixed Assets,19,31,41,51,RAD
+Other Investing Cash Flow,68,--,46,56,RAD
+"OtherInvestCashFlowItms,Tot",87,31,87,107,RAD
+Total Cash from Investing,(134),(55),(51),(91),RAD
+Financing Cash Flow Items,(30),33,(16),(15),RAD
+"Iss (Retirmnt) of Stock,Net",0,--,--,--,RAD
+Long Term Debt Issued,350,--,--,--,RAD
+Long Term Debt Reduction,(545),(1),(152),(153),RAD
+"Iss (Retirmnt) of Debt, Net",(336),290,525,488,RAD
+Total Cash From Financing,(366),323,509,473,RAD
+Net Change in Cash,(121),16,7,63,RAD
+NetCash-BeginBal/RsvdforFutUse,161,40,40,40,RAD
+NetCash-EndBal/RsrvforFutUse,40,56,47,103,RAD
+"Depreciation, Supplemental",296,70,139,208,RAD

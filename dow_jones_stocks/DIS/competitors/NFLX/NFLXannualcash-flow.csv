@@ -1,0 +1,35 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,559,"1,211","1,867","2,761","5,116",NFLX
+Depreciation/Depletion,72,83,104,116,208,NFLX
+Amortization,"6,258","7,573","9,216","10,807","12,230",NFLX
+Deferred Taxes,(209),(86),(94),70,200,NFLX
+Non-Cash Items,"(8,526)","(11,756)","(14,023)","(11,295)","(17,120)",NFLX
+"Cash Taxes Pd, Supplemental",114,131,401,292,509,NFLX
+"Cash Interest Pd, Suppl",213,376,599,763,763,NFLX
+Other Assets,(234),(200),(252),(188),(370),NFLX
+Accounts Payable,75,199,96,(42),145,NFLX
+Accrued Expenses,114,150,158,198,180,NFLX
+Changes in Working Capital,59,294,43,(32),(242),NFLX
+Total Cash from Operations,"(1,786)","(2,680)","(2,887)","2,427",393,NFLX
+Purchase of Fixed Assets,(173),(174),(253),(498),(525),NFLX
+Purchase/Acq of Intangibles,(54),(39),--,--,--,NFLX
+Capital Expenditures,(227),(213),(253),(498),(525),NFLX
+Acquisition of Business,--,--,--,--,(788),NFLX
+Sale/Maturity of Investment,343,0,0,--,--,NFLX
+Purchase of Investments,(75),0,0,--,--,NFLX
+Other Investing Cash Flow,(7),(127),(134),(7),(27),NFLX
+"OtherInvestCashFlowItms,Tot",261,(127),(134),(7),(815),NFLX
+Total Cash from Investing,34,(339),(387),(505),"(1,340)",NFLX
+Financing Cash Flow Items,(32),(38),(36),(8),(224),NFLX
+Sale/Issuance of Common,88,125,72,235,174,NFLX
+Repurch/Retirement Common,--,--,--,--,(600),NFLX
+"Iss (Retirmnt) of Stock,Net",88,125,72,235,(426),NFLX
+Long Term Debt Issued,"3,021","3,962","4,469","1,009",--,NFLX
+Long Term Debt Reduction,--,--,--,--,(500),NFLX
+"Iss (Retirmnt) of Debt, Net","3,021","3,962","4,469","1,009",(500),NFLX
+Total Cash From Financing,"3,077","4,049","4,506","1,237","(1,150)",NFLX
+Foreign Exchange Effects,30,(40),0,36,(87),NFLX
+Net Change in Cash,"1,355",989,"1,232","3,195","(2,184)",NFLX
+NetCash-BeginBal/RsvdforFutUse,"1,468","2,823","3,812","5,044","8,239",NFLX
+NetCash-EndBal/RsrvforFutUse,"2,823","3,812","5,044","8,239","6,055",NFLX
+"Depreciation, Supplemental",72,83,104,116,208,NFLX

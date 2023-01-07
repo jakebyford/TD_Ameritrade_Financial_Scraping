@@ -1,0 +1,66 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"8,813","7,637","9,485","7,752","8,052",BA
+Short Term Investments,"1,179",927,545,"17,838","8,192",BA
+Cash and Short Term Invs,"9,992","8,564","10,030","25,590","16,244",BA
+"Trade Accts Recvble, Gross","2,956","3,936","3,339","2,399","3,031",BA
+Prov. for Doubtful Accts,(62),(57),(73),(444),(390),BA
+"Trade Accts Recvble, Net","11,088","13,904","12,309","9,950","11,261",BA
+Notes Recvble - Short Term,309,460,162,101,117,BA
+"Total Receivables, Net","11,397","14,364","12,471","10,051","11,378",BA
+Invent. - Work In Progress,"1,854","2,129","1,187",823,872,BA
+Invent. - Raw Materials,"6,673","7,685","9,419","10,739","9,845",BA
+Inventories - Other,"52,861","52,753","66,016","70,153","68,106",BA
+Total Inventory,"61,388","62,567","76,622","81,715","78,823",BA
+"Other Curr. Assets, Total","2,417","2,335","3,106","4,286","2,221",BA
+Total Current Assets,"85,194","87,830","102,229","121,642","108,666",BA
+Buildings,"14,125","14,109","14,288","14,415","14,152",BA
+Land/Improvements,530,546,527,512,377,BA
+Machinery/Equipment,"14,577","15,221","15,723","16,060","15,692",BA
+Construction in Progress,"1,081","1,337","1,306","1,340","1,235",BA
+Other Prop./Plant/Equip.,--,--,"1,182","1,252","1,437",BA
+Prop./Plant/Equip. - Gross,"30,313","31,213","33,026","33,579","32,893",BA
+Accumulated Depreciation,"(17,641)","(18,568)","(19,342)","(20,507)","(20,538)",BA
+Prop./Plant/Equip. - Net,"12,672","12,645","13,684","13,072","12,355",BA
+"Goodwill, Net","5,559","7,840","8,060","8,081","8,068",BA
+Intangibles - Gross,"4,876","6,002","6,238","6,066","5,793",BA
+Accum. Intangible Amort.,"(2,303)","(2,573)","(2,900)","(3,952)","(4,206)",BA
+Intangibles - Net,"2,573","3,429","3,338","2,114","1,587",BA
+LT Invt. - Affiliate Comp.,"1,214","1,048","1,031",936,930,BA
+LT Investments - Other,46,39,61,80,45,BA
+Long Term Investments,"1,260","1,087","1,092","1,016",975,BA
+Note Rcvble - Long Term,"3,112","2,662","2,380","1,936","1,695",BA
+Other Long Term Assets,"1,671","1,582","2,159","4,189","5,129",BA
+Total Assets,"112,362","117,359","133,625","152,136","138,552",BA
+Accounts Payable,"12,202","12,916","15,553","12,928","9,261",BA
+Accrued Expenses,"11,671","13,051","20,921","22,128","18,450",BA
+Notes Payable/ST Debt,600,"1,895","6,109",0,0,BA
+Curr. Port. LT Dbt/Cap Ls.,735,"1,295","1,231","1,693","1,296",BA
+Dividends Payable,"1,005","1,160","1,159",--,--,BA
+Customer Advances,"48,042","50,676","51,551","50,488","52,980",BA
+Income Taxes Payable,380,485,670,43,5,BA
+Other Current Liabilities,13,112,118,--,--,BA
+"Other Curr. Lblts, Total","49,440","52,433","53,498","50,531","52,985",BA
+Total Current Liabilities,"74,648","81,590","97,312","87,280","81,992",BA
+Long Term Debt,"9,782","10,551","19,795","61,662","56,687",BA
+Capital Lease Obligations,--,106,167,228,119,BA
+Total Long Term Debt,"9,782","10,657","19,962","61,890","56,806",BA
+Total Debt,"11,117","13,847","27,302","63,583","58,102",BA
+Deferred Income Tax,"2,188","1,736",413,"1,010",218,BA
+Minority Interest,57,71,317,241,153,BA
+Pension Benefits - Underfunded,"22,016","19,907","20,816","18,545","12,632",BA
+Other LT Liabilities,"2,015","3,059","3,422","1,486","1,750",BA
+"Other Liabilities, Total","24,031","22,966","24,238","20,031","14,382",BA
+Total Liabilities,"110,706","117,020","142,242","170,452","153,551",BA
+Common Stock,"5,061","5,061","5,061","5,061","5,061",BA
+Additional Paid-In Capital,"6,804","6,768","6,745","7,787","9,052",BA
+Ret. Earn.(Accum. Deficit),"49,618","55,941","50,644","38,610","34,408",BA
+Treasury Stock - Common,"(43,454)","(52,348)","(54,914)","(52,641)","(51,861)",BA
+Unrealized Gain (Loss),(2),0,1,1,1,BA
+Cum. Trans. Adjustment,(15),(101),(128),(30),(105),BA
+Min. Pension Lblty Adj.,"(16,410)","(14,920)","(15,942)","(17,061)","(11,561)",BA
+Other Comprehensive Income,54,(62),(84),(43),6,BA
+"Other Equity, Total","(16,371)","(15,083)","(16,154)","(17,134)","(11,660)",BA
+Total Equity,"1,656",339,"(8,617)","(18,316)","(14,999)",BA
+Total Liabilities & Shareholders’ Equity,"112,362","117,359","133,625","152,136","138,552",BA
+Ttl Comm. Shares Outs.,591,568,563,582,589,BA
+Trsy. Shrs-Comm. Primary Iss.,421,445,449,430,423,BA

@@ -1,0 +1,37 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"3,351",314,(229),(105),PGR
+Depreciation/Depletion,280,71,150,228,PGR
+Amortization,58,15,20,26,PGR
+Unusual Items,(4),3,227,230,PGR
+Other Non-Cash Items,231,44,73,71,PGR
+Non-Cash Items,227,48,300,301,PGR
+"Cash Taxes Pd, Supplemental",842,0,363,191,PGR
+"Cash Interest Pd, Suppl",224,65,103,596,PGR
+Prepaid Expenses,(75),3,(7),90,PGR
+Payable/Accrued,400,545,437,547,PGR
+Changes in Working Capital,"3,846","2,055","3,652","5,470",PGR
+Total Cash from Operations,"7,762","2,502","3,892","5,919",PGR
+Capital Expenditures,(244),(73),(137),(245),PGR
+Acquisition of Business,(313),--,0,--,PGR
+Sale of Fixed Assets,66,7,12,16,PGR
+Sale/Maturity of Investment,"26,983","7,166","13,177","15,402",PGR
+"Investment, Net","4,356",413,"(3,665)","(3,267)",PGR
+Purchase of Investments,"(34,016)","(11,528)","(14,423)","(18,799)",PGR
+Other Investing Cash Flow,48,213,(143),(69),PGR
+"OtherInvestCashFlowItms,Tot","(2,876)","(3,730)","(5,043)","(6,716)",PGR
+Total Cash from Investing,"(3,120)","(3,803)","(5,180)","(6,961)",PGR
+Financing Cash Flow Items,(20),--,0,--,PGR
+Cash Divids Paid - Common,"(3,747)",(59),(117),(176),PGR
+Cash Divs Paid - Preferred,(27),(13),(13),(27),PGR
+Total Cash Dividends Paid,"(3,773)",(72),(130),(202),PGR
+"Common Stock, Net",(223),(29),(30),(79),PGR
+Options Exercised,0,--,--,--,PGR
+"Iss (Retirmnt) of Stock,Net",(223),(29),(30),(79),PGR
+Long Term Debt Issued,0,"1,486","1,486","1,486",PGR
+Long Term Debt Reduction,(500),--,--,--,PGR
+"Iss (Retirmnt) of Debt, Net",(500),"1,486","1,486","1,486",PGR
+Total Cash From Financing,"(4,516)","1,385","1,326","1,205",PGR
+Net Change in Cash,126,85,38,163,PGR
+NetCash-BeginBal/RsvdforFutUse,77,202,202,202,PGR
+NetCash-EndBal/RsrvforFutUse,202,287,241,365,PGR
+"Depreciation, Supplemental",280,71,150,228,PGR

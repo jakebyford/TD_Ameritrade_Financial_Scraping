@@ -1,0 +1,49 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Sales,"127,590","158,767","140,156","94,471","155,606",CVX
+Excise Taxes Receipts,"7,189",0,--,--,--,CVX
+Total Revenue,"134,779","158,767","140,156","94,471","155,606",CVX
+"Cost of Revenue, Total","75,756","94,545","80,096","50,488","89,372",CVX
+"Sell/Gen/AdminExpenses,Tot","16,779","8,705","8,279","8,543","10,854",CVX
+Research & Development,864,"1,210",770,"1,537",549,CVX
+Depreciation/Amortization,"19,349","19,419","29,218","19,508","17,925",CVX
+Restructuring Charge,--,--,--,859,--,CVX
+Other Unusual Expnse (In),--,--,"(1,000)",--,--,CVX
+Unusual Expense (Income),--,--,"(1,000)",859,--,CVX
+"Other Operat Expse, Total","16,825","19,437","19,700","18,940","19,524",CVX
+Total Operating Expense,"129,573","143,316","137,063","99,875","138,224",CVX
+Total Operating Income,"5,206","15,451","3,093","(5,404)","17,382",CVX
+"Inter Expse, Non-Operating",(902),(921),(817),(735),(775),CVX
+"Inter Capital, Non-Operat",595,173,19,38,63,CVX
+"Inter Expse,Net Non-Operat",(307),(748),(798),(697),(712),CVX
+"Inter/Invest Inc, Non-Oper","4,322","6,432","3,658",(472),"5,657",CVX
+OtherNon-OperatInc (Expnse),--,(560),(417),(880),(688),CVX
+"Other, Net",--,(560),(417),(880),(688),CVX
+Income Before Tax,"9,221","20,575","5,536","(7,453)","21,639",CVX
+Income Tax - Total,"1,972","5,741","2,688","(1,892)","5,950",CVX
+Income After Tax,"7,249","14,834","2,848","(5,561)","15,689",CVX
+Minority Interest,(74),(36),79,18,(64),CVX
+Net Inc Before Extra Items,"7,175","14,798","2,927","(5,543)","15,625",CVX
+Total Extraordinary Items,"2,020",26,(3),--,--,CVX
+Total Net Income,"9,195","14,824","2,924","(5,543)","15,625",CVX
+Income Available to Common Excl. Extra. Items,"7,175","14,798","2,927","(5,543)","15,625",CVX
+Income Available to Common Incl. Extra. Items,"9,195","14,824","2,924","(5,543)","15,625",CVX
+Basic/Primary Weighted Average Shares,"1,883","1,898","1,882","1,870","1,916",CVX
+Basic/Primary EPS Excl. Extra. Items,3.81,7.80,1.56,(2.96),8.16,CVX
+Basic/Primary EPS Incl. Extra. Items,4.88,7.81,1.55,(2.96),8.16,CVX
+Diluted Weighted Average Shares,"1,898","1,914","1,895","1,870","1,920",CVX
+Diluted EPS Excl. Extra. Items,3.78,7.73,1.54,(2.96),8.14,CVX
+Diluted EPS Incl. Extra. Items,4.84,7.75,1.54,(2.96),8.14,CVX
+Div/Share-ComStockPrimIssue,4.32,4.48,4.76,5.16,5.31,CVX
+Gross Divid - Common Stock,"8,132","8,502","8,959","9,651","10,179",CVX
+Pro Forma Net Income,--,--,--,--,--,CVX
+"Interest Expense, Suppl",307,748,798,697,712,CVX
+"Interest Capitalized, Suppl",(595),(173),(19),(38),(63),CVX
+"Depreciat/Amort, Suppl","19,349","19,419","29,218","19,508","17,925",CVX
+Total Special Items,--,--,"(1,000)","4,929",224,CVX
+Normalzd Income Before Tax,"9,221","20,575","4,536","(2,524)","21,863",CVX
+Efct/SpecItemsIncTxs (STEC),--,--,(486),"1,725",62,CVX
+IncTxsExcl ImpctofSpec Itms,"1,972","5,741","2,202",(167),"6,012",CVX
+Normalized Income After Tax,"7,249","14,834","2,334","(2,357)","15,851",CVX
+Normalzd Inc Avail to Common,"7,175","14,798","2,413","(2,339)","15,787",CVX
+Basic Normalized EPS,3.81,7.80,1.28,(1.25),8.24,CVX
+Diluted Normalized EPS,3.78,7.73,1.27,(1.25),8.22,CVX

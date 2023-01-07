@@ -1,0 +1,50 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"13,094","15,451","17,772","21,454","25,371",PYPL
+"Cost of Revenue, Total","6,794","8,337","9,785","11,453","13,450",PYPL
+Selling/Gen/Admin Expense,"1,495","1,859","2,281","2,645","3,176",PYPL
+Labor & Related Expense,350,421,432,632,643,PYPL
+Advertising Expense,438,484,399,654,740,PYPL
+"Sell/Gen/AdminExpenses,Tot","2,283","2,764","3,112","3,931","4,559",PYPL
+Research & Development,953,"1,071","2,085","2,642","3,038",PYPL
+Depreciation,649,627,--,--,--,PYPL
+Amortiz of Intangibles,126,149,--,--,--,PYPL
+Depreciation/Amortization,775,776,--,--,--,PYPL
+Restructuring Charge,132,309,71,109,36,PYPL
+Impair-Assets Held for Use,30,--,--,30,26,PYPL
+Unusual Expense (Income),162,309,71,139,62,PYPL
+Total Operating Expense,"10,967","13,257","15,053","18,165","21,109",PYPL
+Total Operating Income,"2,127","2,194","2,719","3,289","4,262",PYPL
+"Inter Expse,Net Non-Operat",(7),(77),(115),(209),(232),PYPL
+"Inter Income, Non-Operating",85,168,197,88,57,PYPL
+"Invest Income, Non-Operat",(54),38,232,"1,914",46,PYPL
+"Inter/Invest Inc, Non-Oper",31,206,429,"2,002",103,PYPL
+OtherNon-OperatInc (Expnse),49,53,(35),(17),(34),PYPL
+"Other, Net",49,53,(35),(17),(34),PYPL
+Income Before Tax,"2,200","2,376","2,998","5,065","4,099",PYPL
+Income Tax - Total,225,299,539,863,(70),PYPL
+Income After Tax,"1,975","2,077","2,459","4,202","4,169",PYPL
+Net Inc Before Extra Items,"1,975","2,077","2,459","4,202","4,169",PYPL
+Total Extraordinary Items,(180),(20),0,--,--,PYPL
+Total Net Income,"1,795","2,057","2,459","4,202","4,169",PYPL
+Income Available to Common Excl. Extra. Items,"1,975","2,077","2,459","4,202","4,169",PYPL
+Income Available to Common Incl. Extra. Items,"1,795","2,057","2,459","4,202","4,169",PYPL
+Basic/Primary Weighted Average Shares,"1,203","1,184","1,174","1,173","1,174",PYPL
+Basic/Primary EPS Excl. Extra. Items,1.64,1.75,2.09,3.58,3.55,PYPL
+Basic/Primary EPS Incl. Extra. Items,1.49,1.74,2.09,3.58,3.55,PYPL
+Dilution Adjustment,--,--,0,--,--,PYPL
+Diluted Weighted Average Shares,"1,221","1,203","1,188","1,187","1,186",PYPL
+Diluted EPS Excl. Extra. Items,1.62,1.73,2.07,3.54,3.52,PYPL
+Diluted EPS Incl. Extra. Items,1.47,1.71,2.07,3.54,3.52,PYPL
+Div/Share-ComStockPrimIssue,0.00,--,--,--,--,PYPL
+Gross Divid - Common Stock,0,0,0,0,0,PYPL
+Pro Forma Net Income,--,--,--,--,--,PYPL
+"Interest Expense, Suppl",7,77,115,209,232,PYPL
+"Depreciat/Amort, Suppl",649,627,701,738,822,PYPL
+Total Special Items,162,398,149,139,62,PYPL
+Normalzd Income Before Tax,"2,362","2,774","3,147","5,204","4,161",PYPL
+Efct/SpecItemsIncTxs (STEC),17,50,27,24,22,PYPL
+IncTxsExcl ImpctofSpec Itms,242,349,566,887,(48),PYPL
+Normalized Income After Tax,"2,120","2,425","2,581","4,317","4,209",PYPL
+Normalzd Inc Avail to Common,"2,120","2,425","2,581","4,317","4,209",PYPL
+Basic Normalized EPS,1.76,2.05,2.20,3.68,3.59,PYPL
+Diluted Normalized EPS,1.74,2.02,2.17,3.64,3.55,PYPL

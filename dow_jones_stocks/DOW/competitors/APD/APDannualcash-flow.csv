@@ -1,0 +1,39 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"1,533","1,809","1,931","2,115","2,267",APD
+Depreciation/Depletion,971,"1,083","1,185","1,321","1,338",APD
+Deferred Taxes,(55),58,165,94,32,APD
+Discontinued Operations,(55),0,14,(64),47,APD
+Extraordinary Item,241,49,0,0,--,APD
+Unusual Items,(7),5,(46),(14),50,APD
+Equity in Net Earnings/Loss,(60),(76),(162),(138),(215),APD
+Other Non-Cash Items,233,67,217,11,(173),APD
+Non-Cash Items,352,45,24,(205),(291),APD
+"Cash Taxes Pd, Supplemental",372,324,380,384,369,APD
+"Cash Interest Pd, Suppl",123,156,67,150,129,APD
+Accounts Receivable,86,11,128,(55),(477),APD
+Inventories,(64),(3),(5),(47),(94),APD
+Payable/Accrued,(278),(42),(32),188,533,APD
+Changes in Working Capital,(265),(25),(40),17,(116),APD
+Total Cash from Operations,"2,534","2,970","3,265","3,342","3,230",APD
+Capital Expenditures,"(1,568)","(1,990)","(2,509)","(2,464)","(2,927)",APD
+Acquisition of Business,(345),(123),(183),(11),(65),APD
+Sale of Fixed Assets,49,11,80,38,46,APD
+Sale/Maturity of Investment,748,191,"1,938","1,875","2,377",APD
+Purchase of Investments,(530),(188),"(2,890)","(2,177)","(3,296)",APD
+Other Investing Cash Flow,24,(14),4,6,7,APD
+"OtherInvestCashFlowItms,Tot",(55),(124),"(1,051)",(269),(931),APD
+Total Cash from Investing,"(1,623)","(2,113)","(3,560)","(2,733)","(3,857)",APD
+Financing Cash Flow Items,(42),(20),(80),108,(21),APD
+Total Cash Dividends Paid,(898),(994),"(1,104)","(1,257)","(1,383)",APD
+"Iss (Retirmnt) of Stock,Net",76,68,34,11,19,APD
+"Short Term Debt, Net",(79),4,(55),1,18,APD
+Long Term Debt Issued,1,0,"4,896",179,766,APD
+Long Term Debt Reduction,(419),(429),(407),(463),(400),APD
+"Long Term Debt, Net",(418),(429),"4,489",(284),366,APD
+"Iss (Retirmnt) of Debt, Net",(497),(425),"4,434",(283),384,APD
+Total Cash From Financing,"(1,360)","(1,371)","3,285","(1,421)","(1,001)",APD
+Foreign Exchange Effects,(34),(29),15,28,(130),APD
+Net Change in Cash,(482),(543),"3,004",(784),"(1,758)",APD
+NetCash-BeginBal/RsvdforFutUse,"3,274","2,791","2,249","5,253","4,469",APD
+NetCash-EndBal/RsrvforFutUse,"2,791","2,249","5,253","4,469","2,711",APD
+"Depreciation, Supplemental",971,"1,083","1,185","1,321","1,338",APD

@@ -1,0 +1,33 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,190,93,193,312,COKE
+Depreciation/Depletion,157,37,74,111,COKE
+Amortization,23,6,12,18,COKE
+Deferred Taxes,(28),33,11,(8),COKE
+Unusual Items,9,0,1,3,COKE
+Other Non-Cash Items,148,(5),(1),22,COKE
+Non-Cash Items,157,(5),0,25,COKE
+Accounts Receivable,(56),(1),(82),(110),COKE
+Inventories,(77),27,(1),(11),COKE
+Prepaid Expenses,(4),(16),(9),(14),COKE
+Other Assets,16,8,22,26,COKE
+Accounts Payable,123,(10),73,63,COKE
+Accrued Expenses,47,(32),(38),12,COKE
+Changes in Working Capital,23,(34),(47),(63),COKE
+Total Cash from Operations,522,131,244,394,COKE
+Purchase of Fixed Assets,(156),(104),(145),(184),COKE
+Purchase/Acq of Intangibles,(9),(30),(30),(30),COKE
+Capital Expenditures,(165),(135),(175),(214),COKE
+Sale of Fixed Assets,5,2,5,5,COKE
+Purchase of Investments,(3),0,(2),(2),COKE
+"OtherInvestCashFlowItms,Tot",3,2,4,4,COKE
+Total Cash from Investing,(162),(133),(172),(210),COKE
+Financing Cash Flow Items,(41),(10),(19),(29),COKE
+Total Cash Dividends Paid,(9),(2),(5),(7),COKE
+Long Term Debt Issued,125,--,--,0,COKE
+Long Term Debt Reduction,(347),(1),(2),(127),COKE
+"Iss (Retirmnt) of Debt, Net",(222),(1),(2),(127),COKE
+Total Cash From Financing,(272),(14),(25),(163),COKE
+Net Change in Cash,88,(15),46,21,COKE
+NetCash-BeginBal/RsvdforFutUse,55,142,142,142,COKE
+NetCash-EndBal/RsrvforFutUse,142,127,189,163,COKE
+"Depreciation, Supplemental",157,37,74,111,COKE

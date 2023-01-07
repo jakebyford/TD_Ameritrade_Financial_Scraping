@@ -1,0 +1,33 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"1,566",646,(378),"(1,061)",ALL
+Depreciation/Depletion,"1,086",236,452,646,ALL
+Discontinued Operations,"4,031",0,0,0,ALL
+Unusual Items,"(1,283)",267,"1,000","1,167",ALL
+Other Non-Cash Items,(196),(239),12,91,ALL
+Non-Cash Items,"2,552",28,"1,012","1,258",ALL
+Changes in Working Capital,(88),(478),"1,019","3,308",ALL
+Total Cash from Operations,"5,116",432,"2,105","4,151",ALL
+Capital Expenditures,(345),(130),(228),(352),ALL
+Acquisition of Business,"(3,593)",--,--,--,ALL
+Sale of Business,"2,058",0,0,0,ALL
+Sale/Maturity of Investment,"41,413","18,277","29,478","36,834",ALL
+"Investment, Net","4,017",114,398,"1,094",ALL
+Purchase of Investments,"(43,679)","(17,246)","(29,757)","(38,845)",ALL
+Other Investing Cash Flow,639,(34),(29),(12),ALL
+"OtherInvestCashFlowItms,Tot",855,"1,111",90,(929),ALL
+Total Cash from Investing,510,981,(138),"(1,281)",ALL
+Financing Cash Flow Items,(349),(5),(15),19,ALL
+Cash Divids Paid - Common,(885),(230),(466),(698),ALL
+Cash Divs Paid - Preferred,(114),(26),(53),(79),ALL
+Total Cash Dividends Paid,(999),(256),(519),(777),ALL
+"Common Stock, Net","(3,006)",(785),"(1,430)","(2,089)",ALL
+"Preferred Stock, Net",(450),0,0,0,ALL
+"Iss (Retirmnt) of Stock,Net","(3,456)",(785),"(1,430)","(2,089)",ALL
+Long Term Debt Issued,0,--,--,--,ALL
+Long Term Debt Reduction,(436),0,0,0,ALL
+"Iss (Retirmnt) of Debt, Net",(436),0,0,0,ALL
+Total Cash From Financing,"(5,240)","(1,046)","(1,964)","(2,847)",ALL
+Net Change in Cash,386,367,3,23,ALL
+NetCash-BeginBal/RsvdforFutUse,377,763,763,763,ALL
+NetCash-EndBal/RsrvforFutUse,763,"1,130",766,786,ALL
+"Depreciation, Supplemental","1,086",236,452,646,ALL

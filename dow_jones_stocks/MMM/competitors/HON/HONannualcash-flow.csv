@@ -1,0 +1,44 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"1,698","6,828","6,230","4,865","5,610",HON
+Depreciation/Depletion,717,721,673,644,674,HON
+Amortization,398,395,415,358,549,HON
+Deferred Taxes,"2,294",(586),179,(175),178,HON
+Unusual Items,400,439,171,251,(225),HON
+Other Non-Cash Items,"1,022","(1,649)",(815),"(1,098)","(1,036)",HON
+Non-Cash Items,"1,422","(1,210)",(644),(847),"(1,261)",HON
+"Cash Taxes Pd, Supplemental","1,751","1,566","1,564","1,173","1,202",HON
+"Cash Interest Pd, Suppl",306,353,344,329,339,HON
+Accounts Receivable,(682),(236),11,669,(8),HON
+Inventories,(259),(503),(100),(67),(685),HON
+Other Assets,(568),218,(430),191,(276),HON
+Accounts Payable,924,733,118,15,744,HON
+Accrued Expenses,22,74,445,555,513,HON
+Changes in Working Capital,(563),286,44,"1,363",288,HON
+Total Cash from Operations,"5,966","6,434","6,897","6,208","6,038",HON
+Capital Expenditures,"(1,031)",(828),(839),(906),(895),HON
+Acquisition of Business,(82),(535),(50),(261),"(1,326)",HON
+Sale of Business,0,0,--,--,203,HON
+Sale of Fixed Assets,86,15,43,57,27,HON
+Sale/Maturity of Investment,"4,414","6,032","4,464","3,508","2,525",HON
+Purchase of Investments,"(6,743)","(4,059)","(4,253)","(3,236)","(2,373)",HON
+Other Investing Cash Flow,(218),402,102,(149),778,HON
+"OtherInvestCashFlowItms,Tot","(2,543)","1,855",306,(81),(166),HON
+Total Cash from Investing,"(3,574)","1,027",(533),(987),"(1,061)",HON
+Financing Cash Flow Items,(143),"2,480",(79),(59),(81),HON
+Total Cash Dividends Paid,"(2,119)","(2,272)","(2,442)","(2,592)","(2,626)",HON
+Sale/Issuance of Common,520,267,498,393,229,HON
+Repurch/Retirement Common,"(2,889)","(4,000)","(4,400)","(3,714)","(3,380)",HON
+"Iss (Retirmnt) of Stock,Net","(2,369)","(3,733)","(3,902)","(3,321)","(3,151)",HON
+Short Term Debt Issued,"13,701","23,891","14,199","10,474","5,194",HON
+Short Term Debt Reduction,"(13,532)","(24,095)","(14,199)","(10,400)","(5,190)",HON
+"Short Term Debt, Net",169,(204),0,74,4,HON
+Long Term Debt Issued,"1,238",27,"2,726","10,125","2,517",HON
+Long Term Debt Reduction,(292),"(1,330)","(2,903)","(4,308)","(4,917)",HON
+"Long Term Debt, Net",946,"(1,303)",(177),"5,817","(2,400)",HON
+"Iss (Retirmnt) of Debt, Net","1,115","(1,507)",(177),"5,891","(2,396)",HON
+Total Cash From Financing,"(3,516)","(5,032)","(6,600)",(81),"(8,254)",HON
+Foreign Exchange Effects,340,(201),16,68,(39),HON
+Net Change in Cash,(784),"2,228",(220),"5,208","(3,316)",HON
+NetCash-BeginBal/RsvdforFutUse,"7,843","7,059","9,287","9,067","14,275",HON
+NetCash-EndBal/RsrvforFutUse,"7,059","9,287","9,067","14,275","10,959",HON
+"Depreciation, Supplemental",717,721,673,644,674,HON

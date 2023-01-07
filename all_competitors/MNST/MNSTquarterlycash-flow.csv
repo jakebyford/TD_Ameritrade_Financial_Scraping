@@ -1,0 +1,35 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"1,377",294,568,890,MNST
+Depreciation/Depletion,50,15,30,46,MNST
+Deferred Taxes,16,--,22,30,MNST
+Unusual Items,(1),0,0,0,MNST
+Other Non-Cash Items,75,18,36,54,MNST
+Non-Cash Items,74,18,36,54,MNST
+"Cash Taxes Pd, Supplemental",421,113,210,298,MNST
+"Cash Interest Pd, Suppl",0,0,0,0,MNST
+Accounts Receivable,(254),(134),(289),(202),MNST
+Inventories,(278),(209),(299),(297),MNST
+Prepaid Expenses,(40),(36),(57),(31),MNST
+Accounts Payable,114,18,85,53,MNST
+Accrued Expenses,111,50,62,80,MNST
+Changes in Working Capital,(362),(327),(525),(431),MNST
+Total Cash from Operations,"1,156",0,131,589,MNST
+Capital Expenditures,(44),(22),(99),(136),MNST
+Acquisition of Business,--,(330),(329),(329),MNST
+Sale of Fixed Assets,1,0,0,1,MNST
+Sale/Maturity of Investment,"1,489",505,"1,410","1,824",MNST
+Purchase of Investments,"(2,413)",(442),(964),"(1,394)",MNST
+"Intangible, Net",(14),(8),(10),(4),MNST
+Other Investing Cash Flow,(11),(6),(13),(19),MNST
+"OtherInvestCashFlowItms,Tot",(948),(282),94,78,MNST
+Total Cash from Investing,(992),(304),(6),(58),MNST
+Sale/Issuance of Common,46,5,23,35,MNST
+Repurch/Retirement Common,(14),(12),(296),(493),MNST
+"Iss (Retirmnt) of Stock,Net",32,(8),(274),(459),MNST
+"Iss (Retirmnt) of Debt, Net",3,3,5,(1),MNST
+Total Cash From Financing,35,(4),(269),(459),MNST
+Foreign Exchange Effects,(52),(3),(50),(96),MNST
+Net Change in Cash,146,(312),(194),(23),MNST
+NetCash-BeginBal/RsvdforFutUse,"1,180","1,326","1,326","1,326",MNST
+NetCash-EndBal/RsrvforFutUse,"1,326","1,015","1,132","1,303",MNST
+"Depreciation, Supplemental",50,15,30,46,MNST

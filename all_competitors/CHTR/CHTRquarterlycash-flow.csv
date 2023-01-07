@@ -1,0 +1,31 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"5,320","1,389","3,097","4,464",CHTR
+Depreciation/Depletion,"9,345","2,294","4,534","6,711",CHTR
+Deferred Taxes,826,38,115,165,CHTR
+Non-Cash Items,588,123,91,235,CHTR
+"Cash Taxes Pd, Supplemental",157,29,470,882,CHTR
+"Cash Interest Pd, Suppl","4,043",982,"2,150","3,251",CHTR
+Accounts Receivable,(35),49,(200),(262),CHTR
+Prepaid Expenses,(167),(185),(133),(96),CHTR
+Payable/Accrued,362,(61),(123),(79),CHTR
+Changes in Working Capital,160,(197),(456),(437),CHTR
+Total Cash from Operations,"16,239","3,647","7,381","11,138",CHTR
+Capital Expenditures,"(7,635)","(1,857)","(4,050)","(6,456)",CHTR
+"Investment, Net",(128),--,--,--,CHTR
+Other Investing Cash Flow,9,70,(32),110,CHTR
+"OtherInvestCashFlowItms,Tot",(119),70,(32),110,CHTR
+Total Cash from Investing,"(7,754)","(1,787)","(4,082)","(6,346)",CHTR
+Financing Cash Flow Items,"(2,328)",(457),"(1,086)","(1,542)",CHTR
+Sale/Issuance of Common,0,--,--,--,CHTR
+Repurch/Retirement Common,"(15,431)","(3,333)","(7,020)","(9,245)",CHTR
+"Common Stock, Net","(15,431)","(3,333)","(7,020)","(9,245)",CHTR
+Options Exercised,44,1,5,5,CHTR
+"Iss (Retirmnt) of Stock,Net","(15,387)","(3,332)","(7,015)","(9,240)",CHTR
+Long Term Debt Issued,"20,976","6,713","16,631","21,528",CHTR
+Long Term Debt Reduction,"(12,146)","(2,954)","(11,947)","(15,659)",CHTR
+"Iss (Retirmnt) of Debt, Net","8,830","3,759","4,684","5,869",CHTR
+Total Cash From Financing,"(8,885)",(30),"(3,417)","(4,913)",CHTR
+Net Change in Cash,(400),"1,830",(118),(121),CHTR
+NetCash-BeginBal/RsvdforFutUse,"1,001",601,601,601,CHTR
+NetCash-EndBal/RsrvforFutUse,601,"2,431",483,480,CHTR
+"Depreciation, Supplemental","9,345","2,294","4,534","6,711",CHTR

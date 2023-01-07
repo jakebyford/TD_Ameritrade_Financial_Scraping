@@ -1,0 +1,40 @@
+items,Q2 2022,Q3 2022,Q4 2022,Q1 2023,ticker
+Total Revenue,"1,317","1,387","1,551","1,563",PANW
+"Cost of Revenue, Total",405,441,492,462,PANW
+Selling/Gen/Admin Expense,66,66,84,70,PANW
+Labor & Related Expense,112,105,101,117,PANW
+Advertising Expense,449,468,495,528,PANW
+"Sell/Gen/AdminExpenses,Tot",627,638,679,715,PANW
+Research & Development,359,355,364,372,PANW
+Total Operating Expense,"1,391","1,434","1,535","1,548",PANW
+Total Operating Income,(74),(48),15,15,PANW
+"Inter Expse,Net Non-Operat",(7),(7),(7),(7),PANW
+"Inter Income, Non-Operating",--,--,--,29,PANW
+"Invest Income, Non-Operat",--,--,2,4,PANW
+"Inter/Invest Inc, Non-Oper",--,--,2,34,PANW
+OtherNon-OperatInc (Expnse),0,2,7,(8),PANW
+"Other, Net",0,2,7,(8),PANW
+Income Before Tax,(81),(53),17,34,PANW
+Income Tax - Total,13,21,14,14,PANW
+Income After Tax,(94),(73),3,20,PANW
+Net Inc Before Extra Items,(94),(73),3,20,PANW
+Total Net Income,(94),(73),3,20,PANW
+Income Available to Common Excl. Extra. Items,(94),(73),3,20,PANW
+Income Available to Common Incl. Extra. Items,(94),(73),3,20,PANW
+Basic/Primary Weighted Average Shares,295,297,298,300,PANW
+Basic/Primary EPS Excl. Extra. Items,(0.32),(0.25),0.01,0.07,PANW
+Basic/Primary EPS Incl. Extra. Items,(0.32),(0.25),0.01,0.07,PANW
+Diluted Weighted Average Shares,295,297,298,338,PANW
+Diluted EPS Excl. Extra. Items,(0.32),(0.25),0.01,0.06,PANW
+Diluted EPS Incl. Extra. Items,(0.32),(0.25),0.01,0.06,PANW
+Div/Share-ComStockPrimIssue,0.00,0.00,--,0.00,PANW
+Gross Divid - Common Stock,0,0,0,0,PANW
+Pro Forma Net Income,--,--,--,--,PANW
+"Interest Expense, Suppl",7,7,7,7,PANW
+"Depreciat/Amort, Suppl",38,40,41,42,PANW
+Normalzd Income Before Tax,(81),(53),17,34,PANW
+IncTxsExcl ImpctofSpec Itms,13,21,14,14,PANW
+Normalized Income After Tax,(94),(73),3,20,PANW
+Normalzd Inc Avail to Common,(94),(73),3,20,PANW
+Basic Normalized EPS,(0.32),(0.25),0.01,0.07,PANW
+Diluted Normalized EPS,(0.32),(0.25),0.01,0.06,PANW

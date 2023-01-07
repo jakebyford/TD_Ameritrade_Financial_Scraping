@@ -1,0 +1,44 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash,--,"2,573","3,104","3,332","4,104",NFLX
+Cash & Equivalents,"2,823","1,222","1,915","4,874","1,924",NFLX
+Short Term Investments,0,--,--,--,--,NFLX
+Cash and Short Term Invs,"2,823","3,794","5,018","8,206","6,028",NFLX
+"Total Receivables, Net","4,311","5,514",454,611,804,NFLX
+Prepaid Expenses,--,179,181,203,324,NFLX
+"Other Curr. Assets, Total",536,207,525,742,914,NFLX
+Total Current Assets,"7,670","9,694","6,179","9,762","8,070",NFLX
+Buildings,271,355,388,567,911,NFLX
+Land/Improvements,--,6,6,51,82,NFLX
+Machinery/Equipment,313,342,399,428,524,NFLX
+Construction in Progress,8,20,101,299,282,NFLX
+Other Prop./Plant/Equip.,49,64,"1,619","2,148","2,586",NFLX
+Prop./Plant/Equip. - Gross,641,787,"2,513","3,493","4,386",NFLX
+Accumulated Depreciation,(322),(369),(416),(495),(616),NFLX
+Prop./Plant/Equip. - Net,319,418,"2,097","2,998","3,770",NFLX
+Intangibles - Net,"10,371","14,951","24,505","25,384","30,920",NFLX
+Other Long Term Assets,652,911,"1,195",548,"1,677",NFLX
+Total Assets,"19,013","25,974","33,976","39,280","44,585",NFLX
+Accounts Payable,"4,533","5,245","5,088","5,086","5,130",NFLX
+Accrued Expenses,315,482,843,"1,102","1,449",NFLX
+Notes Payable/ST Debt,0,0,0,0,0,NFLX
+Curr. Port. LT Dbt/Cap Ls.,--,--,--,500,700,NFLX
+"Other Curr. Lblts, Total",619,761,925,"1,118","1,209",NFLX
+Total Current Liabilities,"5,466","6,487","6,856","7,806","8,489",NFLX
+Long Term Debt,"6,499","10,360","14,759","15,809","14,693",NFLX
+Capital Lease Obligations,30,--,--,--,--,NFLX
+Total Long Term Debt,"6,529","10,360","14,759","15,809","14,693",NFLX
+Total Debt,"6,529","10,360","14,759","16,309","15,393",NFLX
+"Other Liabilities, Total","3,436","3,888","4,779","4,600","5,553",NFLX
+Total Liabilities,"15,431","20,736","26,394","28,215","28,735",NFLX
+"Pref. Stock-Non Rdmbl, Net",--,0,0,0,0,NFLX
+Common Stock,"1,871","2,316","2,794","3,448","4,025",NFLX
+Ret. Earn.(Accum. Deficit),"1,731","2,942","4,812","7,573","12,689",NFLX
+Treasury Stock - Common,--,--,--,--,(824),NFLX
+Unrealized Gain (Loss),0,--,--,--,--,NFLX
+Cum. Trans. Adjustment,(21),--,--,--,--,NFLX
+Other Comprehensive Income,--,(20),(24),44,(40),NFLX
+"Other Equity, Total",(21),(20),(24),44,(40),NFLX
+Total Equity,"3,582","5,239","7,582","11,065","15,849",NFLX
+Total Liabilities & Shareholders’ Equity,"19,013","25,974","33,976","39,280","44,585",NFLX
+Ttl Comm. Shares Outs.,433,437,439,443,444,NFLX
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,2,NFLX

@@ -1,0 +1,38 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"1,890","1,547","1,636","1,640",YUM
+"Cost of Revenue, Total","1,017",795,840,826,YUM
+"Sell/Gen/AdminExpenses,Tot",371,253,254,261,YUM
+"Inter/Invest Inc, Operating",0,(4),(8),4,YUM
+Impair-Assets Held for Use,--,--,(1),1,YUM
+Other Unusual Expnse (In),(14),(4),(8),(3),YUM
+Unusual Expense (Income),(14),(4),(9),(2),YUM
+"Other Operat Expse, Total",14,(2),5,5,YUM
+Total Operating Expense,"1,388","1,038","1,082","1,094",YUM
+Total Operating Income,502,509,554,546,YUM
+"Inter Inc(Exp),Net Non-Oper",(128),(118),(148),(124),YUM
+"Other, Net",(1),0,(1),(2),YUM
+Income Before Tax,407,398,390,447,YUM
+Income Tax - Total,77,(1),166,116,YUM
+Income After Tax,330,399,224,331,YUM
+Net Inc Before Extra Items,330,399,224,331,YUM
+Total Net Income,330,399,224,331,YUM
+Income Available to Common Excl. Extra. Items,330,399,224,331,YUM
+Income Available to Common Incl. Extra. Items,330,399,224,331,YUM
+Basic/Primary Weighted Average Shares,294,289,286,285,YUM
+Basic/Primary EPS Excl. Extra. Items,1.12,1.38,0.78,1.16,YUM
+Basic/Primary EPS Incl. Extra. Items,1.12,1.38,0.78,1.16,YUM
+Diluted Weighted Average Shares,296,294,290,289,YUM
+Diluted EPS Excl. Extra. Items,1.11,1.36,0.77,1.15,YUM
+Diluted EPS Incl. Extra. Items,1.11,1.36,0.77,1.15,YUM
+Div/Share-ComStockPrimIssue,0.50,0.57,0.57,0.57,YUM
+Gross Divid - Common Stock,146,165,164,162,YUM
+Pro Forma Net Income,--,--,--,--,YUM
+"Depreciat/Amort, Suppl",47,37,34,33,YUM
+Total Special Items,(15),(10),(23),(16),YUM
+Normalzd Income Before Tax,392,388,367,431,YUM
+Efct/SpecItemsIncTxs (STEC),1,2,(2),(2),YUM
+IncTxsExcl ImpctofSpec Itms,78,1,164,114,YUM
+Normalized Income After Tax,314,387,203,317,YUM
+Normalzd Inc Avail to Common,314,387,203,317,YUM
+Basic Normalized EPS,1.07,1.34,0.71,1.11,YUM
+Diluted Normalized EPS,1.06,1.32,0.70,1.10,YUM

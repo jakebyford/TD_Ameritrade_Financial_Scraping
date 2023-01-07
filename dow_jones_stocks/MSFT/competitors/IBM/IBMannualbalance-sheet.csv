@@ -1,0 +1,78 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"11,972","11,379","8,172","13,188","6,650",IBM
+Short Term Investments,620,620,696,600,600,IBM
+Cash and Short Term Invs,"12,592","11,999","8,868","13,788","7,250",IBM
+"Trade Accts Recvble, Gross","9,225","7,741","7,098","6,050","6,972",IBM
+Prov. for Doubtful Accts,(297),(309),(299),(260),(218),IBM
+"Trade Accts Recvble, Net","8,928","7,432","8,294","6,166","7,184",IBM
+Notes Recvble - Short Term,"21,721","22,388","14,192",--,--,IBM
+Other Receivables,981,743,"1,733","11,204","8,223",IBM
+"Total Receivables, Net","31,630","30,563","24,219","17,370","15,407",IBM
+Invent. - Finished Goods,333,266,220,163,208,IBM
+Invent. - Work In Progress,"1,250","1,415","1,399","1,649","1,441",IBM
+Inventories - Other,--,1,--,--,--,IBM
+Total Inventory,"1,583","1,682","1,619","1,812","1,649",IBM
+Prepaid Expenses,"1,674","1,993","1,677","1,713","3,036",IBM
+Restricted Cash - Current,262,225,141,463,307,IBM
+Discont. Ops.-Curr. Assets,--,--,--,"3,001",793,IBM
+Other Current Assets,"1,994","2,684","1,896","1,018","1,097",IBM
+"Other Curr. Assets, Total","2,256","2,909","2,037","4,482","2,197",IBM
+Total Current Assets,"49,735","49,146","38,420","39,165","29,539",IBM
+Buildings,"10,073","9,640","9,364","6,407","6,049",IBM
+Land/Improvements,480,448,365,234,224,IBM
+Machinery/Equipment,"20,934","21,549","21,775","13,195","13,737",IBM
+Leases,844,824,523,265,75,IBM
+Other Prop./Plant/Equip.,--,(1),"4,996","3,566","3,222",IBM
+Prop./Plant/Equip. - Gross,"32,331","32,460","37,023","23,667","23,307",IBM
+Accumulated Depreciation,"(21,215)","(21,668)","(22,018)","(13,896)","(14,391)",IBM
+Prop./Plant/Equip. - Net,"11,117","10,792","15,006","9,771","8,917",IBM
+"Goodwill, Net","36,788","36,265","58,222","53,765","55,643",IBM
+Intangibles - Gross,"7,260","6,488","19,287","18,721","19,031",IBM
+Accum. Intangible Amort.,"(3,518)","(3,401)","(4,052)","(4,983)","(6,520)",IBM
+Intangibles - Net,"3,742","3,087","15,235","13,739","12,511",IBM
+LT Invt. - Affiliate Comp.,90,192,184,170,159,IBM
+LT Investments - Other,789,381,38,46,47,IBM
+Long Term Investments,879,573,222,216,206,IBM
+Note Rcvble - Long Term,"10,005","9,507","8,988","7,509","5,606",IBM
+Deferred Charges,"2,726","3,302","3,136","1,926","1,668",IBM
+Pension Bene. - Overfunded,"4,643","4,666","6,865","7,557","9,850",IBM
+Def. Inc. Tax - LT Asset,"4,862","5,216","5,182","8,404","7,370",IBM
+Disct. Ops. - LT Asset,--,--,--,"13,147",--,IBM
+Other Long Term Assets,859,828,910,772,691,IBM
+Total Assets,"125,356","123,382","152,186","155,971","132,001",IBM
+Accounts Payable,"6,451","6,558","4,896","4,033","3,955",IBM
+Accrued Expenses,"7,776","7,073","9,143","9,722","8,070",IBM
+Notes Payable/ST Debt,"1,772","3,156","1,275",130,22,IBM
+Curr. Port. LT Dbt/Cap Ls.,"5,215","7,051","7,522","6,986","6,765",IBM
+Customer Advances,"11,552","11,165","12,026","11,980","12,518",IBM
+Income Taxes Payable,"4,219","3,046","2,839","3,198","2,289",IBM
+Discontinued Operations,--,--,--,"3,820",--,IBM
+Other Current Liabilities,378,178,--,--,--,IBM
+"Other Curr. Lblts, Total","16,149","14,389","14,865","18,998","14,807",IBM
+Total Current Liabilities,"37,363","38,227","37,701","39,869","33,619",IBM
+Long Term Debt,"39,837","35,605","53,951","54,157","44,854",IBM
+Capital Lease Obligations,--,--,151,60,63,IBM
+Total Long Term Debt,"39,837","35,605","54,102","54,217","44,917",IBM
+Total Debt,"46,824","45,812","62,899","61,333","51,704",IBM
+Deferred Income Tax,545,"3,696","5,230","4,958","3,956",IBM
+Minority Interest,131,134,144,129,95,IBM
+Reserves,"4,308","4,306","5,212","5,358","6,271",IBM
+Pension Benefits - Underfunded,"18,303","18,382","18,663","18,819","16,121",IBM
+Other LT Liabilities,"7,275","6,237","10,293","8,706","8,121",IBM
+Discont. Ops. - Lblts,--,--,--,"3,317",--,IBM
+"Other Liabilities, Total","29,886","28,925","34,168","36,200","30,513",IBM
+Total Liabilities,"107,762","106,587","131,345","135,373","113,100",IBM
+Common Stock,446,447,448,449,450,IBM
+Additional Paid-In Capital,"54,120","54,704","55,447","56,107","56,869",IBM
+Ret. Earn.(Accum. Deficit),"153,126","159,206","162,954","162,717","154,209",IBM
+Treasury Stock - Common,"(163,507)","(168,071)","(169,413)","(169,339)","(169,392)",IBM
+Unrealized Gain (Loss),3,0,0,0,(1),IBM
+Cum. Trans. Adjustment,"(2,834)","(3,690)","(3,700)","(4,665)","(3,362)",IBM
+Other Equity,1,(1),2,1,(1),IBM
+Min. Pension Lblty Adj.,"(23,796)","(26,083)","(24,718)","(24,216)","(19,853)",IBM
+Other Comprehensive Income,35,283,(179),(456),(18),IBM
+"Other Equity, Total","(26,594)","(29,491)","(28,595)","(29,336)","(23,234)",IBM
+Total Equity,"17,594","16,795","20,841","20,598","18,901",IBM
+Total Liabilities & Shareholders’ Equity,"125,356","123,382","152,186","155,971","132,001",IBM
+Ttl Comm. Shares Outs.,922,892,887,893,898,IBM
+Trsy. Shrs-Comm. Primary Iss.,"1,307","1,341","1,351","1,350","1,351",IBM

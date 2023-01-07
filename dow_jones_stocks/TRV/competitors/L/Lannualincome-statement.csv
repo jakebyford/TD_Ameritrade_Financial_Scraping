@@ -1,0 +1,48 @@
+items,2017,2018,2019,2020,2021,ticker
+Gross Premiums Written,"11,303","11,692","11,829",--,--,L
+Net Premiums Earned,--,--,--,"7,649","8,175",L
+Other Insurance Revenue,"4,443","4,994","5,099","4,185","3,563",L
+Reinsurance - Income,"(4,315)","(4,380)","(4,401)",--,--,L
+Total Premiums Earned,"11,431","12,306","12,527","11,834","11,738",L
+Net Investment Income,"2,182","1,817","2,314","1,907","2,236",L
+Realized Gains (Losses),136,(36),68,"(1,050)",718,L
+Total Revenue,"13,749","14,087","14,909","12,691","14,692",L
+"Losses,Benies& Adjmts,Total","5,310","5,572","5,806","6,170","6,349",L
+Amort. Of Policy Acquisition Costs,"1,233","1,335","1,383","1,410","1,443",L
+Impair-Assets Held for Use,--,--,--,774,--,L
+Impair-Assets Held for Sale,14,21,44,111,31,L
+Unusual Expense (Income),14,21,44,885,31,L
+"Other Operat Expse, Total","4,964","5,751","6,032","5,178","4,259",L
+Total Operating Expense,"11,521","12,679","13,265","13,643","12,082",L
+Total Operating Income,"2,228","1,408","1,644",(952),"2,610",L
+"Inter Expse,Net Non-Operat",(646),(574),(591),(515),(424),L
+"Inter/Invest Inc, Non-Oper",--,--,66,3,(4),L
+Income Before Tax,"1,582",834,"1,119","(1,464)","2,182",L
+Income Tax - Total,360,128,248,(173),479,L
+Income After Tax,"1,222",706,871,"(1,291)","1,703",L
+Minority Interest,(248),(70),61,360,(125),L
+Net Inc Before Extra Items,974,636,932,(931),"1,578",L
+Total Extraordinary Items,190,--,--,--,--,L
+Total Net Income,"1,164",636,932,(931),"1,578",L
+Income Available to Common Excl. Extra. Items,974,636,932,(931),"1,578",L
+Income Available to Common Incl. Extra. Items,"1,164",636,932,(931),"1,578",L
+Basic/Primary Weighted Average Shares,337,319,303,280,260,L
+Basic/Primary EPS Excl. Extra. Items,2.89,1.99,3.08,(3.32),6.08,L
+Basic/Primary EPS Incl. Extra. Items,3.46,1.99,3.08,(3.32),6.08,L
+Diluted Weighted Average Shares,338,320,303,280,260,L
+Diluted EPS Excl. Extra. Items,2.89,1.99,3.07,(3.32),6.06,L
+Diluted EPS Incl. Extra. Items,3.45,1.99,3.07,(3.32),6.06,L
+Div/Share-ComStockPrimIssue,0.25,0.25,0.25,0.25,0.25,L
+Gross Divid - Common Stock,84,80,76,70,65,L
+Pro Forma Net Income,--,--,--,--,--,L
+"Interest Expense, Suppl",646,574,591,515,424,L
+"Interest Capitalized, Suppl",(37),(27),(18),(14),(12),L
+"Depreciat/Amort, Suppl",874,912,943,734,512,L
+Total Special Items,14,21,223,"1,435",428,L
+Normalzd Income Before Tax,"1,596",855,"1,342",(29),"2,610",L
+Efct/SpecItemsIncTxs (STEC),3,3,49,502,94,L
+IncTxsExcl ImpctofSpec Itms,363,131,297,329,573,L
+Normalized Income After Tax,"1,233",724,"1,045",(358),"2,037",L
+Normalzd Inc Avail to Common,985,654,"1,106",2,"1,912",L
+Basic Normalized EPS,2.93,2.05,3.65,0.01,7.36,L
+Diluted Normalized EPS,2.92,2.04,3.64,0.01,7.35,L

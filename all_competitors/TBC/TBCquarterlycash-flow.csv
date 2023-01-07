@@ -1,0 +1,43 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,"21,479","5,164","9,900","16,246",TBC
+Depreciation/Depletion,"22,862","5,539","8,912","13,426",TBC
+Deferred Taxes,"5,246",932,"2,324","2,947",TBC
+Discontinued Operations,--,--,"(3,731)","(3,754)",TBC
+Unusual Items,"3,977",93,964,"1,157",TBC
+Equity in Net Earnings/Loss,184,26,--,--,TBC
+Other Non-Cash Items,"4,258","1,479","(3,263)","(5,044)",TBC
+Non-Cash Items,"8,419","1,598","(6,030)","(7,641)",TBC
+"Cash Taxes Pd, Supplemental",700,167,338,400,TBC
+"Cash Interest Pd, Suppl","7,673","2,380","4,028","5,981",TBC
+Accounts Receivable,(899),313,"1,634","1,927",TBC
+Other Assets,"(16,472)","(3,261)",11,(799),TBC
+Payable/Accrued,"1,636","(4,031)","(3,905)","(3,261)",TBC
+Changes in Working Capital,"(16,049)","(7,501)","(3,467)","(3,268)",TBC
+Total Cash from Operations,"41,957","5,732","11,639","21,710",TBC
+Capital Expenditures,"(16,527)","(4,748)","(9,476)","(15,397)",TBC
+Acquisition of Business,"(25,453)","(9,244)","(9,570)","(9,959)",TBC
+Sale of Business,"8,740",11,22,49,TBC
+Other Investing Cash Flow,"1,151","1,330","2,585","3,325",TBC
+"OtherInvestCashFlowItms,Tot","(15,562)","(7,903)","(6,963)","(6,585)",TBC
+Total Cash from Investing,"(32,089)","(12,651)","(16,439)","(21,982)",TBC
+Financing Cash Flow Items,"(7,040)","(2,500)","31,584","27,967",TBC
+Total Cash Dividends Paid,"(15,068)","(3,749)","(5,835)","(7,845)",TBC
+Sale/Issuance of Common,96,26,28,28,TBC
+Repurch/Retirement Common,(202),(197),(872),(875),TBC
+"Common Stock, Net",(106),(171),(844),(847),TBC
+Sale/Issuance of Preferred,0,--,--,--,TBC
+Repurch/Retirement Preferd,0,--,--,--,TBC
+"Preferred Stock, Net",0,--,--,--,TBC
+"Iss (Retirmnt) of Stock,Net",(106),(171),(844),(847),TBC
+Short Term Debt Issued,"21,856","2,593","2,593","3,955",TBC
+Short Term Debt Reduction,"(7,510)","(3,407)","(15,613)","(16,861)",TBC
+"Short Term Debt, Net","15,662","1,471","(12,848)","(12,822)",TBC
+Long Term Debt Issued,"11,272","30,296",479,479,TBC
+Long Term Debt Reduction,"(3,142)",(802),"(24,213)","(24,412)",TBC
+"Long Term Debt, Net","8,130","29,200","(24,456)","(25,003)",TBC
+"Iss (Retirmnt) of Debt, Net","23,792","30,671","(37,304)","(37,825)",TBC
+Total Cash From Financing,"1,578","24,251","(12,399)","(18,550)",TBC
+Net Change in Cash,"11,446","17,332","(17,199)","(18,822)",TBC
+NetCash-BeginBal/RsvdforFutUse,"9,870","21,316","21,316","21,316",TBC
+NetCash-EndBal/RsrvforFutUse,"21,316","38,648","4,117","2,494",TBC
+"Depreciation, Supplemental","22,862","5,539","8,912","13,426",TBC

@@ -1,0 +1,40 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"5,872","6,711","7,863","8,497","16,072",REGN
+"Cost of Revenue, Total",397,434,782,"1,120","2,438",REGN
+Selling/Gen/Admin Expense,"1,112","1,387","1,667","1,193","1,612",REGN
+Labor & Related Expense,208,169,168,153,213,REGN
+"Sell/Gen/AdminExpenses,Tot","1,320","1,556","1,835","1,346","1,825",REGN
+Research & Development,"2,075","2,186","3,037","2,735","2,908",REGN
+"Other Operat Expse, Total",--,--,--,(280),(46),REGN
+Total Operating Expense,"3,793","4,176","5,654","4,921","7,125",REGN
+Total Operating Income,"2,080","2,534","2,210","3,577","8,947",REGN
+"Inter Expse,Net Non-Operat",(25),(28),(30),(57),(57),REGN
+"Inter/Invest Inc, Non-Oper",--,42,118,196,386,REGN
+OtherNon-OperatInc (Expnse),24,5,131,95,50,REGN
+"Other, Net",24,5,131,95,50,REGN
+Income Before Tax,"2,079","2,554","2,429","3,810","9,326",REGN
+Income Tax - Total,554,177,313,297,"1,251",REGN
+Income After Tax,"1,525","2,376","2,116","3,513","8,075",REGN
+Net Inc Before Extra Items,"1,525","2,376","2,116","3,513","8,075",REGN
+Total Extraordinary Items,(326),68,--,--,--,REGN
+Total Net Income,"1,199","2,444","2,116","3,513","8,075",REGN
+Income Available to Common Excl. Extra. Items,"1,525","2,376","2,116","3,513","8,075",REGN
+Income Available to Common Incl. Extra. Items,"1,199","2,444","2,116","3,513","8,075",REGN
+Basic/Primary Weighted Average Shares,106,108,109,108,106,REGN
+Basic/Primary EPS Excl. Extra. Items,14.34,22.02,19.38,32.65,76.40,REGN
+Basic/Primary EPS Incl. Extra. Items,11.27,22.65,19.38,32.65,76.40,REGN
+Dilution Adjustment,0,--,--,--,--,REGN
+Diluted Weighted Average Shares,116,115,115,115,112,REGN
+Diluted EPS Excl. Extra. Items,13.15,20.70,18.46,30.52,71.97,REGN
+Diluted EPS Incl. Extra. Items,10.34,21.29,18.46,30.52,71.97,REGN
+Div/Share-ComStockPrimIssue,0.00,--,--,--,--,REGN
+Gross Divid - Common Stock,0,0,0,--,0,REGN
+Pro Forma Net Income,--,--,--,--,--,REGN
+"Interest Expense, Suppl",25,28,30,57,57,REGN
+"Depreciat/Amort, Suppl",145,148,210,236,286,REGN
+Normalzd Income Before Tax,"2,079","2,554","2,429","3,810","9,326",REGN
+IncTxsExcl ImpctofSpec Itms,554,177,313,297,"1,251",REGN
+Normalized Income After Tax,"1,525","2,376","2,116","3,513","8,075",REGN
+Normalzd Inc Avail to Common,"1,525","2,376","2,116","3,513","8,075",REGN
+Basic Normalized EPS,14.34,22.02,19.38,32.65,76.40,REGN
+Diluted Normalized EPS,13.15,20.70,18.46,30.52,71.97,REGN

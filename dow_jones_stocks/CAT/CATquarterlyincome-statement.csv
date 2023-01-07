@@ -1,0 +1,45 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"13,798","13,589","14,247","14,994",CAT
+"Cost of Revenue, Total","9,976","9,551","9,970","10,189",CAT
+"Sell/Gen/AdminExpenses,Tot","1,422","1,346","1,425","1,401",CAT
+Research & Development,439,457,480,476,CAT
+"Inter Expense,Net Operatng",103,106,120,151,CAT
+Restructuring Charge,41,13,23,53,CAT
+Impair-Assets Held for Use,(75),0,5,(4),CAT
+Unusual Expense (Income),(34),13,28,49,CAT
+"Other Operat Expse, Total",281,261,280,303,CAT
+Total Operating Expense,"12,187","11,734","12,303","12,569",CAT
+Total Operating Income,"1,611","1,855","1,944","2,425",CAT
+"Inter Expse,Net Non-Operat",(112),(109),(108),(109),CAT
+"Inter/Invest Inc, Non-Oper","1,203",56,202,186,CAT
+OtherNon-OperatInc (Expnse),(140),197,58,56,CAT
+"Other, Net",(140),197,58,56,CAT
+Income Before Tax,"2,562","1,999","2,096","2,558",CAT
+Income Tax - Total,465,469,427,527,CAT
+Income After Tax,"2,097","1,530","1,669","2,031",CAT
+Minority Interest,0,0,0,1,CAT
+Equity In Affiliates,(13),7,4,9,CAT
+Net Inc Before Extra Items,"2,084","1,537","1,673","2,041",CAT
+Total Extraordinary Items,36,--,--,--,CAT
+Total Net Income,"2,120","1,537","1,673","2,041",CAT
+Income Available to Common Excl. Extra. Items,"2,084","1,537","1,673","2,041",CAT
+Income Available to Common Incl. Extra. Items,"2,120","1,537","1,673","2,041",CAT
+Basic/Primary Weighted Average Shares,539,535,531,525,CAT
+Basic/Primary EPS Excl. Extra. Items,3.87,2.88,3.15,3.89,CAT
+Basic/Primary EPS Incl. Extra. Items,3.94,2.88,3.15,3.89,CAT
+Diluted Weighted Average Shares,543,538,534,528,CAT
+Diluted EPS Excl. Extra. Items,3.84,2.86,3.13,3.87,CAT
+Diluted EPS Incl. Extra. Items,3.90,2.86,3.13,3.87,CAT
+Div/Share-ComStockPrimIssue,1.11,1.11,1.11,1.20,CAT
+Gross Divid - Common Stock,600,595,595,630,CAT
+Pro Forma Net Income,--,--,--,--,CAT
+"Interest Expense, Suppl",215,215,228,260,CAT
+"Depreciat/Amort, Suppl",512,485,482,481,CAT
+Total Special Items,(34),13,28,49,CAT
+Normalzd Income Before Tax,"2,528","2,012","2,124","2,607",CAT
+Efct/SpecItemsIncTxs (STEC),(6),(2),(2),(9),CAT
+IncTxsExcl ImpctofSpec Itms,459,467,425,518,CAT
+Normalized Income After Tax,"2,069","1,545","1,699","2,089",CAT
+Normalzd Inc Avail to Common,"2,056","1,552","1,703","2,099",CAT
+Basic Normalized EPS,3.82,2.90,3.21,4.00,CAT
+Diluted Normalized EPS,3.78,2.88,3.19,3.98,CAT

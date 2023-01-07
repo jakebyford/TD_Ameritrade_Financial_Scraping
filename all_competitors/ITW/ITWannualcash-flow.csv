@@ -1,0 +1,40 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,"1,687","2,563","2,521","2,109","2,694",ITW
+Depreciation/Depletion,256,272,267,273,277,ITW
+Amortization,206,189,159,154,133,ITW
+Deferred Taxes,64,34,32,(30),(148),ITW
+Unusual Items,(18),(14),(68),(6),(29),ITW
+Other Non-Cash Items,49,55,56,57,69,ITW
+Non-Cash Items,31,41,(12),51,40,ITW
+"Cash Taxes Pd, Supplemental","1,018",838,742,591,731,ITW
+"Cash Interest Pd, Suppl",240,247,223,194,197,ITW
+Accounts Receivable,(138),(60),40,95,(240),ITW
+Inventories,(81),(108),98,43,(450),ITW
+Prepaid Expenses,(121),3,11,41,(36),ITW
+Accounts Payable,39,(46),(16),19,37,ITW
+Accrued Expenses,(42),(36),(95),17,202,ITW
+Changes in Working Capital,158,(288),28,250,(439),ITW
+Total Cash from Operations,"2,402","2,811","2,995","2,807","2,557",ITW
+Capital Expenditures,(297),(364),(326),(236),(296),ITW
+Acquisition of Business,(3),0,(4),0,(731),ITW
+Sale of Business,2,1,120,1,0,ITW
+Sale of Fixed Assets,14,26,25,10,8,ITW
+Sale/Maturity of Investment,43,16,20,14,38,ITW
+Other Investing Cash Flow,(10),(4),(18),(3),(3),ITW
+"OtherInvestCashFlowItms,Tot",46,39,143,22,(688),ITW
+Total Cash from Investing,(251),(325),(183),(214),(984),ITW
+Financing Cash Flow Items,(14),(11),(12),(26),(10),ITW
+Total Cash Dividends Paid,(941),"(1,124)","(1,321)","(1,379)","(1,463)",ITW
+Sale/Issuance of Common,84,22,85,66,50,ITW
+Repurch/Retirement Common,"(1,000)","(2,000)","(1,500)",(706),"(1,000)",ITW
+"Iss (Retirmnt) of Stock,Net",(916),"(1,978)","(1,415)",(640),(950),ITW
+"Short Term Debt, Net",849,(850),(1),0,120,ITW
+"Long Term Debt, Net",0,0,"1,774",0,90,ITW
+Total Debt Reduction,(652),(1),"(1,351)",(4),(351),ITW
+"Iss (Retirmnt) of Debt, Net",197,(851),422,(4),(141),ITW
+Total Cash From Financing,"(1,674)","(3,964)","(2,326)","(2,049)","(2,564)",ITW
+Foreign Exchange Effects,145,(112),(9),39,(46),ITW
+Net Change in Cash,622,"(1,590)",477,583,"(1,037)",ITW
+NetCash-BeginBal/RsvdforFutUse,"2,472","3,094","1,504","1,981","2,564",ITW
+NetCash-EndBal/RsrvforFutUse,"3,094","1,504","1,981","2,564","1,527",ITW
+"Depreciation, Supplemental",256,272,267,273,277,ITW

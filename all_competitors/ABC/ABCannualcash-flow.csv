@@ -1,0 +1,44 @@
+items,2018,2019,2020,2021,2022,ticker
+Net Income,"1,616",854,"(3,400)","1,545","1,667",ABC
+Depreciation/Depletion,318,321,291,327,391,ABC
+Amortization,192,176,117,188,319,ABC
+Deferred Taxes,(796),29,"(1,545)",335,196,ABC
+Unusual Items,149,570,384,32,25,ABC
+Equity in Net Earnings/Loss,--,(14),0,0,--,ABC
+Other Non-Cash Items,134,38,91,(127),246,ABC
+Non-Cash Items,283,595,475,(95),270,ABC
+"Cash Taxes Pd, Supplemental",104,118,139,94,244,ABC
+"Cash Interest Pd, Suppl",162,167,151,171,220,ABC
+Accounts Receivable,(658),"(1,242)","(2,112)",(664),"(1,610)",ABC
+Inventories,(5),(168),"(1,621)","(1,116)",(665),ABC
+Prepaid Expenses,(57),(7),28,141,103,ABC
+Accounts Payable,859,"1,561","3,301","2,049","3,321",ABC
+Accrued Expenses,(538),238,"6,723",135,(957),ABC
+Changes in Working Capital,(202),369,"6,269",366,(140),ABC
+Total Cash from Operations,"1,411","2,344","2,207","2,665","2,702",ABC
+Capital Expenditures,(336),(310),(370),(438),(496),ABC
+Acquisition of Business,(785),(64),0,"(5,563)",(134),ABC
+Sale of Business,0,0,--,--,273,ABC
+Sale of Fixed Assets,--,--,36,14,6,ABC
+Sale/Maturity of Investment,0,0,--,--,--,ABC
+Purchase of Investments,0,0,(56),(163),(18),ABC
+Other Investing Cash Flow,11,(2),10,8,1,ABC
+"OtherInvestCashFlowItms,Tot",(775),(66),(10),"(5,703)",128,ABC
+Total Cash from Investing,"(1,111)",(376),(380),"(6,142)",(368),ABC
+Financing Cash Flow Items,(45),(17),(33),(14),(48),ABC
+Total Cash Dividends Paid,(333),(339),(344),(367),(392),ABC
+Sale/Issuance of Common,--,--,66,0,0,ABC
+Repurch/Retirement Common,(639),(674),(420),(82),(484),ABC
+"Common Stock, Net",(639),(674),(354),(82),(484),ABC
+Options Exercised,138,76,160,199,94,ABC
+Warrants Converted,0,--,--,--,--,ABC
+"Iss (Retirmnt) of Stock,Net",(501),(598),(195),117,(390),ABC
+Long Term Debt Issued,"26,444","1,147",716,"8,136","4,988",ABC
+Long Term Debt Reduction,"(25,808)","(1,280)",(748),"(5,919)","(5,911)",ABC
+"Iss (Retirmnt) of Debt, Net",636,(133),(32),"2,217",(923),ABC
+Total Cash From Financing,(243),"(1,087)",(604),"1,953","(1,753)",ABC
+Foreign Exchange Effects,--,--,--,(4),(58),ABC
+Net Change in Cash,57,882,"1,224","(1,528)",523,ABC
+NetCash-BeginBal/RsvdforFutUse,"2,435","2,493","3,374","4,598","3,070",ABC
+NetCash-EndBal/RsrvforFutUse,"2,493","3,374","4,598","3,070","3,594",ABC
+"Depreciation, Supplemental",318,321,291,327,391,ABC

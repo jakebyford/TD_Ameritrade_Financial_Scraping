@@ -1,0 +1,15 @@
+items,Q2 2014,Q3 2014,Q4 2014,Q1 2015,ticker
+Net Income,(135),(203),(306),(107),ROSN
+Non-Cash Items,3,14,24,10,ROSN
+"Cash Taxes Pd, Supplemental",0,0,0,--,ROSN
+"Cash Interest Pd, Suppl",0,0,0,--,ROSN
+Changes in Working Capital,6,8,10,55,ROSN
+Total Cash from Operations,(126),(182),(272),(43),ROSN
+Total Cash from Investing,0,0,--,0,ROSN
+Financing Cash Flow Items,(3),(10),(10),0,ROSN
+"Iss (Retirmnt) of Stock,Net",75,263,263,0,ROSN
+"Iss (Retirmnt) of Debt, Net",60,60,60,--,ROSN
+Total Cash From Financing,132,313,313,0,ROSN
+Net Change in Cash,6,131,41,(43),ROSN
+NetCash-BeginBal/RsvdforFutUse,2,2,2,43,ROSN
+NetCash-EndBal/RsrvforFutUse,8,133,43,0,ROSN

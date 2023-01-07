@@ -1,0 +1,55 @@
+items,2018,2019,2020,2021,2022,ticker
+Interest & Fees on Loans,"27,790","31,925","28,151","23,959","29,666",TD
+Inter & Divs/ Invest Securs,"7,919","9,391","7,146","5,315","9,750",TD
+Interest on Deposits,713,683,350,307,"1,616",TD
+"Interest Income, Bank","36,422","41,999","35,647","29,581","41,032",TD
+Interest on Deposit,"10,489","13,675","7,163","3,742","9,748",TD
+Inter on Other Borrowings,"3,694","4,393","2,873","1,708","3,931",TD
+Total Interest Expense,"14,183","18,068","10,036","5,450","13,679",TD
+Net Interest Income,"22,239","23,931","25,611","24,131","27,353",TD
+Loan Loss Provision,"2,480","3,029","7,242",(224),"1,067",TD
+NetInterIn after Loan Loss Provision,"19,759","20,902","18,369","24,355","26,286",TD
+Insur Commish Fees& Premium,"4,045","4,282","4,565","4,877","5,380",TD
+Credit Card Fees,"3,586","3,754","3,554","3,888","4,505",TD
+Fees for Other Cust Serv,"2,716","2,885","2,593","2,655","2,871",TD
+Dealer Trading Acct Profit,"1,052","1,047","1,404",313,(257),TD
+Invest Securities Gains,"4,825","4,950","5,381","6,193","5,869",TD
+Unrealized Gains,(122),129,69,(173),--,TD
+Other Revenue,551,87,469,809,"3,311",TD
+"Non-Interest Income, Bank","16,653","17,134","18,035","18,562","21,679",TD
+Labor & Related Expenses,"(10,377)","(11,244)","(11,891)","(12,378)","(13,394)",TD
+Amortization of Intangibles,(739),(802),(817),(706),(599),TD
+Foreign Currency Losses,(71),7,--,--,--,TD
+Other Unusual Expense,(5),(5),--,--,--,TD
+Restructuring Charge,(73),(175),16,(47),--,TD
+Other Expense,"(11,374)","(12,588)","(11,798)","(12,652)","(13,548)",TD
+"Non-Interest Expense, Bank","(22,639)","(24,807)","(24,490)","(25,783)","(27,541)",TD
+Income Before Tax,"13,773","13,229","11,914","17,134","20,424",TD
+Income Tax - Total,"3,182","2,735","1,152","3,621","3,986",TD
+Income After Tax,"10,591","10,494","10,762","13,513","16,438",TD
+Minority Interest,(72),(18),0,0,--,TD
+Equity In Affiliates,743,"1,192","1,133",785,991,TD
+Net Inc Before Extra Items,"11,262","11,668","11,895","14,298","17,429",TD
+Total Net Income,"11,262","11,668","11,895","14,298","17,429",TD
+Total Adjust to Net Income,(214),(252),(267),(249),(259),TD
+Income Available to Common Excl. Extra. Items,"11,048","11,416","11,628","14,049","17,170",TD
+Income Available to Common Incl. Extra. Items,"11,048","11,416","11,628","14,049","17,170",TD
+Basic/Primary Weighted Average Shares,"1,835","1,824","1,807","1,818","1,811",TD
+Basic/Primary EPS Excl. Extra. Items,6.02,6.26,6.43,7.73,9.48,TD
+Basic/Primary EPS Incl. Extra. Items,6.02,6.26,6.43,7.73,9.48,TD
+Dilution Adjustment,--,--,0,--,--,TD
+Diluted Weighted Average Shares,"1,840","1,827","1,809","1,820","1,814",TD
+Diluted EPS Excl. Extra. Items,6.01,6.25,6.43,7.72,9.47,TD
+Diluted EPS Incl. Extra. Items,6.01,6.25,6.43,7.72,9.47,TD
+Div/Share-ComStockPrimIssue,2.61,2.89,3.11,3.16,3.56,TD
+Gross Divid - Common Stock,"4,786","5,262","5,614","5,741","6,442",TD
+Pro Forma Net Income,--,--,--,--,--,TD
+"Depreciat/Amort, Suppl",576,605,"1,324","1,360","1,167",TD
+Total Special Items,78,180,(11),64,1,TD
+Normalzd Income Before Tax,"13,851","13,409","11,903","17,198","20,425",TD
+Efct/SpecItemsIncTxs (STEC),18,37,(1),14,0,TD
+IncTxsExcl ImpctofSpec Itms,"3,200","2,772","1,151","3,635","3,986",TD
+Normalized Income After Tax,"10,651","10,637","10,752","13,563","16,439",TD
+Normalzd Inc Avail to Common,"11,108","11,559","11,618","14,099","17,171",TD
+Basic Normalized EPS,6.05,6.34,6.43,7.76,9.48,TD
+Diluted Normalized EPS,6.04,6.33,6.42,7.75,9.47,TD

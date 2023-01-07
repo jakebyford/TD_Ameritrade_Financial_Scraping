@@ -1,0 +1,38 @@
+items,2017,2018,2019,2020,2021,ticker
+Net Income,(793),"6,305","7,257","(2,655)","8,079",COP
+Depreciation/Depletion,"6,845","5,956","6,090","5,521","7,208",COP
+Deferred Taxes,"(3,681)",283,(444),(834),"1,346",COP
+Unusual Items,"4,424","(1,036)","(1,561)","1,119",(852),COP
+Equity in Net Earnings/Loss,(232),152,594,645,446,COP
+Other Non-Cash Items,499,639,(253),"1,378",(502),COP
+Non-Cash Items,"4,691",(245),"(1,220)","3,142",(908),COP
+"Cash Taxes Pd, Supplemental","1,168","2,976","2,905",905,856,COP
+"Cash Interest Pd, Suppl","1,163",772,810,785,924,COP
+Accounts Receivable,(886),235,505,521,"(2,500)",COP
+Inventories,(55),86,(67),(25),(160),COP
+Prepaid Expenses,69,(55),37,76,(649),COP
+Accounts Payable,265,(52),(378),(249),"1,399",COP
+Accrued Expenses,622,421,(676),(695),"3,181",COP
+Changes in Working Capital,15,635,(579),(372),"1,271",COP
+Total Cash from Operations,"7,077","12,934","11,104","4,802","16,996",COP
+Capital Expenditures,"(4,591)","(6,750)","(6,636)","(4,715)","(5,324)",COP
+Sale of Fixed Assets,"13,860","1,082","3,012","1,317","1,653",COP
+"Investment, Net","(1,790)","1,620","(2,910)",(658),"3,091",COP
+Other Investing Cash Flow,283,205,(84),(65),"(7,964)",COP
+"OtherInvestCashFlowItms,Tot","12,353","2,907",18,594,"(3,220)",COP
+Total Cash from Investing,"7,762","(3,843)","(6,618)","(4,121)","(8,544)",COP
+Financing Cash Flow Items,(112),(123),(119),(26),7,COP
+Total Cash Dividends Paid,"(1,305)","(1,363)","(1,500)","(1,831)","(2,359)",COP
+"Iss (Retirmnt) of Stock,Net","(3,063)","(2,878)","(3,530)",(897),"(3,478)",COP
+"Short Term Debt, Net",--,--,--,300,0,COP
+Long Term Debt Issued,--,--,0,--,--,COP
+Long Term Debt Reduction,"(7,876)","(4,995)",(80),(254),(505),COP
+"Long Term Debt, Net","(7,876)","(4,995)",(80),(254),(505),COP
+Total Debt Issued,0,0,--,--,--,COP
+"Iss (Retirmnt) of Debt, Net","(7,876)","(4,995)",(80),46,(505),COP
+Total Cash From Financing,"(12,356)","(9,359)","(5,229)","(2,708)","(6,335)",COP
+Foreign Exchange Effects,232,(117),(46),(20),(34),COP
+Net Change in Cash,"2,715",(385),(789),"(2,047)","2,083",COP
+NetCash-BeginBal/RsvdforFutUse,"3,610","6,536","6,151","5,362","3,315",COP
+NetCash-EndBal/RsrvforFutUse,"6,325","6,151","5,362","3,315","5,398",COP
+"Depreciation, Supplemental","6,845","5,956","6,090","5,521","7,208",COP

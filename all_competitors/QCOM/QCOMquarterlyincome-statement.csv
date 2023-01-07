@@ -1,0 +1,39 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Total Revenue,"10,705","11,164","10,936","11,395",QCOM
+"Cost of Revenue, Total","4,303","4,648","4,816","4,868",QCOM
+"Sell/Gen/AdminExpenses,Tot",608,624,655,683,QCOM
+Research & Development,"1,930","2,034","2,052","2,178",QCOM
+Litigation,--,--,"(1,059)",0,QCOM
+Impair-Assets Held for Sale,1,20,20,6,QCOM
+Unusual Expense (Income),1,20,"(1,039)",6,QCOM
+Total Operating Expense,"6,842","7,326","6,484","7,735",QCOM
+Total Operating Income,"3,863","3,838","4,452","3,660",QCOM
+"Inter Expse,Net Non-Operat",(139),(137),(70),(145),QCOM
+"Inter/Invest Inc, Non-Oper",141,(278),(143),(45),QCOM
+Income Before Tax,"3,865","3,423","4,239","3,470",QCOM
+Income Tax - Total,466,489,509,547,QCOM
+Income After Tax,"3,399","2,934","3,730","2,923",QCOM
+Net Inc Before Extra Items,"3,399","2,934","3,730","2,923",QCOM
+Total Extraordinary Items,--,--,--,(50),QCOM
+Total Net Income,"3,399","2,934","3,730","2,873",QCOM
+Income Available to Common Excl. Extra. Items,"3,399","2,934","3,730","2,923",QCOM
+Income Available to Common Incl. Extra. Items,"3,399","2,934","3,730","2,873",QCOM
+Basic/Primary Weighted Average Shares,"1,124","1,125","1,122","1,120",QCOM
+Basic/Primary EPS Excl. Extra. Items,3.02,2.61,3.32,2.61,QCOM
+Basic/Primary EPS Incl. Extra. Items,3.02,2.61,3.32,2.57,QCOM
+Diluted Weighted Average Shares,"1,142","1,140","1,134","1,131",QCOM
+Diluted EPS Excl. Extra. Items,2.98,2.57,3.29,2.58,QCOM
+Diluted EPS Incl. Extra. Items,2.98,2.57,3.29,2.54,QCOM
+Div/Share-ComStockPrimIssue,0.68,0.68,0.75,0.75,QCOM
+Gross Divid - Common Stock,790,785,865,--,QCOM
+Pro Forma Net Income,--,--,--,--,QCOM
+"Interest Expense, Suppl",139,137,70,145,QCOM
+"Depreciat/Amort, Suppl",406,428,438,510,QCOM
+Total Special Items,1,20,"(1,039)",6,QCOM
+Normalzd Income Before Tax,"3,866","3,443","3,200","3,476",QCOM
+Efct/SpecItemsIncTxs (STEC),0,3,(125),1,QCOM
+IncTxsExcl ImpctofSpec Itms,466,492,384,548,QCOM
+Normalized Income After Tax,"3,400","2,951","2,816","2,928",QCOM
+Normalzd Inc Avail to Common,"3,400","2,951","2,816","2,928",QCOM
+Basic Normalized EPS,3.02,2.62,2.51,2.61,QCOM
+Diluted Normalized EPS,2.98,2.59,2.48,2.59,QCOM

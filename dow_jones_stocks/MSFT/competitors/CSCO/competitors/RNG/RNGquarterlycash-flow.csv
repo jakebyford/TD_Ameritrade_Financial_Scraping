@@ -1,0 +1,36 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Net Income,(376),(151),(310),(595),RNG
+Depreciation/Depletion,125,61,122,184,RNG
+Unusual Items,16,47,98,176,RNG
+Other Non-Cash Items,513,131,269,529,RNG
+Non-Cash Items,529,179,367,705,RNG
+"Cash Taxes Pd, Supplemental",1,0,2,3,RNG
+"Cash Interest Pd, Suppl",0,0,0,0,RNG
+Accounts Receivable,(65),(29),(28),(40),RNG
+Prepaid Expenses,9,(3),(2),(1),RNG
+Other Assets,(178),(39),(108),(185),RNG
+Accounts Payable,18,7,28,19,RNG
+Accrued Expenses,56,10,10,31,RNG
+Changes in Working Capital,(126),(29),(69),(143),RNG
+Total Cash from Operations,152,59,110,152,RNG
+Purchase of Fixed Assets,(29),(7),(15),(24),RNG
+Purchase/Acq of Intangibles,(312),(15),(30),(44),RNG
+Software Development Costs,(44),--,--,--,RNG
+Capital Expenditures,(385),(22),(46),(67),RNG
+Sale of Business,0,--,--,--,RNG
+Sale/Maturity of Investment,--,--,--,3,RNG
+Purchase of Investments,(12),--,--,--,RNG
+"OtherInvestCashFlowItms,Tot",(12),--,--,3,RNG
+Total Cash from Investing,(397),(22),(46),(64),RNG
+Financing Cash Flow Items,(25),(1),(5),(7),RNG
+"Common Stock, Net",--,--,(25),(45),RNG
+"Preferred Stock, Net",199,--,--,--,RNG
+Options Exercised,37,1,11,11,RNG
+"Iss (Retirmnt) of Stock,Net",236,1,(14),(34),RNG
+"Iss (Retirmnt) of Debt, Net",(338),(2),(3),(4),RNG
+Total Cash From Financing,(127),(2),(22),(45),RNG
+Foreign Exchange Effects,(1),0,(3),(5),RNG
+Net Change in Cash,(373),35,39,38,RNG
+NetCash-BeginBal/RsvdforFutUse,640,267,267,267,RNG
+NetCash-EndBal/RsrvforFutUse,267,302,306,305,RNG
+"Depreciation, Supplemental",125,61,122,184,RNG

@@ -1,0 +1,43 @@
+items,Q4 2021,Q1 2022,Q2 2022,Q3 2022,ticker
+Total Revenue,"50,554","49,258","67,866","55,011",BP
+"Cost of Revenue, Total","38,868","35,269","47,345","47,804",BP
+"Sell/Gen/AdminExpenses,Tot","3,365","3,080","3,453","3,262",BP
+Research & Development,102,92,128,225,BP
+Depreciation/Amortization,"3,863","3,625","3,512","3,467",BP
+Impair-Assets Held for Use,"1,223","26,031",445,417,BP
+Other Unusual Expnse (In),(262),(499),"(1,288)","(1,845)",BP
+Unusual Expense (Income),961,"25,532",(843),"(1,428)",BP
+Total Operating Expense,"47,159","67,598","53,595","53,330",BP
+Total Operating Income,"3,395","(18,340)","14,271","1,681",BP
+"Inter Income, Non-Operating",259,194,142,159,BP
+"Invest Income, Non-Operat",380,586,(367),124,BP
+"Inter/Invest Inc, Non-Oper",639,780,(225),283,BP
+OtherNon-OperatInc (Expnse),8,20,17,16,BP
+"Other, Net",8,20,17,16,BP
+Income Before Tax,"4,042","(17,540)","14,063","1,980",BP
+Income Tax - Total,"1,464","2,530","4,527","3,964",BP
+Income After Tax,"2,578","(20,070)","9,536","(1,984)",BP
+Minority Interest,(252),(314),(279),(179),BP
+Net Inc Before Extra Items,"2,326","(20,384)","9,257","(2,163)",BP
+Total Net Income,"2,326","(20,384)","9,257","(2,163)",BP
+Total Adjust to Net Income,0,0,--,0,BP
+Income Available to Common Excl. Extra. Items,"2,326","(20,384)","9,257","(2,163)",BP
+Income Available to Common Incl. Extra. Items,"2,326","(20,384)","9,257","(2,163)",BP
+Basic/Primary Weighted Average Shares,"19,797","19,514","19,388","18,886",BP
+Basic/Primary EPS Excl. Extra. Items,0.12,(1.04),0.48,(0.11),BP
+Basic/Primary EPS Incl. Extra. Items,0.12,(1.04),0.48,(0.11),BP
+Diluted Weighted Average Shares,"19,964","19,514","19,620","18,886",BP
+Diluted EPS Excl. Extra. Items,0.12,(1.04),0.47,(0.11),BP
+Diluted EPS Incl. Extra. Items,0.12,(1.04),0.47,(0.11),BP
+Div/Share-ComStockPrimIssue,--,0.05,0.00,0.00,BP
+Gross Divid - Common Stock,"1,077","1,068","1,062","1,140",BP
+Pro Forma Net Income,--,--,--,--,BP
+"Depreciat/Amort, Suppl","3,863","3,674","3,591","3,657",BP
+Total Special Items,"1,626","31,189",(19),"8,578",BP
+Normalzd Income Before Tax,"5,668","13,649","14,044","10,558",BP
+Efct/SpecItemsIncTxs (STEC),(812),"10,916",(6),"3,002",BP
+IncTxsExcl ImpctofSpec Itms,652,"13,446","4,521","6,966",BP
+Normalized Income After Tax,"5,016",203,"9,523","3,592",BP
+Normalzd Inc Avail to Common,"4,764",(111),"9,244","3,413",BP
+Basic Normalized EPS,0.24,(0.01),0.48,0.18,BP
+Diluted Normalized EPS,0.24,(0.01),0.47,0.18,BP

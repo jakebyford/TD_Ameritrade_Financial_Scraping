@@ -1,0 +1,57 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash,--,--,--,625,805,TXN
+Cash & Equivalents,"1,656","2,438","2,437","2,482","3,826",TXN
+Short Term Investments,"2,813","1,795","2,950","3,461","5,108",TXN
+Cash and Short Term Invs,"4,469","4,233","5,387","6,568","9,739",TXN
+"Trade Accts Recvble, Gross","1,286","1,226","1,082","1,425","1,709",TXN
+Prov. for Doubtful Accts,(8),(19),(8),(11),(8),TXN
+"Total Receivables, Net","1,278","1,207","1,074","1,414","1,701",TXN
+Invent. - Finished Goods,742,966,909,811,598,TXN
+Invent. - Work In Progress,"1,089","1,070",916,964,"1,067",TXN
+Invent. - Raw Materials,126,181,176,180,245,TXN
+Total Inventory,"1,957","2,217","2,001","1,955","1,910",TXN
+Prepaid Expenses,"1,030",440,299,302,335,TXN
+Total Current Assets,"8,734","8,097","8,761","10,239","13,685",TXN
+Buildings,"2,467","2,497","2,504","2,571","3,490",TXN
+Land/Improvements,127,128,126,125,132,TXN
+Machinery/Equipment,"2,195","2,800","3,110","3,085","4,236",TXN
+Other Prop./Plant/Equip.,--,--,337,319,465,TXN
+Prop./Plant/Equip. - Gross,"4,789","5,425","6,077","6,100","8,323",TXN
+Accumulated Depreciation,"(2,125)","(2,242)","(2,437)","(2,512)","(2,717)",TXN
+Prop./Plant/Equip. - Net,"2,664","3,183","3,640","3,588","5,606",TXN
+"Goodwill, Net","4,362","4,362","4,362","4,362","4,362",TXN
+Intangibles - Gross,"2,940","2,935","2,000","1,905",--,TXN
+Accum. Intangible Amort.,"(1,994)","(2,307)","(1,660)","(1,753)",--,TXN
+Intangibles - Net,"1,056",717,409,274,85,TXN
+LT Invt. - Affiliate Comp.,26,21,24,27,42,TXN
+LT Investments - Other,268,251,300,49,--,TXN
+Long Term Investments,294,272,324,76,42,TXN
+Pension Bene. - Overfunded,208,92,218,246,392,TXN
+Def. Inc. Tax - LT Asset,264,295,197,343,263,TXN
+Other Long Term Assets,60,119,107,223,241,TXN
+Total Assets,"17,642","17,137","18,018","19,351","24,676",TXN
+Accounts Payable,466,478,388,415,653,TXN
+Accrued Expenses,"1,164","1,144","1,189","1,291","1,295",TXN
+Notes Payable/ST Debt,0,0,0,0,0,TXN
+Curr. Port. LT Dbt/Cap Ls.,500,749,500,550,500,TXN
+"Other Curr. Lblts, Total",128,103,46,134,121,TXN
+Total Current Liabilities,"2,258","2,474","2,123","2,390","2,569",TXN
+Total Long Term Debt,"3,577","4,319","5,303","6,248","7,241",TXN
+Total Debt,"4,077","5,068","5,803","6,798","7,741",TXN
+Deferred Income Tax,78,42,78,90,87,TXN
+Pension Benefits - Underfunded,89,118,93,131,79,TXN
+Other LT Liabilities,"1,303","1,190","1,514","1,305","1,367",TXN
+"Other Liabilities, Total","1,392","1,308","1,607","1,436","1,446",TXN
+Total Liabilities,"7,305","8,143","9,111","10,164","11,343",TXN
+"Pref. Stock-Non Rdmbl, Net",0,0,--,0,--,TXN
+Common Stock,"1,741","1,741","1,741","1,741","1,741",TXN
+Additional Paid-In Capital,"1,776","1,950","2,110","2,333","2,630",TXN
+Ret. Earn.(Accum. Deficit),"34,662","37,906","39,898","42,051","45,919",TXN
+Treasury Stock - Common,"(27,458)","(32,130)","(34,495)","(36,578)","(36,800)",TXN
+Min. Pension Lblty Adj.,(384),(471),(345),(358),(155),TXN
+Other Comprehensive Income,0,(2),(2),(2),(2),TXN
+"Other Equity, Total",(384),(473),(347),(360),(157),TXN
+Total Equity,"10,337","8,994","8,907","9,187","13,333",TXN
+Total Liabilities & Shareholders’ Equity,"17,642","17,137","18,018","19,351","24,676",TXN
+Ttl Comm. Shares Outs.,983,945,932,919,924,TXN
+Trsy. Shrs-Comm. Primary Iss.,758,796,809,821,817,TXN

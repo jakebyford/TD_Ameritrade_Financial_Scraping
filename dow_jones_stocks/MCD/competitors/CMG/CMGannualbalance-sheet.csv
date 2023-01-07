@@ -1,0 +1,48 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,185,250,481,608,815,CMG
+Short Term Investments,324,427,400,344,261,CMG
+Cash and Short Term Invs,509,677,881,952,"1,076",CMG
+"Trade Accts Recvble, Gross",40,--,81,106,--,CMG
+Prov. for Doubtful Accts,0,--,0,(2),--,CMG
+"Trade Accts Recvble, Net",40,62,81,105,100,CMG
+Other Receivables,9,0,28,283,94,CMG
+"Total Receivables, Net",50,62,108,387,194,CMG
+Total Inventory,20,22,26,26,33,CMG
+Prepaid Expenses,51,54,57,55,79,CMG
+Total Current Assets,630,815,"1,072","1,420","1,382",CMG
+Buildings,"1,677","1,690","1,765","1,921","2,094",CMG
+Land/Improvements,13,13,13,13,13,CMG
+Machinery/Equipment,460,544,654,755,868,CMG
+Construction in Progress,--,43,45,76,107,CMG
+Other Prop./Plant/Equip.,167,173,"2,688","2,966","3,341",CMG
+Prop./Plant/Equip. - Gross,"2,317","2,463","5,166","5,731","6,424",CMG
+Accumulated Depreciation,(979),"(1,084)","(1,201)","(1,380)","(1,536)",CMG
+Prop./Plant/Equip. - Net,"1,338","1,379","3,964","4,351","4,888",CMG
+"Goodwill, Net",22,22,22,22,22,CMG
+LT Invt. - Affiliate Comp.,--,--,--,10,9,CMG
+LT Investments - Other,0,--,--,102,274,CMG
+Long Term Investments,0,--,--,112,284,CMG
+Other Long Term Assets,56,19,18,50,47,CMG
+Total Assets,"2,046","2,266","5,105","5,983","6,653",CMG
+Accounts Payable,82,113,116,122,163,CMG
+Accrued Expenses,242,261,456,572,554,CMG
+Notes Payable/ST Debt,0,0,0,0,0,CMG
+Customer Advances,--,70,95,128,156,CMG
+Income Taxes Payable,--,5,0,--,--,CMG
+"Other Curr. Lblts, Total",--,76,95,128,156,CMG
+Total Current Liabilities,324,450,667,822,874,CMG
+Total Long Term Debt,0,0,0,0,0,CMG
+Total Debt,0,0,0,0,0,CMG
+Deferred Income Tax,1,12,38,149,142,CMG
+"Other Liabilities, Total",357,363,"2,717","2,991","3,340",CMG
+Total Liabilities,681,824,"3,422","3,963","4,356",CMG
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,--,CMG
+Common Stock,0,0,0,0,0,CMG
+Additional Paid-In Capital,"1,305","1,374","1,466","1,550","1,729",CMG
+Ret. Earn.(Accum. Deficit),"2,397","2,574","2,921","3,276","3,929",CMG
+Treasury Stock - Common,"(2,334)","(2,501)","(2,699)","(2,802)","(3,356)",CMG
+"Other Equity, Total",(4),(6),(5),(4),(5),CMG
+Total Equity,"1,364","1,441","1,683","2,020","2,297",CMG
+Total Liabilities & Shareholders’ Equity,"2,046","2,266","5,105","5,983","6,653",CMG
+Ttl Comm. Shares Outs.,28,28,28,28,28,CMG
+Trsy. Shrs-Comm. Primary Iss.,8,8,9,9,9,CMG

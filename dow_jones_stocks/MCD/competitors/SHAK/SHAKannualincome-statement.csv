@@ -1,0 +1,48 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,359,459,595,523,740,SHAK
+"Cost of Revenue, Total",190,248,329,310,433,SHAK
+Selling/Gen/Admin Expense,76,91,121,118,145,SHAK
+Labor & Related Expense,--,6,8,6,9,SHAK
+Advertising Expense,0,0,1,1,6,SHAK
+"Sell/Gen/AdminExpenses,Tot",77,98,129,125,159,SHAK
+Depreciation/Amortization,22,29,40,49,59,SHAK
+Unusual Expense (Income),1,1,1,10,2,SHAK
+Loss(Gain)/Sale Asts (Oper),1,1,1,3,2,SHAK
+Other Operating Expense,36,52,69,73,103,SHAK
+"Other Operat Expse, Total",36,52,69,73,103,SHAK
+Total Operating Expense,325,428,569,567,756,SHAK
+Total Operating Income,34,32,26,(44),(16),SHAK
+"Inter Expse,Net Non-Operat",(2),(2),0,(1),(2),SHAK
+"Inter Income, Non-Operating",0,0,0,0,--,SHAK
+"Invest Income, Non-Operat",1,1,1,0,0,SHAK
+"Inter/Invest Inc, Non-Oper",1,1,1,0,0,SHAK
+OtherNon-OperatInc (Expnse),127,0,1,(1),0,SHAK
+"Other, Net",127,0,1,(1),0,SHAK
+Income Before Tax,160,31,28,(45),(17),SHAK
+Income Tax - Total,139,9,3,0,(7),SHAK
+Income After Tax,22,22,24,(46),(10),SHAK
+Minority Interest,(9),(7),(4),3,1,SHAK
+Net Inc Before Extra Items,12,15,20,(42),(9),SHAK
+Total Extraordinary Items,(13),0,0,--,--,SHAK
+Total Net Income,0,15,20,(42),(9),SHAK
+Income Available to Common Excl. Extra. Items,12,15,20,(42),(9),SHAK
+Income Available to Common Incl. Extra. Items,0,15,20,(42),(9),SHAK
+Basic/Primary Weighted Average Shares,26,28,31,37,39,SHAK
+Basic/Primary EPS Excl. Extra. Items,0.48,0.54,0.63,(1.14),(0.22),SHAK
+Basic/Primary EPS Incl. Extra. Items,(0.01),0.54,0.63,(1.14),(0.22),SHAK
+Diluted Weighted Average Shares,26,29,32,37,39,SHAK
+Diluted EPS Excl. Extra. Items,0.48,0.52,0.61,(1.14),(0.22),SHAK
+Diluted EPS Incl. Extra. Items,(0.01),0.52,0.61,(1.14),(0.22),SHAK
+Div/Share-ComStockPrimIssue,0.00,--,--,--,--,SHAK
+Gross Divid - Common Stock,0,0,0,0,0,SHAK
+Pro Forma Net Income,--,--,--,--,--,SHAK
+"Interest Expense, Suppl",2,2,0,1,2,SHAK
+"Depreciat/Amort, Suppl",22,29,40,49,59,SHAK
+Total Special Items,1,2,1,11,2,SHAK
+Normalzd Income Before Tax,161,33,29,(35),(15),SHAK
+Efct/SpecItemsIncTxs (STEC),0,1,0,4,1,SHAK
+IncTxsExcl ImpctofSpec Itms,139,10,4,4,(6),SHAK
+Normalized Income After Tax,22,24,25,(39),(9),SHAK
+Normalzd Inc Avail to Common,13,17,21,(35),(7),SHAK
+Basic Normalized EPS,0.50,0.60,0.67,(0.95),(0.18),SHAK
+Diluted Normalized EPS,0.50,0.58,0.65,(0.95),(0.18),SHAK

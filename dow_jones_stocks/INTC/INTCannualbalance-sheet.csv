@@ -1,0 +1,65 @@
+items,2017,2018,2019,2020,2021,ticker
+Cash & Equivalents,"3,433","3,019","4,194","5,865","4,827",INTC
+Short Term Investments,"10,569","8,631","8,929","18,030","24,426",INTC
+Cash and Short Term Invs,"14,002","11,650","13,123","23,895","29,253",INTC
+"Trade Accts Recvble, Gross","5,632","6,755",--,--,--,INTC
+Prov. for Doubtful Accts,(25),(33),--,--,--,INTC
+"Trade Accts Recvble, Net","5,607","6,722","7,659","6,782","9,457",INTC
+Other Receivables,--,--,--,131,--,INTC
+"Total Receivables, Net","5,607","6,722","7,659","6,913","9,457",INTC
+Invent. - Finished Goods,"1,992","1,929","1,679","1,512","2,679",INTC
+Invent. - Work In Progress,"3,893","4,511","6,225","6,007","6,656",INTC
+Invent. - Raw Materials,"1,098",813,840,908,"1,441",INTC
+Total Inventory,"6,983","7,253","8,744","8,427","10,776",INTC
+Discont. Ops.-Curr. Assets,0,--,--,"5,400","6,942",INTC
+Other Current Assets,"2,908","3,162","1,713","2,614","2,130",INTC
+"Other Curr. Assets, Total","2,908","3,162","1,713","8,014","9,072",INTC
+Total Current Assets,"29,500","28,787","31,239","47,249","58,558",INTC
+Land/Improvements,"27,391","30,954","37,743","37,536",--,INTC
+Machinery/Equipment,"57,192","66,721","74,901","79,384",--,INTC
+Construction in Progress,"15,812","16,643","16,063","17,309",--,INTC
+Other Prop./Plant/Equip.,--,--,628,604,"148,539",INTC
+Prop./Plant/Equip. - Gross,"100,395","114,318","129,335","134,833","148,539",INTC
+Accumulated Depreciation,"(59,286)","(65,342)","(73,321)","(77,645)","(85,294)",INTC
+Prop./Plant/Equip. - Net,"41,109","48,976","56,014","57,188","63,245",INTC
+"Goodwill, Net","24,389","24,513","26,276","26,971","26,963",INTC
+Intangibles - Gross,"16,379","16,790","16,791","16,389",--,INTC
+Accum. Intangible Amort.,"(3,634)","(4,954)","(5,964)","(7,363)",--,INTC
+Intangibles - Net,"12,745","11,836","10,827","9,026","7,270",INTC
+LT Invt. - Affiliate Comp.,"4,500","6,042","3,967","5,152","6,298",INTC
+LT Investments - Other,"7,904","3,388","3,276","2,192",--,INTC
+Long Term Investments,"12,404","9,430","7,243","7,344","6,298",INTC
+Note Rcvble - Long Term,860,479,554,--,--,INTC
+Deferred Charges,714,"1,507","1,641","1,502",--,INTC
+Def. Inc. Tax - LT Asset,840,"1,122","1,209","1,232",--,INTC
+Other Long Term Assets,688,"1,313","1,521","2,579","6,072",INTC
+Total Assets,"123,249","127,963","136,524","153,091","168,406",INTC
+Accounts Payable,"2,928","3,824","4,128","5,581","5,747",INTC
+Accrued Expenses,"10,304","10,646","14,186","15,403","17,124",INTC
+Notes Payable/ST Debt,37,500,0,0,0,INTC
+Curr. Port. LT Dbt/Cap Ls.,"1,739",761,"3,693","2,504","4,591",INTC
+Customer Advances,"1,656",0,--,508,--,INTC
+Income Taxes Payable,--,--,--,756,--,INTC
+Discontinued Operations,0,--,--,--,--,INTC
+Other Current Liabilities,757,895,303,2,--,INTC
+"Other Curr. Lblts, Total","2,413",895,303,"1,266",--,INTC
+Total Current Liabilities,"17,421","16,626","22,310","24,754","27,462",INTC
+Total Long Term Debt,"25,037","25,098","25,308","33,897","33,510",INTC
+Total Debt,"26,813","26,359","29,001","36,401","38,101",INTC
+Deferred Income Tax,"3,046","1,665","2,044","3,843","2,667",INTC
+"Other Liabilities, Total","7,860","9,592","9,203","9,559","9,376",INTC
+Total Liabilities,"53,364","52,981","58,865","72,053","73,015",INTC
+"Pref. Stock-Non Rdmbl, Net",0,0,0,0,--,INTC
+Common Stock,"26,074","25,365",4,4,4,INTC
+Additional Paid-In Capital,--,--,"25,257","25,552","28,002",INTC
+Ret. Earn.(Accum. Deficit),"42,083","50,172","53,523","56,233","68,265",INTC
+Unrealized Gain (Loss),"1,728",0,0,731,--,INTC
+Cum. Trans. Adjustment,(9),(33),48,83,23,INTC
+Other Equity,866,419,155,0,--,INTC
+Min. Pension Lblty Adj.,(963),(818),"(1,382)","(1,565)","(1,114)",INTC
+Other Comprehensive Income,106,(123),54,--,211,INTC
+"Other Equity, Total",0,(555),"(1,125)","(1,482)",(880),INTC
+Total Equity,"69,885","74,982","77,659","81,038","95,391",INTC
+Total Liabilities & Shareholders’ Equity,"123,249","127,963","136,524","153,091","168,406",INTC
+Ttl Comm. Shares Outs.,"4,687","4,516","4,290","4,062","4,070",INTC
+Trsy. Shrs-Comm. Primary Iss.,0,0,0,0,0,INTC

@@ -1,0 +1,47 @@
+items,2017,2018,2019,2020,2021,ticker
+Total Revenue,"1,495","1,801","2,163","2,594","3,342",FTNT
+"Cost of Revenue, Total",385,450,506,570,783,FTNT
+Selling/Gen/Admin Expense,695,761,906,"1,060","1,352",FTNT
+Labor & Related Expense,94,114,123,132,137,FTNT
+"Sell/Gen/AdminExpenses,Tot",789,875,"1,029","1,191","1,489",FTNT
+Research & Development,211,245,277,341,424,FTNT
+Restructuring Charge,0,0,--,--,--,FTNT
+Impair-Assets Held for Sale,--,--,4,4,--,FTNT
+Unusual Expense (Income),0,0,4,(36),(5),FTNT
+Loss(Gain)/Sale Asts (Oper),--,--,--,(40),(5),FTNT
+Total Operating Expense,"1,385","1,570","1,816","2,067","2,692",FTNT
+Total Operating Income,110,231,347,528,650,FTNT
+"Inter Expse,Net Non-Operat",--,--,--,--,(15),FTNT
+"Inter Income, Non-Operating",13,27,43,18,5,FTNT
+"Invest Income, Non-Operat",--,2,(5),(6),(8),FTNT
+"Inter/Invest Inc, Non-Oper",13,29,38,12,(4),FTNT
+OtherNon-OperatInc (Expnse),1,(9),1,2,(3),FTNT
+"Other, Net",1,(9),1,2,(3),FTNT
+Income Before Tax,124,251,386,542,628,FTNT
+Income Tax - Total,29,(114),56,53,14,FTNT
+Income After Tax,94,365,330,489,614,FTNT
+Minority Interest,--,--,--,--,0,FTNT
+Equity In Affiliates,--,--,--,--,(8),FTNT
+Net Inc Before Extra Items,94,365,330,489,607,FTNT
+Total Extraordinary Items,(63),(33),2,--,--,FTNT
+Total Net Income,31,332,332,489,607,FTNT
+Income Available to Common Excl. Extra. Items,94,365,330,489,607,FTNT
+Income Available to Common Incl. Extra. Items,31,332,332,489,607,FTNT
+Basic/Primary Weighted Average Shares,872,846,855,821,816,FTNT
+Basic/Primary EPS Excl. Extra. Items,0.11,0.43,0.39,0.60,0.74,FTNT
+Basic/Primary EPS Incl. Extra. Items,0.04,0.39,0.39,0.60,0.74,FTNT
+Diluted Weighted Average Shares,890,871,875,839,836,FTNT
+Diluted EPS Excl. Extra. Items,0.11,0.42,0.38,0.58,0.73,FTNT
+Diluted EPS Incl. Extra. Items,0.04,0.38,0.38,0.58,0.73,FTNT
+Gross Divid - Common Stock,0,0,0,0,0,FTNT
+Pro Forma Net Income,--,--,--,--,--,FTNT
+"Interest Expense, Suppl",--,--,--,--,15,FTNT
+"Depreciat/Amort, Suppl",47,47,51,56,66,FTNT
+Total Special Items,0,0,4,(36),(5),FTNT
+Normalzd Income Before Tax,124,251,390,506,624,FTNT
+Efct/SpecItemsIncTxs (STEC),0,0,1,(4),0,FTNT
+IncTxsExcl ImpctofSpec Itms,30,(114),57,50,14,FTNT
+Normalized Income After Tax,95,365,333,456,610,FTNT
+Normalzd Inc Avail to Common,95,365,333,456,602,FTNT
+Basic Normalized EPS,0.11,0.43,0.39,0.56,0.74,FTNT
+Diluted Normalized EPS,0.11,0.42,0.38,0.54,0.72,FTNT

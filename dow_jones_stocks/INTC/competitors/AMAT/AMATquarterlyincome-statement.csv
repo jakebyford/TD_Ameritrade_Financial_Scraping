@@ -1,0 +1,44 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Total Revenue,"6,271","6,245","6,520","6,749",AMAT
+"Cost of Revenue, Total","3,312","3,318","3,514","3,648",AMAT
+Selling/Gen/Admin Expense,297,316,347,350,AMAT
+Labor & Related Expense,33,28,26,28,AMAT
+"Sell/Gen/AdminExpenses,Tot",330,344,373,378,AMAT
+Research & Development,654,686,705,726,AMAT
+Depreciation/Amortization,3,3,4,3,AMAT
+Restructuring Charge,(4),0,0,0,AMAT
+Other Unusual Expnse (In),--,0,0,0,AMAT
+Unusual Expense (Income),(4),0,0,0,AMAT
+Total Operating Expense,"4,295","4,351","4,596","4,755",AMAT
+Total Operating Income,"1,976","1,894","1,924","1,994",AMAT
+"Inter Expse,Net Non-Operat",(57),(58),(56),(57),AMAT
+"Inter Income, Non-Operating",3,--,10,21,AMAT
+"Invest Income, Non-Operat",3,30,(17),(9),AMAT
+"Inter/Invest Inc, Non-Oper",6,30,(7),12,AMAT
+"Inter Inc(Exp),Net Non-Oper",--,(2),--,--,AMAT
+Income Before Tax,"1,925","1,864","1,861","1,949",AMAT
+Income Tax - Total,133,328,255,358,AMAT
+Income After Tax,"1,792","1,536","1,606","1,591",AMAT
+Net Inc Before Extra Items,"1,792","1,536","1,606","1,591",AMAT
+Total Net Income,"1,792","1,536","1,606","1,591",AMAT
+Income Available to Common Excl. Extra. Items,"1,792","1,536","1,606","1,591",AMAT
+Income Available to Common Incl. Extra. Items,"1,792","1,536","1,606","1,591",AMAT
+Basic/Primary Weighted Average Shares,889,878,864,853,AMAT
+Basic/Primary EPS Excl. Extra. Items,2.02,1.75,1.86,1.87,AMAT
+Basic/Primary EPS Incl. Extra. Items,2.02,1.75,1.86,1.87,AMAT
+Diluted Weighted Average Shares,897,883,869,859,AMAT
+Diluted EPS Excl. Extra. Items,2.00,1.74,1.85,1.85,AMAT
+Diluted EPS Incl. Extra. Items,2.00,1.74,1.85,1.85,AMAT
+Div/Share-ComStockPrimIssue,0.24,0.24,0.00,0.26,AMAT
+Gross Divid - Common Stock,211,226,200,242,AMAT
+Pro Forma Net Income,--,--,--,--,AMAT
+"Interest Expense, Suppl",57,58,56,57,AMAT
+"Depreciat/Amort, Suppl",92,102,97,113,AMAT
+Total Special Items,9,22,22,16,AMAT
+Normalzd Income Before Tax,"1,934","1,886","1,883","1,965",AMAT
+Efct/SpecItemsIncTxs (STEC),1,4,3,3,AMAT
+IncTxsExcl ImpctofSpec Itms,134,332,258,361,AMAT
+Normalized Income After Tax,"1,800","1,554","1,625","1,604",AMAT
+Normalzd Inc Avail to Common,"1,800","1,554","1,625","1,604",AMAT
+Basic Normalized EPS,2.03,1.77,1.88,1.88,AMAT
+Diluted Normalized EPS,2.01,1.76,1.87,1.87,AMAT

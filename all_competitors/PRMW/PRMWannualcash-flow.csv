@@ -1,0 +1,47 @@
+items,2017,2018,2019,2021,2022,ticker
+Net Income,7,384,3,(132),(3),PRMW
+Depreciation/Depletion,189,172,169,202,219,PRMW
+Deferred Taxes,--,(13),(1),0,4,PRMW
+Discontinued Operations,92,(418),28,(43),(2),PRMW
+Unusual Items,8,(4),14,145,33,PRMW
+Other Non-Cash Items,16,20,13,24,28,PRMW
+Non-Cash Items,117,(402),54,127,59,PRMW
+"Cash Taxes Pd, Supplemental",2,9,7,8,8,PRMW
+"Cash Interest Pd, Suppl",82,69,75,87,71,PRMW
+Accounts Receivable,(8),(11),14,14,(33),PRMW
+Inventories,(2),0,(5),1,(11),PRMW
+Prepaid Expenses,1,(1),4,2,(5),PRMW
+Other Assets,2,(1),2,(4),0,PRMW
+Payable/Accrued,(27),19,8,(35),26,PRMW
+Changes in Working Capital,(34),6,22,(21),(22),PRMW
+Total Cash from Operations,279,147,247,176,257,PRMW
+Purchase of Fixed Assets,(121),(115),(101),(114),(152),PRMW
+Purchase/Acq of Intangibles,(6),(13),(9),(9),(10),PRMW
+Capital Expenditures,(127),(128),(110),(123),(162),PRMW
+Acquisition of Business,(36),(164),(55),(446),(91),PRMW
+Sale of Business,8,13,51,0,7,PRMW
+Sale of Fixed Assets,--,3,2,2,2,PRMW
+Sale/Maturity of Investment,--,8,0,0,--,PRMW
+Other Investing Cash Flow,(44),"1,211",(36),390,2,PRMW
+"OtherInvestCashFlowItms,Tot",(71),"1,071",(38),(55),(79),PRMW
+Total Cash from Investing,(198),943,(148),(178),(241),PRMW
+Financing Cash Flow Items,(654),(771),(9),(8),(11),PRMW
+Total Cash Dividends Paid,(33),(33),(33),(40),(39),PRMW
+Sale/Issuance of Common,4,6,1,3,26,PRMW
+Repurch/Retirement Common,(4),(75),(32),(33),(48),PRMW
+"Common Stock, Net",0,(69),(31),(30),(23),PRMW
+"Preferred Stock, Net",0,--,--,--,--,PRMW
+"Iss (Retirmnt) of Stock,Net",0,(69),(31),(30),(23),PRMW
+Short Term Debt Issued,--,98,75,348,134,PRMW
+Short Term Debt Reduction,--,(17),(64),(335),(28),PRMW
+"Short Term Debt, Net",--,81,11,13,106,PRMW
+Long Term Debt Issued,750,3,0,534,750,PRMW
+Long Term Debt Reduction,(109),(277),(5),(560),(785),PRMW
+"Long Term Debt, Net",641,(274),(5),(27),(35),PRMW
+"Iss (Retirmnt) of Debt, Net",641,(193),6,(14),72,PRMW
+Total Cash From Financing,(47),"(1,066)",(66),(91),(1),PRMW
+Foreign Exchange Effects,6,(10),2,3,(2),PRMW
+Net Change in Cash,40,13,35,(90),13,PRMW
+NetCash-BeginBal/RsvdforFutUse,118,158,171,206,115,PRMW
+NetCash-EndBal/RsrvforFutUse,158,171,206,115,128,PRMW
+"Depreciation, Supplemental",189,172,169,202,219,PRMW

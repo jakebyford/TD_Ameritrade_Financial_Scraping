@@ -1,0 +1,50 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Total Revenue,"33,901","33,756","32,597","32,449",WBA
+"Cost of Revenue, Total","26,326","26,047","26,025","26,038",WBA
+"Sell/Gen/AdminExpenses,Tot","6,204","6,599","6,235","6,339",WBA
+"Inter/Invest Inc, Operating",(100),(103),(127),(88),WBA
+Restructuring Charge,203,70,185,305,WBA
+Litigation,--,0,734,34,WBA
+Impair-Assets Held for Use,--,--,--,783,WBA
+Impair-Assets Held for Sale,--,190,0,0,WBA
+Other Unusual Expnse (In),71,82,(377),(78),WBA
+Unusual Expense (Income),187,194,367,835,WBA
+Loss(Gain)/Sale Asts (Oper),(87),(148),(175),(209),WBA
+Other Operating Expense,1,1,--,1,WBA
+"Other Operat Expse, Total",1,1,--,1,WBA
+Total Operating Expense,"32,618","32,738","32,500","33,125",WBA
+Total Operating Income,"1,283","1,018",97,(676),WBA
+"Inter Expse,Net Non-Operat",(86),(100),(104),(113),WBA
+"Inter/Invest Inc, Non-Oper","2,575",0,0,2,WBA
+OtherNon-OperatInc (Expnse),42,29,(11),29,WBA
+"Other, Net",42,29,(11),29,WBA
+Income Before Tax,"3,814",947,(18),(758),WBA
+Income Tax - Total,275,172,(242),(235),WBA
+Income After Tax,"3,539",775,224,(523),WBA
+Minority Interest,48,78,60,85,WBA
+Equity In Affiliates,(7),31,5,21,WBA
+Net Inc Before Extra Items,"3,580",884,289,(417),WBA
+Total Extraordinary Items,0,0,0,0,WBA
+Total Net Income,"3,580",884,289,(417),WBA
+Total Adjust to Net Income,0,(1),--,2,WBA
+Income Available to Common Excl. Extra. Items,"3,580",883,289,(415),WBA
+Income Available to Common Incl. Extra. Items,"3,580",883,289,(415),WBA
+Basic/Primary Weighted Average Shares,866,864,864,865,WBA
+Basic/Primary EPS Excl. Extra. Items,4.13,1.02,0.33,(0.48),WBA
+Basic/Primary EPS Incl. Extra. Items,4.13,1.02,0.33,(0.48),WBA
+Diluted Weighted Average Shares,868,865,865,865,WBA
+Diluted EPS Excl. Extra. Items,4.13,1.02,0.33,(0.48),WBA
+Diluted EPS Incl. Extra. Items,4.13,1.02,0.33,(0.48),WBA
+Div/Share-ComStockPrimIssue,0.48,0.48,0.48,0.48,WBA
+Gross Divid - Common Stock,405,423,413,416,WBA
+Pro Forma Net Income,--,--,--,--,WBA
+"Interest Expense, Suppl",86,100,104,113,WBA
+"Depreciat/Amort, Suppl",335,349,331,386,WBA
+Total Special Items,187,194,367,835,WBA
+Normalzd Income Before Tax,"4,001","1,141",349,77,WBA
+Efct/SpecItemsIncTxs (STEC),13,35,128,292,WBA
+IncTxsExcl ImpctofSpec Itms,288,207,(114),57,WBA
+Normalized Income After Tax,"3,713",934,463,20,WBA
+Normalzd Inc Avail to Common,"3,754","1,042",528,128,WBA
+Basic Normalized EPS,4.34,1.21,0.61,0.15,WBA
+Diluted Normalized EPS,4.33,1.20,0.61,0.15,WBA

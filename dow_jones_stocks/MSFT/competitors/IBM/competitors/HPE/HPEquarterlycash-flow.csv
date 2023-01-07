@@ -1,0 +1,37 @@
+items,Q1 2022,Q2 2022,Q3 2022,Q4 2022,ticker
+Net Income,513,763,"1,172",868,HPE
+Depreciation/Depletion,621,"1,242","1,862","2,480",HPE
+Deferred Taxes,37,(54),(61),(249),HPE
+Unusual Items,37,68,102,"1,119",HPE
+Equity in Net Earnings/Loss,(31),(64),(132),(215),HPE
+Other Non-Cash Items,147,409,537,963,HPE
+Non-Cash Items,153,413,507,"1,867",HPE
+Accounts Receivable,724,"1,287","1,130",508,HPE
+Inventories,(834),(861),"(1,100)",(713),HPE
+Accounts Payable,(438),"(1,323)",(171),"1,707",HPE
+Changes in Working Capital,"(1,400)","(2,061)","(1,923)",(373),HPE
+Total Cash from Operations,(76),303,"1,557","4,593",HPE
+Capital Expenditures,(624),"(1,349)","(2,122)","(3,122)",HPE
+Acquisition of Business,--,0,0,0,HPE
+Sale of Fixed Assets,123,258,364,602,HPE
+Sale/Maturity of Investment,44,72,254,262,HPE
+Purchase of Investments,(21),(40),(54),(55),HPE
+Other Investing Cash Flow,143,232,334,226,HPE
+"OtherInvestCashFlowItms,Tot",289,522,898,"1,035",HPE
+Total Cash from Investing,(335),(827),"(1,224)","(2,087)",HPE
+Financing Cash Flow Items,0,0,0,(14),HPE
+Total Cash Dividends Paid,(155),(311),(467),(621),HPE
+"Common Stock, Net",(129),(187),(384),(512),HPE
+Options Exercised,(57),(60),(46),(53),HPE
+"Iss (Retirmnt) of Stock,Net",(186),(247),(430),(565),HPE
+"Short Term Debt, Net",53,56,114,100,HPE
+Long Term Debt Issued,"1,276","1,582","2,508","3,296",HPE
+Long Term Debt Reduction,(633),"(1,340)","(1,941)","(3,992)",HPE
+"Long Term Debt, Net",643,242,567,(696),HPE
+"Iss (Retirmnt) of Debt, Net",696,298,681,(596),HPE
+Total Cash From Financing,355,(260),(216),"(1,796)",HPE
+Foreign Exchange Effects,--,--,--,(279),HPE
+Net Change in Cash,(56),(784),117,431,HPE
+NetCash-BeginBal/RsvdforFutUse,"4,332","4,332","4,332","4,332",HPE
+NetCash-EndBal/RsrvforFutUse,"4,276","3,548","4,449","4,763",HPE
+"Depreciation, Supplemental",621,"1,242","1,862","2,480",HPE

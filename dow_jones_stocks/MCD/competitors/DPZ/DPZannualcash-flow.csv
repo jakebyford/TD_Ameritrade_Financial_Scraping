@@ -1,0 +1,36 @@
+items,2017,2018,2019,2021,2022,ticker
+Net Income,278,362,401,491,510,DPZ
+Depreciation/Depletion,44,54,60,65,73,DPZ
+Deferred Taxes,6,(1),(3),14,2,DPZ
+Unusual Items,(3),(5),2,3,(36),DPZ
+Other Non-Cash Items,4,8,0,(28),18,DPZ
+Non-Cash Items,1,3,2,(26),(18),DPZ
+"Cash Taxes Pd, Supplemental",123,72,80,60,106,DPZ
+"Cash Interest Pd, Suppl",107,133,142,161,175,DPZ
+Accounts Receivable,(23),(18),(21),(33),(8),DPZ
+Other Assets,2,(12),(7),(25),(9),DPZ
+Payable/Accrued,22,10,66,69,51,DPZ
+Changes in Working Capital,12,(24),37,48,86,DPZ
+Total Cash from Operations,341,394,497,593,654,DPZ
+Capital Expenditures,(90),(120),(86),(89),(94),DPZ
+Acquisition of Business,--,--,(3),0,0,DPZ
+Sale of Fixed Assets,7,8,12,0,0,DPZ
+Sale/Maturity of Investment,0,94,50,0,0,DPZ
+Purchase of Investments,0,(70),--,(40),(49),DPZ
+Other Investing Cash Flow,(1),(1),(1),0,1,DPZ
+"OtherInvestCashFlowItms,Tot",6,32,58,(40),(49),DPZ
+Total Cash from Investing,(84),(88),(28),(129),(143),DPZ
+Financing Cash Flow Items,(27),(15),(14),(7),(22),DPZ
+Total Cash Dividends Paid,(84),(92),(106),(122),(139),DPZ
+"Common Stock, Net","(1,064)",(591),(699),(305),"(1,321)",DPZ
+Options Exercised,6,10,13,31,20,DPZ
+"Iss (Retirmnt) of Stock,Net","(1,058)",(581),(686),(274),"(1,301)",DPZ
+Long Term Debt Issued,"1,900",970,675,158,"1,850",DPZ
+Long Term Debt Reduction,(928),(604),(92),(202),(910),DPZ
+"Iss (Retirmnt) of Debt, Net",972,366,583,(44),940,DPZ
+Total Cash From Financing,(197),(323),(223),(446),(523),DPZ
+Foreign Exchange Effects,0,(1),0,1,0,DPZ
+Net Change in Cash,60,(17),247,18,(12),DPZ
+NetCash-BeginBal/RsvdforFutUse,194,255,237,484,502,DPZ
+NetCash-EndBal/RsrvforFutUse,255,237,484,502,490,DPZ
+"Depreciation, Supplemental",44,54,60,65,73,DPZ
