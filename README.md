@@ -31,7 +31,11 @@ Features being implemented in the future:
 
 ## ✨ Demo
 
+Below we can see the automation of the program switching between the reports and their annual/quarterly data.
+
 ## ![](images/td_ameritrade_scrape.gif) <br />
+
+Below we can see the program automatically creating a directory for Apple's stock and also creating a CSV for the respective report.
 
 ## ![](images/demo_aapl.gif)
 
@@ -39,8 +43,8 @@ Features being implemented in the future:
 
 ## System Requirements
 
-Python Version 3.9.7
-VS Code (or any text editor that runs Python)
+- Python Version 3.9.7
+- VS Code (or any text editor that runs Python)
 
 ## Installation
 
@@ -85,13 +89,13 @@ To see the step by step process of the data collection with this app you must de
 
 ## References
 
-https://www.tdameritrade.com/
-https://www.wsj.com/
-https://beautiful-soup-4.readthedocs.io/en/latest/#parsing-only-part-of-a-document
-https://www.selenium.dev/documentation/
-https://stackoverflow.com/
-https://stockmarketmba.com/stocksinthedjia.php
-https://www.slickcharts.com/dowjones
+https://www.tdameritrade.com/ <br />
+https://www.wsj.com/ <br />
+https://beautiful-soup-4.readthedocs.io/en/latest/#parsing-only-part-of-a-document <br />
+https://www.selenium.dev/documentation/ <br />
+https://stackoverflow.com/ <br />
+https://stockmarketmba.com/stocksinthedjia.php <br />
+https://www.slickcharts.com/dowjones <br />
 
 ## 📝 License
 
